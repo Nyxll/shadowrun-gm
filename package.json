@@ -9,7 +9,11 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/run-all-tests.js",
+    "test:dice": "node tests/test-dice-rolling.js",
+    "test:gear": "node tests/test-gear-operations.js",
+    "test:character": "node test-character-management.js",
+    "test:query": "node test-query-classification.js"
   },
   "keywords": [
     "mcp",
@@ -21,7 +25,9 @@
   "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.19.1",
+    "axios": "^1.7.9",
     "dotenv": "^17.2.3",
+    "openai": "^4.77.3",
     "pg": "^8.16.3"
   }
 }

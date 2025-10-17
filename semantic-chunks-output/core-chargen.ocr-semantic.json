@@ -1,0 +1,411 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# CHARACTER GENERATION",
+    "category": "character_creation",
+    "subcategory": "character_generation",
+    "tags": [
+      "character_generation",
+      "rules",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "Orks are people too, don't ya know? And if you ever forget again, I'll snap yer neck like a twig. -John Wetland, ork",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "ork_identity",
+      "rights",
+      "metahumanity",
+      "quote",
+      "characterization"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 1,
+    "concept": "Quote emphasizing ork identity and rights",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "Since the Awakening, five major subspecies of *Homo sapiens* have appeared throughout the world. They are evenly distributed geographically, racially, and ethnically, though variants do appear.",
+    "category": "lore",
+    "subcategory": "metahuman_subspecies",
+    "tags": [
+      "metahumanity",
+      "subspecies",
+      "awakening",
+      "homo_sapiens",
+      "lore"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 2,
+    "concept": "Introduction to the five major subspecies of metahumans",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "The following information is available courtesy of *Studies in Awakened Biology*, by Doctors Eileen Van Buren and Peter Carmine, published in 2048 by Modern Information Services, Atlanta (CAS). The biases are the authors' own, in particular, their view of *Homo sapiens* more as interesting creatures than sentient beings. The authors also tend to view personal or cultural traits as genetic predispositions.",
+    "category": "lore",
+    "subcategory": "metahumans",
+    "tags": [
+      "metahumanity",
+      "awakened_biology",
+      "cultural_traits",
+      "genetic_biases"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 3,
+    "concept": "Source and biases of the information on metahumans",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "Elves and dwarfs are nearly always born to parents of the same race. Elves beget elves, dwarfs beget dwarfs, and so on. In the instances of attempts at natural crossbreeding the child is always of the same race as either the elf or dwarf parent. There appears to be an almost exact 50 percent chance of either expression. No true half-breeds or crossbreeds are known to exist. By 2050 dual human parentage almost never results in elf or dwarf offspring.",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "elves",
+      "dwarfs",
+      "reproductive_patterns",
+      "metahumanity",
+      "crossbreeding"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 4,
+    "concept": "Reproductive patterns of elves and dwarfs",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "The same holds true for orks and trolls, who are nearly always born to parents of the same race. Unlike the early days of goblinization, it is now rare for a human child (dual human parentage) to express into ork or troll form, but it does occur. Crossbreed attempts between the elf/dwarf group and the ork/troll group nearly always result in a goblinized expression.",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "metahumanity",
+      "orks",
+      "trolls",
+      "goblinization",
+      "reproductive_patterns"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 5,
+    "concept": "Reproductive patterns of orks and trolls",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "### DWARF\n***Homo sapiens pumilionis***\n\n* **Identification**: The average dwarf is 1.2 meters tall and weighs 54 kilograms. His coloration is usually pinkish-white or light tan, but may be as dark as ebony. Female dwarfs have 2 mammae, and all dwarfs have 32 teeth. Dwarf legs are disproportionately short, making them poor runners. Their torsos are wide, with great breadth at the shoulders, endowing the subspecies with increased arm strength. Their body hair is well-developed and head hair profuse; males have extensive facial hair. The dwarf nose tends to be large and long, and the ears slightly pointed.",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "dwarf",
+      "metahumanity",
+      "physical_characteristics",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 6,
+    "concept": "Physical characteristics of dwarfs",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "* **Habitat**: This subspecies prefers artificial or natural caverns in wilderness areas. In urban environments, dwarfs show a preference for dwelling in basements or subbasements.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "dwarfs",
+      "habitat",
+      "urban_environments",
+      "caverns",
+      "preferences"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 7,
+    "concept": "Habitat preferences of dwarfs",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "* **Habits**: Dwarfs may be active by day or night. Their diet is omnivorous. Populations form small family groups, and though they show isolationist tendencies, small enclaves are found in communities all over the world. Their life span is unverified, but predictions based on metabolic rates run to more than a hundred years. Their breeding season is unrestricted. The gestation period is 284 days.\n\n* **Young**: One. Birth weight is 5.6 percent of mother's weight. Suckling time is more than 15 months.",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "dwarfs",
+      "behavioral_habits",
+      "reproductive_details",
+      "lifestyle"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 8,
+    "concept": "Behavioral habits and reproductive details of dwarfs",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "* **Commentary**: With eyes sensitive to the infrared spectrum, a dwarf's activity is as unrestricted underground as above. Dwarf phenotypes also show an increased resistance to pathogens.",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "dwarf",
+      "physiology",
+      "abilities",
+      "infrared_vision",
+      "pathogen_resistance"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 9,
+    "concept": "Additional commentary on dwarf physiology and abilities",
+    "dependencies": []
+  },
+  {
+    "title": "METAHUMANITY",
+    "content": "### ELF\n***Homo sapiens nobilis***\n\n* **Identification**: The height of the typical elf is 1.9 meters, and his weight is 72 kilograms. Coloration is pale pink to white or ebony. The females have 2 mammae, and all elves have 32 teeth. *Nobilis* is more slender than *sapiens* and has a lighter build, though the bone structure and musculature are equally strong. The slenderness is exaggerated in nobilis of Polynesian and Australian aboriginal origin. Elven body hair is sparse, but head hair is usually luxuriant and extremely fine. Elven hair is usually straight or slightly wavy, and is almost always worn long. There are also several populations showing tightly curled head hair, however. The eyes are almond shaped; in darker-skinned *nobilis* they are often slightly protuberant. The ears come to a definite point.\n\n* **Habitat**: In urban areas, elves inhabit standard human structures. In wilderness areas, they prefer to live in structures built o...",
+    "category": "lore",
+    "subcategory": "metahumanity",
+    "tags": [
+      "elves",
+      "physical_characteristics",
+      "metahumanity",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 10,
+    "concept": "Physical characteristics of elves",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "A character in Shadowrun is much like a character in a novel or film, except that the player controls his or her actions. Composed of a collection of attributes and skills, the character has the personality that the player injects into it. Without that personality, the character remains an it. Only when fleshed out can a character become minimally he or she, and, with good characterization, someone memorable.",
+    "category": "character_creation",
+    "subcategory": "character_intro",
+    "tags": [
+      "character_creation",
+      "role_playing",
+      "player_control"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 11,
+    "concept": "Introduction to character creation in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "Characters in Shadowrun possess various Physical, Mental, and Magical Attribute and Skill Ratings, and may also use cyberware, spells, gear, and extras. Though these features are important, defining the character in a way that permits the use of the Shadowrun game system to judge his actions, they are still just numbers on a page. Character, chummer, is what you make it.",
+    "category": "character_creation",
+    "subcategory": "attributes_and_skills",
+    "tags": [
+      "character_creation",
+      "attributes",
+      "skills",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 12,
+    "concept": "Overview of character attributes and skills",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "For the most satisfactory results when creating a character, players and gamemasters should first familiarize themselves with the rest of the rules in this book. It's better to have all the facts going in than to regret a decision later.",
+    "category": "character_creation",
+    "subcategory": "character_preparation",
+    "tags": [
+      "character_creation",
+      "gamemaster_advice",
+      "rules_familiarity"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 13,
+    "concept": "Advice for character creation preparation",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "Characters in Shadowrun may be of one of the four subgroups of *Homo sapiens*: the predominant human (*Homo sapiens sapiens*), elf (*Homo sapiens nobilis*), dwarf (*Homo sapiens pumilionis*), ork (*Homo sapiens robustus*), and troll (*Homo sapiens ingentis*). As described on pp. 34-38, all are human beings, at least according to the geneticists. Racists say differently.",
+    "category": "character_creation",
+    "subcategory": "character_races",
+    "tags": [
+      "character_creation",
+      "races",
+      "homo_sapiens",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 14,
+    "concept": "Character races in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "In the early 2050s, humans are still the most numerous race populating the planet. Each of the other races, grouped collectively as **metahumans**, are represented about equally, but are scattered unevenly across the globe. In some places, humans form an extreme minority, but those tend to be areas where metahumans have gathered for safety, protection, and isolation.\n\nHumans make up the standard. As characters, they receive no special attribute or ability modifications.",
+    "category": "character_creation",
+    "subcategory": "demographics",
+    "tags": [
+      "character_creation",
+      "metahumans",
+      "demographics",
+      "races",
+      "2050s"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 15,
+    "concept": "Demographics of races in Shadowrun",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "* **Dwarfs** are hardier (slightly higher Body), less agile (lower Quickness), stronger (higher Strength), and more willful (higher Willpower) than humans. They also have thermographic vision, which allows them to see radiated infrared (heat) energy as well as the normal light spectrum. They are also more resistant to disease. And yes, they are short.",
+    "category": "character_creation",
+    "subcategory": "race_attributes",
+    "tags": [
+      "dwarf",
+      "attributes",
+      "character_creation",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 16,
+    "concept": "Dwarf race attributes and characteristics",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "* **Elves** are more agile (higher Quickness) and more charismatic (higher Charisma) than humans. They also have low-light vision, which enables them to see clearly in near-total darkness.",
+    "category": "character_creation",
+    "subcategory": "race_attributes",
+    "tags": [
+      "elf",
+      "attributes",
+      "character_creation",
+      "low_light_vision"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 17,
+    "concept": "Elf race attributes and characteristics",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "* **Orks** are much tougher (much higher Body), stronger (higher Strength), less charismatic (lower Charisma), and less acute (lower Intelligence) than humans. They too have low-light vision.",
+    "category": "character_creation",
+    "subcategory": "race_attributes",
+    "tags": [
+      "ork",
+      "attributes",
+      "character_creation",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 18,
+    "concept": "Ork race attributes and characteristics",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "* **Trolls** are big and nasty. They are a lot tougher (much higher Body), slower (lower Quickness), much stronger (higher Strength), less charismatic (lower Charisma), less acute (lower Intelligence), and less willful (lower Willpower) than humans. They have thermographic vision, really long arms that give them advantages in melee combat, and extremely tough skin that makes them resistant to damage.",
+    "category": "character_creation",
+    "subcategory": "race_attributes",
+    "tags": [
+      "troll",
+      "race",
+      "attributes",
+      "character_creation",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 19,
+    "concept": "Troll race attributes and characteristics",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "A player does not have to pay extra to create a human character. Players who want to play a metahuman (dwarf, elf, ork, or troll) must pay a little extra for the privilege.",
+    "category": "character_creation",
+    "subcategory": "race_selection",
+    "tags": [
+      "character_creation",
+      "metahuman",
+      "race",
+      "cost",
+      "human"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 20,
+    "concept": "Cost implications of character race selection",
+    "dependencies": [
+      "Character races in Shadowrun"
+    ]
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "In Shadowrun, each character has eight **Attributes**, or nine, if the character is a magician. There are three Physical Attributes, three Mental Attributes, and two (or three) Special Attributes.",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "attributes",
+      "character_creation",
+      "physical_attributes",
+      "mental_attributes",
+      "special_attributes"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 21,
+    "concept": "Overview of character attributes in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING A CHARACTER",
+    "content": "#### ATTRIBUTE TABLE\n\n| Physical Attributes | Mental Attributes | Special Attributes |\n| :--- | :--- | :--- |\n| Body | Intelligence | Essence |\n| Quickness | Willpower | (Magic) |\n| Strength | Charisma | Reaction |\n\n* **Body** represents general health and resistance to injury and pain.\n\n* **Quickness** represents overall dexterity and agility. It also sets movement, walking, and running speeds.\n\n* **Strength** represents the ability to lift, carry, and cause physical damage.",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "attributes",
+      "character_creation",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "core-chargen.ocr.txt",
+    "chunk_index": 22,
+    "concept": "Attribute table for Shadowrun characters",
+    "dependencies": []
+  }
+]

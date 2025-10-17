@@ -1,0 +1,794 @@
+[
+  {
+    "title": "Introduction",
+    "content": "The organization/information service/clearing-house known as **Shadowland** may well be a shadowrunner's most useful 'contact'. In addition to providing a valuable bulletin-board service and a secure, reliable line into the Matrix, Shadowland is host to the Hacker House (see _Virtual Realities 2.0_) and serves as a link to numerous 'private chat rooms' and other specialty boards.",
+    "category": "matrix",
+    "subcategory": "information_services",
+    "tags": [
+      "shadowland",
+      "contacts",
+      "matrix_services",
+      "hacker_house"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to Shadowland as a contact for shadowrunners.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Characters must remember, however, that nothing in Shadowland is private. Unlike metahuman contacts, who may agree to keep a secret and then actually keep their word, once a piece of information appears on Shadowland, it instantly becomes available for public access. A character can hide the plans for a revolutionary new laser technology in Shadowland, but anyone else who finds it can take it. Shadowland is strictly an 'all or nothing' proposition.",
+    "category": "matrix",
+    "subcategory": "information_access",
+    "tags": [
+      "shadowland",
+      "privacy",
+      "information",
+      "accessibility",
+      "public"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 1,
+    "concept": "Privacy limitations and information accessibility in Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Any character with Computer 1 or higher may select Shadowland as a contact during character creation. Shadowland is a Level 1 contact, and characters may not improve its contact level.",
+    "category": "character_creation",
+    "subcategory": "contacts",
+    "tags": [
+      "shadowland",
+      "contacts",
+      "character_requirements",
+      "computer_skills",
+      "level_1"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 2,
+    "concept": "Character requirements for selecting Shadowland as a contact.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "The upkeep cost for Shadowland consists of the time and effort required to learn and maintain the elaborate codes, and the Matrix fees shadowrunners must pay to use this service. As part of their upkeep requirements, characters must also periodically post information to the Shadowland boards and to its databases.",
+    "category": "matrix",
+    "subcategory": "shadowland",
+    "tags": [
+      "upkeep_costs",
+      "matrix_fees",
+      "shadowland",
+      "contact_management"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 3,
+    "concept": "Upkeep costs and requirements for maintaining Shadowland contact.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Any communication in search of information conducted between a character and another individual on Shadowland may be considered a FOF meeting, regardless of form (e-mail, icon-based interaction and so on). When dealing with Shadowland as a contact, the character must do the work needed to find information; unlike other contacts, getting information from Shadowland is not a simple matter of asking a question, paying some nuyen and getting an answer.",
+    "category": "matrix",
+    "subcategory": "information_retrieval",
+    "tags": [
+      "shadowland",
+      "communication",
+      "information",
+      "contacts",
+      "fof_meeting"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 4,
+    "concept": "Nature of communication and information retrieval in Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Think of Shadowland as a combination dorm room and massive private library—a somewhat messy room filled with personalized icons scattered about in a random fashion. All the really good stuff is there, but characters have to wade through a bunch of really weird stuff to get to it.",
+    "category": "matrix",
+    "subcategory": "information_structure",
+    "tags": [
+      "shadowland",
+      "information",
+      "matrix_navigation",
+      "lore"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 5,
+    "concept": "Metaphorical description of Shadowland's information structure.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "The person who created each icon determines the appearance of each file—ranging from the frighteningly realistic Dunkelzahn icon that represents his last will and testament to the 'standard' default Matrix Icon of a document stolen from Ares. Characters must know the right codes and pass several ID checks in order to gain access to Shadowland and to the desired information.",
+    "category": "matrix",
+    "subcategory": "icon_representation",
+    "tags": [
+      "shadowland",
+      "matrix_icons",
+      "access_requirements",
+      "dunkelzahn",
+      "information_retrieval"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 6,
+    "concept": "Icon representation and access requirements in Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Like all contacts, Shadowland protects itself with a well-established security screen. Rather than relying on systems created and manufactured by outside sources, however, Shadowland relies on the skills and talents of some of the best living deckers and programmers to manage its security.",
+    "category": "matrix",
+    "subcategory": "security",
+    "tags": [
+      "shadowland",
+      "security_measures",
+      "deckers",
+      "programmers"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 7,
+    "concept": "Security measures employed by Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "As a concession to the users' safety, characters are identified only by their street name and decker icons—which do not indicate the location of the character's meat body or the motivation of his data search.",
+    "category": "matrix",
+    "subcategory": "user_identification",
+    "tags": [
+      "user_safety",
+      "anonymity",
+      "street_names",
+      "decker_icons"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 8,
+    "concept": "User identification and anonymity in Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Any information search in Shadowland takes 3D6 days to perform from a tortoise deck. This period reflects the time required to go through the millions of datapulses to find what the character is looking for. Gamemasters may reduce or increase the time required depending on the specifics of the search.",
+    "category": "matrix",
+    "subcategory": "information_search",
+    "tags": [
+      "shadowland",
+      "tortoise_deck",
+      "information_search",
+      "time_required"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 9,
+    "concept": "Time required for information searches in Shadowland using a tortoise deck.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "For example, a search for all available information on Damien Knight might take several days, while compiling all the information available on a tattooed razorpunk by the name of Zaz may require only a few minutes.",
+    "category": "matrix",
+    "subcategory": "information_retrieval",
+    "tags": [
+      "search_time",
+      "information_complexity",
+      "shadowland"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 10,
+    "concept": "Example of varying search times based on information complexity in Shadowland.",
+    "dependencies": [
+      "Time required for information searches in Shadowland using a tortoise deck"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "When each search is completed, Shadowland compiles the requested data in a folder known as a sourcebook. Characters who visit Shadowland directly via the Matrix (rather than by using a tortoise) can initiate and complete a search in 2D6 hours.",
+    "category": "matrix",
+    "subcategory": "data_search",
+    "tags": [
+      "shadowland",
+      "matrix_search",
+      "sourcebook",
+      "data_compilation"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 11,
+    "concept": "Completion of searches and sourcebook compilation in Shadowland.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Shadowland also allows characters to use their own search knowbots, as long as those programs are approved by and registered with the Shadowland deckers and programmers—a process that usually takes less than an hour. Knowbot searches take 2D6 hours.",
+    "category": "matrix",
+    "subcategory": "knowbots",
+    "tags": [
+      "knowbots",
+      "shadowland",
+      "search",
+      "registration",
+      "decker"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 12,
+    "concept": "Use of knowbots for searches in Shadowland and their registration process.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "The preceding rules are designed to make playing contacts as much fun for gamemasters as playing characters is for players. But even these rules, including the example of Billy Boy and his use of contacts and FOFs, only scratch the surface of the possibilities such NPCs represent.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "gamemaster",
+      "npc",
+      "roleplaying",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 13,
+    "concept": "Introduction to playing contacts in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Gamemasters can make their contacts fully realized characters by generating biographies and game statistics as complete as those of player characters (using any of the various character-creation systems, including Edges and Flaws where applicable).",
+    "category": "character_creation",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "gamemaster",
+      "character_biography",
+      "game_statistics",
+      "edges_and_flaws"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 14,
+    "concept": "Creating detailed contacts for gameplay.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "When contacts and their contacts become more well-rounded people, gamemasters can find multiple uses for these characters: as instructors, Enemies (see p. 71), competitors, dupes, moles, traitors, secret agents, godparents—and any of these roles can provide the starting point for an adventure or a campaign.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "adventure_roles",
+      "gamemaster_tools",
+      "character_development"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 15,
+    "concept": "Utilizing contacts in various roles for adventures.",
+    "dependencies": [
+      "Creating detailed contacts for gameplay."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "As a twist on the usual role of contacts in a game, some contacts may seek out the player characters in search of information (game mechanics for these occurrences are provided in Favor for a Friend, below).",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "information",
+      "favor_for_a_friend"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 16,
+    "concept": "Contacts seeking information from player characters.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "In some circumstances, contacts may compete with player characters to obtain data or resources, a situation that can quickly develop into bidding and information wars as contacts play the characters off other NPCs or manipulate events to their own advantage.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "competition",
+      "resources",
+      "npcs",
+      "manipulation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 17,
+    "concept": "Contacts competing with players for resources.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Other contacts may be pressured by outside individuals, groups, or other mysterious forces to not cooperate with player characters or even mislead them.\n\nContacts also may be less than cooperative for their own reasons (game mechanics for such circumstances appear in Spilling the Beans, p. 69).\n\nStill other contacts can serve as ordinary 'men on the street'—sources of rumors, misinformation, and apparently useless information.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "misleading_information",
+      "game_mechanics",
+      "role_playing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 18,
+    "concept": "Contacts being influenced to mislead players.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "A casual contact who tells the runners what they want to know and then goes on to chat about recent weird happenings, an obscure news item, a disturbing, recurring dream, a problem his wife is having at work, or a general decline in the quality of the soyshakes at his local Stuffer Shack provides an excellent method of introducing clues about future events into the campaign world without restricting the player characters' desire to control their own destinies.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "casual_contacts",
+      "clues",
+      "campaign_world",
+      "player_agency",
+      "narrative"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 19,
+    "concept": "Using casual contacts to introduce clues.",
+    "dependencies": [
+      "Contacts as casual informants."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Finally, by providing contacts with specialized knowledge, secret histories, unexpected acquaintances, or avenues of information that player characters might never suspect, gamemasters can make contacts surprisingly multi-dimensional or disappointingly narrow in their knowledge, according to the demands of his game.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "gamemaster",
+      "character_development",
+      "gameplay"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 20,
+    "concept": "Enhancing contacts with specialized knowledge.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Asking a talismonger to obtain a gun may be a useless request, but asking your Thursday-afternoon chess partner at the local soykaf shop for the home address of a high-ranking Knight Errant official might lead to a big and unexpected payoff. (Game mechanics for such circumstances appear in Contact Knowledge, p. 69).",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "game_mechanics",
+      "role_playing"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 21,
+    "concept": "Examples of effective contact requests.",
+    "dependencies": [
+      "Enhancing contacts with specialized knowledge."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Nearly every Shadowrun novel and most of the published adventures contain at least one instance in which someone asks a runner to perform a 'favor for a friend'.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "favor_for_a_friend",
+      "contacts",
+      "game_mechanics",
+      "role_playing"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 22,
+    "concept": "Introduction to the favor-for-a-friend mechanic.",
+    "dependencies": []
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "The favor-for-a-friend job transcends the usual 'work for nuyen' shadowruns and allows gamemasters to inject unexpected plot twists or introduce new levels of conflict into their campaigns.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "favor_for_a_friend",
+      "plot_twists",
+      "conflict",
+      "gamemaster",
+      "campaign"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 23,
+    "concept": "Benefits of favor-for-a-friend jobs.",
+    "dependencies": [
+      "Introduction to the favor-for-a-friend mechanic."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Favors requested by contacts also allow player characters to choose their own runs, rather than passively waiting for the next Mr. Johnson to come along and offer them a job.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "player_agency",
+      "favor_requests",
+      "contacts",
+      "runs",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 24,
+    "concept": "Player agency through favor requests.",
+    "dependencies": [
+      "Benefits of favor-for-a-friend jobs."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "Pursuing a shadowrun as a favor to a contact or friend allows runners to explore personal interests and, more importantly, allows characters to take on opponents and obstacles with the confidence that the job is not planned as a setup—though it may well become a trap somewhere along the way.\n\nGamemasters also can tie favor requests to the Markers system for Karma (see Karma, p. 76).",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "favor_requests",
+      "karma_system",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 25,
+    "concept": "Exploring personal interests through favors.",
+    "dependencies": [
+      "Player agency through favor requests."
+    ]
+  },
+  {
+    "title": "PLAYING CONTACTS",
+    "content": "| Target Requested Information | Target | Modifiers | Sample Question |\n| :--- | :--- | :--- | :--- |\n| General information | 2 | Special Circumstance | \"Hey, did you hear that the Big...",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "information_requests",
+      "game_mechanics"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 26,
+    "concept": "Contact Knowledge Table for information requests.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "All shadowrunners make enemies during the course of their careers. It goes with the territory. Shadowrunners who are doing their jobs are bound to make someone angry at some point. They lie, steal, own more weapons than small armies (and probably killed someone to get them) and regularly foil the plans of evil megacorporate execs, Mob bosses, and other assorted heavy hitters. The following Enemies rules reflect this fact of the shadowrunning life.",
+    "category": "general",
+    "subcategory": "enemies",
+    "tags": [
+      "shadowrunners",
+      "enemies",
+      "megacorporations",
+      "mob_bosses",
+      "conflict"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 27,
+    "concept": "Introduction to the concept of enemies in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "Gamemasters may create personal Enemies for all player characters during the character creation process. Enemies may be individuals or organizations, ranging from spurned lovers to disgruntled contacts to the buddies of a dead partner to paramilitary groups and even whole megacorps. Personal Enemies can become team Enemies and vice versa.",
+    "category": "character_creation",
+    "subcategory": "personal_enemies",
+    "tags": [
+      "enemies",
+      "character_creation",
+      "gamemaster",
+      "narrative"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 28,
+    "concept": "Rules for creating personal enemies during character creation.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "If a character's life proceeds along normal lines for a shadowrunner, he or she will continue to collect Enemies like trophies throughout his or her career. Every time a character or team makes a big score, destroys property, steals a researcher's life's work, extracts a wageslave, or performs some other action that results in collateral damage to life and livelihood, their name appears on someone's drek list—and what they did will come back to haunt them if their target has the opportunity, power, contacts, or resources to make them pay for what they did.",
+    "category": "lore",
+    "subcategory": "enemies",
+    "tags": [
+      "shadowrunner",
+      "enemies",
+      "collateral_damage",
+      "drek_list",
+      "reputation"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 29,
+    "concept": "Explanation of how shadowrunners accumulate enemies over time.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "In short, the very nature of a shadowrunner's existence guarantees that the character will always have an Enemy or two or three plotting against him or her, ever alert for the chance to get a little payback.",
+    "category": "general",
+    "subcategory": "enemies",
+    "tags": [
+      "shadowrunner",
+      "enemies",
+      "payback",
+      "conflict"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 30,
+    "concept": "Summary of the inevitability of having enemies as a shadowrunner.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "To create an Enemy or Enemies for a player character, the gamemaster first determines the character's Enemy Rating, according to the Enemy Rating Table. The more powerful and influential a character is, the more trouble he will attract, and so a character's resources provide a convenient basis for the Enemy Rating.",
+    "category": "character_creation",
+    "subcategory": "enemy_rating",
+    "tags": [
+      "enemy_rating",
+      "gamemaster",
+      "character_influence",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 31,
+    "concept": "Process for determining a character's Enemy Rating.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "Characters with low Resources will have Enemies designed using a relatively low Enemy Rating; characters with high Resources will have Enemies designed using a relatively high Enemy Rating. The Enemies You Deserve table suggests rough guidelines for the type of Enemy each Enemy Rating represents.",
+    "category": "general",
+    "subcategory": "enemy_rating",
+    "tags": [
+      "enemy_rating",
+      "character_resources",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 32,
+    "concept": "How character resources affect the Enemy Rating.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "Gamemasters can allocate an Enemy's Rating as they see fit. For example, a gamemaster can give a character with Resource Priority A a single Enemy at an Enemy Rating of 4, two Enemies each at Enemy Rating 2, four Enemies each at Enemy Rating 1, one Rating 3 Enemy and one Rating 1 Enemy, and so on.",
+    "category": "general",
+    "subcategory": "game_mastering",
+    "tags": [
+      "enemy_rating",
+      "gamemaster",
+      "character_balance",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 33,
+    "concept": "Flexibility in allocating Enemy Ratings for characters.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "Remember that certain character Flaws increase the number of or ratings for a character's Enemies (see Edges and Flaws, p. 21). Though the Enemy Rating Table includes Ratings 5 and 6 Enemies, these types of opponents are probably best reserved for over-the-top supervillain games.",
+    "category": "character_creation",
+    "subcategory": "flaws_and_enemies",
+    "tags": [
+      "character_flaws",
+      "enemy_ratings",
+      "game_balance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 34,
+    "concept": "Impact of character Flaws on Enemy Ratings and caution regarding high Ratings.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "A high-Rating Enemy's efforts to catch or kill a character can easily become the major theme of a campaign—and such campaigns can quickly become tiresome for other players if the gamemaster cannot find a way to keep their characters involved in the game.",
+    "category": "general",
+    "subcategory": "campaign_management",
+    "tags": [
+      "high_rating_enemies",
+      "campaign_theme",
+      "player_involvement",
+      "gamemaster_tips"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 35,
+    "concept": "Potential campaign implications of high-Rating Enemies.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "In most cases, no single character should start a game with a Rating 5 or 6 Enemy, though the Hunted Flaw (see p. 33) might justify such a circumstance.",
+    "category": "character_creation",
+    "subcategory": "enemies",
+    "tags": [
+      "starting_characters",
+      "enemies",
+      "hunted_flaw"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 36,
+    "concept": "Guidelines for starting characters and high-Rating Enemies.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "| **ENEMY RATING TABLE** | **Standard System** | **Point-Based System** |\n| :--- | :--- | :--- |\n| **Resource Priority** | | **Starting Resources** |\n| E | 0 | |\n| D | 500¥ | |\n| C | 5,000¥ | |\n| B | 90,000¥ | |\n| A | 400,000¥ | |\n| | 1,000,000¥ | |\n| **Enemy Rating** | | **Characteristic Points** |\n| 0 | 0 | |\n| 1 | 2 | |\n| 2 | 4 | |\n| 3 | 6 | |\n| 4 | 8 | |\n| 5 | 11 | |\n| 6 | 14 | |\n| | 17 | |",
+    "category": "general",
+    "subcategory": "enemy_rating",
+    "tags": [
+      "enemy_rating",
+      "resource_priority",
+      "point_based_system"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 37,
+    "concept": "Enemy Rating Table showing Resource Priority and corresponding Enemy Ratings.",
+    "dependencies": []
+  },
+  {
+    "title": "ENEMIES",
+    "content": "| **THE ENEMIES YOU DESERVE** | **What It Means** |\n| :--- | :--- |\n| **Enemy Rating** | |\n| 0 | You're such a good boy. Your mother would be proud. |\n| 1 | You showed up that ganger in front of his chica. |\n| 2 | You butted heads with his friends, too. |\n| 3 | Uh-oh—those gangers just got some new toys from their corp buddies. |\n| 4 | How flattering—your chummers at Aztechnology have hired some bounty...",
+    "category": "general",
+    "subcategory": "enemies",
+    "tags": [
+      "enemy_rating",
+      "game_mechanics",
+      "narrative"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 38,
+    "concept": "Table explaining the implications of different Enemy Ratings.",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "The **Shadowrun** game mechanic of Karma represents a character's accumulated experience and actions. By investing time and energy into certain aspects of his or her personal development or by performing good deeds, a character can earn Karma Points—a sort of cosmic 'brownie points'. In turn, these Karma Points improve the character's abilities and options. (See pp. 190-91, SRII, for further information).",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "karma",
+      "character_development",
+      "experience",
+      "points"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 39,
+    "concept": "Introduction to Karma in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "In SRII, players are instructed to distribute their characters' Karma using the following guidelines: 'Of the Karma a character gets, 90 percent of it becomes Good Karma, which is used over the long term for improving the character. Ten percent goes into the character's Karma Pool for short-term butt-saving. A character's Good Karma and Karma Pool are tracked separately. Always round off in favor of Good Karma'. In simpler terms, a character who receives 10 points of Good Karma adds the next Good Karma Point he earns to his Karma Pool. Then the cycle begins again. The next 10 points go to Good Karma, followed by a point to his Karma Pool, and so on.",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "karma",
+      "character_progression",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 40,
+    "concept": "Guidelines for awarding Karma",
+    "dependencies": [
+      "Introduction to Karma in Shadowrun"
+    ]
+  },
+  {
+    "title": "KARMA",
+    "content": "Most experienced **Shadowrun** gamemasters have faced the problem of balancing the amount of Karma and nuyen that player characters earn during a campaign. The problem of too much or too little nuyen or Karma arises because different player characters may have radically different needs. On one hand, characters reliant on technology need nuyen to maintain their cyberdecks and implants and to buy all the latest tech toys. On the other hand, using magic generally requires large amounts of Karma, and characters who use magic often become 'Karma vacuums,' never having enough Karma to accomplish what they want to do. A few characters hover in the middle, requiring both Karma and nuyen to remain effective in their role on the team. Consequently, the gamemaster must carefully dispense cash and Karma so that players have enough for their needs but not enough to unbalance the campaign.",
+    "category": "general",
+    "subcategory": "game_balance",
+    "tags": [
+      "karma",
+      "nuyen",
+      "game_mastering",
+      "campaign_management",
+      "character_needs"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 41,
+    "concept": "Balancing Karma and nuyen in campaigns",
+    "dependencies": [
+      "Guidelines for awarding Karma"
+    ]
+  },
+  {
+    "title": "KARMA",
+    "content": "Though gamemasters can easily take excess money away from characters, keeping Karma under control can be a bit trickier. The Karma-for-Cash and Cash-for-Karma exchanges provide options for managing Karma assets.",
+    "category": "general",
+    "subcategory": "karma_management",
+    "tags": [
+      "karma",
+      "game_master",
+      "exchanges",
+      "character_management"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 42,
+    "concept": "Managing Karma through exchanges",
+    "dependencies": [
+      "Balancing Karma and nuyen in campaigns"
+    ]
+  },
+  {
+    "title": "KARMA",
+    "content": "* **Karma for Cash**: Under the Karma-for-Cash exchange rule, the gamemaster provides opportunities for player characters to cash in Good Karma Points for nuyen or equivalent resources. Such opportunities represent 'lucky breaks' that come a character's way—someone paying off an old favor, a sudden windfall, an easy score, winning the lottery, and so on. Gamemasters should determine the amount of money/resources a character receives in exchange for Karma based on the average levels of nuyen characters possess in the campaign. For example, characters in a relatively down-scale campaign might receive 100 nuyen for each Good Karma Point they cash in. In a more upscale campaign, a single Good Karma Point might be worth 1,000 nuyen. For random, infrequent windfalls, gamemasters can roll dice to determine how much money a character receives. For example, a gamemaster might determine the amount of a windfall by rolling 2D6 and multiplying the result by 10. In any case, Karma Points that are cashed in for nuyen or other assets are permanently gone, in the same way as if the character had spent the points to buy a new skill. Additionally, individual gamemasters should set their own limits on how frequently characters can cash in Karma and how much Karma they can exchange at any one time. Because the workings of Luck and Fate are unpredictable and mysterious, feel free to alter these limits throughout the course of the campaign, or set new limits for each exchange.",
+    "category": "general",
+    "subcategory": "karma_mechanics",
+    "tags": [
+      "karma_for_cash",
+      "nuyen_exchange",
+      "gamemaster_rules",
+      "character_resources"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 43,
+    "concept": "Karma for Cash exchange mechanics",
+    "dependencies": [
+      "Managing Karma through exchanges"
+    ]
+  },
+  {
+    "title": "KARMA",
+    "content": "* **Cash for Karma**: In the Cash-for-Karma option, a character may exchange nuyen for Karma Points. Such exchanges may represent a character giving money to a church or charity, gambling it away in honor of Lady Luck (perfect for a Coyote shaman), spending it on a 'magical lifestyle', or other similar actions.",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "cash_for_karma",
+      "character_development",
+      "nuyen_exchange"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-contacts.txt",
+    "chunk_index": 44,
+    "concept": "Cash for Karma exchange mechanics",
+    "dependencies": [
+      "Managing Karma through exchanges"
+    ]
+  }
+]

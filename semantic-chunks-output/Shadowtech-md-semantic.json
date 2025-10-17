@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "Technology has always been a race to stay as many steps ahead of the next guy as possible. After all, nobody wants to look at the world from the bottom of the heap. Inevitably, then, science advances ever onward in a series of one-upmanship contests—a vicious circle called progress.",
+    "category": "general",
+    "subcategory": "technological_advancement",
+    "tags": [
+      "technology",
+      "progress",
+      "competition",
+      "science"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to the competitive nature of technological advancement.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "Luckily, shadowrunners are just the kind of people most likely to benefit from the fallout of such behavior, profiting both from the act of acquiring sensitive data for others and from the wealth of new tech items available at the retail end of the chain.",
+    "category": "general",
+    "subcategory": "technology",
+    "tags": [
+      "shadowrunners",
+      "technology",
+      "data_acquisition",
+      "profit",
+      "advancements"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 1,
+    "concept": "Role of shadowrunners in benefiting from technological advancements.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "**Shadowtech** is a sourcebook for use with the **Shadowrun** game system. Its purpose is twofold. First, it explains the science underlying the latest technological discoveries leading to the development of new bioware and cyberware as well as other useful equipment. It also provides descriptions and game information for many of those same high-tech items.",
+    "category": "gear_mechanics",
+    "subcategory": "bioware_and_cyberware",
+    "tags": [
+      "shadowrun",
+      "shadowtech",
+      "bioware",
+      "cyberware",
+      "technology"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 2,
+    "concept": "Overview of the Shadowtech sourcebook and its purposes.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "Second, understanding how things work not only enriches the game ambiance, but also gives both players and gamemasters a better grasp on applications and limitations inherent in the new enhancements and gear their characters will now have at their disposal.",
+    "category": "gear_mechanics",
+    "subcategory": "enhancements",
+    "tags": [
+      "technology",
+      "gameplay",
+      "gear",
+      "enhancements",
+      "understanding"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 3,
+    "concept": "Importance of understanding technology for enhancing gameplay.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "The sciences covered in this book are bionetics, cybertechnology, eugenics/genetics, and chemistry. Each is divided into two sections: technology and equipment.",
+    "category": "gear_mechanics",
+    "subcategory": "bionetics_and_cybertechnology",
+    "tags": [
+      "bionetics",
+      "cybertechnology",
+      "genetics",
+      "chemistry",
+      "equipment"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 4,
+    "concept": "Overview of the scientific fields covered in Shadowtech.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "The technology chapter examines the science in the context of current theory, general rules, techniques, and also investigates the breadth and limitations of advances made in that field of study. These sections are for gamemasters and interested players.",
+    "category": "gear_mechanics",
+    "subcategory": "technology",
+    "tags": [
+      "technology",
+      "gamemaster",
+      "advances",
+      "science",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 5,
+    "concept": "Description of the technology chapter's content and purpose.",
+    "dependencies": [
+      "Overview of the scientific fields covered in Shadowtech."
+    ]
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "They explain some of the science behind the mechanics, and present a more concrete picture of the level of technology available in the **Shadowrun** universe.",
+    "category": "gear_mechanics",
+    "subcategory": "technology",
+    "tags": [
+      "shadowrun",
+      "technology",
+      "game_mechanics",
+      "science"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 6,
+    "concept": "Purpose of the technology chapter in explaining game mechanics.",
+    "dependencies": [
+      "Description of the technology chapter's content and purpose."
+    ]
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "An equipment chapter directly follows each technology section, with descriptions of items developed from that particular science. The equipment chapters introduce the game concepts of **Availability Codes, Legality Ratings**, and **Street Indexes** for 'purchasable' merchandise.",
+    "category": "gear_mechanics",
+    "subcategory": "equipment",
+    "tags": [
+      "availability_codes",
+      "legality_ratings",
+      "street_indexes",
+      "purchasable_merchandise",
+      "equipment_chapters"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 7,
+    "concept": "Structure of the equipment chapters and key concepts introduced.",
+    "dependencies": [
+      "Overview of the scientific fields covered in Shadowtech."
+    ]
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "An item's **Legality Rating** expresses how legal it is to possess a particular item. The **Availability Code** indicates how difficult it is to obtain the item. The **Street Index** indicates how to determine the 'street price' for the item.",
+    "category": "gear_mechanics",
+    "subcategory": "item_acquisition",
+    "tags": [
+      "legality_rating",
+      "availability_code",
+      "street_index"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 8,
+    "concept": "Definitions of Legality Rating, Availability Code, and Street Index.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "For full information on **Legality, Availability**, and **Street ratings**, see p. 101 in the **Technology and the Law** chapter of this book. Nuyen costs listed with each equipment description are accurate only for legitimate and corporate buyers—usually those with licenses and permits.",
+    "category": "gear_mechanics",
+    "subcategory": "availability",
+    "tags": [
+      "legality",
+      "availability",
+      "street_ratings",
+      "equipment",
+      "nuyen_costs"
+    ],
+    "content_type": "reference",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 9,
+    "concept": "Reference for further information on legality and availability.",
+    "dependencies": [
+      "Definitions of Legality Rating, Availability Code, and Street Index."
+    ]
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "For rules governing permit availability costs, refer to p. 102 of **Technology and the Law**. If the purchase is being made on the street or on the shadow market, multiply the listed cost by the **Street Index**. (Note that some items are indeed cheaper on the streets.)",
+    "category": "gear_mechanics",
+    "subcategory": "item_purchasing",
+    "tags": [
+      "street_index",
+      "item_cost",
+      "shadow_market",
+      "technology"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 10,
+    "concept": "Rules for purchasing items on the street versus legitimate sources.",
+    "dependencies": [
+      "Definitions of Legality Rating, Availability Code, and Street Index."
+    ]
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "As usual, certain transactions may permit bargaining. If the negotiations are successful, each extra success from the **Opposed Negotiation Test** reduces the purchase cost by 5 percent—but the price can never fall to less than 75 percent of the published price.",
+    "category": "gear_mechanics",
+    "subcategory": "bargaining",
+    "tags": [
+      "bargaining",
+      "negotiation",
+      "item_purchase",
+      "cost_reduction"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 11,
+    "concept": "Bargaining rules for item purchases.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "A **Street Index** of '0' means that the item in question is never available on the street or on the shadow market, and may only be purchased from legitimate sources.",
+    "category": "gear_mechanics",
+    "subcategory": "street_index",
+    "tags": [
+      "street_index",
+      "availability",
+      "shadow_market"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 12,
+    "concept": "Explanation of what a Street Index of '0' signifies.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "**Shadowtech** also includes a comprehensive **Equipment Table**, p. 109, that includes all the new items described in this book as well as all equipment described in previously published **Shadowrun** products. This table gives the **Legality Ratings, Availability Codes**, and **Street Indexes** for both the new and previously described equipment.",
+    "category": "gear_mechanics",
+    "subcategory": "equipment",
+    "tags": [
+      "equipment_table",
+      "legality_ratings",
+      "availability_codes",
+      "street_indexes"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 13,
+    "concept": "Overview of the Equipment Table and its contents.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowtech Md.Txt",
+    "content": "From behind the closed doors of the major movers and shakers in the high-tech industries to the dark corners and alleyways that define the shadow world of the runners, the information gathered here is as good as it's gonna get—at this price.\n\nBut before player characters go running off to fill in the missing pieces, the gamemaster...",
+    "category": "general",
+    "subcategory": "context",
+    "tags": [
+      "shadowrun",
+      "setting",
+      "gamemaster",
+      "information"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowtech-md.txt",
+    "chunk_index": 14,
+    "concept": "Contextual setting for the information provided in the book.",
+    "dependencies": []
+  }
+]

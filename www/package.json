@@ -1,0 +1,22 @@
+{
+  "name": "shadowrun-dice-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Shadowrun dice rolling via shadowrun2.com API",
+  "main": "mcp-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node mcp-server.js"
+  },
+  "keywords": [
+    "mcp",
+    "shadowrun",
+    "dice",
+    "rpg"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "axios": "^1.7.9"
+  }
+}

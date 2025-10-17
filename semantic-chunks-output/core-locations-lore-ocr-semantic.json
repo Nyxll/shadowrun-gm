@@ -1,0 +1,1177 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# THE MODERN NORTHWEST\n\n> When the politicians gave away the damn country to the Indians, I didn't know who to kill first, the politicians or the Indians.\n> -Humanis Policlub member\n\nThe northwestern quarter of North America is bordered by the **Pacific Ocean** on the west and **mountain ranges** that divide the coast from the rest of the continent on the east. In between is a diverse assortment of lesser features, including plateaus, river systems, valleys, and smaller mountain ranges. Indeed, the Northwest offers almost every type of environment found elsewhere on the continent. Glaciers and deserts, temperate rainforests and badlands, all exist within the area.\n\nSince the **Treaty of Denver in 2018**, much has changed in the western half of North America. Under the protection of the **Native American Nations (NAN)**, much of the land has been returned to its earlier, natural state. The lowered population and the influx of the **Awakened** has resulted in a landscape vastly different from the shrinking wilderness of the late 20th century. Tall trees stand unmolested by loggers, sheltering strong populations of both natural and paranatural animals. Towns and villages are vanishing under the new growth as the land renews itself.\n\nPolitically, the Northwest is no less changed. Several **sovereign nations** now exist there, with little remaining of the former jurisdictions of the United States and Canadian governments. Today the dominant powers of the region are the various states of the Native American Nations and the elven realm of **Tir Tairngire**. In and among these large political entities are smaller independent states, most notably, the independent Native American nation of **Tsimshian**.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "northwest",
+      "geography",
+      "history",
+      "treaty_of_denver"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "The Treaty of Denver stipulated that the **Seattle-Everett-Tacoma metroplex** was to remain part of the United States of America as the **City-State of Seattle**. The Sovereign Tribal Council accepted this demand, apparently as much because of the Seattle area's importance as a port as for the difficulties involved in returning the area to its pristine condition. When the United Canadian and American States were split by the secession of the Confederated American States, Seattle remained with the **UCAS**.\n\nAs the last, true city in the Northwest, the Seattle-Everett-Tacoma sprawl has become the principal concentration of UCAS governmental power in the region. This urban complex remains an important center of commerce and a vital center for trade with members of NAN, Tir Tairngire, and the nations of the Pacific Rim. It is a lonely city, its former neighboring states having shrunk in size, been abandoned, or been relinquished to Native American, Awakened, or corporate landholders. Though the city-state remains an official part of the UCAS, these ties grow more tenuous by the year as Seattle's local government finds the attractions of independence more and more seductive.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "treaty_of_denver",
+      "seattle",
+      "ucas",
+      "northern_pacific",
+      "city_state"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 1,
+    "concept": "TREATY OF DENVER",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "Most of the Northwest is under the control of assorted members of the Native American Nations, a loosely knit group of independent nations. Though all are officially governed by the Sovereign Tribal Council (STC), few of the members submit without question to the mandates of the STC. As each member seems increasingly intent on following its own path, the STC has become little more than an ineffectual referee in the Council's internal squabbling. The vast, occult power wielded by the shamans of the Great Ghost Dance under the direction of the STC seems a thing of the past.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "native_american_nations",
+      "sovereign_tribal_council",
+      "governance",
+      "power_dynamics",
+      "occult"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 2,
+    "concept": "Overview of the governance and power dynamics within the Native American Nations and the Sovereign Tribal Council.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "The nature of leadership varies within the member-nations. The Salish-Shidhe Council, for example, is a loose collection of tribal clusters with no formal governmental structure. Though each chief acts as a sovereign lord on his tribal lands, he is not an all-powerful feudal dictator. The Council Chiefs rule by example and persuasion. Counter-argument is both frequent and expected, on the principle that a chief unable to persuade others to his view should not speak for his tribe. Dissenters are not only tolerated, they are respected for their convictions. In some ways, the Salish-Shidhe represent more of a consensus culture than the Japanese.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "leadership",
+      "tribal_culture",
+      "council",
+      "consensus"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 3,
+    "concept": "Description of the leadership structure and cultural values within the Salish-Shidhe Council.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "Other Council nations have other forms of government, ranging from formal confederations like the Algonkian-Manitou Council to businesslike corporate states like the Pueblo Corporate Council.",
+    "category": "lore",
+    "subcategory": "government_structures",
+    "tags": [
+      "council_nations",
+      "government",
+      "diversity",
+      "politics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 4,
+    "concept": "Overview of the diversity in governmental structures among different Council nations.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "The Salish-Shidhe Council is one of the largest and wealthiest tribal nations in the Northwest. The Council lands extend over most of former Washington State. With the return of resources to the tribes and land tenants, the Council has become custodian of the region's lucrative mineral and timber resources.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "tribal_nations",
+      "resources",
+      "northwest"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 5,
+    "concept": "Details about the size, wealth, and resource management of the Salish-Shidhe Council.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "The S-S Council represents Native Americans, metahumans (predominantly elves), and combined tribes of the two or more subspecies. There are also several tribes of pinkskins, the name often used for non-Amerindians who have adopted the Indian philosophies and objectives. Many of the combined tribes include pinkskin members.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "tribal_council",
+      "native_americans",
+      "metahumans",
+      "pinkskins"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 6,
+    "concept": "Composition of the Salish-Shidhe Council, including representation of different groups.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "The S-S Council is one of two members of NAN to have a high proportion of metahumans, as reflected by its name. 'Salish' refers to the dominant Native American tribes and 'Shidhe' (pronounced SHE-hee), the old Irish name for the fairy folk, signifies the metahuman participation. The other nation in this group is the Algonkian-Manitou Council.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "metahumans",
+      "nan",
+      "native_american",
+      "fairy_folk"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 7,
+    "concept": "Explanation of the name 'Salish-Shidhe' and its significance regarding the representation of metahumans.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL LANDS",
+    "content": "Despite their often primitive appearance, most of the tribes are well-educated and sophisticated. Their belief in living gently on the land does not prevent them from using the most modern technology, especially if it does not pollute or harm the environment. Paradoxically, the most backward of the S-S people are the pinkskins, who reject all high technology and try to live as Indians did centuries ago.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "tribes",
+      "salish-shidhe",
+      "technology",
+      "education",
+      "culture"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 8,
+    "concept": "Contrasting views on technology and education among the tribes of the Salish-Shidhe Council.",
+    "dependencies": []
+  },
+  {
+    "title": "TIR TAIRNGIRE",
+    "content": "When most of what was formerly Oregon and portions of the former states of California and Washington became independent of all but elven rule, it caused a rift in the Sovereign Tribal Council, whose members either opposed or favored the establishment of a separate nation of metahumans. Meanwhile, the elves who emerged as the leaders of the nascent state were establishing diplomatic ties throughout the world. When **Tir Tairngire** was admitted to the **United Nations** two years later, its sovereignty was established beyond a doubt.\n\nMuch of Tir Tairngire's original population was native to the Northwest. Metahumans, mostly **elves** and **dwarves**, migrated from their homes to this new promised land, whose rulers offered a home to metahumans from any nation. This influx of the Awakened strengthened the claim of **High Prince Lugh Surehand**, Tir Tairngire's ruler, that his was the realm of magic.\n\nThe High Prince is an **absolute monarch**, but he is advised by the **Council of Princes**, whose members are all absolute rulers of smaller domains within the realm. There are $15$ seats in the Council, most of them held by elves. Two members are dwarfs and two are dragons. One sasquatch and one ork also have seats.\n\nThe borders of Tir Tairgire are **closed**. Visas are issued occasionally, with favoritism shown toward metahumans, but the realm's boundaries and airspace are heavily patrolled and guarded by technology, magic, and, it is rumored, dragons. Few succeed in crossing illegally. Most who try are dumped near their point of entry, with little or no memory of their experiences and no desire to return. Immigration is now discouraged, except among those of elven blood.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "tir_tairngire",
+      "elven_rule",
+      "metahumans",
+      "sovereignty",
+      "northwest"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 9,
+    "concept": "TIR TAIRNGIRE",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER NEIGHBORS",
+    "content": "**Unconnected, fiercely independent enclaves of orks** and other minority groups inhabit the spectacular mountain ranges of the Northwest. Most of these are malcontents among the metahumans and their \"normal\" sympathizers. They are so economically weak that they must often resort to stealing from their neighbors.\n\nThe **Tsimshian nation** seceded from the North American Nations in 2035. Its leaders called the move a protest against the elven secession, but it later was learned that they had long planned to break from NAN. They were at odds with the STC, seeking a stronger stance against technology and advocating the removal of all Native American influence from Council lands.\n\nA region of the northern Rockies is the domain of the **Great Dragon, Dunkelzahn**. The beast itself lairs in **Lake Louise** and commands tribute from the surrounding areas, which were once a Canadian parkland. The region's natural wonders still draw tourists by the thousands. They are welcome because their nuyen and credit transfers go mostly into the dragon's coffers. The place no longer offers its former rough-and-ready pioneer atmosphere, nor that of the jet-setter's playground. It is now like a medieval fiefdom out of fantasy, with the lake's world-famous chateau as its centerpiece. Visitors are advised that, in this fantasy realm, the dragons always win.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "ork_enclaves",
+      "tsimshian_nation",
+      "dunkelzahn",
+      "northwest",
+      "metahuman_conflict"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 10,
+    "concept": "OTHER NEIGHBORS",
+    "dependencies": []
+  },
+  {
+    "title": "STATUS OF SEATTLE",
+    "content": "The metroplex of Seattle exists in the midst of the Salish-Shidhe Council as an enclave of another sovereign nation. This gives it a status similar to that of **Berlin during the Cold War**, except that as a major port, Seattle receives goods from all over the Pacific basin. The international ambiance within the metroplex notwithstanding, the city remains relatively isolated from the rest of the continent. All land routes to and from Seattle pass through either Native American or elven lands. Air travel over those areas is restricted to carefully specified and monitored routes.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "salish-shidhe",
+      "metroplex",
+      "sovereign_nations",
+      "geopolitics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 11,
+    "concept": "STATUS OF SEATTLE",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "This section presents brief profiles of tribes local to the Seattle area.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "tribes",
+      "seattle",
+      "local_culture",
+      "background"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 12,
+    "concept": "Introduction to the tribes in the Seattle area",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "### SALISH\n\n* **Predominant Race:** Human\n* **Land:** Most of the region west and south of Puget Sound\n* **Chief:** Harold Gray Bear\n* **Chief Shaman:** Leaping Salmon\n* **Principal Commercial Activities:** Fishing, power generation, and tourism\n* **Philosophy:** The Salish are, by tradition, traders, seeking only to live off the commercial opportunities provided by the land. At the same time, they carefully monitor the latest technological advances for anything that can be turned to their advantage.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish",
+      "tribes",
+      "lore",
+      "geography",
+      "culture"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 13,
+    "concept": "Profile of the Salish tribe",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "This tribe is the biggest and most influential group within the S-S Council. They are responsible for ensuring that the Seattle enclave adheres to all of the Council's regulations. To this end, they maintain a standing **Ranger Force** of elite troopers. Regular Coast and Border Patrols supplement high-tech monitor systems.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish_tribe",
+      "s-s_council",
+      "ranger_force",
+      "seattle_enclave",
+      "enforcement_mechanisms"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 14,
+    "concept": "Salish tribe's influence and enforcement mechanisms",
+    "dependencies": [
+      "Profile of the Salish tribe"
+    ]
+  },
+  {
+    "title": "TRIBES",
+    "content": "### SINSEARACH\n\n* **Predominant Race:** Elf\n* **Land:** Southwest of Seattle, including former Mount Rainier National Park\n* **Chief:** Lady Gillian Morningsong, a Coyote shaman\n* **Chief Magician:** Lord Ryan Highbrow, a mage\n* **Principal Commercial Activities:** Natural forest products, crafts, tourism, and animal husbandry\n* **Philosophy:** Yearning for the long-lost days of the primeval forest, the Sinsearach seek to preserve and protect the land as it returns to its natural state. They have little or no use for modern technology, preferring to rely on magic and alliance with other Awakened beings.",
+    "category": "lore",
+    "subcategory": "tribes",
+    "tags": [
+      "sinsearach",
+      "elf",
+      "tribe",
+      "shaman",
+      "magic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 15,
+    "concept": "Profile of the Sinsearach tribe",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "The Sinsearach are the largest and most organized grouping of the elven tribes within the S-S Council. The tribe's strong political and magical power helped preserve its influence after the majority of elves in the northwest broke away from the Native American Nations and its Sovereign Tribal Council to claim the land of Tir Tairngire as their own.",
+    "category": "lore",
+    "subcategory": "tribes",
+    "tags": [
+      "sinsearach",
+      "elven_tribes",
+      "political_influence",
+      "magical_power",
+      "tir_tairngire"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 16,
+    "concept": "Sinsearach tribe's political and magical influence",
+    "dependencies": [
+      "Profile of the Sinsearach tribe"
+    ]
+  },
+  {
+    "title": "TRIBES",
+    "content": "### MAKAH\n\n* **Predominant Race:** Human\n* **Land:** Olympic Peninsula in the northwestern corner of former Washington State\n* **Chief:** George Lodgepole\n* **Chief Shaman:** Black Otter\n* **Principal Commercial Activities:** Forestry\n* **Philosophy:** The Makah rejoice at the return of the land. They have taken up where the white man left off in using the forests. Unlike their predecessors, however, they take only what they need in order to ensure the continual availability of their wealth. They will use either technology or magic to accomplish a task in the best way possible.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "makah",
+      "tribes",
+      "northwest",
+      "olympic_peninsula",
+      "culture"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 17,
+    "concept": "Profile of the Makah tribe",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "Because of the apportionment of the land, the Makah are powerful despite their small population. Their control of the southern shore of the Juan de Fuca strait gave them several former USN facilities, including the abandoned Trident submarine base.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "makah_tribe",
+      "territorial_control",
+      "juan_de_fuca_strait",
+      "usn_facilities",
+      "submarine_base"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 18,
+    "concept": "Makah tribe's power and territorial control",
+    "dependencies": [
+      "Profile of the Makah tribe"
+    ]
+  },
+  {
+    "title": "TRIBES",
+    "content": "### CASCADE CROW\n\n* **Predominant Race:** Human\n* **Land:** Most of the territory east of Seattle as far as the peaks of the Cascades\n* **Chief:** Frederick Eye-Like-Eagle\n* **Chief Shaman:** Red Buffalo Woman\n* **Principal Commercial Activities:** Livestock (horses and cattle) and agriculture\n* **Philosophy:** The Cascade Crow are strong advocates of the removal of the Anglo and Asian presence in the Northwest, thus cultivating a strong Plains Revival.",
+    "category": "lore",
+    "subcategory": "tribes",
+    "tags": [
+      "cascade_crow",
+      "tribal_history",
+      "northwest_culture"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 19,
+    "concept": "Profile of the Cascade Crow tribe",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBES",
+    "content": "### CASCADE ORK\n\n* **Predominant Race:** Ork\n* **Land:** Small holding in the Cascades just north of the eastern route out of Seattle\n* **Chief:** Pawl Shaggy Mountain (troll)\n* **Chief Shaman:** Skink (ork)\n* **Principal Commercial Activities:** Raising sheep, mining, and occasional raiding of traffic using the East road\n* **Philosophy:** The Cascade Orks are a reluctant and troublesome member of the S-S Council who dismiss any allegations of illegal activities as the actions of renegades and others not associated with the tribe. The tribe is involved in smuggling contraband, and has been repeatedly identified as an accomplice in offering rest and refitting for illegal smuggling runs through the Cascades.",
+    "category": "lore",
+    "subcategory": "tribes",
+    "tags": [
+      "cascade_ork",
+      "tribe_profile",
+      "smuggling",
+      "chief",
+      "shaman"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 20,
+    "concept": "Profile of the Cascade Ork tribe",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE",
+    "content": "> We don't have any social problems here that a couple of thousand troops won't solve.\n> -Marilyn Schultz, Governor of Seattle\n\nThe information in this chapter is excerpted from *Fromor's Guide to the Northwestern American Continent: 2051*. The author gratefully acknowledges permission to reprint these sections on Seattle.\n\nThough no longer the fair playground it was in the twentieth century, Seattle is a **vital and vigorous city**. Today's Seattle sprawls from **Everett to Tacoma**, encompassing $1,600$ square miles along the coast of **Puget Sound**. It remains an outpost of the **United Canadian and American States**, so travelers need not concern themselves about passports or duration of stay as long as they remain within the city limits. Hemmed in by the Salish-Shidhe Council, Seattle is an active port city, still very much the **gateway to the Orient**.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "geography",
+      "urban_environment"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 21,
+    "concept": "SEATTLE",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "For the rich or corporate traveler, regularly scheduled flights arrive and depart daily to and from Seattle-Tacoma International Airport. Customs check-in is efficient, and the ordinary traveler should experience only minor delays as all luggage is checked for contraband. Clearing the airport after arrival generally takes about an hour. SeaTac boasts a low rating for violent incidents.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "airport",
+      "customs",
+      "travel",
+      "operations"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 22,
+    "concept": "Overview of Seattle-Tacoma International Airport operations and customs process.",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "SeaTac has been capable of handling transorbital flights to other major airports since the city council sanctioned expansion in 2042. Service in this area is not regular, and so the traveler is advised to check with the airport or his licensed transport agent for schedules and availability of seats.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seatac",
+      "transorbital_flight",
+      "travel",
+      "2042",
+      "airport"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 23,
+    "concept": "Information on transorbital flight capabilities and scheduling at SeaTac.",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "Seattle's harbor handles more than 1,800 ships per year. Travelers wishing to exit the Seaport Commercial Zone are expected to present themselves at the Port of Entry Complex within three hours of arrival at the dock.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "harbor_operations",
+      "seaport",
+      "travel_requirements"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 24,
+    "concept": "Details on Seattle's harbor operations and traveler requirements for exiting the Seaport Commercial Zone.",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "The Salish-Shidhe Council has sanctioned three major ground routes, known as the North, South, and East Roads into the free city of Seattle. The North and South Roads follow the track of old U.S. Interstate Highway 5. The East Road is the old I-90 and leads to the Yakima Trading Center Complex at Ellensburg, where it joins with I-82/84.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "seattle",
+      "ground_routes",
+      "north_south_east_roads",
+      "yakima_trading_center"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 25,
+    "concept": "Description of the major ground routes into Seattle as sanctioned by the Salish-Shidhe Council.",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "Alternate transport from California is available via Ressha Corporation's sealed-tube maglev-bullet train that links San Francisco with Seattle. This is the only passenger rail service to the city. The service is regularly scheduled, but the frequent traveler can expect occasional rescheduling due to breaks in the tube. The ride is smooth and fast, taking just over two hours, but none of the scenic vistas of the northwest are on display. Even outside the restricted lands of Tir Tairngire, the tube is opaque for technical reasons.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "ressha_corporation",
+      "maglev_train",
+      "transportation",
+      "seattle",
+      "california"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 26,
+    "concept": "Information on the Ressha Corporation's maglev-bullet train service between California and Seattle.",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING TO SEATTLE",
+    "content": "Travel outside the routes prescribed by the Salish-Shidhe Council is not recommended. The Council reserves sovereignty to restrict access to all lands under its governance. The Council's border and highway patrols are armed and operate under the principle of 'reasonable cause.'",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "travel_restrictions",
+      "border_patrols",
+      "sovereignty"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 27,
+    "concept": "Guidelines on travel restrictions and enforcement by the Salish-Shidhe Council.",
+    "dependencies": []
+  },
+  {
+    "title": "GOVERNMENT",
+    "content": "Seattle's government is **democratic**. Like the rest of the UCAS, the registered voters of Seattle make their choices known in telecom elections held on the first Tuesday of November. Seattle is noted for its vigorous, vociferous electoral campaigns.\n\nThe **governor** holds supreme executive power for a term of four years. There is no limit to the number of terms a governor can serve. The current governor, now in her fourth term, is the **Honorable Marilyn Schultz**.\n\nThe governor is advised by a **bicameral council**, composed of the **Cabinet** and the **Congress**. Cabinet members serve a six-year term and form an immediate-action body. Congressmen serve two-year terms. They promulgate laws with the approval of the council and the governor, and serve as a review and ratification board for gubernatorial and special executive orders. All members of the council, except the non-voting Salish-Shidhe Council representative to the Cabinet, are elected.\n\nAll registered voters are subject to a city tax. Travel passes, transit taxes, transient worker taxes, business licensing fees, and donations make up the rest of the city's income base. The city uses these taxes to contract for essential services with independent corporations. Some of the primary services and their contractors are:\n\n* **Police Services:** Lone Star Security Services\n* **Fire Control:** Franklin Associates, Inc.\n* **Sanitation:** Various district contractors\n* **Public Works Maintenance:** Shiawase Envirotech\n* **Public Database:** Renraku Computer Systems\n* **Grid-Guide System:** Sony Tech\n* **Power:** Gaeatronics (Salish-Shidhe Council), Shiawase Atomics",
+    "category": "lore",
+    "subcategory": "government",
+    "tags": [
+      "seattle",
+      "government",
+      "ucas",
+      "politics",
+      "elections"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 28,
+    "concept": "GOVERNMENT",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE'S METROPLEX GUARD",
+    "content": "As a city-state of the United Canadian and American States, Seattle is entitled to the military protection of that nation. In practice, the city-state is defended by the **Metroplex Guard**, the bulk of which are recruited and trained locally, though the unit is officially part of the UCAS military. Seattle also benefits from its location in the heart of the Salish-Shidhe Council lands, counting on the Council and the NAN states to preserve stability in the region.\n\nThe Guard is a mechanized infantry force of **three battalions** and an attached air defense company. Its soldiers are a mixture of full-time professionals and part-time reservists. They are equipped with antiquated vehicles and weapons that are outclassed by the various corporate security and hireling police forces. Staff and field officers, who are drawn from among UCAS officers, former mercenaries, and political appointees, rotate through the three battalions of the Seattle Guard, though the commanding colonel is a regular UCAS officer. This system results in uneven troop quality and morale, a problem aggravated by the Guard's part-time nature.\n\n* **First Battalion** maintains $15$ Ares Citymasters, two of which are modified as urban assault vehicles and a third as air defense.\n* **Second Battalion** operates with $15$ standard Citymasters.\n* **Third Battalion** is air mobile, with ten modified Federated Boeing Commuter tilt-rotors and a pair of Ares Dragons.\n\nThe Guard can be activated by either the governor or by executive order of the city council, though such action must be ratified by the city-state Congress within $48$ hours. Should the Congress disapprove of activation, the law provides for strict sanctions against those responsible for the abuse. A full call-up of UCAS forces would activate the Guard and place the commanding colonel under direct military orders.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "metroplex_guard",
+      "ucas",
+      "military",
+      "salish-shidhe"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 29,
+    "concept": "SEATTLE'S METROPLEX GUARD",
+    "dependencies": []
+  },
+  {
+    "title": "VITAL STATISTICS",
+    "content": "| Category | Data |\n| :--- | :--- |\n| **Population** | **3,000,000+** |\n| Human | 63% |\n| Elf | 13% |\n| Dwarf | 2% |\n| Ork | 19% |\n| Troll | 2% |\n| Other | 1% |\n| **Population Density** | **500+ per square kilometer** |\n| **Per Capita Income** | **24,500¥** |\n| **Population Below Poverty Level** | **32%** |\n| **Persons Rated on Fortune's Active Traders List** | **1%** |\n| **Persons of Corporate Affiliation** | **52%** |\n| **Hospitals** | **51** |\n| **Means of Commuting to Work:** | |\n| Internal Combustion Vehicle | 2% |\n| Grid-Guide Electric Vehicles, Individual | 41% |\n| Grid-Guide Electric Vehicles, Group | 20% |\n| Monorail Ring Riders | 23% |\n| On-site Workers | 12% |\n| Other | 2% |\n| **Felonious Crime Rate** | **18 per 1,000 per annum** |\n| **Education:** | |\n| High School Equivalency | 54% |\n| College Equivalency | 30% |\n| Advanced Studies Certificates | 10% |",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "population_statistics",
+      "demographics",
+      "crime_rate",
+      "income",
+      "transportation"
+    ],
+    "content_type": "table",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 30,
+    "concept": "VITAL STATISTICS",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Any traveler who wishes to go outside the city limits must apply for a transit pass. These \"blue tickets\" are issued by the Salish-Shidhe Council and are good for a limited time. They can be obtained at the Council Lodge, and must be prominently displayed at all times by someone outside the city limits.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "transit_pass",
+      "salish_shidhe_council",
+      "city_limits",
+      "travel"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 31,
+    "concept": "Transit Pass Application",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Any visitor seeking gainful employment must apply for a temporary work card at city hall. The work permits are quite similar to a citizen's red card. They are striped with red and will accept all payments rendered to the visitor, minus deductions of appropriate city taxes.\n\nCorporate cards, either gold or green, are honored at all legitimate establishments throughout the city.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "temporary_work_card",
+      "seattle",
+      "employment",
+      "city_hall",
+      "work_permits"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 32,
+    "concept": "Temporary Work Card Application",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Eight hospitals serve the Seattle area, all of which are linked through the EmergencyAlert™ system. A variety of independent medical corporations operate as well, offering choice of care as well as overflow capability in the event of a major disaster. The roving DocWagon™ is a common sight, as in most large cities.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "hospitals",
+      "medical_aid",
+      "docwagon",
+      "emergency_services"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 33,
+    "concept": "Medical Aid Availability",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Legal advice and representation is available through the North American Defense Guild (NADG) at the following numbers: General Public: 555-5LAW; Special Hotlines: Orks: 555-ORCS; Elves: 555-ELFS; Native Americans: 555-TRIB.",
+    "category": "general",
+    "subcategory": "legal_aid",
+    "tags": [
+      "legal_aid",
+      "contact_information",
+      "northern_america"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Legal Aid Contact Information",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Library databanks, time, weather, local news services, and general information are available at a nominal charge from the Public Datanet. Renraku Corporation's friendly and efficient experts guide people through the datanet to whatever public information they desire.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "public_datanet",
+      "information_services",
+      "renraku"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 35,
+    "concept": "Public Datanet Services",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE VISITOR INFORMATION",
+    "content": "Seattle's police, fire, and rescue teams all subscribe to the international standard PANICBUTTON system. Any Seiko (or compatible) wrist telecom puts a person in instant contact with the system's central clearing desk. Anyone not carrying a telecom can use the bright yellow and red PANICBUTTON boxes scattered throughout the city. It is, of course, both a federal and local offense to use the system without demonstrable need.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "emergency_services",
+      "panicbutton",
+      "telecom",
+      "public_safety"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 36,
+    "concept": "Emergency Services Contact System",
+    "dependencies": []
+  },
+  {
+    "title": "GETTING AROUND SEATTLE",
+    "content": "Despite its isolation from major highway grids, Seattle is served by a fine **intracity commuter grid**. This computer-controlled, limited-access system allows motorists to join their electric cars and enjoy the freedom and convenience of directed-control travel. The system has the additional benefit of minimal power costs, as the cost of power drawn from the system is included in the motorist's use license. Previous reports in other travel guides notwithstanding, Seattle's first-class, high-speed lanes are well-insulated and their power connections safe. Near the grid, there are power-recharging stations at many commercial establishments and all public parking facilities.\n\nPublic roads are well-maintained and full of electric cars, bikes, and buses. **Petrochem vehicles** are also common in the area, but strict anti-pollution standards are in effect, with such vehicles reserved for important business or occasions when high performance is required.\n\nSeattle's famed **monorail**, once limited to runs between Seattle Center and the downtown district, has recently been refurbished and expanded. It now runs on a ring track and serves the Renraku Arcology and other residential buildings. Visitors may experience some delay in receiving a travel pass, as the monorail is popular with commuters and is often filled to capacity with regular travelers.\n\nThe **Renraku Arcology**, like other corporate structures, maintains its own landing pads for intracity and city-airport service of rotor and tilt-rotor aircraft. Unlike the others, Renraku offers three public pads with full storage, refueling, and repair facilities. Charges are reasonable and service is swift and reliable.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "transportation",
+      "intracity_commuter_grid",
+      "electric_vehicles",
+      "public_transport"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 37,
+    "concept": "GETTING AROUND SEATTLE",
+    "dependencies": []
+  },
+  {
+    "title": "ENTERTAINMENT AND MEDIA",
+    "content": "Seattle's popular special events include the summer **Seafair Festival**, the **Gold Cup motorboat races** on Lake Washington, and the annual **Salish-Shidhe Council's Horse Exposition** at the former Longacres Racecourse, south of Seattle in Renton. Travel passes for the latter event, which features auctions, races, and displays of horsemanship unrivaled on the West Coast, are available at the Council Lodge beginning three months prior to opening day.\n\nThe **Kingdome** is still the home field of many traditional sports teams, including the baseball **Mariners**, the football **Seahawks**, and the basketball **SuperSonics**. Recent additions to Seattle's sports teams include the **Timber Wolves Combat Biker** team and the **Screamers Urban Brawl** team. Information on dates, times, and tickets is available from the public database.\n\nThe **Omnidome**, under the benevolent ownership of Renraku Corporation, has expanded to include the Northwest's largest **triscreen theater**. Reserving tickets in advance is recommended.\n\nAlong with its service as a sports stadium, the Kingdome also hosts a wide array of popular and classical music programs. The **Summer Jazz Festival**, in August, is centered at the Dome, but spills over throughout the city as well. As in every city, today's hot clubs are tomorrow's memories, but it's true that the ambiance of this border town draws the steamiest rockers. Seattle is also the home base of the eccentric, mega-popular **Concrete Dreams**. C-Dreamers, local and imported, haunt the club circuit in hopes of catching one of the band's legendary \"**drop-in**\" shows. These unscheduled performances have been Concrete Dreams' only public appearances in the past six years.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "events",
+      "sports",
+      "entertainment",
+      "media"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 38,
+    "concept": "ENTERTAINMENT AND MEDIA",
+    "dependencies": []
+  },
+  {
+    "title": "POINTS OF INTEREST",
+    "content": "* **The Space Needle** remains the most distinctive element of the Seattle skyline, and more than ever is worth a visit. The revolving restaurant at the top, the **Eye of the Needle**, serves five-star cuisine, and its regular patrons include the elite of the magically active. Thus, the sights within are often as spectacular as the view of the city without.\n* The **Aztechnology Pyramid** glows on the eastern edge of the city. The building, modeled after the ancient step-pyramids of old Mexico's Aztecs, is stunning even when its image is thrust into the modern age, as when a tilt-wing craft lands on the air-pad of the flattened peak. Tours are rarely available.\n* The **Ork Underground** is a prime attraction for adventurous visitors. Members of the ork community who reside there offer tours of the small areas of old Seattle on display since the last century, along with the expanding tunnels and quaint village life of the inhabitants. A liability waiver is required.\n* The latest major addition to Seattle's growing business district is the **Renraku Arcology**. Even though incomplete, this structure is overwhelming. It contains private homes for a small town. Its public mall on the first five levels, the extensive aquarium and algae-farming facility in the over-the-Sound extension, and the lively **Club Quarter** on the north face all offer an unforgettable experience. Tours of public Renraku facilities depart hourly from the central information area on Mall $3$.\n* The **Salish-Shidhe Council** also offers guided tours of portions of their lands. Weather and other conditions permitting, regularly scheduled runs include the popular tour of Puget Sound, **Tillicum Indian Village**, **Forest Walks**, and visits to some of the **active volcanoes**. (A liability waiver required for the last.) The native guides for these tours are renowned for their wit and urbanity.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "points_of_interest",
+      "seattle",
+      "locations",
+      "attractions",
+      "urban_exploration"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 39,
+    "concept": "POINTS OF INTEREST",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBAL HOLDINGS",
+    "content": "The impressive **Council Lodge** is the only formal presence of the Salish-Shidhe Council within the Seattle metroplex's boundaries. Modeled after a traditional Salish lodge, but on a massive scale, this building serves as both an **embassy** and a **cultural center**. Non-tribal visitors are welcome. Tours through the public areas include superb displays of neotribal artifacts.\n\nTribals own and operate many other businesses and facilities in Seattle as well. Such operations are conducted on an individual or family basis. The Council Lodge maintains a directory of these and can arrange meetings between interested parties both in the city and on Council lands.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "salish-shidhe",
+      "council_lodge",
+      "cultural_center",
+      "tribal_businesses",
+      "seattle"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 40,
+    "concept": "TRIBAL HOLDINGS",
+    "dependencies": []
+  },
+  {
+    "title": "THE BARRENS",
+    "content": "> -From the introduction to Part Four of Woody Bernstein's unfinished \"Dreamtime Garbage\" series, April 5, 2050\n>\n> The Governor doesn't want tourists to know it, but all is not so pleasant in the great metroplex of Everett-Seattle-Tacoma. The dirty truth is that **urban wilderness grows** in the forested Northwest. Yes, Virginia, the same blight that darkens many of the cities of the East flourishes here as well.\n>\n> The city that brought \"skid row\" to the world now bids to bring the **Barrens** to replace it.\n>\n> **Shantytowns** sprawl over abandoned neighborhoods, creating warrens and mazes of homes of the poor, the dispossessed, and those shunned by the corporations. These are the forgotten, the lost, the flesh-and-blood ghosts that clatter through the shells of man's dream of urban plenty.\n>\n> And the tribes—where is their fabled concern for the Human Condition? They turn these people away from good land that could give them a home, forcing them back in desperation against the corporate concrete, the sealed buildings, and the cutwire barricades. This goes on because it is in the interests of certain powerful people and organizations.\n>\n> The Barrens serve as **testing grounds, dumps, and secret meeting places**. Out of the city light and away from the Awakened forests, the concrete rats run with the woodland jackals. They hide in the shadows of the Barrens to do their shadowy business. Among these callous folk, the Barrens is a marketplace to buy and sell humanity.\n>\n> Meanwhile, the people of the Barrens have become like animals, seeing ahead only as far as the next meal and safe place to sleep. Even the cheap vid sets, soy bars, and paper clothing distributed by corporate relief agencies do little to offset the real problems.\n>\n> Come with me now and meet some of them. Inside, they are people just like us. Come along, and understand ....",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "urban_wilderness",
+      "shantytowns",
+      "everett_seattle_tacoma",
+      "barrens",
+      "social_issues"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 41,
+    "concept": "THE BARRENS",
+    "dependencies": []
+  },
+  {
+    "title": "CORPORATE HOLDINGS",
+    "content": "Profiles of the many national, international, and extranational corporations with offices in Seattle are available in the public database. They include the times, if any, of facility tours. Most corporations maintain public information desks and displays of their products at their main offices.",
+    "category": "lore",
+    "subcategory": "corporations",
+    "tags": [
+      "corporate",
+      "seattle",
+      "extranational",
+      "public_information"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 42,
+    "concept": "CORPORATE HOLDINGS",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "Like all big cities, Seattle has its share of crime, both organized and not. The largest syndicate in the city is a branch of the yakuza, the Japan-based, international criminal network. Other international organizations have insinuated themselves into this city's underworld as well, including the Triads and various Tongs. Most people have heard of the Mafia, but are not aware of the other rough newcomers, the Seoulpa Rings.",
+    "category": "lore",
+    "subcategory": "organized crime",
+    "tags": [
+      "seattle",
+      "organized_crime",
+      "yakuza",
+      "triads",
+      "mafia"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 43,
+    "concept": "Overview of organized crime in Seattle",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "Seattle law enforcement's biggest concern is the yakuza. The early part of the century saw these criminals reverting to the cultural styles of shogun-ruled Japan. Many of their soldiers carry swords, but they remain constantly open to new techniques, technologies, and criminal opportunities. Yakuza are usually armed with state-of-the-art weaponry.",
+    "category": "lore",
+    "subcategory": "criminal_organizations",
+    "tags": [
+      "yakuza",
+      "seattle",
+      "criminal_influence",
+      "weaponry",
+      "cultural_styles"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 44,
+    "concept": "Yakuza's cultural influence and weaponry",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "The police's best defense against them is their own clannishness. Since the yakuza's return to its roots, the syndicate has closed the door to outsiders. The expulsion of their Korean soldiers may have been a factor in the rise of the Seoulpa Rings.",
+    "category": "lore",
+    "subcategory": "criminal_organizations",
+    "tags": [
+      "yakuza",
+      "seoulpa_rings",
+      "clannishness",
+      "crime_syndicates"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 45,
+    "concept": "Yakuza's clannishness and impact on Seoulpa Rings",
+    "dependencies": [
+      "Overview of organized crime in Seattle"
+    ]
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "The yakuza represent an association of gangs that work like traditional Japanese society, as a web of obligations and expectations rather than a rigid chain of command. The current oyabun, or gang lord, of Seattle owes favors to other oyabun, notably those of San Francisco, Hawaii, and Chiba. He is also obliged to the big boss, the oyabun of oyabun.",
+    "category": "lore",
+    "subcategory": "yakuza",
+    "tags": [
+      "yakuza",
+      "seattle",
+      "gangs",
+      "obligations",
+      "hierarchy"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Structure and hierarchy of the yakuza",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "Despite this, he does not really answer to anyone for his actions. He controls his own gang in Seattle, estimated to number several thousand, but has no direct influence on the numerous other yakuza gangs in the city. It would seem from this that coordinated actions would be difficult, but the ordered nature of Japanese society makes it possible for these gangs to cooperate with frightening efficiency.\n\nConsequently, the yakuza's infiltration of corporations has given them extensive combat and data assets.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "yakuza",
+      "seattle",
+      "gangs",
+      "corporate_infiltration",
+      "organized_crime"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 47,
+    "concept": "Yakuza's autonomy and cooperation",
+    "dependencies": [
+      "Structure and hierarchy of the yakuza",
+      "Yakuza's autonomy and cooperation"
+    ]
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "The Mafia's organization was once very similar, but their power base has eroded. The influx of Asians and the Awakened and the resurgence of Amerindian culture have weakened it, forcing a reorganization. The Mafia now resembles a single, extranational corporation often referred to as the Family by members.\n\nThough still a powerful factor, it no longer dominates criminal activity in North America.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "mafia",
+      "seattle",
+      "criminal_activity",
+      "organization",
+      "culture"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 48,
+    "concept": "Current state of the Mafia in Seattle",
+    "dependencies": [
+      "Current state of the Mafia in Seattle"
+    ]
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "The Seoulpa Rings are modeled on the criminal gangs of late 20th-century Korea, though they are no longer Korean any more than the Mafia is really Sicilian. Each Ring is small and self-contained, but draws on a common cultural pattern of self-reliance, strong-arm tactics, and blood ties.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seoulpa_rings",
+      "criminal_gangs",
+      "cultural_influence",
+      "shadowrun",
+      "seattle"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Structure and cultural influence of the Seoulpa Rings",
+    "dependencies": []
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "Having been burned by racial bigotry in the yakuza, they have opened up rather than retreating into tiny cells of their own kind, and are the most heterogeneous of the organized criminal groups. The result is a crossbreed that resembles an Old West outlaw gang combined with a family business.",
+    "category": "lore",
+    "subcategory": "organized_crime",
+    "tags": [
+      "seoulpa_rings",
+      "yakuza",
+      "organized_crime",
+      "racial_inclusivity",
+      "old_west"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Seoulpa Rings' inclusivity and structure",
+    "dependencies": [
+      "Structure and cultural influence of the Seoulpa Rings"
+    ]
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "A Ring forms around a single influential person, and often fragments as soon as he or she is removed. Though the Rings lack the power of the yakuza, they have influence and an ability to inspire fear disproportionate to their size. Should the Seoulpa Rings ever consolidate, they could challenge the yakuza's criminal supremacy.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seoulpa_rings",
+      "yakuza",
+      "criminal_influence",
+      "shadowrun",
+      "seattle"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 51,
+    "concept": "Dynamics and potential of the Seoulpa Rings",
+    "dependencies": [
+      "Seoulpa Rings' inclusivity and structure"
+    ]
+  },
+  {
+    "title": "SEATTLE IN THE SHADOWS",
+    "content": "Besides the organized felons, there is also a wild mix of independents, ranging from data pirates to shadowrunners buzzing low-altitude smuggling vehicles across Council lands.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "seattle",
+      "independent_criminals",
+      "shadowrunners",
+      "data_pirates",
+      "smuggling"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 52,
+    "concept": "Independent criminals in Seattle",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "Q. Why is FASA Corporation producing a second edition of the Shadowrun rules? A. To empty the pockets of their customers. B. Because everybody's doing it. C. It seemed like a good idea at the time. D. All of the above. E. None of the above. A. The answer is E, none of the above.\n\nActually, FASA decided to revise the *Shadowrun* rules for several good reasons, all based on feedback from current players.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrun",
+      "second_edition",
+      "developer_notes",
+      "game_design",
+      "feedback"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 53,
+    "concept": "Introduction to the reasons for the second edition of Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "When *Shadowrun* was written in 1989, it was created for a specific audience, one that had at least a few years of experience gaming with more than one system under their belts. Since its release, *Shadowrun* has sold enormously well to a much wider audience than originally intended.",
+    "category": "general",
+    "subcategory": "game_development",
+    "tags": [
+      "shadowrun",
+      "game_design",
+      "developer_notes"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 54,
+    "concept": "Background on the original target audience and the game's success.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "Plenty of experienced gamers currently enjoy the game and its supplements, but *Shadowrun* has also attracted a market of players who have no experience using rules dealing with high technology or an organic magic system, much less *Shadowrun*'s sometimes bizarre blend of the two.",
+    "category": "general",
+    "subcategory": "player_base",
+    "tags": [
+      "player_experience",
+      "game_mechanics",
+      "new_players"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Description of the diverse player base, including inexperienced players.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The newer players needed the rules presented in a clearer, more direct fashion that included more examples. More important, they needed a more indepth explanation of the whys behind some of the game systems, in addition to the hows. And last, but not least, nearly all the players requested a useful, complete index.",
+    "category": "general",
+    "subcategory": "rule_presentation",
+    "tags": [
+      "new_players",
+      "rule_explanation",
+      "game_systems",
+      "index",
+      "clarity"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Specific needs of newer players regarding rule presentation and explanations.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "We believe this revision of the *Shadowrun* rules lays out the game system in a cleaner, more accessible manner. The new organization and presentation should help players and gamemasters to learn and understand the rules, and to use the rulebook as a reference later on.",
+    "category": "general",
+    "subcategory": "game_system_revision",
+    "tags": [
+      "shadowrun",
+      "game_design",
+      "accessibility",
+      "usability",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Goals of the revision for improved accessibility and usability.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The combat system follows a simple, clear-cut procedure, so that even gamemasters who have never used any other game combat system can follow the step-by-step sequence given here.",
+    "category": "combat",
+    "subcategory": "combat_system",
+    "tags": [
+      "combat",
+      "rules",
+      "gamemaster",
+      "accessibility",
+      "clarity"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Overview of the revised combat system's clarity and accessibility.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The magic section, especially, benefits from additional explanations of the hows and whys of *Shadowrun*, beyond what dice to be rolled when. Because magic in *Shadowrun* works differently from magic in other gaming systems, knowing the logic behind the spells and the reasons magic works the way it does will help gamemasters resolve those incredible situations—unfailingly beyond the scope of the rules and often the designers' dreams—that players feel driven to create.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magic_enhancements",
+      "gamemaster_guidance",
+      "spell_logic",
+      "gameplay_improvement"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 59,
+    "concept": "Enhancements in the magic section for better understanding and gameplay.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The rules also changed to reflect the three additional years of thought and testing put into the system since its release. Originally playtested by $20$ to $30$ players and gamemasters across the country, *Shadowrun* has since been exposed to more than 100,000 gamers.",
+    "category": "general",
+    "subcategory": "game_development",
+    "tags": [
+      "developer_notes",
+      "playtesting",
+      "rule_changes",
+      "game_design"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 60,
+    "concept": "Changes in rules based on extensive playtesting and feedback.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "A great many of those players have taken the time to let us know their reactions to the existing rules, especially in the areas they thought could use some work, and where they thought the game should go. We carefully considered every criticism and comment we received, and we listened.",
+    "category": "general",
+    "subcategory": "player_feedback",
+    "tags": [
+      "player_feedback",
+      "revision_process",
+      "game_development"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 61,
+    "concept": "Importance of player feedback in the revision process.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "In response to all those letters (sorry for any delays), phone calls, and face-to-face talks at conventions, we approached the *Shadowrun* revision determined to make it a better game, not just an excuse to sell more books.",
+    "category": "general",
+    "subcategory": "game_development",
+    "tags": [
+      "developer_notes",
+      "player_feedback",
+      "game_revision"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 62,
+    "concept": "Commitment to improving the game based on player communication.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The *Shadowrun* combat system has been reworked to run faster and cleaner than in the first-edition rules. Gun combat is now deadly, but the rules also contain a system of balances to allow gamemasters to adjust the feel of the game to suit their style and the style of their group.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_system",
+      "game_balance",
+      "gamemaster_guidance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 63,
+    "concept": "Improvements to the combat system for speed and balance.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "The Combat Turn sequence has been fleshed out and refined to give players a clearer understanding of what their characters can and cannot do. Both combat and magic were adjusted to create an equitable balance of power in the game, and both provide suggestions allowing the gamemaster to fine-tune that balance to fit his group.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "balance_adjustments",
+      "gamemaster_guidance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 64,
+    "concept": "Refinements in the Combat Turn sequence and balance adjustments.",
+    "dependencies": []
+  },
+  {
+    "title": "DEVELOPER'S NOTES",
+    "content": "Most sections in *Shadowrun, Second Edition*, reflect the refinements, expansions, revisions, and clarifications that have appeared in the various *Shadowrun* sourcebooks. These changes are also the result of further efforts by the designers and a response to the feedback of the players.",
+    "category": "general",
+    "subcategory": "game_updates",
+    "tags": [
+      "second_edition",
+      "developer_notes",
+      "game_design",
+      "player_feedback"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-locations-lore-ocr.txt",
+    "chunk_index": 65,
+    "concept": "Overall changes in the second edition reflecting previous sourcebooks and player feedback.",
+    "dependencies": []
+  }
+]

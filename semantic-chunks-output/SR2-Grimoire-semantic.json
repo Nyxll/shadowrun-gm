@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "*The Grimoire* is the magic sourcebook for the Shadowrun game system. The material in this book expands on the magic rules in the Shadowrun rulebook and introduces additional systems that add to the game's depth.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "grimoire",
+      "magic_rules",
+      "shadowrun",
+      "sourcebook"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to *The Grimoire* and its purpose.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "As with all expansion rules, players and the gamemaster should examine the optional rules and agree on which, if any, to add to their game. Gamemasters should always feel free to change or adjust any Shadowrun rules to fit the type of game they intend to play.",
+    "category": "general",
+    "subcategory": "optional_rules",
+    "tags": [
+      "optional_rules",
+      "game_master",
+      "player_guidance",
+      "rule_adjustments"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 1,
+    "concept": "Guidance for players and gamemasters on using optional rules.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "Originally published in 1989 as a supplement to the first edition of the Shadowrun rules, released that year, *The Grimoire* has been revised to conform to the updated Shadowrun, Second Edition (SRII) rules.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "the_grimoire",
+      "shadowrun_2e",
+      "magic_system",
+      "historical_context"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 2,
+    "concept": "Historical context and revision of *The Grimoire*.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "A substantial portion of the material presented in the original Grimoire now appears in Shadowrun, Second Edition. Information that still appears only in The Grimoire has been clarified, updated, and expanded.\n\nAny references in this book to the basic Shadowrun rules refer to those given in the second edition (hereafter abbreviated SRII).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "grimoire",
+      "shadowrun_2nd_edition",
+      "updates",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 3,
+    "concept": "Content updates from the original Grimoire to SRII.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "*The Grimoire* presents substantial changes to several aspects of the basic Shadowrun magic system. The Enchanting and Spell Design rules have been updated and expanded.\n\nThe same is true for the overview of nature and elemental spirits, which includes three new types: watchers, allies, and free spirits.\n\n*The Grimoire* also includes sections on magical Initiation, advanced Metamagic, Magic Groups, Astral Quests, and the Metaplanes.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magic_system",
+      "metamagic",
+      "spirits",
+      "initiation",
+      "enchanting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 4,
+    "concept": "Overview of changes to the magic system in *The Grimoire*.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "New magic-wielding opponents appear in the form of Toxic Spirits and Shamans and Insect Spirits and Shamans, and the book ends with an expanded Spell Directory and Table of Spells.\n\nThe ways of magic, the paths magicians walk and cross, are many and varied. Being magically active is a state that nearly defies description.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "toxic_spirits",
+      "insect_spirits",
+      "shamans",
+      "spell_directory",
+      "magic_opponents"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 5,
+    "concept": "Introduction of new opponents and resources in *The Grimoire*.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "What is it like to see the world through magical eyes? How do the streets, the wilderness, the people themselves look to one who is aware? Choose a path, walk the way, and discover the answers for yourself.\n\nWhat makes a magician? Ask a mage: \"Study. Practice. Will. Years of discipline to hone the inherent talent into power.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magical_perspectives",
+      "exploration",
+      "mage_disciplines"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 6,
+    "concept": "Encouragement for exploration of magical perspectives.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "Ask a shaman: \"When the spirits speak, listen to hear the power within and dance to its music with the totem. It is a dance a shaman must practice all his life.\"",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "spirits",
+      "totem",
+      "magic",
+      "dance"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 7,
+    "concept": "Shamanic perspective on the nature of being a magician.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "Or ask a Wiccan, or a voudoun houngan, or a Shinto miko, or... well, ask ten magicians what makes them magicians, and they'll spout thirteen different answers.",
+    "category": "magic",
+    "subcategory": "belief_systems",
+    "tags": [
+      "magic",
+      "beliefs",
+      "magicians",
+      "diversity",
+      "traditions"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 8,
+    "concept": "Diversity of beliefs about what constitutes a magician.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "This book is not about magical training or which techniques are valid and which are superstitious drek. That squawk's been going loud and long for centuries, and the Awakening has only made it harder to decide.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magical_training",
+      "awakening",
+      "superstitions"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 9,
+    "concept": "Clarification of the book's focus away from training techniques.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "These days it is possible for some kid from the Barrens to use native talent and a half-dozen spells from a pirate grimoire to splatter someone with a doctorate in thaumaturgy from Texas A&M&M. So whose training was worth more?",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magical_training",
+      "spellcasting",
+      "thaumaturgy",
+      "pirate_grimoire"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 10,
+    "concept": "Discussion on the value of different types of magical training.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "But the late mage and the street-wiz who smoked him have this in common: both have made magic the most important thing in their lives, and they have devoted the major portion of their time and energy to that commitment.\n\nThat's what makes a real magician. Anything else is just dabbling.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magicians",
+      "commitment",
+      "magic",
+      "devotion",
+      "lifestyle"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 11,
+    "concept": "Commonality among magicians regarding their commitment to magic.",
+    "dependencies": []
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "Shadowrun players with magician characters discover the truth of the commitment required for magic as they realize theirs are the only characters with major demands on their Karma.\n\nEveryone else saves it up, buys some skills, and tries to keep a few points on the karmic credstick to save their butts when a run turns ugly.\n\nMagicians are a different story, chummer. They burn Karma just to learn new spells, per p. 132 Shadowrun, Second Edition (SRII).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "karma_management",
+      "magician",
+      "spell_learning",
+      "gameplay",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 12,
+    "concept": "Impact of being a magician on Karma management in gameplay.",
+    "dependencies": [
+      "Shadowrun Second Edition rules"
+    ]
+  },
+  {
+    "title": "Sr2 Grimoire.Txt",
+    "content": "By using a grimoire, specifically this book, they will spend still more to conjure more powerful spirits, cast more potent spells, and penetrate the deeper secrets of magic through initiation.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "grimoire",
+      "magic_abilities",
+      "initiation",
+      "spirits",
+      "spell_power"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "SR2-Grimoire.txt",
+    "chunk_index": 13,
+    "concept": "Effects of using *The Grimoire* on a magician's abilities.",
+    "dependencies": []
+  }
+]

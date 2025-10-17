@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Ideally, characters should view magic in the Shadowrun universe as a mysterious, unpredictable force that exposes its users to great risk, as well as providing them with great power. However, as players have grown increasingly familiar with the magic rules over the past few years, characters no longer fear magic's random and unpredictable nature. In addition, some magician characters have amassed enormous powers that disrupt game balance and make the life of their teams much safer—and a lot less fun. The rules in this section are designed to remedy these problems by providing gamemasters with new ways to inject more unpredictability and danger into the use of magic, restrict the power of magician characters, and reduce the total amount of magic in their games.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magic",
+      "game_balance",
+      "gamemaster_tools",
+      "unpredictability",
+      "character_power"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 0,
+    "concept": "Overview of magic in Shadowrun and its impact on gameplay",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Those players anxiously awaiting a dramatic, noticeable rise in the magic level of the universe should keep in mind that all Shadowrun magic depends on the level of mana, a natural force that rises and falls in a cycle that lasts thousands of years. Currently, the universe's mana level is simply not high enough to power specialty magic items other than foci. Some day the mana level may rise high enough to power such items and make possible other unimaginable magical feats. Of course, mana is a mysterious and unknown force, so no one can truly predict what course it will take. That said, various Shadowrun books such as Threats, Harlequin's Back and Awakenings contain subtle hints and clues about the ebb and flow of mana, and interested players will find continuing clues to coming changes in future Shadowrun releases.",
+    "category": "magic",
+    "subcategory": "mana_levels",
+    "tags": [
+      "mana",
+      "magic_level",
+      "shadowrun_universe",
+      "foci",
+      "mystical_forces"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 1,
+    "concept": "Explanation of mana levels and their influence on magic in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Magical initiation (see The Grimoire and Awakenings sourcebooks) provides magical characters with access to new abilities and options such as metamagic, and gives them nearly unlimited potential to develop increasing amounts of power. The following options provide gamemasters with ways to control magical initiations in their games, and to make initiation more accessible to characters who are not well-acquainted with the complex rules of initiation and metamagic.",
+    "category": "magic",
+    "subcategory": "magical_initiation",
+    "tags": [
+      "magical_initiation",
+      "metamagic",
+      "game_master",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 2,
+    "concept": "Introduction to magical initiation and its significance",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Ideally, magical initiation represents a character's magical education and slow accumulation of wisdom. All too often, however, magician characters undergo initiation as soon as possible to reap the benefits it provides. In some campaigns, this may be acceptable and even desirable. Generally, however, a rash of 'rampant initiations' can ruin the balance of a game. Gamemasters can restrict initiations in several ways. Most simply, gamemasters can prohibit player characters from using the Force Points from their allocated Resources to create starting-character initiates.",
+    "category": "magic",
+    "subcategory": "magical_initiation",
+    "tags": [
+      "magical_initiation",
+      "game_balance",
+      "gamemaster_guidance",
+      "character_development"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 3,
+    "concept": "Discussion on the ideal nature of magical initiation and potential issues",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Alternatively, the gamemaster can require that a teacher, spirit-helper or magical group of some kind assist during the first Initiation of any character. By controlling the availability of suitable teachers, the gamemaster can control initiations in his campaigns. Additionally, the search for a suitable teacher can become an adventure goal and provide the character with a chance to earn some extra Karma toward initiation. Players may prefer this simple initiation restriction because it preserves most of their choices—once the character has achieved Initiate Grade Rating 0, he is free to self-initiate per standard rules.",
+    "category": "magic",
+    "subcategory": "initiation",
+    "tags": [
+      "initiation",
+      "gamemaster",
+      "teacher_requirements",
+      "adventure_goal",
+      "karma"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 4,
+    "concept": "Methods for gamemasters to restrict magical initiation through teacher requirements",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "Gamemasters can also limit initiations by requiring that characters undergo ordeals for all initiations or when attempting to reach specific Grade Ratings (see pp. 39-41, Grimoire and pp. 113-14, Awakenings for ordeal rules). Ordeal requirements work especially well with the gradual initiation system described below.",
+    "category": "magic",
+    "subcategory": "initiation",
+    "tags": [
+      "ordeals",
+      "initiation",
+      "magical",
+      "grade_ratings"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 5,
+    "concept": "Using ordeal requirements as a restriction on magical initiation",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Lifestyle Md.Txt",
+    "content": "The knowledge and abilities provided by initiation represent a quantum leap in the development of a magician. Some gamemasters may prefer to change this vast leap into a series of short hops so that they can better control the abilities that a magician gains as he is initiated.",
+    "category": "magic",
+    "subcategory": "initiation",
+    "tags": [
+      "initiation",
+      "magicians",
+      "gamemaster",
+      "abilities",
+      "development"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-lifestyle-md.txt",
+    "chunk_index": 6,
+    "concept": "Introduction to the concept of gradual initiation for magicians",
+    "dependencies": []
+  }
+]

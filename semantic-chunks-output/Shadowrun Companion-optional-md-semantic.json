@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "The following rules offer options for certain facets of the game that many players already tweak using house rules. As with all the rules and systems in this book, players and gamemasters should agree on which optional rules will be incorporated into their game before using any optional rules.",
+    "category": "general",
+    "subcategory": "optional_rules",
+    "tags": [
+      "optional_rules",
+      "house_rules",
+      "gameplay"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to Optional Rules",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "According to the standard rules, players may not purchase any gear for their characters during character creation that has a Rating higher than 63. While this effectively serves to prevent characters from beginning the game with high-end government- and corporate-level gear, it fails to account for the fact that certain legally available items are also very difficult to obtain. To reflect the concept of limited-edition or hard-to-get items (and to keep characters a little less powerful at character creation), use the following rule: No character may start the game with a piece of gear with an Availability of greater than 66.",
+    "category": "character_creation",
+    "subcategory": "availability",
+    "tags": [
+      "availability",
+      "character_creation",
+      "gear",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 1,
+    "concept": "Availability Rule for Character Creation",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "Think of it in terms of a Ferrari Testarossa. You may have seen one on TV, and if you live in a large city you actually may have seen one on the street or at an auto show. But owning one is out of the question—heck, you might even have to do research to find out where to buy one. The gamemaster must use this rule if he or she is using the State-of-the-Art Model Edge.",
+    "category": "gear_mechanics",
+    "subcategory": "availability",
+    "tags": [
+      "availability",
+      "gear",
+      "gamemaster",
+      "rules",
+      "shadowrun"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 2,
+    "concept": "Example of Availability Concept",
+    "dependencies": [
+      "Availability Rule for Character Creation"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "Occasionally, a character will try to make an opponent back down from a confrontation on the strength of his presence and reputation alone. Facing down an opponent in this manner requires a successful Facedown Test. For the test, a character can use his Willpower or Charisma Attribute (whichever is higher) plus a number of dice equal to his Karma Pool (NPCs use a number of dice equal to their Threat Ratings). Karma Points are not actually spent for the test—the Karma Pool is simply used as a measure of the character's reputation.",
+    "category": "combat",
+    "subcategory": "intimidation",
+    "tags": [
+      "facedown_test",
+      "willpower",
+      "charisma",
+      "karma_pool",
+      "opponent"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 3,
+    "concept": "Facedown Test Mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "The Facedown Test target number equals the opponent's Willpower. In turn, the target of the facedown makes an opposing Willpower Test to resist. The test target number equals the rating of the Attribute the character is using for his or her test. The character who scores the most successes wins the test and forces his opponent to back down.",
+    "category": "combat",
+    "subcategory": "facedown",
+    "tags": [
+      "facedown_test",
+      "willpower_test",
+      "opposing_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 4,
+    "concept": "Facedown Test Resolution",
+    "dependencies": [
+      "Facedown Test Mechanics"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "A character who loses a Facedown Test and decides to attack the winner suffers a +1 target number penalty for every 2 points in his Margin of Failure.",
+    "category": "combat",
+    "subcategory": "facedown_test",
+    "tags": [
+      "facedown_test",
+      "combat_mechanics",
+      "penalties"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 5,
+    "concept": "Consequences of Losing a Facedown Test",
+    "dependencies": [
+      "Facedown Test Resolution"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "Sometimes it's not how you say it—it's how LOUD you say it. Intimidation, a new Concentration of the Negotiation Skill, represents this principle. By making a successful Intimidation Test(s), a character can make a subject answer questions he wouldn't answer otherwise or give in to other demands.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "intimidation",
+      "negotiation_skill",
+      "character_interaction",
+      "role_playing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 6,
+    "concept": "Intimidation Concentration Overview",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "The Intimidation Test Modifiers Table provides target modifiers for Intimidation Tests. (The modifiers may also be used for any tests of Negotiation or its Concentrations, including Interrogation.)",
+    "category": "skills",
+    "subcategory": "intimidation",
+    "tags": [
+      "intimidation",
+      "negotiation",
+      "test_modifiers",
+      "interrogation",
+      "skills"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 7,
+    "concept": "Intimidation Test Modifiers",
+    "dependencies": [
+      "Intimidation Concentration Overview"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "If desired, gamemasters may allow subjects of intimidation attempts to make opposing Willpower Tests to resist. Such a test uses a target number equal to the Skill Rating of the intimidator. If the intimidator generates more successes, the subject spills the proverbial beans.",
+    "category": "skills",
+    "subcategory": "intimidation",
+    "tags": [
+      "intimidation",
+      "willpower_test",
+      "opposing_tests",
+      "gamemaster_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 8,
+    "concept": "Opposing Willpower Tests in Intimidation",
+    "dependencies": [
+      "Intimidation Concentration Overview"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "Gamemasters can use the Contact Knowledge Table to determine how much a subject knows and reveals. If appropriate, the subject does the intimidator's bidding. If the target of the intimidation generates more successes, he resists attempts to coerce him and does not reveal information. In fact, the subject may deliberately feed his would-be intimidator false information to set up his tormentor.",
+    "category": "skills",
+    "subcategory": "intimidation",
+    "tags": [
+      "intimidation",
+      "contact_knowledge",
+      "successes",
+      "coercion"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 9,
+    "concept": "Outcome of Intimidation Attempts",
+    "dependencies": [
+      "Opposing Willpower Tests in Intimidation"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Optional Md.Txt",
+    "content": "Individual gamemasters can allow roleplaying to dictate the exact details of an intimidation attempt or interrogation. Such interactions have no time limits; a gamemaster can decide that a single opposed Intimidation Test will decide the outcome of an interrogation session or instruct players to make tests for every question.",
+    "category": "skills",
+    "subcategory": "intimidation",
+    "tags": [
+      "roleplaying",
+      "intimidation",
+      "interrogation",
+      "gamemaster",
+      "tests"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-optional-md.txt",
+    "chunk_index": 10,
+    "concept": "Roleplaying and Intimidation Mechanics",
+    "dependencies": []
+  }
+]

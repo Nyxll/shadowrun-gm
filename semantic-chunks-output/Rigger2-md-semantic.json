@@ -1,0 +1,199 @@
+[
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "If the only thing that comes to mind when you think of a rigger is the 'car chick' or even worse the 'getaway guy,' then this book is for you. For those of you who always wished the rigger character could fulfill its potential as a vital element of the Shadowrun team from commanding drones, to taking control of a security-rigged building or even using a vehicle as a weapon to hit stuff that gets in the way (including those pesky pedestrians) well, you've found a home, chummer.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "rigger",
+      "introduction",
+      "shadowrun",
+      "team_dynamics",
+      "drones"
+    ],
+    "content_type": "introduction",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to the Rigger 2 book and its purpose",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Rigger 2 includes everything you want to know about rigging and riggers in a single volume, from character creation to vehicle creation, from vehicle combat to drone use to rigging a security system. The rules contained in this volume replace the rigger rules published in Shadowrun, Second Edition and the Rigger Black Book.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles_and_drones",
+    "tags": [
+      "rigging",
+      "vehicles",
+      "drones",
+      "character_creation",
+      "combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 1,
+    "concept": "Overview of the content and scope of Rigger 2",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Rigger 2 begins with The Rigger, which talks about the rigger from the perspective of dice pools, skills and concentrations, cyberware/bioware and even Edges and Flaws. This section also covers what it takes to be a rigger, including insights into the mind and emotions of someone jacked into a vehicle.",
+    "category": "character_creation",
+    "subcategory": "riggers",
+    "tags": [
+      "rigger",
+      "characteristics",
+      "skills",
+      "cyberware",
+      "bioware"
+    ],
+    "content_type": "introduction",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 2,
+    "concept": "Description of the initial chapter focusing on the rigger's characteristics",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "From there we go straight into Standard Vehicle Operations, which covers everything from the basic Driving Test to vehicle statistics and attributes. This section describes what a vehicle can and can't do, and introduces the concept of Stress—the idea that a vehicle will wear down if not cared for properly.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicle_operations",
+    "tags": [
+      "standard_vehicle_operations",
+      "vehicle_maintenance",
+      "driving_test",
+      "vehicle_statistics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 3,
+    "concept": "Explanation of Standard Vehicle Operations and vehicle maintenance concepts",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Now, what good is becoming your vehicle if you can't see what's going on around you? The Sensors chapter is devoted entirely to explaining how a rigger uses the sensors of his vehicle to observe and affect his world. This section also includes the basics of Electronic Countermeasures (ECM) and Electronic Deception (ED).",
+    "category": "gear_mechanics",
+    "subcategory": "sensors",
+    "tags": [
+      "riggers",
+      "sensors",
+      "ecm",
+      "ed",
+      "vehicle"
+    ],
+    "content_type": "introduction",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 4,
+    "concept": "Overview of the Sensors chapter and its importance for riggers",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "The chapter on Special Vehicle Operations offers rules for operating everything from VTOLs and other airborne vehicles to hovercraft and vehicles with arms, and even pulling and towing vehicles.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicle_operations",
+    "tags": [
+      "special_vehicle_operations",
+      "vtol",
+      "hovercraft",
+      "towing",
+      "vehicle_types"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 5,
+    "concept": "Description of Special Vehicle Operations and its rules for various vehicle types",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Now that your rigger is fully constructed and knows his vehicles inside and out, it's time to test his abilities on the street. The chapter on Vehicle Combat provides rules to cover every situation, from auto chases to running down pedestrians. An expanded turn sequence incorporates the rigger's actions into the flow of the standard Combat Turn.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "rigger",
+      "combat_turn",
+      "auto_chases",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 6,
+    "concept": "Introduction to Vehicle Combat and its mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "The rules for magic and vehicles have been expanded and updated, offering the opportunity to include every facet of the awakened world into a single running fight! Rigger 2 also gives the rigger the tools for the next step: firing her weapons directly from the vehicle. Vehicle Gunnery gives target numbers and modifiers for all vehicle-mounted and hand-held weapons, including missile rules.\n\nThe addition of indirect fire and area-effect rules are custom-designed to ramp up the paranoia level in every city where your team runs the shadows.",
+    "category": "combat",
+    "subcategory": "vehicle_gunnery",
+    "tags": [
+      "magic_integration",
+      "vehicle_combat",
+      "gunnery_rules",
+      "indirect_fire",
+      "area_effect"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 7,
+    "concept": "Details on the integration of magic into vehicle combat and Vehicle Gunnery rules",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "But if you think that's all a rigger can handle, you're wrong. The Drones chapter describes those special friends of the rigger that allow him to see everything and be everywhere at once. This chapter covers all remote control operations needed to sic these mechanical nightmares on your enemies, and introduces a new element to the world of Shadowrun robotics.",
+    "category": "gear_mechanics",
+    "subcategory": "drones",
+    "tags": [
+      "drones",
+      "rigger",
+      "remote_control",
+      "robotics",
+      "operations"
+    ],
+    "content_type": "introduction",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 8,
+    "concept": "Overview of the Drones chapter and its role in rigger operations",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Riggers interested in working from a more defensive posture can conduct Electronic Warfare using a remote control deck to interfere with security operations from a distance, taking advantage of a variety of tactics, from jamming transmissions to taking control of an enemy's drones.",
+    "category": "matrix",
+    "subcategory": "electronic_warfare",
+    "tags": [
+      "riggers",
+      "electronic_warfare",
+      "tactics",
+      "remote_control",
+      "security_operations"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 9,
+    "concept": "Explanation of Electronic Warfare tactics available to riggers",
+    "dependencies": []
+  },
+  {
+    "title": "Rigger2 Md.Txt",
+    "content": "Finally, for those riggers who like to fight up close and personal, the Security Rigger section fleshes out the rules on rigging a building. These rules cover everything from breaking into a security system to a network combat between two riggers fighting to take control of an entire security system.",
+    "category": "combat",
+    "subcategory": "network_combat",
+    "tags": [
+      "rigging",
+      "security_system",
+      "network_battle",
+      "close_combat",
+      "rigger"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Rigger2-md.txt",
+    "chunk_index": 10,
+    "concept": "Description of the Security Rigger section and its rules for rigging buildings",
+    "dependencies": []
+  }
+]

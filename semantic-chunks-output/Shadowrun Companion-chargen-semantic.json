@@ -1,0 +1,369 @@
+[
+  {
+    "title": "Introduction",
+    "content": "The **Shadowrun Companion** guides players through the life of a shadowrunner, from character creation to retirement. The character creation section clarifies and expands on the system in SRII and includes a new point-based approach.",
+    "category": "character_creation",
+    "subcategory": "character_creation_system",
+    "tags": [
+      "shadowrun_companion",
+      "character_creation",
+      "point_based",
+      "sr2"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 0,
+    "concept": "Overview of the Shadowrun Companion and character creation.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "This section also introduces **Edges and Flaws**, which are personality traits that make characters unique and can affect gameplay. In addition, the Character Creation section provides rules for playing a shapeshifter and introduces new metahuman variants.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "shapeshifters",
+      "metahuman_variants"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 1,
+    "concept": "Introduction of Edges and Flaws, shapeshifter rules, and new metahuman variants.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Because the **Shadowrun** game system is based on the successful use of skills, the **Skills and Training** section offers a revised Skill Web with a more consistent logic, and explains the changes.",
+    "category": "skills",
+    "subcategory": "skills_and_training",
+    "tags": [
+      "skills",
+      "training",
+      "skill_web",
+      "revised"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 2,
+    "concept": "Revised Skill Web and changes in the Skills and Training section.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "This section also clarifies and expands the skill defaulting rules and offers a more realistic training system for learning new and improving old skills.",
+    "category": "skills",
+    "subcategory": "skill_defaulting",
+    "tags": [
+      "skill_defaulting",
+      "training_system",
+      "learning_skills"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 3,
+    "concept": "Clarification of skill defaulting rules and training system.",
+    "dependencies": [
+      "Skills and Training"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "**Player-character contacts** have always been important but under-used. **Contacts and Enemies** suggests ways to expand the role of these non-player characters, from creating personalities to exploring the distinction between what a contact knows and what they are willing to reveal.",
+    "category": "general",
+    "subcategory": "contacts_and_enemies",
+    "tags": [
+      "player_character",
+      "contacts",
+      "non_player_characters",
+      "role_playing",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 4,
+    "concept": "Expansion of the role of player-character contacts and enemies.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Players can also network their contacts through the **Friends of Friends** option, which adds new depth to their sources for information. This section also describes several non-traditional contacts, including the Shadowland BBS.\n\nContacts and Enemies provides rules for creating enemies and tips for how to effectively present them in the game.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "friends_of_friends",
+      "networking",
+      "non_traditional_contacts",
+      "shadowland_bbs",
+      "enemies"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 5,
+    "concept": "Networking contacts through Friends of Friends and description of non-traditional contacts.",
+    "dependencies": [
+      "Contacts and Enemies"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "The **Advanced Rules** section offers new uses and optional rules for Karma, which is the first change to those rules since the release of **Shadowrun, Second Edition**.\n\nThese variations include the life-saving Hand of God rule, favors and markers, and guidelines for character advancement in a Karma-less campaign.",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "karma",
+      "optional_rules",
+      "character_advancement",
+      "hand_of_god",
+      "favors"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 6,
+    "concept": "Introduction to new uses and optional rules for Karma.",
+    "dependencies": [
+      "Advanced Rules"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "This section also offers advanced rules for tailoring how magic works, a system for creating workable statistics for famous NPCs, threats, and other opponents of shadowrunners.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "advanced_rules",
+      "npc_statistics",
+      "magic_customization"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 7,
+    "concept": "Advanced rules for magic and NPC statistics.",
+    "dependencies": [
+      "Advanced Rules"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "There are also state-of-the-art rules that allow gamemasters to control the technology curve in their campaigns, as well as a few often-requested options for familiar rules.\n\n**Running the Game** gives gamemasters a framework and outline to use when designing their own scenarios, adventures, and campaigns.",
+    "category": "general",
+    "subcategory": "game_mastering",
+    "tags": [
+      "technology_curve",
+      "gamemaster_rules",
+      "campaign_design"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 8,
+    "concept": "Rules for controlling technology curve and familiar options.",
+    "dependencies": [
+      "Advanced Rules"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "**Alternate Campaign Concepts** shows gamemasters how to develop and run alternative campaign archetypes and includes examples of player character groups like Doc Wagon EMTs and Lone Star teams.",
+    "category": "general",
+    "subcategory": "campaign_concepts",
+    "tags": [
+      "alternative_campaigns",
+      "gamemaster_tips",
+      "player_character_groups"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 9,
+    "concept": "Development of alternative campaign archetypes and examples.",
+    "dependencies": [
+      "Running the Game"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "This section also provides rules for creating street gangs and designing gang-member characters, suggests campaign hooks for drawing street gangs into a game, and describes five Seattle gangs in detail to demonstrate the possibilities of running gang storylines.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "street_gangs",
+      "campaign_hooks",
+      "seattle"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 10,
+    "concept": "Rules for street gangs, campaign hooks, and detailed descriptions of Seattle gangs.",
+    "dependencies": [
+      "Running the Game",
+      "Alternate Campaign Concepts"
+    ]
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "To those who have been playing the game since its inception, FASA producing a rules companion six years after the initial rules were published might seem like a step backward. It's likely that most of the material in this book covers aspects of the game you currently ignore, for which you've already made up house rules, or that have already been answered at a Shadowrun convention seminar. You might be disappointed that this book is not filled with new rules and may have even been hoping for Shadowrun, Third Edition. We sympathize with your feelings.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrun_companion",
+      "player_expectations",
+      "game_rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 11,
+    "concept": "Introduction to the Shadowrun Companion and player expectations.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "The difficulty with producing a companion book is that it should respond to player questions and comments in a useful, effective way, and it's hard to decide when to stop compiling information and actually publish a response.",
+    "category": "general",
+    "subcategory": "rules_companion",
+    "tags": [
+      "rules",
+      "companion",
+      "player_feedback",
+      "publishing"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 12,
+    "concept": "Challenges in creating a rules companion.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "In the years since the second edition of Shadowrun was published, we've noticed an increase in general questions from both new and veteran players about the basics of playing, running, and having fun with the game. Instead of asking about the complexity of using the metaplanes, advanced Matrix design, or the mysteries of cybermancy, Shadowrun players wanted more information about character creation, Karma, how to sustain a campaign, and the uses of skills and contacts—the basic concepts of the game.",
+    "category": "general",
+    "subcategory": "game_mechanics",
+    "tags": [
+      "basic_mechanics",
+      "character_creation",
+      "campaign_management",
+      "skills_usage",
+      "contacts"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 13,
+    "concept": "Shift in player inquiries towards basic game mechanics.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "With any game system and universe, especially one as rich as Shadowrun, the tendency is to make each book bigger, more significant, and filled with more 'toys'—to up the ante, push the envelope, keep the fans entertained, and always give them something new and exciting. Each product needs to outshine the last one. While that kind of one-upmanship keeps us on our toes and constantly improves the product, it also means that we sometimes forget to answer the players' basic questions.",
+    "category": "general",
+    "subcategory": "product_development",
+    "tags": [
+      "shadowrun",
+      "product_innovation",
+      "player_needs",
+      "game_design"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 14,
+    "concept": "The challenge of maintaining product innovation while addressing player needs.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "The number of players and gamemasters asking for advice on what to do with this diverse, intriguing universe prompted us to re-evaluate our plan for The Shadowrun Companion. We are confident that the result will satisfy the players who were asking those questions.",
+    "category": "general",
+    "subcategory": "gameplay_advice",
+    "tags": [
+      "shadowrun_companion",
+      "player_feedback",
+      "game_mastering"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 15,
+    "concept": "Re-evaluation of the Shadowrun Companion's purpose based on player feedback.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "Even if you have already found a way to fill in the blanks left by published Shadowrun products, we believe you will find new, interesting, and fun concepts in this book. As always, gamemasters should modify, adapt, or rework these rules as necessary to accommodate their groups' style of play.",
+    "category": "general",
+    "subcategory": "game_mastering",
+    "tags": [
+      "gamemaster",
+      "adaptation",
+      "house_rules",
+      "gameplay",
+      "flexibility"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 16,
+    "concept": "Encouragement for gamemasters to adapt rules for their groups.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "Because all the rules in The Shadowrun Companion are considered optional, gamemasters and players should agree on which rules to use before incorporating any of these concepts into their games. The goal of The Shadowrun Companion is to make playing Shadowrun even more enjoyable. Do whatever it takes to make your game fun!",
+    "category": "general",
+    "subcategory": "optional_rules",
+    "tags": [
+      "optional_rules",
+      "player_agreement",
+      "game_enjoyment"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 17,
+    "concept": "Optional nature of rules in the Shadowrun Companion and the importance of player agreement.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "This section provides suggestions to help Shadowrun players generate a wide range of interesting, fully realized, and fun-to-play runner characters. In addition to options for varying the character creation system, this section provides optional rules for creating shapeshifter characters and for playing additional metatype variants.",
+    "category": "character_creation",
+    "subcategory": "character_options",
+    "tags": [
+      "character_creation",
+      "shapeshifters",
+      "metatypes",
+      "roleplaying"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 18,
+    "concept": "Overview of character creation options and additional rules.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "THE CONCEPT 'Who do you want to play?' is the most important question to answer before you begin to create your character, because your character can incorporate almost anything you can imagine. You can model your character after a figure in a movie, book, or play; after someone you know personally or an individual in the news; after a historical or mythic figure; or even after yourself—the choices are endless.",
+    "category": "character_creation",
+    "subcategory": "character_concept",
+    "tags": [
+      "character_creation",
+      "concept_definition",
+      "role_playing"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 19,
+    "concept": "Importance of defining character concept in character creation.",
+    "dependencies": []
+  },
+  {
+    "title": "FILLING IN THE BLANKS",
+    "content": "Think about what sort of person you might enjoy 'being' when you game: a fresh-faced innocent just out of Corpville, a jaded street punk who's been rolling people for food his whole life, a disillusioned hard-boiled ex-cop, and so on. What motivates your character? Does she simply lust after money? Does he want to bring The Revolution to the oppressed people of the Sixth World? Is she a psychopath who loves mindless violence? Does he just want to get by?\n\nTara has been reading lately about the Navy Sea, Air, and Land Special Forces...",
+    "category": "character_creation",
+    "subcategory": "character_motivation",
+    "tags": [
+      "character_motivation",
+      "archetypes",
+      "roleplaying"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-chargen.txt",
+    "chunk_index": 20,
+    "concept": "Exploration of character motivations and archetypes.",
+    "dependencies": []
+  }
+]

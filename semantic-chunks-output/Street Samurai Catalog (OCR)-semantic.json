@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**INTRODUCTION** \n**ARES AMERICA WINTER CATALOG 2050**",
+    "category": "gear_mechanics",
+    "subcategory": "catalogs",
+    "tags": [
+      "ares_america",
+      "winter_catalog",
+      "2050",
+      "gear",
+      "street_samurai"
+    ],
+    "content_type": "introduction",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 0,
+    "concept": "Introduction to the Ares America Winter Catalog 2050",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**Personal Weaponry** \n- Monofilament Sword - Page 6 \n- Laser Crescent Axe - Page 7 \n- Super Stun Baton - Page 8 \n- Forearm Snap-Blades - Page 9 \n- Survival Knife - Page 10 \n- Shock Glove - Page 11 \n- Combat Axe - Page 12\n\n**Impact Projectile Weapons** \n- Bow Accessory Mount - Page 13 \n- Compound Bow System - Page 14 \n- Precision Arrows - Page 15",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "personal_weaponry",
+      "impact_projectile_weapons",
+      "street_samurai"
+    ],
+    "content_type": "table",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 1,
+    "concept": "List of personal weaponry items available in the catalog",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**Firearms** \n- Ares Crusader Machine Pistol - Page 16 \n- Ares Light Fire 70 (Light Pistol) - Page 17 \n- Ares Predator II (Heavy Pistol) - Page 18 \n- Beretta Model 200ST (Light Pistol) - Page 19 \n- Browning Ultra-Power (Heavy Pistol) - Page 20 \n- Ceska Black Scorpion Machine Pistol - Page 21 \n- Ceska vz/120 (Light Pistol) - Page 22 \n- Colt Manhunter (Heavy Pistol) - Page 23 \n- Seco LD-120 (Light Pistol) - Page 24 \n- Tiffani Self-Defender (Hold-Out Pistol) - Page 25 \n- Mossberg CMDT (Shotgun) - Page 26 \n- Ruger 100 Sport Rifle - Page 27 \n- Walther MA 2100 Sniping Rifle - Page 28 \n- Beretta Model 70 (SMG) - Page 29 \n- Heckler & Koch MP-5 TX (SMG) - Page 30 \n- Ingram Smartgun (SMG) - Page 31 \n- Sandler TMP (SMG) - Page 32 \n- SCK Model 100 (SMG) - Page 33",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "firearms",
+      "weapons_list",
+      "street_samurai"
+    ],
+    "content_type": "table",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 2,
+    "concept": "List of firearms available in the catalog",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**Firearm Accessories** \n- Improved Clips and Magazines - Page 34 \n- Firepower Ammunition - Page 35 \n- Ultrasound Sight - Page 36 \n- Rangefinder Accessory - Page 37 \n- Gas-Venting Recoil Reduction - Page 38\n\n**Armor** \n- Forearm Guards - Page 39 \n- Form-Fitting Body Armor - Page 40 \n- Securetech Clothing - Page 41",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "firearm_accessories",
+      "armor",
+      "street_samurai"
+    ],
+    "content_type": "table",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 3,
+    "concept": "List of firearm accessories available in the catalog",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**Gear** \n- Grapple Line - Page 42 \n- Grapple Gun and Rappelling Gear - Page 43 \n- Flash Grenade - Page 44 \n- Flash-Pak - Page 45 \n- Micro-Flare - Page 46\n\n**Vehicles** \n- Aurora Racing Bike - Page 47 \n- Viking Heavy Motorcycle - Page 48",
+    "category": "gear_mechanics",
+    "subcategory": "equipment",
+    "tags": [
+      "gear",
+      "equipment_list",
+      "street_samurai",
+      "catalog"
+    ],
+    "content_type": "table",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 4,
+    "concept": "List of gear items available in the catalog",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "Our regular subscribers will notice quite a difference between this catalog and our last. As a direct result of input from our customers, we’ve been able to streamline enormously. We’ve taken their suggestions and transformed this catalog into a primary source for quality weapons and equipment. Every item on these pages has passed the most rigorous tests. That’s why when you buy from Ares America, you know you’re buying the best.",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "street_samurai",
+      "catalog",
+      "weapons",
+      "equipment",
+      "customer_feedback"
+    ],
+    "content_type": "introduction",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 5,
+    "concept": "Description of improvements made to the catalog based on customer feedback",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "We’ve also begun offering the best money-back guarantee in the business. All our equipment has a flat 90-day warranty, no questions asked. On top of that, you still get our phenomenal 60-day or 1,000-round warranty on light firearms and 30-day or 10,000-round warranty on heavy firearms. The best in the business, because you demanded it.",
+    "category": "gear_mechanics",
+    "subcategory": "warranties",
+    "tags": [
+      "money_back_guarantee",
+      "warranties",
+      "firearms",
+      "ares_america"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 6,
+    "concept": "Details of the money-back guarantee and warranties offered by Ares America",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "— Nathaniel Neidich, Director of Sales, Ares America \n\nAres America is a division of Ares Arms, a wholly owned subsidiary of Ares Macrotechnology Incorporated, Detroit, Michigan, UCAS. All items in this catalog are available, by special order, in a hypo-allergenic form for roughly 150 percent of the listed price.",
+    "category": "lore",
+    "subcategory": "corporate_structure",
+    "tags": [
+      "ares_america",
+      "corporate",
+      "director_of_sales",
+      "subsidiaries",
+      "business"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 7,
+    "concept": "Information about the Director of Sales and corporate structure of Ares America",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": ">>>>>[Can you believe that guarantee drek, chummers? My buddy Wedge burned at least 20,000 rounds in his Valiant the first week he had it! Now admittedly, he’s a bit intense ... As anyone can see, this is the current Ares catalog. Normally available only to subscribers, this posted copy isn’t protected, so feel free to comment as you like. All you jokers who read this, beware! I’ve got no control over who says what in this file once it’s up, so not everything you read may be chip-truth. But then again, you never know ....]<<<<< \n— FastJack <14:34:27/10-07-50>",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "street_samurai",
+      "ares_catalog",
+      "weapons",
+      "commentary",
+      "user_experience"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 8,
+    "concept": "Commentary from a user about the catalog and its contents",
+    "dependencies": []
+  },
+  {
+    "title": "Street Samurai Catalog (Ocr).Txt",
+    "content": "**MONOFILAMENT SWORD** \n- Cuts virtually anything like butter! \n- Not as clumsy or random as a monofilament whip! \n\nBecause you demanded it, Ares America is making the Monofilament Sword, an incredible piece of weapon technology, available for the first time. We’ve taken a precision-crafted blade and grafted to it a piece of cutting-edge tech in the form of a monofilament line adhered along the sword’s edge. Not only do you get the balance and excellence of an Ares sword, but you also get the sharpness of a monofilament line leading the way!\n\n| **Concealability** | **Reach** | **Damage** | **Weig...",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "monofilament_sword",
+      "weapons",
+      "gear",
+      "combat_gear",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "Street Samurai Catalog (OCR).txt",
+    "chunk_index": 9,
+    "concept": "Description and features of the Monofilament Sword",
+    "dependencies": []
+  }
+]

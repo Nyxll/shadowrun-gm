@@ -1,0 +1,384 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# SHADOWRUN 2ND EDITION INTRODUCTION",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrun",
+      "2nd_edition",
+      "game_introduction"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "WELCOME TO THE SHADOWS",
+    "content": "You wanna run the shadows? Then listen, chummer, learn everything you can, cuz ignorance will kill ya faster than a fireball.\n-Ess EI EI, Snake shaman\n\nShadowrun Second Edition (SRII) is a revision of the original Shadowrun rules first published in 1989. Using extensive feedback from players and gamemasters, SRII has been revised and rewritten for greater clarity and to provide cleaner, faster play. Players and gamemasters familiar with the first edition rules will find the heart of the game unchanged and the changes consistent with the game's existing logic. The SRII rules contain new material, some clarifying existing material, and some revising and expanding the rules and information published in sourcebooks like *The Grimoire*, *Virtual Realities*, *Rigger Black Book*, *ShadowTech*, and others. These additions reflect continuing thought and design work on the system. The Sourcebook Updates section provides notes and rules modifications pertaining to each of the published sourcebooks/rules supplements for Shadowrun, bringing the information in those books into line with the SRII rules. SRII does NOT make other Shadowrun products obsolete.\n\n---",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrun",
+      "second_edition",
+      "game_rules",
+      "introduction"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 1,
+    "concept": "WELCOME TO THE SHADOWS",
+    "dependencies": []
+  },
+  {
+    "title": "THE YEAR IS 2053",
+    "content": "Technology, too, has changed people. No longer only flesh, many have turned to the artificial enhancements of **cyberware** to make themselves more than human. Stronger, smarter, faster is the human of today.\n\nIn the world of 2053, the metroplexes are monsters casting long shadows. And it’s in the cracks between the giant corporate structures that shadowrunners find their home. When the megacorps want a job done but they don’t want to dirty their hands, it’s a **shadowrun** they need, and they turn to the runners who are the only ones who can do it. Though a shadowrunner’s existence is not listed in any governmental or corporate database, the demand for his or her services is high. She might be a **decker**, sliding like a whisper through the visualized databases of giant corporations, spiriting away the only thing of real value—information. Or perhaps he is a **street samurai**, an enforcer for hire whose combat skills and reflexes make him the ultimate urban predator. Or perhaps he or she is a **magician**, possessing an ancient gift, the ability to wield and shape the magical energies that now surrounds the Earth. And that’s exactly the kind of firepower you’ll need if you get hired to make a Shadowrun...\n\n---",
+    "category": "lore",
+    "subcategory": "setting",
+    "tags": [
+      "2053",
+      "cyberware",
+      "shadowrun",
+      "megacorps",
+      "decker"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 2,
+    "concept": "THE YEAR IS 2053",
+    "dependencies": []
+  },
+  {
+    "title": "THE WORLD OF SHADOWRUN",
+    "content": "The world of Shadowrun, known to denizens of the new age as the **Sixth World**, is a place of magic and high technology, a landscape of danger and mystery, a maze of noble sentiments and double-crosses. Those who play stand on the edge, in the shadow of adventure.\n\nWelcome.\n\n**Shadowrun** is a roleplaying game designed for two to eight players. Unlike most such games, however, it is open-ended, with no time limit, specified number of turns to play, or single goal to reach that ends the game. And unlike most games, there is no winner and no loser. The object is to have fun with the exercise of imagination. When this happens, everybody wins.\n\nFor those who have roleplaying game experience, some of the following will be familiar. Those readers may want to skip ahead to Game Concepts, p. 30, or turn to *And So It Came To Pass...* and delve into the history and background of the world of Shadowrun.\n\nFor those new to roleplaying, the following is an introduction. It may not answer all questions or even provide much enlightenment because the roleplaying game is more easily learned from experienced players than a book. So, absorb what you can, then seek out others who are already familiar with Shadowrun so you can learn from them by experiencing it.\n\n---",
+    "category": "lore",
+    "subcategory": "world_background",
+    "tags": [
+      "shadowrun",
+      "sixth_world",
+      "roleplaying_game",
+      "adventure",
+      "imagination"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 3,
+    "concept": "THE WORLD OF SHADOWRUN",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "A good question, but not an easy one to answer. Everyone has read a book or seen a movie where the lead character does something that the reader or viewer finds so utterly wrong that he or she wants to yell out and warn them. But whether the reader calls out or not, it makes no difference. No matter what we say, the character will do what the plot demands; we’re just along for the ride.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "roleplaying_games",
+      "storytelling",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 4,
+    "concept": "Introduction to the concept of roleplaying games versus traditional storytelling.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "The situation in a roleplaying game is very different. When roleplaying, the players control their characters’ actions and respond to the events of the plot. If the player does not want the character to go through the door, the character will not. If the player thinks the character can talk him or herself out of a tight situation rather than resorting to that trusty pistol, he can talk away. The script, or plot, of a roleplaying game is flexible, always changing based on the decisions the players make as characters.",
+    "category": "general",
+    "subcategory": "roleplaying_mechanics",
+    "tags": [
+      "roleplaying",
+      "player_agency",
+      "game_mechanics",
+      "flexible_plot"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 5,
+    "concept": "Explanation of player agency in roleplaying games.",
+    "dependencies": [
+      "Introduction to the concept of roleplaying games versus traditional storytelling."
+    ]
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "The person controlling the story is called the **Gamemaster**. His or her job is to keep track of what is supposed to happen when, describe events as they occur so that the players (as characters) can react to them, keep track of other characters in the game (referred to as **nonplayer characters**), and resolve attempts to take action using the game system.",
+    "category": "general",
+    "subcategory": "gamemaster_roles",
+    "tags": [
+      "gamemaster",
+      "roleplaying_game",
+      "storytelling",
+      "nonplayer_characters",
+      "game_system"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 6,
+    "concept": "Definition and responsibilities of the Gamemaster.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "The Gamemaster describes the world as the characters see it, functioning as their eyes, ears, and other senses. Gamemastering is not an easy task, but the thrill of creating an adventure that engages the other players, tests both the players’ gaming skills and the characters’ skills in the game world, and captures the players’ imaginations makes it worthwhile.",
+    "category": "general",
+    "subcategory": "gamemastering",
+    "tags": [
+      "gamemaster",
+      "roleplaying",
+      "immersive_experience",
+      "adventure_creation"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 7,
+    "concept": "Role of the Gamemaster in creating an immersive experience.",
+    "dependencies": [
+      "Definition and responsibilities of the Gamemaster."
+    ]
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "FASA publishes game supplements and adventures to help this process along, but good Gamemasters always adapt the game universe to suit their own style.",
+    "category": "general",
+    "subcategory": "gamemastering",
+    "tags": [
+      "roleplaying_game",
+      "gamemaster",
+      "adaptation",
+      "game_supplements",
+      "game_universe"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 8,
+    "concept": "Support materials for Gamemasters and the importance of adaptation.",
+    "dependencies": [
+      "Definition and responsibilities of the Gamemaster."
+    ]
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "Stories (the **adventures**) provide the overall plot, a general outline for what might happen at certain times in reaction to other events. The story is no more concrete than that until the players become involved, however.",
+    "category": "general",
+    "subcategory": "roleplaying_game_concepts",
+    "tags": [
+      "roleplaying",
+      "adventures",
+      "gameplay",
+      "storytelling",
+      "framework"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 9,
+    "concept": "Role of adventures in providing a framework for gameplay.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A ROLEPLAYING GAME?",
+    "content": "Then, the adventure becomes a story as involving and dramatic as that great movie you saw last week, or that great book you stayed up all night to finish. In some ways it’s even better, because you helped create it.",
+    "category": "general",
+    "subcategory": "roleplaying_games",
+    "tags": [
+      "roleplaying",
+      "storytelling",
+      "collaboration",
+      "adventure"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 10,
+    "concept": "The collaborative nature of storytelling in roleplaying games.",
+    "dependencies": [
+      "Role of adventures in providing a framework for gameplay."
+    ]
+  },
+  {
+    "title": "GETTING STARTED",
+    "content": "That’s the basic concept. The specifics follow, divided into broad sections covering each aspect of the game. The opening short story, *Musa Ca Change*, provides atmosphere and a taste of the language and style of Shadowrun. The next chapter talks about how the Shadowrun world came to be. The rules for how to play the game begin with Game Concepts, p. 30.\n\nWelcome to the Sixth World, chummer. It’s going to be a heck of a ride.\n\n---",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "getting_started",
+      "shadowrun",
+      "sixth_world"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 11,
+    "concept": "GETTING STARTED",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "The corps have rules, and so do the streets. Play at your own risk.\n-Wida'maker, combat mage",
+    "category": "general",
+    "subcategory": "thematic_elements",
+    "tags": [
+      "game_concept",
+      "thematic_elements",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 12,
+    "concept": "Introduction to the game's thematic elements",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "Following are a few concepts and key terms used in Shadowrun. Some are general roleplaying terms, and others are peculiar to this game system. The rules will make a lot more sense if players become familiar with them. The terms and concepts have been combined into one section for easy reference. The first time a term appears in this orientation section, it is set in bold type.",
+    "category": "general",
+    "subcategory": "game_concepts",
+    "tags": [
+      "shadowrun",
+      "game_terms",
+      "roleplaying",
+      "concepts"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 13,
+    "concept": "Overview of key terms and concepts in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "In Shadowrun, characters often encounter situations in which the gamemaster will ask the player to roll dice to determine the outcome. These dice rolls, called **Success Tests**, gauge how well or poorly a character performs a required task, be it shooting a security guard who disapproves of his face, or persuading an employer that one's services are worth a lot more than what was originally offered. Success Tests also determine how well a character resists damage and other unpleasant matters.",
+    "category": "general",
+    "subcategory": "success_tests",
+    "tags": [
+      "success_tests",
+      "dice_rolls",
+      "game_mechanics",
+      "task_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 14,
+    "concept": "Explanation of Success Tests and their purpose",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "Shadowrun uses a number of six-sided dice to resolve any challenge for a character. The gamemaster will not require a test to find out if a character can open the door, but will probably ask the player to roll dice to see if his character can somersault through the office door, land on his feet, and fire his AK-98 at the three assassins standing behind the corporation's chairman of the board—all without splattering himself or the hostage all over the room.",
+    "category": "general",
+    "subcategory": "dice_usage",
+    "tags": [
+      "dice",
+      "game_mechanics",
+      "challenge_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 15,
+    "concept": "Description of dice usage in resolving character challenges",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "Unlike most games, the results of the dice rolled are not added together, unless the rules specifically direct the player to do so or unless D6 is preceded by a number or a Skill or Attribute name: (**Attribute**)D6.",
+    "category": "general",
+    "subcategory": "dice_mechanics",
+    "tags": [
+      "dice_results",
+      "game_mechanics",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 16,
+    "concept": "Clarification on how dice results are handled in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "The gamemaster will provide the player with a **target number** against which he will make the die roll. The player rolls the indicated number of dice and then compares each die result individually to the target number. Each individual die that scores equal to, or greater than, the target number is considered a **success**. The more dice that score successes, the better the result.",
+    "category": "general",
+    "subcategory": "target_numbers",
+    "tags": [
+      "target_number",
+      "success",
+      "die_roll"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 17,
+    "concept": "Explanation of target numbers and determining successes",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "> Nik, a Cat shaman, is rolling four dice against a Target Number 4. The four dice come up as a 2. 3, 4, and 6. The 4 and the 6 equal or exceed the target number, which gives Nik 2 successes.\n\nTwo other rules are important when rolling the dice for a test. These are the **Rule of One** and the **Rule of Six**.",
+    "category": "general",
+    "subcategory": "dice_mechanics",
+    "tags": [
+      "dice_roll",
+      "success_calculation",
+      "rule_of_one",
+      "rule_of_six",
+      "target_number"
+    ],
+    "content_type": "example",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 18,
+    "concept": "Example illustrating how to calculate successes based on target numbers",
+    "dependencies": [
+      "Explanation of target numbers and determining successes"
+    ]
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "This is the fumble rule, and it has two parts. Any time a die roll result comes up 1 in a test, that die is an automatic failure, no matter what the target number. But the test can still succeed as long as other dice succeed. If ALL the dice rolled for a test come up 1s, it means that the character has made a disastrous mistake. The result may be humorous, embarrassing, or deadly. The gamemaster determines whatever tone is appropriate for the situation, the players, and the dramatic or humorous needs of the moment. Individual rules may also have particular results when the Rule of One is applied.",
+    "category": "general",
+    "subcategory": "game_mechanics",
+    "tags": [
+      "rule_of_one",
+      "fumble_rule",
+      "dice_mechanics",
+      "test_results"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 19,
+    "concept": "Detailed explanation of the Rule of One and its effects",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "The Rule of Six allows tests to succeed against target numbers greater than 6 (since a die only has six sides, it's probably a good thing this rule exists). When making a test against a target number greater than 6, the player may re-roll any dice that comes up a 6 and then add the new result to the 6. Say, for example, that one die result is a 6 in a roll against a target number greater than 6. The player re-rolls the 6, with a result of 5. Adding the two together, the new die roll result is 11 (6 + 5). The player can re-roll additional 6s if the current die result total is still less than the target number.",
+    "category": "general",
+    "subcategory": "game_mechanics",
+    "tags": [
+      "rule_of_six",
+      "dice_mechanics",
+      "test_modification"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 20,
+    "concept": "Explanation of the Rule of Six and how it modifies rolls",
+    "dependencies": []
+  },
+  {
+    "title": "GAME CONCEPTS",
+    "content": "Remember, though, it does not matter by how much the individual die roll beats the target number, just that it does. Once the target number has been equaled o...",
+    "category": "general",
+    "subcategory": "target_numbers",
+    "tags": [
+      "target_number",
+      "dice_roll",
+      "game_mechanics",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-fundamentals.ocr.txt",
+    "chunk_index": 21,
+    "concept": "Clarification on the importance of meeting target numbers",
+    "dependencies": []
+  }
+]

@@ -1,0 +1,262 @@
+{
+  "total_files": 28,
+  "successful": 28,
+  "failed": 0,
+  "total_chunks": 1426,
+  "total_cost": 0.12176246250000004,
+  "total_time": 6336.590089082718,
+  "results": [
+    {
+      "file": "core-archtypes.ocr.txt",
+      "chunks": 77,
+      "api_calls": 88,
+      "cost": 0.0073967999999999985,
+      "time": 417.9847984313965,
+      "output": "semantic-chunks-output\\core-archtypes.ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-chargen.ocr.txt",
+      "chunks": 23,
+      "api_calls": 25,
+      "cost": 0.0020324999999999996,
+      "time": 109.69904041290283,
+      "output": "semantic-chunks-output\\core-chargen.ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-combat-rules-ocr.txt",
+      "chunks": 174,
+      "api_calls": 189,
+      "cost": 0.013394174999999998,
+      "time": 724.425420999527,
+      "output": "semantic-chunks-output\\core-combat-rules-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-fundamentals-skill.ocr.txt",
+      "chunks": 47,
+      "api_calls": 52,
+      "cost": 0.004260787500000002,
+      "time": 197.63639092445374,
+      "output": "semantic-chunks-output\\core-fundamentals-skill.ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-fundamentals.ocr.txt",
+      "chunks": 22,
+      "api_calls": 24,
+      "cost": 0.0015759374999999992,
+      "time": 78.26708698272705,
+      "output": "semantic-chunks-output\\core-fundamentals.ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-gamemaster-rules-ocr.txt",
+      "chunks": 151,
+      "api_calls": 165,
+      "cost": 0.012625612499999987,
+      "time": 638.4097120761871,
+      "output": "semantic-chunks-output\\core-gamemaster-rules-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-gear-rules-ocr.txt",
+      "chunks": 107,
+      "api_calls": 119,
+      "cost": 0.009584812500000005,
+      "time": 466.42794036865234,
+      "output": "semantic-chunks-output\\core-gear-rules-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-locations-lore-ocr.txt",
+      "chunks": 66,
+      "api_calls": 72,
+      "cost": 0.0046584,
+      "time": 255.11529564857483,
+      "output": "semantic-chunks-output\\core-locations-lore-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-magic-rules-ocr.txt",
+      "chunks": 208,
+      "api_calls": 229,
+      "cost": 0.01993008750000002,
+      "time": 1028.9952149391174,
+      "output": "semantic-chunks-output\\core-magic-rules-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "core-so-it-came-to-pass-lore.ocr.txt",
+      "chunks": 84,
+      "api_calls": 93,
+      "cost": 0.007616212499999997,
+      "time": 416.5427725315094,
+      "output": "semantic-chunks-output\\core-so-it-came-to-pass-lore.ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Cybertechnology-md.txt",
+      "chunks": 10,
+      "api_calls": 11,
+      "cost": 0.0009763500000000008,
+      "time": 50.17746329307556,
+      "output": "semantic-chunks-output\\Cybertechnology-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "FieldsofFire-gear-ocr.txt",
+      "chunks": 119,
+      "api_calls": 131,
+      "cost": 0.007810087500000021,
+      "time": 479.58456087112427,
+      "output": "semantic-chunks-output\\FieldsofFire-gear-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "FieldsofFire-lore-ocr.txt",
+      "chunks": 60,
+      "api_calls": 67,
+      "cost": 0.005897887500000004,
+      "time": 261.48542976379395,
+      "output": "semantic-chunks-output\\FieldsofFire-lore-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "FieldsofFire-rules-ocr.txt",
+      "chunks": 89,
+      "api_calls": 96,
+      "cost": 0.006142275000000003,
+      "time": 353.6697084903717,
+      "output": "semantic-chunks-output\\FieldsofFire-rules-ocr-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Rigger2-md.txt",
+      "chunks": 11,
+      "api_calls": 12,
+      "cost": 0.0009898500000000005,
+      "time": 45.822126150131226,
+      "output": "semantic-chunks-output\\Rigger2-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-chargen.txt",
+      "chunks": 21,
+      "api_calls": 23,
+      "cost": 0.0018474750000000012,
+      "time": 78.69652652740479,
+      "output": "semantic-chunks-output\\Shadowrun Companion-chargen-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-contacts.txt",
+      "chunks": 45,
+      "api_calls": 49,
+      "cost": 0.0040464000000000055,
+      "time": 200.1422634124756,
+      "output": "semantic-chunks-output\\Shadowrun Companion-contacts-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-edges-md.txt",
+      "chunks": 7,
+      "api_calls": 8,
+      "cost": 0.0008837250000000019,
+      "time": 35.730283975601196,
+      "output": "semantic-chunks-output\\Shadowrun Companion-edges-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-gming.txt",
+      "chunks": 12,
+      "api_calls": 13,
+      "cost": 0.0010604624999999979,
+      "time": 53.50100779533386,
+      "output": "semantic-chunks-output\\Shadowrun Companion-gming-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-improvement-md.txt",
+      "chunks": 6,
+      "api_calls": 7,
+      "cost": 0.0009352499999999986,
+      "time": 30.089104175567627,
+      "output": "semantic-chunks-output\\Shadowrun Companion-improvement-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-lifestyle-md.txt",
+      "chunks": 7,
+      "api_calls": 8,
+      "cost": 0.0009041250000000056,
+      "time": 34.13511300086975,
+      "output": "semantic-chunks-output\\Shadowrun Companion-lifestyle-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-optional-md.txt",
+      "chunks": 11,
+      "api_calls": 12,
+      "cost": 0.000954637499999994,
+      "time": 48.89552617073059,
+      "output": "semantic-chunks-output\\Shadowrun Companion-optional-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-running.txt",
+      "chunks": 9,
+      "api_calls": 10,
+      "cost": 0.0009307875000000021,
+      "time": 42.46244168281555,
+      "output": "semantic-chunks-output\\Shadowrun Companion-running-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowrun Companion-shadowrunning-md.txt",
+      "chunks": 7,
+      "api_calls": 8,
+      "cost": 0.0009002250000000045,
+      "time": 46.44030833244324,
+      "output": "semantic-chunks-output\\Shadowrun Companion-shadowrunning-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Shadowtech-md.txt",
+      "chunks": 15,
+      "api_calls": 16,
+      "cost": 0.001127962499999996,
+      "time": 54.760103940963745,
+      "output": "semantic-chunks-output\\Shadowtech-md-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "SR2-Grimoire.txt",
+      "chunks": 14,
+      "api_calls": 15,
+      "cost": 0.0011700750000000065,
+      "time": 65.05137705802917,
+      "output": "semantic-chunks-output\\SR2-Grimoire-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "Street Samurai Catalog (OCR).txt",
+      "chunks": 10,
+      "api_calls": 11,
+      "cost": 0.001048124999999997,
+      "time": 67.73888635635376,
+      "output": "semantic-chunks-output\\Street Samurai Catalog (OCR)-semantic.json",
+      "status": "success"
+    },
+    {
+      "file": "VirtualRealities-ocr-md.txt",
+      "chunks": 14,
+      "api_calls": 15,
+      "cost": 0.0010614374999999981,
+      "time": 54.704184770584106,
+      "output": "semantic-chunks-output\\VirtualRealities-ocr-md-semantic.json",
+      "status": "success"
+    }
+  ]
+}

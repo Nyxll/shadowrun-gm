@@ -1,0 +1,3755 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# MAGIC\n\n**\"Magic is not tuxedos, white rabbits, and fake flowers anymore. It is power.\"** —Arthur Garrett, Chairman, Department of Occult Studies, UCLA",
+    "category": "magic",
+    "subcategory": "introduction",
+    "tags": [
+      "magic",
+      "occult",
+      "power",
+      "shadowrun",
+      "lore"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to the concept of magic in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "There are few who would have the temerity to argue that any single event in the known history of Earth is more significant than the **return of magic**. The world woke up one morning and suddenly all the rules were different. The boundaries of existence had changed and life had to be relearned. The world had **Awakened**.",
+    "category": "lore",
+    "subcategory": "magic",
+    "tags": [
+      "return_of_magic",
+      "awakening",
+      "world_changes"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 1,
+    "concept": "Description of the significance of the return of magic and the awakening of the world.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "In **Shadowrun**, characters can choose to walk one of three magical paths: that of **shamanism**, of the **hermetic tradition**, or the path of **physical discipline**. Whichever path the character chooses, it is for life. There is no going back.",
+    "category": "magic",
+    "subcategory": "magical_paths",
+    "tags": [
+      "shamanism",
+      "hermetic_tradition",
+      "physical_discipline"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 2,
+    "concept": "Overview of the three magical paths available to characters in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "A character who chooses the shamanic tradition becomes a **shaman**. Shamans receive their power through linking their own inner world of emotion, will, and faith with the external world of nature. This link with nature is personified through a **totem**, an animal figure that exemplifies the shaman's beliefs and way of life.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "totem",
+      "magic",
+      "tradition",
+      "nature"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 3,
+    "concept": "Explanation of the shamanic tradition and the role of totems.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "A character who chooses the hermetic tradition becomes a **mage**. A mage sees the universe as a pattern of abstract forces and energies that can be controlled through complex symbols and formulae of power. Where shamanism is intuitive and improvisational, hermetic magic is more **intellectual** in its approach, relying on observation, theory, practices, and precise execution. Mages are **scholars** and often have elaborate libraries and equipment to assist their research and practice.",
+    "category": "magic",
+    "subcategory": "hermetic_tradition",
+    "tags": [
+      "hermetic",
+      "magic",
+      "mages",
+      "traditions",
+      "scholars"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 4,
+    "concept": "Description of the hermetic tradition and the characteristics of mages.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "A character who walks the path of physical discipline becomes a **physical adept**. A physical adept is concerned with mastery and perfection of the physical body in order to achieve a state of inner harmony. A physical adept can do little that does not directly involve the body, but that is usually enough.",
+    "category": "magic",
+    "subcategory": "physical_adepts",
+    "tags": [
+      "physical_adept",
+      "discipline",
+      "inner_harmony"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 5,
+    "concept": "Explanation of the physical discipline path and the role of physical adepts.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "In *Shadowrun*, any character with a **Magic Rating** is generically considered to be a **magician**. The title of magician signifies magical ability on some level, regardless of whether it be hermetic or shamanic. Often, the rules simply refer to magicians, encompassing both forms equally. When the rules are referring exclusively to the hermetic tradition, however, the term **mage** is used. If the rules speak only of the shamanic tradition, the term **shaman** is used. Rules for physical adepts are almost unique and overlap little with the rules for hermetic or shamanic magicians.",
+    "category": "magic",
+    "subcategory": "magical_traditions",
+    "tags": [
+      "magician",
+      "hermetic",
+      "shamanic",
+      "magic_rating",
+      "traditions"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 6,
+    "concept": "Clarification of the term 'magician' and its application to different magical traditions.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "The path of magic that the character chooses affects how easily he can learn spells and what kinds of spirits he can summon. It may also impose requirements on how the character acts. Indeed, the choice colors the character's whole outlook on life, his relationships with other characters, and his motives for studying magic.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magic_path",
+      "character_development",
+      "spirit_summoning",
+      "role_playing"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 7,
+    "concept": "Impact of the chosen magical path on character development and interactions.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "Magicians, regardless of tradition or form, come in two basic types. There is the **full-blooded magician**, who can tap into the full range of abilities of the chosen tradition, and the **adept**, who can only practice certain types and forms of magic within strict limitations.",
+    "category": "magic",
+    "subcategory": "magician_types",
+    "tags": [
+      "full_blooded_magician",
+      "adept",
+      "magic_types",
+      "traditions"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 8,
+    "concept": "Overview of the two types of magicians: full-blooded magicians and adepts.",
+    "dependencies": []
+  },
+  {
+    "title": "Introduction",
+    "content": "There are two ways to be considered a full-blooded magician: 1. The character must either have been **human** during Character Generation, at which time his or her **Priority A** choice was allocated to Magic. 2. Or else the character would have had to be a **metahuman** whose **Priority B** choice was allocated to Magic.",
+    "category": "magic",
+    "subcategory": "character_creation",
+    "tags": [
+      "full_blooded_magician",
+      "magic_priority",
+      "character_generation"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 9,
+    "concept": "Criteria for being considered a full-blooded magician.",
+    "dependencies": [
+      "Overview of the two types of magicians"
+    ]
+  },
+  {
+    "title": "Introduction",
+    "content": "To be an adept a character must have been either **human** and had his **Priority B** choice allocated to Magic, or else been **metahuman** and had his **Priority C** choice allocated to Magic. See *Adepts, pp. 124-26*, and *Creating A Character, pp. 40-48*, for more information.",
+    "category": "character_creation",
+    "subcategory": "adepts",
+    "tags": [
+      "adept",
+      "magic",
+      "character_creation",
+      "metahuman",
+      "priority"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 10,
+    "concept": "Criteria for being considered an adept.",
+    "dependencies": [
+      "Overview of the two types of magicians"
+    ]
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "A shaman's magic comes from the **world of nature** and the **power of emotions**. In days past, some 'civilized' scholars disparaged shamanism, calling it 'primitive' nature worship. When the Awakening came, however, these 'backward' primitives knew how to use their new power to pay back the governments and corporations that had oppressed their people for so long. Indeed, shamanism had developed even among some city-dwellers during the boom in occultism at the close of the 20th century. When the magic came back, these '**urban shamans**' found that the old ways worked well in cities, too.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shamanic_tradition",
+      "urban_shamans",
+      "nature_magic",
+      "emotional_power",
+      "occultism"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 11,
+    "concept": "Introduction to the Shamanic Tradition",
+    "dependencies": []
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "To a shaman, the **universe is alive**. Animals, plants, stones, Mother Earth herself, are all potential allies who can be contacted magically. Before the Awakening, a shaman could only do this by use of hallucinogens, hours of chanting and dancing to the hypnotic beat of drums, or even self-inflicted torture. Though the shamans of the 2050-era still use chants and dance, usually only a few words or motions are all it takes to make the magic happen.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "nature_magic",
+      "spiritual_connection",
+      "2050_era"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 12,
+    "concept": "Shaman's Connection to Nature and Magic",
+    "dependencies": []
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "Shamans are in tune with the ways of nature and life. They are concerned with the maintenance and preservation of their environment, be it the wilds of the Pacific Northwest, the expanse of the Sahara, the majesty of the Amazon rain forests, or the wonderfully complex ecosystem that is a modern city. **All is nature**, whether it be rocks, streams, trees, and animals, or concrete, steel, neon, and humanity.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "nature",
+      "environment",
+      "tradition",
+      "spirituality"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 13,
+    "concept": "Shaman's Relationship with the Environment",
+    "dependencies": []
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "To be a shaman, one must have a **totem**. To the shaman, the totem is an ideal to be emulated. Coyote, for example, has his ways, as does Bear. Both are animal images representing an outlook and a way of life. The shaman lives by these ideals, and the totem provides him with a pattern for his life. The totem represents the shaman's perfect self. While in the imperfect form of his mortal flesh, the shaman must do all that he can to live the way of the totem.",
+    "category": "lore",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "totem",
+      "coyote",
+      "bear",
+      "tradition"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 14,
+    "concept": "The Role of the Totem in Shamanism",
+    "dependencies": []
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "An example of how strong are the ties between shaman and totem is the time-honored tradition of the **shamanic mask**. Before the Awakening, shamans wore masks that evoked their totem. Made from primitive materials, these masks were crude or sophisticated, simple or elaborate, depending on the shaman's culture. The shamanic mask was an item of great power. When wearing the mask, the shaman became the totem incarnate. The dividing line between crude flesh and perfect form was bridged, and the shaman and totem were one.",
+    "category": "lore",
+    "subcategory": "shamanism",
+    "tags": [
+      "shamanic_mask",
+      "totem",
+      "tradition",
+      "awakening",
+      "spirituality"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 15,
+    "concept": "Shamanic Masks and Their Significance",
+    "dependencies": [
+      "The Role of the Totem in Shamanism"
+    ]
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "**Physical masks are no longer necessary.** When a shaman performs magic, the physical traits associated with the totem become more apparent in him. The more powerful the magic, the more noticeable these animal traits become. A complete shape-change does not occur, but the effect can be striking nonetheless. If, for example, an Eagle shaman were to perform a minor spell, one not particularly relevant to the Eagle totem, the shaman's features might merely take on a sharper cast, or her chant come to resemble the shrill cry of a mighty bird. When casting a more demanding spell, the same shaman's crooked fingers would become like the talons of an eagle and his or her eyes like the piercing eyes of a hunting bird. When calling on a powerful spell, the shaman's own features can completely dissolve within the image of a mighty eagle's head.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shamanic_tradition",
+      "animal_traits",
+      "magic_transformation",
+      "totem_effects"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 16,
+    "concept": "Transformation of the Shaman During Magic",
+    "dependencies": [
+      "The Role of the Totem in Shamanism"
+    ]
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "Even without the shamanic mask, the life, dress, and actions of the shaman evoke the totem. Unlike a hermetic mage, a shaman cannot even temporarily cast aside the accouterments of the chosen way without risking the totem's anger. The totem is the way of life. Life is the way of the totem.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "totem",
+      "lifestyle",
+      "identity",
+      "magic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 17,
+    "concept": "Lifestyle and Identity of the Shaman",
+    "dependencies": [
+      "The Role of the Totem in Shamanism"
+    ]
+  },
+  {
+    "title": "THE SHAMANIC TRADITION",
+    "content": "Technically, it is the **totem that does the choosing**. Sometime early in life, though occasionally later, the would-be shaman feels the call of the totem. Often it will be an event or incident that symbolizes this call and begins the relationship of the shaman and the totem. Though it may take some time for the individual to find the path, the totem is always there waiting.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "totem",
+      "spirituality",
+      "tradition",
+      "call"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 18,
+    "concept": "The Process of Choosing a Totem",
+    "dependencies": [
+      "The Role of the Totem in Shamanism"
+    ]
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Though some magicians may like the country life, most are urban types. Their magic is based on a complicated set of theories that describe the way astral space contracts and intersects with the physical world. As one might expect, there are as many versions of these theories as there are mages.",
+    "category": "magic",
+    "subcategory": "hermetic_tradition",
+    "tags": [
+      "hermetic",
+      "magic",
+      "urban",
+      "theories",
+      "mages"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 19,
+    "concept": "Introduction to the Hermetic Tradition and its urban focus.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Hermetic magic attracted much interest before the Awakening. Surprisingly large numbers from all walks of life were studying the disciplines of the mage at the time of the Awakening, reacting variously with surprise, relief, or dismay to discover that the magic suddenly worked. Because many of these students were corporate employees studying magic in their spare time, the corporations picked up on hermetic magic very early on. To this day the corporations employ wage mages in all capacities, but there are very few shamans.",
+    "category": "magic",
+    "subcategory": "hermetic_tradition",
+    "tags": [
+      "hermetic_magic",
+      "corporate_adoption",
+      "awakening",
+      "wage_mages",
+      "shamans"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 20,
+    "concept": "Historical context of Hermetic magic and its corporate adoption.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Mages see the universe as a complex of abstract forces ranging from the simple and complex laws of natural physics to the equally simple and complex laws of metaphysics. How these forces work with and against each other, and how these forces can be controlled, is the territory of the hermetic mage.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hermetic_tradition",
+      "mages",
+      "universal_forces",
+      "metaphysics",
+      "magic_theory"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 21,
+    "concept": "Understanding the perspective of mages on universal forces.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Before the Awakening the process by which a mage opened up to those forces, and thereby controlled them, required lengthy, complex ceremonies. Now, a mage can work magic with a few gestures and key syllables of invocation. The elaborate rituals and equipment are necessary only for special situations.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hermetic_tradition",
+      "magic_evolution",
+      "rituals",
+      "invocations"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 22,
+    "concept": "Evolution of magical practices from complex rituals to simpler invocations.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "The desire of the mage is to know, firsthand, the inner reality of the universe. The mage may practice magic for its own sake, or for the nuyen it earns, or for power, but a mage is a scholar whose art demands constant study.",
+    "category": "magic",
+    "subcategory": "hermetic_tradition",
+    "tags": [
+      "hermetic",
+      "mages",
+      "magic_study",
+      "scholarship"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 23,
+    "concept": "Motivations and scholarly nature of mages in the Hermetic Tradition.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Mages spend a lot of time doing research. They need extensive reference libraries for many activities: learning new spells, designing magical rites, summoning spirits, and so on.\n\nHermetic libraries are specific to a given skill. That is, a mage needs separate libraries for: Sorcery, Conjuring, Magical Theory.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hermetic_tradition",
+      "research",
+      "libraries",
+      "mages",
+      "spells"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 24,
+    "concept": "The importance of research and libraries for mages.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Libraries, unlike the skills themselves, do not have Concentrations or Specializations. They do, however, have ratings reflecting their completeness and level of information.",
+    "category": "magic",
+    "subcategory": "hermetic_libraries",
+    "tags": [
+      "hermetic",
+      "libraries",
+      "magic_system",
+      "information",
+      "ratings"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 25,
+    "concept": "Structure and rating system of Hermetic libraries.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "A mage needs a sorcery library in order to increase his Sorcery Skill. Without it, skill advancement is very difficult (see Skills, p. 190). A conjuring library is vital in the summoning of elementals (see Conjuring, p. 139). A magical theory library is required to learn new spells (see Learning A New Spell, p. 132).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "sorcery_library",
+      "conjuring_library",
+      "magical_theory_library",
+      "skill_advancement",
+      "spell_learning"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 26,
+    "concept": "Specific requirements for different types of libraries related to skill advancement.",
+    "dependencies": [
+      "Hermetic libraries"
+    ]
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "In the 2050s, print is almost dead, but many mages are old-fashioned enough to enjoy the feel of a physical book. Libraries can consist of printed books and papers (hardcopy). Though bulky, books are accessible almost anywhere and not subject to power failures. Alternatively, a library, like any other information, can be stored on a mini-CD (compact disk) or optical chip. The space required to store them is small, but the mage needs a data reader or computer to access them. Datasoft libraries (see Skillsofts, p. 248) are available, but they are expensive and not easily shared with other mages. A library can mix all three types of storage.",
+    "category": "magic",
+    "subcategory": "hermetic_tradition",
+    "tags": [
+      "hermetic_library",
+      "storage_options",
+      "mages",
+      "data_storage",
+      "books"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 27,
+    "concept": "Formats and storage options for Hermetic libraries.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Mages can share libraries. Access to the thaumaturgical section of any big university library or corporate reference department lets any number of mages pursue projects at the same time. These large research facilities have nearly any rating a mage may require, within reason. Libraries above Rating 4 are difficult to find and acquire access to. Libraries often charge legitimate, registered users a fee on an hourly basis equal to the rating of the library in nuyen. Illegal users may find the owners taking exception to their using the data.",
+    "category": "magic",
+    "subcategory": "libraries",
+    "tags": [
+      "hermetic_tradition",
+      "library_access",
+      "mage_resources",
+      "thaumaturgy"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 28,
+    "concept": "Sharing and access to Hermetic libraries, including costs and limitations.",
+    "dependencies": []
+  },
+  {
+    "title": "THE HERMETIC TRADITION",
+    "content": "Libraries can hold an amount of data equal to their rating, squared, times 100 Mp (megapulses). A Rating 6 sorcery, conjuring, or magical theory library ...",
+    "category": "magic",
+    "subcategory": "hermetic_libraries",
+    "tags": [
+      "hermetic",
+      "libraries",
+      "data_storage",
+      "sorcery",
+      "conjuring"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 29,
+    "concept": "Capacity and data storage limits of Hermetic libraries.",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "A less powerful form of magician, an adept is focused and restricted in his abilities. Like full magicians, adepts have a Magic Rating and lose points from that Attribute as they suffer Essence loss or Deadly wounds. There are three types of adepts: 1. Magical adepts 2. Shamanic adepts 3. Physical adepts",
+    "category": "magic",
+    "subcategory": "adepts",
+    "tags": [
+      "adepts",
+      "magic_rating",
+      "magical_adepts",
+      "shamanic_adepts",
+      "physical_adepts"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 30,
+    "concept": "Introduction to Adepts in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "A magical adept can use only one magical skill. An adept who uses only Sorcery Skill is often referred to as a sorcerer, while one who uses only Conjuring Skill is referred to as a conjurer. Sorcerers are the most common kind of magical adept. Whatever skill the adept picks, he will follow the normal rules for that skill.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magical_adept",
+      "sorcery",
+      "conjuring",
+      "skills",
+      "adept"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 31,
+    "concept": "Magical Adepts and their Skills",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "Like other magicians, magical adepts must choose between the shamanic and hermetic traditions. They follow the rules in spell learning and so on for that tradition. Shamans get their totem benefits and penalties, if applicable to the skill. Adepts can use foci like any other magician, if it is applicable to their skill.",
+    "category": "magic",
+    "subcategory": "traditions",
+    "tags": [
+      "magical_adepts",
+      "shamanic_tradition",
+      "hermetic_tradition",
+      "foci",
+      "spell_learning"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 32,
+    "concept": "Traditions and Foci for Magical Adepts",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "The principle difference (and it is an important one) between a magical adept and a full magician is that the adept has no access to astral space. A magical adept cannot use astral perception or projection at all.",
+    "category": "magic",
+    "subcategory": "adepts",
+    "tags": [
+      "magical_adept",
+      "full_magician",
+      "astral_space",
+      "differences",
+      "magic_types"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 33,
+    "concept": "Differences Between Magical Adepts and Full Magicians",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "A different form of adept is the shamanic adept, who, as the name implies, must be a shaman. This adept can only cast spells or conjure spirits for which a totem would offer modifiers. For example, a shamanic adept of the Bear totem can only cast health spells and can only conjure forest spirits.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shamanic_adept",
+      "totem_modifiers",
+      "spirit_conjuring",
+      "health_spells",
+      "limitations"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Shamanic Adepts and Their Limitations",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "Note that shamanic adepts do not receive totem modifiers for these activities. They are subject to all the usual requirements for their totem. For example, it is not possible to be a shamanic adept for the Coyote totem, because it does not receive any totem modifiers, nor is it possible with a totem such as Owl, whose spells receive a modifier based on time or place, but not purpose.\n\nShamanic adepts have full use of their Sorcery and Conjuring Skills for defensive purposes, and are capable of astral perception and projection.",
+    "category": "magic",
+    "subcategory": "shamanic_adepts",
+    "tags": [
+      "shamanic_adepts",
+      "totem_modifiers",
+      "sorcery",
+      "conjuring",
+      "astral_perception"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 35,
+    "concept": "Totem Modifiers and Requirements for Shamanic Adepts",
+    "dependencies": [
+      "Shamanic Adepts and Their Limitations"
+    ]
+  },
+  {
+    "title": "ADEPTS",
+    "content": "A physical adept is dedicated to improving the body and its abilities. Powers attributed to legendary martial artists, warriors of shamanic peoples, berserkers, and the like, suggest that such adepts may have existed before the Awakening. The first publicly documented physical adept in modern times was Francis Daniels, an engineering Ph.D. and fourth dan ki-akido black belt. Much of the current understanding of the abilities of the physical adept are due to research Daniels conducted before his untimely death in the riots attending the collapse of the U.S. government in the Washington D.C. metroplex in 2030.",
+    "category": "magic",
+    "subcategory": "adepts",
+    "tags": [
+      "physical_adept",
+      "martial_arts",
+      "awakening",
+      "lore"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 36,
+    "concept": "Overview of Physical Adepts",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "When a physical adept character is created, his Magic Rating Points are used to 'buy' various improvements to the physical Attributes, Reaction, senses, and skills. The adept can also 'buy' various unique powers, similar to the effects of certain spells. These become permanent abilities for the adept.",
+    "category": "character_creation",
+    "subcategory": "adepts",
+    "tags": [
+      "physical_adept",
+      "magic_rating",
+      "abilities",
+      "character_creation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 37,
+    "concept": "Character Creation and Abilities of Physical Adepts",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "It should be noted that the character's Magic Rating Points are not actually used up to 'buy' the adept abilities. Rather, those points are used as a gauge of how many abilities the adept can acquire (a number of points up to his or her Magic Rating.)",
+    "category": "magic",
+    "subcategory": "adepts",
+    "tags": [
+      "magic_rating",
+      "adept_abilities",
+      "character_creation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 38,
+    "concept": "Mechanics of Magic Rating Points for Physical Adepts",
+    "dependencies": [
+      "Character Creation and Abilities of Physical Adepts"
+    ]
+  },
+  {
+    "title": "ADEPTS",
+    "content": "The only magical focus of any use to a physical adept is a weapon focus. Foci are described in full beginning on p. 137. Note also that a physical adept cannot use astral perception, unless it is purchased as an ability. A physical adept cannot astrally project.",
+    "category": "magic",
+    "subcategory": "foci",
+    "tags": [
+      "physical_adept",
+      "weapon_focus",
+      "astral_perception",
+      "magical_abilities"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 39,
+    "concept": "Foci and Astral Abilities of Physical Adepts",
+    "dependencies": []
+  },
+  {
+    "title": "ADEPTS",
+    "content": "| Power | Cost | Description |\n|:---|:---|:---|\n| **Astral Perception** | **2** | The adept has the ability to see into the astral plane via Astral Perception (p. 145), but cannot use astral projection. This enables the adept to use the Sorcery Skill in Astral Combat (see p. 147), but the character cannot cast spells nor does he have a Magic Pool. |",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "adept_powers",
+      "sorcery_skill"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 40,
+    "concept": "Powers of the Physical Adept: Astral Perception",
+    "dependencies": []
+  },
+  {
+    "title": "SORCERY",
+    "content": "**Sorcery** is the art of **spellcasting**. Through it, a magician can command and shape the forces of astral space to a specific end. **Shamans** and **mages** can both cast spells without restriction, though the shaman must keep in mind **totem modifiers**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "sorcery",
+      "spellcasting",
+      "mages",
+      "shamans",
+      "totem_modifiers"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 41,
+    "concept": "Introduction to Sorcery and Spellcasting",
+    "dependencies": []
+  },
+  {
+    "title": "SORCERY",
+    "content": "Though both types of magician can cast spells that are, for all intents and purposes, identical within the *Shadowrun* game system, how they cast spells is entirely different.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spellcasting",
+      "mages",
+      "shamans",
+      "magic_methods",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 42,
+    "concept": "Difference in Spellcasting Methods between Mages and Shamans",
+    "dependencies": []
+  },
+  {
+    "title": "SORCERY",
+    "content": "**Hermetic mages** command the astral forces through very specific, practiced, precise formulas. Most of the effort is **mental**; the exercise of commanding the forces is a task of mental gymnastics and willpower. Some physical activity accompanies the spell (spoken words, a minor gesture, symbolic material), but it is minor compared to the work the mage's mind is doing.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hermetic_mages",
+      "spellcasting",
+      "mental_gymnastics",
+      "astral_forces",
+      "willpower"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 43,
+    "concept": "Spellcasting Method of Hermetic Mages",
+    "dependencies": []
+  },
+  {
+    "title": "SORCERY",
+    "content": "The mage calls up the mental multidimensional image of the spell formula, imposes it on the forces of reality at hand, then shapes, channels, and directs them to the desired end. The casting of a particular spell is an identical procedure each and every time, unless some parameter of the spellcasting has changed.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spellcasting",
+      "hermetic_mages",
+      "magic_procedure",
+      "sorcery"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 44,
+    "concept": "Procedure of Spellcasting for Hermetic Mages",
+    "dependencies": [
+      "Spellcasting Method of Hermetic Mages"
+    ]
+  },
+  {
+    "title": "SORCERY",
+    "content": "**Shamans**, however, rarely cast magic the same way twice. Their magic comes from **intuition**, **improvisation**, and an **understanding of the moment**. The forces of nature are **called**, not commanded. The shaman considers the forces of nature to be **allies**, not tools, allies to be praised for their assistance.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shaman",
+      "spellcasting",
+      "nature_magic",
+      "intuition",
+      "improvisation"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 45,
+    "concept": "Spellcasting Method of Shamans",
+    "dependencies": []
+  },
+  {
+    "title": "SORCERY",
+    "content": "The specifics of a shaman's spellcasting vary with the moment and the situation. The calling of powers is very personal and must be tailored to the situation. Each dance, each chant, each song is different because each moment is different. Thus, each spellcasting is different.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shaman",
+      "spellcasting",
+      "variability",
+      "powers",
+      "personalization"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Variability in Spellcasting for Shamans",
+    "dependencies": [
+      "Spellcasting Method of Shamans"
+    ]
+  },
+  {
+    "title": "SORCERY",
+    "content": "Like the mage, the shaman uses his mind to call on the unseen forces of magic, but his spellcasting has more external components in the form of dances, gestures, chants, or songs. Most of this is voluntary, however. When necessary, the shaman can call the forces of nature with barely a whisper.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shaman",
+      "spellcasting",
+      "external_components",
+      "magic_forces",
+      "nature"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 47,
+    "concept": "External Components of Shaman Spellcasting",
+    "dependencies": [
+      "Spellcasting Method of Shamans"
+    ]
+  },
+  {
+    "title": "SORCERY",
+    "content": "That said, it should also be pointed out that though the method of spellcasting differs radically between mages and shamans, both cast the **same spells** within the game system. As far as the *Shadowrun* game is concerned, a mana blast spell is a mana blast, regardless of whether a mage or shaman casts it.\n\nThe roleplaying of the spellcasting will differ, as explained above, but the procedure and the game statistics behind the spell are the same.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spellcasting",
+      "mages",
+      "shamans",
+      "mana_blast",
+      "uniformity"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 48,
+    "concept": "Uniformity of Spells in Shadowrun Game System",
+    "dependencies": [
+      "Uniformity of Spells in Shadowrun Game System"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "Spells come in two types and five categories. The two types are Physical and Mana, and the five categories are combat, detection, health, illusion, and manipulation spells. Each category includes many individual spells, which are listed and described in the Spell Directory, beginning on p. 151.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_types",
+      "physical_spells",
+      "mana_spells",
+      "spell_categories",
+      "combat_detection_health_illusion_manipulation"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Overview of spell types and categories",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "Physical spells affect physical things. The magical energies are synchronized with the tangible aspects of a target: its composition, mass, momentum, appearance, and so on.\n\nOnly physical spells can affect inanimate objects such as walls, rocks, and the like.\n\nPhysical spells can affect living things, but they affect the physical nature and structure of the being.\n\nIf the target is a living being, he or she resists physical spells with the Body Attribute.\n\nObjects made of certain materials are more resistant to magical effects. See Casting Spells, p. 129.\n\nUnless otherwise noted, physical spells do Physical Damage.\n\nMana spells affect the intangible elements of a target, such as the spirit or emotions.\n\nThey are the only spells that can affect purely magical targets.\n\nMana spells cannot affect inanimate objects on any level.\n\nMana spells are resisted by the target's Willpower Attribute.\n\nUnless otherwise noted, mana spells do Physical Damage.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "physical_spells",
+      "magic_types",
+      "spell_effects",
+      "casting_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Definition of Physical Spells",
+    "dependencies": [
+      "Definition of Mana Spells",
+      "Definition of Physical Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "Combat spells are quick, dirty, and violent. The energy is channeled directly from astral space through the target's aura. The target is, effectively, attacked from within.\n\nCombat spells ignore the effects of armor and non-magical, external protections.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_spells",
+      "magic",
+      "spellcasting",
+      "aura",
+      "astral_space"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 51,
+    "concept": "Definition of Combat Spells",
+    "dependencies": [
+      "Definition of Combat Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "The target of a combat spell must be within line-of-sight (LOS) of the casting magician (must see the target directly). The magician can ignore transparent obstructions such as clear glass, but not smoked or one-way glass. If the magician cannot see the target, he cannot affect the target. See Spell Targeting, p. 130, as well as the descriptions of Combat Spells, p. 151.\n\nCombat spells can be either physical or mana spells.\n\nDetection spells are used to enhance the senses or to analyze the environment.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_spells",
+      "line_of_sight",
+      "spell_targeting",
+      "detection_spells",
+      "magician"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 52,
+    "concept": "Line-of-sight requirement for Combat Spells",
+    "dependencies": [
+      "Definition of Combat Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "They allow the magician, or the recipient of the spell, to sense things in a manner normally beyond ability, to see or hear from a great distance, and to detect the presence of other beings, magic, life, and enemies. See p. 152 for the listing of detection spells.\n\nDetection spells can be either physical or mana spells.\n\nHealth spells are concerned with the condition and performance of the body.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "detection_spells",
+      "magician_abilities",
+      "sensing",
+      "magic_types"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 53,
+    "concept": "Capabilities of Detection Spells",
+    "dependencies": [
+      "Definition of Detection Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "They can be used to treat or heal injuries, purge poisons or toxins from a body, or affect Attribute Ratings. See p. 154 for the listing of health spells.\n\nHealth spells can be either physical or mana spells.\n\nIllusion spells fool the senses.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "health_spells",
+      "healing",
+      "attribute_affecting",
+      "physical_spells",
+      "mana_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 54,
+    "concept": "Capabilities of Health Spells",
+    "dependencies": [
+      "Definition of Health Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "They can be used to deceive, create things that do not really exist, make things invisible, stimulate the senses, or provide simple or complex entertainment. See p. 155 for the listing of illusion spells.\n\nIllusion spells, which affect the mind, are usually mana spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "illusion_spells",
+      "deception",
+      "mana_spells",
+      "senses",
+      "entertainment"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Capabilities of Illusion Spells",
+    "dependencies": [
+      "Definition of Illusion Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "Manipulation spells can transform, transmute, control, or animate matter or energy. They are powerful, complex spells that are difficult to control and master.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "manipulation_spells",
+      "magic_system",
+      "spell_types"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Definition of Manipulation Spells",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "They can control the emotions or actions of a person, move objects or items, shape, create, or channel energy such as light or fire, or change a target's form or appearance by changing its structure. See p. 156 for the listing of manipulation spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "manipulation_spells",
+      "magic_capabilities",
+      "spell_types"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Capabilities of Manipulation Spells",
+    "dependencies": [
+      "Definition of Manipulation Spells"
+    ]
+  },
+  {
+    "title": "TYPES OF SPELLS",
+    "content": "Unlike combat spells, a manipulation spell used for a violent, destructive purpose actually creates a tangible physical effect. A blast of flame strikes the target from the outside, which lets the target benefit from the protection of armor and such.\n\nManipulation spells do not have the same line-of-sight restrictions as combat spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "manipulation_spells",
+      "combat_spells",
+      "physical_effects"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Physical effects of Manipulation Spells",
+    "dependencies": [
+      "Definition of Manipulation Spells"
+    ]
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "In addition to type and category, spells have several other components that affect their operation: **Force, Range, Drain Level, Duration, and Exclusivity**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_components",
+      "magic_mechanics",
+      "force",
+      "drain_level",
+      "duration"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 59,
+    "concept": "Overview of spell components in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "* A spell's **Force** sets how powerful it is. Force 1 is the minimum.\n* Magicians learn spells at a specific Force. They can voluntarily cast the spell at a lower, reduced Force, but **never higher** than what they learned. To increase the learned Force, the magician must **re-learn the spell**. See *Learning A New Spell, p. 132*.\n* The higher the Force, the greater its potential effect, the harder it is for the target to resist, and the more draining it is to the caster. The magician must balance effectiveness against Drain.\n* The Force of the spell is the **base number of dice** used to determine the spell's success. These dice may be augmented from the **Magic Pool** (*see p. 85*). See also *Casting Spells, pp. 129*.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "force",
+      "spell_components",
+      "magic_pool",
+      "drain",
+      "casting_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 60,
+    "concept": "Explanation of the Force component of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "* Most spells have a Range listed as **LOS (line-of-sight)**. If the magician can see the target, he can hit it with the spell, regardless of range. See *Spell Targeting* for more information.\n* Other spells, specifically health spells, have a listing of **Touch**. The caster must physically touch the intended target. If the target resists, the magician must make a successful attack using the **Unarmed Combat Skill** (*see Melee Combat, p. 100*).\n* Detection spells dealing with senses have a **limited, variable range**.\n * The magician makes a separate **Force Test** (Force dice + Magic Pool dice) against a Target Number of **4 + any applicable injury modifiers**.\n * **Maximum range in meters** = successes from Force Test * magician's Magic Rating.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "range",
+      "spell_components",
+      "line_of_sight",
+      "touch",
+      "force_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 61,
+    "concept": "Explanation of the Range component of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "* A spell's **Drain Level** reflects how casting the spell affects the magician himself (fatigue).\n* Drain Levels are rated like a weapon's Damage Level (M Stun, S Stun, etc.).\n* Drain damage is usually **Stun damage**. If the **Force of the spell exceeds the spellcasting magician's Magic Rating**, the Drain damage is **Physical damage**.\n* Drain damage is resisted by rolling dice equal to the magician's **Willpower** against the Drain Level, which is based on the Force of the spell cast. Successes reduce the Damage Level. See *Casting Spells, specifically the Drain Resistance Test, p. 132*.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "drain_level",
+      "spellcasting",
+      "magic_rating",
+      "willpower",
+      "damage"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 62,
+    "concept": "Explanation of the Drain Level component of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "Three Durations are possible: **Instant, Sustained, and Permanent**.\n* **Instant Spells** take a Complex Action to cast. They take effect and vanish in the same action, but their effects are usually lasting. Combat spells and some manipulation spells fall into this category.\n* **Sustained Spells** can be maintained over time as long as the magician maintains concentration.\n * Magicians suffer a universal **target modifier of +2 per sustained spell** to all other tests they must make.\n * A magician may simultaneously sustain a maximum number of spells equal to his **Sorcery Skill**.\n * Magicians may maintain spells while astrally perceiving (*p. 145*), but **not** while astrally projecting (*p. 146*).\n* **Permanent Spells** must be sustained for some specified period of time before their effects become permanent (e.g., Health spells). If the spell is dropped before the required time, the effects disappear.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_components",
+      "duration",
+      "sustained_spells",
+      "instant_spells",
+      "permanent_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 63,
+    "concept": "Explanation of the Duration component of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL COMPONENTS",
+    "content": "* A spell, when learned, can be declared **exclusive**.\n* An exclusive spell **cannot be stacked with another spell or be cast while another spell is being separately sustained**. It is the only one the magician can cast, or have under his control, at that time.\n* Exclusivity allows a spell to be cast at an effectively **higher Force**. See *Learning A New Spell, p. 132*.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "exclusive_spell",
+      "spell_components",
+      "higher_force",
+      "magic_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 64,
+    "concept": "Explanation of the Exclusivity component of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL STACKING & MULTIPLE TARGETS",
+    "content": "### Spell Stacking\n\n* Magicians may **stack multiple spells** into one long spell and cast them simultaneously with one Complex Action.\n* The magician suffers a **+2 target modifier** to all target numbers involved in casting the spells and to resisting the Drain **per stacked spell**.\n* Magic Pool dice must be allocated **separately** between the various stacked spells. See *Magic Pool, p. 85*.\n* Stacked spells are resolved in the order the casting magician desires.\n\n### Multiple Targets\n\n* A magician may cast a single spell against multiple targets, but must **split the Spell Force dice** up among the targets.\n* The caster must then make **three separate Drain Resistance Tests** against a base target number equal to the original, undivided, Drain of the spell.\n* Magic Pool dice must be allocated against each of the targets individually and for each of the Drain Resistance Tests.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_stacking",
+      "multiple_targets",
+      "drain_resistance",
+      "magic_pool",
+      "casting_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 65,
+    "concept": "SPELL STACKING & MULTIPLE TARGETS",
+    "dependencies": []
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "All spellcasting occurs within **step C (Resolve Actions)** of the Combat Turn sequence (*p. 78*). During the previous step, **Declare Actions**, the magician allocates his **Magic Pool dice** to assist the Spell Success Test, the Drain Resistance Test, or for use as **Spell Defense dice** (*p. 132*).\n\n**A. Determine Spell** Determine the spell and its specifics (exclusive check, type, category, duration).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spellcasting",
+      "combat_turn",
+      "magic_pool",
+      "drain_resistance",
+      "actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 66,
+    "concept": "Introduction to the spellcasting process within the Combat Turn.",
+    "dependencies": []
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**B. Determine Target** Determine the target(s), ensure validity (e.g., line-of-sight), and determine the base target number (Willpower, Body, or Object Resistance Table, *p. 130*).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "casting_spells",
+      "targeting",
+      "line_of_sight",
+      "spell_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 67,
+    "concept": "Step B: Identifying and validating the target for the spell.",
+    "dependencies": []
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**C. Apply Situation Modifiers** Apply injury (*p. 112*), cover, and visibility modifiers (*p. 89*). Apply modifiers for: * Targets within a hermetic circle, medicine lodge, or mana barrier spell: **+1 target modifier per every 2 rating/Force points**. * Each spell currently sustained: **+2 target modifier per spell**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "casting",
+      "modifiers",
+      "target_number",
+      "spell_effects",
+      "situational"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 68,
+    "concept": "Step C: Applying situational modifiers to the target number.",
+    "dependencies": []
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**D. Make Spell Success Test** Roll **Force dice + allocated Magic Pool dice** against the modified target number. Count successes. If no Spell Resistance Test is needed, apply successes for the final effect.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_success_test",
+      "magic_pool",
+      "force_dice",
+      "successes"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 69,
+    "concept": "Step D: Conducting the Spell Success Test and determining successes.",
+    "dependencies": []
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**E. Make Spell Resistance Test** (If applicable) The target rolls dice equal to their **Body or Willpower** (as appropriate) + Magic Pool/Spell Defense dice against a target number equal to the **spell Force Rating**. Count successes. * *Note: If the spell is a damaging manipulation spell, this is a **Damage Resistance Test**, as in Ranged Combat.*",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_resistance",
+      "test",
+      "force_rating",
+      "damage_resistance",
+      "body"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 70,
+    "concept": "Step E: Performing the Spell Resistance Test if required.",
+    "dependencies": [
+      "D"
+    ]
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**F. Determine Result** Compare the spellcaster's successes vs. the target's successes. * Target has more successes: Spell goes off, but **no effect** on the target. * Tie: Spell has its **minimum effect** (e.g., Light damage for combat spells). * Spellcaster has more successes: The spell has an effect based on the **net successes** (difference between successes).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spellcasting",
+      "successes",
+      "magic_effects",
+      "combat_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 71,
+    "concept": "Step F: Evaluating the results of the spell based on successes.",
+    "dependencies": [
+      "D",
+      "E"
+    ]
+  },
+  {
+    "title": "CASTING SPELLS",
+    "content": "**G. Make Drain Resistance Test** Roll **Willpower dice + allocated Magic Pool dice** against a target number equal to the **modified Force of the spell**. * Every **2 successes** lowers the Drain by one level. * Apply remaining damage to the **Stun Condition Monitor** (or **Physical Condition Monitor** if the Force exceeded the Magic Rating).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "drain_resistance",
+      "spellcasting",
+      "willpower",
+      "magic_pool",
+      "successes"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 72,
+    "concept": "Step G: Conducting the Drain Resistance Test and managing drain effects.",
+    "dependencies": [
+      "F"
+    ]
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "The magician can choose anything within **sight**. Binoculars, glasses, telescopes, and magic/technology that penetrates darkness can enhance vision.\n\nA magician cannot cast spells directly at invisible beings or beings in astral space except by using enhanced vision or astral perception.\n\n**Remote vision** (telecom screen, security camera, *clairvoyance* spell) is **useless** for casting spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "magician",
+      "vision",
+      "invisibility",
+      "astral_perception"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 73,
+    "concept": "Magician's targeting options based on sight.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "**Rule of thumb:** Magicians must be able to see their targets with their **own eyes or a natural extension of those eyes**. The image must be the **original image**; nothing that translates the image into another medium works (e.g., optical binoculars work, electronic binoculars that digitize the light do not).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "visibility_requirements",
+      "magician_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 74,
+    "concept": "General rule for visibility requirements in spellcasting.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "Mirrors work; transparent glass is no hindrance. Cybereyes work (Essence cost). Drone cameras do not. See *Combat Spells (p. 151), Spells and Astral Space (p. 149), and Manipulation Spells (p. 156)*.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "visibility_aids",
+      "cybereyes",
+      "combat_spells",
+      "manipulation_spells"
+    ],
+    "content_type": "example",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 75,
+    "concept": "Specific examples of visibility aids and restrictions.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "**Living Being:** **Willpower** (mana spell) or **Body** (physical spell). **Inanimate Object:** Determined by the **Object Resistance Table**. **Treat and heal spells:** Have separate target numbers (see individual descriptions). **Ranged damaging manipulation spells** (e.g., *flamethrower*): Base Target Number **4**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "target_numbers",
+      "mana_spells",
+      "physical_spells",
+      "ranged_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 76,
+    "concept": "Target numbers for different types of spells.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "#### OBJECT RESISTANCE TABLE\n| Category | Target Number |\n|:---|:---|\n| Natural Objects (trees, soil, unprocessed water) | 3 |\n| Manufactured Low-Tech Objects and Materials (brick, leather) | 5 |\n| Manufactured High-Tech Objects and Materials (advanced plastics, alloys, electronic equipment) | 8 |\n| Highly Processed Objects (computers, complex toxic wastes) | 10 or more |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "object_resistance",
+      "target_numbers",
+      "inanimate_objects",
+      "magic_rules"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 77,
+    "concept": "Table detailing target numbers for inanimate objects.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "* The **base radius** of effect is equal to the magician's **Magic Rating in meters**. * Area-effect spells affect **all valid targets** (friend, foe, neutral) within the area of effect. * **Reducing Radius:** Reduce the base radius by **1 meter** for every **2 dice withheld** from the Spell Success Test. * **Increasing Radius:** Increase the area of effect by **1 meter** for every **1 die withheld** from the Spell Force Test. * The number of dice removed for area-effect modification may **not exceed the Force Rating** of the spell. Magic Pool dice can be used up to a maximum number equal to the original Force of the spell. * Make the Spell Success Test only **once**, then compare the results against the varying target numbers for each valid target.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "area_effect",
+      "magic_rating",
+      "radius_modification"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 78,
+    "concept": "Rules for area-effect spells and their radius modifications.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "* Roll **Force dice + allocated Magic Pool dice** against the modified target number. * **No successes:** Spell is **miscast** (no effect). * **All ones (Rule of Ones):** A **misfire** occurs, and the target number for the Drain Resistance Test is increased by **+2**. * **Successes:** Count and keep track.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_success_test",
+      "force_dice",
+      "magic_pool",
+      "miscast",
+      "drain_resistance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 79,
+    "concept": "Procedure for conducting a Spell Success Test.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "* Noticing a spellcasting requires a **Perception Test** (Intelligence dice) against a Target Number equal to **twice the difference between the Force of the spell and the Magic Rating of the spellcaster**. * *Example: Magic Rating 6, Force 4 spell. Target Number = (6 - 4) * 2 = 4.* * Apply situation modifiers (*see Perception, p. 185*). * An additional **-2 modifier** may apply if the observing character is also a magician. * An astrally projecting or perceiving character **automatically notices** the colorful astral display.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_targeting",
+      "perception_test",
+      "magic_rating",
+      "force",
+      "modifiers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 80,
+    "concept": "Rules for noticing spellcasting and related modifiers.",
+    "dependencies": []
+  },
+  {
+    "title": "Spell Targeting",
+    "content": "* Magicians may allocate dice from their **Magic Pool as Spell Defense** immediately after declaring actions. * This is an **area effect** encompassing all characters or objects within the allocating magician's **direct line-of-sight** that the magician chooses to protect. * These dice act as a kind of defensive Magic Pool for all it protects. * The allocating magician chooses to use these dice when protected targets are attacked by magic. * Spell Defense dice, once expended, are **lost until reallocated** when the Magic Pool refreshes. * To benefit, characters must be within **view** (normal or natural extension) of the controlling...",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_defense",
+      "magic_pool",
+      "area_effect",
+      "defensive_mechanic"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 81,
+    "concept": "Mechanics for allocating Spell Defense dice.",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "A magician must learn a spell before casting it, either from a teacher or by designing it (covered in *The Grimoire*).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "learning_spells",
+      "magician",
+      "spell_design",
+      "the_grimoire",
+      "casting"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 82,
+    "concept": "Introduction to learning spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "| Tradition | Requirements | Process |\n|:---|:---|:---|\n| **Shaman** | Must study in a **medicine lodge** with a rating eq Spell Force. | Spends time chanting, dancing, and carrying on to whip up an emotional peak. |\n| **Mage** | Needs peace and quiet and a **sorcery library** with a rating \\geq Spell Force. | Spends time in meditation, intense study, and formal ritual. |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shaman",
+      "mage",
+      "spell_learning",
+      "traditions",
+      "requirements"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 83,
+    "concept": "Requirements and processes for learning spells for Shamans and Mages",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "* **Teachers** cost money (typical price: **1,000¥ * Spell Force Rating + living expenses**).\n* The teacher must be functional (Magic Rating \\geq 1) and can teach spells up to the maximum Force they know.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_learning",
+      "teacher_cost",
+      "magic_rating",
+      "spell_force",
+      "hiring"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 84,
+    "concept": "Cost and requirements for hiring a teacher",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "* **Learning Test:** Success Test using dice from the character's **Sorcery and Magical Theory Skills** against a Target Number of **twice the desired Force**.\n * A shaman gets totem modifiers, if appropriate. A mage may get extra dice if aided by an appropriate elemental.\n * Teaching Aid: If the instructing mage has the Teaching Special Skill, they can make a Teaching Test (Target Number = Spell Force Rating - pupil's Intelligence, min TN 2). Successes reduce the magician's target number.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "learning_spell",
+      "sorcery",
+      "teaching_aid",
+      "force_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 85,
+    "concept": "Details on the learning test for spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "* **Time:** Base number of days = **desired Force**. Divide this by the number of successes. Minimum time is **one day**.\n* **Cost:** Costs **Karma** (*see p. 190*) equal to the desired Force.\n* **Failure:** If the player rolls **no successes**, the learning attempt fails (time wasted, but no Karma cost).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "learning",
+      "spells",
+      "force",
+      "karma",
+      "failure"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 86,
+    "concept": "Time, cost, and failure conditions for learning spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "### RESTRICTED USE SPELLS\n\nWhen learning a spell, the magician can accept limitations on its use (**exclusive spells** and **fetish-required spells**). This allows them to cast the spell at a Force Rating higher than their Magic Rating without risking Physical damage. The force modifier is permanent for that spell.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "restricted_use_spells",
+      "magic_rating",
+      "force_rating",
+      "exclusive_spells",
+      "fetish_required"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 87,
+    "concept": "Introduction to restricted use spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "#### Exclusive Spells\n\n* Allows the spell to be cast as if its Force Rating were **2 points higher** for determining the spell's effect.\n* Drain is calculated at the **normal Force value**.\n* **Restrictions:** When casting, the magician **cannot sustain or cast any other spells** in the same action. When sustaining, the magician **cannot cast any other spells or use another magical skill**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "exclusive_spells",
+      "spellcasting_rules",
+      "drain_calculation",
+      "magic_restrictions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 88,
+    "concept": "Rules for exclusive spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "#### Fetish-Required Spells\n\n* A magician needs a physical object (a **fetish**) in hand or touch to cast the spell, chosen at the time of learning.\n* **Reusable Fetish:** Spell is cast at **1 Force Rating Point higher**. A durable object that can be used again and again.\n* **Expendable Fetish:** Spell is cast at **2 Force Rating Points higher**. Used up or destroyed when the spell is cast (needs to be replaced).\n* A fetish belongs to a **specific spell** and cannot be used for different spells.\n* Fetishes can be purchased from a **talismonger**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "fetish_required",
+      "spellcasting",
+      "magic_mechanics",
+      "force_rating",
+      "talismonger"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 89,
+    "concept": "Rules for fetish-required spells",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "| Type | Shamanic Fetishes (Reusable) | Shamanic Fetishes (Expendable) | Hermetic Fetishes (Reusable) | Hermetic Fetishes (Expendable) |\n|:---|:---|:---|:---|:---|\n| **Examples** | Drums, rattles, knives, tomahawks, spears, carved wooden or bone wands, native jewelry, carvings, masks, medicine bags/pouches. | Small packets of herbs, twigs, tufts of feathers/hair, small stones/crystals, crude miniature weapons, bits of bone, shells. | Ornate wands (usually jeweled), rings, amulets and other jewelry, complex illustrated scrolls with diagrams. | Small parchment talismans, chemical mixtures or potions, crystals or stones, painted charms. |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "shamanic_fetishes",
+      "hermetic_fetishes",
+      "spellcasting_examples",
+      "magic_items"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 90,
+    "concept": "Examples of shamanic and hermetic fetishes",
+    "dependencies": []
+  },
+  {
+    "title": "LEARNING A NEW SPELL",
+    "content": "* **Starting Spells:** A magician can begin the game with spells that have Force modifiers. The spell is purchased at the **original Force Rating** and then modified. The maximum Force Rating of **6** still applies for starting characters.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "starting_spells",
+      "force_rating",
+      "magician"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 91,
+    "concept": "Rules for starting spells for magicians",
+    "dependencies": []
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "**Ritual sorcery** is a spellcasting process in which the spell builds gradually, taking **hours** to complete.\n\n* It lets magicians **cooperate**, pooling their skills and power.\n\n* It allows magicians to cast spells on targets that are **not within visual range**.\n\n* Use the **Ritual Sorcery Concentration Rating** of the Sorcery Skill for all tests.\n\n* **Shaman:** Must be in a **medicine lodge** with a rating \\geq Spell Force.\n\n* **Mage:** Must be in a **hermetic circle** for the spell being cast, with the circle's rating \\geq Spell Force.\n\n* **Combat spells** cannot be cast using ritual sorcery.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "spellcasting",
+      "magician",
+      "cooperation",
+      "spell_force"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 92,
+    "concept": "Introduction to Ritual Sorcery",
+    "dependencies": [
+      "Introduction to Ritual Sorcery"
+    ]
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "| Ritual Sorcery Material | Cost |\n|:---|:---|\n| Detection materials | 100¥ * Spell Force Rating |\n| Health materials | 500¥ * Force |\n| Illusion materials | 100¥ * Force |\n| Manipulation materials | 1,000¥ * Force |\n\n* Casting the spell uses up the materials, regardless of the outcome.\n\nIf the magician cannot see the target, he needs a **material link** to perform ritual sorcery.\n\n* **Living being:** A **tissue sample** that contains the being's DNA pattern.\n\n* **Non-living being:** An **integral piece** of its structure (e.g., a brick from a building).\n\n* *Exception: If a ritual team is involved, one member can **astrally guide** the spell, making a material link unnecessary.*\n\n* All members of a ritual team **must know the spell** and belong to the **same tradition** (shamans of different totems may cooperate).\n\n* **Maximum size** is equal to the **lowest Sorcery Skill Rating** among the members.\n\n* The ritual counts as **one spellcasting action**.\n\n* The team designates a **leader**. All tests use the leader's modifiers for totems and equipment.\n\n* All magicians combine their **Magic Pools into one Ritual Magic Pool** at the start. The pool is **not refreshed** during the ritual.",
+    "category": "magic",
+    "subcategory": "ritual_sorcery",
+    "tags": [
+      "ritual_sorcery",
+      "spellcasting",
+      "material_costs",
+      "magical_materials"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 93,
+    "concept": "Costs of Ritual Sorcery Materials",
+    "dependencies": [
+      "Requirement for Material Link",
+      "Requirements for Ritual Teams",
+      "Introduction to Ritual Sorcery",
+      "Costs of Ritual Sorcery Materials"
+    ]
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "* If any member withdraws, reduce the remaining dice in the pool by the number of dice in the withdrawing character's Magic Pool. If this exhausts the pool, the spell **aborts** and all members make a Drain Resistance Test.\n\n* Individual wounds affect only that individual, unless the leader is the one affected.\n\n* A team member \"spots\" the target in astral space.\n\n* This member **does not contribute to the Magic Pool**, but is subject to Drain.\n\n* If this forward observer is killed or driven away, the spell **aborts** and all team members must make Drain Resistance Tests.\n\n* The observer must stay in astral space until the sending of the spell is complete.\n\n**A. Prepare for Sending**\nTeam members combine Magic Pools. Leader declares the Spell Force. Team members must drop any sustained spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "drain_resistance",
+      "magic_pool",
+      "astral_space",
+      "teamwork"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 94,
+    "concept": "Consequences of Member Withdrawal",
+    "dependencies": [
+      "Astral Guiding Overview",
+      "Requirements for Ritual Teams"
+    ]
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "**B. Form Material Link**\nIf astrally guided/in view, skip. Otherwise, lock on to target:\n* **Base Time:** Force in hours.\n* **Test:** Leader allocates dice from Ritual Magic Pool against the **Material Link Table** target number.\n* **Success:** A single success is sufficient. Actual time is Base Time \\ successes.\n* **No successes:** Spell **aborts**. All members make a Drain Resistance Test.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "material_link",
+      "spellcasting_process"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 95,
+    "concept": "Forming Material Link Process",
+    "dependencies": []
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "| Target Location | Target Number |\n|:---|:---|\n| City or county known | 5 |\n| State, province, or country known | 7 |\n| Continent known | 9 |\n| Unknown | 11 |\n| **Modifiers** | |\n| Target is magically active | +2 |\n| Target is behind a mana barrier | +Barrier Rating |\n| Target is in a hermetic circle or medicine lodge | +Rating |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "target_number",
+      "material_link",
+      "magic_modifiers"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 96,
+    "concept": "Material Link Table",
+    "dependencies": [
+      "Forming Material Link Process"
+    ]
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "**C. The Sending**\nBuild up power and direct at target:\n* **Test:** Leader allocates dice from Ritual Magic Pool against the **Sending Table** target number.\n* **Time:** Force in hours \\ successes. Minimum time is **one hour**.\n* **No successes:** Spell **aborts**. All members make a Drain Resistance Test.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "sending",
+      "drain_resistance",
+      "magic_pool"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 97,
+    "concept": "Sending Process",
+    "dependencies": []
+  },
+  {
+    "title": "RITUAL SORCERY",
+    "content": "| Target Type | Target Number |\n|:---|:---|\n| Specific place | 6 |\n| Human or metahuman | 6 |\n| Specific object | 8 |\n| Spirit | 8 |\n| **Modifiers** | |\n| Target moving faster than running | +2 |\n| Area spell | -1 |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "targeting",
+      "spellcasting_modifiers"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 98,
+    "concept": "Sending Table",
+    "dependencies": [
+      "Sending Process"
+    ]
+  },
+  {
+    "title": "Noticing the Sending",
+    "content": "During the Sending stage of ritual sorcery, any magician who sees the target from **astral space** has a chance of noticing the activity.\n\n* **Observer Test:** Make an **Intelligence Test** against a Target Number equal to **Force of the sending - the number of hours into the sending** when the observation takes place.\n * Only **1 success** is needed to recognize and identify the sending.\n* **Target Magician Test:** If the target is a magician, the chance to notice is calculated as above, but the Target Number **increases by +2**.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "sending",
+      "observation",
+      "magician",
+      "intelligence_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 99,
+    "concept": "Noticing the Sending",
+    "dependencies": []
+  },
+  {
+    "title": "Determine the Effect (Ritual Sorcery)",
+    "content": "* **Area Spells:** The base radius is equal to the ritual team leader's **Magic Rating** in meters. It can be altered by subtracting dice from the pool, per the normal rules for area-effect spells (*p. 130*).\n* **Spell Success Test:** Make a normal Spell Success Test using dice from the **Ritual Magic Pool**.\n * Because the material link has been established, modifiers for hermetic circles, medicine lodges, and mana barriers **do not apply**.\n * Modifiers for cover and visibility **do not apply**.\n * Only any **injury modifiers** the leader may have apply.\n * If the leader is a shaman, **totem modifiers** also apply.\n* **Resolution:** The spell is resolved in the normal manner, per the spell description.\n* **Spell Resistance Test:** If necessary, it is made against a Target Number equal to the **Force of the spell or the ritual team leader's Ritual Sorcery Skill, whichever is higher**.\n * Allies of the target may allocate **Spell Defense dice** (*p. 132*) if they are aware of the sending prior to its arrival.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ritual_sorcery",
+      "area_spells",
+      "spell_success_test",
+      "magic_rating",
+      "spell_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 100,
+    "concept": "Determine the Effect (Ritual Sorcery)",
+    "dependencies": []
+  },
+  {
+    "title": "Sustaining Ritual Sorcery",
+    "content": "If the spell is successful and requires sustaining:\n\n* **Using the Ritual Pool:** The ritual team can sustain it by allocating any **remaining dice from the Ritual Magic Pool**. The spell may be maintained for a number of hours equal to the team leader's **Magic Rating * the number of dice allocated**.\n* **Using an Elemental (Mages):** Mages can use an elemental to maintain the spell for a number of days equal to the **Spell Force Rating** (*see Elemental rules later*).\n* **Team Concentration:** Magicians on the ritual team may maintain the spell themselves by staying locked into a team, concentrating on the spell.\n * This leaves an **astral path** leading back to the team.\n * It also counts as sustaining a spell, adding **+2 to the Drain Resistance Test** for each team member.\n * Magicians sustaining a spell this way need not remain physically adjacent, but they can only undertake **non-intensive mundane tasks**.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "sustaining",
+      "ritual_sorcery",
+      "magic_rating",
+      "elementals",
+      "team_concentration"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 101,
+    "concept": "Sustaining Ritual Sorcery",
+    "dependencies": []
+  },
+  {
+    "title": "Tracking Back a Sending",
+    "content": "* It is possible to track back a detected sending by following the tendrils of power in astral space. A magician uses the **Astral Tracking** rules on *p. 149*.\n* **Attacking the Ritual Team:** Once found, the ritual caster(s) can be attacked in astral space. During the Sending stage, the ritual team is considered to be present in astral space and is vulnerable to **Astral Combat** (*p. 147*).\n* If time allows, the target can mount a **physical assault** on the ritual team.\n * If the magicians do not pull dice out of the pool to defend themselves, they are \"sitting ducks.\"\n * Pulling dice out of the pool to defend themselves **aborts the ritual**.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_tracking",
+      "rituals",
+      "astral_combat",
+      "sending"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 102,
+    "concept": "Tracking Back a Sending",
+    "dependencies": []
+  },
+  {
+    "title": "Resist Drain (Ritual Sorcery)",
+    "content": "* Each member of the team acts as if he had cast the spell alone, making a **Drain Resistance Test**.\n* The leader decides how to divide up any **remaining Ritual Magic Pool dice** among the team members.\n* Team members may also add extra dice from foci, totem modifiers, or spirit aid if they have not previously used them in casting this spell.\n* Drain is handled per the individual spell.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "resist_drain",
+      "ritual_sorcery",
+      "drain_resistance",
+      "team_spellcasting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 103,
+    "concept": "Resist Drain (Ritual Sorcery)",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "**Foci** (plural of focus) are items of magical power that assist a magician in casting spells or conjuring spirits. Only **magicians** can use foci. To a magician, a focus is a source of **channeled power**. Foci must be **enchanted** (purchased or created using rules in *The Grimoire*).\n\nFoci have a rating of at least 1, except for Spell Locks (max rating 1).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "foci",
+      "magicians",
+      "enchanted_items",
+      "channeled_power",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 104,
+    "concept": "Introduction to Foci and their purpose in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "1. **Spell Foci:** Help in sorcery (specific spell or category). 2. **Spirit Foci:** Help in conjuring. 3. **Power Foci:** Boost the Magic Pool. 4. **Spell Locks:** Sustain spells. 5. **Weapon Foci:** Assist in combat.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "foci",
+      "spellcasting",
+      "magic_pool",
+      "conjuring",
+      "combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 105,
+    "concept": "Classes of Foci and their specific functions.",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "Foci are generally available through **talismongers** (dealers in arcane objects). Availability depends on power (rating) (*consult the Gear chapter for prices and availability*).",
+    "category": "magic",
+    "subcategory": "foci",
+    "tags": [
+      "foci",
+      "talismongers",
+      "availability",
+      "gear",
+      "arcane_objects"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 106,
+    "concept": "Availability of foci and where to obtain them.",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "A magician must **bond** a focus before he can use it by spending **Karma**. * Karma Cost: Consult the Focus Bonding Table below. * Only **one magician** may bond a single item at a time, and only that magician can use it. * If a magician finds or takes another's magical focus, the item can only be used by the new magician if he spends the Karma to bond it.",
+    "category": "magic",
+    "subcategory": "focus_bonding",
+    "tags": [
+      "magic",
+      "focus",
+      "bonding",
+      "karma",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 107,
+    "concept": "Rules for bonding a focus to a magician.",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "| Item | Karma Cost |\n|:---|:---|\n| Specific Spell Focus | Rating |\n| Spell Category Focus | 3 * Rating |\n| Spirit Focus | 2 * Rating |\n| Power Focus | 5 * Rating |\n| Spell Lock | 1 Karma Point |\n| Weapon Focus, Small | 4 * Rating |\n| Weapon Focus, Large | 5 * Rating |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "focus_bonding",
+      "karma_cost",
+      "spell_focus",
+      "spirit_focus",
+      "weapon_focus"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 108,
+    "concept": "Focus Bonding Table detailing the Karma costs for bonding different types of foci.",
+    "dependencies": []
+  },
+  {
+    "title": "FOCI",
+    "content": "* **Activation:** Takes **one Simple Action** to activate. No action is required to use or apply the focus's benefit (except Weapon Foci, used with a Complex Action armed attack). * **Limit:** The number of foci that may be active on a magician at one time is equal to the character's **Intelligence Rating**. * **Operation:** Once activated, a focus operates as long as it is on the magician's person (worn, carried, or held). * **Deactivation:** If snatched away or dropped, it immediately deactivates. The magician loses all benefits until recovered. It does not need to be re-bound if picked up by the same magician. * **Exception:** Spell Locks are an exception to the operation rules (see below).",
+    "category": "magic",
+    "subcategory": "foci",
+    "tags": [
+      "focus",
+      "activation",
+      "deactivation",
+      "magic_rules",
+      "spellcasting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 109,
+    "concept": "Rules for using a focus, including activation, limits, operation, and deactivation.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL FOCI",
+    "content": "Spell foci provide **extra dice** equal to their rating for specific purposes. Treat these dice exactly like **Magic Pool dice** for refreshing, but they **cannot** simply be added into the Magic Pool, as they have limited uses.\n\n### Specific Spell Foci\n\n* **Use:** Provides extra dice for the **tests to cast and resist Drain** associated with **one specific spell** (indicated at bonding).\n* **Limitation:** Dice **cannot** be used to defend against the same spell cast by another magician (i.e., **no** help with Spell Resistance Tests).\n* **Spell Defense:** Dice from a specific spell focus **cannot** be used as Spell Defense dice.\n\n### Spell Category Foci\n\n* **Use:** Provides extra dice for the **Spell Success or Drain Resistance Tests** for **any spells** the magician knows within the specified category (e.g., combat, detection).\n* **Defense:** The magician **can** use these dice to assist in **resisting a spell** cast by another magician from within that category.\n* **Spell Defense:** Dice from a spell category focus **cannot** be used as Spell Defense dice.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_foci",
+      "magic_pool",
+      "drain_resistance",
+      "spell_success"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 110,
+    "concept": "SPELL FOCI",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "### SPIRIT FOCI\n\n* **Use:** Provides extra dice for use with **conjuring**. The magician must declare the **specific spirit type** (e.g., water elemental, hearth spirit) at bonding.\n* **Benefit:** Provides dice equal to its rating to **summon, banish, or control** a spirit of that specific type, and for the **Drain Resistance Test**.\n* **Limit:** The magician may only use a number of dice up to the focus's rating in **all** the various tests associated with summoning a single spirit.",
+    "category": "magic",
+    "subcategory": "spirit_foci",
+    "tags": [
+      "spirit_foci",
+      "conjuring",
+      "magic_rules",
+      "drain_resistance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 111,
+    "concept": "Rules for Spirit Foci, including use, benefits, and limitations.",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "### POWER FOCI\n\n* **Benefit:** They are the most flexible and powerful type.\n 1. Increase a magician's **Magic Rating by their value** (allows casting of higher-Force spells without physical Drain risk).\n 2. Add dice equal to their rating **directly into the Magic Pool** (usable for anything regular Magic Pool dice can affect).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "power_foci",
+      "magic_rating",
+      "magic_pool",
+      "spellcasting",
+      "drain"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 112,
+    "concept": "Benefits of Power Foci, including effects on Magic Rating and Magic Pool.",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "### SPELL LOCKS\n\n* **Purpose:** Special foci that sustain a spell without the casting magician's concentration.\n* **Bonding/Activation:** Takes **one Simple Action** and the expenditure of **one point of Karma**. This occurs simultaneously with a successful cast of a **sustainable spell**.\n * This link sustains the spell from astral space.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_locks",
+      "sustainable_spell",
+      "bonding",
+      "activation",
+      "karma"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 113,
+    "concept": "Purpose and bonding/activation rules for Spell Locks.",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "* **Transfer:** Can be given to another magician of the same tradition (shamanic or hermetic) for placement and activation.\n * Activation occurs by **touch** and a **Simple Action** (and the new magician must be of the proper tradition).\n* **Placement:** Must be placed in **contact with its target** (worn, hung, nailed, pocketed, etc.).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_locks",
+      "transfer",
+      "activation",
+      "placement",
+      "magician"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 114,
+    "concept": "Rules for transferring and placing Spell Locks.",
+    "dependencies": [
+      "Purpose and bonding/activation rules for Spell Locks"
+    ]
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "* **Invisibility:** Once in place, the spell lock effectively **vanishes**. Mundanes cannot see, touch, or affect it. A magician can only see it if they are **astrally perceiving**.\n* **Removal:** If a magician spots and removes the lock, the link is broken, the lock goes dormant, and it must be re-bonded to be used again (can lock a different spell).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "invisibility",
+      "spell_lock",
+      "removal",
+      "magician",
+      "astral_perception"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 115,
+    "concept": "Invisibility and removal rules for Spell Locks.",
+    "dependencies": [
+      "Purpose and bonding/activation rules for Spell Locks"
+    ]
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "* **Creator Control:** The creating magician can activate and deactivate them at will (Simple Action). It counts toward the creator's limit of active foci.\n* **Drawback (Vulnerability):** An active spell lock creates an **astral thread** connecting it to its creator.\n * This thread can be traced using **Astral Tracking** (*p. 149*).\n * It can be used as a **material link** to make the lock's creator vulnerable to **ritual sorcery**.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "creator_control",
+      "vulnerability",
+      "spell_locks",
+      "astral_tracking",
+      "ritual_sorcery"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 116,
+    "concept": "Creator control and vulnerability rules for Spell Locks.",
+    "dependencies": [
+      "Purpose and bonding/activation rules for Spell Locks"
+    ]
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "### WEAPON FOCI\n\n* **Requirement:** User must be magically active (Magic Rating \\geq 1) and have bonded the focus.\n* **Benefit:** Adds its rating to the user's **Armed Combat Skill** in a fight. Adepts can use a weapon focus.",
+    "category": "magic",
+    "subcategory": "weapons",
+    "tags": [
+      "weapon_foci",
+      "combat",
+      "magic_rating",
+      "armed_combat_skill",
+      "adepts"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 117,
+    "concept": "Requirements and benefits of Weapon Foci.",
+    "dependencies": []
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "* **Missile Weapons:** No one has found a way to enchant missile weapons (firearms, bullets) because a weapon focus only functions in the hands of its owner and ceases to function as soon as it leaves those hands.\n* **Astral Combat:** Does **increased damage in astral combat** (*p. 147*). Paranormal creatures with defenses against normal weapons **do not** have that defense against a weapon focus (*p. 214*).\n * An image of the focus translates into astral space with the magician when they astrally project.\n * Active weapon foci are present in astral space and can be used against critters or spirits present only there.",
+    "category": "magic",
+    "subcategory": "weapons",
+    "tags": [
+      "weapon_foci",
+      "astral_combat",
+      "missile_weapons",
+      "magical_effects",
+      "combat_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 118,
+    "concept": "Rules regarding missile weapons and astral combat for Weapon Foci.",
+    "dependencies": [
+      "Requirements and benefits of Weapon Foci"
+    ]
+  },
+  {
+    "title": "OTHER FOCI TYPES",
+    "content": "* **Regeneration:** If used against creatures with regeneration (*p. 219*), and the wound is Deadly or takes the creature down, the creature must make an **Essence Test** against a Target Number of **2 * weapon focus rating**. If the test fails, the critter does not regenerate.\n* **Construction:** Must contain the magical metal **orichalcum** (alloy of copper, gold, silver, and mercury).",
+    "category": "magic",
+    "subcategory": "weapons",
+    "tags": [
+      "regeneration",
+      "weapon_foci",
+      "orichalcum",
+      "essence_test",
+      "combat_effects"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 119,
+    "concept": "Regeneration effects and construction rules for Weapon Foci.",
+    "dependencies": [
+      "Requirements and benefits of Weapon Foci"
+    ]
+  },
+  {
+    "title": "ATTACKING THROUGH A FOCUS",
+    "content": "An active focus of any kind creates a continual, open bridge between astral and mundane space. Normally, a spell cannot be cast between these two realms.\n\n* **Attack Method:** An astrally present magician can cast a **physical spell** at the focus's physical component through this channel.\n* **Targeting:** Only the focus itself can be affected, **unless** the attacking magician casts an **area-effect spell centered on the focus**. This could hit all targets within the spell's effect area.\n * Manipulation spells **cannot** be used in this manner.\n* **Attack Procedure (Two Steps):**\n 1. **Contest:**\n * Attacker rolls **Spell Force Rating dice** against a Target Number equal to the **rating of the focus**.\n * Defender rolls dice equal to the **rating of the focus** against a Target Number equal to the **Force of the spell**.\n * The side that generates **more successes wins**.\n 2. **Result:**\n * **If the spell wins:** The **spell focus bonding is broken**, rendering the focus useless, and the spell grounds into the physical material of the focus.\n * **If the focus wins:** The attacking spell **does not ground into it** and dissipates.\n* **Spell Resolution:** Resolve the spell effects normally (*p. 129*).\n * If not an area-effect spell, it only affects the target in possession of or directly connected to the focus.\n * If an area-effect spell, line-of-sight is determined from the spellcaster's position in astral space (*see Astral Space, p. 145*).\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "attacking_through_a_focus",
+      "physical_spell",
+      "area_effect_spell",
+      "spell_force_rating",
+      "focus_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 120,
+    "concept": "ATTACKING THROUGH A FOCUS",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "**Conjuring** is the art of summoning, controlling, and banishing spirits. The **Force Rating** of a spirit (assigned by the magician) determines its abilities and the difficulty of handling it.\n\n* **Nature Spirits:** Personify the forces of the environment. Only a **shaman** can summon or control them.\n\n* **Elementals:** Arise from the four hermetic elements (fire, water, air, earth). Only a **mage** can summon or control them.\n\n* *Full abilities and descriptions are in the Critters section, p. 224.*\n\n### SUMMONING NATURE SPIRITS (Shamans)\n\n* **Domain:** A shaman can only summon a nature spirit in that spirit's home domain. They cannot cross out of their domain.",
+    "category": "magic",
+    "subcategory": "conjuring",
+    "tags": [
+      "conjuring",
+      "spirits",
+      "shaman",
+      "mage",
+      "force_rating"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 121,
+    "concept": "Introduction to Conjuring and Force Rating",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "* **Conjuring Test:** Roll **Sorcery dice** against a Target Number equal to the **Force of the spirit**.\n * **Totem modifiers** and **extra dice from spirit foci** apply.\n * **Magic Pool dice DO NOT assist** in any Conjuring-related Tests.\n\n* **Services:** Each success represents **one service** the spirit agrees to perform. No successes means no spirit comes.\n\n* **Action:** Requires a **Complex Action**. A shaman can only have **one nature spirit** in service at one time.",
+    "category": "magic",
+    "subcategory": "conjuring",
+    "tags": [
+      "conjuring",
+      "nature_spirits",
+      "sorcery",
+      "services",
+      "complex_action"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 122,
+    "concept": "Conjuring Test mechanics for nature spirits",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "* **Drain Resistance Test:** Must be made regardless of success.\n * Roll **Charisma dice** (adjusted by totem modifiers and spirit foci) against a Target Number equal to the **Force Rating** of the nature spirit.\n * Every **2 successes** reduces the Drain by one level. If Drain knocks the shaman unconscious, the spirit **departs**.\n\n* **Duration:** Nature spirits **vanish at sunrise and sunset** (all services end).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "drain_resistance",
+      "shaman",
+      "nature_spirit",
+      "charisma",
+      "force_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 123,
+    "concept": "Drain Resistance Test mechanics for shamans",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "#### CONJURING DRAIN TABLE\n\n| Spirit's Force Rating | Drain Level |\n|:---|:---|\n| Less than half shaman's Charisma | (L)Stun |\n| Shaman's Charisma or less | (M)Stun |\n| Greater than shaman's Charisma | (S)Physical |\n| Greater than twice shaman's Charisma | (D)Physical |",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "conjuring",
+      "drain",
+      "spirits",
+      "shaman",
+      "rules"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 124,
+    "concept": "Conjuring Drain Table for nature spirits",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "#### Nature Spirit Services\n\n* **Appearance:** First appears in its **astral form** (visible as a slight shimmering). Concealability = **12 - Spirit's Force**.\n* **Calling:** Once summoned, it can be put on \"stand-by.\" Calling it later takes a **Simple Action**.\n* **Powers:** To perform a service, the spirit uses one of its powers as directed.\n * In **astral form**, it can only use powers that directly protect or benefit the shaman (concealment, guard, movement).\n * To use powers on others, it must assume its **manifest form**.\n* **Service Count:** Continual use of a specific power counts as **only one service**. Changing parameters (e.g., concealing more characters) constitutes a new service. Using combat powers against multiple foes is **one service**.\n\n### SUMMONING ELEMENTALS (Mages)",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "nature_spirits",
+      "summoning",
+      "powers",
+      "shaman",
+      "services"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 125,
+    "concept": "Details on Nature Spirit Services",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "* **Requirements:** A **conjuring library** and a **hermetic circle** (of the correct type) with ratings at least equal to the **Force** of the spirit.\n * **Materials Cost:** **1,000¥ per Force Rating Point**.\n * **Source:** Each elemental type needs a specific source (bonfire for fire, pool for water, incense for air, heap of earth/clay/rock for earth).\n\n* **Ritual Time:** Takes a number of hours equal to the elemental's **Force** (uninterrupted).",
+    "category": "magic",
+    "subcategory": "summoning",
+    "tags": [
+      "conjuring",
+      "elementals",
+      "rituals",
+      "magic_system"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 126,
+    "concept": "Requirements for summoning elementals",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "* **Conjuring Test:** Roll **Sorcery dice** against a Target Number equal to the **Force of the spirit**.\n * **Spirit focus** can add extra dice. **Magic Pool dice DO NOT apply**.\n\n* **Services:** The number of successes determines the number of services. No successes means no elemental comes (materials used up).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "conjuring",
+      "elementals",
+      "sorcery",
+      "services",
+      "test_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 127,
+    "concept": "Conjuring Test mechanics for elementals",
+    "dependencies": []
+  },
+  {
+    "title": "CONJURING",
+    "content": "* **Drain Resistance Test:** Must be made regardless of success.\n * Roll **Charisma dice** (adjusted by spirit focus) against a Target Number equal to the **Force Rating**.\n * If Drain knocks the mage unconscious, the spirit **escapes free and uncontrolled**. It makes a Force Test against TN 4 to determine if it flees (1+ success) or attacks (0 successes).\n\n* **Binding Limit:** A mage can bind a number of elementals equal to his **Charisma**.\n\n#### Elemental Services\n\nAn elemental is **bound** to the mage and responds to calls. It departs via astral space when not needed.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "drain_resistance",
+      "elementals",
+      "binding",
+      "charisma",
+      "spirit_focus"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 128,
+    "concept": "Drain Resistance Test mechanics for mages",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT FORMS",
+    "content": "Nature spirits and elementals can assume either **astral** or **manifest** form. Changing forms costs a **Simple Action**.\n\n### Astral Form\n\n* **Existence:** Entirely within astral space (may be noticeable as a slight shimmering).\n* **Services:** Can only perform services that directly affect the **summoning magician** or targets with a **valid astral presence** (*p. 145*). Powers can \"ground\" through the target's physical body.\n* **Communication/Sensing:** Can communicate with summoner and be sensed by magicians using astral perception or projection.\n* **Attacks:** Physical weapons **cannot harm it**. **Weapon foci** with an image in astral space can harm it, but the wielder must be using astral perception or projection. The \"shimmering air effect\" cannot be attacked. Can be attacked by **banishing** or **astral combat**.\n\n### Manifest Form\n\n* **Existence:** Assumed to use a power against a target that has only a physical presence.\n* **Vulnerability:** Spirits dislike it because it makes them vulnerable to physical attacks.\n* **Mundane Attackers:** When attacking a manifest spirit with a **mundane weapon**, the character uses **Willpower** instead of the normal Combat Skill. The attacker may **not** add Combat or Magic Pool dice.\n * Attacks using **weapon foci, magical attacks, or the spirit's vulnerability** use the proper Combat Skill dice and can be augmented by Combat Pool dice.\n* **Immunity:** Manifest spirits have the power of **immunity** against **firearm attacks, ranged weapons** (excluding bows and throwing weapons), and **explosions** (indirect attacks).\n * They have **twice their Force as armor** (impact or ballistic).\n * They **do not** have this power against **melee attacks, bows** (except crossbows), and **throwing weapons**.\n* **Services:** Each use of a power is a separate service, unless it's an attack against a group of foes (single service).\n\n---",
+    "category": "magic",
+    "subcategory": "spirit_forms",
+    "tags": [
+      "spirit",
+      "astral_form",
+      "summoning",
+      "magician",
+      "elemental"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 129,
+    "concept": "SPIRIT FORMS",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT INITIATIVE",
+    "content": "Spirits move quickly.\n\n* **Astral Form:** Base Reaction as indicated for the spirit type, **plus 20**. Rolls **1D6** Initiative die.\n* **Manifest Form:** Base Reaction as indicated for the spirit type, **plus 10**. Rolls **1D6** Initiative die.\n* **Action Change:** If an astral spirit changes to manifest form during the Combat Turn, it resolves the rest of its action but is ineligible for another action for **20 Phases** (the normal 10 + the +10 Initiative bonus for astral form).\n* **Commands:** Spirits can only receive new commands on their summoner's actions. They can **Delay** actions while waiting.\n\n---",
+    "category": "magic",
+    "subcategory": "initiative",
+    "tags": [
+      "spirits",
+      "initiative",
+      "combat",
+      "actions",
+      "summoning"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 130,
+    "concept": "SPIRIT INITIATIVE",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT COMBAT",
+    "content": "Spirits generally obey the normal combat rules.\n\n* **Force vs. Force Contest (Spirits vs. Spirits):**\n * Each spirit uses its **Force dice** against a Target Number equal to the **opposing spirit's Force**.\n * The spirit that generates the greater number of successes reduces the other spirit's Force by the **net successes**.\n * A spirit whose Force is reduced to 0 is **destroyed**.\n * Requires a **Complex Action**. Costs **one service** to initiate but may continue without additional service costs until one spirit is defeated.\n * Nature spirits may oppose each other within a domain; the spirit with the greater Force wins, and the power takes effect at a Force Rating equal to the difference.\n* **Defense against Damage:** When attacked by a spirit, a magician has the option of using the **Conjuring Skill** in place of the normally appropriate resisting attribute (Body or Willpower).\n\n---",
+    "category": "combat",
+    "subcategory": "spirit_combat",
+    "tags": [
+      "spirit_combat",
+      "force_vs_force",
+      "combat_rules",
+      "magician_defense"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 131,
+    "concept": "SPIRIT COMBAT",
+    "dependencies": []
+  },
+  {
+    "title": "CONTROL CONTESTS",
+    "content": "Two magicians can contest control of a spirit (shaman vs. nature spirit, mage vs. elemental).\n\n* **Action:** Challenger declares the attempt as a **Complex Action**.\n* **Challenger's Test:** **Conjuring Test** against a Target Number equal to **Spirit's Force + 2**.\n* **Controller's Test:** **Conjuring Test** against the **Force of the spirit** (no modifiers).\n* **Modifiers:** Both may use dice from totem modifiers or spirit foci.\n* **Result:**\n * **Controller wins:** Nothing changes. Challenger makes a **Drain Resistance Test** as if he had conjured the spirit.\n * **Challenger wins:** Challenger gets control. **Both magicians** must make Drain Resistance Tests.\n * **Neither rolls successes:** Both attempt to resist Drain, and the spirit goes **uncontrolled**.\n * If the winner is knocked out by Drain, the spirit goes **uncontrolled**.\n\n### Commanding an Uncontrolled Spirit\n\nA magician with Conjuring Skill can attempt to gain control over an uncontrolled spirit.\n\n* **Test:** Identical to the test for banishing a spirit.\n * Roll **Conjuring dice** against a Target Number equal to the **spirit's Force**.\n * Spirit foci and totem modifiers apply.\n* **Services:** Every **2 successes** results in the spirit owing **one service**.\n\n---",
+    "category": "magic",
+    "subcategory": "spirit_control",
+    "tags": [
+      "control_contests",
+      "spirits",
+      "conjuring",
+      "drain_resistance",
+      "magicians"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 132,
+    "concept": "CONTROL CONTESTS",
+    "dependencies": []
+  },
+  {
+    "title": "BANISHING",
+    "content": "* **Action:** Requires **great concentration** and uses the Conjuring Skill as if the magician were casting an **exclusive spell** (*p. 133*). Requires a **Complex Action**.\n* **Magician:** A magician of either tradition may banish a spirit of any type.\n* **Duration:** The process is repeated until one participant overcomes the other (Magic or Force drops to 0) or the winner breaks off the contest.\n * If **spirit's Force reaches 0**, it is **utterly destroyed**.\n * If **magician's Magic Rating drops to 0**, the character **passes out**, and the spirit is free.\n * Lost rating points (Magic or Force) are regained at a rate of **1 point per hour**.\n\n### Banishing Steps (Repeated)\n\n**A. Make Magician's Conjuring Test**\nRoll **Conjuring dice** against a Target Number equal to the **spirit's Force Rating**. If the magician summoned the spirit, he may add **Charisma dice**. Totem modifiers and spirit foci apply.\n\n**B. Make Spirit's Force Test**\nRoll **Force dice** against a Target Number equal to the **magician's Magic Rating**.\n\n**C. Determine Effect**\nCompare successes:\n* **Spirit generates more successes:** Magician's Magic Rating is reduced by **1 for every 2 net successes**.\n* **Magician rolls more successes:** Spirit's Force is reduced by **1 for every 2 net successes**.\n\n**D. Continue Contest**\nThe winner decides whether to continue. If yes, both combatants are **locked** until the winner's next action.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "banishing",
+      "spirits",
+      "conjuring",
+      "magician",
+      "complex_action"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 133,
+    "concept": "BANISHING",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Spirit | B | Q | S | C | I | W | E | R | Attacks | Powers | Weaknesses |\n|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|\n| **Elementals** | | | | | | | | | | | |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "spirits",
+      "elementals",
+      "nature_spirits",
+      "powers",
+      "weaknesses"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 134,
+    "concept": "Introduction to the Spirit Table, categorizing spirits into Elementals and Nature Spirits.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Air | F-2 | (F + 3) * 4 | F- 3 | F | F | F | (F)A | F + 2 | Attacks: Per Powers | Engulf, Manifestation, Movement, Noxious Breath, Psychokinesis | Confinement, Vulnerability (Earth) |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "air_elemental",
+      "spirit_stats",
+      "powers",
+      "weaknesses",
+      "attacks"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 135,
+    "concept": "Details of the Air Elemental, including its attributes, attacks, powers, and weaknesses.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Earth | F + 4 | (F -2) * 2 | F + 4 | F | F | F | (F)A | F-2 | Attacks: (F)S as Unarmed Combat (Skill = Reaction); +1 Reach | Engulf, Manifestation, Movement | Vulnerability (Air) |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "earth_elemental",
+      "spirit_stats",
+      "combat_mechanics",
+      "vulnerabilities"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 136,
+    "concept": "Details of the Earth Elemental, including its attributes, attacks, powers, and weaknesses.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Fire | F+1 | (F + 2) * 3 | F-2 | F | F | F | (F)A | F+ 1 | Attacks: (F)M as Ranged Combat (Skill = Reaction); Range = Force * 2 meters | Engulf, Flame Aura, Flame Projection, Guard, Manifestation, Movement | Vulnerability (Water) |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "fire_elemental",
+      "spirit_attributes",
+      "attacks",
+      "powers",
+      "weaknesses"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 137,
+    "concept": "Details of the Fire Elemental, including its attributes, attacks, powers, and weaknesses.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Water | F+ 2 | F * 2 | F | F | F | F | (F)A | F-1 | Attacks: (F)S Stun as Unarmed Combat (Skill = Force) | Engulf, Manifestation, Movement | Vulnerability (Fire) |\n\n| **Nature Spirits** | | | | | | | | | | | |\n\n| **OF MAN** | F+1 | (F + 2) * 3 | F-2 | F | F | F | (F)A | F+1 | | | |",
+    "category": "magic",
+    "subcategory": "nature spirits",
+    "tags": [
+      "water_elemental",
+      "nature_spirits",
+      "spirit_attributes",
+      "attacks",
+      "weaknesses"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 138,
+    "concept": "Details of the Water Elemental, including its attributes, attacks, powers, and weaknesses.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| City Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Fear, Guard, Search | Domain: Streets, plazas, alleys, open areas, and abandoned buildings of a city. |\n\n| Hearth Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Guard, Search | Domain: Homes, residences, occupied buildings. |\n\n| Field Spirit | | | | | | | | | | Accident, Concealment, Guard, Search | Domain: Cultivated, worked fields and growing areas. |\n\n| **OF THE LAND** | F + 4 | (F -2) * 2 | F + 4 | F | F | F | (F)A | F-2 | | | |\n\n| Desert Spirit | | | | | | | | | | Concealment, Guard, Movement, Search | Domain: Open desert. |\n\n| Forest Spirit | | | | | | | | | | Accident, Concealment, Confusion, Fear, Guard | Domain: Forests, as well as decent-sized parks. |\n\n| Mountain Spirit | | | | | | | | | | Accident, Concealment, Guard, Movement, Search | Domain: Rugged mountain terrain. |\n\n| Prairie Spirit | | | | | | | | | | Accident, Alienation, Concealment, Guard, Movement, Search | Domain: Open land, uncultivated fields, tundra. |\n\n| **OF THE SKY** | F-2 | (F + 3) * 4 | F-3 | F | F | F | (F)A | F + 2 | | | |\n\n| Mist Spirit | | | | | | | | | | Accident, Concealment, Confusion, Guard, Movement | Domain: Mist, fog, rain. |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "city_spirit",
+      "hearth_spirit",
+      "field_spirit",
+      "desert_spirit",
+      "forest_spirit"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 139,
+    "concept": "Details of the City Spirit, including its powers and domain.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| Storm Spirit | | | | | | | | | | Concealment, Confusion, Electrical Projection, Fear | Domain: Thunderstorms, hurricanes, tornadoes, violent storms. |\n\n| **OF THE WATERS** | F + 2 | F * 2 | F | F | F | F | (F)A | F-1 | | | |\n\n| Lake Spirit | | | | | | | | | | Accident, Engulf, Fear, Guard, Movement, Search | Domain: Open lake water. |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "storm_spirit",
+      "lake_spirit",
+      "spirit_powers",
+      "domains"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 140,
+    "concept": "Details of the Storm Spirit, including its powers and domain.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "| River Spirit | | | | | | | | | | Accident, Concealment, Engulf, Fear, Guard, Movement, Search | Domain: Rivers, large streams, river deltas (when not swampy), inlets and outlets. |\n\n| Sea Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Engulf, Fear, Guard, Movement, Search | Domain: The open sea. |\n\n| Swamp Spirit | | | | | | | | | | Accident, Binding, Concealment, Confusion, Engulf, Fear, Guard, Movement, Search | Domain: Swamps, marshes. |",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "river_spirit",
+      "sea_spirit",
+      "swamp_spirit",
+      "spirit_powers",
+      "domains"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 141,
+    "concept": "Details of the River Spirit, including its powers and domain.",
+    "dependencies": []
+  },
+  {
+    "title": "SPIRIT TABLE",
+    "content": "*(B = Body, Q = Quickness, S = Strength, C = Charisma, I = Intelligence, W = Willpower, E = Essence, R = Reaction. 'F' refers to the spirit's Force. 'A' under Essence indicates that the spirit exists primarily in astral space.)*",
+    "category": "magic",
+    "subcategory": "spirits",
+    "tags": [
+      "spirit_table",
+      "abbreviations",
+      "terms",
+      "force",
+      "essence"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 142,
+    "concept": "Explanation of abbreviations and terms used in the Spirit Table.",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Astral space, or the astral plane, is a parallel dimension that coexists with the physical world. It is both the source of magical energy, and the medium through which it travels. Though astral and physical space are vastly different, the two share the common dimension of time. Everything that exists on physical Earth also has an astral counterpart, though the laws of physics do not apply to the astral plane.",
+    "category": "magic",
+    "subcategory": "astral_plane",
+    "tags": [
+      "astral_space",
+      "magic_energy",
+      "parallel_dimension",
+      "astral_counterpart"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 143,
+    "concept": "Definition and nature of astral space",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Magical things (spirits, foci, spells, some magical creatures, ritual teams, magicians using astral projection or perception, and so on) are living entities in astral space. They are visible, corporeal, and capable of action while there. Beings in astral space can see physical objects and assense magical energy given off by the astral forms of all living things. Assensing is the sixth sense that allows perception of magical energy and astral forms.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_space",
+      "magical_entities",
+      "assensing",
+      "spirits",
+      "magicians"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 144,
+    "concept": "Characteristics of magical entities in astral space",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Non-magical living things have a dormant astral form, an aura that is visible and corporeal in astral space but that does not act on other astral forms. The Earth is a living thing in magical terms, and thus corporeal in astral space. It is not possible to pass through things that are alive, no matter at what level, in astral space. Vegetation, for example, blocks movement just as it does in the physical world.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_space",
+      "non_magical",
+      "living_things",
+      "aura",
+      "movement"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 145,
+    "concept": "Non-magical living things and their interaction in astral space",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Water, air, and fire are also tangible in astral space, but astral beings can pass through these elements because of their low density. Water and fire do no harm to the astral traveler, but do reduce the range of assensing.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_space",
+      "elemental_interaction",
+      "assensing",
+      "astral_beings"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 146,
+    "concept": "Interaction of astral beings with elemental substances",
+    "dependencies": [
+      "Non-magical living things and their interaction in astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Inanimate objects are visible because of reflected light, and block the passage of magical energy and emotions, two primary elements of the astral form, or aura. Because such objects block the flow of the aura, astral beings cannot assense through them. These objects possess no aura or astral form of their own, however, and so astral beings can freely pass through the astral position corresponding to the object's physical space.",
+    "category": "magic",
+    "subcategory": "astral_space",
+    "tags": [
+      "astral_projection",
+      "inanimate_objects",
+      "magical_energy",
+      "aura",
+      "assensing"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 147,
+    "concept": "Inanimate objects in astral space and their effects",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "In astral space, one cannot see or assense through a wall, though it is a simple matter to walk right through it. Transparent objects retain that quality, however.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_space",
+      "visibility",
+      "transparent_objects",
+      "interaction"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 148,
+    "concept": "Visibility and interaction with transparent objects in astral space",
+    "dependencies": [
+      "Inanimate objects in astral space and their effects"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Lit by radiant life energy, astral space is usually bright no matter what the time of day on the physical plane. Certain places, however, that are devoid or lacking in living material (within a bare concrete room, for example) may actually be dim or dark, imposing visibility modifiers similar to those that occur in normal visibility.",
+    "category": "magic",
+    "subcategory": "locations",
+    "tags": [
+      "astral_space",
+      "visibility",
+      "life_energy",
+      "dim_light"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 149,
+    "concept": "Lighting and visibility conditions in astral space",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Astral space pulses with the primal energies of life. Artificial symbols, objects of the intellect, are not directly perceptible in astral space. Someone examining the astral counterpart of this or any book would find that he or she could not read the words themselves, but that they could vividly sense the emotions of each passage. Books of poetry, for example, are rewarding when assensed astrally. Technical manuals are virtually blank.",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_space",
+      "emotional_context",
+      "perception",
+      "artificial_objects"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 150,
+    "concept": "Perception of artificial objects and emotional context in astral space",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "Scanning a computer screen in astral space would not reveal the informational content, but would impart the emotional context of the file—that is, whether it was public or secret data, legal or illegal, personal, technical, or business-oriented.\n\nNeither street signs nor even maps can be read from astral space, so an astral traveler had better know where he is going before he sets out.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_space",
+      "emotional_context",
+      "digital_content",
+      "information",
+      "travel"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 151,
+    "concept": "Emotional context of digital content in astral space",
+    "dependencies": [
+      "Perception of artificial objects and emotional context in astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL SPACE",
+    "content": "All things reveal their true forms and natures when viewed in astral space. Auras do not lie, and they are unique. Disguises, whether physical or magical, simply do not work astrally. A shape changed elf retains his original aura, regardless of the final form.",
+    "category": "magic",
+    "subcategory": "auras",
+    "tags": [
+      "astral_space",
+      "auras",
+      "magic",
+      "disguises",
+      "truth"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 152,
+    "concept": "Truth and uniqueness of auras in astral space",
+    "dependencies": [
+      "Definition and nature of astral space"
+    ]
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "Any magician can perceive astral space (with the exception of certain adepts), but he or she must make a Simple Action to switch from normal senses to astral senses and back again. When perceiving astrally, the magician's senses are focused on the astral plane. Purely physical things are visible only by their astral echo, making interaction with the physical world very difficult. If an astrally perceiving magician attempts a task based solely in the physical world, an additional +2 target modifier applies to any tests.",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "magician",
+      "senses",
+      "physical_world",
+      "target_modifier"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 153,
+    "concept": "Basic rules for astral perception and its limitations",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "When viewing within astral space, an astrally perceiving character can: - assense anything that is actually there - assense the magical energy surrounding an item - assense a ritual sorcery sending - assense a being's aura to determine its true nature.",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "magical_energy",
+      "assensing",
+      "aura",
+      "ritual_sorcery"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 154,
+    "concept": "Capabilities of a magician when perceiving astrally",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The magician can assense all spirits, magical creatures, and so on, whether they are visible in the physical world or not. If the magician has a spell that affects astral space, it may be cast. See Spells and Astral Space, p. 149. The magician is also vulnerable to astral combat, p. 147.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_perception",
+      "assensing",
+      "astral_combat",
+      "magic",
+      "spirits"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 155,
+    "concept": "Assensing capabilities and vulnerabilities in astral space",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "Because the character is only perceiving astrally, he is still limited by the constraints of his body. The character can touch and be touched by other astrally active things, but he cannot reach through a wall to touch an astral object, because the physical arm cannot penetrate the physical wall, even though the astral arm has no such restrictions.",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "magician_limits",
+      "physical_constraints"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 156,
+    "concept": "Physical limitations of a magician while perceiving astrally",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The magician can assense magical energy surrounding anything that is itself magical or that is being affected by magic: enchanted items, characters under the effect of spells, magicians casting or maintaining spells, and so forth. He can assense spells, foci, and other magical items as living beings.",
+    "category": "magic",
+    "subcategory": "assensing",
+    "tags": [
+      "astral_perception",
+      "magic_assensing",
+      "spell_effects",
+      "enchanted_items"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 157,
+    "concept": "Assensing magical energy and its implications",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The magician can detect the sending of ritual sorcery. An assensable web of energies leads back toward the source of the spell, allowing the magician to trace it using astral projection (see Astral Tracking, p. 149). Spells being sustained through ritual sorcery and spell locks also display such a trace, leading back to the spellcaster(s).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_perception",
+      "ritual_sorcery",
+      "spell_tracing",
+      "magician",
+      "astral_projection"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 158,
+    "concept": "Detection of ritual sorcery and tracing spells",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "Astral perception allows the magician to view the aura of any living or magical thing, which will reveal to him the true form or nature of the being. A shapeshifter always shows its animal form in astral space, for example. A character under a disguising spell would also show his or her true form. The spell's aura (visible independently or surrounding the thing it affects) identifies it as being of sorcery. Foci are visible as such. The auras of living beings also reveal their general state of health, wounds, diseases, active drugs in the system, and so on. The magician can also assense the Essence and Magic Attributes of living beings. The gamemaster should not reveal actual numbers, but instead inform the magician if the score is higher, lower, or about the same in comparison to the magician's own. The aura of a magician shows both Magic and Essence, thus revealing the magician's nature.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_perception",
+      "aura_viewing",
+      "magical_insight",
+      "assensing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 159,
+    "concept": "Viewing auras and understanding their implications",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The magician can gain further information about magical things by making a various Tests. Sorcery Skill would divine the nature of a spell. Conjuring or Sorcery Skills, respectively, would reveal the Force and Magic Ratings of spirits or enchanted items. Use a number equal to the spell creator's Sorcery Skill, a spirit's Force, a magician's Magic Attribute, or 5, if no target number can easily be determined. The number of successes controls the amount of information revealed.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_perception",
+      "sorcery_skill",
+      "magical_entities",
+      "information_retrieval"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 160,
+    "concept": "Using tests to gain information about magical entities",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The magician can make additional rolls to try to get more information, up to a maximum equal to his skill. Each additional attempt adds +2 to the target number.",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "magician",
+      "information_rolls",
+      "skill_checks"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 161,
+    "concept": "Mechanics for making additional rolls for information",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PERCEPTION",
+    "content": "The act of astrally perceiving opens the magician's own aura to astral space, making it vulnerable to attack. As stated previously, astrally perceiving characters are vulnerable to astral combat. They can also be directly affected by mana spells, and physical spells can be cast to ground-out through them. See Spells and Astral Space, p. 149.\n\n### ASTRAL EXAMINATION | Successes | R...",
+    "category": "magic",
+    "subcategory": "astral_perception",
+    "tags": [
+      "astral_perception",
+      "vulnerabilities",
+      "mana_spells",
+      "astral_combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 162,
+    "concept": "Vulnerabilities associated with astral perception",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "The next step beyond astral perception is actual projection, in which the magician's aura 'separates' from his body and is able to move about freely and independently for some time.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "magician",
+      "aura",
+      "movement"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 163,
+    "concept": "Introduction to Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "Any magician can use astral projection by sinking into a trance. While in this trance, the magician's body is dead to the world; his pulse and respiration are almost nil, and his senses are turned off. In magical terms, the magician 'leaves his body' to travel in astral space. Until the aura returns, the physical body is comatose.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "magician",
+      "trance",
+      "comatose",
+      "aura"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 164,
+    "concept": "Mechanics of Entering Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "The magician's astral form has Attributes based on his Attributes in the physical world, as follows:\n- Astral Strength is Charisma\n- Astral Quickness is Intelligence\n- Astral Body is Willpower\n- Astral Reaction is twice Intelligence\n\nThe magician's Mental Attributes and Magic and Essence Ratings do not change.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_form",
+      "attributes",
+      "magician",
+      "willpower",
+      "intelligence"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 165,
+    "concept": "Attributes of the Astral Form",
+    "dependencies": [
+      "Attributes of the Astral Form"
+    ]
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "The magician's astral form appears as an idealized self-image. Of course, the idealized self-image of an ork shaman or a coldly murderous corporate hit mage can be a pretty scary assessment. Astral images of the magician's fetishes and magical items accompany the journey. Non-magical gear stays with the comatose body in the physical world. Simply by willing it to be so, the astral magician can form any garments or ornaments desired, but such things have no magical or armor value. It is just razzle-dazzle.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "magician",
+      "idealized_self_image",
+      "magical_items",
+      "gear"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 166,
+    "concept": "Appearance and Gear in Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "> Tweezil glanced with the obnoxious pity of youth at the frail figure of his master before he entered into his own trance. As astral space enveloped him, a voice from behind boomed, \"What kept you, boy?\" Tweezil whirled and stared at a vibrant figure, powerfully muscled, robed in garments of light. He bore a familiar broadsword and his hands lightly held a staff Tweezil had assensed before. \"B-b-boss?\" \"You young snots never figure it out, do you?\" the mage said with a laugh. \"Over on this side, you are what you will, not what you think! Now follow me. We've got work to do.\"",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "narrative_example",
+      "magic",
+      "character_interaction"
+    ],
+    "content_type": "example",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 167,
+    "concept": "Narrative Example of Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "Movement through the landscape of astral space proceeds at normal rate or fast rate. Normal movement is Astral Quickness multiplied by 4. This is the number of meters traveled per Action Phase. There is no danger of fatigue. Characters use this rate when they need to pay attention to the surroundings.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "movement",
+      "quickness",
+      "action_phase"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 168,
+    "concept": "Normal Movement in Astral Space",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "Fast movement is fast indeed! The magician character can move at his Magic Rating in kilometers per action (roughly Magic x 1,000 km per hour). At this speed, the magician's surroundings are a blur. The character knows where he is and can dodge astral obstacles, but he cannot assense or see the scene in detail without slowing to normal movement. Combat can occur between two characters who are both using fast movement.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_projection",
+      "fast_movement",
+      "magic_rating",
+      "combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 169,
+    "concept": "Fast Movement in Astral Space",
+    "dependencies": [
+      "Normal Movement in Astral Space"
+    ]
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "At either speed, the magician can fly, that is, can move freely to any altitude, up to the limits of the atmosphere. Do not leave the atmosphere (80 kilometers). Magicians who have tried to break this barrier have usually died or gone mad, and the memories of those who survived the journey have been badly scrambled by some kind of profound mental trauma.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "magician",
+      "flying",
+      "altitude",
+      "mental_trauma"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 170,
+    "concept": "Flying in Astral Space",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "The longer a magician is in astral space, the weaker becomes the physical form. Because the magician has taken his Essence into astral space, the body begins to die.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "essence",
+      "magician",
+      "duration"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 171,
+    "concept": "Effects of Duration in Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "The physical body loses 1 point of Essence for every hour the magician is astrally gallivanting. If the Essence falls below 0, the magician dies. The magician's astral form has its full Essence and Magic Ratings even though the physical body is withering. Once the magician returns to the body, the Essence returns at a rate of 1 point per minute, up to the original rating.",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "essence_loss",
+      "astral_form",
+      "magician",
+      "game_mechanics",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 172,
+    "concept": "Essence Loss During Astral Projection",
+    "dependencies": [
+      "Effects of Duration in Astral Projection"
+    ]
+  },
+  {
+    "title": "ASTRAL PROJECTION",
+    "content": "While in astral space, the magician is unaware of the environment of his physical body unless it can be seen. If someone, or some thing, moves the body while the magician's aura is gone, the magician will not know it until he comes back, to find that his physical shell is not where he left it. This sends the character on a search for his body, which he carries out by making a test of his...",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_projection",
+      "magician",
+      "body_search",
+      "awareness"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 173,
+    "concept": "Awareness and Risks During Astral Projection",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Any magical thing or being with a presence in astral space can engage in astral combat. Things that do not have an active astral presence cannot fight or be hurt in any way in astral space. That means mundane characters (those with no Magic Rating) are immune to direct effects from astral space. It is not possible to make astral ambushes into the physical world, unless the ambusher can find some sort of bridge. See Spells and Astral Space, p. 149.",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_combat",
+      "magic",
+      "combat_mechanics",
+      "magical_beings"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 174,
+    "concept": "Eligibility for Astral Combat",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Astral combat works exactly like Melee Combat (p. 100), because the nature of astral space prevents ranged attacks. Movement, cover, and so forth have the same effect in astral space as in physical space, with the differences noted above. A magician can attack other astral forms, suffering no penalties for 'movement.'",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_combat",
+      "melee_combat",
+      "magician",
+      "movement",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 175,
+    "concept": "Mechanics of Astral Combat",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "In astral space, a spell is a living thing. When viewed from astral space, the casting of a spell reveals the formation of a living shape around the caster, which charges toward the target at high speed when released. Reaching the target, it vanishes, exiting into real space, where it releases its power. Even manipulation spells that traverse the distance in normal space behave this way.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_combat",
+      "spellcasting",
+      "magic_nature",
+      "astral_space"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 176,
+    "concept": "Nature of Spells in Astral Space",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Characters in astral space have a modified Astral Reaction equal to their calculated Astral Reaction +15. They roll 1 Initiative die (1D6). Characters who begin a Combat Turn in their physical bodies and then begin astral projection (a Complex Action) stay with their physical-body Initiative for the turn. If they begin the Combat Turn astrally projecting, and then return to their physical bodies (a Complex Action), they are ineligible for another action for 20 phases.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "astral_combat",
+      "initiative_mechanics",
+      "combat_turn",
+      "astral_projection"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 177,
+    "concept": "Astral Initiative Mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Initiative for spirits is described under Spirit Initiative, p. 142. Characters who are only astrally perceiving (p. 145) are limited to their physical Reaction and Initiative.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "astral_combat",
+      "spirit_initiative",
+      "astral_perception"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 178,
+    "concept": "Spirit Initiative and Astral Perception",
+    "dependencies": [
+      "Astral Initiative Mechanics"
+    ]
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Magicians in astral space function with their normal Mental and Special Attributes, but have their Astral 'Physical' Attributes. For all actions in astral space (dodging, fighting, reducing damage), magicians have only one dice pool, the Astral Pool, which is the equal to the sum of the magician's Intelligence, Willpower, and Charisma, divided by 2 (round down). This Astral Combat Pool works like the physical Combat Pool in that it can be applied to astral combat, but not to the casting of magic spells in astral space. The normal Magic Pool may be applied to spells cast in astral space.",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_combat",
+      "dice_pools",
+      "magicians",
+      "attributes"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 179,
+    "concept": "Attributes and Dice Pools in Astral Combat",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Actual attacks are like melee combat (see p. 100). If armed with an active weapon focus, the magician may attack using Armed Combat Skill. If not, he uses Unarmed Combat Skill or, alternatively, Sorcery Skill in place of either of the other two. Even characters who cannot cast spells can use Sorcery Skill for astral combat. It is for this reason that physical adepts and others study sorcery. The Target Number for an astral attack is 4. A character's astral Damage Code is based on the nature of the attack and the attacker. See the Astral Attack Table.",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_combat",
+      "attack_mechanics",
+      "sorcery_skill",
+      "armed_combat",
+      "unarmed_combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 180,
+    "concept": "Attack Mechanics in Astral Combat",
+    "dependencies": [
+      "Attributes and Dice Pools in Astral Combat"
+    ]
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "### ASTRAL ATTACK TABLE\n| Attack Type | Damage Code |\n| :--- | :--- |\n| Unarmed human magician | (Astral Strength)L |\n| Armed attack (w/weapon focus) | (Astral Strength + Focus Rating/2)M |\n| Dual-natured beings | See p. 148 |\n| Spells | (Force)Drain Level |\n| Spirit | (Force)M |\n| Barriers | (Rating)L |",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_attack",
+      "damage_code",
+      "combat_mechanics",
+      "magician",
+      "spirits"
+    ],
+    "content_type": "table",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 181,
+    "concept": "Astral Attack Table",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Make the Damage Resistance Test using the Astral Body Rating. Dual-natured beings (see Magical Creatures below, and Critters, p. 214) that have physical armor receive the benefits of that armor in astral space. As with normal armor, the target's armor reduces the Power of the attack. (See Critter Statistics, p. 232, for a listing of dual-natured beings and their armor, if any.)",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "damage_resistance",
+      "astral_body",
+      "dual_natured",
+      "armor"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 182,
+    "concept": "Damage Resistance and Armor in Astral Combat",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL COMBAT",
+    "content": "Astral damage can be Physical or Stun at the choice of the character inflicting it. Non-sentient astral entities such as barriers and foci always do Physical damage when attacked (they don't know any better).",
+    "category": "combat",
+    "subcategory": "astral_combat",
+    "tags": [
+      "astral_damage",
+      "physical_damage",
+      "stun_damage",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 183,
+    "concept": "Types of Astral Damage",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL EVASION",
+    "content": "Given the great speeds at which astral bodies can travel (see Astral Projection, p. 146), it is a simple matter for one astral character to evade another. There are only a few points to consider. A dual being, shackled to the flesh, can only move at speeds and ways dictated by its physical form. An astrally projecting character can break off combat with such an opponent by moving out of its reach, dodging through a wall, or by some other similar tactic.\n\nWhen both opponents can move with equal freedom, how-ever, an Astral Evasion Test is needed to resolve any attempts to break off combat and/or evade pursuit. Both participants roll dice, using Astral Quickness for normal movement, or the characters' Magic Ratings for fast movement. (Normal movement allows the character to break off, while still remaining in the general area. Fast movement takes the character a great distance in no time at all.) If one of the participants chooses to let the other escape, no test is needed. Spirits always use their Force Ratings.\n\nThe target number for this test is the opponent's Astral Quickness, Magic Rating, or Force, as appropriate.\n\nThe opponent with the greater number of successes decides what happens. At normal movement rates, the character can move away from the opponent the distance his astral projection speed would allow. At fast movement, the character can evade the opponent completely, leaving the area. Alternatively, the winner can maintain combat range and can attack.\n\n---",
+    "category": "magic",
+    "subcategory": "astral_projection",
+    "tags": [
+      "astral_evasion",
+      "combat",
+      "movement",
+      "magic_rating",
+      "quickness"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 184,
+    "concept": "ASTRAL EVASION",
+    "dependencies": []
+  },
+  {
+    "title": "ASTRAL TRACKING",
+    "content": "It has been mentioned that ritual sendings and foci such as spell locks maintain a thread of energy back to the spellcaster or creator. This is true, but it is difficult to track.\n\nTracking such a thread requires an Astral Perception Test of Intelligence dice rolled against a Target Number 4, modified by the following astral tracking modifiers:\n\n| Situation | Modifier |\n| :--- | :--- |\n| Ritual spell/focus has equal or lesser Force/Rating than tracker's Sorcery Skill | -2 |\n| Ritual spell/focus has greater Force/Rating than tracker's Sorcery Skill | +2 |\n\nThe base time for this tracking is twelve hours, divided by the number of successes generated. Odds are that this will be longer than the magician is able to maintain astral projection. The magician can, however, leave off the search at some point to take a rest. At the time the magician resumes the search, he must make an Intelligence or Magic (whichever is higher) Test against a target number equal to the number of hours, or part thereof, that has passed since he left off tracking. As long as he scores at least 1 success, the search continues. If he scores no successes, the trail is lost.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "astral_tracking",
+      "rituals",
+      "sorcery",
+      "spell_foci"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 185,
+    "concept": "ASTRAL TRACKING",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "A little more needs to be said concerning spells and astral space, but first, an overview of what occurs when a magician casts a spell astrally. The sequence is slightly different from that described previously in Ritual Sorcery, p. 133.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spells",
+      "astral_space",
+      "magician",
+      "casting",
+      "ritual_sorcery"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 186,
+    "concept": "Introduction to the topic of spells and astral space.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "First, obviously, the magician chooses the spell to be cast and chooses a target. Regardless of the nature of the spell, the target must be within direct line-of-sight of the spellcaster. Combat spells, and most others (except manipulation spells) affect only targets within the caster's vision. If, for example, two characters were standing within a meter of each other, but one was blocked from the magician's view, only the visible character could be affected by the spell even though the second character might be within the area-effect of the spell.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "line_of_sight",
+      "spellcasting",
+      "combat_spells",
+      "targeting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 187,
+    "concept": "The requirement of line-of-sight for spellcasting.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "The reason has to do with how a spell works. As a spell is being cast, the magician's senses are opened up partially to the astral plane. The magician, because of the working of the astral forces that power the spell, is able to see the aura of the target. This allows him to align or synchronize his aura with that of the target, permitting the astral energy shaped by the caster to leap between them, through astral space, much as a spark of electricity jumps between two properly polarized points. The spell leaps from the caster, crosses the distance to the target in astral space, and strikes.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spells",
+      "astral_plane",
+      "aura",
+      "magician",
+      "casting"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 188,
+    "concept": "Explanation of how spells interact with the astral plane and the target's aura.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "The visual effect of this is minimal on the caster. Maybe there is a flicker of energy as the spell goes off, but mostly not. Because the spell is traveling between caster and target through astral space there is no physical effect. No energy lashes out from caster to target, though powerful spells may display the astral-echo shimmer produced by powerful spirits. The detonation of the spell on the target is usually quite visible, if that is appropriate to the type of spell.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_visuals",
+      "astral_space",
+      "spell_effects",
+      "magic_mechanics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 189,
+    "concept": "Description of the visual effects of spellcasting.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "Back in astral space, the spell has bridged the distance and struck the target. What happens next is that the spell grounds out into the target through the target's aura. This is because of the previously stated rule that things in astral space cannot directly affect non-magical things in the real world, unless there is a bridge. The bridge, in this case, is momentarily created by the spellcaster when the auras involved are synchronized. This can only be done if the caster is physically present in physical space. This physical caster-physical target symmetry must exist for the spell to work. If the caster were projecting in astral space, the physical-physical symmetry would not exist and the caster could not affect a physical target.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spells",
+      "astral_space",
+      "aura",
+      "spell_effects",
+      "magic_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 190,
+    "concept": "Mechanics of how spells affect targets through their auras.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "Getting back to the spell, upon impact its energies ground out through the aura of the target and affect either the target's physical component (if it is a physical spell) or spiritual component if the spell is a mana spell and the target is living. Non-living things have no spiritual component and so cannot be affected by mana spells.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spells",
+      "mana",
+      "effects",
+      "targets",
+      "aura"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 191,
+    "concept": "Effects of spells on living and non-living targets.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "The spell energy, entering from astral space through the target's aura, now radiates outward from the center of the aura, the center of the target's being. This is why targets struck by physical combat spells do not receive the benefits of armor. How can armor offer protection against an attack from the inside?",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_energy",
+      "aura",
+      "armor",
+      "combat_spells",
+      "protection"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 192,
+    "concept": "Explanation of how spell energy interacts with the target's aura and the implications for armor.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELLS AND ASTRAL SPACE",
+    "content": "The line-of-sight restriction is still a powerful one for these types of spells. If the target's aura cannot be seen, it cannot be hit. Some frightening possibilities are circumvented because a living aura radiates a short distance from the being: enemies in sealed combat armor, with no part of the body showing, can still be attacked because the aura extends past the armor. Seeing only a piece of an aura is not enough for targeting, though, so that enemy lurking right at the edge of the corner, with its aura leaking into view is still safe. An astrally perceiving viewer might spot the aura, but it is safe from targeting.\n\nFoci and active astral perception both create bridges between the physical world an...",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "line_of_sight",
+      "spellcasting_restrictions",
+      "astral_perception",
+      "aura"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 193,
+    "concept": "Further implications of line-of-sight restrictions on spellcasting.",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "This directory describes the basic spells players will need to roleplay magic and magicians in the Shadowrun game universe. The spells are presented according to type: combat, detection, health, illusion, and manipulation spells. Each spell listing is accompanied by the following notations:\n\n**Type** tells the type of spell, whether Physical or Mana.\n\n**Range** tells the range: Touch, Limited, or Line-of-Sight (LOS).",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "spell_directory",
+      "magic_spells",
+      "roleplay",
+      "combat",
+      "detection"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 194,
+    "concept": "Introduction to the Spell Directory",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Target** indicates how to calculate the target number for the Spell Success Test. A notation of (R) means that the spell is Resisted and so the target will roll dice to reduce the casting magician's successes. If no (R) is present, the spell is Unresisted and only the casting magician rolls dice.\n\n**Damage** indicates the base Damage Level; Light, Moderate, Serious, or Deadly, as well as whether or not the spell does Stun damage.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "target_notation",
+      "spell_success_test",
+      "damage_levels",
+      "resisted_spells",
+      "unresisted_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 195,
+    "concept": "Explanation of the 'Target' notation for spells",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Duration** tells whether the spell has Instant, Sustained, or Permanent duration. If Permanent has an extra notation, such as 'Permanent (10 Turns),' that indicates the number of turns the spell must be sustained before it actually becomes permanent.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "duration",
+      "spells",
+      "permanent",
+      "sustained",
+      "instant"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 196,
+    "concept": "Explanation of the 'Duration' notation for spells",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Drain** indicates the Drain Code of the spell. The (F + 2) or [(F + 2) + x] notation indicates that the Drain Resistance Test is made against one-half the Force of the spell (round down), or one-half the Force plus some number. The second notation indicates whether the Drain Level is Light, Moderate, Serious, or Deadly.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "drain",
+      "spellcasting",
+      "magic_mechanics",
+      "shadowrun_2e"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 197,
+    "concept": "Explanation of the 'Drain' notation for spells",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "A player can designate a spell as exclusive or fetish-required at the time his character chooses or learns the spell. See Creating A Character, p. 43, and Learning A New Spell, p. 132. Spells listed here are not designed with any Force modifiers.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "exclusive_spells",
+      "fetish_required",
+      "spell_designation",
+      "character_creation",
+      "spell_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 198,
+    "concept": "Rules for designating spells as exclusive or fetish-required",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "For a full discussion of Combat Spells, see Combat Spells, p. 127, Casting Spells, p. 129, and Spells and Astral Space, p. 149. Things to remember are: - Combat spells can only affect targets the magician can see. - Armor does not help in the Spell Resistance Test. - Mana spells are resisted by Willpower, and physical spells by Body.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_spells",
+      "spell_resistance",
+      "mana_spells",
+      "physical_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 199,
+    "concept": "Overview and rules for Combat Spells",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Fireball** An area-effect spell that causes Physical damage. The fireball spell can ignite combustible materials in its blast area. Gamemaster discretion. Type: Physical Range: LOS Damage Level: S Duration: Instant Target: Body (R) Drain: [(F + 2) + 3]D",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "fireball",
+      "area_effect",
+      "damage",
+      "spell"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 200,
+    "concept": "Details of the Fireball spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Hellblast** An area-effect spell that causes Physical damage. The hellblast spell can ignite combustible materials in its blast area. Gamemaster discretion. Type: Physical Range: LOS Damage Level: D Duration: Instant Target: Body (R) Drain: [(F + 2) + 6]D",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hellblast",
+      "area_effect",
+      "physical_damage",
+      "spell",
+      "drain"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 201,
+    "concept": "Details of the Hellblast spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Mana Bolt** A powerful bolt of magical energy that causes Physical damage. Type: Mana Range: LOS Target: Willpower (R) Damage Level: S Duration: Instant Drain: (F + 2)S",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "mana_bolt",
+      "spell",
+      "damage",
+      "physical",
+      "drain"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 202,
+    "concept": "Details of the Mana Bolt spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Mana Dart** A small dart of magical power that does Physical damage. Type: Mana Range: LOS Target: Willpower (R) Damage Level: L Duration: Instant Drain: (F + 2)L",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "mana_dart",
+      "spell",
+      "physical_damage",
+      "drain"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 203,
+    "concept": "Details of the Mana Dart spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Mana Missile** A bolt of magical power that causes Physical damage. Type: Mana Range: LOS Target: Willpower (R) Damage Level: M Duration: Instant Drain: (F + 2)M",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "mana_missile",
+      "spell",
+      "damage",
+      "drain",
+      "instant"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 204,
+    "concept": "Details of the Mana Missile spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Manaball** An area-effect spell that causes Physical damage. This mana version affects only living targets. Type: Mana Range: LOS Target: Willpower (R) Damage Level: M Duration: Instant Drain: (F + 2)S\n\n**Power Bolt** See Mana Bolt, above. Type: Physical Range: LOS Target: Body (R) Damage Level: S Duration: Instant Drain: [(F + 2) + 1]S\n\n**Power Dart** See Mana Dart, above. Type: Physical Range: LOS Target: Body (R) Damage Level: L Duration: Instant Drain: [(F + 2) + 1]L\n\n**Power Missile** See Mana Missile, above. Type: Physical Range: LOS Target: Body (R) Damage Level: M Duration: Instant Drain: [(F + 2) + 1]M",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "manaball",
+      "area_effect",
+      "damage",
+      "spell",
+      "magic"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 205,
+    "concept": "Details of the Manaball spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Powerball** An area-effect spell. See Manaball, above. Type: Physical Range: LOS Target: Body (R) Damage Level: M Duration: Instant Drain: [(F + 2) + 1]S",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "powerball",
+      "area_effect",
+      "spell",
+      "drain",
+      "damage"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 206,
+    "concept": "Details of the Powerball spell",
+    "dependencies": []
+  },
+  {
+    "title": "SPELL DIRECTORY",
+    "content": "**Ram** The ram spell damages inanimate targets. Successes from the casting are added to the spell's Force, which is then compared to the target's Barrier Rating to ...",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "ram_spell",
+      "damage",
+      "spell_force",
+      "barrier_rating",
+      "inanimate_targets"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-magic-rules-ocr.txt",
+    "chunk_index": 207,
+    "concept": "Details of the Ram spell",
+    "dependencies": []
+  }
+]

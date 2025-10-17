@@ -69,3 +69,6 @@ coverage/
 # Backup files
 *.bak
 *.backup
+
+# Archive folder (one-time scripts and backups)
+archive/

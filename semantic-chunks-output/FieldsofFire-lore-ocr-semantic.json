@@ -1,0 +1,1075 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# FIELDS OF FIRE - Lore",
+    "category": "lore",
+    "subcategory": "introduction",
+    "tags": [
+      "fields_of_fire",
+      "lore",
+      "introduction"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY OPERATIONS",
+    "content": "I am a mercenary.",
+    "category": "general",
+    "subcategory": "mercenary_identity",
+    "tags": [
+      "mercenary",
+      "identity",
+      "operations"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 1,
+    "concept": "Introduction to the author's identity as a mercenary.",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY OPERATIONS",
+    "content": "(As a point of interest, Juan Samuel Pererya posts in these parts under the handle Matador. If I'm not mistaken, he's posting these days from a Peruvian hospital (or some similar place). A few of his postings appear in the Field Pack section of this upload-which, oddly enough, seems to have been compiled backwards. The Field Pack equipment section is an older posting; you can tell by the dates. Who knows why it ended up second in the file sequence? I don't know if Matador will post comments on his own work, but it'll be more interesting if he does.) -Colonel Cobra (12:19:28/01-02-55)",
+    "category": "general",
+    "subcategory": "lore",
+    "tags": [
+      "mercenary_operations",
+      "matador",
+      "field_pack",
+      "contextual_information"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 2,
+    "concept": "Contextual information about Matador and the Field Pack section.",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY OPERATIONS",
+    "content": "(By the way, since this is a public posting (to be echoed after the usual annotation) I expect a lot of non-mercs to be perusing these pages. A non-merc myself, I found the contents interesting stuff. I've read through it once, and log back in every so often to annotate it myself where necessary. I think this material is of value to everyone, not just mercs. Pererya says a lot in here about how we should act and behave toward each other (shadowrunners take note!), so pay attention. Professionalism shouldn't be limited to self-proclaimed professionals. It's a code we should all follow. Lord knows I'd feel safer walking the shadow-streets if we did.) -Hatchetman (03:19:50/01-04-54)",
+    "category": "general",
+    "subcategory": "mercenary_operations",
+    "tags": [
+      "mercenaries",
+      "professionalism",
+      "shadowrunners",
+      "behavior",
+      "community"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 3,
+    "concept": "Discussion on the relevance of the material to both mercenaries and non-mercenaries.",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY OPERATIONS",
+    "content": "One of the dictionaries on my computer defines the term mercenary in two ways: a) One who works or acts merely for money or other reward, or b) A professional soldier serving in a foreign army solely for pay.",
+    "category": "general",
+    "subcategory": "definitions",
+    "tags": [
+      "mercenary",
+      "definitions",
+      "combat",
+      "profession"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 4,
+    "concept": "Definitions of the term 'mercenary' from a dictionary perspective.",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY OPERATIONS",
+    "content": "I cannot dispute the letter of what each says. I once asked a young relative of mine (who believed I worked in the international import/export business, an old and respected cover) what he thought the term 'mercenary' meant. He told me mercenaries were people who went someplace else and killed people for money. I cannot honestly dispute his definition.\n\n(Yeah, no drek you can't. Wonder why?) -Smiley (21:17:17/01-04-55)\n\n(Shut up and read, sludge brain.) -Weasel (03:29:16/01-06-55)\n\nI can, however, explain what the term mercenary means to me. This may take some time, so bear with me.",
+    "category": "general",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "anecdote",
+      "perception",
+      "definition"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 5,
+    "concept": "Personal anecdote illustrating a common perception of mercenaries.",
+    "dependencies": [
+      "Definitions of the term 'mercenary' from a dictionary perspective."
+    ]
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "I am a soldier, pure and simple. I am trained in the ways of modern warfare and schooled in the theories of the ancients. I do what people who consider themselves humane believe is unnecessary in our modern world.",
+    "category": "lore",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "soldier",
+      "warfare",
+      "modern_warfare",
+      "combat"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 6,
+    "concept": "Definition of a mercenary as a soldier trained in warfare.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "I use force to accomplish an end. It's a simple, age-old problem. You want something done. Someone or something stands in your way. But what you want done is important. It cannot be left undone. What do you do? What alternatives do you have? What price will you pay to achieve your goal?",
+    "category": "general",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "force",
+      "goals",
+      "conflict"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 7,
+    "concept": "The rationale behind using force to achieve goals.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "(He makes a valid point, one a lot of people tend to forget. What happens when negotiating doesn't work? We've become so afraid of war, or, more precisely, its price in blood, that we knee jerk toward negotiation and compromise. Unfortunately, talking sometimes just doesn't work, especially when someone wants something very badly. There's a remake of some old pop tune making the rounds these days, and one of its lyrics goes something like this: \"I don't know no military solution that didn't end up as something worse.\" Sorry, chummer, whoever you were-like it or not, I can think of plenty that did what they were supposed to do.) -Conjoiner (20:51:54/01-03-55)",
+    "category": "general",
+    "subcategory": "military_strategy",
+    "tags": [
+      "mercenary",
+      "negotiation",
+      "military_solution",
+      "war",
+      "conflict"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 8,
+    "concept": "Discussion on the limitations of negotiation and the necessity of military solutions.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "(Yeah, but isn't it a good thing that we so quickly reject a military solution? Isn't prudence sometimes better? Many military solutions have failed, and with disastrous results, because the people in charge thought they understood what was going on and only succeeded in making things worse. Maybe thinking twice and trying everything else three times isn't such a bad thing.) -Findler-man (03:28:16/01-05-55)",
+    "category": "general",
+    "subcategory": "military_strategy",
+    "tags": [
+      "mercenary",
+      "military_solution",
+      "caution",
+      "failure",
+      "prudence"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 9,
+    "concept": "Counterargument emphasizing the importance of caution and the potential failures of military solutions.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "Some people would have you believe that only two alternatives exist: peace and war. Though we can learn much from the practice of Taoism and the wisdom of the ancients, things are not always as simple as wet or dry, white or black, soft or hard, peace or war. Sometimes you have both.",
+    "category": "general",
+    "subcategory": "conflict",
+    "tags": [
+      "mercenary",
+      "conflict_resolution",
+      "philosophy"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 10,
+    "concept": "Exploration of the complexity of conflict beyond a binary view of peace and war.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "A mercenary's job involves much more than simply waging war on someone else's payroll. War is pain and death and misery. War is not something humans desire. It is, however, something we must accept when there are no alternatives. If we believe strongly that something must be done, we may have to fight for it. By the same token, if we do not believe strongly, we should not fight. But we must make that decision before we begin. Once we begin, we can't turn back.",
+    "category": "general",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "warfare",
+      "moral_considerations",
+      "responsibilities"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 11,
+    "concept": "The responsibilities and moral considerations of a mercenary's role in warfare.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "Force must be applied with intelligence. Anyone can fire a submachine gun into a crowd. Anyone can push a button and launch a missile that slaughters a hundred children. Anyone can kill. It's easy.",
+    "category": "combat",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "intelligent_force",
+      "violence",
+      "application_of_force"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 12,
+    "concept": "The distinction between mindless violence and the intelligent application of force.",
+    "dependencies": []
+  },
+  {
+    "title": "WHAT IS A MERCENARY?",
+    "content": "A mercenary knows how to kill. He also knows when not to kill. He knows that sometimes, simply being strong is enough. He knows that the threat of violence can bring about peace-time and again, history has proved this truth. He knows that one man or group of men in the right place at the right time can save hundreds from death. He also knows that sometimes, talking isn't enough. And he stands ready for that moment.\n\n(Yeah, he loves that moment. He sits in the dark, quivering, waiting for that moment.) -Smiley (21:19:08/01-04-55)\n\n(Geez, what's with you?) -Weasel (03:31:54/01-06-55)",
+    "category": "general",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "strategy",
+      "negotiation",
+      "violence",
+      "combat"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 13,
+    "concept": "The strategic mindset of a mercenary regarding the use of force and negotiation.",
+    "dependencies": []
+  },
+  {
+    "title": "BEING A MERCENARY",
+    "content": "Not everyone is cut out to be a mercenary. It takes a certain kind of individual to be a mercenary. A mercenary understands herself, her abilities, and her limitations. She knows her role in the world, what she is expected to do, and what lies outside her responsibility. She can dream, but holds no illusions about reality. Most of all, she understands the intelligent application of force.\nAs dangerous and horrific as it can be, she understands it as a valuable and effective tool.\nShe understands people. She knows how their minds work, how they think when they are calm, how they react when they are afraid. She understands what people want, from basic sustenance to decadent luxury, and she knows the lengths to which people will go to get what they want. She knows how to reason with others, how to explain her own and her opponent's position, how to listen and make others listen.\nThe mercenary is always prepared. She knows her equipment and her weapons. She knows what she needs and where to get it. She knows the requirements of her assignment and the equipment needed to get the job done.\n> (I'll attest to that! We've stopped getting our combat gear through our local fixer, and now use one of our teammate's old merc contacts, his dealer. Takes longer, and sometimes pickups get a little complicated, but the quality of the stuff that shows up is first-rate.) -Wenton Warrior (08:27:40/01-06-55)\n\nAbove everything else, the mercenary knows her job. She's analyzed it, dissected it, and put it back together in every possible combination. She knows what's supposed to happen and what might happen, and she's prepared for those times when things don't go as expected. She is a professional.\n> (Professional what? (yuck hyuck)) -Smiley (21:23:54/01-04-55)\n> (Chummer, if you hadn't logged on two days ago I'd trace and burn your butt from here to Kansas City.) -Weasel (03:35:35/01-06-55)",
+    "category": "general",
+    "subcategory": "mercenary_role",
+    "tags": [
+      "mercenary",
+      "character_traits",
+      "understanding_people",
+      "force_application"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 14,
+    "concept": "BEING A MERCENARY",
+    "dependencies": []
+  },
+  {
+    "title": "BASIC OPERATIONS",
+    "content": "Many people mistakenly believe that because a mercenary works freelance, he does not live by any rules. In fact, mercenaries are professionals, and like all professionals, live by a certain set of rules. A mercenary must value and practice personal discipline, interpersonal skills, preparedness, and controlled orientation and exposure. I touched on these requirements in a general way already, but because these issues lie at the heart of being a mercenary, this next section expounds on each requirement in detail.\nThese abilities are the basics, the things you must know, digest, and make your own before you begin your career as a mercenary. Even seasoned professionals need to review these basics from time to time, because the years of work tend to make you forget. Never forget.",
+    "category": "general",
+    "subcategory": "mercenary_operations",
+    "tags": [
+      "mercenary",
+      "professionalism",
+      "discipline",
+      "interpersonal_skills",
+      "preparedness"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 15,
+    "concept": "BASIC OPERATIONS",
+    "dependencies": []
+  },
+  {
+    "title": "PERSONAL DISCIPLINE",
+    "content": "I live by a code. Most mercenaries do. A merc without a personal code is nothing more than a sociopath with no concern beyond himself. Mercenaries are not madmen. (Some might argue that point, but this is not the forum in which to contest it. Personally, I think there's a little something loose in the head of anyone who chooses the life of a merc-or one in the shadows, for that matter.) -Normal PEE (21:39:02/01-05-55)",
+    "category": "lore",
+    "subcategory": "personal_code",
+    "tags": [
+      "mercenary",
+      "personal_code",
+      "ethics",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 16,
+    "concept": "The importance of having a personal code as a mercenary.",
+    "dependencies": []
+  },
+  {
+    "title": "PERSONAL DISCIPLINE",
+    "content": "The process of discovering your code, what you will and will not allow yourself to do, takes a lifetime's worth of learning. It never ends, for any of us. Before you choose the mercenary's life, you must determine your own code. Find out where you believe the lines are drawn. This knowledge is very important. (It is not just important. It's mandatory. If you don't establish a code for your life, you'll soon find yourself flopping compulsively from cause to cause, caring less and less about human life. God, is it important. Find your code. Live by it.) -Winter Rat (23:19:20/01-06-55)",
+    "category": "general",
+    "subcategory": "personal_code",
+    "tags": [
+      "personal_discipline",
+      "character_development",
+      "moral_code"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 17,
+    "concept": "The ongoing process of discovering and establishing a personal code.",
+    "dependencies": [
+      "The importance of having a personal code as a mercenary."
+    ]
+  },
+  {
+    "title": "PERSONAL DISCIPLINE",
+    "content": "I became comfortable with my code many years ago, but I know that I am an exception to the rule. I became a mercenary for my own reasons. Though my history shares much with that of other mercenaries, certain, singular things in my heart and mind define me. They color everything that happens to me and shape the way I see the world. Every person possesses individual, unusual perspectives and thoughts that shape his or her world view. Find yours and learn what they mean as quickly as you can. Because my experience may help others formulate their own codes, or at least give them something to think about, I'm writing down the broadest precepts of my personal code. I keep the specifics nailed down in my head, but those won't matter to anyone except me. (If Matador's specifics do matter to you, here's a tidbit-Matador is Mexican. Note that I said Mexican, not Aztlaner. That distinction is important.) -Night Hunter (02:19:14/01-08-55)",
+    "category": "general",
+    "subcategory": "personal_code",
+    "tags": [
+      "personal_discipline",
+      "mercenary_code",
+      "self_discovery",
+      "world_view"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 18,
+    "concept": "The personal journey of understanding one's own code and its significance.",
+    "dependencies": [
+      "The ongoing process of discovering and establishing a personal code."
+    ]
+  },
+  {
+    "title": "PERSONAL DISCIPLINE",
+    "content": "I take only jobs I believe in. Before I contract for a job, I learn all I can about the work and the situation, and not just from the client. I do my own research and learn as much of the truth as possible. Sometimes, especially with secret operations, I can't learn much. In those situations I trust my fixer. He and I have a long-established relationship; he knows me and knows the kind of jobs I won't do. (Basically, learn when to say NO! It's easy, really, and ultimately it earns you a lot of respect. Don't get caught on some testosterone wave and take a job because your machismo demands it. If your guts don't like it, turn it down.) -Uncle Paul (11:08:47/01-06-55)",
+    "category": "general",
+    "subcategory": "personal_ethics",
+    "tags": [
+      "personal_discipline",
+      "job_selection",
+      "ethics",
+      "fixer_relationship"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 19,
+    "concept": "The principle of only accepting jobs that align with one's personal beliefs.",
+    "dependencies": [
+      "The ongoing process of discovering and establishing a personal code."
+    ]
+  },
+  {
+    "title": "PERSONAL DISCIPLINE",
+    "content": "I do not take jobs offered solely because of my ability to kill. I am not a professional killer. Though killing is often part of my profession, I cannot be hired exclusively to kill. I admit that this part of my code may wander into a gray area, because I have done wet work in the past and will probably do it again. (Wet work, for those who don't know, is assassination for hire.) But I am not a professional assassin. The wet work I've performed has always been one element of a larger operation, admittedly sometimes the principal objective of that operation. The difference between me and a professional assassin lies in the first part of my code. I take only jobs I believe in. If performing a job I believe in means people must die, I accept this. I live with it. (Notice the important subtext running through much of this abstract: Kill only when necessary. I prefer to forget the number of runs I've been on that were filled with gratuitous killing. I don't work with jokers like that twice. Few people do, because soon they'll have so many corps and cops after them that no one will want to hire them. Don't kill unless you have to. Non-lethal tactics work just as well as lethal ones most times, and don't create the same kind of enemies.) -Hatchetman (04:10:18/01-08-55)\n\nI am not judge, jury, and executioner. I am not the law. The society and c...",
+    "category": "lore",
+    "subcategory": "character_motivation",
+    "tags": [
+      "personal_discipline",
+      "assassin_vs_mercenary",
+      "job_selection",
+      "ethics",
+      "wet_work"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 20,
+    "concept": "The distinction between being a mercenary and a professional assassin, emphasizing the importance of job selection.",
+    "dependencies": [
+      "The principle of only accepting jobs that align with one's personal beliefs."
+    ]
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Don't deceive yourself. You can't be a successful mercenary by 'letting your gun speak for you.' That cliché will get you killed. You are a professional, and you must always behave like one. As a professional soldier you must know how to communicate, how to send and receive messages. Communication takes many forms, and written and oral language represents only a minor area of true communication.",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "communication",
+      "mercenaries",
+      "professionalism",
+      "skills",
+      "teamwork"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 21,
+    "concept": "The importance of communication for mercenaries.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Simply by stating 'I am a mercenary,' you are sending a message. The base level of that particular message, however, has little or nothing to do with you. What that message communicates relies almost completely on the receiving person's perception of a mercenary's role. If they believe that mercenaries are soulless killers, then they will deal with you on that basis. If they believe that a mercenary is a professional who knows his job and is prepared to do it, then your statement communicates that notion to them.",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "interpersonal_skills",
+      "communication",
+      "perception",
+      "mercenary"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 22,
+    "concept": "How the perception of others affects communication.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Initially, it does not matter what message you intend to send. What they believe defines their interpretation of the message they receive. If they perceive something different from what you intend, you must convince them otherwise.",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "communication",
+      "perception",
+      "intent",
+      "skills",
+      "interpersonal"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 23,
+    "concept": "The role of intent versus perception in communication.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "(Many people live in a vacuum of understanding. They view the world through their own frame of reference, refusing to accept what other people hear or see as valid. They don't realize that much of what each of us knows (or believes we know) clouds our perceptions. Think about the many tragedies that could have been avoided if people paid attention to the messages they were sending and how others perceived those messages.) -Doc Tanner (20:14:27/01-09-55)",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "interpersonal_skills",
+      "communication",
+      "biases",
+      "perception",
+      "understanding"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 24,
+    "concept": "The impact of personal biases on communication.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "You can only convince people of what you really represent through skilled communication. You tell everyone you meet who and what you are in four ways: the ways you speak, write, act, and look.",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "communication",
+      "skills",
+      "mercenaries",
+      "persuasion"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 25,
+    "concept": "The four methods of communication for mercenaries.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Don't dismiss this as nonessential. I cannot exaggerate the importance of communication skills to a professional soldier. You must constantly be aware of how others perceive you, because their perceptions control their behavior toward you. What you actually intend means nothing in the face of what they believe of you.",
+    "category": "skills",
+    "subcategory": "interpersonal_skills",
+    "tags": [
+      "communication",
+      "professional_soldier",
+      "perception",
+      "behavior"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 26,
+    "concept": "The necessity of communication skills for professional soldiers.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Speak well, speak clearly. Make sure they understand you. When on duty, make every verbal communication with your superiors a formal communication. This holds true whether your superiors are your friends or you think they are dog scum. You are a professional.",
+    "category": "skills",
+    "subcategory": "interpersonal_communication",
+    "tags": [
+      "verbal_communication",
+      "professionalism",
+      "superiors"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 27,
+    "concept": "Guidelines for verbal communication with superiors.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Learn to speak the local language from a native. If you learn it from a chip or rely on a linguasoft, the natives will get the message that you don't care enough to learn the language properly. If you speak the local language unassisted by technology, you send the message that you are willing to spend the necessary time to learn about the local culture.",
+    "category": "skills",
+    "subcategory": "interpersonal",
+    "tags": [
+      "language_learning",
+      "cultural_understanding",
+      "communication"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 28,
+    "concept": "The importance of learning the local language.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Learn how the locals speak. Do they speak loudly? Softly? Using direct eye contact? Emulate the locals rather than mimicking them, and don't attempt to do it perfectly. You probably can't, and it's better to acknowledge the fact that you are an outsider who respects their culture than to embarrass yourself and them by performing badly. If you mess up, you appear to mock their traditions.",
+    "category": "skills",
+    "subcategory": "interpersonal",
+    "tags": [
+      "communication",
+      "cultural_adaptation",
+      "social_skills",
+      "respect",
+      "local_customs"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 29,
+    "concept": "Adapting communication style to local customs.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "(Day-to-day corporate life teaches the same lesson with regard to the Japanese megacorps. How long has the West maintained corporate relations with the Japanese? A century? How many billions of nuyen have the corps spent on research, analysis, and training? Can a gaijin bow correctly yet? Nope, yet they keep right on trying.) <<<<< -Mr. Yota-san (20:19:27/01-10-55)",
+    "category": "skills",
+    "subcategory": "interpersonal_skills",
+    "tags": [
+      "corporate_culture",
+      "communication",
+      "japanese_corporations",
+      "gaijin",
+      "cultural_training"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 30,
+    "concept": "Cultural communication lessons from corporate interactions.",
+    "dependencies": []
+  },
+  {
+    "title": "INTERPERSONAL SKILLS",
+    "content": "Do not speak to the locals as if they are subordinates. These people live where you work. You are their guest, even if you work for their government. Your profession means that people will listen very carefully to what you say to find the message they expect.\n\nBecause you are a mercenary, others will believe you deceptive, hiding things behind doublespeak. Be clear. Be concise.",
+    "category": "skills",
+    "subcategory": "interpersonal",
+    "tags": [
+      "communication",
+      "cultural_respect",
+      "mercenary",
+      "deception",
+      "clarity"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 31,
+    "concept": "Respecting local culture in communication.",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Mercs perform three main types of work: corp work, government work, and independent (indi) work. All merc operations share common elements, but significant differences distinguish these three types of work. The following descriptions provide an overview of common mercenary working conditions.",
+    "category": "general",
+    "subcategory": "mercenary_work",
+    "tags": [
+      "mercenaries",
+      "work_types",
+      "corp_work",
+      "government_work",
+      "independent_work"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 32,
+    "concept": "Overview of the types of work mercenaries perform",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Corporate work has become the mercenary's most reliable source of potential income, though available government work appears to be on an upswing, possibly in response to corp work. Corps most often hire mercs to supplement existing corp forces, either security or military. The most common assignment is simple site security, protecting a large or small facility. The area of operation is usually an unstable region that makes the corp nervous about the safety of its installation.",
+    "category": "general",
+    "subcategory": "corporate_work",
+    "tags": [
+      "corporate",
+      "mercenaries",
+      "security",
+      "income",
+      "assignments"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 33,
+    "concept": "Description of corporate work for mercenaries",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Corps rarely create site-security assignments in a country or a major urban center administered by a stable government, preferring to devote their security resources to areas of unstable government or intense corporate competition.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "corporate_work",
+      "site_security",
+      "unstable_government",
+      "corporate_competition"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Conditions under which corporate work is assigned",
+    "dependencies": [
+      "Overview of the types of work mercenaries perform"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Corporate work usually places mercs within the corporation's chain of command, where they must follow orders rather than giving them. Corporations often require their hired soldiers to do dirty work. If such work violates your personal code, stay away from corp assignments.",
+    "category": "general",
+    "subcategory": "corporate_ethics",
+    "tags": [
+      "corporate_work",
+      "mercs",
+      "ethical_considerations",
+      "chain_of_command",
+      "dirty_work"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 35,
+    "concept": "Chain of command and ethical considerations in corporate work",
+    "dependencies": [
+      "Description of corporate work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "(I've done a lot of these ops. You could say it's my forte. (I might say it too if I knew what the word meant.) Usually, the corp is expecting trouble, and so initially deploys you to some off-site location. They keep you there in a state of high readiness, and then sneak you onsite. If the opposition isn't paying attention (and they're usually too busy getting their own operation in motion to discover yours), they're caught by surprise. It works more often than you'd guess. Personally, I'd have laid bets that the opposition would be watching the site morning, noon, and night in every situation.) -Leaguer (12:09:28/01-13-55)\n\n(You'd be amazed.) -Hatchetman (21:29:17/01-16-55)",
+    "category": "general",
+    "subcategory": "corporate_tactics",
+    "tags": [
+      "corporate_ops",
+      "tactics",
+      "anecdote",
+      "surprise_attack"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 36,
+    "concept": "Personal anecdote illustrating corporate work tactics",
+    "dependencies": [
+      "Description of corporate work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Corps rarely use mercs for internal security. Most often, mercenaries perform outside security at sites far removed from principal corporate enclaves.",
+    "category": "lore",
+    "subcategory": "corporate_security",
+    "tags": [
+      "corporate",
+      "mercenaries",
+      "security_assignments",
+      "internal_security",
+      "external_security"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 37,
+    "concept": "Nature of security assignments in corporate work",
+    "dependencies": [
+      "Description of corporate work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Mercs supplementing corporate military forces usually work in hot spots. The corps don't hire mercs unless they expect trouble, and serious trouble only crops up in unstable regions. To the best of my knowledge, however, the corps don't recruit mercs for Desert Wars. If they do it at all, they do it quietly and hope the opposing corps and the networks don't find out.",
+    "category": "lore",
+    "subcategory": "corporate_military_operations",
+    "tags": [
+      "mercenaries",
+      "corporate_warfare",
+      "unstable_regions",
+      "desert_wars"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 38,
+    "concept": "Conditions for hiring mercs in corporate military operations",
+    "dependencies": [
+      "Description of corporate work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Corps sometimes hire mercs for 'face-offs,' when two or more corps settle their differences by force of arms. This type of assignment sometimes takes the form of nonlethal, tag-gun combat, but sometimes it's high-pay hazard/lethal work.",
+    "category": "combat",
+    "subcategory": "assignments",
+    "tags": [
+      "mercs",
+      "corporate_conflict",
+      "face-offs",
+      "nonlethal_combat",
+      "hazardous_work"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 39,
+    "concept": "Types of assignments in corporate face-offs",
+    "dependencies": [
+      "Description of corporate work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "(Corporate military actions offer no joy. Corp forces are too well equipped. You can't protect yourself against half these weapons, and protection against the other half relies on some piece of barely substantial microtronic hardware. Really builds the old confidence, let me tell you.) -Worm Heart (22:39:27/01-14-55)",
+    "category": "combat",
+    "subcategory": "corporate_military",
+    "tags": [
+      "corporate_military",
+      "dangers",
+      "weapons",
+      "personal_experience",
+      "confidence"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 40,
+    "concept": "Personal experience regarding the dangers of corporate military work",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Mercs find government work easy to come by, and this work often provides long-term contracts. Governments, especially those of less prosperous and less stable nations, like to use mercs because mercenaries provide and manage their own assets.",
+    "category": "general",
+    "subcategory": "government_work",
+    "tags": [
+      "mercenaries",
+      "contracts",
+      "government",
+      "employment"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 41,
+    "concept": "Overview of government work for mercenaries",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "Most contracts include a replacement or reimbursement clause, which most governments find a more efficient and economical alternative than owning and maintaining the equipment themselves.",
+    "category": "general",
+    "subcategory": "contractual_conditions",
+    "tags": [
+      "government_work",
+      "contracts",
+      "reimbursement",
+      "efficiency"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 42,
+    "concept": "Contractual conditions in government work",
+    "dependencies": [
+      "Overview of government work for mercenaries"
+    ]
+  },
+  {
+    "title": "TYPES OF WORK",
+    "content": "(This is certainly the case for sophisticated electronics and such. For example, most developing countries contract at least half their air assets, usually more than half. Many also contract for radar and surveillance assets, as well as defensive surface-to-air systems and the like. Much more economical, at least until the systems need repair. And even then, most combat units assume partial liability for damage or loss.) -Sten (21:10:14/01-11-55)",
+    "category": "general",
+    "subcategory": "government_contracting",
+    "tags": [
+      "government_contracts",
+      "military_assets",
+      "economics"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 43,
+    "concept": "Example of government contracting practices",
+    "dependencies": [
+      "Contractual conditions in government work"
+    ]
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "Everything you've read so far has explained what a mercenary should know about himself, his operation, and his opposition. This next section describes the standard types of merc operations. Each type involves unique peculiarities and concerns, and each could form the basis of an entire book. The best I can do with my limited space is to provide some food for thought. In my opinion, the Desert Wars represent an insult to everything I hold true about my profession and cannot be included in a discussion of war in any sense.",
+    "category": "general",
+    "subcategory": "operations",
+    "tags": [
+      "mercenary_operations",
+      "desert_wars",
+      "military_strategy"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 44,
+    "concept": "Introduction to types of mercenary operations",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "(Go Guards!) -Toiler (20:18:27/01-12-55)\n(Honestly, do you have any idea how many Desert War participants use some variation of the name 'Guards' ?! ) -Houda (14:17:16/01-14-55)",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "desert_wars",
+      "mercenaries",
+      "naming_conventions",
+      "guards",
+      "operations"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 45,
+    "concept": "Dialogue related to Desert Wars and mercenary naming conventions",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "### OPEN WARFARE\nThe flat-out fight commonly seen in war trids and other such forms of entertainment represents the least common assignment a mercenary is likely to pick up these days, simply because no one is currently fighting the kind of wars in which standard armies clash with each other. That kind of war just doesn't happen any more. Occasional skirmishes take place between company-size units (100 men), but these rarely expand beyond border clashes or brushfire wars that flare up quickly and die just as quickly. The days of large-scale military clashes are past. Modern-day conflicts tend to take place between warlords, provinces, and relatively small forces. The Euro-Wars marked the end of true 'warfare' in the classical sense.",
+    "category": "lore",
+    "subcategory": "modern_conflicts",
+    "tags": [
+      "open_warfare",
+      "mercenaries",
+      "modern_conflicts",
+      "war",
+      "euro_wars"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Description of open warfare and its rarity in modern conflicts",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "(What about the secession of Tir Tairngire from NAN? The way I read it certainly sounded like warfare in the sense he's talking about.) -Loodles (13:27:45/01-14-55)\n(Not the secession itself, but perhaps the Battle of Redding. That incident, of course, resulted from Tir forces entering northern California and engaging dugin California National Guard units near Redding. Official versions of that engagement state that the Tir entered California with the equivalent of an armored division. That number might be exaggerated a bit, but no records try to dispute that the Tir mounted an extensive force. The short duration of the engagement makes it one of Matador's brushfire wars rather than open warfare. I should also point out that the Euro-Wars were still in progress when this skirmish played out, which further reinforces Matador's statement.) -Colonel Cobra (11:10:15/11-15-55)",
+    "category": "combat",
+    "subcategory": "conflict_classification",
+    "tags": [
+      "secession",
+      "battle_of_redding",
+      "brushfire_wars",
+      "tir_tairngire",
+      "open_warfare"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 47,
+    "concept": "Discussion on specific conflicts and their classification as open warfare",
+    "dependencies": [
+      "Description of open warfare and its rarity in modern conflicts"
+    ]
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "Will we see open warfare anytime soon? Not likely. If any such action does occur, ten to one it will involve Aztlan and the Confederated American States, a couple of the Russian satellites, or a few of the mid-African regimes. Multitudes of books explain in mind-numbing detail how to fight a modern war. I see no point in retreading them here. If you have any interest in this field, you already know these books. I strongly recommend that you restrict your reading list to works published in this century and earlier by the following strategists: Sun Tzu, Clausewitz, Napoleon, Rommel, and Dunnigan. These works can provide insights that the current generation of modern electronic battlefield mavens could never hope to understand. No matter how expensive the gadgets, the basics remain the same.",
+    "category": "lore",
+    "subcategory": "military_strategy",
+    "tags": [
+      "open_warfare",
+      "military_history",
+      "strategic_thinking",
+      "recommended_readings"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 48,
+    "concept": "Future of open warfare and recommended readings on military strategy",
+    "dependencies": [
+      "Description of open warfare and its rarity in modern conflicts"
+    ]
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "### GUERRILLA WARFARE\nGuerrilla warfare currently best represents the realities of modern war. Small force versus large force. Rebel versus oppressor. Minority versus majority. Mercs usually find work on the side of the 'majority,' except in cases of externally financed insurrection, because the larger force usually has more resources. The smaller opposition, or the minority, usually lacks training but makes up for it in dedication and inspiration. Because they believe they have 'right' on their side, the minority opponent is always dangerous.",
+    "category": "combat",
+    "subcategory": "guerrilla_warfare",
+    "tags": [
+      "guerrilla_warfare",
+      "tactics",
+      "mercenaries",
+      "insurrection"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Overview of guerrilla warfare and its dynamics",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF OPERATIONS",
+    "content": "I commented earlier in this book that anyone can fire a submachine gun into a crowd. The minority force represents the anyones. The farmers, the merchants, the men, the women, and even the children believe in their cause and will die for it. They might take you with them, if you're not careful.",
+    "category": "combat",
+    "subcategory": "guerrilla_warfare",
+    "tags": [
+      "guerrilla_warfare",
+      "minority_forces",
+      "risks",
+      "combat_strategies"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Risks associated with engaging minority forces in guerrilla warfare",
+    "dependencies": [
+      "Overview of guerrilla warfare and its dynamics"
+    ]
+  },
+  {
+    "title": "ORGANIZATIONS",
+    "content": "The number of mercenary organizations has risen in the last twenty-odd years. Germany's MET 2000 group and associated assets represent the top tier. They sign mercs like you and me to long-term contracts, train them into units, then assign the units to contracts with clients.\nIt's a sweet deal for a merc. You cut through all the planning and asset-managing to the job at hand and still get well paid. Not bad, eh?\nThe down side of belonging to a merc organization like MET 2000 is that such organizations make it extremely difficult to leave their ranks. You are working on the company's terms, living with a corporate rather than a personal code, and can no longer walk away if the situation changes for the worse. You are not in control-you are a company man. MET 2000 does not allow its employees to bail out of a contract, and the organization has an arm long enough to reach those who do.\n> (Matador, you goronit, you hate MET 2000 because we skinned your hide last year. Admit it!) -MET 2000 Observer (04:20:19/01-13-55)\n> (If you believe that's what happened, you're even more of a corporate toad than I thought.) -Matador (13:51:10/01-14-55)\n\nNot every merc shares my point of view on this subject. In fact, a few thousand employees of MET 2000 would probably disagree with me. (By the way, don't blindly accept any published MET 2000 membership numbers. I have it on good authority that those numbers are grossly inflated.) I respect the choice of those who disagree with me. And for others who might find such indentured servitude desirable, I provide a short list of the better-known and financially respected international mercenary companies. Friends of mine have worked for these companies with what they consider desirable results.\nMET 2000 (Germany)\nBrightEdge (Morocco)\nTsunami (Japan/Far East)\n10,000 Daggers (Constantinople)\nCombat Inc. (Hong Kong)",
+    "category": "lore",
+    "subcategory": "organizations",
+    "tags": [
+      "mercenary",
+      "corporate",
+      "contracts",
+      "MET_2000",
+      "employment"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 51,
+    "concept": "ORGANIZATIONS",
+    "dependencies": []
+  },
+  {
+    "title": "THE LEAGUE",
+    "content": "The League is a phenomenon that I can only describe as the international brotherhood of mercenaries. No formal organization, no meeting place, no dues, and no newsletter for the League exist. In fact, nothing exists to identify this group as a group. Yet all mercenaries are members of the League simply by virtue of their profession as soldiers of fortune.\nAll members of the League should treat each other with respect and fairness, as long as they deserve it. A fool who jeopardizes himself and others through idiotic posturing and ill-considered actions has lost his place in the brotherhood, and deserves only contempt.\nThe tradition of fair treatment especially applies to your opponent. Your opposite number took a job with the other side for the same reason you agreed to work for your side. Don't treat opposing mercenaries unfairly just because the conflict becomes ugly. Remember such simple niceties as respect and consideration, and others will show those qualities toward you.\n> (Honestly, the drek these mercs dream up to keep themselves off the emotional hook. \"I'm in the League so I don't have to suffer the incarceration and torture being inflicted on the regular troops I served with. Pass the tea please, will you?\" Makes me vomit.) -Mother Maker (02:18:32/01-15-55)",
+    "category": "lore",
+    "subcategory": "organizations",
+    "tags": [
+      "mercenaries",
+      "brotherhood",
+      "league",
+      "tradition",
+      "respect"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 52,
+    "concept": "THE LEAGUE",
+    "dependencies": []
+  },
+  {
+    "title": "MAGICAL INTEGRATION",
+    "content": "Magic is so prevalent these days that I don't bother to make a distinction between standard and \"mystical\" assets. My attitude, however, remains unique. Corporations, especially, foolishly insist on grouping paranatural assets together and thinking of them as separate from their security or military assets. Mercenaries use magic in every situation where it seems appropriate, but mostly to accomplish tasks as efficiently as possible. Magic is ideal for surveillance and recon work because it enables you to pick up a lot of information at low risk and low exposure. Magic also offers many advantages in anti-espionage work, securing your physical site, and protecting your own assets.\nMagic has very little offensive value, simply because too few mages are in the field to wage effective magical warfare. Special ops regularly use mages to great effect, but magic offers few advantages to other operations. Employers sometimes attach a magician to a field ops unit, but only if the field unit has a specific objective that can be achieved most efficiently using magic. I personally know of only one or two units that permanently include a magician. \n> (Again, what about the Tir secession from NAN? Seems like lots of combat magic went down there!) -Loodles (13:39:40/01-14-55)\n> (Read the battle reports again, Loodles. My read is that the Tir used invisibility to conceal their forces. It was 2036; if the CNC weren't concerned enough about such possibilities to guard against them, then they got what was coming to them. On the other hand, I suspect that all the tales of combat magic from those battles were somewhat exaggerated.) -Colonel Cobra (11:46:04/11-15-55)\n\nWhen a magician takes part in an operation, he should be deployed as a special weapons team and sent where needed. Currently, magicians primarily fill recon and defensive roles. I suspect those roles will someday change, but most likely not until long after I leave the business.",
+    "category": "magic",
+    "subcategory": "magical_integration",
+    "tags": [
+      "magic",
+      "corporate_assets",
+      "surveillance",
+      "anti-espionage",
+      "efficiency"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 53,
+    "concept": "MAGICAL INTEGRATION",
+    "dependencies": []
+  },
+  {
+    "title": "HOT SPOTS",
+    "content": "I've covered the why and how and who of being a mercenary. The following list tells you where. The world situation is too volatile for any list to be comprehensive, but the places described below represent the current government/anti-government hot spots. For any other kind of work, buy an atlas and mark all the megacities. Be sure to say hello if you see me out there.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "mercenary",
+      "hot_spots",
+      "world_situation",
+      "government",
+      "anti-government"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 54,
+    "concept": "Introduction to mercenary hot spots and the volatility of the world situation.",
+    "dependencies": []
+  },
+  {
+    "title": "HOT SPOTS",
+    "content": "### AZTLAN\nToday, right now, Aztlan offers one of the biggest markets for anti-government work in the merc biz. The rebel forces enjoy generous financial backing, so Aztlan work tends to pay well. The Azzies are a brutal people and highly skilled at war. They pride themselves on self-sufficiency, which means they don't care for mercenaries and so treat them poorly. Because the Aztlan problem is effectively a civil war with external backers, both sides can draw from a large pool of guerrilla warriors, but these enthusiastic soldiers lack training. Mercs act as trained leaders and advisors, making ripe targets for the opposition.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "aztlan",
+      "mercenaries",
+      "civil_war",
+      "rebels",
+      "opportunities"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Overview of Aztlan as a hot spot for mercenary work, including the challenges and opportunities.",
+    "dependencies": []
+  },
+  {
+    "title": "HOT SPOTS",
+    "content": "### FAR EAST\nSoutheast Asia remains a mess. Since the Awakening, virtually all political borders have disappeared. Only Korea maintains any semblance of cohesion, and even that nation seems fragile these days. Warlords dominate, and mercs abound. The Far East is a dangerous, changing environment controlled by leaders with no morals and few concerns beyond their petty dictatorships. The pay is good, but the risks are high.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "far_east",
+      "mercenary_work",
+      "political_instability",
+      "awakened_world"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Description of the Far East as a volatile region for mercenary work, highlighting the risks and rewards.",
+    "dependencies": []
+  },
+  {
+    "title": "HOT SPOTS",
+    "content": "### AUSTRALIA\nA decent amount of merc work exists in Australia, mainly protecting supply caravans and enclaves against local and preternatural forces. The pay is good, but the wildness of the region, especially the rampant magic, is not for the faint of heart.",
+    "category": "combat",
+    "subcategory": "locations",
+    "tags": [
+      "mercenary_work",
+      "australia",
+      "supply_caravans",
+      "preternatural_forces",
+      "magic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Summary of mercenary opportunities in Australia, focusing on the nature of the work and associated risks.",
+    "dependencies": []
+  },
+  {
+    "title": "HOT SPOTS",
+    "content": "### AFRICA\nUnfortunately, present-day Africa is a mecca for merc work. Small nation-states or city-states and their warlords employ countless mercs to sort out their internal upheavals. As in Southeast Asia, the region brims over with chaos and danger. But if you didn't thrive on those conditions, you'd have stopped reading this screed long ago.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "africa",
+      "mercenaries",
+      "chaos",
+      "warfare"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Insight into Africa as a prominent area for mercenary activity, emphasizing the chaotic environment.",
+    "dependencies": []
+  },
+  {
+    "title": "THE END OF THE MERCENARY",
+    "content": "The battlefield is changing. As I've pointed out, precious few people still fight all-out wars. Few nations or corps have or are willing to spend the vast financial resources needed for such a venture. As always, manpower is cheap but the tools of warfare are not. Subterfuge, espionage, and counterespionage have replaced armies of tanks as the tools for solving national problems.\nThis is good.\nSure, ultimately it means less work for me, but it also means fewer threats to life and limb for everyone else. I'd rather see the world's problems resolved with small skirmishes, police actions, and brushfire wars. Better that than the alternative.\nWhat does this mean for my profession? It means we must adapt. I believe that future battles will be fought by small units wielding incredibly sophisticated weapons capable of focusing more firepower than you or I can even imagine, and magic will also play an important part.\nI foresee that the soldier of the future will be part mage, part mercenary, and part metal. Mercs like us won't be part of that battlefield. We will still be part of the battlefield where the real people fight. We'll be where people bleed, and hurt, and fight for causes they believe in. We'll be standing next to them, waiting for the charge. Maybe I'll see you there.\n> (Don't count on it.) -Smiley (21:17:17/01-04-55)",
+    "category": "general",
+    "subcategory": "lore",
+    "tags": [
+      "mercenary",
+      "warfare",
+      "espionage",
+      "future",
+      "adaptation"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-lore-ocr.txt",
+    "chunk_index": 59,
+    "concept": "THE END OF THE MERCENARY",
+    "dependencies": []
+  }
+]

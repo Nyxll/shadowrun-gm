@@ -1,0 +1,2646 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# BEHIND THE SCENES\n\"Never relax. Your run might be over, but someone, somewhere, is just starting his, and the target could be you.\" -Kirk Hoff, street mage\n\nThis section is primarily the domain of the gamemaster, though players will also find it helpful to read. As with all the Shadowrun rules, these are primarily guidelines. If players and the gamemaster do not agree with the working of a particular rule, or more important, how it feels, they are free to change it. No one is going to come by their house late one night to find out if they are playing by the published rules. We stopped doing that years ago.\n\n---",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "gamemaster",
+      "guidelines",
+      "players",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "DICEY SITUATIONS",
+    "content": "As an adventure unfolds, players are going to want to use the skills and Attributes of their characters to get things done: con their way past a guard, fix a broken detonator before the trolls find their hiding place, or try to understand what that corp-type who speaks only Japanese is saying to them. The gamemaster, meanwhile, will want to know whether the player characters saw that all-important clue or whether they inadvertently kicked it under the trash.\n\nFor many of these situations, gamemasters will have to rely on their own judgment to decide which skills are needed for the situation, to determine the target numbers and situation modifiers, and to interpret what a \"success\" means. The following guidelines and rules will help resolve some of the more common situations.",
+    "category": "skills",
+    "subcategory": "skill_resolution",
+    "tags": [
+      "skill_check",
+      "gamemaster_guidelines",
+      "situation_modifiers",
+      "success_interpretation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 1,
+    "concept": "DICEY SITUATIONS",
+    "dependencies": []
+  },
+  {
+    "title": "USING SOCIAL SKILLS",
+    "content": "To influence a non-player character (NPC) through Social Skills, the player character uses a mental statistic of the NPC as the base target number. If he or she is attempting to influence a group of NPCs who have no designated leader, use the average of their ratings. Groups tend to react as a whole, the reluctant members being drawn along by the enthusiastic ones. Otherwise, simply make all attempts against the leader of the pack (varooom).\n\nThe base target number is modified by circumstances according to the Social Skill Modifiers Table, below.\n\nSocial Skills offer a prime opportunity to use extra successes as a measure of accomplishment. Judge the exact effects according to the specific circumstance.\n\n---",
+    "category": "skills",
+    "subcategory": "social_skills",
+    "tags": [
+      "social_skills",
+      "npc_influence",
+      "target_number",
+      "group_dynamics",
+      "success_measure"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 2,
+    "concept": "USING SOCIAL SKILLS",
+    "dependencies": []
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "| Situation | Target Modifier |\n| :--- | :--- |\n| **With respect to the character, the NPC is:** | |\n| Friendly | -2 |\n| Neutral | +0 |\n| Hostile | +4 |\n| An enemy | +6 |\n| Suspicious | +2 |",
+    "category": "skills",
+    "subcategory": "social_interaction",
+    "tags": [
+      "social_skills",
+      "npc_relationships",
+      "modifiers"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 3,
+    "concept": "Social Skill Table - NPC Relationship Modifiers",
+    "dependencies": []
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "| Situation | Target Modifier |\n| :--- | :--- |\n| **Player's desired result is:** | |\n| Advantageous to NPC | -2 |\n| Of no value to NPC | +0 |\n| Annoying to NPC | +2 |\n| Harmful to NPC | +4 |\n| Disastrous to NPC | +6 |",
+    "category": "skills",
+    "subcategory": "social_interaction",
+    "tags": [
+      "social_skills",
+      "npc_modifiers",
+      "roleplaying"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 4,
+    "concept": "Social Skill Table - Desired Result Modifiers",
+    "dependencies": []
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "> Dodger wants to do some snooping at a local Mitsuhama subsidiary. To get in, the elf tries, with a little fast talk and a somewhat tattered ID card, to negotiate his way past the gate guard. Dodger has a Negotiation Skill Rating of 4. The elf uses the other chummer's Mental Attribute as his target number, in this case, the guard's Intelligence of 3. The guard is suspicious (+2, it's his job to be suspicious) and will be in trouble if he allows unauthorized personnel into the compound (harmful to him, +4), but the elf's got an ID card (the gamemaster awards a special -1 for supporting evidence). That brings the target number to 3 + 2 + 4 - 1, or 8.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "negotiation",
+      "skill_use",
+      "roleplaying",
+      "social_interaction"
+    ],
+    "content_type": "example",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 5,
+    "concept": "Example of Negotiation Skill Use",
+    "dependencies": [
+      "Social Skill Table - NPC Relationship Modifiers",
+      "Social Skill Table - Desired Result Modifiers"
+    ]
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "> Because of Dodger's Negotiation Skill of 4, he rolls 4 dice and gets 6, 6, 6, and 4 (lucky pixie). The elf's got a good line tonight. He re-rolls the three sixes and gets 2, 3, and 5. Adding each result to 6, he gets a final result of 8, 9, and 11, for a total of 3 successes. One would be enough to get him past the guard, temporarily convincing the poor fool that Dodger really is a Mitsuhama employee. That wouldn't last long, though, because the guard is no idiot. Unless distracted, he would begin to notice holes in the elf's story. Because Dodger has 3 successes, the guard is convinced enough to wait until the end of his shift before checking his log book to see whether the ID was valid (and because it wasn't, setting off alarms). If the elf had been skillful enough to get 5 successes, the guard might never have twigged to the deception and might not even have logged in Dodger's presence.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "negotiation",
+      "skill_roll",
+      "successes",
+      "social_interaction",
+      "guard"
+    ],
+    "content_type": "example",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 6,
+    "concept": "Outcome of Negotiation Roll",
+    "dependencies": [
+      "Example of Negotiation Skill Use"
+    ]
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "**RACISM AND CHARISMA**\nCharisma is the gut-reaction Attribute. It influences an NPC's reaction to a character before any words are spoken or actions taken. It is a reaction that comes with a character's first glance across a crowded room, out on the street, or in a dark alley.",
+    "category": "skills",
+    "subcategory": "charisma",
+    "tags": [
+      "charisma",
+      "npc_reactions",
+      "social_interaction",
+      "racism",
+      "gut_reaction"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 7,
+    "concept": "Charisma and Its Influence on NPC Reactions",
+    "dependencies": []
+  },
+  {
+    "title": "SOCIAL SKILL TABLE",
+    "content": "Before a character can interact with an NPC, the gamemaster must determine whether or not the NPC is racist. To find out, roll 2D6 and subtract 6. If the result is a positive number, then yes, the NPC is racist. The number itself determines how racist the NPC is, in effect creating **Racism Points**. (A roll of 9 gives a result of 3, meaning the NPC has 3 Racism Points). Next, determine where the NPC's bias lies. Roll 1D6 and consult the following table.",
+    "category": "general",
+    "subcategory": "social_interaction",
+    "tags": [
+      "npc_racism",
+      "social_skills",
+      "roleplaying"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 8,
+    "concept": "Determining NPC Racism",
+    "dependencies": [
+      "Charisma and Its Influence on NPC Reactions"
+    ]
+  },
+  {
+    "title": "RACISM TABLE",
+    "content": "| Dice Result | Racial Bias |\n| :--- | :--- |\n| 1 | All, except own race |\n| 2 | Humans |\n| 3 | Elves |\n| 4 | Dwarfs |\n| 5 | Orks |\n| 6 | Trolls |\n\n---\n\nIf the result is the NPC's own race, ignore that result and continue to roll 2D6 until two racial biases are indicated, or the result is all races.\n\nAn NPC with Racism of 3 against orks would have that listed as Racism (Orks) +3 in the Notes section of the Character Record Sheet.\n\nThis information modifies the interaction numbers between a character and an NPC in the following manner. When making a Social Skill Test, as described in the previous section, add any Racism Points the NPC harbors against the character's racial type to the Social Skill target number. The character can offset these points by making a Charisma Test against a target number (known only to the gamemaster) equal to twice the NPC's racism. Each success generated counteracts 1 point of racism. Successes from this test do not directly help the Social Skill Test; they are only used to offset Racism Points.\n\nIf the character is defaulting to Charisma for the Social Skill Test, he may not make a separate Charisma Test to offset racism.",
+    "category": "general",
+    "subcategory": "social_interaction",
+    "tags": [
+      "racism",
+      "social_skills",
+      "npc_interaction",
+      "character_traits"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 9,
+    "concept": "RACISM TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "USING BUILD/REPAIR SKILLS",
+    "content": "Characters performing a Build or Repair task are primarily interested in how long it takes. A very successful character can reduce that time. Divide the time specified for the operation by the number of successes achieved to determine the total time required.\n\nAs a guideline to the time required to build things, find the price of a comparable item on the Equipment Table, p. 254, and divide that figure by one of the following numbers to get the typical time in hours. Divide by 10 for armed-combat type items, by 20 for vehicles, and by 50 for electronics, cyberware, or other technical gear. Ordinary, everyday equipment would have a Target Number 4. Fancy or technical stuff gets a 6. The real exotics start at 8.\n\nThe following skills and skill groupings have corresponding Build/Repair Skills or are Build/Repair Skills themselves: Aircraft, Armed Combat, Biotech, Boats, Computer, Demolition, Electronics, Firearms, Ground Vehicles, Gunnery, Projectile Weapons, Throwing Weapons.\n\n---",
+    "category": "skills",
+    "subcategory": "build_repair",
+    "tags": [
+      "build_skills",
+      "repair_skills",
+      "time_management",
+      "successes",
+      "equipment"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 10,
+    "concept": "USING BUILD/REPAIR SKILLS",
+    "dependencies": []
+  },
+  {
+    "title": "BUILD/REPAIR TABLE",
+    "content": "| Situation | Target Number |\n| :--- | :--- |\n| **Working Conditions:** | |\n| Bad | +2 |\n| Terrible | +4 |\n| Superior | -1 |\n| **Tools are:** | |\n| Unavailable | Usually not allowed |\n| Inadequate | +2 |\n| Reference material available | 0 |\n| Working from memory | +(5 - Intelligence) |\n\n> Dodger's sweating hard, but he can't feel it under the water from the sprinkler system as he fumbles with the soldering iron and probes (inadequate tools, +2) he scrounged up. He wishes Grinder hadn't blasted the door lock to keep the corp cops from coming through it behind them. The runners need to go through it now, before the whole place blows up in their faces. Between the sprinkler system and the stress, the gamemaster decides that Dodger is working in terrible conditions, and the water from the sprinklers splashing on the circuits does not help one bit (+4). To override a door control without a lock would normally be a typical task (Target Number 4). Dodger faces a Target Number of 4 + 2 + 4, or 10. He has Electronic Skill of 4, and so he rolls 4 die for this test. The results are a 3, 4, 5, and 6. The re-rolled 6 yields a 5, for a total of 11, and Dodger breathes a sigh of relief.\n\n---",
+    "category": "skills",
+    "subcategory": "build_repair",
+    "tags": [
+      "build_repair",
+      "target_number",
+      "working_conditions",
+      "tools"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 11,
+    "concept": "BUILD/REPAIR TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE OPERATION SKILL",
+    "content": "Normal vehicle operation does not require any dice rolls. Unless things are really bad, most people can safely operate a vehicle for which they are trained without any problems. Unfortunately, shadowrunners are not most people. They ask their vehicles to do things that would make the most hardened driver's ed teacher drop dead. When those situations come up, the gamemaster can use the Handling Rating of the vehicle as a target number and apply the following situation modifiers.\n\nThese modifiers apply only to non-combat situations.\n\n---",
+    "category": "skills",
+    "subcategory": "vehicle_operation",
+    "tags": [
+      "vehicle_operation",
+      "skill_modifiers",
+      "non_combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 12,
+    "concept": "VEHICLE OPERATION SKILL",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE OPERATION TABLE",
+    "content": "| Situation | Target Number Modifier |\n| :--- | :--- |\n| Complex controls | +1 |\n| Unfamiliar vehicle | |\n| Nonstressful situation | +1 |\n| Stressful situation | +3 |\n| Large vehicle of type | +2 |\n| Very large vehicle of type | +3 |\n| Bad conditions | +2 |\n| Terrible conditions | +4 |\n| Rigger in control | -(VCR Level × 2) |\n\n> Whiz Kid's a rigger. He's also into aircraft, helos to be exact. He's got Rotor Skill of 6. Being a rigger, he has concentrated on Remote Operation and specialized in Fixed-rotor. He can operate any fixed-rotor aircraft, remotely or jacked in, at a rating of 8.\n>\n> Whiz Kid's Ares Dragon has hit a sudden squall and he decides to land before it gets worse. The chopper is big (+2) and the squall makes for bad conditions (+2). With his Vehicle Control Rig Rating of 1 he gets a -2. Too bad he's never flown a Dragon before (+1), but least he's not under fire. His target number is the Dragon's Handling Rating of 5, plus the modifiers, for a final Target Number of 8. Whiz Kid rolls a 1, 2, 3, 3, 5, 6, 6, and 6. Re-rolling the three sixes, he gets 1, 1, and 4, for a final result of 1, 2, 3, 3, 5, 7, 7, and 10. The last 1 saves his butt because it gives him one success. The Dragon sets down safely.\n\n---",
+    "category": "skills",
+    "subcategory": "vehicle_operation",
+    "tags": [
+      "vehicle_operation",
+      "rigger",
+      "target_number",
+      "landing",
+      "conditions"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 13,
+    "concept": "VEHICLE OPERATION TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "USING KNOWLEDGE SKILLS",
+    "content": "Does the player know the capital of Tir Tairngire? What about the metals that make up orichalcum? What are the normal operating parameters of a smartlink and why does this chipped ork, who the player just offed, have something that seems to work differently? Players may not know this information, but their characters might. Below is a list of suggested target numbers and a Success Table for using the various Knowledge Skills.\n\n---",
+    "category": "skills",
+    "subcategory": "knowledge_skills",
+    "tags": [
+      "knowledge_skills",
+      "target_numbers",
+      "success_table",
+      "character_information"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 14,
+    "concept": "USING KNOWLEDGE SKILLS",
+    "dependencies": []
+  },
+  {
+    "title": "KNOWLEDGE SKILL TABLE",
+    "content": "| Situation | Target Number |\n| :--- | :--- |\n| **Character is seeking:** | |\n| General knowledge | 3 |\n| Detailed knowledge | 5 |\n| Intricate knowledge | 8 |\n| Obscure knowledge | 12 |\n| **Number of Successes** | **Result** |\n| 1 | General knowledge, no details |\n| 2 | Detailed information, with some minor points inaccurate |\n| 3 | Detailed information, with some minor points obscure or missing |\n| 4+ | Detailed and accurate information |\n\n> Fastjack has never had much use for magic, but he knows science (Physical Sciences Skill 6). He got his hands on a strange, white rock and he wants to know what it is. The gamemaster, who knows that the object is a piece of metamorphosed flesh, secretly sets the Target Number at 12 because the rock is not natural and because magical workings are not common knowledge, especially to Fastjack. Fastjack rolls his dice and manages to get 2 successes, which is not enough to learn the whole story. The gamemaster informs Jack that his analysis tells him that the rock is a metamorphic carbonate of unusual structure, possibly a fossil, because of the presence of some apparently biological structures.\n\n---",
+    "category": "skills",
+    "subcategory": "knowledge_skills",
+    "tags": [
+      "knowledge",
+      "target_number",
+      "successes",
+      "information",
+      "skills_table"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 15,
+    "concept": "KNOWLEDGE SKILL TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "USING LANGUAGE SKILLS",
+    "content": "When using languages, failure to achieve the required number of successes usually means that the attempted communication was only partially successful, and possibly misunderstood, to the character's detriment. The gamemaster may want to make any required die rolls himself, so that the players will not know whether or not what they intended to say got across.\n\n---",
+    "category": "skills",
+    "subcategory": "language_skills",
+    "tags": [
+      "language",
+      "communication",
+      "skills",
+      "gamemaster",
+      "success"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 16,
+    "concept": "USING LANGUAGE SKILLS",
+    "dependencies": []
+  },
+  {
+    "title": "LANGUAGE SKILLS TABLE",
+    "content": "| Situation | Target Number |\n| :--- | :--- |\n| Speaking dialect (variation of a particular language) | +2 |\n| Universal concept (hunger, fear, bodily functions) | 2 |\n| Basic conversation (concerns of daily life) | 4 |\n| Complex subject (special/limited interest topics) | 6 |\n| Intricate subject (almost any technical subject) | 9 |\n| Obscure subject (deeply technical/rare knowledge) | 11 |\n\n> A beautiful elven woman comes running up to Dodger, babbling something in Elvish. His knowledge of the language is minimal (Elvish 2). He rolls his 2 dice and gets two sixes. As it turns out, these are successes, and so he understands that she is looking for help because someone is following her (Complex Subject, Target Number 6). When she tries to explain just who it is and why they want her (Intricate Subject, Target Number 8), the convolutions become too much for Dodger (he rolls a 2 and a 5) and he loses the sense of what she is saying. Still, she is a maiden in distress, and he must help her!\n\n---",
+    "category": "skills",
+    "subcategory": "language_skills",
+    "tags": [
+      "language",
+      "skills",
+      "target_number",
+      "communication"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 17,
+    "concept": "LANGUAGE SKILLS TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "As listed in the Equipment Table, p. 254, most Shadowrun equipment carries a rating, but the ratings are generally unimportant. The equipment does what it does, unless some other piece of equipment opposes it. A good example of this action-counteraction is a radio transmitter and a jammer. As long as the radio transmission is unopposed, it works fine and no tests are necessary. If a jammer is also being operated, the equipment must also make a test to see whether it overcomes the transmitter.",
+    "category": "gear_mechanics",
+    "subcategory": "equipment_ratings",
+    "tags": [
+      "equipment",
+      "ratings",
+      "gear",
+      "mechanics",
+      "tests"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 18,
+    "concept": "Introduction to equipment ratings and their general unimportance in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Each piece of equipment uses its own rating for the number of dice to roll, and the rating of the opposing piece of equipment as the target number. Ties have no result; the device that was activated first remains active. This equipment rating is the item's ECM/ECCM (electronic countermeasures/electronic counter-countermeasures) Rating.",
+    "category": "gear_mechanics",
+    "subcategory": "ecm_eccm",
+    "tags": [
+      "equipment_interaction",
+      "ecm",
+      "eccm",
+      "dice_rolling",
+      "mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 19,
+    "concept": "Mechanics of rolling for equipment interaction using ECM/ECCM ratings.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Equipment that does not normally have such a rating (like cyberware radios) can be upgraded to include rating points of ECM/ECCM. Simply multiply the list cost by the ECM/ECCM Rating installed. Use this rating for any tests the gamemaster must make for the equipment.",
+    "category": "gear_mechanics",
+    "subcategory": "equipment_upgrades",
+    "tags": [
+      "ecm",
+      "eccm",
+      "equipment",
+      "upgrades",
+      "costs"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 20,
+    "concept": "Upgrading equipment to include ECM/ECCM ratings and associated costs.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Equipment listed with a base cost in nuyen are assumed to have an ECM/ECCM Rating of 1. If the purchaser wishes to acquire the piece of equipment at Rating 0 (no ECM/ECCM, and opposing equipment automatically dominates), then multiply the base cost by .75.\n\nItems acquired at a higher than ECM/ECCM Rating 1 add that value to the Availability of the item (see below).",
+    "category": "gear_mechanics",
+    "subcategory": "equipment",
+    "tags": [
+      "ecm",
+      "eccm",
+      "equipment_cost",
+      "ratings"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 21,
+    "concept": "Base ECM/ECCM ratings for equipment and cost adjustments for Rating 0.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Availability determines how easy it is to acquire a particular item, and how long it takes to do so. Associated with Availability is the Street Index, which affects the price of the item if purchased through the shadow or gray markets.",
+    "category": "gear_mechanics",
+    "subcategory": "availability",
+    "tags": [
+      "availability",
+      "street_index",
+      "item_acquisition",
+      "shadow_market"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 22,
+    "concept": "Definition of Availability and its relation to the Street Index.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Both numbers are intended as guidelines for the gamemaster, who should make adjustments to these values based on the particular campaign and the specifics of the situation.",
+    "category": "gear_mechanics",
+    "subcategory": "availability_and_street_index",
+    "tags": [
+      "availability",
+      "street_index",
+      "gamemaster_guidelines",
+      "adjustments"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 23,
+    "concept": "Guidelines for gamemasters on adjusting Availability and Street Index values.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "When a character wishes to purchase something that is legal and generally available, he can do so, unless the gamemaster has some reason for wishing to limit access to that item. Some legal items have Availability Codes that reflect their limited supply but that do not necessarily imply that these items must be purchased through 'other means.'",
+    "category": "gear_mechanics",
+    "subcategory": "availability_codes",
+    "tags": [
+      "equipment",
+      "availability",
+      "purchasing",
+      "legal_items"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 24,
+    "concept": "Process for purchasing legal items and the role of Availability Codes.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "To obtain the desired item, the character contacts the source, usually a fixer, though this may vary (a Mr. Johnson, for instance, might have access to a piece of relevant technology). For this Acquisition Test, the gamemaster rolls a number of dice equal to either the source's relevant Special Skill (such as the fixer contact's 'Equipment Acquisition' Skill) or the standard Etiquette Skill (Street, Corporate, and so on), adding +2, against the first value of the Availability Code, which serves as the target number.",
+    "category": "gear_mechanics",
+    "subcategory": "acquisition",
+    "tags": [
+      "equipment_acquisition",
+      "fixer",
+      "availability_code",
+      "acquisition_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 25,
+    "concept": "Procedure for contacting a source and conducting an Acquisition Test.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "For certain items, especially those with a variable rating, the gamemaster may wish to increase the Acquisition target number by 1 for every 2 rating points of the item.",
+    "category": "gear_mechanics",
+    "subcategory": "acquisition",
+    "tags": [
+      "acquisition",
+      "item_rating",
+      "gamemaster",
+      "target_number"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 26,
+    "concept": "Adjustments to the Acquisition target number based on item ratings.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "Divide the resulting number of successes from this roll into the base time it takes to obtain the item, which is the second part of the Availability Code (to the right of the slash). This part of the code appears in hours ('hrs') days, and months ('mths'). The base time divided by the number of successes achieved provides the actual time it takes for the source to locate the item. Halfway through this period, the source actually finds out that the item is available and contacts the buyer. If the gamemaster (the source) rolls no successes, the item is not available at this time.",
+    "category": "gear_mechanics",
+    "subcategory": "acquisition",
+    "tags": [
+      "equipment",
+      "acquisition_test",
+      "successes",
+      "availability_code"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 27,
+    "concept": "Calculating the time to obtain an item based on Acquisition Test successes.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "When the source contacts the buyer, a Negotiation Test should be made. The character rolls his Negotiation Skill dice (or Charisma or related Skill Web default) against a target number equal to the source's Willpower Rating. The source does the same, using the character's Willpower Rating as its target number.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "negotiation",
+      "skill_test",
+      "willpower",
+      "charisma",
+      "source_contact"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 28,
+    "concept": "Conducting a Negotiation Test when the source contacts the buyer.",
+    "dependencies": []
+  },
+  {
+    "title": "USING EQUIPMENT",
+    "content": "The price of the item is equal to the Cost multiplied by the Street Index. Whoever generates the most successes (source or buyer) may adjust the price accordingly.",
+    "category": "gear_mechanics",
+    "subcategory": "pricing",
+    "tags": [
+      "equipment",
+      "pricing",
+      "negotiation",
+      "street_index"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 29,
+    "concept": "Determining the price of an item based on Cost and Street Index, and adjusting it through Negotiation Test results.",
+    "dependencies": []
+  },
+  {
+    "title": "HAULING THE LOAD",
+    "content": "Players have a tendency to equip their characters with every conceivable item, from assualt cannons to toasters, along with enough ammunition and bread to keep them operating continuously for five years. If the players' equipment seems to be getting a bit out of hand, the gamemaster can impose the following **Encumbrance** rules.\n\nA character can carry up to his Strength x 5 in kilograms without appreciable effect.\n\nTwice that load (Strength x 10 kg) will leave the character in a state equivalent to Lightly Wounded on the Stun Condition Monitor (see p. 111).\n\nA character carrying three times the load (Strength x 15 kg) is Moderately fatigued, cannot run, and his movement is cut in half.\n\nFour times the load (Strength x 20 kg) makes the character Seriously fatigued, he cannot run, and his movement is cut to one-quarter the normal rate. Any heavier load makes the character pass out from exertion.\n\nIf the character is only trying to lift a load, but not carry it, he may add (Strength)D6 kilograms to his maximum load (Strength x 20 kg). A character can only hold this weight for a number of turns equal to his Body, however. Any longer increases the character's Stun Condition Level by one level per turn.",
+    "category": "gear_mechanics",
+    "subcategory": "encumbrance",
+    "tags": [
+      "encumbrance",
+      "strength",
+      "fatigue",
+      "load"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 30,
+    "concept": "HAULING THE LOAD",
+    "dependencies": []
+  },
+  {
+    "title": "PERCEPTION",
+    "content": "The gamemaster usually keeps the player informed of obvious information about the character's surroundings. But what about the not-so-obvious information? Like whether or not that corp-type suit over there is packing heat. Or whether the character can hear that sneaky elf coming up the alley behind him. Or smell the chromed ork hiding under an invisibility spell.\n\nTo determine what a character is aware of in such situations, the gamemaster tests the character's **perception**. He uses the character's Intelligence Rating for the number of dice to roll; the target number will depend on the circumstances.\n\nAn individual making a Perception Test should roll the dice as described above. The gamemaster may want to make one Perception Test for the entire team, but this should not be done when surprise is possible (as described on p. 86 of Combat). For a group Perception Test, find the average Intelligence Rating for the team and roll that many dice plus an additional die for each member of the team.\n\nA Perception Test can be made for any situation that involves one of the five senses; sight, hearing, smell, touch, and taste. Set the base Target Number at 4 and use the Perception Test Modifiers Table to determine appropriate modifiers. The table is not meant to cover every situation, but merely to offer some guidelines.\n\nSome things, like the Concealability of guns, have specific numbers assigned to them, as listed in the Equipment Table in the Gear section of the rules, p. 254. The Perception Test should be made against that number.\n\nA single success indicates that someone has noticed something. Consult the Perception Success Table to determine other levels of success.\n\n---",
+    "category": "general",
+    "subcategory": "perception",
+    "tags": [
+      "perception_test",
+      "gamemaster",
+      "awareness",
+      "intelligence",
+      "dice_roll"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 31,
+    "concept": "PERCEPTION",
+    "dependencies": []
+  },
+  {
+    "title": "PERCEPTION TEST MODIFIERS TABLE",
+    "content": "| Situation | Modifier |\n| :--- | :--- |\n| Perceiver is distracted | +2 |\n| **Sight** | |\n| Very small object | +6 |\n| Object partially hidden | +2 |\n| Object brightly colored | -2 |\n| Action very obvious | -4 |\n| Action not obvious | +4 |\n| Visibility modifiers | see Visibility Table, p. 89, Combat |\n| **Sound** | |\n| Single gunshot | -2 |\n| Silenced single gunshot | 0 |\n| Burst fire | -4 |\n| Sound-suppressed burst fire | -2 |\n| Full autofire | -6 |\n| Sound-suppressed autofire | -4 |\n| Grenade blast | -8 |\n| A person's yell | -2 |\n| Sound is rooms away | +2 |\n| Sound is on same floor | +4 |\n| Sound is floors away | +6 |\n| Perceiver has active sound enhancements | Rating, or -2 |\n| **Smell** | |\n| Odor obvious | -4 |\n| Other odors present | +2 |\n| **Touch** | |\n| Temperature extreme (hot or cold) | -4 |\n| Perceiver wearing gloves | +2 |\n| **Taste** | |\n| Taste obvious | -4 |\n| Perceiver has a cold | +2 |\n\n---",
+    "category": "skills",
+    "subcategory": "perception",
+    "tags": [
+      "perception_test",
+      "modifiers",
+      "skills",
+      "table"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 32,
+    "concept": "PERCEPTION TEST MODIFIERS TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "PERCEPTION SUCCESS TABLE",
+    "content": "| Successes | Resulting Perception |\n| :--- | :--- |\n| 1 | That something is there, but little else. |\n| 2 | Something is definitely there, and the perceiver suspects the kind of thing it is. |\n| 3 | The perceiver knows what kind of thing it is, and suspects its exact nature. |\n| 4+ | The perceiver knows what it is, but has no specifics without further information or examination. |\n\n---",
+    "category": "skills",
+    "subcategory": "perception",
+    "tags": [
+      "perception",
+      "success_table",
+      "skills",
+      "game_mechanics"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 33,
+    "concept": "PERCEPTION SUCCESS TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Toxins (drugs and poisons) and diseases can do damage from which a character may recover normally. Many also have side effects that affect the character as long as the nasty stuff is active. As the disease or toxin runs its course through the character's body, some of these side effects may only manifest at certain stages.",
+    "category": "general",
+    "subcategory": "toxins_and_diseases",
+    "tags": [
+      "toxins",
+      "diseases",
+      "character_effects",
+      "side_effects",
+      "damage"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Introduction to toxins and diseases in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Countermeasures to toxins and diseases are called antidotes. These will increase the victim's dice by their rating for the Body Test if no damage has yet been done. If the patient has gone down (Deadly Damage Level) from the effects of a nasty, the injection of the correct antidote counts as professional attention. See Deadly Wounds and First Aid, p. 115.",
+    "category": "general",
+    "subcategory": "antidotes",
+    "tags": [
+      "antidotes",
+      "toxins",
+      "diseases",
+      "first_aid",
+      "body_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 35,
+    "concept": "Explanation of antidotes and their effects",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Many vaccines can be administered before a character is exposed to a disease or drug. These provide immunity to the toxin, and so the character is not required to resist the damage at all.",
+    "category": "general",
+    "subcategory": "health",
+    "tags": [
+      "vaccines",
+      "diseases",
+      "toxins",
+      "immunity",
+      "prevention"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 36,
+    "concept": "Role of vaccines in preventing diseases and toxins",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Diseases and toxins are rated for the damage they do and the speed with which they take effect. The speed factor determines how soon after exposure the victim will have to resist damage. For toxins, this is usually immediately, but the time period can be hours or even days for diseases.",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "diseases",
+      "toxins",
+      "damage",
+      "speed",
+      "resistance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 37,
+    "concept": "Damage and speed ratings for diseases and toxins",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "The victim must use a Body Test to resist again if that time period elapses again and he is still in contact with the toxin, or still infected by the disease. Some kind of technological or medical attention must be given during this period.",
+    "category": "general",
+    "subcategory": "diseases_and_toxins",
+    "tags": [
+      "toxins",
+      "diseases",
+      "body_test",
+      "resistance",
+      "medical_attention"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 38,
+    "concept": "Resisting damage from toxins and diseases",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "The description of the disease or toxin will specify any side effects or symptoms and include notes about how the nasty stuff gets into the victim's system and any special treatments that might be necessary.",
+    "category": "general",
+    "subcategory": "diseases_and_toxins",
+    "tags": [
+      "diseases",
+      "toxins",
+      "side_effects",
+      "treatments",
+      "victim_effects"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 39,
+    "concept": "Details included in disease and toxin descriptions",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "To resist diseases and toxins requires making a Body Test using the Power of the attack as the target number. Every 2 successes reduces the Damage Level.",
+    "category": "general",
+    "subcategory": "diseases_and_toxins",
+    "tags": [
+      "disease_resistance",
+      "toxin_resistance",
+      "body_test",
+      "damage_level"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 40,
+    "concept": "Mechanics of resisting diseases and toxins",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Toxins\n* **Neuro-stun VIII**\n * Damage: 6S Stun\n * Speed: 1 turn\n * Description: Delivered as a gas in an organic binder, N-S VIII takes effect if inhaled, or on contact with the skin. At the end of the turn during which a character is exposed to N-S VIII, he suffers Stun damage. Even if he resists this, he suffers disorientation for about an hour, adding +2 to all target numbers.\n* **Narcoject**\n * Damage: 6D Stun\n * Speed: Instantaneous\n * Description: Injected. Can be used in drug darts, because a touch is sufficient to inject. No side effects.\n* **Fugu-5**\n * Damage: 3D\n * Speed: Instantaneous\n * Description: Injected or eaten. This is a hyped-up version of one of the deadliest neurotoxins in nature. No side effects if the character resists.",
+    "category": "combat",
+    "subcategory": "toxins",
+    "tags": [
+      "toxins",
+      "damage",
+      "stun",
+      "combat_effects"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 41,
+    "concept": "List of toxins with their damage, speed, and descriptions",
+    "dependencies": []
+  },
+  {
+    "title": "DISEASES AND TOXINS",
+    "content": "Diseases\n* **VITAS-3**\n * Damage: 6D\n * Speed: 12 hours\n * Description: Aerosol virus transmitted by close contact or by infected person sharing a confined space with another person. After the incubation period, fever, chills, and vomiting occur until damage is reduced to Light.",
+    "category": "general",
+    "subcategory": "diseases_and_toxins",
+    "tags": [
+      "disease",
+      "toxin",
+      "damage",
+      "health"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 42,
+    "concept": "List of diseases with their damage, speed, and descriptions",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "The gamemaster can use the various archetypes and contacts provided in this book for the non-player characters (NPCs) with whom the player characters interact during the course of the game. Often, the game statistics presented for the archetype or contact will work as published and require no modification. Most times, however, the stats will need modification to better suit the particular character or situation.",
+    "category": "general",
+    "subcategory": "non-player_characters",
+    "tags": [
+      "npc",
+      "gamemaster",
+      "archetypes",
+      "contacts",
+      "game_statistics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 43,
+    "concept": "Introduction to Non-Player Characters (NPCs) and their statistics",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "The system provided for creating a character, p. 40, is not the best way to generate an appropriate NPC. That system is designed to create starting player characters, not non-player characters of varying experience levels. The main difference is that NPCs need not be balanced to anything beyond the gamemaster's needs for the story. The attributes, skills, abilities, and gear of the NPC should be tailored to the story, not to a creation system.",
+    "category": "character_creation",
+    "subcategory": "npc_creation",
+    "tags": [
+      "npc",
+      "character_creation",
+      "gamemaster",
+      "story",
+      "attributes"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 44,
+    "concept": "Character creation system limitations for NPCs",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "If a gamemaster would like to use a system to create experienced NPCs, the following formula may be helpful: Use the character creation system provided, but for every two years of experience the NPC has, increase the Attribute, Skill, or Resource values by 10 percent. For non-player characters that have been around the block more than a few times (in the biz longer than 10 years), increase the values by 10 percent for every 4 years beyond 10. The appropriate values of a character in the business for 25 years would increase by 50 percent for the first 10 years, and then another 30 percent for the next 15 years (not quite 16 years, so not 40 percent), for a cumulative 80 percent increase.\n\nAnother way to create experienced, or, perhaps more appropriately, more dangerous NPCs is to use Threat Ratings.",
+    "category": "character_creation",
+    "subcategory": "npc_creation",
+    "tags": [
+      "npc",
+      "experience",
+      "character_creation",
+      "gamemaster",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 45,
+    "concept": "Formula for creating experienced NPCs based on years of experience",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "Threat Ratings are a simple way to increase an NPC's toughness without going through extensive character-creation back-flips. Each point of Threat Rating gives the NPC an extra die for any tests, offensive or defensive. Threat Rating dice are not the same as a Dice Pool; Threat dice are always available and need not refresh. A number of dice equal to the Threat Rating is available for multiple tests within a Combat Phase. If using Threat Ratings, do not use standard Dice Pools for that non-player character.",
+    "category": "combat",
+    "subcategory": "npc_mechanics",
+    "tags": [
+      "threat_rating",
+      "npc",
+      "combat_mechanics",
+      "dice_pool",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Explanation of how Threat Ratings function",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "No clear-cut way exists to determine the amount of Threat Rating an NPC should have, as Shadowrun offers no easy means to determine the relative toughness of characters. The two possible angles of attack are: 1. Base the Threat Rating on the Skill Success Table, p. 68 of the Skills. Use the adjective in the first column (Difficulty) to describe the NPC's 'threat level,' then use the target number from the second column as the Threat Rating. 2. Give the NPC a Threat Rating related to the team's total Team Karma (see Karma, p. 190), at a ratio of 1 point of Threat Rating per 100 Karma points earned, for example.\n\nEach gamemaster will probably need to experiment to find the most effective way to assign Threat Ratings.",
+    "category": "general",
+    "subcategory": "npc_management",
+    "tags": [
+      "threat_rating",
+      "npc",
+      "gamemaster",
+      "game_balance",
+      "karma"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 47,
+    "concept": "Methods for determining Threat Ratings for NPCs",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "The Threat Rating is not added to Initiative dice for the purpose of determining the NPC's Initiative. Use the standard Reaction plus Initiative dice formula.\n\nThreat Rating dice should be treated as Combat Pool dice for determining a clean miss. See Combat Pool, p. 84.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "threat_rating",
+      "initiative_calculation",
+      "npc_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 48,
+    "concept": "Clarification on Threat Rating and Initiative calculation",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "Non-player characters are rated by their professionalism and how well their courage holds up under fire. NPCs can be rated as Average, Semi-Trained, Trained, and Professional. The NPC's Professionalism Rating determines how long after he is injured a character will remain in a fight. The gamemaster should take the NPC's level of professionalism into consideration when that character gets into a fight, but should never feel constrained by it.",
+    "category": "combat",
+    "subcategory": "npc_professionalism",
+    "tags": [
+      "npc",
+      "professionalism",
+      "combat_rating",
+      "gamemaster",
+      "fight"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Overview of NPC Professionalism Ratings",
+    "dependencies": []
+  },
+  {
+    "title": "NON-PLAYER CHARACTERS",
+    "content": "Average Non-Player Characters (Rating 1) Average NPCs are untrained and unfamiliar with combat situations. They tend to react poorly, slowly, and without a plan. Examples of non-player character types with a Professionalism Rating of Average are pedestrians, wage slaves, and so on.",
+    "category": "character_creation",
+    "subcategory": "non-player_characters",
+    "tags": [
+      "average_npc",
+      "professionalism_rating",
+      "characteristics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Description of Average Non-Player Characters and their characteristics",
+    "dependencies": []
+  },
+  {
+    "title": "FENCING THE LOOT",
+    "content": "A character's got an optical chip full of hot data, fresh off some corp's database. As an added bonus, the character nailed some exec's limo, and has the ordnance from half a squad of bodyguards in the trunk. How does he get rid of it all?\n\nIf the team has a prearranged deal for disposing of loot, then ignore these rules. If they have a pile of stuff and nowhere to sell it, then it's time to find a fence. The fence could easily be one of their regular street contacts, like a fixer or a talismonger, depending on what the runners have to sell.\n\n**FINDING A FENCE**\nFinding a fence requires a successful Etiquette (Street) Test. The base Target Number is 4, modified per the situations on the Finding a Fence Table.\n\n---",
+    "category": "general",
+    "subcategory": "finding_a_fence",
+    "tags": [
+      "fencing",
+      "loot",
+      "street_contacts",
+      "etiquette",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 51,
+    "concept": "FENCING THE LOOT",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "| Situation | Modifier |\n| :--- | :--- |\n| Using a regular contact | -1 |\n| Disposing of standard gear | -1 |\n| Disposing of hi-tech or other important loot | +1 |\n| Disposing of hot loot | +3 |\n| While being sought by police | +1 |\n| While being sought by a corp or organized crime | +2 |\n| Magical loot (foci, spell formulae, and so on) | +2 |",
+    "category": "gear_mechanics",
+    "subcategory": "fencing",
+    "tags": [
+      "fence",
+      "loot",
+      "modifiers",
+      "contacts",
+      "disposal"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 52,
+    "concept": "Finding a Fence Table with situation modifiers",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "Most fences will buy loot that is easy to dispose of before taking on the fancy stuff. A fence typically prefers to buy in the following order:\n* Standard gear, including weapons, clothing, armor, vehicles, jewelry, credit balances (money), and so forth.\n* Hi-tech loot, including ordinary data, equipment, research files, and such.\n* Hot loot, including unique items, specific datafiles, prototypes, procedurals for new processes, magical items, or anything that belonged to a big, big boy and is irreplaceable.",
+    "category": "gear_mechanics",
+    "subcategory": "loot",
+    "tags": [
+      "fence",
+      "loot_types",
+      "gear_disposal",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 53,
+    "concept": "Types of loot that fences prefer to buy",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "If a team is working together to find a fence, roll a number of dice equal to the average Etiquette (Street) Rating for the group looking for the fence plus 1 die for each member against the modified target number (determined by adding or subtracting the situation modifier from the Finding a Fence Table to the base Target Number of 4). All the characters who contribute their Etiquette (Street) Rating to the total must attend the meeting at which the loot will be sold. If one or more of them cannot show, the fence will get nervous and skip the meet.",
+    "category": "skills",
+    "subcategory": "etiquette",
+    "tags": [
+      "finding_a_fence",
+      "etiquette_street",
+      "teamwork",
+      "dice_roll"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 54,
+    "concept": "Rolling to find a fence with team Etiquette (Street) Rating",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "Successes achieved on the roll to find a fence can be used in two ways.\n\n* **Hustle It Along**\n It takes a base time of 10 days to locate a fence and set up a meet. Characters may allocate successes to reduce this time (to a minimum of 1 day). Each day spent looking for a fence increases the chances that the former owners of the merchandise will learn that the player characters are trying to move it. At the end of each day, the gamemaster rolls a number of dice equal to the days spent searching against a Target Number of 6. Even 1 success means the bad guys are on to them. If the gamemaster thinks the bad guys would hunt down the team, he can set up an ambush at the meet.",
+    "category": "general",
+    "subcategory": "locations",
+    "tags": [
+      "finding_fence",
+      "hustle_it_along",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Using successes to reduce time finding a fence (Hustle It Along)",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "* **Financing the Fence**\n Fences have limited means; they are just ordinary businessmen, trying to turn a dishonest nuyen. Instead of using their successes to reduce the time required to find a fence, the team can allocate successes to increase the fence's bankroll. The gamemaster secretly rolls 2 dice and multiplies the result by 100,000¥ to determine the base bankroll. He then multiplies the base amount by the number of successes the team allocates to the fence's bankroll to get the total amount of money the fence will have available for their meet. Of course, this total does not represent the amount of money the fence is going to spend, just how much he has available.",
+    "category": "general",
+    "subcategory": "financing",
+    "tags": [
+      "fence",
+      "bankroll",
+      "successes",
+      "gamemaster",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Using successes to increase the fence's bankroll (Financing the Fence)",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "A meet can take place anywhere. Once the meet is in progress, make a Negotiation Test between any one character and the fence. Roll a number of dice equal to each opponent's Negotiation Skill, using the other's Willpower Rating as the target number. Naturally, both sides are suspicious of the other, adding an automatic +2 modifier to the target number. The gamemaster sets the ratings for the fence.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "negotiation_test",
+      "fence",
+      "meet",
+      "suspicion",
+      "gamemaster"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Conducting a meet and Negotiation Test with the fence",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "The base price for any loot is 30 percent of its actual value, as listed in the Equipment Table, p. 254. For other loot, the gamemaster sets the prices.",
+    "category": "gear_mechanics",
+    "subcategory": "loot",
+    "tags": [
+      "fence",
+      "loot_value",
+      "price_mechanics",
+      "gamemaster"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Base price for loot during the meet",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "Whichever side wins the Negotiation Test alters the price paid by 5 percent per extra success. If the fence won, the percentage paid will not drop below 10 percent. If the team won, the percentage of the actual cost paid will not rise above 50 percent.",
+    "category": "general",
+    "subcategory": "negotiation",
+    "tags": [
+      "negotiation",
+      "fence",
+      "price_adjustment",
+      "success"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 59,
+    "concept": "Negotiation outcomes and price adjustments",
+    "dependencies": []
+  },
+  {
+    "title": "FINDING A FENCE TABLE",
+    "content": "The fence will almost certainly bring enough muscle along to forestall any unscrupulous business practices the team may consider. If the original owners of the loot are coming after it, they will show up at the meet as well.",
+    "category": "combat",
+    "subcategory": "meet_complications",
+    "tags": [
+      "fence",
+      "meet",
+      "complications",
+      "muscle",
+      "loot"
+    ],
+    "content_type": "example",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 60,
+    "concept": "Potential complications during the meet",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "Even though it may sometimes seem that many Shadowrun characters live in a bar, that is not so. Each character has a unique lifestyle, and the following information can be used to flesh out events that might occur in his life in between adventures. Most important is the effect a character's lifestyle has on healing, described at the end of the Combat chapter, p. 113.",
+    "category": "general",
+    "subcategory": "lifestyle",
+    "tags": [
+      "lifestyle",
+      "character_development",
+      "healing"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 61,
+    "concept": "Introduction to character lifestyles and their impact on gameplay.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**Lifestyle** measures the quality of the character's daily life and his or her living expenses, including shelter, food, entertainment, clothing, and so on. It does not cover technical resources, weapons, magical equipment, professional hirelings, or other major impersonal items.",
+    "category": "general",
+    "subcategory": "lifestyle",
+    "tags": [
+      "lifestyle",
+      "expenses",
+      "quality_of_life"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 62,
+    "concept": "Definition of Lifestyle and its components.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "The player and the gamemaster can also make other decisions about interesting details of the character's lifestyle. Almost infinite variations are available. For example, a character might live in an abandoned building, but install enough conveniences to qualify as having a Luxury lifestyle. Keeping all those gadgets running, buying security, maintaining water supplies, and keeping a low profile will cost as much as a mansion in a ritzy neighborhood.",
+    "category": "character_creation",
+    "subcategory": "lifestyles",
+    "tags": [
+      "lifestyle_customization",
+      "character_details",
+      "cost_management"
+    ],
+    "content_type": "example",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 63,
+    "concept": "Customization of character lifestyles and examples of variations.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "A character living a Middle lifestyle or higher can support guests at a rate of 10 percent above his own cost of living per guest. A host can also keep a guest at a lower lifestyle than his own by paying 10 percent of the lower cost of the guest's lifestyle. Servants are often maintained in this manner.",
+    "category": "general",
+    "subcategory": "lifestyle_management",
+    "tags": [
+      "lifestyle",
+      "guests",
+      "cost_of_living",
+      "hosting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 64,
+    "concept": "Rules for hosting guests and lifestyle costs.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**LUXURY** This lifestyle offers the best of everything: spacious, ritzy digs, lots of hi-tech toys, the best food, drink, and you-name-it. The character has a household staff or a maid service or gadgets to do the mundane chores. He has a powerful car, maybe even a hot sports model or a chauffeured limo. Whether it's a big house, a snazzy condo, or the penthouse in a top hotel, this is the life for the high-stakes winners in the business: top executives, government big shots, high-level yakuza, and the shadowrunners who pull off the big scores. * Cost: 100,000¥ a month and up-up-up!",
+    "category": "general",
+    "subcategory": "lifestyle",
+    "tags": [
+      "lifestyle",
+      "luxury",
+      "cost",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 65,
+    "concept": "Description of the Luxury lifestyle and its cost.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**HIGH** A High lifestyle offers a roomy house or condo, good food, and the tech that makes life easy. So what if the character does not have the same perks as the big boys, but neither does he have as many people gunning for him. His home is in a secure zone or protected by some good solid bribes to the local police contractor and gang boss. There is a housekeeping service or enough tech to take care of most chores. A luxury commuter car is at his beck and call. This is the life for the well-to-do on either side of the law: mid-level managers, senior yakuza, and the like. * Cost: 10,000¥ a month",
+    "category": "general",
+    "subcategory": "lifestyles",
+    "tags": [
+      "high_lifestyle",
+      "cost",
+      "living_conditions",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 66,
+    "concept": "Description of the High lifestyle and its cost.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**MIDDLE** The Middle lifestyle is not the best of everything, but is far from the worst. It offers a nice house or condo with lots of comforts. So characters eat some nutrisoy as well as natural food, but at least the autocook has a full suite of flavor faucets. Characters also have a commuter car or first-class tube pass. This is the lifestyle of ordinary successful wage-earners or criminals. * Cost: 5,000¥ a month",
+    "category": "general",
+    "subcategory": "lifestyles",
+    "tags": [
+      "middle_lifestyle",
+      "cost",
+      "living_conditions",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 67,
+    "concept": "Description of the Middle lifestyle and its cost.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**LOW** With this lifestyle, the character has an apartment, and nobody is likely to bother him much if he keeps the door bolted. Meals are regular. The nutrisoy may not taste great, but at least it's hot. And power and water are available during their area's assigned rationing periods. When those of the Low lifestyle travel, they ride the tube. Factory workers, petty crooks, and other folks stuck in a rut, just starting out, or kind of down on their luck tend to show up here. * Cost: 1,000¥ a month",
+    "category": "general",
+    "subcategory": "lifestyles",
+    "tags": [
+      "low_lifestyle",
+      "cost",
+      "living_conditions",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 68,
+    "concept": "Description of the Low lifestyle and its cost.",
+    "dependencies": []
+  },
+  {
+    "title": "LIFESTYLES OF THE RICH AND SHADOWY",
+    "content": "**SQUATTER** Life stinks and most of the time, so does the character. He eats low-grade nutrisoy and yeast, adding the flavors with an eyedropper. His home is a made-over building, converted into barracks, divided into closet-sized rooms, or maybe he just rents out a coffin-sized sleep tank by the night. The only thing worse than the Squatter lifestyle is living out on the streets. * Cost: 100¥ a month\n\n**STREETS** The character lives on the streets! Or in...",
+    "category": "general",
+    "subcategory": "lifestyles",
+    "tags": [
+      "squatter",
+      "lifestyle",
+      "cost",
+      "shadowrun",
+      "living_conditions"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 69,
+    "concept": "Description of the Squatter lifestyle and its cost.",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "In Shadowrun, **Karma** measures the experience characters get when they go out on an adventure. They do not get Karma for doing the laundry, unless the laundromat is in an urban combat zone. Karma is used to improve Attributes, skills, and special resources.",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "karma",
+      "experience",
+      "character_progression"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 70,
+    "concept": "Introduction to Karma and its purpose in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "Karma is awarded at the end of an adventure, but not necessarily after a single playing session. The gamemaster decides who gets Karma and how much they get. Every character in a group receives Karma for some things, but some awards go only to individuals.\n\nEach surviving member of a team gets Karma for staying alive, succeeding at a mission, and for the degree of danger in the mission.\n\nIndividual characters can pick up additional Karma for good roleplaying, gutsy fighting, smart planning, sheer luck, and other personal feats.",
+    "category": "general",
+    "subcategory": "karma_awarding",
+    "tags": [
+      "karma",
+      "adventure",
+      "roleplaying",
+      "gamemaster",
+      "awards"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 71,
+    "concept": "Mechanics of awarding Karma",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "Of the Karma a character gets, 90 percent of it becomes **Good Karma**, which is used over the long term for improving the character. Ten percent goes into the character's **Karma Pool**, which is used in the short term for general butt-saving. A character's Good Karma and Karma Pool are tracked separately. Always round off in favor of Good Karma.",
+    "category": "character_creation",
+    "subcategory": "karma_distribution",
+    "tags": [
+      "karma",
+      "good_karma",
+      "karma_pool",
+      "character_progression",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 72,
+    "concept": "Distribution of Karma into Good Karma and Karma Pool",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "**GOOD KARMA** Good Karma is used between adventures to improve character ratings or gain benefits. A character can increase Physical and Mental Attributes 1 point by paying a number of Good Karma Points equal to the rating to which the Attribute is being raised. Raising a Strength of 5 to 6 would cost 6 Good Karma Points.",
+    "category": "character_creation",
+    "subcategory": "good_karma",
+    "tags": [
+      "good_karma",
+      "attributes",
+      "character_improvement",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 73,
+    "concept": "Usage of Good Karma for improving Attributes",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "Attribute Ratings cannot normally exceed the character's racial maximum. However, if the gamemaster agrees, paying double the Good Karma Points can raise the Attribute above the racial maximum. For example, a human character who wanted to raise her Strength from 6 to 7 would have to spend 14 Good Karma Points to do so. The gamemaster should probably discourage players from raising a character's Attributes to beyond 1.5 x the racial maximum.",
+    "category": "character_creation",
+    "subcategory": "attribute_modification",
+    "tags": [
+      "good_karma",
+      "attribute_limits",
+      "racial_maximum",
+      "gamemaster_approval"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 74,
+    "concept": "Limits and exceptions for raising Attributes with Good Karma",
+    "dependencies": [
+      "Usage of Good Karma for improving Attributes"
+    ]
+  },
+  {
+    "title": "KARMA",
+    "content": "Good Karma can also raise Attributes that have been reduced for some reason. Though it is NEVER possible to use Karma to directly raise Reaction, Essence, and Magic, Reaction may change if Quickness or Intelligence is improved.\n\n**Skills** Skill Ratings can also be raised using Good Karma. Once the Karma has been paid, the Skill Rating goes up 1 point.",
+    "category": "character_creation",
+    "subcategory": "karma",
+    "tags": [
+      "good_karma",
+      "attributes",
+      "skills",
+      "character_development"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 75,
+    "concept": "Restrictions on using Good Karma for certain Attributes",
+    "dependencies": []
+  },
+  {
+    "title": "KARMA",
+    "content": "Once the character has begun the game, improvements in general skills, Concentrations, and Specializations all happen separately. Increasing a general skill does not automatically change the Concentration, and so on.",
+    "category": "skills",
+    "subcategory": "skill_improvement",
+    "tags": [
+      "skill_improvement",
+      "concentration",
+      "specialization",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 76,
+    "concept": "Clarification on skill improvements and their separateness",
+    "dependencies": [
+      "Using Good Karma to improve Skill Ratings"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "| | |\n| :--- | :--- |\n| General skills | 2 x New Rating |\n| Concentrations | 1.5 x New Rating |\n| Specializations | 1 x New Rating |\n| Languages | 1 x New Rating |",
+    "category": "character_creation",
+    "subcategory": "skills",
+    "tags": [
+      "good_karma",
+      "skills",
+      "cost",
+      "character_creation",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 77,
+    "concept": "Good Karma cost for different skill types",
+    "dependencies": []
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "> Iris has specialized in Firearms Skill. Her current ratings are Firearms 1, Pistols 3, and Beretta 101T, her chosen weapon, of 5.\n> * Raising her general Firearms Skill from 1 to 2 costs 4 Karma Points.\n> * Raising her Pistols skill from 3 to 4 costs 6 Karma Points.\n> * Raising her Beretta 101T skill from 5 to a Specialization 6 costs 6 Karma Points.",
+    "category": "skills",
+    "subcategory": "skill_improvement",
+    "tags": [
+      "karma_cost",
+      "skills",
+      "firearms",
+      "character_development"
+    ],
+    "content_type": "example",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 78,
+    "concept": "Example of Good Karma costs for skill improvements",
+    "dependencies": [
+      "Good Karma cost for different skill types"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "New Concentrations are based on the existing general skill score. If the character has Firearms 4 and wants to concentrate with Pistols at 5, the Concentration would cost 5 x 1.5, or 8 Karma Points.",
+    "category": "skills",
+    "subcategory": "concentrations",
+    "tags": [
+      "karma_cost",
+      "skills",
+      "concentrations",
+      "firearms",
+      "pistols"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 79,
+    "concept": "Cost of raising Concentrations based on general skill score",
+    "dependencies": []
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "New Specializations are based on the existing Concentration score. If the character does not have an appropriate Concentration, use the general skill. Thus, if the character only wants to improve with the Remington Roomsweeper, the Specialization would cost 5 x 1, or 5 Karma Points, to reach Rating 5 in that specialized skill.\n\nNew skills cost 1 point of Good Karma for the first rating point.",
+    "category": "skills",
+    "subcategory": "specializations",
+    "tags": [
+      "good_karma",
+      "specialization_cost",
+      "skills_improvement",
+      "concentration"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 80,
+    "concept": "Cost of raising Specializations based on Concentration or general skill",
+    "dependencies": []
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "A Hermetic magician must have unrestricted access to a sorcery library with a rating equal to, or greater than, the Sorcery Skill rating he wishes to acquire.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "hermetic_magician",
+      "sorcery_skills",
+      "skill_acquisition",
+      "sorcery_library"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 81,
+    "concept": "Requirement for Hermetic magicians to acquire Sorcery Skills",
+    "dependencies": []
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "**KARMA POOL**\nOne-tenth (round up) of all Karma earned goes into the character's Karma Pool. The character can draw from it as needed during an encounter, but once the Karma Pool is emptied, it is no longer available for that encounter. The full value of the Karma Pool returns with the next encounter. (What constitutes an encounter? A single scene or event in the story. It might be a single location or several closely related areas. A running gun-battle might be a single encounter, or it might be a series of them. If the runners have time to catch their breath, it usually means a new scene, or encounter, has begun.)\n\nPoints from the Karma Pool can be used a number of ways.",
+    "category": "skills",
+    "subcategory": "karma_pool",
+    "tags": [
+      "karma",
+      "mechanics",
+      "encounter",
+      "skills",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 82,
+    "concept": "Explanation of the Karma Pool mechanics and encounter definition",
+    "dependencies": []
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "* **Re-rolling Failures**\n A character can use 1 point from the Karma Pool to re-roll any test dice that failed. For example, the player rolls 4 dice and scores 2 successes. For 1 point of Karma, he can roll those 2 failed dice again. This process can be repeated, but each time it is done on a single test the Karma cost goes up by 1, until all the dice are successes or the character runs out of Karma.",
+    "category": "skills",
+    "subcategory": "re-rolling_failures",
+    "tags": [
+      "karma_pool",
+      "re-roll",
+      "failed_tests",
+      "game_mechanics",
+      "skill_checks"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 83,
+    "concept": "Using Karma Pool points to re-roll failed test dice",
+    "dependencies": [
+      "Points from the Karma Pool can be used a number of ways"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "* **Avoid an \"Oops\"**\n The Rule of One can be partially avoided. If all the character's dice come up 1, it usually means a disastrous failure. Paying 1 point of Karma does not allow a re-roll, but does turn the disaster into a simple failure. Additional Karma cannot be spent on the failure.",
+    "category": "skills",
+    "subcategory": "failure_mechanics",
+    "tags": [
+      "karma_pool",
+      "disastrous_failure",
+      "rule_of_one",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 84,
+    "concept": "Using Karma Pool points to avoid disastrous failures",
+    "dependencies": [
+      "Points from the Karma Pool can be used a number of ways"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "* **Buy Additional Dice**\n A character may spend 1 point of Karma to buy an additional die for use in a test, up to a maximum of however many skill, Attribute, or rating dice are in use, not including other Pool dice. These karmic dice score, and are used, normally.",
+    "category": "skills",
+    "subcategory": "dice_pool",
+    "tags": [
+      "karma",
+      "additional_dice",
+      "test_mechanics",
+      "skill_checks"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 85,
+    "concept": "Using Karma Pool points to buy additional dice for tests",
+    "dependencies": [
+      "Points from the Karma Pool can be used a number of ways"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "* **Buying Successes**\n It is also possible to purchase raw success at a cost of 1 Karma Point per success, but on two hefty conditions. First, the character has to generate at least 1 success normally through the test. No natural, regular successes, no karmic successes. Second, Karma Pool dice spent to buy a success are gone (pffft!) forever, expended permanently. The do not refresh with the pool in the next scene. Replacement Karma must be earned.",
+    "category": "skills",
+    "subcategory": "buying_successes",
+    "tags": [
+      "karma_pool",
+      "success",
+      "test_mechanics",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 86,
+    "concept": "Using Karma Pool points to buy successes in tests",
+    "dependencies": [
+      "Points from the Karma Pool can be used a number of ways"
+    ]
+  },
+  {
+    "title": "GOOD KARMA COST FOR SKILLS",
+    "content": "* **Adding to the Team Karma Pool**\n A character can permanently transfer points from his Karma Pool to the Team Karma Pool. These points are gone for good, even if the character later leaves the team. (What's a Team Karma Pool? Read on!)",
+    "category": "general",
+    "subcategory": "team_mechanics",
+    "tags": [
+      "karma_pool",
+      "team_karma",
+      "character_mechanics",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 87,
+    "concept": "Using Karma Pool points to add to the Team Karma Pool",
+    "dependencies": [
+      "Points from the Karma Pool can be used a number of ways"
+    ]
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "Just as a character has a Karma Pool, so does a Shadowrun team. Members of the team contribute points from their personal Karma Pools to the Team Karma Pool. Points from the Team Karma Pool can then be used exactly like points from a personal Karma Pool, but by any member of the team.",
+    "category": "general",
+    "subcategory": "team mechanics",
+    "tags": [
+      "team_karma",
+      "karma_pool",
+      "shadowrun_team",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 88,
+    "concept": "Introduction to Team Karma and its function within a Shadowrun team.",
+    "dependencies": []
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "The Team Karma Pool refreshes every scene or encounter, in the same way as a personal Karma Pool. Any points from the Team Karma Pool used to buy successes are permanently lost, just as they are from a character's own Karma Pool.",
+    "category": "general",
+    "subcategory": "team_karma",
+    "tags": [
+      "team_karma",
+      "game_mechanics",
+      "karma_pool"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 89,
+    "concept": "Mechanics of how the Team Karma Pool refreshes and the permanence of points spent.",
+    "dependencies": []
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "When a team agrees to become a team, they make a list of the members, and each member must contribute at least 1 point of Karma from his or her own Karma Pool to the Team Karma Pool. Additional points can be added to the Team Karma Pool between scenes or encounters, or between adventures.",
+    "category": "general",
+    "subcategory": "team mechanics",
+    "tags": [
+      "team_karma",
+      "karma_pool",
+      "teamwork",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 90,
+    "concept": "Rules for forming a team and initial contributions to the Team Karma Pool.",
+    "dependencies": []
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "Points may not be removed from the Team Karma Pool unless one of the team members chooses to leave the team, or is asked to leave by the other members. In that case, one-half of the current Karma Points are removed from the Team Karma Pool. The departing character does not take these points with him, and if that character ever rejoins the team, he must add new Karma to the Pool. Those lost points do not reappear.\n\nWhen a new member joins the team, he or she must pay the initial 1 point of Team Karma.\n\nNo Team Karma is lost when a team member dies, and a replacement for that character is treated as a new character.",
+    "category": "general",
+    "subcategory": "team_karma",
+    "tags": [
+      "team_karma",
+      "character_leaving",
+      "game_mechanics",
+      "karma_points"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 91,
+    "concept": "Rules regarding the removal of points from the Team Karma Pool when a member leaves.",
+    "dependencies": []
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "A character can be part of more than one shadowrunning team, but each team that character belongs to subtracts from the value of his Team Karma contributions. The actual value of a Team Karma contribution is equal to the number of Karma Pool points transferred, minus the number of additional teams the character is a part of. If a character is part of two teams, it costs that character 2 Karma Pool points to contribute 1 point of Team Karma to either team.",
+    "category": "general",
+    "subcategory": "team_mechanics",
+    "tags": [
+      "team_karma",
+      "karma_pool",
+      "character_management",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 92,
+    "concept": "Rules for characters belonging to multiple teams and how it affects their Team Karma contributions.",
+    "dependencies": []
+  },
+  {
+    "title": "TEAM KARMA",
+    "content": "Points can only be drawn from the Team Karma Pool if a majority of team members agree to do so. All the characters of the team need not be present in a scene or encounter for the Team Karma Pool to be used, but all the players present at the gaming session must still vote. In ties, the gamemaster should cast the deciding vote.",
+    "category": "general",
+    "subcategory": "team_mechanics",
+    "tags": [
+      "team_karma",
+      "voting_mechanics",
+      "gameplay",
+      "teamwork"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 93,
+    "concept": "Voting mechanics for using points from the Team Karma Pool.",
+    "dependencies": []
+  },
+  {
+    "title": "GAME LETHALITY",
+    "content": "Face it, not everyone likes the same thing in a game. One of the biggest points of contention is how lethal a combat system should be, especially for a dark, gritty game like Shadowrun. Some players and gamemasters want a \"realistic\" system, where any punk with a gun is a threat. Others prefer a combat style like those found in pulp-fiction or action films, where the major criteria of success is the number of rounds fired. Others like it somewhere in the middle.\n\nTo that end (and to keep everybody happy) the design of the Shadowrun system allows the gamemaster to adjust combat lethality. As written, the game is pretty deadly. A punk with a gun and decent skill is definitely a threat. Gamemasters and players who like that style should use the rules as written. For a less-lethal game, increase all armor's Ballistic Armor Rating by 50 percent (round up). For an even less lethal system, double the Ballistic Armor Ratings. In all instances, the rating of impact armor should remain the same. The gamemaster can also make other adjustments.\n\nMelee combat, as written, is fairly survivable. To make it more lethal, increase the Power Ratings of the attacks by 50 percent. For really deadly combat, double the calculated Power. (We do not advise this. Who wants to deal with a troll that can hit with a Power of 24+?)\n\nIf magic seems too powerful, double the base Drain target number from one-half Force to Force. This adjustment does not make magic any less deadly, but it will give magicians second thoughts about the power of the spells they want to cast. If the magic in the game is really too powerful, then use Force as the base Drain target number, and halve the Spell Resistance target numbers.\n\nMatrix combat can be balanced by adjusting Security Ratings and IC Ratings.\n\nRemember, though, that none of these options is more right than any other-it's all a question of taste. As always, players and gamemasters should agree on any modifications to the rules before beginning play.\n\n---",
+    "category": "combat",
+    "subcategory": "lethality",
+    "tags": [
+      "game_lethality",
+      "combat_system",
+      "gamemaster_guidance",
+      "player_preferences"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 94,
+    "concept": "GAME LETHALITY",
+    "dependencies": []
+  },
+  {
+    "title": "LETHALITY ADJUSTMENTS TABLE",
+    "content": "| Mechanic | High Threat | Medium Threat | Low Threat |\n| :--- | :--- | :--- | :--- |\n| Firearms |\n| Ballistic Armor | As is | 1.5 x Rating | 2 x Rating |\n| Melee Combat|\n| Attack Power | 2 x Power | 1.5 x Power | As is |\n| Magic |\n| Drain Target Number | As is | Force | Force |\n| Spell Resistance Target Number | Force | Force | 1/2 Force |\n\n---",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "lethality_adjustments",
+      "firearms",
+      "melee_combat",
+      "magic",
+      "combat_mechanics"
+    ],
+    "content_type": "table",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 95,
+    "concept": "LETHALITY ADJUSTMENTS TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "The 2050s are an exciting, dangerous time with plenty of opportunity for adventure. And that is where the player characters come in. Whether making a run on some megacorp's mainframe or providing security for a visiting dignitary or busting a friend out of a detention center, they are the heroes.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrunning",
+      "player_characters",
+      "adventure"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 96,
+    "concept": "Introduction to Shadowrunning and player characters' roles",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "The adventures a gamemaster creates should challenge the players' wits even more than their guns, and he should reward good roleplaying as much or more than lucky dice-rolling.",
+    "category": "general",
+    "subcategory": "gamemastering",
+    "tags": [
+      "gamemaster",
+      "adventures",
+      "roleplaying",
+      "challenge"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 97,
+    "concept": "Gamemaster's role in creating challenging adventures",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "When getting a group of players together, the gamemaster ought to learn something of their interests or else his adventures are likely to flop. One of the most important matters to consider in planning the mission is to invent one the players would really like to tackle.",
+    "category": "general",
+    "subcategory": "adventure_planning",
+    "tags": [
+      "gamemaster",
+      "player_interests",
+      "adventure_design"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 98,
+    "concept": "Importance of understanding players' interests for adventure planning",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "But don't expect a lot at first. They probably know less about the ways of the game universe than the gamemaster, and may have only vague ideas about what they want to do. They might want to make money, take on a corrupt corp, deal with elves, and so on.",
+    "category": "general",
+    "subcategory": "introduction",
+    "tags": [
+      "shadowrunning",
+      "game_universe",
+      "player_understanding"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 99,
+    "concept": "Players' initial understanding and vague ideas about the game",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Once they get a few runs under their belts and their characters' life stories take some shape, the players' goals and ideas will gradually become more defined. They may want to hunt down a particular enemy, or find a lost love, or take revenge on a corporation that did them dirty, or find a specific teacher or piece of custom gear.\n\nThe gamemaster can and should build these ideas and suggestions into major themes in his adventures.",
+    "category": "general",
+    "subcategory": "player_goals",
+    "tags": [
+      "shadowrunning",
+      "player_development",
+      "gamemaster_guidance"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 100,
+    "concept": "Evolution of players' goals and ideas over time",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Encourage the players to write out their characters' histories, including background on family, friends, and previous employment. The gamemaster can then draw on those histories to develop adventures that get everyone involved.",
+    "category": "character_creation",
+    "subcategory": "character_history",
+    "tags": [
+      "character_history",
+      "adventure_development",
+      "gamemaster_tools"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 101,
+    "concept": "Encouraging character history writing for adventure development",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "**Be Aware!** The gamemaster has to keep a lot in mind. Listen to what the players say. Keep track of the NPCs: their whereabouts, plans, and so on. Keep a note pad handy for jotting down memos as the adventure rolls along.",
+    "category": "general",
+    "subcategory": "gamemaster_advice",
+    "tags": [
+      "gamemaster",
+      "note_taking",
+      "player_awareness",
+      "npc_tracking"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 102,
+    "concept": "Advice for gamemasters on awareness and note-taking",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "**Be Knowledgeable!** A gamemaster needs to be familiar with the whole game. That does not mean memorizing the whole rulebook, but he or she should be familiar enough with it to be able to find a particular rule or rules quickly when needed. The gamemaster should also have a good knowledge of the basic game systems.",
+    "category": "general",
+    "subcategory": "gamemaster_knowledge",
+    "tags": [
+      "gamemaster",
+      "game_rules",
+      "familiarity",
+      "game_systems",
+      "shadowrunning"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 103,
+    "concept": "Importance of gamemaster knowledge of game rules",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Keep a written outline for the adventure handy for quick reference when necessary. Experienced gamemasters usually improvise more, but those just starting out will usually find it best to think through the adventures in advance and to keep them relatively simple.\n\n**Be Fair!** Stick to the rules. If the gamemaster or players hate something written here, change it. Make sure everyone knows what the new rule is.",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "adventure_outline",
+      "gamemaster_advice",
+      "improvisation"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 104,
+    "concept": "Advice on outlining adventures for gamemasters",
+    "dependencies": [
+      "Be Knowledgeable!"
+    ]
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Remember that the gamemaster knows much more about what is happening than the NPCs do. The gamemaster may know the player characters' skills, weapons, spells, and so on, but the NPCs do not. It would be unfair to let the NPCs behave and make plans based on that knowledge.",
+    "category": "general",
+    "subcategory": "npc_knowledge",
+    "tags": [
+      "npc",
+      "gamemaster",
+      "fairness",
+      "player_characters",
+      "knowledge"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 105,
+    "concept": "Maintaining fairness regarding NPC knowledge",
+    "dependencies": [
+      "Be Fair!"
+    ]
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "**Be Realistic!** Remember also that the NPCs played by the gamemaster are people, with fears, needs, hopes, and desires. By giving them life, the stories that come out of the game will be more memorable for everybody involved.",
+    "category": "general",
+    "subcategory": "npc_creation",
+    "tags": [
+      "npc",
+      "storytelling",
+      "realism",
+      "gamemaster"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 106,
+    "concept": "Creating realistic NPCs for memorable storytelling",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Play critters like real critters, too. For example, most animals have little or no interest in killing for pleasure. They fight out of necessity-to eat, to protect their young, to save their own hides.",
+    "category": "general",
+    "subcategory": "realism",
+    "tags": [
+      "animals",
+      "realism",
+      "gameplay",
+      "critters"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 107,
+    "concept": "Realism in portraying animals in the game",
+    "dependencies": [
+      "Be Realistic!"
+    ]
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "**Be Flexible!** If a player wants to do something not explicitly covered in the rules, don't just refuse on principle. There is always a skill rating of some kind that can be used for a test. Tell the player what skill or Attribute applies to the situation and whether the chances are good, indifferent, or terrible.",
+    "category": "general",
+    "subcategory": "flexibility_in_rules",
+    "tags": [
+      "flexibility",
+      "rule_application",
+      "player_interaction",
+      "skill_usage"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 108,
+    "concept": "Encouraging flexibility in rule application",
+    "dependencies": []
+  },
+  {
+    "title": "SHADOWRUNNING",
+    "content": "Don't reveal the precise target numbers, just hint at whether or not the intended action or move is possible. If a new rule is created to cover a special situation during a game, decide later what to do with it.\n\nIt might become a new 'house rule' that will always apply in future, or a one-shot solution that may or may not be used again.",
+    "category": "general",
+    "subcategory": "gameplay_guidance",
+    "tags": [
+      "house_rule",
+      "game_mastering",
+      "player_actions",
+      "rule_creation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 109,
+    "concept": "Guidance on handling new rules and player actions",
+    "dependencies": [
+      "Be Flexible!"
+    ]
+  },
+  {
+    "title": "DEATH AND SHADOWRUNNING",
+    "content": "In any roleplaying game, death is a touchy subject. Nobody likes it when a favorite character buys the farm. In Shadowrun, agricultural property can come very cheap. Characters can get splattered before they know what is happening. Despite all the special rules and hi-tech medicine, player characters are going to die.\n\nSometimes, the gamemaster may have to cheat to keep characters alive. If, in the gamemaster's opinion, the player did everything right and just had bad luck in rolling dice, the character does not have to die. Knock the character out! Stick him in the hospital! Whatever! Don't let a well-developed character die just because the player rolled a 2 when the character needed a 3. The gamemaster can and should decide that he stays alive long enough to get to a hospital.\n\nThe same goes for the best NPCs. If the villain the gamemaster spent hours designing gets hit by a lucky shot and does not resist the damage, the body can always be buried under a collapsing building or suffer some other disaster that \"no one could possibly survive.\" A few months later, the villain can show up, held together by glue and cyberware, ready for revenge against the player characters.\n\n---",
+    "category": "general",
+    "subcategory": "death_and_character_survival",
+    "tags": [
+      "death",
+      "gamemaster",
+      "character_survival",
+      "roleplaying",
+      "gameplay"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 110,
+    "concept": "DEATH AND SHADOWRUNNING",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "There are lots of adventures to play and lots of ways to play them. Each of dozens of roleplaying games published has taken a swing at describing how to write a good adventure. There have been hundreds of articles on the subject, too. Experience is the best teacher, but some suggestions and tips for taking care of certain details may help.\n\nThe main elements of an adventure usually include objectives, motivations, and opposition.",
+    "category": "general",
+    "subcategory": "adventure_creation",
+    "tags": [
+      "adventure",
+      "roleplaying",
+      "game_design",
+      "storytelling"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 111,
+    "concept": "Introduction to adventure creation in roleplaying games",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "In order to 'win' the adventure, characters usually have to survive, for starters. Beyond that, the team has to carry out some specific task: find the lost gizmo, rescue the kidnap victim, pay off a debt, kill or capture the villain, or foil his plan. At first, the real objective(s) may not be obvious. The adventuring team may have believed they were doing a run on a corporate mainframe to get the nuyen to pay off their bookie-until they find a file with the plan to clear out a tribal holding so the corp can build a plant. If it so happens that one of the characters belongs to that tribe, the team gets a new objective: foil the plan.",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "adventure_objectives",
+      "storytelling",
+      "game_mastering",
+      "narrative_structure"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 112,
+    "concept": "Objectives in an adventure",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "When writing an adventure, keep track of the objectives and give characters a chance to fulfill them. Let them find clues or be given assignments that reveal objectives. Objectives are worth Karma, so this is important.",
+    "category": "general",
+    "subcategory": "adventure_writing",
+    "tags": [
+      "adventure",
+      "objectives",
+      "karma",
+      "clues",
+      "assignments"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 113,
+    "concept": "Managing objectives during adventure writing",
+    "dependencies": [
+      "Objectives in an adventure"
+    ]
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "Suppose the gamemaster has an adventure all worked out and sends Mr. Johnson to the team with a job offer that will catapult them into the adventure. After listening to the pitch, the team says, 'No thanks, Mr. J. We'll take a big pass on this one.' This may be the time to talk to the players about why they don't want to tackle the adventure. Too dangerous? Too little reward? If the problem is money, push the fees up a little. Some characters might want payment in kind rather than credit: magicians want teachers or supplies, deckers want time on a mainframe to design programs; samurai like access to new hardware, and so on. Everybody likes information, so maybe Mr. Johnson can come up with the passcodes to a certain mainframe, hmmm?",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "adventure_creation",
+      "player_motivation",
+      "gamemaster_tips"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 114,
+    "concept": "Understanding player motivations for adventure participation",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "If the whole premise of the adventure bores the players silly, it may be better to simply scrap this session in favor of a bull session on the kinds of things the players want their characters to do. The more information players give the gamemaster about their characters' lives, beliefs, and psychology, the more material the gamemaster has to build motivation into the adventures. As the players get into the game, characters will acquire friends, enemies, obligations, and quirks. These also can be used to motivate adventurers.",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "adventure_creation",
+      "player_feedback",
+      "character_development",
+      "gamemaster_tips"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 115,
+    "concept": "Adapting adventures based on player feedback and character development",
+    "dependencies": [
+      "Understanding player motivations for adventure participation"
+    ]
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "Most adventures involve some opposition. The team must face and defeat an enemy in order to achieve their objectives. Enemies can be anonymous forces, or they can be very personal. The world of Shadowrun provides a wide array of possible enemies.",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "opposition",
+      "adventure",
+      "enemies",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 116,
+    "concept": "Role of opposition in adventures",
+    "dependencies": []
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "Shadowrunners often tackle big organizations. When possible, they do so obliquely, rather than risk getting smeared by standing in the open and challenging the opposition to come out and fight. Big organizations are usually bureaucratic nightmares, riddled with politics and slow to react. Shadowrunners can dance around the giant, stinging it instead of going head-to-head. Often, corporate opposition is actually an individual who runs a piece of the organization, rather than the whole show. If the team defeats that individual, the larger organization will usually throw the guy to the wolves. Organizations rarely try to exact revenge, because revenge shows no gain on a balance sheet.\n\nOpposition can also come from individuals or from small groups more on a level with the team itself. This can get personal very quickly.",
+    "category": "general",
+    "subcategory": "adventure_design",
+    "tags": [
+      "shadowrunners",
+      "organizational_opposition",
+      "tactics",
+      "corporate_warfare"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 117,
+    "concept": "Strategies for dealing with large organizational opposition",
+    "dependencies": [
+      "Role of opposition in adventures"
+    ]
+  },
+  {
+    "title": "CREATING AN ADVENTURE",
+    "content": "A good enemy is a valuable resource in writing future adventures. Depending on how seriously the shadowrunners work him over, such a foe may want to waste the team for no other reason than revenge. Adventures become a series of duels between the player characters and their relentless foe.",
+    "category": "general",
+    "subcategory": "adventure_development",
+    "tags": [
+      "adventure_creation",
+      "enemies",
+      "storytelling",
+      "revenge"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 118,
+    "concept": "Utilizing enemies for future adventure development",
+    "dependencies": [
+      "Role of opposition in adventures"
+    ]
+  },
+  {
+    "title": "CONTACTS",
+    "content": "\"You are who you know.\" -Street proverb",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "street_proverb",
+      "networking"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 119,
+    "concept": "Introduction to the importance of contacts in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "This chapter includes brief descriptions, including Attribute and Skill Ratings, for non-player characters likely to appear in Shadowrun adventures. The quotes may help the gamemaster get a \"feel\" for the character to help him add life and color to his own roleplaying. In many cases, some items of equipment have not been listed so that gamemasters can tailor the gear to their own needs.",
+    "category": "general",
+    "subcategory": "npc_overview",
+    "tags": [
+      "npc",
+      "gamemaster",
+      "roleplaying",
+      "character_descriptions",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 120,
+    "concept": "Overview of the chapter's purpose and content regarding NPCs",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "**LEGWORK** To follow up on or discover clues in an adventure, the player characters need to investigate people, places, and situations. One of the best ways for runners to get the information they need is through their contacts.",
+    "category": "general",
+    "subcategory": "legwork",
+    "tags": [
+      "contacts",
+      "information_gathering",
+      "investigation"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 121,
+    "concept": "Introduction to legwork and the role of contacts in gathering information",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "A success test using Street or Corporate Etiquette, Target Number 4, typically serves to find out what a contact does or does not know. The amount of information available from the contact depends on the number of successes the player achieves. Characters who achieve more than one success gain all the information available to all previous levels of success.",
+    "category": "skills",
+    "subcategory": "etiquette",
+    "tags": [
+      "etiquette",
+      "contacts",
+      "information_gathering",
+      "success_tests"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 122,
+    "concept": "Mechanics of using Etiquette tests to gather information from contacts",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "The gamemaster should try to make the player character's interaction with his contact consist of more than a few abstract die rolls. Play out the meeting in full: contacts are characters with their own lives, points of view, and needs, not simply spigots of information to be turned on and off automatically.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "roleplaying",
+      "gamemaster_advice",
+      "character_interaction",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 123,
+    "concept": "Advice for gamemasters on roleplaying interactions with contacts",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "The player character rolls a number of dice equal to his Etiquette Skill to determine what information the contact knows and is willing to impart. Once the number of successes is determined, the gamemaster can roleplay the encounter with the appropriate information level in mind. Meetings should be tailored to the \"personality\" of specific contacts. Some will prefer a straightforward meet in a specific place, while others will only feel comfortable with elaborate forms of information exchange.",
+    "category": "skills",
+    "subcategory": "etiquette",
+    "tags": [
+      "etiquette",
+      "contacts",
+      "roleplaying",
+      "successes"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 124,
+    "concept": "Details on rolling for Etiquette and customizing meetings with contacts",
+    "dependencies": [
+      "Mechanics of using Etiquette tests to gather information from contacts"
+    ]
+  },
+  {
+    "title": "CONTACTS",
+    "content": "Contacts are generally considered trustworthy, as long as the runners play it safe. A player character should never compromise his contact by later making it obvious where he obtained the information or by revealing that the team may be planning to hit some group with which the contact is affiliated. Are the contact's ties stronger to his group or to the runner? A good runner never tests those ties by placing his contact in a position where he must choose.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "trust",
+      "runner_ethics",
+      "information"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 125,
+    "concept": "Guidelines on maintaining trust with contacts",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "Whether or not the runner has to pay for his contact's services and how long before the contact may want information or a favor in return are questions that add another dimension to these encounters. Dealing with a contact is a two-way street.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "payment",
+      "favors",
+      "interactions"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 126,
+    "concept": "Considerations for payment and favors in contact interactions",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "Those gamemasters who need a base-line value to determine fees for information can use a formula of multiplying the contact's Skill Rating in his or her most appropriate Etiquette by how many successes the player rolled in his Etiquette Test. Multiply that total by the total of the contact's Charisma and Intelligence. Then multiply that final value by 10. The result is in nuyen. Gamemasters will, of course, adjust the base result to reflect the actual contact involved. Normal Negotiation procedures (p. 72) apply to determine the final payment for the information.",
+    "category": "skills",
+    "subcategory": "etiquette",
+    "tags": [
+      "contacts",
+      "information_fees",
+      "etiquette_test",
+      "gamemaster_guidance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 127,
+    "concept": "Formula for calculating fees for information from contacts",
+    "dependencies": [
+      "Considerations for payment and favors in contact interactions"
+    ]
+  },
+  {
+    "title": "CONTACTS",
+    "content": "Runners may also ask their contacts to \"check around,\" \"keep their ear to the ground,\" or some other idiom describing generally listening for news. In such a case, the gamemaster makes an appropriate Etiquette Test for the contact at +2 against the target number given in the information table. (See published Shadowrun adventures.) If the Etiquette Test results in any successes, the contact reports the appropriate information to the runner in 2D6 hours, or at a time determined by the gamemaster. This is an excellent way for gamemasters to make sure that a certain piece of information makes it to the runners. The cost of this service is determined as if the contact had had access to the information initially.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "information_gathering",
+      "etiquette_test",
+      "gamemaster"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 128,
+    "concept": "Mechanics for asking contacts to gather information over time",
+    "dependencies": []
+  },
+  {
+    "title": "CONTACTS",
+    "content": "The gamemaster can add another dimension to legwork by acknowledging that contacts are not always available at the convenience of the runners. Arrangements must be made be...",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "legwork",
+      "contacts",
+      "availability",
+      "gamemaster",
+      "arrangements"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 129,
+    "concept": "Considerations for the availability of contacts during legwork",
+    "dependencies": []
+  },
+  {
+    "title": "CRITTERS",
+    "content": "\"All your weapons and cyberjunk don't mean drek when you hear the barghest HOWL!\" -Ad copy for the simsense thriller Howl.",
+    "category": "lore",
+    "subcategory": "creatures",
+    "tags": [
+      "critter",
+      "barghest",
+      "simsense"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 130,
+    "concept": "CRITTERS",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "The powers, or innate magical abilities, of the Awakened are varied. Following are general descriptions of these powers, which individual creatures may or may not possess.",
+    "category": "magic",
+    "subcategory": "innate_magical_abilities",
+    "tags": [
+      "awakened",
+      "magic",
+      "powers",
+      "abilities",
+      "creatures"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 131,
+    "concept": "Introduction to the powers of the Awakened",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "Virtually all paranormal beings have some form of attack ability. If they rely on simple physical capabilities, the details are given with their statistics. Specialized forms of attack are also noted. These may range from the painful, but mostly annoying, smack on the head with a frying pan by a hearth spirit, to the shattering lightning bolts of the storm spirits.",
+    "category": "combat",
+    "subcategory": "attack_abilities",
+    "tags": [
+      "paranormal_beings",
+      "attack_abilities",
+      "combat_mechanics",
+      "spirits"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 132,
+    "concept": "General description of attack abilities of paranormal beings",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "[GAMEMASTER'S NOTE: When two directly opposing powers, such as accident and guard, are applied to the same character, each makes a test, using the other power's rating as its target number. The effects of the winning power apply, with a rating equal to its net successes. This is called an opposed test. Also note that any game mechanics given with the power descriptions are not intended as hard and fast rules, but as suggestions to the gamemaster. Players can never be absolutely certain of the capabilities of the opposition; a chance always exists that the power will work slightly differently in this particular critter. Uncertainty is a wonderful dramatic tool. Because elementals and nature spirits may be summoned, their powers should remain as consistent as possible.]",
+    "category": "magic",
+    "subcategory": "opposed_tests",
+    "tags": [
+      "opposed_tests",
+      "gamemaster_guidelines",
+      "powers",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 133,
+    "concept": "Guidelines for Gamemasters on handling opposing powers and game mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "**ACCIDENT** Accident power gives a being the ability to cause an apparently normal accident to occur. The nature of the accident and its result will vary according to the terrain the being controls.",
+    "category": "magic",
+    "subcategory": "powers",
+    "tags": [
+      "accident",
+      "magic_power",
+      "awakened"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 134,
+    "concept": "Description of the Accident power",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "A character hit with accident power must make a test using Quickness or Intelligence (whichever is higher), with a target number equal to the Essence of the being using the power. If the character fails the test, its action is lost as it trips, gets a mouthful of leaves, or even a cream pie in the face. Accident is not dangerous in itself, but the environment can make it so. A fall on a narrow mountain ledge, for instance, can be most unfortunate.",
+    "category": "magic",
+    "subcategory": "accident_power",
+    "tags": [
+      "accident_power",
+      "quickness_test",
+      "essence",
+      "action_loss"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 135,
+    "concept": "Mechanics of the Accident power test",
+    "dependencies": [
+      "Description of the Accident power"
+    ]
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "**ALIENATION** Alienation power gives the being the ability to enshroud its victim(s) in an aura that makes the victim invisible to others. Treat this as an invisibility spell, with a Force Rating equal to the being's Essence. A victim will remain under alienation power for a number of hours equal to the empowered creature's Essence.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "alienation",
+      "invisibility",
+      "essence",
+      "magic_power",
+      "awakened"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 136,
+    "concept": "Description of the Alienation power",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "The alienation power is not intended as the kind of beneficial power of invisibility. Victims of alienation are invisible, intangible, and inaudible to those around them. It is as if those afflicted by this power do not exist at all. Drivers will not stop for them, no one talks to them, their friends shoot through them to hit targets. Despair fills their soul.",
+    "category": "magic",
+    "subcategory": "powers",
+    "tags": [
+      "alienation",
+      "invisibility",
+      "effects",
+      "soul",
+      "despair"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 137,
+    "concept": "Effects of the Alienation power on victims",
+    "dependencies": [
+      "Description of the Alienation power"
+    ]
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "The victim must achieve 1 success, using whatever Attribute or skill seems appropriate, against the critter's Essence as the target number, in order to avoid a dangerous situation or to get someone's attention.",
+    "category": "magic",
+    "subcategory": "powers",
+    "tags": [
+      "alienation",
+      "essence",
+      "success_check",
+      "awakened",
+      "mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 138,
+    "concept": "Mechanics for victims of the Alienation power",
+    "dependencies": [
+      "Description of the Alienation power",
+      "Effects of the Alienation power on victims"
+    ]
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "**ANIMAL CONTROL** Some beings have heightened empathy with animals, usually limited to a particular type, such as predators or scaled animals. This power allows the being to automatically prevent that animal from attacking, giving an alarm, and so on.",
+    "category": "magic",
+    "subcategory": "animal_control",
+    "tags": [
+      "animal_control",
+      "magic",
+      "powers",
+      "empathy"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 139,
+    "concept": "Description of the Animal Control power",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "By concentrating, the being can control an individual animal, experiencing the world through its senses and directing its behavior. This behavior would fall within what is normal for the animal's type. That is, a controlled monkey could not drive a car. The number of small animals (cats, rats, and so on) that a creature may control is equal to its (Charisma)D6. A being may control a number of larger animals (wolves, lions, and so on) equal to its Charisma.",
+    "category": "magic",
+    "subcategory": "animal_control",
+    "tags": [
+      "animal_control",
+      "awakening",
+      "charisma",
+      "magic_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 140,
+    "concept": "Mechanics of controlling animals with the Animal Control power",
+    "dependencies": [
+      "Description of the Animal Control power"
+    ]
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "**PARANATURALISM** Earth is home to an almost limitless variety of animals. Even in the trying times of the late twentieth and early twenty-first centuries, new species continued to be discovered while others slipped into extinction.",
+    "category": "lore",
+    "subcategory": "paranaturalism",
+    "tags": [
+      "paranaturalism",
+      "species",
+      "earth",
+      "awakened"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 141,
+    "concept": "Introduction to Paranaturalism and its context",
+    "dependencies": []
+  },
+  {
+    "title": "POWERS OF THE AWAKENED",
+    "content": "During the turbulent period of the Awakening, more new species and subspecies were identified than in any period since the development of scientific classification.",
+    "category": "lore",
+    "subcategory": "species",
+    "tags": [
+      "awakening",
+      "species_discovery",
+      "subspecies",
+      "magical_creatures"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 142,
+    "concept": "Impact of the Awakening on species discovery",
+    "dependencies": [
+      "Introduction to Paranaturalism and its context"
+    ]
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "The following descriptions are excerpted from the well-respected *Paterson Field Guide Series, volume 23, Field Guide to the Awakened.*",
+    "category": "lore",
+    "subcategory": "awakened_beings",
+    "tags": [
+      "awakened_beings",
+      "paterson_field_guide",
+      "magical_creatures"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 143,
+    "concept": "Source of the descriptions for awakened beings.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "The sizes and weights listed in the identifications are typical of an adult member of the species. Larger (often 10 to 20 percent and occasionally as much as 30 percent) and smaller (typically 60 to 75 percent in a species displaying gender size-differences) individuals are possible. A description of coloration and distinctive physical characteristics follows.",
+    "category": "lore",
+    "subcategory": "awakened_beings",
+    "tags": [
+      "awakened_beings",
+      "size_variations",
+      "species_characteristics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 144,
+    "concept": "Size and weight variations of awakened beings.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "The habitats listed are those preferred by the creature. Obviously, the creatures may be encountered away from that environment, especially if being used as a guardian or watchdog.",
+    "category": "lore",
+    "subcategory": "habitats",
+    "tags": [
+      "awakened_beings",
+      "habitat_preferences",
+      "creature_encounters"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 145,
+    "concept": "Habitat preferences of awakened beings.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "Many beings display magic powers without being magicians, achieving feats possible only through magic, such as the ability to fly in defiance of aerodynamic laws. This magical capability is described as **innate**. Beings that can function as magicians are termed **active**.",
+    "category": "magic",
+    "subcategory": "innate_and_active_magical_capabilities",
+    "tags": [
+      "innate_magic",
+      "active_magic",
+      "magical_beings",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 146,
+    "concept": "Definitions of innate and active magical capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "Many paraspecies are known worldwide. The field guide entry lists the area where the species was originally identified. Usually this was the home range of the natural species from which the paranatural species emerged.",
+    "category": "lore",
+    "subcategory": "paraspecies",
+    "tags": [
+      "paraspecies",
+      "identification",
+      "awakened_beings",
+      "natural_species",
+      "field_guide"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 147,
+    "concept": "Information on paraspecies and their identification.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "Specific powers and weaknesses observed in the species are listed, as are special characteristics such as enhanced senses power. The strengths of certain powers (such as various attack forms) are listed with the creature's game statistics.",
+    "category": "lore",
+    "subcategory": "awakened_beings",
+    "tags": [
+      "awakened_beings",
+      "powers",
+      "weaknesses",
+      "characteristics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 148,
+    "concept": "Overview of powers, weaknesses, and characteristics of awakened beings.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "### BANSHEE\n*Noxplorator letalis*\n\n**Identification:** This creature is indistinguishable from an elf, save that it may appear very gaunt. All elven authorities and many paranatural specialists deny that a banshee is an elf.\n**Similar Species:** The vampire (p. 231) and the wendigo (p. 232) share certain close similarities with this creature.\n**Habitat:** The banshee prefers desolate places near human habitations.\n**Magic Capability:** Many innate abilities, including evidence of active magic capability among some specimens.\n**Habits:** Nocturnal. The banshee is solitary and reclusive except when hunting. Unlike the vampire, it appears to survive completely on Essence derived from its terrified victims. The creature wails, instilling fear to the point of blind panic in its prey, which will flee in mindless terror. The banshee pursues until its victim is physically exhausted, then closes for the kill. The final attack is, apparently, a form of assault, which leaves its target an apparent victim of cardiac arrest. The banshee rarely shows any restraint, almost always draining a victim in the initial attack.\n**Range:** Worldwide\n**Commentary:** Paranaturalist Charles Forte has advanced the hypothesis that the banshee is the typical expression of HMHVV (Human-Metahuman Vampiric Virus) in elves.\n**Powers:** Enhanced Senses (Low-Light Vision; Smell; Hearing), Essence Drain, Fear, Immunity (Age, Pathogens, Toxins), Mist Form, Regeneration\n**Weaknesses:** Allergy (Sunlight, Severe), Essence Loss, Vulnerability (Wood, Silver)",
+    "category": "lore",
+    "subcategory": "creatures",
+    "tags": [
+      "banshee",
+      "paranormal",
+      "creature_description",
+      "magic_capability",
+      "habitat"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 149,
+    "concept": "Detailed description of the Banshee, including identification, habitat, magic capability, habits, range, commentary, powers, and weaknesses.",
+    "dependencies": []
+  },
+  {
+    "title": "SELECTED AWAKENED BEINGS",
+    "content": "### BARGHEST\n*Canis inferni*\n\n**Identification:** The barghest's head and body reach a length of 1.5 meters, but its height at the shoulder is only .9 meters. Its tail measures .7 meters, and its typical weight is 80 kilograms. The barghest resembles an oversized mastiff of pure white or pure black. Its fur is very short and lies flat on its body, which sometimes gives the impression of a naked hide. Its ears are sharply pointed and set high on its head. A protruding spine runs along the back. Even in the absence of reflected light, the barghest's eyes shine red and its teeth glow slightly in the dark because of luminescent bacteria in its saliva. Its skull has 42 teeth. The female barghest has eight mammae.\n**Similar Species:** At night, the barghest is often confused with the common hellhound (not included in this selection), especially in its black variation, but even low light reveals the distinctive wolf-like outline of the hellhound that distinguishes it easily from the barghest.\n**Habitat:** Wilderness ...",
+    "category": "lore",
+    "subcategory": "creatures",
+    "tags": [
+      "barghest",
+      "awakened_beings",
+      "creature_identification",
+      "shadowrun_lore"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-gamemaster-rules-ocr.txt",
+    "chunk_index": 150,
+    "concept": "Detailed description of the Barghest, including identification, similarities to other species, and habitat.",
+    "dependencies": []
+  }
+]

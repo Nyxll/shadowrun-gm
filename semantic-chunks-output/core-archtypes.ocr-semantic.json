@@ -1,0 +1,1356 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# ARCHTYPES",
+    "category": "character_creation",
+    "subcategory": "archetypes",
+    "tags": [
+      "archetypes",
+      "character_types",
+      "introduction"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "\"You blow it once in my line of work and you probably ain't never gonna work again. Who's gonna hire you if they know you blew it and a client got geeked? Reputation is everything.\"",
+    "category": "general",
+    "subcategory": "reputation",
+    "tags": [
+      "bodyguard",
+      "reputation",
+      "client_safety",
+      "professionalism"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 1,
+    "concept": "Importance of reputation for a bodyguard",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "\"If you hire me, you can trust me. My eyes see everything, my ears hear everything, but I don't remember anything you want me to forget. That's part of my job. If you don't believe me, what's the point of me working for you?\"",
+    "category": "general",
+    "subcategory": "trust_and_confidentiality",
+    "tags": [
+      "bodyguard",
+      "trust",
+      "confidentiality",
+      "client_relationship",
+      "security"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 2,
+    "concept": "Trust and confidentiality in the bodyguard-client relationship",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "\"Hire me, and you can sleep easy. You're safe in my hands. Nobody gets near you, and if they try, I'll take care of them. I can play it as soft or hard as you want.\"",
+    "category": "combat",
+    "subcategory": "bodyguarding",
+    "tags": [
+      "bodyguard",
+      "safety",
+      "protection",
+      "combat_skills",
+      "adaptability"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 3,
+    "concept": "Assurance of safety and adaptability of a bodyguard",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "\"I'll do anything you say, except when the drek starts to fly. That's when you do exactly as I say. If I say jump, you jump. If I say run, you run. When your life's in danger, it's my brawl game.\"",
+    "category": "combat",
+    "subcategory": "authority",
+    "tags": [
+      "bodyguard",
+      "authority",
+      "dangerous_situations",
+      "brawl_game",
+      "commands"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 4,
+    "concept": "Authority of the bodyguard during dangerous situations",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "The bodyguard is a professional, and personal protection is his specialty. His job can be as boring as guarding a reclusive, housebound computer programmer, or as exciting as protecting the latest sweet young simsense star during her first whirlwind tour of Europe.",
+    "category": "general",
+    "subcategory": "character_roles",
+    "tags": [
+      "bodyguard",
+      "personal_protection",
+      "character_roles",
+      "job_variability"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 5,
+    "concept": "Overview of the bodyguard's role and job variability",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "### Attributes\n* **Body:** 6 (9)\n* **Quickness:** 6\n* **Strength:** 5\n* **Charisma:** 3\n* **Intelligence:** 5\n* **Willpower:** 5\n* **Essence:** 0.2\n* **Reaction:** 5 (9)\n* **Initiative:** 9 + 3D6\n\n### Skills\n* Car: 6\n* Firearms: 6\n* Negotiation: 4\n* Stealth: 2\n* Unarmed Combat: 6\n\n### Dice Pools\n* **Combat:** 8",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "bodyguard",
+      "attributes",
+      "skills",
+      "dice_pools",
+      "character_stats"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 6,
+    "concept": "Attributes of the bodyguard character",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "### Cyberware\n* **Air Filtration:** 5\n* **Dermal Plating:** 3\n* **Skillsofts:**\n * Armed Combat: 3\n * Bike: 3\n * Electronics: 3\n * Rotor: 3\n * Winged: 3\n * (4) Specialized Etiquette softs at 3 points each\n* **Skillwire:** 3\n* **Smartlink**\n* **Wired Reflexes:** 2\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "cyberware",
+      "bodyguard",
+      "enhancements",
+      "skillsofts",
+      "reflexes"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 7,
+    "concept": "Cyberware enhancements for the bodyguard character",
+    "dependencies": []
+  },
+  {
+    "title": "BODYGUARD",
+    "content": "### Gear\n* (3) Spare Clips\n* Ares Predator (with smartlink, 50 rounds exploding ammo)\n* Armor Clothing (3/1)\n* Concealed Holster\n* DocWagon Contract (Gold)\n* High Lifestyle (2 months prepaid)\n* Lined Coat (4/2)\n* Pocket Secretary\n* Portable Phone (ear/boosted)\n* Tres Chic Clothing\n* **Starting Cash:** 11,474¥",
+    "category": "gear",
+    "subcategory": "equipment",
+    "tags": [
+      "bodyguard",
+      "gear",
+      "equipment",
+      "shadowrun",
+      "2nd_edition"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 8,
+    "concept": "Gear and equipment available to the bodyguard character",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "\"No one argues that the samurai is lord of the physical street, but if you view that as the sum of existence, you are not long for this world.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_mage",
+      "magic_importance",
+      "philosophy"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 9,
+    "concept": "Quote emphasizing the importance of magic beyond physical combat.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "\"I am not the average mage. Though I'm interested in all matters arcane, my passion lies in the application of those mystical theories. My lifestyle is expensive, for I cherish all the finer things. One could not enjoy the life I do by poring endlessly through myriad dusty tomes.\"\n\n\"I never worry about money, for my services are most useful to those who can pay me what I am worth.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_mage",
+      "magic_application",
+      "lifestyle",
+      "arcane_theories"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 10,
+    "concept": "Quote describing the combat mage's unique approach to magic and lifestyle.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "The combat mage is from that elite group of magicians dedicated to applying their magic martially. In a firefight, his sudden appearance can tip the balance. The combat mage is a lean, powerful fighting machine, and more than a match for most samurai. It would be foolish, however, for a combat mage to take on a samurai head-to-head. Guile and subterfuge will always be his most powerful tools.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_mage",
+      "magic",
+      "martial",
+      "guile",
+      "subterfuge"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 11,
+    "concept": "Overview of the combat mage's role and capabilities in combat.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "### Attributes\n* **Body:** 2 (3)\n* **Quickness:** 4\n* **Strength:** 2\n* **Charisma:** 2\n* **Intelligence:** 5\n* **Willpower:** 5\n* **Essence:** 5.8\n* **Magic:** 5 (7)\n* **Reaction:** 4\n* **Initiative:** 4 + 1D6\n\n### Skills\n* Conjuring: 3\n* Etiquette (Corp): 2\n* Firearms: 3\n* Magical Theory: 4\n* Sorcery: 6\n* Unarmed Combat: 2\n\n### Dice Pools\n* **Combat:** 7 (9)\n* **Magic:** 6 (8)\n\n### Cyberware\n* **Cybereyes** with Thermographic and Low-Light\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "combat_mage",
+      "attributes",
+      "skills",
+      "dice_pools",
+      "cyberware"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 12,
+    "concept": "List of attributes for the combat mage character.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "### Gear\n* Armor Jacket (5/3)\n* DocWagon Contract (Gold)\n* HK227 SMG (w/laser sight and 50 rounds regular ammo)\n* Middle Lifestyle (1 month prepaid)\n* Power Focus (2)\n* Spell Lock (Armor/2 successes)\n* Spell Lock (Personal Combat Sense/4 successes)",
+    "category": "gear",
+    "subcategory": "weapons",
+    "tags": [
+      "combat_mage",
+      "gear",
+      "spell_locks",
+      "armor",
+      "firearms"
+    ],
+    "content_type": "table",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 13,
+    "concept": "List of gear available to the combat mage.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT MAGE",
+    "content": "### Spells\n* **Combat:**\n * Manaball: 4\n * Mana Bolt: 4\n * Power Bolt: 3\n* **Detection:**\n * Clairvoyance: 3\n * Detect Enemies: 2\n * Personal Combat Sense: 5\n* **Health:**\n * Heal: 3\n * Increase Reaction (+2): 2\n* **Manipulation:**\n * Armor: 3\n * Confusion: 3\n\n* **Starting Cash:** 14,100¥",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_mage",
+      "spells",
+      "spell_types",
+      "shadowrun_2e"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 14,
+    "concept": "List of spells available to the combat mage categorized by type.",
+    "dependencies": []
+  },
+  {
+    "title": "DECKER",
+    "content": "The decker is a console cowgirl, a descendent of the computer hacker of the latter part of the 20th century. She jacks into the Matrix to manipulate the dataflows to her own ends while seeking the big score or the trick that will snug her firmly into the annals of the technomancers. She skirts the edges of legality, overstepping them more than occasionally.",
+    "category": "matrix",
+    "subcategory": "decker",
+    "tags": [
+      "decker",
+      "matrix",
+      "hacking",
+      "role"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 15,
+    "concept": "Introduction to the Decker role in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "DECKER",
+    "content": "Attributes:\n* **Body:** 2\n* **Quickness:** 4\n* **Strength:** 3\n* **Charisma:** 1\n* **Intelligence:** 6\n* **Willpower:** 4\n* **Essence:** 5.5\n* **Reaction:** 5 (7)*\n* **Initiative:** 5 (7)* + 1D6 (2D6)*",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "decker",
+      "attributes",
+      "character_stats",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 16,
+    "concept": "Attributes of the Decker character",
+    "dependencies": []
+  },
+  {
+    "title": "DECKER",
+    "content": "Skills:\n* Bike: 4\n* Computer: 6\n* Computer Theory: 6\n* Computer (B/R): 6\n* Electronics: 6\n* Etiquette (Street): 5\n* Firearms: 3\n* Physical Sciences: 4\n\nDice Pools:\n* **Combat:** 7\n* **Hacking:** 11 (13)*\n\nCyberware:\n* **Datajack**\n* **Headware Memory:** (30 Mp)\n\nContacts:\n* Choose (2) Contacts",
+    "category": "matrix",
+    "subcategory": "hacking",
+    "tags": [
+      "decker",
+      "skills",
+      "hacking",
+      "cyberware",
+      "contacts"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 17,
+    "concept": "Skills available to the Decker character",
+    "dependencies": []
+  },
+  {
+    "title": "DECKER",
+    "content": "Gear:\n* Fuchi Cyber-4 (with Response Increase 1)\n* **Programs:**\n * Bod: 5\n * Evasion: 4\n * Masking: 4\n * Sensors: 5\n * Attack: 6\n * Browse: 4\n * Deception: 4\n* Microtronics Workshop; Table-top Personal Computer (100 Mp)\n* Yamaha Rapier\n* Ruger Super Warhawk (with 10 regular rounds)\n* Middle Lifestyle\n* **Starting Cash:** 10,860¥\n\n*Applies in the Matrix only.",
+    "category": "matrix",
+    "subcategory": "gear",
+    "tags": [
+      "decker",
+      "programs",
+      "equipment",
+      "cyberware",
+      "starting_cash"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 18,
+    "concept": "Gear and equipment available to the Decker character",
+    "dependencies": []
+  },
+  {
+    "title": "DECKER",
+    "content": "Quotes:\n>\"Technomancer, that's what I am. A wizard with technology, not that fuzzy mumbo-jumbo razz. The mighty computer is at my command, trembling to perform my least wish.\"\n>\"You want some Ice cracked, I'm your girl. I've got programs to slide past the best. You got a shadowrun? No sweat. I've done 'em, and come away clean, too. Ain't no corp tracer or groundhound gonna pick up my trail. I hit 'em sharp and hard, then I'm away and running, a ghost in the Grid. The only touch they'll ever make is my street name, and I'll only let 'em have that if I feel like it.\"\n>\"You'd better have plenty on your credstick, chummer. I ain't cheap. I'm a big leaguer, not some junkyen runner. I'm slick and I'm fast, the cutting edge. The Matrix is my home, and I wouldn't have it any other way. You ain't alive till you've jacked in and seen the electron horizon in cyberspace. I'm going places.\"\n>\"Maybe you've heard of Fastjack? Well, forget him! I'm the hot new decker on the Grid, and I'm gonna put him in the history banks.\"",
+    "category": "matrix",
+    "subcategory": "deckers",
+    "tags": [
+      "decker",
+      "matrix",
+      "quotes",
+      "attitude",
+      "skills"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 19,
+    "concept": "Quotes illustrating the Decker's attitude and skills",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "\"They told me you were looking for me. Well, you found me. So turn on the sob story. I got the time. But first, tickle my comp with your credstick. I may have the time, but I haven't got the interest until I know you've got the nuyen. Time takes money, chummer. Just flick the stick into the slot. The box will dump my rates and sheet onto your stick.\"",
+    "category": "general",
+    "subcategory": "business",
+    "tags": [
+      "detective",
+      "payment",
+      "nuyen",
+      "business_approach",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 20,
+    "concept": "Introduction of the detective's business approach and need for payment.",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "\"The sheet will give you the highlights of my illustrious career: maidens rescued (extra charge for preserving original status), the lost found, the necessary lost, but I don't do erasures. No point in going on. I see by your eyes you've already scanned the sheet. Charlie at the precinct, or did Stevie the Snitch pass it on? Don't really matter. If somebody hadn't given you my name, you wouldn't be looking for me.\"\n\n\"Now before we go any further, let me check the cred balance. Whew! You got my interest, all right. What's the job?\"",
+    "category": "lore",
+    "subcategory": "characters",
+    "tags": [
+      "detective",
+      "services",
+      "reputation",
+      "shadowrun",
+      "narrative"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 21,
+    "concept": "Overview of the detective's services and reputation.",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "The detective leads a hard life, balanced between the shadows of crime and the harsh glare of corporate and city life. To keep his own code of honor and justice intact, he makes constant compromises to get through the day, or the night. He won't touch magic, though his cases often involve it, and he won't augment his body, though sometimes his resolve puts him at a disadvantage. He'll tell you that a man has to stand on his own feet.",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "detective",
+      "moral_code",
+      "lifestyle",
+      "shadowrun",
+      "character"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 22,
+    "concept": "Description of the detective's moral code and lifestyle.",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "### Attributes\n* **Body:** 4\n* **Quickness:** 4\n* **Strength:** 3\n* **Charisma:** 3\n* **Intelligence:** 6\n* **Willpower:** 4\n* **Essence:** 6\n* **Reaction:** 5\n* **Initiative:** 5 + 1D6",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "detective",
+      "attributes",
+      "character_stats",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 23,
+    "concept": "List of the detective's attributes and their values.",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "### Skills\n* Biotech: 2\n* Car: 4\n* Computer: 4\n* Etiquette (Corp): 3\n* Etiquette (Street): 4\n* Firearms: 6\n* Negotiation: 6\n* Stealth: 5\n* Unarmed Combat: 6\n\n### Dice Pools\n* **Combat:** 7\n\n### Cyberware\n* None\n\n### Contacts\n* Choose (6) Contacts",
+    "category": "skills",
+    "subcategory": "character_skills",
+    "tags": [
+      "detective",
+      "skills",
+      "proficiency",
+      "dice_pools",
+      "contacts"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 24,
+    "concept": "List of the detective's skills and their proficiency levels.",
+    "dependencies": []
+  },
+  {
+    "title": "DETECTIVE",
+    "content": "### Gear\n* Ares Predator (with 10 rounds)\n* Armor Vest (2/1)\n* Ford Americar (weather-beaten)\n* Low Lifestyle (1 month prepaid)\n* Micro-Recorder\n* Sony Pocket Secretary\n* Walther Palm pistol (with 10 rounds)\n* **Starting Cash:** 12,311¥",
+    "category": "gear_mechanics",
+    "subcategory": "equipment",
+    "tags": [
+      "detective_gear",
+      "starting_cash",
+      "weapons",
+      "lifestyle",
+      "recording_devices"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 25,
+    "concept": "List of the detective's gear and starting cash.",
+    "dependencies": []
+  },
+  {
+    "title": "DWARF MERCENARY",
+    "content": "**Quotes:**\n\n>\"Oh, har-har, I get it. That was a joke, right? I've got news for you, chummer. When I pull the trigger on my FN-HAR, I ain't gonna be the one knocked across the room.\"\n>\"If it's been a hot spot, I've vacationed there. Got the tan and the scars to prove it. Wanna see my passport? Which one?\"\n>\"You've got my last six personal efficiency reports in front of ya, with not a smudge of red ink on any of them. They're certified. If I'd doctored them, you'd know about it. Keep questioning my integrity, though, and they'll be covered in red.\"\n>\"You know my rates. We got a deal or what?\"\n\n**Commentary:**\nThe dwarf mercenary, though a rarity among the corporate armies of the world, is nonetheless a stalwart professional. His size is an advantage in rough terrain where a normal-sized merc would get bogged down or hung up. Too many short jokes, however, and he'll hang you out to die.\n\n***\n\n### Attributes\n* **Body:** 6\n* **Quickness:** 3\n* **Strength:** 5\n* **Charisma:** 2\n* **Intelligence:** 3\n* **Willpower:** 4\n* **Essence:** 5.5\n* **Reaction:** 3\n* **Initiative:** 3 + 1D6\n\n***\n\n### Skills\n* Car: 4\n* Etiquette (Mercenary): 2\n* Firearms: 6\n* Gunnery: 5\n* Stealth: 4\n* Throwing: 4\n* Unarmed Combat: 5\n\n***\n\n### Dice Pools\n* **Combat:** 4\n\n***\n\n### Cyberware\n* **Smartlink**\n\n***\n\n### Contacts\n* Choose (2) Contacts\n\n***\n\n### Gear\n* Armor Clothing (3/1)\n* (2) Defensive Hand Grenades\n* FN-HAR Assault Rifle (100 rounds and laser sight)\n* Low Lifestyle\n* **Starting Cash:** 10,154¥\n\n***\n\n**Notes:** Natural thermographic vision, +2 Body for disease resistance only\n\n***",
+    "category": "character_creation",
+    "subcategory": "character_background",
+    "tags": [
+      "dwarf",
+      "mercenary",
+      "character_concept",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 26,
+    "concept": "DWARF MERCENARY",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "They say the Awakened have no touch for technology. Well, short, squat, and ill-favored, don't believe everything you hear on the street. I am living proof that a metahuman, especially an elf, can ride the Matrix and bend it to his will.",
+    "category": "matrix",
+    "subcategory": "decker",
+    "tags": [
+      "elven_decker",
+      "matrix",
+      "metahuman",
+      "technology",
+      "awakened"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 27,
+    "concept": "Introduction of the elven decker and his capabilities in the Matrix.",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "I am a technomancer, and there isn't a drop of the Rain Dance in the magic I do. My spells are programs, offering reliability no spellworm can boast. My wand is my datajack, portal to the glittering scenery of the Matrix. My conjurings are electrons slaved to my will under the drivers of my elegant and sophisticated software. You will find no better.",
+    "category": "matrix",
+    "subcategory": "technomancy",
+    "tags": [
+      "technomancer",
+      "matrix",
+      "decking",
+      "spells",
+      "programs"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 28,
+    "concept": "Explanation of the elven decker's identity as a technomancer and his relationship with technology.",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "So, tell me what it is you wish me to do. If it piques my interest, I will essay the task and complete it to my satisfaction, which shall certainly exceed your requirements.\n\nThere will, of course, be a fee.",
+    "category": "matrix",
+    "subcategory": "deckers",
+    "tags": [
+      "elven_decker",
+      "tasks",
+      "interest",
+      "fee",
+      "satisfaction"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 29,
+    "concept": "The elven decker's willingness to take on tasks based on interest.",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "The elven decker seems, at first, a contradiction in terms. He is living proof that metahumans cannot be stereotyped, and he will be the first to tell you that not all elves live in the woods. Magic has no attraction for him, and although he has the superior attitude of his brethren in the wilderness, he has little use for their customs and practices. He is happy living in the modern technical world.",
+    "category": "character_creation",
+    "subcategory": "character_concepts",
+    "tags": [
+      "elven_decker",
+      "character_divergence",
+      "metahuman_stereotypes",
+      "modern_tech",
+      "non_magic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 30,
+    "concept": "Commentary on the elven decker's character and his divergence from traditional elven stereotypes.",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "### Attributes\n* **Body:** 2\n* **Quickness:** 5\n* **Strength:** 2\n* **Charisma:** 5\n* **Intelligence:** 5\n* **Willpower:** 4\n* **Essence:** 5.5\n* **Reaction:** 5 (7)*\n* **Initiative:** 5 (7)* + 1D6 (2D6)*\n\n### Skills\n* Bike: 3\n* Computer: 5\n* Computer Theory: 5\n* Etiquette (Elven): 2\n* Etiquette (Street): 2\n* Firearms: 3\n\n### Dice Pools\n* **Combat:** 7\n* **Hacking:** 10 (12)*\n\n### Cyberware\n* **Datajack**\n* **Headware Memory:** (30 Mp)\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "elven_decker",
+      "attributes",
+      "skills",
+      "cyberware",
+      "dice_pools"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 31,
+    "concept": "Attributes of the elven decker, detailing his physical and mental capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "ELVEN DECKER",
+    "content": "### Gear\n* Fuchi Cyber-4 (with Response Increase 1)\n* **Programs:**\n * Bod: 5\n * Evasion: 4\n * Masking: 4\n * Sensors: 5\n * Attack: 6\n * Browse: 4\n * Deception: 4\n* Microtronics Workshop; Table-top Personal Computer (100 Mp)\n* Yamaha Rapier\n* Ruger Super Warhawk (with 10 regular rounds)\n* Middle Lifestyle\n* **Starting Cash:** 10,860¥\n\n**Notes:** Natural low-light eyes.\n*Applies only in the Matrix.",
+    "category": "matrix",
+    "subcategory": "programs",
+    "tags": [
+      "elven_decker",
+      "gear",
+      "programs",
+      "weapons",
+      "starting_cash"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 32,
+    "concept": "Gear and equipment possessed by the elven decker, including programs and weapons.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "\"Let's get one thing understood. I'm a freelancer. I don't work for them anymore. I don't care what you heard about the dust-up over at Aztechnology last month. That wasn't me. I'm a pro. Only amateurs make that big a noise. Besides, nobody saw me.\"",
+    "category": "lore",
+    "subcategory": "corporate_background",
+    "tags": [
+      "former_company_man",
+      "aztechnology",
+      "freelancer",
+      "corporate_disassociation",
+      "shadowrunner"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 33,
+    "concept": "Introduction of the former company man's perspective and his disassociation from his previous employer.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "\"So you're looking for somebody who can do a job and keep his mouth shut? You don't have to look any further. I did a good job for them, and I'll do the same for you. We'll get along just fine as long as you remember one thing: I don't talk about them. Ever. That kind of talk is more trouble than a Beretta full-auto flechette gun shoved in your belly.\"",
+    "category": "general",
+    "subcategory": "character_background",
+    "tags": [
+      "former_company_man",
+      "discretion",
+      "reliability",
+      "shadowrunner",
+      "client_relationship"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 34,
+    "concept": "The former company man emphasizes his discretion and reliability for potential clients.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "\"I did learn one thing when I was working the corp. You don't play without a little quid pro quo, ya know. If I can't do it for you, I know somebody who can. So let's talk price and details. I'm sure we can come to a working arrangement.\"",
+    "category": "general",
+    "subcategory": "business_dealings",
+    "tags": [
+      "quid_pro_quo",
+      "business",
+      "negotiation",
+      "corporate"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 35,
+    "concept": "The former company man discusses the importance of mutual benefit in business dealings.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "The former company man has had his eyes opened to the nature of the corporation he served for so long. Disgusted by the corruption he uncovered, he quit. He is still haunted by his former employers and deeds, but is trying to bury the past. Making a new life is hard. He has little to offer except the skills he used in the company's behalf. He doesn't like it, but he uses them. Some day, he'll retire completely.",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "former_company_man",
+      "corporate_corruption",
+      "character_motivation",
+      "personal_struggles"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 36,
+    "concept": "A commentary on the former company man's background, motivations, and struggles after leaving the corporation.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "### Attributes\n* **Body:** 4\n* **Quickness:** 4 (5)\n* **Strength:** 4 (5)\n* **Charisma:** 2\n* **Intelligence:** 3\n* **Willpower:** 3\n* **Essence:** 1.3\n* **Reaction:** 4 (8)\n* **Initiative:** 8 + 3D6\n\n### Skills\n* Car: 6\n* Computer: 3\n* Demolitions: 2\n* Etiquette (Corp): 4\n* Firearms: 6\n* Stealth: 4\n* Unarmed Combat: 6\n\n### Dice Pools\n* **Combat:** 5\n\n### Cyberware\n* **Datajack**\n* **Muscle Replacement:** (1)\n* **Smartgun Link**\n* **Wired Reflexes:** (2)\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "former_company_man",
+      "attributes",
+      "skills",
+      "cyberware",
+      "contacts"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 37,
+    "concept": "Attributes of the former company man character, detailing physical and mental capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER COMPANY MAN",
+    "content": "### Gear\n* Armor Clothing (3/0)\n* Armor Jacket (5/3)\n* Bug Scanner (4)\n* Earplug Phone with Booster\n* Eurocar Westwind 2000\n* Fichetti Pistol (with internal smartlink, 100 regular rounds)\n* HK227 SMG (with internal smartlink, 100 regular rounds)\n* Jammer (4)\n* Low-Light Goggles\n* Medkit\n* Survival Kit\n* (2) Tranq Patch (5)\n* Trauma Patch\n* White Noise Generator (6)\n* **Starting Cash:** 17,780¥",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "gear",
+      "equipment",
+      "weapons",
+      "former_company_man",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 38,
+    "concept": "List of gear and equipment available to the former company man, including weapons and tools.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "\"You would do well to withdraw your questions as to why I left my former employ. I will not satisfy your curiosity. Ask my old boss if you want to know.\"",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "former_wage_mage",
+      "character_backstory",
+      "mystery"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 39,
+    "concept": "Quote from the former wage mage indicating her unwillingness to discuss her past.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "\"But let us not sour a mutually profitable arrangement over such trivia. While my refusal to speak of the past may seem inconvenient and perhaps a trifle disconcerting, I assure you that I bring no tail behind me. I am a free agent, and am quite capable of keeping any threads from my past from tangling your schemes.\"",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "former_wage_mage",
+      "independence",
+      "character_development",
+      "past",
+      "free_agent"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 40,
+    "concept": "Quote emphasizing her independence and capability to separate from her past.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "\"We are all aware of the state of the world and the changes that are the legacy of our grandfathers' time. I assume that your concerns touch on some of these changes, at least in part. You need a competent mage, well-versed in the fine points of magic.\"\n\n\"Tell me your problem. Once I know what it is, I can begin to solve it.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "former_wage_mage",
+      "competence",
+      "magic_changes",
+      "problem_solving"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 41,
+    "concept": "Quote acknowledging the world's changes and her competence as a mage.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "The former wage mage has had her eyes opened to the nature of the corporation she served for so long. Disgusted by the corruption she uncovered, she quit. She is still haunted by her former employers and the perversion of the magic she performed for their benefit. She wants to forget the past and make a new life. She has the skills she used in the company's behalf and uses them, more positively she hopes, to do good. Some day, the scales will be balanced, and she will be able to rest.",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "former_wage_mage",
+      "corporate_corruption",
+      "redemption",
+      "magic",
+      "character_motivation"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 42,
+    "concept": "Background narrative of the former wage mage's motivations and experiences.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "### Attributes\n* **Strength:** 1\n* **Quickness:** 3\n* **Body:** 2\n* **Charisma:** 1\n* **Intelligence:** 6\n* **Willpower:** 4\n* **Essence:** 6\n* **Magic:** 6\n* **Reaction:** 4\n* **Initiative:** 4 + 1D6\n\n### Skills\n* Conjuring: 6\n* Etiquette (Corp): 5\n* Firearms: 3\n* Magical Theory: 6\n* Negotiation: 2\n* Psychology: 2\n* Sorcery: 6\n\n### Dice Pools\n* **Combat:** 6\n* **Magic:** 6\n\n### Cyberware\n* None\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "former_wage_mage",
+      "attributes",
+      "skills",
+      "magic",
+      "character"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 43,
+    "concept": "Attributes of the former wage mage character, detailing their abilities.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "### Gear\n* Armor Clothing (3/0)\n* **Computer Media Hermetic Library**\n * Conjuring: 3\n * Magical Theory: 3\n * Sorcery: 3\n* Data Display with 60 Mp of storage\n* Ruger Super Warhawk (w/10 rounds of ammo)",
+    "category": "gear",
+    "subcategory": "equipment",
+    "tags": [
+      "former_wage_mage",
+      "gear",
+      "equipment",
+      "armor",
+      "weapons"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 44,
+    "concept": "Gear and equipment available to the former wage mage character.",
+    "dependencies": []
+  },
+  {
+    "title": "FORMER WAGE MAGE",
+    "content": "### Spells\n* Choose one orientation from the following:\n * **Fighter:**\n * Fireball: 5\n * Mana Bolt: 6\n * Powerball: 6\n * Sleep: 5\n * **Healer:**\n * Antidote M Toxin: 2\n * Heal: 3\n * Cure M Disease: 4\n * Detox M Toxin: 3\n * Heal: 6\n * Hibernate: 4\n * Treat: 6\n * **Prowler:**\n * Analyze Device: 5\n * Chaotic World: 5\n * Clairvoyance: 4\n * Entertainment: 3\n * Mask: 3\n * Sleep: 5\n\n* **Starting Cash:** 11,100¥",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "former_wage_mage",
+      "spells",
+      "orientation",
+      "combat",
+      "healing"
+    ],
+    "content_type": "table",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 45,
+    "concept": "List of spells available to the former wage mage, categorized by orientation.",
+    "dependencies": []
+  },
+  {
+    "title": "GANG MEMBER",
+    "content": "**Quotes:**\n\n>\"You don't look so tough to me, but that's okay. Whadd'ya expect from some liner who ain't run with my gang? You looking for tough? You got it right here.\"\n>\"There's only one real power in this part of the 'plex. We know the streets, and the people know us. This is our turf. Gang turf! And we protect it. You want a piece of us, you know where to find us. That is, if you're stupid enough to try.\"\n>\"Anything you need on the street, you come to me. Just remember, you burn me, the gang burns you. Simple law of the 'plex, chummer. We take care of our own.\"\n\n**Commentary:**\nThe gang member may be young, but he is old in the ways of life in the metroplex. He is a survivor, a predator of the concrete jungle. He is tough, smart, and confident.\n\n***\n\n### Attributes\n* **Body:** 5\n* **Quickness:** 6\n* **Strength:** 5\n* **Charisma:** 6\n* **Intelligence:** 4\n* **Willpower:** 4\n* **Essence:** 5.7\n* **Reaction:** 5\n* **Initiative:** 5 + 1D6\n\n***\n\n### Skills\n* Armed Combat: 4\n* Bike: 3\n* Etiquette (Street): 4\n* Firearms: 4\n* Projectile Weapons: 3\n* Stealth: 3\n* Unarmed Combat: 3\n\n***\n\n### Dice Pools\n* **Combat:** 7\n\n***\n\n### Cyberware\n* **Hand Razors**\n* **Cybereyes** with Low-Light\n\n***\n\n### Contacts\n* Choose (4) Contacts\n\n***\n\n### Gear\n* Knife\n* Simsense Player and Half a Dozen Sense Chips\n* Squatter Lifestyle\n* Streetline Special Pistol (with 10 regular rounds)\n* Synth-leathers (0/1)\n* Yamaha Rapier\n* **Starting Cash:** 11,647¥\n\n***\n\n**Notes:** The gang member can call on 2D6 other members for help.\n\n***",
+    "category": "character_creation",
+    "subcategory": "character_background",
+    "tags": [
+      "gang_member",
+      "street_life",
+      "character_concept"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 46,
+    "concept": "GANG MEMBER",
+    "dependencies": []
+  },
+  {
+    "title": "MERCENARY",
+    "content": "**Quotes:**\n\n>\"We're all businessmen, right? We both work for a living, don't we? I got bills to pay, just like you. Only difference is, you work with a cyberdeck. I work with an Uzi III.\"\n>\"Look, my record's good. Three years in the corp's first-run circuit and a clean two with the Aztlan Third Legion. No demotions or discipline problems logged in my jacket. Huh? Don't give me that stuff about doctored records. I'm telling you my record's clean. I can do your job quiet, or I can do it loud. Either way, I'll get results, and that's what you want, isn't it?\"\n>\"Thought so. Now, let's talk price.\"\n\n**Commentary:**\nThe merc is a tough veteran who has seen combat in every corner of the world. He'll work for the corp, the policlubs, a petty dictator, or a noble revolution, as long as he gets paid. The contract is all that matters. Receiving payment on a job has never been a problem for him. No employer would dare to renege on a merc contract.\n\n***\n\n### Attributes\n* **Body:** 5\n* **Quickness:** 4\n* **Strength:** 5\n* **Charisma:** 3\n* **Intelligence:** 4\n* **Willpower:** 3\n* **Essence:** 3.4\n* **Reaction:** 4 (6)\n* **Initiative:** 6 + 2D6\n\n***\n\n### Skills\n* Armed Combat: 6\n* Car: 4\n* Demolitions: 3\n* Firearms: 6\n* Gunnery: 4\n* Military Theory: 2\n* Rotor: 3\n* Stealth: 3\n* Throwing: 3\n* Unarmed Combat: 6\n\n***\n\n### Dice Pools\n* **Combat:** 5\n\n***\n\n### Cyberware\n* **Cybereyes** with Low-Light\n* **Radio Receiver**\n* **Wired Reflexes:** 1\n\n***\n\n### Contacts\n* Choose (2) Contacts\n\n***\n\n### Gear\n* Ares Predator (with external smartlink, 20 rounds regular ammo)\n* Armor Jacket (5/3)\n* Ingram Valiant LMG (with external smartlink, 100 rounds regular ammo)\n* Knife\n* Smart Goggles\n* Throwing Knife\n* **Starting Cash:** 12,750¥\n\n***",
+    "category": "combat",
+    "subcategory": "mercenaries",
+    "tags": [
+      "mercenary",
+      "combat_experience",
+      "hired_gun",
+      "corporate_life",
+      "veteran"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 47,
+    "concept": "MERCENARY",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "\"We were screaming down the dunes when Oldfield's t-bird lifted skirts. Fool thought we had cleared the sight line for their AVMs. Paid for his stupidity. Cost the company two mil on that bird. Oldfield never could slide her down the path the way a rigger's got to. We pulled it out, though. I canceled the rocket team with a twitch of the old trigger muscle and roared my turtle past their sec teams and scrambled the reins before they could hit the main force. Got a nice bonus for that scrap. Good ratings on the first-run circuit, too. Old EBM2 appreciates quality workmanship. Just wanted you to understand what kind of quality you're talking to here.",
+    "category": "general",
+    "subcategory": "narrative_example",
+    "tags": [
+      "rigger",
+      "narrative",
+      "experience",
+      "vehicle",
+      "combat"
+    ],
+    "content_type": "example",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 48,
+    "concept": "Narrative example illustrating the skills and experiences of a rigger.",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "\"Most people don't understand us riggers. Never will, I suppose. You just have to feel it, the adrenalin rush when you rev the old turbines, the air howling over your hull. Ain't nothing like it.\"",
+    "category": "general",
+    "subcategory": "riggers",
+    "tags": [
+      "riggers",
+      "adrenaline",
+      "experience",
+      "perspective"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 49,
+    "concept": "Quote expressing the unique experience and perspective of riggers.",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "The rigger is a specialized breed of console cowgirl. She trades all normal sensations for the input of a cybernetic link-up, typically to a vehicle or a security system. Jacked into her vehicle, the revving of the engine becomes her heartbeat, and the flow of fuel the adrenalin rush. Here she is one with her machine; yet at the end of a run she can separate her perceptions from the machine and walk away without giving it another thought.",
+    "category": "general",
+    "subcategory": "character_roles",
+    "tags": [
+      "rigger",
+      "cybernetic_link",
+      "vehicles",
+      "console_cowgirl",
+      "technology"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 50,
+    "concept": "Description of the rigger's role and connection to technology.",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "### Attributes\n* **Body:** 5\n* **Quickness:** 6\n* **Strength:** 4\n* **Charisma:** 4\n* **Intelligence:** 6\n* **Willpower:** 5\n* **Essence:** 1.35\n* **Reaction:** 6 (10)*\n* **Initiative:** 6 (10)* + 1D6 (3D6)*\n\n### Skills\n* Bike: 4\n* Car: 5\n* Computer: 3\n* Electronics: 3\n* Etiquette (Corp): 1\n* Firearms: 2\n* Gunnery: 4\n* Ground Vehicles (B/R): 2\n\n### Dice Pools\n* **Combat:** 8\n* **Control:** 6 (10)*",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "rigger",
+      "attributes",
+      "skills",
+      "dice_pools",
+      "character_stats"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 51,
+    "concept": "Attributes of a rigger character, including their scores.",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "### Cyberware\n* **Cybereyes** with Low-Light, Flare Protection, and Thermographic Imaging\n* **Datajack**\n* **Radio**\n* **Smartlink**\n* **Vehicle Control Rig:** 2\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "cyberware",
+      "rigger",
+      "gear",
+      "character_creation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 52,
+    "concept": "Cyberware options available for a rigger character.",
+    "dependencies": []
+  },
+  {
+    "title": "RIGGER",
+    "content": "### Gear\n* (2) Surveillance Drones (rigged, with remote gear)\n* Ares Predator (with external smartlink, 20 rounds regular ammo)\n* Armor Jacket (5/3)\n* DocWagon Contract (Platinum)\n* Eurocar Westwind 2000 (rigged, with concealed LMG, 1,000 rounds of belted ammo, and a two-shot Missile Launcher (2 AVMs))\n* Hunter-Spotter Drone (with 2 LMGs and 1,000 rounds of regular belted ammo; remote gear, rigged)\n* Middle Lifestyle\n* Patrol Vehicle (with 2 LMGs and 1,000 rounds of regular belt-fed ammo; remote gear)\n* Remote Control Deck (with three slave ports)\n* **Starting Cash:** 10,315¥\n\n*Applies only when rigged.",
+    "category": "gear",
+    "subcategory": "equipment",
+    "tags": [
+      "rigger",
+      "drones",
+      "vehicles",
+      "weapons",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 53,
+    "concept": "List of gear and equipment available to a rigger character.",
+    "dependencies": []
+  },
+  {
+    "title": "SHAMAN",
+    "content": "**Quotes:**\n\n>\"I am the one you seek. Step closer. Do not be afraid. My medicine is strong, but you will not be harmed if you have no evil intentions toward me.\"\n>\"I knew you were coming. My totem whispered it to me. It is always need that brings them to me. Speak of your desire, that I may gauge your intent.\"\n>\"If your desire is in accord with the land and the spirits, I can help you. Those who aid and guide me can then be called to come to your aid. There will be a price, but it shall be a just price suited to what is done and what you can pay.\"\n\n**Commentary:**\nThe shaman treads the path of the spirits. Festooned with fetishes and the implements of his trade, he walks the land, in tune with its spirit and seeking to preserve its harmony. More than the ordinary mage, he abhors the encroachment of technology, especially that which invades the body.\n\n***\n\n### Attributes\n* **Body:** 3\n* **Quickness:** 3\n* **Strength:** 3\n* **Charisma:** 5\n* **Intelligence:** 4\n* **Willpower:** 6\n* **Essence:** 6\n* **Magic:** 6\n* **Reaction:** 3\n* **Initiative:** 3 + 1D6\n\n***\n\n### Skills\n* Armed Combat: 3\n* Conjuring: 6\n* Etiquette (Tribal): 4\n* Magical Theory: 3\n* Sorcery: 5\n* Stealth: 3\n\n***\n\n### Dice Pools\n* **Combat:** 6\n* **Magic:** 5\n\n***\n\n### Cyberware\n* None\n\n***\n\n### Contacts\n* Choose (2) Contacts\n\n***\n\n### Gear\n* Knife\n* Leather Clothing (0/2)\n* Medicine Lodge Materials: 2\n* Street Lifestyle\n\n***\n\n### Spells\n* Choose one of the following orientations:\n * **Fighter:**\n * Mana Bolt: 4\n * Powerball: 6\n * Sleep: 5\n * **Deceiver:**\n * Chaos: 4\n * Confusion: 5\n * Entertainment: 3\n * Mask: 3\n * **Healer:**\n * Heal: 6\n * Hibernate: 4\n * Treat: 5\n * **Detector:**\n * Analyze Device: 4\n * Clairvoyance: 3\n * Detect Enemies: 3\n * Detect Magic: 5\n\n***\n\n* **Starting Cash:** 10,315¥\n\n***\n\n**Note:** A shaman must select a wilderness totem. See the Magic chapter for details.\n\n***",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "shaman",
+      "spirits",
+      "magic",
+      "totems",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 54,
+    "concept": "SHAMAN",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "\"The streets are where the life is. Life, ya know. The very stuff of magic.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_mage",
+      "life",
+      "magic",
+      "philosophy",
+      "urban"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 55,
+    "concept": "Quote emphasizing the connection between life and magic in the street mage's philosophy.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "\"Those wage mages caught in the corporate rat race just don't understand. You got the power, you take it out and use it. For yourself. For the people. Slotting the clock to turn nuyen for the corp is like selling your body, chummer. You prostitute the magic.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_mage",
+      "corporate_mages",
+      "personal_use",
+      "magic_critique",
+      "advocacy"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 56,
+    "concept": "Quote criticizing corporate mages and advocating for personal use of magic.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "\"I tried their way for a while, you know. But my eyes got opened when I saw the suits and the clock like a tombstone for the future. They didn't have anything to teach me, so I flew. Got out where the life is. They shook their wise old heads and invoked the mighty bottom line. What fossil brains!\"",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "street_mage",
+      "disillusionment",
+      "corporate_life",
+      "personal_journey",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 57,
+    "concept": "Quote reflecting the street mage's disillusionment with corporate life and his decision to pursue a different path.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "\"Look around you. It's life, you know. We're all a part of it, and it's the real power. I'm going to ride that power, chummer. All the way to the heavens.\"",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_mage",
+      "life_power",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 58,
+    "concept": "Quote expressing the street mage's belief in the power of life and his mission to harness it.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "The street mage has left the path of rigorous magical study, seeking his own path of enlightenment and perfection at street level. He has all the heart, energy, and stubbornness of youth. He knows his way will change the world for the better, even if he must engage in activities that seem to contradict his goals. He is sure that everything will all work out in the end.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_mage",
+      "philosophy",
+      "magic",
+      "enlightenment",
+      "youth"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 59,
+    "concept": "Commentary on the street mage's philosophy and approach to magic and life.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "### Attributes\n* **Body:** 3\n* **Quickness:** 3\n* **Strength:** 2\n* **Charisma:** 3\n* **Intelligence:** 4\n* **Willpower:** 5\n* **Essence:** 6\n* **Magic:** 6\n* **Reaction:** 3\n* **Initiative:** 3 + 1D6\n\n### Skills\n* Bike: 2\n* Conjuring: 6\n* Etiquette (Street): 4\n* Firearms: 2\n* Magical Theory: 5\n* Sorcery: 6\n* Stealth: 3\n* Unarmed Combat: 2\n\n### Dice Pools\n* **Combat:** 6\n* **Magic:** 6\n\n### Cyberware\n* None\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "street_mage",
+      "attributes",
+      "skills",
+      "dice_pools",
+      "cyberware"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 60,
+    "concept": "Attributes of the street mage character, detailing physical and mental statistics.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "### Gear\n* Armor Clothing (3/0)\n* Ritual Sorcery Materials (4 Points for Detect or Illusion Spells)\n* Streetline Special Pistol (with 10 rounds regular ammo)",
+    "category": "gear",
+    "subcategory": "weapons",
+    "tags": [
+      "street_mage",
+      "gear",
+      "armor_clothing",
+      "ritual_sorcery",
+      "streetline_special_pistol"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 61,
+    "concept": "Equipment and gear available to the street mage.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET MAGE",
+    "content": "### Spells\n* Choose one orientation from the following:\n * **Fighter:**\n * Mana Bolt: 4\n * Powerball: 6\n * Sleep: 5\n * **Deceiver:**\n * Chaos: 4\n * Confusion: 5\n * Entertainment: 3\n * Mask: 3\n * **Healer:**\n * Heal: 6\n * Hibernate: 4\n * Treat: 5\n * **Detector:**\n * Analyze Device: 4\n * Clairvoyance: 3\n * Detect Enemies: 3\n * Detect Magic: 5\n\n* **Starting Cash:** 10,300¥",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_mage",
+      "spells",
+      "orientation",
+      "magic_system",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 62,
+    "concept": "List of spells available to the street mage, categorized by orientation.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "\"The streets may look like a mess to you, chummer. Just shows that you ain't got eyes. Maybe you should take a trip to Chiba. I hear they got a pair for everybody, so they must have a set for you. Let you see it up close, real time. Like I do. I see the streets as the land of opportunity for a charger. Possibilities everywhere for a guy with an edge.\"",
+    "category": "general",
+    "subcategory": "lore",
+    "tags": [
+      "street_samurai",
+      "urban_life",
+      "opportunity"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 63,
+    "concept": "Introduction to the street samurai's perspective on urban life and opportunity.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "\"What's my edge, you ask. Slot me if I'll spill to you just for the asking! Oh, I've got my edge all right. I'm still blowing air past my teeth, ain't I? That's all the credentials a guy in my business needs.\"",
+    "category": "lore",
+    "subcategory": "character_background",
+    "tags": [
+      "street_samurai",
+      "character",
+      "confidence",
+      "survival"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 64,
+    "concept": "The street samurai's confidence in their skills and survival.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "\"I've done shadowruns since ... well, never mind since when. I may be a street samurai, but I've got enough experience to handle your work. What is it? Muscle down? Lift? Or just a straight-out raid? Hum, your turn to keep it close. That's okay. I can respect that. But you keep something from me that I need to know, and you'll find out just how sharp my edge is. Didn't think you'd like that.\"",
+    "category": "lore",
+    "subcategory": "street_samurai",
+    "tags": [
+      "street_samurai",
+      "shadowrun",
+      "experience",
+      "muscle",
+      "raids"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 65,
+    "concept": "The street samurai's experience and expectations in shadowrunning.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "The street samurai can be male or female, but sex has nothing to do with how tough a street samurai is. Born to the metroplex, he's as tough as its alloy steel bones and as dangerous as ground glass. His augmentations are more than just tools to him; they are his style, his badge of commitment to the hi-tech life of the city. He's chromed and proud of it. Bodyguard or strongarm man, hired muscle or street soldier, he's a lion of the plex, a hunter in the shadows.",
+    "category": "lore",
+    "subcategory": "character_types",
+    "tags": [
+      "street_samurai",
+      "cyberware",
+      "urban_life",
+      "character_identity"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 66,
+    "concept": "Description of the street samurai's identity, toughness, and relationship with technology.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "### Attributes\n* **Body:** 6 (8)\n* **Quickness:** 4 (5)\n* **Strength:** 6 (7)\n* **Charisma:** 2\n* **Intelligence:** 5\n* **Willpower:** 5\n* **Essence:** 0.1\n* **Reaction:** 5 (9)\n* **Initiative:** 9 + 3D6\n\n### Skills\n* Armed Combat: 3\n* Bike: 2\n* Etiquette (Street): 4\n* Firearms: 5\n* Stealth: 4\n* Unarmed Combat: 6\n\n### Dice Pools\n* **Combat:** 7",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "street_samurai",
+      "attributes",
+      "skills",
+      "dice_pools",
+      "combat"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 67,
+    "concept": "Attributes of the street samurai character, detailing their physical and mental capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "### Cyberware\n* **Cybereyes** with Low-Light\n* **Dermal Plating:** 2\n* **Muscle Replacement:** 1\n* **Retractable Hand Razors**\n* **Smartlink**\n* **Wired Reflexes:** 2\n\n### Contacts\n* Choose (2) Contacts",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "street_samurai",
+      "cyberware",
+      "enhancements",
+      "technology"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 68,
+    "concept": "Cyberware enhancements available to the street samurai, illustrating their technological augmentations.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SAMURAI",
+    "content": "### Gear\n* Data Display (100 Mp of memory)\n* Armor Jacket (5/3)\n* Ares Predator (with external smartlink, 50 rounds of regular ammo)\n* DocWagon Contract (Platinum)\n* Harley Scorpion\n* Stun Baton\n* Uzi III (with external smartlink, sound suppressor, 100 rounds of regular ammo)\n* Wrist Phone with flip-up screen\n* **Starting Cash:** 17,270¥",
+    "category": "gear",
+    "subcategory": "equipment",
+    "tags": [
+      "street_samurai",
+      "weapons",
+      "armor",
+      "gear",
+      "starting_cash"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 69,
+    "concept": "Gear available to the street samurai, detailing their equipment and resources.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "\"Others will tell you that only on the land may you find the spirits who guide and nurture. They are sadly wrong. They cling too fervently to the old ways, the old tales. The future calls to all of us, and we must walk new paths to reach it.\"",
+    "category": "lore",
+    "subcategory": "philosophy",
+    "tags": [
+      "street_shaman",
+      "spirits",
+      "future",
+      "philosophy"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 70,
+    "concept": "Quote reflecting the street shaman's philosophy on spirits and the future.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "\"I have found the spirits of the city, and they have power. They lend their power to me, that I can work to see the new paths, that I can walk strong and proud to meet the future.\"",
+    "category": "magic",
+    "subcategory": "urban_spirits",
+    "tags": [
+      "street_shaman",
+      "urban_spirits",
+      "power",
+      "future",
+      "paths"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 71,
+    "concept": "Quote illustrating the street shaman's connection to urban spirits and their power.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "\"Talk to me of your problems. If there is a harmony with my path, I can help you. Those who aid and guide me can be called to your aid. There will be a price, but it shall be a just price suited to what is done as well as your ability to pay.\"",
+    "category": "lore",
+    "subcategory": "street_shaman",
+    "tags": [
+      "street_shaman",
+      "just_price",
+      "spiritual_guidance",
+      "harmony"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 72,
+    "concept": "Quote about the street shaman's willingness to help others and the concept of a just price.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "The street shaman walks the path of the spirits. Festooned with fetishes and the implements of his trade, he haunts the metroplex, in tune with its spirit and seeking to preserve its harmony. Unlike the ordinary shaman, he does not abhor the encroachment of technology, although he finds no personal solace in the fruits of the manufactured world. Like all magicians, he avoids all technology which invades the body.",
+    "category": "magic",
+    "subcategory": "shamanism",
+    "tags": [
+      "street_shaman",
+      "spirits",
+      "technology",
+      "metroplex",
+      "harmony"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 73,
+    "concept": "Description of the street shaman's role, beliefs, and relationship with technology.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "### Attributes\n* **Body:** 4\n* **Quickness:** 3\n* **Strength:** 2\n* **Charisma:** 5\n* **Intelligence:** 4\n* **Willpower:** 6\n* **Essence:** 6\n* **Magic:** 6\n* **Reaction:** 3\n* **Initiative:** 3 + 1D6\n\n### Skills\n* Conjuring: 5\n* Etiquette (Street): 3\n* Firearms: 3\n* Magical Theory: 5\n* Sorcery: 5\n* Stealth: 3\n\n### Dice Pools\n* **Combat:** 6\n* **Magic:** 5\n\n### Cyberware\n* None\n\n### Contacts\n* Choose (2) Contacts\n\n### Gear\n* Medicine Lodge Materials (1)\n* Medkit\n* Ruger Super Warhawk (with 10 rounds regular ammo)",
+    "category": "character_creation",
+    "subcategory": "attributes",
+    "tags": [
+      "street_shaman",
+      "attributes",
+      "skills",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 74,
+    "concept": "Attributes of the street shaman character, defining their physical and mental capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "STREET SHAMAN",
+    "content": "### Spells\n* Choose one orientation from the following:\n * **Fighter:**\n * Mana Bolt: 4\n * Powerball: 6\n * Sleep: 5\n * **Deceiver:**\n * Chaos: 4\n * Confusion: 5\n * Entertainment: 3\n * Mask: 3\n * **Healer:**\n * Heal: 6\n * Hibernate: 4\n * Treat: 5\n * **Detector:**\n * Analyze Device: 4\n * Clairvoyance: 3\n * Detect Enemies: 3\n * Detect Magic: 5\n\n* **Starting Cash:** 11,305¥\n\n**Note:** A street shaman must select an urban totem. See the Magic chapter for details.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "street_shaman",
+      "spells",
+      "urban_totem",
+      "orientation"
+    ],
+    "content_type": "table",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 75,
+    "concept": "List of spells available to the street shaman, categorized by orientation.",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBESMAN",
+    "content": "**Quotes:**\n\n>\"The land is the life of the world. For too many years, we have forsaken our proper role, abandoned our task as guardians. This is our shame. We must now take up the mantle again. The shamans understand this. They are wise men.\"\n>\"Years ago, the Great Ghost Dance promised our fathers salvation. It was so, but not as our fathers foresaw it. The Great Spirit has a deeper plan. He has given us much to aid us in our work. We must provide the rest. We will only see the land prosper if we work to aid it. The old ways are forever gone, but that is not bad. There are new ways now, but that too is not bad. We walk a path between the old and the new; a path of our own choosing, one that will lead us to greatness and the fulfillment of our dreams as long as we do not neglect or forsake the land.\"\n>\"I walk now in the shadows of the towers of steel and glass rather than the shadow of the trees. It is a stalker's path, sometimes a warrior's path. Always I strive to make it a path of honor and wisdom.\"\n\n**Commentary:**\nThe tribesman is a member of one of the local tribes, possibly metahuman, scattered throughout the wilderness. He believes in the sanctity of the land and of the body.\n\n***\n\n### Attributes\n* **Body:** 5\n* **Quickness:** 5\n* **Strength:** 5\n* **Charisma:** 5\n* **Intelligence:** 5\n* **Willpower:** 5\n* **Essence:** 6\n* **Reaction:** 5\n* **Initiative:** 5 + 1D6\n\n***\n\n### Skills\n* Armed Combat: 5\n* Biology: 3\n* Biotech: 3\n* Etiquette (Tribal): 4\n* Projectile Weapons: 6\n* Stealth: 6\n* **Special Skills:**\n * Horseback Riding: 3\n\n***\n\n### Dice Pools\n* **Combat:** 7\n\n***\n\n### Cyberware\n* None\n\n***\n\n### Contacts\n* Choose (2) Contacts\n\n***\n\n### Gear\n* 3 Antidote (4) Patches\n* Binoculars\n* Bow and 20 Arrows\n* Knife\n* Low-Light Goggles\n* Medkit\n* Real Leathers\n* Street Lifestyle\n* Survival Kit\n* Tranq Patch (5)\n* Trauma Patch\n* **Starting Cash:** 12,495¥\n\n***\n\n**Notes:** The tribesman may call on 2D6 members of his tribe for help.",
+    "category": "lore",
+    "subcategory": "cultural beliefs",
+    "tags": [
+      "tribesman",
+      "great_spirit",
+      "shamanism",
+      "cultural_identity",
+      "guardian"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-archtypes.ocr.txt",
+    "chunk_index": 76,
+    "concept": "TRIBESMAN",
+    "dependencies": []
+  }
+]

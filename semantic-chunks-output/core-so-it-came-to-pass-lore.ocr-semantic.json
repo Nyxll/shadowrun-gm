@@ -1,0 +1,1537 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# AND SO IT CAME TO PASS...\n\nWalking the beat those first couple of months was bizarre. You never knew if your partner was going to suddenly grow fangs.\n-Pat Mifflin, retired police officer\n\nToday, in 2053, the world is radically different from that of our great-grandfathers. Where once powerful nations dominated the globe, threatening each other with sudden nuclear annihilation, many smaller, autonomous nations exist, and corporations have taken over the superpowers' once-immense authority. Our science and technology, too, set us apart, with current levels making previous advances look like a child's experiments with a science kit. But that is not all that divides our age irrevocably from the past, for magic has emerged again on Earth and we live in an Awakened world.\n\n---",
+    "category": "lore",
+    "subcategory": "world_background",
+    "tags": [
+      "2053",
+      "awakened_world",
+      "history",
+      "corporate_power",
+      "nations"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "It all began in the late 1990s as the civil unrest that marked the end of the millennium intensified. Alarmed at the state of social and political affairs, the corporations feared to trust their interests to indifferent or, in their eyes, incompetent governments. Beginning with holdings in Third World countries, where they felt the most immediately threatened, corporations armed their security personnel with the finest available equipment and hired professional mercenaries on both long- and short-term contracts. As the tide of civil disobedience and urban violence began to engulf every nation on the globe, the corporations began transferring their paramilitary assets wherever needed. The stage was set.",
+    "category": "lore",
+    "subcategory": "corporate_history",
+    "tags": [
+      "megacorps",
+      "civil_unrest",
+      "1990s",
+      "paramilitary",
+      "corporate_power"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 1,
+    "concept": "Overview of the rise of megacorps and their response to civil unrest in the late 1990s.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "In 1999, food riots in New York City created the flash point. Frightened and angry about a three-month truckers' strike that had stopped the flow of fresh foods into New York, the people took to the streets. Hundreds were killed and thousands injured as violence spread through the city.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "food_riots",
+      "new_york_city",
+      "megacorps",
+      "1999",
+      "social_unrest"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 2,
+    "concept": "Description of the food riots in New York City in 1999 and their impact.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "At one point, a mob attacked a Seretech Medical Research truck hauling wastes, including infectious materials. In what became a running gunfight, Seretech security came to the aid of the corporate truckers, withdrawing them to one of the firm's medical research facilities. More violence followed as the maddened crowd stormed the building. By dawn, 20 Seretech employees were dead and 200 rioters lay lifeless on the grounds and in the street.",
+    "category": "combat",
+    "subcategory": "locations",
+    "tags": [
+      "seretech",
+      "riots",
+      "violence",
+      "corporate_conflict",
+      "medical_research"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 3,
+    "concept": "Details of the attack on the Seretech Medical Research truck during the riots.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "In an attempt to crush the growing corporate armies, the city, then the state and federal governments charged Seretech with criminal negligence. Seretech asserted that in defending their truck from the mob they had prevented its potentially lethal cargo from infecting the population at large. In a landmark decision (*The United States v. Seretech Corporation* (1999)), the Supreme Court upheld Seretech's right to maintain an armed force for the protection of its own personnel and property, and commended the corporation for protecting innocent citizens and honoring its trust to dispose of contaminated materials safely.",
+    "category": "lore",
+    "subcategory": "corporate_law",
+    "tags": [
+      "seretech_incident",
+      "supreme_court",
+      "corporate_armies",
+      "legal_implications"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 4,
+    "concept": "Legal implications of the Seretech incident and the Supreme Court ruling.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "The case set a precedent that led to the Shiawase Decision of 2001 (*The Nuclear Regulatory Commission v. The Shiawase Corporation*), firmly establishing the extraterritoriality of multinational corporations in international law by giving them the same rights and privileges as foreign governments.",
+    "category": "lore",
+    "subcategory": "corporate_law",
+    "tags": [
+      "seretech_case",
+      "shiawase_decision",
+      "corporate_rights",
+      "international_law",
+      "extraterritoriality"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 5,
+    "concept": "Impact of the Seretech case on international law regarding corporate rights.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "More disasters followed. In 2004, Libya unleashed a chemical-weapons attack against Israel. The Israelis responded with a nuclear strike that destroyed half of Libya's cities. Then, in 2005, a major earthquake hit New York City, killing more than 200,000 people and leaving more than 200 billion dollars worth of damage in its wake. It would be 40 years before the city had rebuilt fully, with the help of corporate guidance and funds. In the meantime, the United Nations moved to Geneva and the East Coast Stock Exchange to Boston.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "disasters",
+      "megacorps",
+      "early_2000s",
+      "global_events",
+      "politics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 6,
+    "concept": "Summary of major disasters and their consequences in the early 2000s.",
+    "dependencies": []
+  },
+  {
+    "title": "RISE OF THE MEGACORPS",
+    "content": "The following year, Japan asserted its position as a world power by announcing the creation of the new Japanese Imperial State and deploying the first of a fleet of solar-powered collector satellites to beam microwave energy to receptors on the Earth's surface. With this relatively cheap method of distributing power to isolated regions, Japan began to make strong inroads into the Third World.",
+    "category": "lore",
+    "subcategory": "world_history",
+    "tags": [
+      "japan",
+      "megacorps",
+      "technology",
+      "power_distribution",
+      "global_influence"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 7,
+    "concept": "Japan's emergence as a world power and its technological advancements.",
+    "dependencies": []
+  },
+  {
+    "title": "RESOURCE RUSH",
+    "content": "With their new freedom, the corporations of North America increased their exploitation of the continent's resources with a vengeance. In what the media dubbed \"the Resource Rush,\" corporate coalitions demanded and were granted access to oil, mineral, and land resources on federal lands. In the years 2002-8, the government invoked the right of eminent domain again and again to bring property under its control, only to license its exploitation to a corporate sponsor. Taking the brunt of this land-grab were the Indian reservations and federal parklands.\n\nConservationists and Indian-rights groups expressed their shock and disgust, though corporate influence and paramilitary power made it dangerous to object. Angry and frustrated, the more radical elements founded the Sovereign American Indian Movement (SAIM), whose roots traced back to the Indian-rights struggles of the twentieth century.\n\nThe growing tensions and hatred finally erupted in 2009. On May 5, United Oil Industries announced that it had acquired the right to exploit the petrochemical resources in one-quarter of the remaining federal parks and one-tenth of the Indian lands, which the government had just confiscated. The SAIM reacted immediately. A small band entered the U.S. Air Force's Shiloh Launch Facility in northwest Montana, capturing a missile silo. To this day, no one knows how the raiders managed to bypass the security patrols, but once inside the missile silo, they met up with John Redbourne, a USAF major and a full-blood Dakota Sioux. After knocking his partner unconscious, Redbourne used the man's keys and codes to unlock the launch fail-safes.\n\n---",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "resource_rush",
+      "corporate_exploitation",
+      "native_rights",
+      "environmental_impact",
+      "government_policy"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 8,
+    "concept": "RESOURCE RUSH",
+    "dependencies": []
+  },
+  {
+    "title": "THE LONE EAGLE",
+    "content": "Issuing a demand for the return of all Indian land, the Shiloh raiders threatened to launch the facility's missiles. Ten days of tense negotiations ended when a black-garbed Delta Team invaded the silo. During the struggle, which resulted in the death of all the occupying Indians, a single Lone Eagle intercontinental ballistic missile carrying four MIRVed five-megaton warheads launched.\n\nNORAD command in Cheyenne Mountain watched helplessly as the missile headed for the Russian Republic. All their auto-destruct signals went unheeded, and the military had no interceptors in position to down the bird. Though denying responsibility for the launch, President Jesse Garrety informed Moscow of the targets of each of the missile's multiple warheads, hoping to avert a full-scale retaliation by giving the Russians enough warning to use their semi-secret ballistic defenses to stop the missile.\n\nMoscow was understandably skeptical of Washington's claims that the Lone Eagle launching was an isolated accident and not a trick for making a surgical strike against selected Russian targets. They put their forces on full alert and ordered citizens of the Commonwealth of Independent States to shelters. Meanwhile, in the United States, the public was unaware that it was perilously close to nuclear war.\n\nPresident Garrety waited anxiously, and as later revealed in the celebrated \"back-room tapes,\" he alternately wept, ranted, and prayed. A short time later, Russian President Nikolai Chelenko tersely informed Garrety that the warheads had been stopped. A privately conducted stress analysis of Chelenko's voice later indicated only a 79 percent probability that he spoke the truth, but neither seismic nor space-based sensors recorded any nuclear explosions at that time. Explosion or not, there was definitely fallout from the incident.\n\n---",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "shiloh_raiders",
+      "intercontinental_ballistic_missile",
+      "nord_command",
+      "president_garrety",
+      "russian_republic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 9,
+    "concept": "THE LONE EAGLE",
+    "dependencies": []
+  },
+  {
+    "title": "THE BLAME FALLS",
+    "content": "When the American public learned of the Lone Eagle crisis, the outcry was enormous. Goaded by corporate propagandists, the people began to blame SAIM, and by implication, all Native Americans. This fit well with the larger plans of the megacorporations, principally United Oil Industries, which was not satisfied with the pace of its mineral-asset acquisition. By 2010, the corporations had pressured the government to pass the Re-Education and Relocation Act, originally introduced late in 2009. This new law called for the confinement of anyone connected in any way to SAIM. Abuses of the law were rampant because of the general hatred of Indians. Thousands of innocent Native Americans were sent to concentration camps, euphemistically called \"re-education centers.\" Among those shipped to the Abilene camp was a man named Daniel Coleman, future Prophet of the Great Ghost Dance and the first war shaman of the Native American Nations. History remembers him as Daniel Howling Coyote.\n\nIn a governmental economy measure, Congress soon contracted out management of the re-education camps to the corporations. As the camps gradually dropped out of the media spotlight, overcrowding, poor sanitation, and insufficient medical care began to plague the inmates. Was this a deliberate plan of genocide, as Coleman would one day claim? In one of the great ironies of history, however, the isolation of many tribes in the re-education camps spared them from the scourge that hit the world in 2010.\n\n---",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "lone_eagle_crisis",
+      "native_americans",
+      "corporate_propaganda",
+      "re-education_act",
+      "concentration_camps"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 10,
+    "concept": "THE BLAME FALLS",
+    "dependencies": []
+  },
+  {
+    "title": "TRIBULATIONS",
+    "content": "Virally Induced Toxic Allergy Syndrome (VITAS) broke out first in New Delhi, but within weeks, cases were being reported all over the globe. In the worst epidemic since the Black Plague, a significant percentage of the world's people were dead or dying by the end of 2010. Most fatalities were in outlying areas where medical care was unavailable or in high-population centers where supplies of medicines and interim vaccines were insufficient. China, India, many African nations, and many densely populated Third World cities suffered disproportionately because their medical delivery systems could not provide adequate symptomatic relief.\n\nTragic as the VITAS plague was, it was only the beginning of unprecedented chaos. Beginning with the violent dissolution of the Mexican government in January 2011, more governments fell in the next five years than in any similar span in history. Famine stalked the world, adding to the already-lengthy rolls of the dead. Massive civilian protests led to raids on European nuclear power plants, three of which suffered meltdowns. Radiation fallout was extensive and damaging.\n\n---",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "vitas",
+      "plague",
+      "global_crisis",
+      "chaos",
+      "medical_systems"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 11,
+    "concept": "TRIBULATIONS",
+    "dependencies": []
+  },
+  {
+    "title": "THE AWAKENING",
+    "content": "It was uncanny. They just ignored us, but it was more like they never heard a word we said. I thought it might have been the thunder that was drowning out the loudspeaker, but my boss didn't agree. He decided to make good his threat to fire if they didn't stop. I was scared, though, what with the spooky way them Injuns was acting. When the others started firing, I did, too. But the Injuns just kept walking. And that Coleman fella was kinda like glowing. I know the scientists say it was just a trick of the light, some kind of reflection from the lightning. I still swear I hit him clean two or three times, but he just kept on walking.\nWhen they got to the gate, which had blown open in the wind, they just waltzed right on out. We didn't go after them that night 'cause of the storm. Next morning, we couldn't find a trace. It was really weird.\n-Testimony given before the Abilene Official Investigating Commission, by Harry Wood, a guard at the Abilene Re-education Center on December 24, 2011\n\nOn the heels of VITAS came the frightening phenomenon later named Unexplained Genetic Expression, or UGE. All over the world, mutant and changeling children were being born to \"normal\" parents. Newsweek dubbed these UGE children \"elves and dwarfs,\" and it seemed that the Apocalypse had finally arrived. The year 2011 is now remembered as the Year of Chaos.\n\nWith miracles and calamities being reported in every nation, religions rose and died. Prophets appeared, proclaiming the end of the world. One of these emerged from the despair of a re-education camp. On December 24, at the same moment that hundreds of Japanese witnessed the first appearance of the great dragon Ryumyo as they sped past Mount Fuji on a bullet train, the Prophet of the Great Ghost Dance, Daniel Howling Coyote, led his followers out of the Abilene Re-Education Center.\n\nBy then, there was no question: magic had returned to the world.\n\n---",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "awakening",
+      "spiritual",
+      "natives",
+      "mystical",
+      "storm"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 12,
+    "concept": "THE AWAKENING",
+    "dependencies": []
+  },
+  {
+    "title": "THE SIXTH WORLD",
+    "content": "What is known as the Year of Chaos was actually the end of the old age and the beginning of the new, the dawn of the Awakened world. Some mystics point to the Mayan calendar as an authority, noting that it predicts the start of a new cycle of humanity on December 24, 2011. They also say the appearance of the dragon Ryumyo is the signpost marking what the Mayans called the emergence of the Sixth World.\n\nHad they done better research, these dreamers would have discovered that the Mayans also predicted a world-destroying calamity that would herald the birth of a new, improved race of humans. Where were these signs and events? It is true that the world faced trials, disasters, and great change, but it is not a new world. It's still good, old Mother Earth, even if she has entered a new phase.\n\nA better model of the change is the historical shift from B.C. to A.D. No one alive at the time knew it had happened. Only hindsight revealed it. Even the calendar had to be backdated to take into account the change.\n\n---",
+    "category": "lore",
+    "subcategory": "world_history",
+    "tags": [
+      "sixth_world",
+      "year_of_chaos",
+      "awakening",
+      "mythology",
+      "mayan_calendar"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 13,
+    "concept": "THE SIXTH WORLD",
+    "dependencies": []
+  },
+  {
+    "title": "THE DANCE",
+    "content": "For years after Daniel Coleman led his cadre of believers out from the Abilene REC compound, he dropped from public view. Information on his activities during that period is minimal, but he was, most certainly, proselytizing. Among Native Americans, those still free as well as those incarcerated in camps or restricted to the ever-shrinking reservations—word spread of a new prophet, a great shaman to whom the spirits had taught a powerful dance. This inspired Native Americans to resist the tyranny of their existence. Many more escaped the camps, eluding the federal and corporate hunters by fleeing into the wilderness. Like their ancestors, they began a guerrilla war against an army that wanted to destroy them. Unlike their ancestors, they had access to the same technology as their enemy, and more.",
+    "category": "lore",
+    "subcategory": "resistance_movements",
+    "tags": [
+      "native_americans",
+      "resistance",
+      "guerrilla_warfare",
+      "shaman",
+      "prophet"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 14,
+    "concept": "Daniel Coleman's activities and the emergence of a new resistance among Native Americans.",
+    "dependencies": []
+  },
+  {
+    "title": "THE DANCE",
+    "content": "In 2014, Daniel Coleman stepped out of the shadows. He called himself Howling Coyote and declared that he was a shaman of the Ghost Dance. Backed by an elite core of fanatics, he announced the formation of the Native American Nations (NAN), a coalition of tribes with the Sovereign Tribal Council at its head. They laid claim to all of North America and demanded the immediate withdrawal of all persons of European, African, and Asian ancestry, threatening dire magical retribution if the demand was not met.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "howling_coyote",
+      "native_american_nations",
+      "ghost_dance",
+      "2014",
+      "magical_retribution"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 15,
+    "concept": "Howling Coyote's declaration and the formation of the Native American Nations.",
+    "dependencies": [
+      "Daniel Coleman's activities and the emergence of a new resistance among Native Americans."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "Of course, the media tried to make a laughingstock of Coleman and his followers. Though magical phenomena had become increasingly commonplace, no one believed any group of persons could enforce such a threat. Jokes of ridicule were still making the talk-show circuit when Howling Coyote and his Ghost Dancers demonstrated their power.",
+    "category": "lore",
+    "subcategory": "media_reaction",
+    "tags": [
+      "howling_coyote",
+      "ghost_dancers",
+      "media",
+      "magical_phenomena",
+      "ridicule"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 16,
+    "concept": "Media reaction to Howling Coyote and the Ghost Dancers' claims.",
+    "dependencies": [
+      "Howling Coyote's declaration and the formation of the Native American Nations."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "In 2014, Redondo Peak erupted, burying Los Alamos, New Mexico under a cloud of ash. Howling Coyote appeared in a vid-cast from a nearby Zuñi reservation. He claimed credit for invoking 'our Mother Earth to punish the children who forsook Her.'",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "redondo_peak",
+      "howling_coyote",
+      "eruption",
+      "los_alamos",
+      "mythology"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 17,
+    "concept": "The eruption of Redondo Peak and Howling Coyote's claim of responsibility.",
+    "dependencies": [
+      "Media reaction to Howling Coyote and the Ghost Dancers' claims."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "Surviving documentation indicates that the U.S. government did not take the claim seriously, except to capitalize on an opportunity to capture the elusive resistance leader and smash his growing movement. Within an hour of Howling Coyote's broadcast, a federal reaction force, composed of the Sixth Air Cavalry Battalion from Fort Hood, Texas, was in the air. The helicopters and support aircraft never reached the Zuñi reservation, however. All were destroyed by the sudden appearance of violent tornadoes. When a second force arrived, the self-proclaimed shaman was long gone.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "howling_coyote",
+      "government_response",
+      "zuñi_reservation",
+      "tornadoes",
+      "federal_reaction_force"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 18,
+    "concept": "Government response to Howling Coyote's broadcast and the failure of the federal reaction force.",
+    "dependencies": [
+      "The eruption of Redondo Peak and Howling Coyote's claim of responsibility."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "The guerrilla war went on, to the great embarrassment of the federal and corporate forces, who seemed unable to see or touch their prey. While frustration mounted in the government, it became harder to enforce news blackouts, and official denials wore increasingly thin. Finally, someone leaked the whole story, and it rocked the government, with President Jesse Garrety forced to take the heat.",
+    "category": "lore",
+    "subcategory": "politics",
+    "tags": [
+      "guerrilla_war",
+      "government_control",
+      "news_blackout",
+      "president_garrety",
+      "leak"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 19,
+    "concept": "Continuation of the guerrilla war and the government's struggle to control the narrative.",
+    "dependencies": [
+      "Government response to Howling Coyote's broadcast and the failure of the federal reaction force."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "That same year, international turmoil and change continued as the Free Republic of Ireland was established and the white-controlled government of South Africa finally dissolved completely.",
+    "category": "lore",
+    "subcategory": "political_changes",
+    "tags": [
+      "global_politics",
+      "ireland",
+      "south_africa",
+      "historical_events"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 20,
+    "concept": "Global political changes occurring in 2014.",
+    "dependencies": [
+      "Continuation of the guerrilla war and the government's struggle to control the narrative."
+    ]
+  },
+  {
+    "title": "THE DANCE",
+    "content": "I heard the words of the prophet when he sat with us around a medicine fire three winters ago. He was a strong man, powerful in body as well as spirit. I was afraid of him. His words were strong, too. He spoke of a new Ghost Dance—a Great Ghost Dance. This time, he said, the magic would work. Unlike the dance our ancestors performed, this one would shatter the oppressive yoke of the white man. He told us that the old prophets had been partly right. Their vision had been clouded, and they had not seen the time for the dance. The world was not yet ready then, but now the time had come. His eyes were bright when he spoke those words, and I believed him. In the morning, he was gone from our hidden camp, but he remained in our hearts.",
+    "category": "lore",
+    "subcategory": "mythology",
+    "tags": [
+      "ghost_dance",
+      "howling_coyote",
+      "native_american",
+      "prophecy",
+      "spirituality"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 21,
+    "concept": "Arthur Redshoulder's account of Howling Coyote and the new Ghost Dance.",
+    "dependencies": []
+  },
+  {
+    "title": "THE INDIAN QUESTION",
+    "content": "Amid the storm of criticism, Garrety was assassinated in late 2016, followed shortly by the assassinations of Russian President Nikolai Chelenko, Prime Minister Lena Rodale of Great Britain, and Minister Chaim Schon of Israel. The assassins of Chelenko, Schon, and Rodale were ultimately killed in violent confrontations. William Springer, the men identified as Garrety's assassin, was never captured.\n\nWilliam Jarman, the new U.S. president, issued the now infamous Executive Order 17-321 immediately upon taking office. One month later, Congress ratified it with the Resolution Act of 2016. The corrupt government had sanctioned Jarman's plan to resolve \"the Indian question\": total extermination of all Native American tribes.\n\nWhile the government huddled with the megacorporations to plan their strategy, Howling Coyote's people had quietly begun their own solution to the \"Indian question.\" It is now known that the Great Ghost Dance began in 2017, as men and women of the tribes all across the continent performed the ritual that Howling Coyote had taught them. They sang his songs and chanted his chants. Their power grew.\n\nWhen the government moved to implement the Resolution Action of 2016, several months of freak weather and other uncanny disturbances disrupted military bases and supply dumps assigned to the plan. With each new delay, the president sacked another general, but refused to commit his forces piecemeal. By August 17, 2017, the government had finally managed to assemble its troops, and the operation began to roll.\n\nThat morning, at 10:32 A.M. Pacific Standard Time, Mount Hood, Mount Rainier, Mount St. Helens, and Mount Adams all erupted in cataclysmic fury. Mother Earth had announced whose side she was on, and even the most skeptical became believers.\n\n---",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "indian_question",
+      "assassinations",
+      "executive_order",
+      "native_american",
+      "government_corruption"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 22,
+    "concept": "THE INDIAN QUESTION",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "Chastened and wary, the federal governments of the United States, Canada, and Mexico sent representatives to Denver to negotiate with the Ghost Dancers in 2018. Three months later, they had hammered out the Treaty of Denver.\n\nIn the treaty, the three governments acknowledged the sovereignty of the Native American Nations (NAN) over most of western North America.\n\nThe document outlined a ten-year population adjustment plan that would relocate all non-Indians off lands belonging to NAN.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "treaty_of_denver",
+      "native_american_nations",
+      "history",
+      "sovereignty"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 23,
+    "concept": "Introduction to the Treaty of Denver and its negotiation process.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "Provisions included the establishment of reservations for non-tribal peoples and corporations, the maintenance of certain cities (such as Seattle) as extraterritorial extensions of the governments that had formerly claimed that land, and the retention of most of the state of California by the United States.\n\nDenver itself was set aside as the 'Treaty City,' under joint administration by the signing parties.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "treaty_of_denver",
+      "governance",
+      "extraterritoriality",
+      "reservations",
+      "denver"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 24,
+    "concept": "Specific provisions of the Treaty of Denver regarding land and governance.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "No one was happy with the Treaty of Denver, but no one had a better solution. The magical capacity of NAN offset the nuclear capacity of the three North American nations, which is why they agreed to give away large portions of their land and wealth.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "treaty_of_denver",
+      "north_america",
+      "politics",
+      "nations",
+      "magic"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 25,
+    "concept": "Contextual background on the dissatisfaction with the Treaty of Denver and the power dynamics involved.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "Though the Native Americans had not achieved their goal of removing all others from their homelands, they had regained control over much of those lands.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "treaty_of_denver",
+      "native_americans",
+      "land_control",
+      "shadowrun_history"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 26,
+    "concept": "Outcome of the Treaty of Denver for Native Americans regarding land control.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "Howling Coyote was named the head of the Sovereign Tribal Council, the NAN governing body. Though he found it difficult to mediate among the bickering that now began to erupt among the various factions, Howling Coyote was probably the only man who could still rally the loyalty of all sides.",
+    "category": "lore",
+    "subcategory": "nations",
+    "tags": [
+      "howling_coyote",
+      "sovereign_tribal_council",
+      "nan",
+      "leadership",
+      "factions"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 27,
+    "concept": "Leadership of the Sovereign Tribal Council and challenges faced by Howling Coyote.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "While the Tribal Council struggled with internecine problems, the people of the United States experienced a new shock of horror when the spaceplane *America* disintegrated in orbit. The wreckage landed in Australia, killing 300 citizens of the small town of Longreach.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "treaty_of_denver",
+      "spaceplane",
+      "america",
+      "us_history",
+      "australia"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 28,
+    "concept": "Incident involving the spaceplane *America* and its impact on the United States.",
+    "dependencies": []
+  },
+  {
+    "title": "TREATY OF DENVER",
+    "content": "Also in 2018, the first-generation ASIST (Artificial Sensory Induction System) technology was created by Dr. Hosato Hikita of ESP Systems, Inc. in Chicago. While the entertainment industry went wild exploiting the commercial aspects of 'simsense,' other researchers saw the technology as a key to containing the data explosion.",
+    "category": "lore",
+    "subcategory": "technology",
+    "tags": [
+      "asist",
+      "technology",
+      "2018",
+      "dr_hosato_hikita",
+      "esp_systems"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 29,
+    "concept": "Development of ASIST technology and its implications in 2018.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "On April 30, 2021, a totally inexplicable phenomena began. All over the world, one out of every ten men and women suddenly metamorphosed into hideous humanoid shapes. For some, the process was short and mild. Others spent days or weeks in the hospital. Some recovered, while others died screaming in agony. In those horrible weeks, two new races of humans were emerging like strange spring flowers under the Awakened sun.",
+    "category": "lore",
+    "subcategory": "goblinization",
+    "tags": [
+      "goblinization",
+      "metamorphosis",
+      "new_races",
+      "awakened_world"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 30,
+    "concept": "Introduction to Goblinization and its effects on the population.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "\"Goblinization\" was the name the media gave to this seemingly catastrophic process, which was but another threshold point in the reemergence of magic. Researchers had their own names for it, mostly polysyllabic mouthfuls or strings of consonants standing in for strings of seemingly unconnected words. Whatever the name, the result was the same. No race or ethnic group was spared as 10 percent of the world's population became what were soon dubbed \"orks\" and \"trolls,\" projecting dark dreams of goblins onto the physical changes the victims suffered.",
+    "category": "lore",
+    "subcategory": "goblinization",
+    "tags": [
+      "goblinization",
+      "orks",
+      "trolls",
+      "magic_reemergence",
+      "phenomenon"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 31,
+    "concept": "Definition and implications of Goblinization as a phenomenon.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "Most of these unfortunates were traumatized by the experience. And if they were not, their loved ones were. Some accepted the media's name for them as license to act like the ghouls and goblins of legend, with many incidents of violence.",
+    "category": "lore",
+    "subcategory": "goblinization",
+    "tags": [
+      "goblinization",
+      "psychological_impact",
+      "trauma",
+      "violence",
+      "societal_reaction"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 32,
+    "concept": "Psychological impact of Goblinization on individuals and their families.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "Had it ended there, surely the psychological wounds would have healed in time. But some \"normal\" children also began to change as they grew older, joining the ranks of the so-called orks and trolls. These either grouped with their own kind or mated with great-hearted souls who could see past the physical shells. The offspring of such unions were sometimes normal and sometimes produced the new racial types. Not all the \"normal\" children remained that way, however. Many suddenly underwent goblinization at puberty, and the awful trauma and its associated maladjustments cycled again through the community.",
+    "category": "lore",
+    "subcategory": "goblinization",
+    "tags": [
+      "goblinization",
+      "racial_changes",
+      "psychological_trauma",
+      "offspring",
+      "community"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 33,
+    "concept": "Continuation of Goblinization effects, including generational changes and trauma.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "UGE, goblinization, and the violence it spawned consumed the people of Earth for much of the next year. Where the color of men's skins had once been the great barrier, the people of Earth now began to hate and fear the new \"races,\" the emerging elves, dwarfs, orks, and trolls. In the year 2022, race riots wracked the globe on a scale never before seen.",
+    "category": "lore",
+    "subcategory": "social_issues",
+    "tags": [
+      "goblinization",
+      "race_riots",
+      "social_tension",
+      "uge",
+      "new_races"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 34,
+    "concept": "Social consequences of Goblinization, including racial tensions and violence.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "In the turmoil, new nations emerged when states split from parent countries or coalesced out of two or more units. In the North American sphere, the most important of these were an independent Quebec and the newly formed Caribbean League.",
+    "category": "lore",
+    "subcategory": "political_changes",
+    "tags": [
+      "goblinization",
+      "political_upheaval",
+      "new_nations",
+      "north_america",
+      "societal_changes"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 35,
+    "concept": "Political changes resulting from the societal upheaval caused by Goblinization.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "The U.S. government declared martial law for several months in a futile attempt at control, while reports trickling out of Russia and others in the Commonwealth of Independent States told of death on a massive scale. In fear for their lives, many of the changed beings went into hiding, whether underground, into the wilderness, or in communities of their own kind.",
+    "category": "lore",
+    "subcategory": "societal_reactions",
+    "tags": [
+      "goblinization",
+      "government_response",
+      "societal_reactions",
+      "martial_law",
+      "communities"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 36,
+    "concept": "Government response and societal reactions to Goblinization.",
+    "dependencies": []
+  },
+  {
+    "title": "GOBLINIZATION",
+    "content": "As the year drew to a close, however, another specter more gruesome than any ork or troll raised its head as a new wave of the VITAS plague swept the planet.",
+    "category": "lore",
+    "subcategory": "plagues",
+    "tags": [
+      "goblinization",
+      "vitas_plague",
+      "crisis",
+      "ork",
+      "troll"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 37,
+    "concept": "Introduction of the VITAS plague as a new crisis following Goblinization.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "Though humanity was suffering through another devastating crisis, science and technology marched on. In 2024, the first simsense entertainment unit (a kind of sensory VCR) became available. The unit offered the user rudimentary sense impressions with full awareness that the experience was a simulation. Also in this year, the experimental 'remote-vote' system was used in the U.S. presidential election for the first time. President Jarman was reelected by landslide victories in urban centers, though the opposition claimed fraud. Meanwhile, the NAN relocations continued in a relatively peaceful manner despite continued provocation by the hostile Jarman White House.",
+    "category": "lore",
+    "subcategory": "historical_context",
+    "tags": [
+      "2024",
+      "technology",
+      "politics",
+      "simsense",
+      "NAN"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 38,
+    "concept": "Introduction to the technological advancements and political context of 2024.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "In 2025, magic joined the ranks of science at last, when UCLA gave it academic recognition by establishing the first undergraduate program in occult studies. Within two years, technical magic programs and magical research facilities were established at Texas A & M and MIT, with the latter adding '& M' to its name (for 'and Magic').",
+    "category": "magic",
+    "subcategory": "occult_studies",
+    "tags": [
+      "magic",
+      "academics",
+      "occult",
+      "research",
+      "education"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 39,
+    "concept": "Recognition of magic as a field of study and establishment of academic programs.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "While the study of magic was a breakthrough into the astral realm, secret government research was making explorations into another mysterious world: the electronic one. In 2026, the first cyberspace travelers were taking halting steps into what we now call the Matrix. The first cyberterminal was a room-sized isolation chamber with multi-contact point jacks and multiple hook-ups for the operator. These were designed for military-intelligence applications. The first volunteers went mad.",
+    "category": "matrix",
+    "subcategory": "cyberterminals",
+    "tags": [
+      "cyberspace",
+      "matrix",
+      "cyberterminals",
+      "government_research",
+      "military"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 40,
+    "concept": "Introduction to the development of cyberspace and the first cyberterminals.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "In 2027, science tapped another source of power, this time in the sunlit world. After years of pursuing the dream of table-top cold fusion power, the first power plant went on-line. Though the dream of tiny generators was not able to be fulfilled, the research led to breakthroughs that made possible the construction of large power plants.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "cold_fusion",
+      "power_plant",
+      "advancements",
+      "2027",
+      "energy_sources"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 41,
+    "concept": "Advancements in cold fusion power and the establishment of the first power plant.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "The other breakthrough of this year was the refinement of cyberterminals. As computer systems became increasingly complex during the late twentieth century, many programs replaced lengthy strings of commands with simple pictures, or icons, that symbolized specific commands or programs. The user picked the icon wanted, and the computer would do whatever the picture meant. By the late 1990s, a typical user was dealing with so many thousands of icons that data-processing systems were breaking down under their own complexity.",
+    "category": "matrix",
+    "subcategory": "user_interfaces",
+    "tags": [
+      "cyberterminals",
+      "user_interfaces",
+      "technology",
+      "icons",
+      "data_processing"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 42,
+    "concept": "Refinement of cyberterminals and the evolution of user interfaces.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "By 2029, Sony Cybersystems, Fuchi Industrial Electronics, and RCA-Unisys had all developed prototype cyberterminals that allowed a user to interface with the world data network via his or her nervous system, which translated the data and issued the commands. Instead of typing in commands or clicking a mouse at an icon, operations were carried out literally at the speed of thought. These early cyberterminals were massive, requiring that the user be in a sensory-deprivation tank. Largely funded by various intelligence agencies, the goal of the research was to allow agents to raid data systems, creating strike teams of 'super hackers.'",
+    "category": "matrix",
+    "subcategory": "cyberterminals",
+    "tags": [
+      "cyberterminals",
+      "data_network",
+      "intelligence_operations",
+      "super_hackers",
+      "technology"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 43,
+    "concept": "Development of advanced cyberterminals and their intended applications for intelligence operations.",
+    "dependencies": []
+  },
+  {
+    "title": "THE RISE OF MAGIC",
+    "content": "In the United States, the CIA, NSA, and IRS pooled their resources to exploit this development. Under the code name of Echo Mirage, they recruited and trained a team of 'cyber-commandos.' Fighting balky equipment and the psychoses induced by the overwhelming sensory signals generated by the primitive cyberterminals, Echo Mirage was advancing toward a workable technology when international disaster struck.",
+    "category": "lore",
+    "subcategory": "background",
+    "tags": [
+      "echo_mirage",
+      "cybertechnology",
+      "cia",
+      "ns",
+      "irs"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 44,
+    "concept": "Formation of the Echo Mirage team and the challenges faced in developing cybertechnology.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "On February 8, 2029, computer systems across the world were attacked, apparently at random, by a virus program of unprecedented power. Systems crashed, their data wiped clean and even their hardware burned out by the effects of the virus. As the killer program spread, governments toppled and the world economy neared collapse.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "crash_of_29",
+      "global_impact",
+      "computer_virus",
+      "economy",
+      "government_fall"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 45,
+    "concept": "Introduction to the CRASH OF '29 event and its global impact.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "During the first quarter of the year, the virus shattered the Grid, the data network that held the world together. By presidential order, Echo Mirage was activated to counteract the virus, but the 'straight-arrow' agents of Echo Mirage were overwhelmed by the psychological demands of psycho-physiological combat in cyberspace.",
+    "category": "matrix",
+    "subcategory": "cybercombat",
+    "tags": [
+      "echo_mirage",
+      "virus",
+      "cyberspace",
+      "psychological_combat",
+      "grid"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 46,
+    "concept": "Description of the immediate response to the virus by Echo Mirage and the challenges faced.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "Echo Mirage's masters responded by recruiting the most brilliant, if erratic, data-processing mavericks from industry and the universities. Their choices were drafted under a presidential emergency order and rammed through a brutal training program. A cadre of 32 men and women graduated with their sanity intact.",
+    "category": "lore",
+    "subcategory": "background",
+    "tags": [
+      "echo_mirage",
+      "data_processing",
+      "virus",
+      "recruitment",
+      "training"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 47,
+    "concept": "Recruitment and training of a specialized cadre by Echo Mirage to combat the virus.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "It was not until August 2029, however, that the new cadre, armed with improved cybertechnology, could mount a coordinated attack on the killer program.",
+    "category": "lore",
+    "subcategory": "timeline",
+    "tags": [
+      "echo_mirage",
+      "virus_attack",
+      "cybertechnology"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 48,
+    "concept": "Timeline of Echo Mirage's preparation and the eventual coordinated attack on the virus.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "Eighteen minutes after engaging the virus, four members of Echo Mirage were dead. When the data logs were analyzed, two things became apparent. First, the virus program could induce lethal biofeedback in humans accessing the Matrix. Second, no existing computer security could even slow down someone using a cyberterminal.",
+    "category": "matrix",
+    "subcategory": "virus",
+    "tags": [
+      "matrix",
+      "virus",
+      "biofeedback",
+      "echo_mirage"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 49,
+    "concept": "Consequences of the initial engagement with the virus and the findings from data logs.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "The corporations involved in the effort were horrified at the ease with which Echo Mirage penetrated their most secure data systems. In reaction, secret corporate research was begun to develop new security software that could repel intruders using a Matrix interface. This included research to duplicate the lethal effects generated by the virus. The resulting software was the first generation of intrusion countermeasures, or IC, now known worldwide as 'ice.'",
+    "category": "matrix",
+    "subcategory": "intrusion_countermeasures",
+    "tags": [
+      "corporate_research",
+      "security_software",
+      "intrusion_countermeasures",
+      "echo_mirage",
+      "matrix_interface"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 50,
+    "concept": "Corporate response to the virus and the development of intrusion countermeasures.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "Echo Mirage learned techniques to isolate and contain the virus. Equipped with new combat programs and beefed-up cyberterminals, they began the lengthy task of purging the Grid of infection. By late 2031, they had wiped out the last known concentration of the virus code.",
+    "category": "matrix",
+    "subcategory": "virus containment",
+    "tags": [
+      "echo_mirage",
+      "grid",
+      "virus",
+      "purge",
+      "combat_programs"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 51,
+    "concept": "Efforts by Echo Mirage to isolate, contain, and ultimately purge the virus from the Grid.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "These second-generation terminals used desk-sized hardware and needed no sensory deprivation tank. Shortly after the final purge of the virus, four of the surviving seven members of Echo Mirage decamped into the private sector, taking with them the secrets of the new technology.",
+    "category": "matrix",
+    "subcategory": "technology",
+    "tags": [
+      "echo_mirage",
+      "technology",
+      "post_purge",
+      "terminals"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 52,
+    "concept": "Description of the new technology developed post-purge and the transition of Echo Mirage members to the private sector.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "In May 2034, Matrix Systems of Boston came out with the first 'gray-market' cyberterminal. Six weeks later, Matrix Systems' main computer crashed and its two founders died in apparently unrelated accidents.",
+    "category": "matrix",
+    "subcategory": "cyberterminals",
+    "tags": [
+      "gray_market",
+      "matrix_systems",
+      "cyberterminal",
+      "incidents",
+      "2034"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 53,
+    "concept": "Introduction of the first gray-market cyberterminal and the subsequent incidents involving Matrix Systems.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "From the perspective of the military-industrial complex, the damage had already been done. Matrix technology was loose. Fuchi Industrial was the first major corporation to break ranks against the invasion of the deckers when, in 2036, it marketed its own third-generation cyberdeck, the desktop CDT-1000.",
+    "category": "matrix",
+    "subcategory": "cyberdecks",
+    "tags": [
+      "matrix_technology",
+      "fuchi_industrial",
+      "cyberdeck",
+      "2036",
+      "military_industrial_complex"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 54,
+    "concept": "Impact of the released Matrix technology and Fuchi Industrial's response with a new cyberdeck.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "The majority of cyberdecks sold today are licensed machines that inject a unique signature into the logs of any systems they access, thus recording all legitimate activity in the Matrix. For years, however, pirate users, or deckers, have been acquiring decks and modifying them. Deckers suppress their system's signature and add capabilities that are of little use to an honest cyberterminal operator. That's the way of the world in the 2050s.",
+    "category": "matrix",
+    "subcategory": "cyberdecks",
+    "tags": [
+      "cyberdecks",
+      "deckers",
+      "matrix_activity",
+      "licensing",
+      "modifications"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 55,
+    "concept": "Overview of the current state of cyberdecks, their licensing, and the activities of deckers.",
+    "dependencies": []
+  },
+  {
+    "title": "CRASH OF '29",
+    "content": "Amid all the chaos of the computer crash, another important event of 2029 went relatively unnoticed. In that year, the Native American Nations declared the emerging metahuman races to be welcome in tribal lands.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "native_american_nations",
+      "metahuman_races",
+      "2029_event",
+      "shadowrun_history"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 56,
+    "concept": "Significant but overlooked event in 2029 regarding the Native American Nations and metahuman races.",
+    "dependencies": []
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "The Computer Crash was the death knell of the world-dominators. Already weakened by the catastrophes of the first three decades of the century and exhausted by the trials of the Awakened World, they reeled under the new assault.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "computer_crash",
+      "global_powers",
+      "awakened_world",
+      "catastrophes",
+      "world_dominators"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 57,
+    "concept": "Impact of the Computer Crash on global powers",
+    "dependencies": []
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "For twelve years, beginning in 2030, the people of Europe and Asia fought a series of conflicts now known as the Euro-Wars. With their communication and surveillance systems disrupted, the dominant power of the Russian Republic found the other members of the Commonwealth of Independent States making long-overdue bids for true independence.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "euro_wars",
+      "conflict",
+      "history",
+      "russian_republic",
+      "independence"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 58,
+    "concept": "Overview of the Euro-Wars",
+    "dependencies": [
+      "Impact of the Computer Crash on global powers"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "The conflict was difficult and prolonged as Eastern European powers like Germany and Poland were dragged into the war. Also during this period, the Awakened came to dominate the Western Siberian Lowland, Yukut ASSR, and all other lands to the west of the lowlands. Like the U.S. and Canada, the Soviets lost their wilderness areas to the newcomers.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "euro_wars",
+      "awakened",
+      "eastern_europe",
+      "soviet_union",
+      "conflict"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 59,
+    "concept": "Details of the Euro-Wars and the rise of the Awakened",
+    "dependencies": [
+      "Overview of the Euro-Wars"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "The Crash was a gut punch to the United States of America. In a country that was increasingly dependent on information technologies, the virus was more devastating to the economy than VITAS had been to the population.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "computer_crash",
+      "economic_impact",
+      "usa",
+      "information_technology"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 60,
+    "concept": "Economic impact of the Computer Crash on the USA",
+    "dependencies": [
+      "Impact of the Computer Crash on global powers"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Canada was even worse off. In 2030, what was left of the United States (minus the ceded NAN lands) merged with what was left of Canada, including her major industrial centers and important natural resource areas. The new government was called the United Canadian and American States (UCAS), though there were protests on both sides of the border.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "ucas",
+      "history",
+      "geopolitics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 61,
+    "concept": "Formation of the United Canadian and American States (UCAS)",
+    "dependencies": [
+      "Economic impact of the Computer Crash on the USA"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Almost four years later, a coalition of ten southern states seceded from the union to form the Confederated American States (CAS). The CAS was instantly recognized by Aztlan (formerly Mexico), itself recently separated from NAN. Sentiment ran high, and fears of a second civil war were rampant. Nevertheless, the transition was relatively orderly. Military units, divided in loyalties, split up and moved to their preferred countries with few incidents of violence.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "confederated_american_states",
+      "secession",
+      "history",
+      "politics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 62,
+    "concept": "Secession of southern states and formation of the CAS",
+    "dependencies": [
+      "Formation of the United Canadian and American States (UCAS)"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Europe was not so lucky. In 2031, a desperate Russian Republic steamrollered across Belorussia and launched an invasion of Europe to secure vital industrial and agricultural resources. Russia and her allied forces met unexpectedly tough opposition from Germany, Poland, and NATO, even though the European forces fought without their American allies.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "euro_wars",
+      "russian_invasion",
+      "europe",
+      "nato",
+      "conflict"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 63,
+    "concept": "Russian invasion of Europe during the Euro-Wars",
+    "dependencies": [
+      "Overview of the Euro-Wars"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "In a fit of isolationism, the UCAS Congress had recalled American troops from Europe. Within a year, the European conflict slowed to a deadlock as attrition took its toll. Though the losses in men and materiel had been high on both sides, little territory had actually changed hands.",
+    "category": "lore",
+    "subcategory": "history",
+    "tags": [
+      "american_isolationism",
+      "euro_wars",
+      "conflict",
+      "military",
+      "territory"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 64,
+    "concept": "Impact of American isolationism on the Euro-Wars",
+    "dependencies": [
+      "Russian invasion of Europe during the Euro-Wars"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Then, in late 2032, Russian forces with a precarious hold on much of Poland renewed the war in a surprise attack on Berlin. Their airborne forces, carefully husbanded while the other republics and their allies had taken the brunt of the fighting, initially made great gains. The allies were thrown into confusion, but still managed to slow the offensive. Previously uncommitted in the struggle, Britain stepped in by sending troops into the Low Countries 'to protect British interests.' Further escalation seemed inevitable.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "russian_offensive",
+      "berlin",
+      "british_intervention",
+      "poland",
+      "2032"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 65,
+    "concept": "Renewed Russian offensive and British intervention",
+    "dependencies": [
+      "Impact of American isolationism on the Euro-Wars"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Then, on the frigid night of January 23, 2033, Swedish airspace monitors detected several flights of what appeared to be British Aerospace FA-38 Nightwraith fighter-bombers streaking across northern Europe. In short order, the aircraft obliterated key communications and command centers belonging to both sides. With their offensive plans crippled beyond recovery, the two sides announced a cease-fire the following day. No nation ever claimed responsibility for the Nightwraith strike.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "nightwraith",
+      "euro-wars",
+      "military_history",
+      "cease_fire"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 66,
+    "concept": "The Nightwraith strike and its impact on the Euro-Wars",
+    "dependencies": [
+      "Renewed Russian offensive and British intervention"
+    ]
+  },
+  {
+    "title": "THE SUPERPOWERS",
+    "content": "Though the major fighting was over, the Euro-Wars continued to rage for many years as borders were re-established and occupying troops changed positions. The European Economic Community collapsed. Italy, southern France, and southeastern Europe shattered into hundreds of tiny states and returned to the inefficient city-state politics that had plagued so much of their earlier history.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "euro-wars",
+      "political_fragmentation",
+      "europe",
+      "city-states",
+      "history"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 67,
+    "concept": "Aftermath of the Euro-Wars and political fragmentation in Europe",
+    "dependencies": [
+      "The Nightwraith strike and its impact on the Euro-Wars"
+    ]
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "As the fighting died in Europe, the specter of violence flared again in the Americas when a force of Awakened beings and metahumans led by three great dragons descended on the Amazon basin. In a short but extremely bloody conflict, Brazilian forces had to cede most of the Amazon basin to the invaders. The Brazilian government fell, and two days later, most of their territory was claimed by the newly declared nation of Amazonia, self-acclaimed savior of the eco-sphere.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "amazonia",
+      "conflict",
+      "dragons",
+      "metahumans",
+      "eco-sphere"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 68,
+    "concept": "The emergence of Amazonia as a new nation following conflict in the Amazon basin.",
+    "dependencies": []
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "Turmoil erupted north of the equator, too. When Aztlan, the NAN member that had taken over parts of Mexico and the southwestern portions of Texas as part of the Treaty of Denver, became independent and was no longer under the Sovereign Tribal Council's protection, the Texas State Legislature agitated for a military venture to recover those lost lands.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "aztlan",
+      "texas",
+      "independence",
+      "treaty_of_denver",
+      "politics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 69,
+    "concept": "The independence of Aztlan and its implications for Texas.",
+    "dependencies": []
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "In 2035, the CAS government refused, suspecting that NAN would defend Aztlan, their former member. No one in Atlanta wished to risk the power of the Great Ghost Dance. The angry Texans declared their own independence and launched an invasion. Four months later, a frustrated and embarrassed Texas applied for re-admittance to the CAS.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "texas",
+      "cas",
+      "independence",
+      "history",
+      "nations"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 70,
+    "concept": "Texas's declaration of independence and subsequent application for re-admittance to CAS.",
+    "dependencies": [
+      "The independence of Aztlan and its implications for Texas."
+    ]
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "CAS fears of NAN retaliation were groundless. The Sovereign Tribal Council had its own problems. Having opened its arms to the various metahuman races, NAN was finding that these new children of Mother Earth had their own agenda.",
+    "category": "lore",
+    "subcategory": "politics",
+    "tags": [
+      "sovereign_tribal_council",
+      "nan",
+      "metahuman_races",
+      "internal_conflict",
+      "cas"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 71,
+    "concept": "The internal challenges faced by the Sovereign Tribal Council of NAN.",
+    "dependencies": []
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "A powerful group of Awakened beings and metahumans, mostly elves, were in the process of doing to NAN what NAN had done to the United States. In an unprecedented interruption of worldwide broadcasting, the elves of the Northwest announced the birth of Tir Tairngire (the land of promise) and seceded from NAN in 2035.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "tir_tairngire",
+      "nan",
+      "secession",
+      "awakened_beings",
+      "elves"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 72,
+    "concept": "The secession of Tir Tairngire from NAN and its implications.",
+    "dependencies": [
+      "The internal challenges faced by the Sovereign Tribal Council of NAN."
+    ]
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "Unwilling or unable to resist the move, the Native American Nations did nothing to stop the formation of this new state in the region that was formerly Oregon. Emboldened, the Tsimshian also declared their separation from NAN. In the wake of these defections and renewed internal dissent, Howling Coyote resigned. The shaman of the Great Ghost Dance withdrew into isolation.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "independence",
+      "nan",
+      "tir_tairngire",
+      "tsimshian",
+      "politics"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 73,
+    "concept": "The reactions of NAN to the secession of Tir Tairngire and the Tsimshian.",
+    "dependencies": [
+      "The secession of Tir Tairngire from NAN and its implications."
+    ]
+  },
+  {
+    "title": "INDEPENDENCE FEVER",
+    "content": "Independence fever was contagious. Long isolated from its UCAS parent, California also declared itself a sovereign nation in 2037. Immediately recognizing California as a nation, the powerful Japanese Imperial State followed up by landing troops there to protect Imperial interests from any possible economic disruptions.\n\nWithin five years, San Francisco was almost totally controlled by the Japanese corporations.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "california",
+      "japanese_imperial_state",
+      "sovereignty",
+      "political_conflict",
+      "2037"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 74,
+    "concept": "California's declaration of independence and the response from the Japanese Imperial State.",
+    "dependencies": [
+      "California's declaration of independence and the response from the Japanese Imperial State."
+    ]
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "In 2036, the napalm fire-bombing of a small community in rural Ohio announced the arrival of the New Terrorism. Twenty people, most of them metahumans, died in the flames on that Sunday morning. A group calling itself Alamos 20,000 claimed responsibility. Over the next 15 years, this terrorist group was positively linked to the deaths of more than a thousand metahumans and publicly sympathetic normals.",
+    "category": "lore",
+    "subcategory": "terrorism",
+    "tags": [
+      "new_terrorism",
+      "alamos_20000",
+      "metahumans",
+      "2036",
+      "violence"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 75,
+    "concept": "Introduction of New Terrorism and Alamos 20,000",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "Three years later, metahuman hatred peaked in the Night of Rage. Worldwide riots resulted in the deaths of thousands of metahumans and others cosmetically altered to appear metahuman. In New York City alone, 836 persons perished. Backlashes and incidents of counter-violence were widespread.",
+    "category": "lore",
+    "subcategory": "historical_events",
+    "tags": [
+      "night_of_rage",
+      "metahuman_hate",
+      "riots",
+      "violence",
+      "backlash"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 76,
+    "concept": "The Night of Rage and its consequences",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "Retaliation apparently came in 2041, when EuroAir Flight 329 was destroyed, with no survivors. While en route from London to Atlanta, the aircraft was attacked over the Atlantic by a dragon. A garbled last transmission from the doomed craft seems to indicate that one heroic passenger held the beast off for several minutes with sorcery before passengers and crew were destroyed by the terrorist's fiery breath.",
+    "category": "lore",
+    "subcategory": "events",
+    "tags": [
+      "euroair_flight_329",
+      "dragon_attack",
+      "sorcery",
+      "retaliation",
+      "2041"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 77,
+    "concept": "Destruction of EuroAir Flight 329 and its implications",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "Another important development of 2041 was the birth of policlubs in Europe. These youth-oriented associations were dedicated to promoting various political philosophies. Each policlub proclaimed its intention to impose its viewpoint on the general public by taking the lead in the so-called European Restoration.",
+    "category": "lore",
+    "subcategory": "political_development",
+    "tags": [
+      "policlubs",
+      "europe",
+      "political_philosophies",
+      "2041",
+      "social_movement"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 78,
+    "concept": "Emergence of policlubs in Europe",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "In 2044, Aztlan nationalized all foreign-owned businesses, under heavy pressure from the Aztechnology Corporation. Semi-open warfare broke out as some corporations attempted to hold on to their properties. Using the confusion as a screen, Aztlan annexed most of what was left of Mexico. The exception was the Yucatan, where Awakened forces foiled all takeover attempts.",
+    "category": "lore",
+    "subcategory": "locations",
+    "tags": [
+      "aztlan",
+      "nationalization",
+      "annexation",
+      "mexico",
+      "corporate_conflict"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 79,
+    "concept": "Aztlan's nationalization and annexation of territories",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "By 2046, the policlub idea had migrated to North America. The movement spread quickly, but violence followed in its wake. The Humanis policlub, in particular, has built a major following that cuts across economic, social, and political divisions. Terry Smith, a metahuman rights activist and head of Mothers of Metahumans (MOM), has denounced Humanis as an arm of the shadowy Alamo 20,000, in a series of paid advertisements in major dailies.",
+    "category": "lore",
+    "subcategory": "political_movements",
+    "tags": [
+      "policlub",
+      "humanis",
+      "metahuman_rights",
+      "2046",
+      "alamo_20000"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 80,
+    "concept": "Spread of policlub movement to North America and Humanis",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "In 2048, the Aztlan government negotiated the Veracruz Settlement with several megacorps, in the wake of a combined corporate military strike on Ensenada. In that same year, Alan Adams, former CEO of the Colbert Group, an Illinois-based multinational corporation, was elected president of the UCAS. Edna Wallace, former governor of Louisiana, was elected president of the CAS. Both were re-elected in 2052.",
+    "category": "lore",
+    "subcategory": "politics",
+    "tags": [
+      "veracruz_settlement",
+      "aztlan",
+      "ucas",
+      "cas",
+      "2048"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 81,
+    "concept": "Veracruz Settlement and political elections in 2048",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "The years following 2050 saw the development of the seventh-generation cyberdeck, now keyboard size. In the same period the humanitarian organization the Universal Brotherhood enjoyed international growth. Cyber- and biotechnology continued to advance as a significant percentage of mankind chose to distance themselves from the faults of natural flesh.",
+    "category": "lore",
+    "subcategory": "technological_advancements",
+    "tags": [
+      "cyberdeck",
+      "universal_brotherhood",
+      "biotechnology",
+      "2050",
+      "humanitarian"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 82,
+    "concept": "Technological advancements and the rise of Universal Brotherhood",
+    "dependencies": []
+  },
+  {
+    "title": "NEW VIOLENCE",
+    "content": "Though the hatred between humans and metahumans still simmers, the situation is currently relatively quiet. But in an Awakened world, how long can that last?",
+    "category": "lore",
+    "subcategory": "human-metahuman_relations",
+    "tags": [
+      "human_metahuman",
+      "awakened_world",
+      "social_tension"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-so-it-came-to-pass-lore.ocr.txt",
+    "chunk_index": 83,
+    "concept": "Current state of human-metahuman relations",
+    "dependencies": []
+  }
+]

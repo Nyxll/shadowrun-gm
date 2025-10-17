@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "Practically since the introduction of _Shadowrun_ to the gaming world, players have requested rules for playing shapeshifter characters—Awakened animals with the magical ability to assume human form—and other metatypes. The following rules allow players and gamemasters to create shapeshifter characters and provide guidelines and examples for creating additional metatypes. As always, gamemasters have the final say on whether or not to include these new character types in their games.",
+    "category": "character_creation",
+    "subcategory": "shapeshifters",
+    "tags": [
+      "shapeshifter",
+      "character_creation",
+      "metatypes",
+      "awakened_animals"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to shapeshifter characters and their inclusion in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "### SHAPESHIFTER CHARACTER CREATION TABLE\n\n| Priority | Race | Magic | Attribute Points | Skill Points | Resources (Nuyen/Force Points) |\n| -------- | ------------ | -------- | ---------------- | ------------ | ------------------------------ |\n| A | Shapeshifter | | | | |\n| B | | Magician | Adept | 24 | 30 |\n| C | | | 20 | 24 | 90,000¥/25 |\n| D | | | 17 | 20 | 5,000¥/15 |\n| E | | | 15 | 17 | 500¥/5 |",
+    "category": "character_creation",
+    "subcategory": "shapeshifter",
+    "tags": [
+      "shapeshifter",
+      "character_creation",
+      "priority_table",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 1,
+    "concept": "Table outlining the character creation priorities for shapeshifter characters.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "Shapeshifter player characters enjoy three innate advantages over other characters: the ability to shift between animal and human forms, a dual nature and superior regenerative powers.",
+    "category": "character_creation",
+    "subcategory": "shapeshifters",
+    "tags": [
+      "shapeshifter",
+      "character_advantages",
+      "dual_nature",
+      "regeneration"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 2,
+    "concept": "Overview of the advantages of playing a shapeshifter character.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "#### Animal/Human Form\n\nThe ability to shift between animal and human forms is the primary advantage and distinguishing characteristic of shapeshifters. As noted in the preceding section, shapeshifters receive various Attribute bonuses in both animal and human forms. To switch between forms, a shapeshifter must spend a Complex Action. The transformation from human to animal does not include any of the shapeshifter's equipment or clothing; clothing will be ripped and equipment may be damaged during the transformation if the character does not remove it first.\n\nWhen in animal form, a shapeshifter resembles a mundane member of its species; only its astral presence distinguishes it from a mundane animal. A shapeshifter in animal form can communicate with other members of its species, but cannot speak or use Social skills. Shapeshifter magicians in animal form can cast spells, but cannot use Centering skills or fulfill geasa that their beast-forms cannot perform. In animal form a shapechanger cannot use his or her physical adept powers. They are only usable in human form.",
+    "category": "character_creation",
+    "subcategory": "shapeshifters",
+    "tags": [
+      "shapeshifter",
+      "transformation",
+      "animal_form",
+      "human_form",
+      "attributes"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 3,
+    "concept": "Detailed explanation of the shapeshifter's ability to transform between animal and human forms.",
+    "dependencies": [
+      "Overview of the advantages of playing a shapeshifter character."
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "### SHAPESHIFTER ATTRIBUTE MODIFIERS TABLE\n\n| Species | Modifier |\n| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |\n| Bear | Human Form: +1 Body, +1 Strength Animal Form: +5 Body, -1 Quickness, +5 Strength, -2 Willpower, +1 Reach, Dermal Armor (+2 Body) |\n| Fox | Human Form: +1 Intelligence, +2 Charisma, +1 Willpower Animal Form: +1 Intelligence, +2 Charisma, +1 Willpower, -2 Body, -2 Strength, +1D6 Initiative |\n| Leopard | Human Form: No modifiers Animal Form: +1 Body, +1 Strength, +2D6 Initiative |\n| Seal | Human Form: +1 Charisma Animal Form: +1 Charisma, +2 Body, +1 Quickness, +1D6 Initiative |\n| Tiger | Human Form: +1 Strength Animal Form: +4 Body, +1 Quickness, +4 Strength, -1 Intelligence, -2 Willpower, +1 Reach, +2D6 Initiative |\n| Wolf | Human Form: No modifiers Animal Form: +1 Body, +1 Quickness, +1D6 Initiative |",
+    "category": "character_creation",
+    "subcategory": "shapeshifters",
+    "tags": [
+      "shapeshifter",
+      "attribute_modifiers",
+      "animal_forms",
+      "human_forms"
+    ],
+    "content_type": "table",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 4,
+    "concept": "Table detailing the attribute modifiers for different shapeshifter species in both human and animal forms.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Improvement Md.Txt",
+    "content": "In general, though some shapeshifters mingle with metahuman society and even work as shadowrunners, most shapeshifters prefer to live in wilderness areas, apart from civilization. The Shapeshifter Character Creation Table illustrates the priority options available to shapeshifter characters. Note that all shapeshifter characters must assign Priority A to Race.\n\nShapeshifter characters purchase their base Attributes and skills per standard rules. Base Attribute Ratings may not exceed 6. Next, consult the Shapeshifter Attribute Modifiers Table and calculate the character's final Attribute ratings. Apply the Human Form modifiers to the base Attribute ratings to determine the Attributes of the character in human form. Use the Animal Form modifiers to calculate the Attributes of the character in ...",
+    "category": "character_creation",
+    "subcategory": "shapeshifters",
+    "tags": [
+      "shapeshifter",
+      "character_creation",
+      "attribute_modifiers",
+      "human_form",
+      "animal_form"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-improvement-md.txt",
+    "chunk_index": 5,
+    "concept": "Guidelines for creating shapeshifter characters, including societal preferences and attribute calculations.",
+    "dependencies": [
+      "Table outlining the character creation priorities for shapeshifter characters."
+    ]
+  }
+]

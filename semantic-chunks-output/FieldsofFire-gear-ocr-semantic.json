@@ -1,0 +1,2094 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# FIELDS OF FIRE - Gear",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "fields_of_fire",
+      "gear",
+      "weapons",
+      "combat",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "WALTHER PB-120",
+    "content": "In the field, reliability means everything. The Walther PB-120 offers total reliability in a low-profile, easy-to-hide, back-up pistol. Constructed primarily of composite materials, the light but rugged PB-120 works like a charm even in the most hostile environment. A merc couldn't ask for a better piece. In addition to the standard 10-shot clip, Walther also produces a 15-shot, extended clip for emergency situations. Despite its small size, the weapon can mount standard barrel and top-mounted accessories made by most manufacturers.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n|:----- | ------- | ----------- | ---- | ------ | ------ | ------------:| ----:| ------------:|\n| Light | 8 (6) | 10 (15) (c) | SA | 6L | .75 | 6/36 | 700¥ | 2 |\nThis weapon cannot accept under-barrel accessories.\n\n> (This gun has always Impressed me: I've carried it as my primary back-up for five years now. Good solid performer, light and easy to handle. Gets my vote.)-Matador(10:18:14/8-10-54)\n> (Yeah, but the light load scrags it for me. Why pack something that can barely scratch a rabbit?) -Catcher (08:14:41/8-20-54)\n> (Scratch a rabbit? Remind me to stay away from the places you frequent. Yikes.) -Crayfish (20:51:17/8-22-54)\n> (Catcher, do what I do: pack explosive APDS rounds. If you hit that rabbit, there ain't gonna be much left of it.)-Matador (08:29:27/9-02-54)\n> (Oh, like it's easy to find exploding APDS. I'll just jander down to the Shini-Walgreens. J -Vandal (20:29:13/9-14-54)\n> (Get some. Keep the edge.) -Sanction (00:10:29/9-15-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "walther_pb-120",
+      "light_weapon",
+      "pistol",
+      "firearms",
+      "combat_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 1,
+    "concept": "WALTHER PB-120",
+    "dependencies": []
+  },
+  {
+    "title": "HAMMERLI MODEL 610S",
+    "content": "Designed as a match-target weapon, the Hammerli Model 610s makes a powerful and effective personal sidearm. A stylish weapon, the Model 610s is the first choice of a marksman and a true soldier. First class all the way! Designed to minimize muzzle jump and vibration, customizable grip pads and weights allow the individual user to configure his weapon for maximum comfort and balance. The simple quick-lock system is fully compatible with a variety of top-mounted accessories, and the Hammerli also boasts a patented gas-escape system.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n|:------ | ------- | ----- | ---- | ------ | ------ | ------------:| ------:| ------------:|\n| Heavy* | 4 | 6 (c) | SA | 6L | 2.5 | 8/24 | 1,295¥ | 2.5 |\n\\*Though technically a light pistol, this target weapon uses the Heavy Pistol Range Table. For customization information, see Rules, p. 73. This weapon offers the equivalent of 1 point of Recoil Reduction, and cannot accept under-barrel or barrel-mounted accessories.\n\n> (Like I'm going to pack a gun like this. Please, kill me now.(Looks wiz, though.)) -Rabid Fire (20:10:23/9-20-54)\n> (Personal sidearm, sure. A field weapon it's not. I recommend it for dress duty. It looks deadly, and if you look like you know how to use it, you might not have to.) -Colonel Cobra (02:16:48/9-29-54) \n> [You lost me. \"Dress duty?\" And don't tell me it goes well with my little black cocktail number.) -Tiger Lilly (06:39:29/10-10-54)\n> (Uniform duty. High-profile operations where your presence is a deterrent, like bodyguard and protection where you need a tough look to scare people off. The silver and matte-black version does go well with most cocktail and evening dresses.) -Colonel Cobra (01:11:40/10-12-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "hammerli_model_610s",
+      "sidearm",
+      "firearms",
+      "heavy_weapon"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 2,
+    "concept": "HAMMERLI MODEL 610S",
+    "dependencies": []
+  },
+  {
+    "title": "SAVALETTE GUARDIAN",
+    "content": "The Savalette Guardian's chrome-steel finish shows off the taste of the true\nprofessional, and its high-powered, full-load slug packs professional power.\nThis second-to-none pistol fires the heaviest round in its class. The Guardian's\nbrilliant finish, integral computer-enhanced targeting system, micro-gyro recoil\nabsorption system, and burst-mode firing system make this weapon the\nunquestioned leader of the pack. Whether field or dress weapon, the Savalette\nGuardian is the heavy sidearm of choice for professionals worldwide. Why pick\nany other gun?\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n|:----- | ------- | ------ | ----- | ------ | ------ | ------------:| ----:| ------------:|\n| Heavy | 5 | 12 (c) | SA/BF | 9M | 3.25 | 6/36 | 900¥ | 2.5 |\nComes with an integral smartgun link. The Guardian offers the equivalent of 1 point of Recoil Reduction and can fire a single, three-round burst as a Complex Action. The weapon accepts all standard barrel and top-mounted accessories, but cannot mount under-barrel accessories.\n\n> (Why pick another gun? 'Cause I ain't payin' nearly 2K for a fraggin' pistol! Especially one I can see myself in!) -Flapjack (04:20:10/8-20-54)\n> (Add up the cost of accessories. Say 400¥ for the weapon, double for the smartlink, then add another 400¥ for the recoil reduction.\nThat's 1,200¥ and we ain't even got to the burst feature. The pup is worth it.) -Toad (20:14:18/8-24-54)\n> Word of warning: I've had some problems with the smartlink. Twice now it's lost signal after it got jostled. Only for a moment, but long enough to cause real trouble.) -Wolfman Al (19:13:29/9-02-54)\n> (Sure it wasn't just your particular weapon?) -Nay-sayer (08:41:10/9-03-54)\n> (Nope. I replaced my first one, and a friend had a similar problem.) -Wolfman Al (20:13:34/9-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "savalette_guardian",
+      "heavy_sidearm",
+      "firearms",
+      "combat_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 3,
+    "concept": "SAVALETTE GUARDIAN",
+    "dependencies": []
+  },
+  {
+    "title": "INGRAM WARRIOR-10",
+    "content": "More Ingram Warrior-10s have sold in the past three years than some of its major competitors have sold in their entire product lives. Durable and reliable, the Warrior-10 is the weapon to choose when the elements are your enemy. Rain, sand, mud, humidity-under any conditions, the Warrior-10 keeps firing. No bells and whistles on this tough gun, but who cares about chrome when the rock-and-roll goes down?\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n|:---- | ------- | ------ | ----- | ------ | ------ | ------------:| ----:| ------------:|\n| SMG | 4 | 30 (c) | SA/BF | 7M | 3 | 3/24 | 650¥ | .9 |\nThe Ingram Warrior-10 can mount all barrel, under-barrel, and top-mounted accessories.\n\n> (Of course I care about the chrome! Chrome is king!) -Lariat (03:20:51/8-20-54)\n> (Street sam, ain't ya? Listen, chrome don't keep you alive when you've been incountry so long it takes weeks to readjust when you finally come out. Chrome don't keep you alive when they've set dogs after you. You know the ones I'm talking about; the dogs that can see in the dark, pick out your pheromones from a crowd of forty, and track you through jungle. The dogs that make no noise and feel no pain.) -Vanguard (01:39:28/8-28-54)\n> (Had a few dog problems lately, Vanguard? Seriously though, the bottom line comes down to whether or not the iron fires when you need it to. If it don't, you're a worm farm.) -Washer (17:29:45/9-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ingram_warrior_10",
+      "submachine_gun",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 4,
+    "concept": "INGRAM WARRIOR-10",
+    "dependencies": []
+  },
+  {
+    "title": "COLT COBRA",
+    "content": "Everyone who's ever seen tridvids like Fireteam Cherokee knows the Colt Cobra by its distinctive silhouette. It's the best submachine-gun on the market today, and not just on trideo. Bench-test it against any other make or model; none of them can match the Cobra's accuracy or repeatability. Specialweapons units around the globe use the Cobra as their standard SMG: the basic TZ-110 model with its barrel-integrated gas-venting system, the TZ-115 with a built-in laser sight, or the TZ-118 with a built-in smartlink. Do what the world's top guns do: pack a Cobra.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :--- | ------- | ------ | -------- | ------ | ------ | -----------: | ---: | -----------: |\n| SMG | 5 | 32 (c) | SA/BF/FA | 6M | 3 | 6/36 | 700¥ | 2 |\nColt Cobra TZ-110 comes with a folding stock standard and an integral Gas-Vent Il system that offers Recoil Reduction (1). The TZ-115 model comes with integral laser sight for 850¥; the TZ-118 comes with integral smartlink for 1,000¥. All models accept standard under-barrel and top-mounted accessories, but cannot accept barrel-mounted accessories.\n\n> (Despite what they say about the Warrior-10, I've seen more and more Cobras lately. These days I expect to see it, especially in corp territory.) -Seeker (21:23:48/10-15-54)\n> (If you see a particular weapon in the hands of regular corp forces, odds are the corps are using it in bulk. The corps work like the military that way; once they choose a weapon, they buy and distribute it in bulk. Makes maintenance and repair easier if everyone is using the same gun.) -Trader Vic (03:20:41/10-19-54)\n> (And when a big corp trades up to a new model, the secondary markets (read: shadow) are flooded with the old weapons at a discount. Used, of course.) -Dented Fred (22:10:32/10-22-54)\n> (I hear the UCAS Army is gonna pick these up.) -Snail (05:49:23/10-25-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "colt_cobra",
+      "submachine_gun",
+      "firearms",
+      "gear",
+      "combat_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 5,
+    "concept": "COLT COBRA",
+    "dependencies": []
+  },
+  {
+    "title": "INGRAM SUPER MACH 100",
+    "content": "Pull the trigger and feel the power! Technically classified as a \"supermachinegun,\" the Ingram SuperMach 100 has a patented firing system that offers controlled six-round bursts and |a full-autofire rate that'll leave you breathless. It fires as fast as a minigun, without the recoil! The SuperMach 100 uses both a standard 40-round clip and a special 60r|ound, high-density clip. Distinctive in appearance and sound, the SuperMach 100 gives the maximum bang for the nuyen.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :--- | ------- | ---------- | -------- | ------ | -------- | -----------: | ---: | -----------: |\n| SMG | 5 (4) | 40 (60)(c) | SA/BF/FA | 6L | 3 (3.25) | 9/48 | 850¥ | 3 |\nThe SuperMach 100 fires Light Pistol rounds with the equivalent of 3 points of Recoil Reduction. In burst mode, it fires six-round bursts that do 12S damage, and has a maximum autofire rate of 15 rounds. Apply recoil modifiers as for normal rounds. The weapon accepts under-barrel and top-mounted accessories. An empty, 60-round clip costs 25¥.\n\n> (I love this chica! The lead stream almost never stops; I can practically see it! And oh, what it does to what it hits. It makes me so happy.) -Tee-Hee (12:05:36/9-23-54)\n> (As long as your target is made of paper. Any kind of hardened target shrugs off these rounds with hardly a scratch. Too light for my tastes; give me the Ares HVAR any day.) <-Whisper (02:02:19/9-26-54)\n> (Definitely the HVARprovided you can get away with slinging an assault rifle. What happens when you need a little subtlety?) -Findler-Man (11:28:35/9-30-54)\n> (Subtlety? Whisper? Oh, that's ripe. Bravo, FindlerMan!) -Steel Lynx (21:28:09/10-02-54)\n> (Choke me.) -Whisper (03:01:38/10-03-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ingram_super_mach_100",
+      "firearms",
+      "smg",
+      "combat_gear",
+      "weapons_stats"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 6,
+    "concept": "INGRAM SUPER MACH 100",
+    "dependencies": []
+  },
+  {
+    "title": "COLT M-23 ASSAULT RIFLE",
+    "content": "An army needs ordnance, and ordnance requires cash. If money's tight, a little cash needs to go a long way. The Colt M-23 assault rifle, a stripped-down version of the highly successful Colt M-22A2, is the ideal solution for the soldier on a budget. A powerful, capable weapon, the M-23 accepts all secondary accessories. Firepower now, expandable later, and no need to compromise!\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ---- | ------ | -------- | ------ | -----------: | ---: | -----------: |\n| Assault | 950¥ | 3 | 40 (c) | SA/BF/FA | 8M | 4.5 | 6/36 | 2 |\nThe Colt M-23 assault rifle can mount standard barrel, under-barrel, and topmounted accessories.\n\n> (A popular weapon, especially on the streets. I've seen it in the hands of gangers, underworld thugs, shadowrunners, you name it. Why do they need bells and whistles?) -Condor (08:20:38/9-25-54)\n> (Developing-world and quasi-corporate weapon dealers have picked up the M-23 and other weapons in bulk and are selling them in the inner cities at an inflated price. Keep that in mind next time your fixer picks up an assault rifle for you on the cheap.) -Findler-Man (11:32:14/9-30-54)\n> (Are you objecting to the sale of weapons in the inner city, or the price-gouging?) Facer 'X' (02:09:30/10-02-54)\n> (Everyone should take care with shadow-market weapons. The ones that look chip-truth are often mini-industry manufacturing knock-offs; precision and reliability go down the sewer.) -Eve Donovan (12:26:49/10-08-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "colt_m-23",
+      "assault_rifle",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 7,
+    "concept": "COLT M-23 ASSAULT RIFLE",
+    "dependencies": []
+  },
+  {
+    "title": "ARES ALPHA COMBAT GUN",
+    "content": "The weapon of choice for the upcoming decade, the Alpha Combat gun is the first of Ares Arms' two entries into the hotly contested battle rifle market. A precision weapon designed for special-forces operations, the Alpha Combatgun's integrated, full-function Smartlink Level II™ and high-speed data bus give it a responsiveness no other weapon can match. An integral minigrenade launcher, chamber-based recoil-reduction, and| Ares reliability makes the Alpha a weapon of unparalleled artistry.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ------ | -------- | ------ | ------ | -----------: | -----: | -----------: |\n| Assault | 2 | 42 (c) | SA/BF/FA | 8M | 5.25 | 8/48 | 2,000¥ | 4 |\n| Grenade | | 8 (m) | SS | Spec. | | | | |\nComes with integral Smartlink Il circuitry and an under-barrel mini-grenade launcher. The Alpha can accept barrel- and top-mounted accessories, but not under-barrel accessories. It offers the equivalent of 2 points of Recoil Reduction.\n\n> (The Alpha has been making the rounds for a couple of years now, ever since Ares quietly distributed prototypes called the CAR-32 to \"selected field-testers\" and integrated their feedback into the production model. It seems they ignored one joker's request to integrate an under-barrel combat laser.) -Colonel Cobra (12:05:26/11-15-54)\n> (Speaki|ng of that, I keep hearing that Ares is closer to a mass-production model of the man-portable laser system (formally the MP-CLS 100). Anybody else hear anything? The original came out four years ago.) -Wolfman Al (05:45:47/11-19-54)\n> (You spoke too soon, Wolfman Al. Check out the heavy weapon section of this file.) -Steel Lynx (20:13:18/11-21-54)\n> (Oh, my.) -Vandal (10:20:38/11-22-54)\n> (Better have a fat credstick, chummer.) -Steel Lynx (21:02:02/11-24-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_alpha",
+      "combat_gun",
+      "assault_rifle",
+      "firearms",
+      "military"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 8,
+    "concept": "ARES ALPHA COMBAT GUN",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "At last-the assault rifle that fires as fast as a super-machinegun! Ares Arms' latest assault rifle combines the top performance you expect from Ares with minigun firing rates for a rock-and-roll rifle beyond the pale and beyond belief!",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares",
+      "assault_rifle",
+      "high_velocity",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 9,
+    "concept": "Introduction and marketing description of the Ares High-Velocity Assault Rifle (HVAR)",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "The Ares Arms HVAR comes with patented Smartlink Level II™ technology that provides outstanding basic targeting and compensation algorithms designed to compensate for the weapon's unique features.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_arms",
+      "hvar",
+      "smartlink",
+      "technology",
+      "assault_rifle"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 10,
+    "concept": "Description of the Smartlink Level II™ technology integrated into the HVAR",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "The weapon package includes integral recoil reduction systems that offer enhanced stability even in full-fire mode! Suppression or covering fire with the HVAR lets the opposition know you mean business!",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares",
+      "assault_rifle",
+      "recoil_reduction",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 11,
+    "concept": "Features of recoil reduction and operational capabilities of the HVAR",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ------ | -------- | ------ | ------ | -----------: | -----: | -----------: |\n| Assault | 2 | 50 (c) | SA/BF/FA | 6M | 5.0 | 14/7 days | 3,200¥ | 4 |\n\nThe Ares HVAR fires Light Pistol rounds. In burst mode it fires six-round bursts that do 12D damage at a maximum autofire rate of 15 rounds.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_hvar",
+      "assault_rifle",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 12,
+    "concept": "Statistical table detailing the specifications of the Ares HVAR",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "The weapon comes with an integrated Smartlink II that offers the equivalent of 3 points of Recoil Reduction; apply recoil modifiers as for normal weapons.\n\nThe HVAR accepts under-barrel and top-mounted accessories.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_high_velocity_assault_rifle",
+      "smartlink_ii",
+      "recoil_reduction",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 13,
+    "concept": "Details on the recoil reduction provided by the Smartlink II system",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "(Now we're talking. I was working down in South America (won't say where) not long ago, when I got to use my HVAR. Laid myself down a cover screen so tight I was popping caps as soon as they hopped up. Nasty work, chummers, but I get paid well to do it.) -Whisper (02:30:20/9-26-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ares",
+      "high_velocity_assault_rifle",
+      "user_testimonial",
+      "combat",
+      "firearms"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 14,
+    "concept": "User testimonial about the performance of the HVAR in a real-world scenario",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "(Ya know, Whisper, I looked at the ballistic files on the HVAR after reading your comment about penetration. I got bad news for you: The HVAR don't penetrate much better than the SuperMach 100 you chucked a couple of screens back.) -Steel Lynx (21:32:30/10-02-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_high_velocity_assault_rifle",
+      "penetration",
+      "firearms",
+      "comparison"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 15,
+    "concept": "Discussion about the penetration capabilities of the HVAR compared to another weapon",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HIGH-VELOCITY ASSAULT RIFLE",
+    "content": "(You looking for trouble, Lynx? Want to start something? Everywhere I look, I find you cracking on me. You wanna play, we'll play, but by my rules.) -Whisper (03:03:20/10-03-54)\n\n(Guess Morocco did wreck you after all.) -Steel Lynx (10:20:14/10-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_high_velocity_assault_rifle",
+      "hvar",
+      "firearms",
+      "conflict",
+      "performance"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 16,
+    "concept": "Conflict between users regarding the HVAR's performance",
+    "dependencies": []
+  },
+  {
+    "title": "BARRET MODEL 121 HEAVY SNIPER RIFLE",
+    "content": "For the times when a standard round doesn't cut it, pick up the Barret Model 121 heavy sniper rifle and its custom, armor-piercing ammo. The heaviest small-arms round available, Barret ammo works against both soft and hard targets. Don't let armor skin slow you down; punch through it and take down your target. The Model 121's integral silencer system combines with blow-back recoil compensation to give it precision balance in spite of its heavy caliber. Silent, deadly, and accurate, the Barret guarantees you one shot and one down.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :----- | ------- | ---- | ---- | ------ | ------ | -----------: | ---: | -----------: |\n| Sniper | 14 (c) | Mode | SA | 14D | 10 | 5 | | |\nThis weapon offers the equivalent of 2 points of Recoil Reduction and has a +2 recoil modifier. It also comes with an integral Smartlink I system. Treat custom ammo as APDS rounds; the ammo costs 200¥ per box of 10, and has the same Availability and Street Index as the weapon. A player must make separate tests to acquire each box.\n\n> (Grade A+ bang-bang! This one's a frightening piece of work. An \"associate\" of mine uses the Model 121 extensively. I've backed her up on a couple of jobs; when she's fired at anything further away than a couple of meters, I've heard no gun noise whatso-ever. Scary.) -Hatchetman (03:20:45/10-05-54)\n> (You can use the Model 121 right out of the box; I had to use it that way once. I've upgraded mine to use Smartlink Il hardware and fire caseless ammo: no casings, no evidence. The Smartlink's rangefinder makes the long shot a breeze. One drawback, though; the weapon doesn't come apart easily. You have to carry it assembled, and the fraggin' thing is almost as long as I am tall.) -Nightmare (12:19:38/10-08-54)\n> (Have you ever seen one of the slugs it fires ?? I use them as paperweights.) -Toad (23:08:25/10-12-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "barret_model_121",
+      "heavy_sniper_rifle",
+      "armor_piercing",
+      "firearms",
+      "sniper"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 17,
+    "concept": "BARRET MODEL 121 HEAVY SNIPER RIFLE",
+    "dependencies": []
+  },
+  {
+    "title": "REMINGTON 990 SHOTGUN",
+    "content": "One of the world's most common shotguns, the Remington 990 plays a variety of roles. Security specialists, law enforcement, an`d field and site mercenary units favor the 990 as the ultimate simple, all-purpose shotgun. Years of service have proven the 990 a winner at an affordable price.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ----- | ---- | ----------- | ------ | -----------: | ---: | -----------: |\n| Shotgun | 2 | 8 (m) | SA | See below * | 4 | 3/48 hrs | 2 | 650¥ |\n\\* The 990 can fire slug or shot rounds (see p. 95, SRII) that do 8S or 10S damage. For a sawed-off version, increase Concealability to 4 and reduce all Damage Codes by -2.\n\n> Lots of security forces use this cannon to fire gel rounds, because it can switch between those non-lethal loads and more damaging standard loads with no trouble. The optional sling makes it easy to handle, and it never fails. I've staked my life on it.) -SPD (10:20:23/9-29-54)\n> (I got my first Remington scattergun when I was 10. My dad spent days deciding exactly which model to buy for me. He tried them out, asked around, and finally decided on the 900 in matte black. I used it until last year, when I lost it in Aztlan. Ah, well.) -Matador (21:19:23/10-18-54)\n> (I can just see you: sitting out on the back porch with yer scattergun, splattin' those barn varmints when they crawl out at night. Yep, yep. You are the NRA. Gimme some hay to chew, will ya, Ma?)) -Crayfish (08:35:48/10-21-54)\n> (I lived in Philadelphia, you beetle-head. If I thought for a minute you had a brain in your head, I'd splatter it.) -Matador (08:48:37/10-22-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "remington_990",
+      "shotgun",
+      "firearms",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 18,
+    "concept": "REMINGTON 990 SHOTGUN",
+    "dependencies": []
+  },
+  {
+    "title": "FRANCHI SPAS-22",
+    "content": "The latest in a long line of renowned combat shotguns, the SPAS-22 meets the most stringent performance standards. Capable of selective fire in both single-action and burst-fire modes, the SPAS-22 can hold its own at any time, in any place. A custom folding stock* lets it close up small, making it an ideal weapon for low-profile operations. The SPAS-22 comes with Smartlink II TM hardware, making an already outstanding weapon top gun the world over.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ------ | ----- | ------ | ------ | -----------: | ---: | -----------: |\n| Shotgun | 2 (4) | 10 (m) | SA/BF | 10S | 4 | | 2 | 1,000¥ |\n\\*When folding stock is extended, the SPAS-22 offers the equivalent of 1 point of Recoil Reduction. The weapon has a +2 recoil modifier.\n\n> (I love the SPAS-22 even more than the Mossberg CMDT. Feels more stable, fits my grip better, and so on. I especially like to use it in close quarters.) -Washer (06:28:49/10-18-541)\n> (The first combat shotguns were designed for houseto-house fighting and for combat in dense foliage, where you might need to punch through leaves, light woods, wallboard, and so on. The weapons still serve the same purpose.) -Colonel Cobra (20:31:34/10-20-54)\n> ( ?? I can punch through stuff, but if my target's hiding behind a wall or something, odds are I won't hit him!) -Flapjack (04:20:39/10-21-54)\n> (So? Punch holes in the wall, you moron!) -Toad (11:58:20/10-23-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "franchi_spas-22",
+      "shotgun",
+      "combat_weapon",
+      "fire_modes",
+      "recoil_reduction"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 19,
+    "concept": "FRANCHI SPAS-22",
+    "dependencies": []
+  },
+  {
+    "title": "ARES HV MP-LMG",
+    "content": "This second entry in Ares' high-velocity product line is a super-machinegun version of their popular man-portable, light machinegun. Designed to work as a personal weapon or a light or heavy mounted weapon, the HV MPLMG is ideal for area control, especially when belt-fed from an independent source. As with other high-velocity models, the HV MP-LMG comes with an integrated Smartlink Level Il; this top-notch computer interface makes for outstanding performance.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :--- | ------- | ----- | -------- | ------ | ------ | -----------: | -----: | -----------: |\n| LMG | 8 | 80(c) | SA/BF/FA | 6S | 8 | 20/14 days | 4,500¥ | 4 |\n\nThe Ares HV MP-LMG fires Light Pistol rounds at the equivalent of 3 points of Recoil Reduction. Apply recoil modifiers as for normal weapons. In burst mode, it fires\nsix-round bursts that do 15D damage at a maximum autofire rate of 15 rounds. The weapon comes with an integrated Smartlink II and accepts under-barrel and topmounted accessories.\n\n> (While browsing through a restricted Ares catalog the other day, I noticed that Ares is offering the HV LMG not only as part of its Sentry™ system, but also as a light-vehicle weapon. The example given showed the weapon mounted on the Northrup Yellowjacket PRC-44F. Once they field that puppy, I'm going to be very upset.) -Findler-Man (05:13:59/10-17-54)\n> (Northrup started shipping the F upgrade package \"sixteen days ago. You'll find an entry for the package in a later file. Though no one says so, you can blame Saeder-Krupp for the gel-composite armor. Thank the dragon.) -Devious (09:32:20/10-19-54)\n> (Back to the HV LMG, I still think that super-machineguns, including bigger miniguns, are next to useless as man-portable weapons. Too much recoil, too little control. As vehicle-mounted or stationary weapons, they work great.) -Pullman Beak (08:20:30/10-22-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares",
+      "high_velocity",
+      "machinegun",
+      "light_machinegun",
+      "firearms"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 20,
+    "concept": "ARES HV MP-LMG",
+    "dependencies": []
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "The M79B1 Light Anti-armor Weapon (LAW) is the most common weapon of its type in the world. Designed as a disposable, telescoping container, the single-shot LAW is self-contained and cannot accept accessories. Cheap but reliable, the LAW enables its user to take on almost any armored vehicle!",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "light_anti_armor_weapon",
+      "law",
+      "weapons",
+      "combat"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 21,
+    "concept": "Introduction and description of the M79B1 LAW",
+    "dependencies": []
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "Fired from a shoulder mount, the LAW vents launch gases through the rear of the firing tube, virtually eliminating recoil. A simple, non-adjustable aperture permits excellent sighting under standard environmental conditions.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "light_anti_armor_weapon",
+      "law",
+      "shoulder_mount",
+      "recoil"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 22,
+    "concept": "Operational mechanics of the LAW",
+    "dependencies": [
+      "Introduction and description of the M79B1 LAW"
+    ]
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ---- | ---- | ------ | ------ | -----------: | ---: | -----------: |\n| Missile | 4/ -* | 1 | SS | 12D | 2.5 | 6/36 | 700¥ | 2 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "light_anti_armor_weapon",
+      "missile",
+      "damage",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 23,
+    "concept": "Statistical data table for the M79B1 LAW",
+    "dependencies": [
+      "Introduction and description of the M79B1 LAW"
+    ]
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "*Telescoping container can only be fired when fully opened, reducing Concealability to 0. Firing requires a Complex Action. Use the standard rocket rules for this weapon, p. 99, SRII. This weapon cannot accept accessories.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "light_anti_armor_weapon",
+      "rocket_rules",
+      "complex_action"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 24,
+    "concept": "Specific firing rules and limitations of the LAW",
+    "dependencies": [
+      "Statistical data table for the M79B1 LAW"
+    ]
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "The rocket does 12D Damage, reducing the Power of its blast by -1 for every half-meter, and is subject to scatter of 2D6 + 2. The LAW rocket is not compatible with a standard AVR launcher and does not have armor-piercing capability. A 1 x 10-meter blast zone behind the weapon is subject to 10M exhaust blast, reduced by -1 per meter.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "law",
+      "damage_mechanics",
+      "blast_effects",
+      "rocket_launcher"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 25,
+    "concept": "Damage mechanics and blast effects of the LAW",
+    "dependencies": [
+      "Specific firing rules and limitations of the LAW"
+    ]
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "(The LAW isn't anti-armor if you're talking about tanks. It might punch a small hole in some light tanks, especially security vehicles, but it'll barely scratch anything with real armor.) -Hatchetman (02:20:03/10-12-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "anti_armor",
+      "law",
+      "weapons_effectiveness",
+      "armored_vehicles"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 26,
+    "concept": "User commentary on the effectiveness of the LAW against armored vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "(Yeah, but it's only meant to take out light fortifications and lightly armored vehicles. For real anti-tank capability, upgrade to a true AVR or AVM. Course, you'd better have deep pockets.) -Mongoose (05:13:19/10-19-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "light_anti_armor",
+      "weapons",
+      "combat",
+      "gear"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 27,
+    "concept": "User commentary on the intended use of the LAW",
+    "dependencies": []
+  },
+  {
+    "title": "M79B1 LIGHT ANTI ARMOR WEAPON",
+    "content": "(Yes, but a half-trained soldier with an AVM can take out a light or medium tank at a cost of less than 5K¥ for the dog. The tank plus training for its crew costs at least a hundred times that much. The AVM's well worth the investment.) Colonel Cobra (12:36:49/10-22-54)\n\n(Ever tried getting close enough to a Stonewall or Centurion to use a LAW? Thought not.) -Dog Boy (21:23:58/10-24-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "m79b1",
+      "anti_armor",
+      "law",
+      "combat_strategy",
+      "weapons_comparison"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 28,
+    "concept": "User commentary comparing the LAW to more effective anti-tank options",
+    "dependencies": []
+  },
+  {
+    "title": "ARBELAST II MEDIUM ANTI ARMOR WEAPON",
+    "content": "A heavier version of the LAW, the Arbelast Il Medium Anti-armor Weapon (MAW) fires a heavier rocket and warhead. Unlike the LAW, the MAW's disposable firing canister does not telescope. The weapon includes a permanent, fixed-magnification system and secondary \"pop-up\" hard sights.\n\n| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ---- | ---- | ------ | ------ | -----------: | -----: | -----------: |\n| Missile | | 1 | SS | 15D | 2.75 | 8/48 | 1,200¥ | 2 |\nUse the standard rocket rules for this weapon, p. 99, SRII. This weapon cannot accept accessories. The rocket warhead does 15D Damage, reducing the Power of its blast by -1 for every half-meter, and is subject to Scatter of 2D6 + 2. The MAW rocket is not compatible with a standard AVR launcher and does not have armor piercing capability. A 1 x 12-meter blast zone behind the weapon is subject to 12M exhaust blast, reduced by -1 per meter.\n\n> (Continuing Dog Boy's comment under the LAW entry, if you stand within an MBT's primary anti-personnel zone, you're worm food. Both the LAW and the MAW have a range of 1,500 meters, well outside the APZ. But neither the LAW nor the MAW can penetrate MBT armor, so the point is moot.] -Colonel Cobra (05:12:54/10-26-54)\n> (If you have the patience and take the time to aim, LAWs and MAWs work great against low-flying aircraft. You probably won't hit your target, but they don't know that. They see the heat signature and the smoke trail, so they jink away. If they've got cojones they'll take the time to check their displays for locking or tracking first, but most don't.) -Matador (06:13:49/10-29-54)\n> (If you're smart, you set up a kill zone where you and another chummer have LAWs and a third has a SAM. You fire and the bird jinks away from you; the other LAW fires and the bird jinks again, right into the path of the SAM. Gotta love it.) -Uncle SAM (08:20:10/10-30-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "anti_armor",
+      "rocket_launcher",
+      "weapon_stats",
+      "shadowrun_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 29,
+    "concept": "ARBELAST II MEDIUM ANTI ARMOR WEAPON",
+    "dependencies": []
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "Co-manufactured by Mitsubishi and General Motors Military Division, the Great Dragon ATGM (anti-tank guided missile) is a ground-based spinoff of GM's popular Bandit air-to-ground missiles. Fired from a tripod-mounted, reusable canister, the Great Dragon ATGM has proven an effective battlefield weapon.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "anti_tank_guided_missile",
+      "military_technology",
+      "ground_based_weapons"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 30,
+    "concept": "Introduction and description of the Great Dragon ATGM.",
+    "dependencies": []
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "An integral, semi-smart tracking system keeps the launched missile on target, and delayed main-engine ignition helps hide the launcher's location. These features, combined with a shaped-charge, armor-piercing warhead, enable the Great Dragon to stop enemy armor of any size.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon",
+      "missile_system",
+      "armor_piercing",
+      "combat_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 31,
+    "concept": "Key features and capabilities of the Great Dragon ATGM.",
+    "dependencies": [
+      "Introduction and description of the Great Dragon ATGM."
+    ]
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------- | ------- | ---- | ---- | ------ | ------ | -----------: | -----: | -----------: |\n| L-ATGM 4 | | 1 | SS | 20D | 2.75 | 8/48 | 1,200¥ | 2 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "weapons",
+      "combat",
+      "statistical_data"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 32,
+    "concept": "Statistical data table for the Great Dragon ATGM.",
+    "dependencies": []
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "This weapon uses the standard missile rules, p. 99, SRII. This weapon cannot accept accessories, and includes a fixed Optical Magnification II sighting system.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "missile_rules",
+      "weapon_accessories",
+      "sighting_system"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 33,
+    "concept": "Rules and limitations regarding the Great Dragon ATGM.",
+    "dependencies": [
+      "Statistical data table for the Great Dragon ATGM."
+    ]
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "The armor-piercing missile warhead does 20D Damage, reducing the Power of its blast by -5 Blast per meter, and is subject to Scatter of 2D6. A 1 x 12-meter blast zone behind the weapon is subject to 12M exhaust blast, reduced by -1 per meter.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "damage_mechanics",
+      "blast_effects",
+      "armor_piercing",
+      "missile"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Damage mechanics and blast effects of the Great Dragon ATGM.",
+    "dependencies": [
+      "Rules and limitations regarding the Great Dragon ATGM."
+    ]
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "(It can \"stop any size of enemy armor?\" Hardly. A Great Dragon, or a Bandit for that matter, can hardly scratch a Banshee, let alone a main battle tank, without careful aim. Reality check, anyone?) -Sten (12:32:49/10-21-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "armor_effectiveness",
+      "user_commentary"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 35,
+    "concept": "User commentary on the effectiveness of the Great Dragon ATGM against various armor types.",
+    "dependencies": []
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "(Too bad that on the high end, armor technology is outpacing armor-piercing technology. That state of affairs began nearly twenty years ago, when the new alloy-composite armor hit the field. Fortunately, the best stuff still costs plenty.) -Matador (02:10:09/10-25-54)\n\n(Remember that the Dragon is a man-portable weapon, not a vehicle-mounted anti-armor weapon. These are nasty fraggers.) -Leaguer (12:25:10/10-29-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "armor",
+      "armor_piercing",
+      "weapons_technology",
+      "great_dragon_atgm"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 36,
+    "concept": "User commentary on the advancements in armor technology relative to armor-piercing capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "GREAT DRAGON ATGM",
+    "content": "(Yeah, but the vehicle-mounted Bandit AGM doesn't even have the armor penetration of a Great Dragon. I guess being airborne, it needs to be lighter ... ) -Arnie Leech (08:26:28/11-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "great_dragon_atgm",
+      "bandit_agm",
+      "armor_penetration",
+      "user_commentary"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 37,
+    "concept": "User commentary comparing the armor penetration capabilities of the Great Dragon ATGM to the Bandit AGM.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "Manufactured by Saeder-Krupp's infamous Special Munitions branch, the sophisticated Ballista consists of a backpack mechanism that deploys a shoulder-firing missile tube.\n\nThe Ballista missile can be used with the launcher inclined as an indirect-fire weapon, or as a direct-fire weapon balanced on the shoulder.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "saeder-krupp",
+      "special_munitions",
+      "firearms"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 38,
+    "concept": "Introduction to the Ballista missile launcher and its manufacturing background.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "The indirect-fire system revolves around microtronic compensators that align the tube at the proper angle regardless of the firer's position with respect to true vertical, and can fire Ballista Mk I or Mk II rounds.\n\nThe direct-fire system operates similarly to other missile launchers and can fire Mk I, II, and III Ballista missiles.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "indirect_fire",
+      "combat_gear",
+      "military_equipment"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 39,
+    "concept": "Explanation of the indirect-fire system and its capabilities.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :------ | ------- | ----- | ---- | ------ | ------ | -----------: | ---------: | -----------: |\n| Missile | | 4 (m) | SS | 14D | 6.5 | 4 | 18/30 days | 10,500¥ |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "weapons",
+      "combat_gear",
+      "military"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 40,
+    "concept": "Specifications table for the Ballista missile launcher.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "*See Weapon Range Table, p. 87. See following page for information on Ballista rounds. Each type of magazine contains 4 rounds and can be replaced in 10 seconds. The Ballista itself takes 30 seconds to remove or put on, and has no rear blast zone.\n\nThe weapon comes with a Type I Laser Designator (see pp. 85-86) for use in direct-fire mode only.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "weapons_mechanics",
+      "direct_fire",
+      "gear"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 41,
+    "concept": "Additional operational details about the Ballista missile launcher.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "(This device is vastly overpriced and too sophisticated for the common merc. Stick with weapons that are internally smart and don't need outside guidance. They're not infallible, but you can fire 'em and forget 'em.) -Matador (02:12:41/10-25-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "weapons",
+      "mercenary",
+      "cost"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 42,
+    "concept": "A commentary on the practicality and cost of the Ballista missile launcher.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "(It fits the 'Future Trooper' concept, though: hardened battle armor, integrated comm and tactical data links, integral weapons, and so on. A laser-designator is only one of many targeting systems the Ballista can use; this weapon is modular and therefore easy to upgrade.) -Colonel Cobra (14:03:20/11-02-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "future_trooper",
+      "modular_design",
+      "military"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 43,
+    "concept": "A perspective on the Ballista's design and its alignment with futuristic military concepts.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA MULTI-ROLE MISSILE LAUNCHER",
+    "content": "(Picture this: a High-Spy sensor drone roams the battlefield using a multifaceted sensor suite with infrared, thermal and radar imaging, optical recognition, and so on to identify hostiles. When it finds one, it downloads the targeting data-range and angle of launch and descent-to a viable friendly. The Ballista takes the data link, adjusts itself, and fires. The soldier just approves the launch.) -Sten (20:11:29/11-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista",
+      "missile_launcher",
+      "targeting_system",
+      "combat_scenario"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 44,
+    "concept": "A scenario illustrating the advanced targeting capabilities of the Ballista missile launcher.",
+    "dependencies": []
+  },
+  {
+    "title": "BALLISTA ROCKET & MISSILE ROUNDS",
+    "content": "Custom-designed for the Saeder-Krupp Ballista launcher, Ballista rockets and missiles use a variety of warheads and targeting configurations. All types of rounds can be mixed and matched within a single magazine.\n\n| Type | Intelligence | Damage | Blast | Weight | Cost | Availability | Street Index |\n| :----- | ------------ | ------ | -------- | ------ | ------ | -----------: | -----------: |\n| Mk 1 | 0 | 14D | -7/meter | 2.75 | 1,000¥ | 12/21 days | 4 |\n| Mk II | 5* | 14D | -7/meter | 2.75 | 2,000¥ | 18/28 days | 4 |\n| Mk III | 6 | 14D | -7/meter | 2.75 | 2,500¥ | 14/28 days | 4 |\n\\*See Reflected-Energy Designators, p. 85.\nThe Mk I is an armor-piercing, dumb rocket, used for direct or indirect fire. Apply grenade rules given on p. 96, SRII. The Mk II is an armor-piercing, laser-tracking missile used for direct and indirect fire. See Reflected-Energy Designators, p. 85 of this book. The Mk III is an armor-piercing, semi-smart missile used only for direct fire.\n\n> (Continuing from comments on the Ballista launcher, why bother with a soldier? Why not just use field drones?) -Tony's Tiger (20:41:09/11-08-54)\n> (Eventually, they will. Plenty of people are investing meganuyen in hyper-expert and Al systems for combat vehicles. Some designers see flesh as a weak link; after all, you can't scare a computer.) -Colonel Cobra (03:20:18/11-09-54)\n> (We're a long way from developing an Al system capable of processing the same degree of data that the human mind can handle, despite what some corps might want you to think. Even the best parallel processors ain't savvy enough.) -Weird Wanda (18:29:30/11-10-54)\n> (You just keep thinking that, Wanda.) -Nightfire (20:04:15/11-11-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ballista_rocket",
+      "missile_rounds",
+      "weapons_stats",
+      "saeder-krupp",
+      "armor_piercing"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 45,
+    "concept": "BALLISTA ROCKET & MISSILE ROUNDS",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "An extremely dependable weapon, the M-12 mortar is based on a battleproven design. Its long barrel ends in a four-pronged base that digs into and anchors the weapon against the ground, and a swing-out, bipod brace props the weapon at a firing angle.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "weapons_design",
+      "firearms",
+      "military"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Description of the M-12 mortar's design and stability features",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "The weapon's operator enters firing angles and environmental conditions manually into the controls of the barrel-mounted sight. In addition to sighting and firing the weapon himself, the operator can fire based on data from a spotter.\n\nThe M-12 can fire 'dumb' rounds or sophisticated, laser-tracking ammo.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "fire_control",
+      "ammunition"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 47,
+    "concept": "Operational mechanics of the M-12 mortar, including sighting and firing methods",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "See rules for smoke and white phosphorous mortars, pp. 85-86 of this book. For information on the M-12's special mortar rounds, see the following page.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "special_rounds",
+      "combat_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 48,
+    "concept": "References to additional rules and information regarding mortar types and special rounds",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "The mortar takes 3 minutes, or 36 turns, to set up and 18 turns to break down. It fires up to 2 rounds per Combat Turn, regardless of the number of Actions the firer has available.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "weapons",
+      "combat_turn",
+      "setup_time",
+      "breakdown_time"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Setup, breakdown time, and firing rate of the M-12 mortar",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :----- | ------- | ---- | ---- | ------ | ------ | -----------: | -----: | -----------: |\n| Mortar | | 1 | SS | 2 | 30 | 12/14 days | 3,000¥ | 4 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "weapons",
+      "combat_gear",
+      "military_equipment"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Statistical information and specifications for the M-12 mortar",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "(Mortars. I keep thinking of the sysop's message up front, that a lot of the stuff in these files would interest shadowrunners. A mortar? A fraggin' mortar? Cut me loose!) -Singapore Sami (21:05:48/10-25-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortars",
+      "weapons",
+      "shadowrunners",
+      "combat_gear",
+      "firepower"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 51,
+    "concept": "User commentary on the relevance of mortars to shadowrunners",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "(A mortar might not be useful? I beg to differ. Maybe it's not part of a runner's dayto-day pack o' goodies, but it can come in handy. I orchestrated a run against a corp compound outside Los Angeles about two years ago, and my team peppered the area with smoke rounds as we went in. Filled the place up good. We used thermal sighting, which the corp boys didn't have. Going out, we also dropped a couple of HE rounds into the motor pool to discourage pursuit. Worked well.) -Kingslayer (20:28:36/10-29-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar",
+      "combat_strategy",
+      "run_experience",
+      "teamwork",
+      "tactics"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 52,
+    "concept": "User experience sharing the practical application of mortars in a run",
+    "dependencies": []
+  },
+  {
+    "title": "M-12 MAN-PORTABLE MORTAR",
+    "content": "(Kingslayer has a good point. A runner needs to look at more than the weapons he has on hand; to make a run work, construct a sound plan and then get the gear to make that plan work. Assuming any runner plans realistically, of course.] -Hatchetman (13:07:19/11-05-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "planning",
+      "gear_selection",
+      "shadowrun",
+      "strategy"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 53,
+    "concept": "Discussion on the importance of planning and gear selection for shadowruns",
+    "dependencies": []
+  },
+  {
+    "title": "MORTAR ROUNDS HE",
+    "content": "The M-12 Mortar takes all the types of rounds listed below. All rounds are drop-fired down the mortar barrel, their self-contained motors ignited by a pin at the barrel's bottom. All are fin-stabilized in flight, and arm only after they have cleared the barrel.\n\n| Damage | Blast | Weight | Cost | Availability | Street Index |\n| :----------------- | -------------- | -----: | -----: | -----------: | -----------: |\n| High Explosive | 18D -1/ .5m | 4.0 | 200¥ | 18/14 days | 3 |\n| Anti-Personnel * | 18D -1/ 1m | 4.0 | 250¥ | 18/14 days | 3 |\n| Smoke ** | | 3.5 | 175¥ | 14 days | 2 |\n| White Phosphorus t | 15S/12L -1/ 1m | 4.0 | 350¥ | 18/14 days | 3 |\n| Anti-Vehicle tt | 16D -1/ 4m | 4.0 | 1,200¥ | 21 days | 4 |\n\\*Use the Flechette rules, p. 93, SRII.\n\\** See p. 85 of this book.\nt See p. 86 of this book.\ntt This armor-piercing round's laser-tracking seeker requires a laser-marked target (see Target Designators, p. 85 of the Rules section).\n\n> (White phosphorus? I've got scars from that drek. I was working in Africa when a light plane buzzed our camp. Fraggin' plane carried a brace of rockets that the pilot dropped on us like bombs. They burst and spread phosphorus over the whole area. A year later, I found the pilot and skinned him like he'd done to me.) -Night Hunter (13:10:23/10-24-54)\n> (Technically, white phosphorus is a chemical weapon and should fall under appropriate international guidelines. Though it rarely kills, it inflicts at least third-degree burns even through normal clothing. Using white phosphorus saddles your opponent with quite a problem-he has to care for many more wounded. It's so much easier to bury the dead.) -Colonel Cobra (05:20:14/11-05-54)\n> (A real solider; always the humane reaction.) -Tecker (19:38:45/11-06-54)\n> (It's real warfare, Tecker. If you fight, you fight to win. Anything less is inhumane.) -Matador (04:20:31/11-09-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "mortar_rounds",
+      "high_explosive",
+      "anti_personnel",
+      "smoke",
+      "anti_vehicle"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 54,
+    "concept": "MORTAR ROUNDS HE",
+    "dependencies": []
+  },
+  {
+    "title": "SENTRY WEAPONS",
+    "content": "The long-awaited Ares Arms Sentry™ weapons have finally arrived! The Sentry™ platform's unique modular system allows a merc or sec-force to customize it to suit specific needs. A fully-functioning 'smart' system, a Sentry™ can recognize, track, and engage pre-set, situation-determined, or random targets within its zone of control. Its multi-aspect sensors cover the entire electromagnetic spectrum, allowing it to engage any target it can sense for effective, deadly control.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "sentry_weapons",
+      "ares_arms",
+      "modular_system",
+      "combat_automation",
+      "smart_system"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Introduction to Sentry™ weapons and their capabilities",
+    "dependencies": []
+  },
+  {
+    "title": "SENTRY WEAPONS",
+    "content": "| Intelligence | Concealability | Weight | Cost | Availability | Street Index |\n| :----------- | -------------- | ------ | ---------- | ------------ | ------------ |\n| 6+ | | 4.0* | 22,000¥ tt | 12/21 days | 4 |\n\\* Plus weight of weapon, accessories, and ammunition.\n\\+ Each new sensor purchased adds +1 to the weapon's Intelligence Rating.\ntt Standard weapon costs 22,000¥, plus 10 percent of purchase price for customization. Purchase ammo and recoil compensation per standard rules. Additional low-light, pulsed radar, ultrasound, and audio sensors with integration software/hardware cost 2,000¥ each. Improved targeting capability allows the gun barrel to incline 20° and decline 10° at a cost of 3,000¥.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "sentry_weapons",
+      "customization",
+      "weapon_statistics",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Sentry™ weapons statistics and customization options",
+    "dependencies": []
+  },
+  {
+    "title": "SENTRY WEAPONS",
+    "content": "All Sentry™ weapons include integrated thermographic and pulse-radar sensors. All have a base Initiative of 15 + 1D6, which can be raised to 20 + 2D6 at a cost of 10,000¥ or to 25 + 2D6 at a cost of 20,000¥. Every Sentry™ has the equivalent of Firearms Skill 5, increased by +1 at a cost of 5,000¥ and by +1 for every additional integrated sensor purchased. The Sentry™ system takes 5 minutes to assemble or take apart, and is designed around a tripod that holds a motorized weapon mount with 360-degree rotation. The tripod provides 6 points of Recoil Compensation.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "sentry_weapons",
+      "firearms_skill",
+      "initiative",
+      "recoil_compensation",
+      "sensor_technology"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Detailed features and operational mechanics of Sentry™ weapons",
+    "dependencies": []
+  },
+  {
+    "title": "SENTRY WEAPONS",
+    "content": "The weapon mount holds any weapon from a submachine gun to a light machine gun, including new HVAR and HV/LMG weapons. Ammunition is belt-fed from a protected store that holds up to 2,000 rounds. For purposes of attacks against the system, the Sentry™ has a Barrier Rating of 12. For rules on Sentry™ gun operation, see Rules, p. 83.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "sentry_weapons",
+      "ammunition",
+      "gear_mechanics",
+      "combat_system"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Compatibility and ammunition details for Sentry™ weapons",
+    "dependencies": []
+  },
+  {
+    "title": "SENTRY WEAPONS",
+    "content": "> I've run into these a couple of times during regular merc work and 'shadowrun' style ops. Perimeter and 'hazardous area' security use them more frequently these days because they're easy to transport and set up. Also damn effective.) -Matador (04:20:45/11-05-54)\n> (Ares is building a whole Industry around these bastards. Future options include optical recognition technology (you get shot if you look wrong), active sensor interrogation (you get shot if you don't have the right coded badge), and mobile-platform integration.) -Conqueror Wyrm (20:10:32/11-08-54)\n> (Mobile platform integration ?? ) -Weasel (05:24:23/11-09-54)\n> (Already mentioned in the MAW entry. Main battle tanks and others have APZsanti-personnel zones-covered by automated, anti-infantry weapons mounted on the vehicle. Most tanks use Sentry guns or their ilk, or flechette/HE directional charges for close targets.) -Colonel Cobra (06:20:19/11-09-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "sentry_weapons",
+      "automated_defense",
+      "security",
+      "future_technology"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 59,
+    "concept": "User experiences and future developments related to Sentry™ weapons",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "Ever felt bothered by the limited ammo your under-barrel grenade launcher carries? The ArmTech MGL-12 multi-grenade launcher ends all your worries. A simple bull-pup weapon, the MGL-12 can load a clip of twelve standard mini-grenades. Accurate to a range of 300 meters, the MGL-12 lets you deliver all the blast you need! Also available in a Mini-6, pistol-style version!",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "armtech",
+      "mgl-12",
+      "grenade_launcher",
+      "firearms",
+      "combat_gear"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 60,
+    "concept": "Introduction and description of the ArmTech MGL-12 multi-grenade launcher",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n| :--------- | ------- | ------ | ---- | --------- | ------ | -----------: | -----: | -----------: |\n| Grenade 12 | 3 | 12 (c) | SA | Variable* | 5.0 | 6/36 | 2,200¥ | 3 |\n| Grenade 6 | 6 | 6 (c) | SA | Variable* | 2.5 | 6/36 | 1,600¥ | 3 |\n\\*Use standard grenade rules, p. 96, SRII.\n\nRecoil modifier is +2. Recoil compensation only applies to gyro-mounts. The weapon accepts targeting and sighting accessories.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "armtech",
+      "mgl-12",
+      "grenade_launcher",
+      "weapons_stats"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 61,
+    "concept": "Specifications and stats for the ArmTech MGL-12 and its variants",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "(Ya know, nobody's said the most important thing about all this wiz gear. Don't use it unless you know how, ‘kay? Dumbest thing I ever saw was a bulked-out street sam running down the street with an MGL-12, trying to hit a fast-retreating Hughes Stallion. Thought I was watching one of those Armed to the Teeth sims.) -Airman Al (04:20:29/11-06-54)\n\n(Hey! I HIT THE FRAGGIN' THING! So shut the frag up before I make you eat my fist!) - Slugg (09:20:14/11-07-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "armtech_mgl-12",
+      "cautionary_advice",
+      "weapons_safety"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 62,
+    "concept": "Cautionary advice regarding the use of the MGL-12",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "(Bad news, Slugg-omy-heart: YOU MISSED! You tagged the top of a tree, which blew up real nicely. I, however, piloting the aforementioned Stallion, made my escape. Guess you were too busy dodging bits of burning tree to notice .. . ) -Airman Al (20:15:48/11-09-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "armtech",
+      "mgl-12",
+      "explosives",
+      "combat_mishap",
+      "dialogue"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 63,
+    "concept": "Continuation of dialogue showcasing the consequences of improper use of the MGL-12",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "(YOU ARE MEAT! PASTY CAKES! DREK ON MY SHOE! SCUM IN THE BOTTOM OF THE BUCKET! FLESH BITS! WYRM FOOD! DEAD DEAD DEAD! (I'm gonna kill ya and then I'm gonna eat ya!)) <-Slugg (10:14:19/11-10-54)\n\nGrenades! Grenades! Grenades! One-stop shopping for all your grenade needs! Mix and match all shapes and sizes. Designer colors available.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "grenades",
+      "armtech_mgl-12",
+      "combat_reaction",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 64,
+    "concept": "Extreme reaction from a character following a failed grenade launch",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "| Grenade | Conceal | Damage | Weight | Availability | Cost | Street Index |\n|:------------------------------- | ------- | ---------------------- | ------ | -------------:| ----:| ------------:|\n| Offensive (HE* or AP) ** | 6 | 10S (-1/ meter) | 4 days | 30¥ | 2 | |\n| IPE Offensive<br>(HE* or AP) ** | 6 | 15S (-1/meter) | .25 | 5/4 days | 50¥ | 2 |\n| Defensive (HE* or AP) ** | 6 | 10S (-1/ .5 meter) | .25 | 4 days | 30¥ | 2 |\n| IPE Defensive<br>(HE* or AP) ** | 6 | 15S (-1/ .5 meter) | .25 | 5/4 days | 50¥ | 2 |\n| Concussion | 6 | 12M (Stun) (-1/ meter) | .25 | 5/4 days | 30¥ | 2 |\n| IPE Concussion | 6 | 16M (Stun) (-1/meter) | .25 | 5/4 days | 70¥ | 2 |\n| White Phosphorus *** | 6 | 14M/10L (-1/meter) | .25 | 6/5 days | 120¥ | 3 |\n| Smoke t | 6 | | .25 | 3/24 hrs | 30¥ | 2 |\n| Smoke (IR) + | 6 | | .25 | 4/48 hrs | 40¥ | 2 |\n| Flash tt | 6 | Special | .25 | 4/48 hrs | 40¥ | 1 |\n| Mini-grenade | 8 | by grenade | .1 | +2/by grenade | x2 | +1 |\n\\*HE: high-explosive. Standard grenade rules apply (p. 96, SRII).",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "grenades",
+      "explosives",
+      "damage",
+      "gear"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 65,
+    "concept": "Specifications and stats for various types of grenades",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "\\** AP: anti-personnel with high fragmentation. Standard grenade rules apply; determine damage according to flechette rules (p. 93, SRII).\\*** See Rules, p. 86 of this book. t See Rules, p. 85 of this book. tt See p. 44, Street Samurai Catalog.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "grenades",
+      "damage",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 66,
+    "concept": "Clarifications and references for grenade types and rules",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "(People vastly overestimate the effects of grenades. One old US Army study stated that an open-field grenade detonating within a few meters of a soldier had only an 80 percent chance of disabling him for a day. Of course, if you dive on the fraggin' thing like they keep doing in the sims, I'm sure the injuries get nastier.) -Tiny Terror (21:38:49/11-05-54)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "grenades",
+      "combat_effectiveness",
+      "military_studies"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 67,
+    "concept": "Commentary on the perceived effectiveness of grenades",
+    "dependencies": []
+  },
+  {
+    "title": "ARMTECH MGL-12",
+    "content": "(Don't believe everything you read. I don't trust any milistudy. Chip-truth, grenades make excellent herding weapons. Toss 'em in the right place and the enemy moves away from that location. Also, if your throwing arm or launcher is accurate, a grenade in the lap does a lot more damage than one that goes off \"within a few meters.\") - Hatchetman (08:20:14/11-06-54)\n\n(Always remember to throw it after you arm it. Trust me.) ...",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "grenades",
+      "tactics",
+      "combat_strategy",
+      "herding_weapons"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 68,
+    "concept": "Alternative perspective on the tactical use of grenades",
+    "dependencies": []
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "Ares Arms strikes again! Four years after introducing their revolutionary MP Laser, Ares has trimmed the price by an astounding 2,000 percent and begun mass production. An ideal weapon for the sophisticated mercenary or security force, the MP-Laser III is a self-contained, single-carrier system designed for instant reaction to and containment of serious threats. Hip-mounted, peak-discharge battery packs, designed for rapid exchange, can be recharged for future use.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_arms",
+      "mp_laser_iii",
+      "firearms",
+      "mercenary",
+      "security"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 69,
+    "concept": "Introduction and description of the ARES MP Laser III",
+    "dependencies": []
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "| Type | Conceal | Ammo | Mode | Damage | Weight | Availability | Cost | Street Index |\n|:------ | ------- | ---- | ---- | ------ | ------ | ------------:| --------:| ------------:|\n| Sniper | | 20 | SA | 15M | 25 | 24/21 days | 120,000¥ | 3 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_mp_laser_iii",
+      "sniper_rifle",
+      "weapons_stats",
+      "shadowrun_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 70,
+    "concept": "Statistical overview of the ARES MP Laser III",
+    "dependencies": []
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "To determine range, consult the Weapon Range Table (see Rules, p. 87) and decrease the weapon's Power Level by -2 for each range beyond Short (Medium -2, Long -4, Extreme -6). Ballistic Armor has no effect; reduce Impact Armor by half, rounded down. The laser does not pierce armor, and suffers the standard -1 Damage reduction when used against vehicles. Smoke reduces the laser's Power Level by -1 for every 2 meters of smoke the beam passes through. Recoil modifiers do not apply.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_mp_laser_iii",
+      "weapon_range",
+      "damage_calculation",
+      "armor_effects",
+      "recoil"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 71,
+    "concept": "Mechanics for using the ARES MP Laser III, including range and damage calculations",
+    "dependencies": [
+      "Statistical overview of the ARES MP Laser III"
+    ]
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "(NOOOOOOOOOO! This has got to be bulldrek! Nothing drops in cost by 2,000 percent in four years! Why are they marketing this jetwash? Why not just distribute assault rifles in grade school ?! ) -The Neon Samurai (03:20:19/11-10-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_mp_laser_iii",
+      "price_drop",
+      "marketing_strategy",
+      "critique"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 72,
+    "concept": "Critique of the ARES MP Laser III's price drop and marketing strategy",
+    "dependencies": []
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "(I remember you had a problem with the original MP Laser in a posting some time ago. The MP Laser Ill is a lot less nasty than an assault cannon by a long shot, but it's still way too expensive for most to buy one. Why the tantrum, Neon?) -Findler-Man (20:17:27/11-12-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_mp_laser_iii",
+      "weapons_cost",
+      "firearms"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 73,
+    "concept": "Discussion on the perceived value and cost of the ARES MP Laser III",
+    "dependencies": []
+  },
+  {
+    "title": "ARES MP LASER III",
+    "content": "(Perhaps I can shed some light on this. For years, the Neon Samurai has spread slander against Ares Arms, claiming that the company killed a certain Doctor Elliot Mills-Fargo after he created the key patents for the MP Laser. This claim is untrue. Stephen Mills-Fargo, aka \"The Neon Samurai,\" killed his own father after a drunken argument.) -Nightfire (04:10:20/11-13-54)",
+    "category": "lore",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_arms",
+      "mp_laser",
+      "neon_samurai",
+      "doctor_elliot_mills_fargo",
+      "corporate_slander"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 74,
+    "concept": "Response to allegations against Ares Arms related to the MP Laser's development",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "Watch the next level of Ares MP Laser technology in action! Ares Arms has created the first viable laser system for small and medium-sized vehicles. The turret-mounted FireLance™ system offers anti-armor capability against lightly armored vehicles and low-flying aircraft. Its high recharge rate allows it to hit multiple targets with ease, and its focusing and emission system has an extraordinarily high mean time between failure. Top-notch firepower with a minimum of field service-buy an Ares laser, you can't go wrong!",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_firelance",
+      "vehicle_laser",
+      "anti-armor",
+      "combat_gear"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 75,
+    "concept": "Introduction and features of the Ares FireLance™ vehicle laser system",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "| Type | Conceal | Mode | Ammo | Damage | Weight | Availability | Cost | Street Index |\n| ------- | ------- | ---- | ---- | ------ | ------ | ------------ | -------- | ------------:|\n| Assault | NA | SA | 40 | 15S | 48 | Unknown | 300,000¥ | Unknown |",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_firelance",
+      "vehicle_laser",
+      "combat_gear",
+      "statistical_data"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 76,
+    "concept": "Statistical data table for Ares FireLance™ vehicle laser system",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "To determine range, consult the Weapon Range Table (see Rules, p. 87). Decrease the weapon's Power Level by -2 for each range beyond Short (Medium -2, Long -4, Extreme -6). Ballistic Armor has no effect; reduce Impact Armor by half, rounding down. The armor-piercing beam suffers the standard -1 Damage Level reduction when used against vehicles. Smoke reduces the Power Level by -1 for every 4 meters of smoke the beam passes through. Recoil modifiers do not apply.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ares_firelance",
+      "range_modifiers",
+      "damage_modifiers",
+      "vehicle_weapons",
+      "armor_piercing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 77,
+    "concept": "Rules for calculating range and damage modifiers for the Ares FireLance™",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "(Nice try, Nightfire, you pathetic facsimile of a human being. Ares killed my father and you know if. I've been collectIng the proof for years: I've almost got it all. You'll be among the first to twist in the wind. Watch your back, chummer; that freight-train behind you is me!) -The Neon Samurai (10:21:40/11-14-54)",
+    "category": "lore",
+    "subcategory": "characters",
+    "tags": [
+      "the_neon_samurai",
+      "ares",
+      "vendetta",
+      "personal_story"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 78,
+    "concept": "Quote from The Neon Samurai expressing personal vendetta against Ares",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "(If you've got proof, go public with it. If you start a one man war against Ares, you'll lose. I'm no corp-kisser, but I have a good grasp of reality. You are a single samurai; they are a trillion-nuyen, multinational megacorp. Don't take them on, Neon-I already have too many friends in cemeteries.) -Hatchetman (08:20:10/11-15-54)",
+    "category": "lore",
+    "subcategory": "corporations",
+    "tags": [
+      "ares_corp",
+      "hatchetman",
+      "warning",
+      "corporate_power",
+      "shadowrun"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 79,
+    "concept": "Quote from Hatchetman advising against confronting Ares",
+    "dependencies": []
+  },
+  {
+    "title": "ARES FIRELANCE TM VEHICLE LASER",
+    "content": "(Neon Samurai can rave all he wants. Ares has proof he killed his father. Just before the Neon Samurai slammed his father's head through a plateglass door, Dr. Mills-Fargo managed to press the house's PANICBUTTON™ and trigger Knight Errant's internal surveillance systems. We have him committing murder on trideo. If anyone wants a copy, e-mail me at NA/UCAS/MW/ARES DET/42012093:NIGHTFIRE.DROP. The key portion is 30 Mps.) -Nightfire (21:29:32/11-15-54)",
+    "category": "lore",
+    "subcategory": "characters",
+    "tags": [
+      "neon_samurai",
+      "ares_firelance",
+      "nightfire",
+      "murder",
+      "trideo"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 80,
+    "concept": "Quote from Nightfire revealing evidence against The Neon Samurai",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "The American Ammo Co. proudly announces improvements to its current explosive and tracer ammunition products. Now, the EX Ammo line provides more explosion and fragmentation than ever before, at a minimal cost increase. The ViewFlight line of tracer ammunition has also been updated to provide an even more accurate ballistic path and brighter burn! American Ammo; for all your ammo needs!",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ammo",
+      "explosive",
+      "tracer",
+      "improvements",
+      "firearms"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 81,
+    "concept": "Announcement of improvements to EX Ammo and ViewFlight tracer ammunition lines",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "| | Concealability | Damage | Weight | Availability | Cost | Street Index |\n| ------------ | -------------- | --------- | ------ | ------------ | ---- | ------------:|\n| EX Explosive | 8 | See below | .75 | 6/72 hrs | 100¥ | 1.5 |\n| Tracer | 8 | See below | .5 | 3/24 hrs | 75¥ | 1 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ammunition",
+      "explosive",
+      "tracer",
+      "gear",
+      "combat_mechanics"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 82,
+    "concept": "Table of characteristics for EX Explosive and Tracer ammunition",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "EX explosive rounds add +2 to the Power of the weapon, but use all other standard rules. Tracer rounds can be used only in full-auto weapons, and are loaded every third round in the clip.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "explosive_rounds",
+      "tracer_rounds",
+      "firearms",
+      "full_auto"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 83,
+    "concept": "Rules for using EX explosive and Tracer rounds",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "Non-smartgun users receive an additional -1 target number modifier at ranges beyond Short, cumulative with every third round fired (-1 after first three, -2 after six, and so on).",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "tracer_rounds",
+      "target_number",
+      "non_smartgun",
+      "combat_mechanics",
+      "range_modifiers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 84,
+    "concept": "Target number modifiers for non-smartgun users firing Tracer rounds",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "When calculating burst damage for three round, multiple-round, or short-round bursts, do not add a bonus to the Power for the tracer round, but do increase the Damage Level appropriately. For example, a sub-machinegun using a 5M round and firing 10 rounds would have a Damage Code of 12D, normally 15D.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "damage_calculation",
+      "tracer_rounds",
+      "burst_fire",
+      "sub_machinegun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 85,
+    "concept": "Damage calculation rules for bursts using Tracer rounds",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "(It's a common misconception that \"exploding\" rounds are like microgrenades. Not true. Yes, there's a detonation, but the load is so minor it's really like an impressive fragmentation. Also, the rounds tend to detonate early, especially when punching through body armor of any weight. So no, you don't shoot somebody and then get to watch him blow up.) -Teague (12:10:13/8-22-94)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "explosive_rounds",
+      "firearms",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 86,
+    "concept": "Clarification on the nature of EX explosive rounds",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "(I've heard that Ares or someone is working on an explosive compound that detonates on contact with moisture. It's like a plastic explosive, so it blows up good when # hits, say, a body. That will let you shoot somebody and watch them blow up.) Gabe (21:51:52/8-22-94)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "ammunition",
+      "explosive",
+      "future_technology",
+      "speculation"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 87,
+    "concept": "Speculation on future ammunition technology",
+    "dependencies": []
+  },
+  {
+    "title": "TRACERS",
+    "content": "(Geez! What are you, twelve years old or something? Think about what you just said. Moisture? That's got to be one of the dumbest things I've ever heard. Grow up. Get a life. Leave us alone.) -Monster Eater (08:20:17/8-23-94)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "explosive_ammo",
+      "critique",
+      "ammunition",
+      "combat"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 88,
+    "concept": "Critique of the previous speculation on explosive ammunition",
+    "dependencies": []
+  },
+  {
+    "title": "CAMOUFLAGE CLOTHING",
+    "content": "No field operation is complete without the proper clothing! Patterson Fabrics Camo-Spec™ clothing uses computer-designed environmental facsimile patterning for maximum concealment. Available in a wide variety of patterns and weights, Patterson Fabrics is the choice for you! Available patterns include Desert, Snow, Woodland, Urban, and Winter Woodland. All garments have reversible day/night patterns.\n\n| | Ballistic | Impact | Availability | Cost | Street Index |\n| --------- | --------- | ------ | ------------ | ------ | ------------ |\n| Full Suit | 3 | 1 | 4/36 hrs | 800¥ | 1 |\n| Jacket | 5 | 3 | 5/36 hrs | 1,200¥ | 1 |\nFor the effects of camo clothing on Perception Tests, see Rules, p. 77.\n\n> (Most shadowrunners don't think about clothing, though mercs live and die by it. Amazing how many wildcard, runner-wannabes try to sneak around in their Day-Glo Mohawk hairdos and phosphorescent tattoos.) -Hatchetman (03:20:11/11-08-54)\n> (Maybe they're intentionally unprepared. You know, \"Zen and the Art of Shadowrunning?\" Let the flow guide you. Ride the river, don't fight it. Be the wind.) -Whistle (08:28:29/11-09-54)\n> (Be real, chummer. Sure, you need some spontaneity, but if you know the course of the river ahead of time you'll be prepared to shift your weight to avoid the rocks. Know the course, and only wing it when you have to.) -Stick (17:29:41/11-11-54)\n> (Remind me not to work on any missions with either of you two wonk-heads. Jeez.) - Raider X (18:56:22/11-12-54)",
+    "category": "gear_mechanics",
+    "subcategory": "clothing",
+    "tags": [
+      "camouflage_clothing",
+      "gear",
+      "concealment",
+      "shadowrun"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 89,
+    "concept": "CAMOUFLAGE CLOTHING",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "When you need something tougher than soft-cloth ballistic armor, step up to real protection. Kelmar Tech's patented gel-pack technology provides hardened protection against penetration along with maximum comfort and flexibility. Kelmar gel-packs remain liquid and flexible until the shock wave of a projectile impact solidifies the gel into an impenetrable barrier. As the kinetic energy dissipates, the gel liquefies, ready to absorb the next impact. Kelmar's military-spec combat armor is the best of the best!",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "gel_pack",
+      "armor",
+      "kelmar_tech",
+      "combat_protection",
+      "flexibility"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 90,
+    "concept": "Introduction to Gel-Pack Armor and its technology",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "Mil-spec gel packs can be added to any available armor. With the addition of gelpacks, treat armor as Hardened at its normal Ballistic and Impact ratings. If applicable, reduce Concealability by half (rounded down).",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "gel_pack",
+      "armor",
+      "hardened",
+      "concealability",
+      "mil_spec"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 91,
+    "concept": "Rules for adding gel packs to armor and their effects on armor ratings",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "The gel-packs increase all armor's weight by 25 percent, multiply its cost by 5, double its Street Index and Availability target number, and quadruple the time required to get it.",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "gel_pack",
+      "armor_weight",
+      "cost_increase",
+      "availability",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 92,
+    "concept": "Effects of gel packs on armor weight, cost, and availability",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "If a weapon's Power, before burst or autofire modifications, does not exceed the modified armor's rating, the round does not penetrate and does no damage. If a weapon's Power exceeds the armor's rating, reduce the rating per standard Shadowrun rules. Penetration reduces the armor's rating by 1 per penetration.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "gel_pack_armor",
+      "penetration_rules",
+      "damage_calculation",
+      "armor_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 93,
+    "concept": "Penetration rules for weapons against gel-pack armor",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "(I used this gel drek once working in the south of France. We're geared for a little night action, so I'm strapped into a set of mil-spec light security armor and running a full electronics suite, interlinked with all my team members, exchanging data at the speed of light. We penetrate the complex and BOOM! my happy feet trigger a Sentry gun (sorry I ain't gonna type in that fraggin' (TM)!) sporting an HV/LMG. The burst knocks me back a couple of meters and leaves me staring at stars. Am I alive? Yup. Do I hurt? Oh, yeah. Can i move? Nooooo. Know why? The gel doesn't liquefy. It stays hard and leaves me stiff as a plank. The tech-heads told me it was a \"multiple shock-wave resonance effect.\" One in a million, they said. Never happen again, they said. I won't play those odds.) - Night Fighter (08:23:14/11-10-54)",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "gel_pack_armor",
+      "combat_experience",
+      "personal_anecdote"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 94,
+    "concept": "Personal anecdote illustrating the potential failure of gel-pack armor under specific conditions",
+    "dependencies": []
+  },
+  {
+    "title": "GEL-PACK ARMOR",
+    "content": "(I've found that mil-spec versions of most conventional armor is pointless against ballistics. It doesn't stop a round all that much better than soft cloth armor, which is a misnomer: after all, plates are standard in soft body armor. Against blades, though, milspec comes in handy-assuming a troll doesn't take a stab at you.) -Tuna Boy (10:20:11/11-13-54)",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "gel_pack",
+      "armor",
+      "mil_spec",
+      "ballistics",
+      "blades"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 95,
+    "concept": "Personal opinion on the effectiveness of mil-spec armor against different types of attacks",
+    "dependencies": []
+  },
+  {
+    "title": "MILITARY GRADE ARMOR",
+    "content": "The military traditionally kept the best for themselves. Now, Esprit Industries of France brings you mil-spec quality on the open market! Esprit's new line of military-grade combat armor offers full protection, hard and softarmor integration, energy dispersal, thermal dampening options, intrasuit wiring conduits, surface antenna matrices, the works. Available in standard or custom camouflage patterns, these suits are a must for the serious fighter.\n\n| | Ballistic | Impact | Weight | Availability | Cost | Street Index |\n| --------------------- | --------- | ------ | --------- | -----------: | ------- | ------------ |\n| Light Military Armor | 10 | 7 | 12 + Body | 18/1 mth | 25,000¥ | 3 |\n| Medium Military Armor | 12 | 8 | 14 + Body | 24/1 mth | 45,000¥ | 3 |\n| Heavy Military Armor | 14 | 9 | 16 + Body | 28/1.5 mths | 70,000¥ | 3 |\n| Heavy Military Helmet | +2 | +3 | 3.0 | 24/1 mth | 2,500¥ | 3 |\nTreat military-grade armor as Hardened. Suits are designed to integrate combat electronics, including the BattleTac™ system. Military-grade armor reduces the wearer's Combat Pool by 1 for every 2 points of Ballistic Armor Rating above the character's Quickness Rating.\n\n> (Shadowrunners shouldn't even think about this stuff except in the most extreme circumstances. It looks like what it is-military-grade armor. I've seen people wearing this gear with all the accessories, and they don't look human. Makes me shake to think about it.) -Rapid Fire (08:21:28/11-09-54)\n> (I heard Fuchi's working on a fully-powered version of this kind of armor: strength amplification, jump-pack system, integrated weapons, the works. Anybody else heard anything?) -Shade (20:21:28/11-13-54)\n> Just rumors, but I heard it was Ares, not Fuchi.) -Hyper-Volt (17:25:40/11-24-54)\n> (Fuchi? That'll be the day.) -Nightfire (08:27:35/11-25-54)",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "military_grade",
+      "armor",
+      "combat_gear",
+      "esprit_industries"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 96,
+    "concept": "MILITARY GRADE ARMOR",
+    "dependencies": []
+  },
+  {
+    "title": "COUGAR FINE BLADE KNIFE",
+    "content": "Ideal for the in-the-field mercenary or the more urban oriented soldier of fortune, the Cougar Fineblade uses state-of-the-art molecular bonding and edging technology to create an incomperable blade. Its double-bladed, with a special wire-cutting notch, and hardened grip and pommel, makes the Cougar Fineblade the perfect combat companion. Available in standard and longblade versions, both using Cougar's patented technology. \n\n| Type | Conceal | Reach | Damage | Weight | Availability | Cost | Street Index |\n|:----------- | ------- | ----- | ---------- | ------ | ------------:| ------:| ------------:|\n| Short Blade | 8 | 0 | (STR)M | .5 | 5/72 hrs | 800¥ | 3 |\n| Long Blade | 5 | 0 | (STR + 1)M | .75 | 8/72 hrs | 1,500¥ | 3 |\nThe Fineblade knife has no special properties.\n> This is an interesting weapon option that offers much the same effect as Dikoting™ at a greatly reduced price. Ironically, at a weapons show in Cairo last year I watched a salesman show this weapon to an interested young lady, in the process severing two fingers. Quite a demonstration.) -Tyrus (8-15-94/3:20:14)\n> (Dikote™ is more effective, especially because it has antiarmor capability. Fletcher, a friend of mine with an almost unnatural affection for archery, uses Dikote™ arrowheads almost exclusively- to great effect. I've also seen Dikote™. coated crossbow bolts blow straight through an armored passenger car and come out the other side pretty bloody. ) -Dennis 'D' (13:11:18/8-21-94)\n> (Since this conversation seems to have digressed to discussing Dikote™, I'll offer an evil thought. . . Has anyone considered or experimented with Dikoting flechettes? Just wondering.) -Weasel Boy (21:10:41/08-21-94)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "cougar_fine_blade",
+      "knife",
+      "melee_weapon",
+      "combat_gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 97,
+    "concept": "COUGAR FINE BLADE KNIFE",
+    "dependencies": []
+  },
+  {
+    "title": "CLIMBING GEAR",
+    "content": "Sometimes, getting in is half the battle; Duraflex's full line of climbing accessories tips the battle in your favor! Built for the soldier on the move, all Duraflex accessories are compact, efficient, and reliable. Count on Duraflex!\n\n| | Weight | Availability | Cost | Street Index |\n| ---------------------- | ------ | ------------ | ---- | -----------: |\n| Ascent/Descent Harness | .25 | Always | 75¥ | 1 |\n| Ascent/Descent Kit* | 2.0 | Always | 250¥ | 1 |\n| Rappelling Gloves | | Always | 70¥ | 1 |\n| Rope (50m) | 1.0 | Always | 125¥ | 1 |\n\\*Ascent/Descent kit includes descenders, ascenders, carabiners, crampons, and so on as appropriate. All climbing ropes and harnesses hold up to 2,000 kgs. Harness is quick-release. For climbing rules, see pp. 75-76.\n\n> (One of my best career moves was to learn mountaineering. I feel much more confident, so I can ascend, descend, and traverse much faster and more efficiently. My exposure is down significantly, and I am a much happier troll.) -Able (04:28:28/11-05-54)\n> (WOW! Sorry, I just flashed on walking down the street and seeing a troll rappelling down a skyscraper toward me. One question that only just occurred to me: how easily available is troll- and ork-sized gear? I see socalled \"normal\" stuff everyday, but what about \"Real Big Man\" stuff?) -Lord Fly (21:28:15/11-08-54)\n> (Some things are more common than others. For example, I can simply buy some climbing gear at a greater tensile strength than anything small folk would buy for themselves. In general, though, ork-sized stuff costs 50 percent more and troll-sized stuff doubles in price. Bulldrek like that keeps my people in the slums.) :- Able (05:10:13/11-10-54)",
+    "category": "gear_mechanics",
+    "subcategory": "climbing_gear",
+    "tags": [
+      "climbing_gear",
+      "equipment",
+      "duraflex",
+      "accessories",
+      "gear"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 98,
+    "concept": "CLIMBING GEAR",
+    "dependencies": []
+  },
+  {
+    "title": "SMARTLINK LEVEL II",
+    "content": "SMARTLINK LEVEL II\n\nAvailable for the first time, the new Smartlink Level Il represents a significant improvement over existing smartgun technology. Better command processing, faster signal referencing, cleaner cross-vendor integration, and formal adherence to the new ADVAT.328 protocol standards make your weapon linkage faster and better than ever! Smartlink Level II components are fully compatible with Level I Smartlink systems!",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "smartlink",
+      "technology",
+      "gear",
+      "combat"
+    ],
+    "content_type": "introduction",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 99,
+    "concept": "Introduction and overview of Smartlink Level II technology",
+    "dependencies": []
+  },
+  {
+    "title": "SMARTLINK LEVEL II",
+    "content": "| | Mount | Conceal | Weight | Availability | Cost | Street Index |\n| ------------ | --------- | ------- | ------ | ------------ | ------ | :----------: |\n| External | Top/under | -2 | .75 | 6/48 hrs | 800¥ | 2 |\n| Internal | | | .25 | Weapon | +250% | Weapon |\n| Smartgoggles | | 0 | .1 | 4/36 hrs | 3,500¥ | 2 |",
+    "category": "gear_mechanics",
+    "subcategory": "smartlink",
+    "tags": [
+      "smartlink",
+      "gear",
+      "specifications",
+      "combat_gear"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 100,
+    "concept": "Table of specifications for Smartlink Level II components",
+    "dependencies": []
+  },
+  {
+    "title": "SMARTLINK LEVEL II",
+    "content": "| | Essence Cost | Availability | Cost | Street Index |\n| ---------:| ------------ | ------------ | ------ | ------------ |\n| Smartlink | .5 | 6/48 hrs | 3,200¥ | 2 |\n\nFor rules regarding Smartlink Level Il technology, see p. 84-85. To gain Level II advantages, both the smartlink and the smartgun must be Level II.",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "smartlink",
+      "essence_cost",
+      "availability",
+      "gear"
+    ],
+    "content_type": "table",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 101,
+    "concept": "Table of essence cost and availability for Smartlink Level II",
+    "dependencies": []
+  },
+  {
+    "title": "SMARTLINK LEVEL II",
+    "content": "(Truthfully, I wonder if the upgrade is worth the price. Most of the improvements really only matter to tech-heads. The weapon feels more alert (weird sensation), and the range finder linkage becomes handy at longer ranges, but I just don't know.] -Fitzburg (03:29:16/11-12-54)\n\n(Fitz, old boy, for some of us that uncertainty makes the package.) -Grouper (20:18:16/11-13-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "smartlink",
+      "upgrades",
+      "gear",
+      "combat",
+      "technology"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 102,
+    "concept": "User opinion on the value of Smartlink Level II upgrades",
+    "dependencies": []
+  },
+  {
+    "title": "SMARTLINK LEVEL II",
+    "content": "(The specs don't say anything about it, but I just got a Smartlink Level Il and it interfaces with my vehicle control rig. I get full status and targeting info off any \"smart\" vehicle weapon when I'm rigging, in addition to the standard basic data overlays. I'm definitely more accurate with smartlinked weapons now. I found all this out because I needed to swap out an LMG that had fouled. The only one we had was already \"smart,\" and I didn't have time to take out the brains.) -Georgi (23:29:41/11-15-54)\n\n(Hey! Mine doesn't do that ... ) - Radar Lover (14:31:23/11-17-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "smartlink",
+      "vehicle_control_rig",
+      "accuracy",
+      "combat",
+      "gear"
+    ],
+    "content_type": "example",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 103,
+    "concept": "User experience with Smartlink Level II and vehicle control rig integration",
+    "dependencies": []
+  },
+  {
+    "title": "TACTICAL COMMUNICATION SYSTEM",
+    "content": "Keep in touch with the rest of your team with the new Phillips Tacticom system! Phillips brings its combat-proven electronics to battlefield communications with six levels of signal encryption and the capability to load custom encryption algorithms. Heavily protected both inside and out, the master unit accepts signals from conventional land-lines, satellite uplinks, dedicated laserlinks, microwave relay, and any other telecommunications signal source. An outstanding system at an outstanding price!\n\n| | Concealability | Rating | Weight | Availability | Cost | Street Index |\n| -------------------- | -------------- | ------ | ------ | ------------ | -------- | -----------: |\n| Master Unit | | 14 | 75 | 24/21 days | 60,000¥ | 3 |\n| Portable Master Unit | | 14 | 20 | 18/14 days | 120,000¥ | 2 |\n| Personal Comm Unit | 8 | 14 | .5 | 12/14 days | 18,500¥ | 2 |\n| Microwave Link | 3 | | 1.0 | 18/21 days | 4,800¥ | 2 |\n| Laser Link | 4 | | 1.0 | 14/21 days | 2,700¥ | 2 |\n| Satellite Uplink | | | 2.0 | 12/21 days | 7,500¥ | 2 |\nFor more information on the uses of the system, see p. 86.\n\n> (I like the Phillips system. No one's broken the encryption yet-course, that may be luck. Even in zones with lots of electrical noise, the system's pretty clean. The scan-link option on the laser link makes it easy to set one up and hit the receptor-get the bearing right, and the system does the work. Slick.) -Matador (03:51:30/11-15-54)\n> (I prefer to work off a laser or tight-beam satellite system. (Frag, I've even lofted a hover-drone with a microwave link system. My boys knew where It was and could tap it for direct-link communication. Of course, we were all on-line with BattleTac™ hardware. After all, we're the best!) -Winter Rat (20:16:35/11-16-54)\n> (Thanks Rat- I'll remember that next time we tangle.) -Matador (11:28:06/11-19-54)\n> (Thailand again. Betcha.) -Winter Rat (20:27:L13/11-21-54)",
+    "category": "gear_mechanics",
+    "subcategory": "communications",
+    "tags": [
+      "tactical_communication",
+      "gear",
+      "encryption",
+      "battlefield",
+      "electronics"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 104,
+    "concept": "TACTICAL COMMUNICATION SYSTEM",
+    "dependencies": []
+  },
+  {
+    "title": "BATTLETAC INTEGRATION SYSTEM",
+    "content": "Sony makes a splash in battlefield tactical management with the BattleTac™ system! In the field, knowledge is power-the BattleTac™ system gives that power to the commanders and to the soldier on the line. Unit positions, assets, conditions, situations-you name it and BattleTac™ has it! The BattleTac™ system integrates tactical telecommunications and data transfer. Each soldier equipped with a BattleTac™ unit is linked with allied BattleTac™ users in an open communications and data exchange network. Sony Corp's BattleTac™ gives you the key to victory! Using BattleTac™ requires a Special Skill: Small Unit Tactics and BattleTac™. Users receive an additional -2 modifier to all target numbers whenever the network is active. For more information, see p. 84.\n\n> (Sorry, chummers. This drek means the \"Future Trooper\" is now. See, vehicles can also use BattleTac™. Let's say Dog Soldier Sylvia sees an enemy unit approaching her hideaway. She feeds that data into the network, and seconds later a trio of Stonewall MBTs sitting silently in a field kilometers away start dropping death on the enemy unit. Imagine this kind of hook-up with artillery, air-to-ground weapons, homing mortar rounds, and so on. The modern battlefield is data, people. Believe it, or die.) -Matador (11:34:29/11-19-54)\n> (We deckers have said that for years.) -Dead Deckers Society (20:10:15/11-20-54)\n> (Very funny. Fortunately, BattleTac™ systems and those like It are restricted to elite corporate or private units. You won't see a regular Aztlan trooper sporting BattleTac™ or anything like it.) -Cornwall (03:27:51/11-22-54)\n> (Give them time. Every year, prices and size drop by 10 percent. Welcome to progress.) -I in the Sky (18:46:30/11-24-54)",
+    "category": "gear_mechanics",
+    "subcategory": "tactical_systems",
+    "tags": [
+      "battletac",
+      "tactical_management",
+      "communication",
+      "data_transfer",
+      "small_unit_tactics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 105,
+    "concept": "BATTLETAC INTEGRATION SYSTEM",
+    "dependencies": []
+  },
+  {
+    "title": "TARGET DESIGNATORS",
+    "content": "Light up that enemy! Winter Systems offers top-of-the-line target designators. Choose the target of allied fire from the safety of your bunker, trench, or hideaway with the front-runner in military electronics. From IR lasers to microwave pulse systems, Winter Systems designators are the most accurate and reliable model on the market. When precision counts, count on Winter!\n\n| Type | Conceal | Range | Weight | Availability | Cost | Street Index |\n| ---------------------- | ------- | ---------- | ------ | ------------:| ------- | ------------ |\n| Low-power laser sight | -1 | 500m | .25 | 6/36 hrs | 500¥ | 9 |\n| High-power laser sight | -1 | 1,500m | .25 | 8/48 hrs | 1,400¥ | 1 |\n| Laser designator | -2 | 5,000m | 5 | 12/14 days | 3,700¥ | 2 |\n| Microwave designator | 2 | 8,000 km | 4.5 | 24/1 mth | 12,500¥ | 2 |\n| Radar designator | 2 | 10,000 km+ | 25 | 24/3 mths | 48,000¥ | 1 |\n\nFor rules on using target designators, see p. 85.\n> (I've had a lot of success outfitting forward observers with various designators. They spot a target, light it up, and then the light artillery grunts in the backfield send up a handful of target tracking rounds. They grab some air, look down, and well-what-do-you-know, there are the targets shining brightly. Down they come. Boom goes the target. Gotta love it.) -Night Fighter (08:22:30/11-19-54)\n> (Most designators can be compromised, so don't bet the farm on them or you just might end up buying that particular real estate. Smoke blocks lasers. Chaft-reflective particles blown into the airnalls microwave and radar. So do competing beams of microwave or radar energy. Never assume something will work; always plan alternatives.) - Matador (05:08:30/11-22-54)\n> (Hey, Matty, do you teach merc for a living or something? Your tone is gettin' on my nerves, chummer. Scan me?) -Squirrel (13:38:50/11-24-54\n> (You might say he wrote the book.) -Double Dirk (20:19:15/11-25-54)",
+    "category": "gear_mechanics",
+    "subcategory": "weapons",
+    "tags": [
+      "target_designators",
+      "military_gear",
+      "laser_sights",
+      "microwave_designators"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 106,
+    "concept": "TARGET DESIGNATORS",
+    "dependencies": []
+  },
+  {
+    "title": "GLOBAL POSITIONING SYSTEM",
+    "content": "With the new Sony Nav-Dat™ global positioning system, you'll never get lost again! It instantly cross-references your location against all known navigational satellites and, in seconds, provides information on your location accurate within 2 meters. The system's super-accurate internal digital maps come datasoft jack-equipped, and cover several areas. The system also provides several standard coordinate systems and positioning algorithms. Plot, track, and plan your movements using the positions of the moon and sun: no bother, no hassle! Fully compatible with the Sony BattleTac™ system!\n\n| Conceal | Weight | Availability | Cost | Street Index |\n| ------- | ------ | -----------: | ---- | ------------ |\n| 8 | 5 | 6/48 hrs | 700¥ | 1 |\n\n> (Never get lost in Amazonia. Chummer, that place is so Awakened that any map made more than a month ago is out of date. I've never actually seen the land change, but I've been back to plenty of places I'd visited before and found them very, very different.] -Matador (04:20:12/11-13-54)\n> (I know for a fact that Amazonia purchased two Fuchi LandScan ground-imaging satellites about five years ago. Ares shot them into orbit about a year later. They pass over the whole country, reimaging the entire nation once every three weeks. And they still use plenty of aircraft to monitor forest growth.) in the Sky (07:02:16/11-14-54)\n> (Amazonia's overgrowth problem is one of their dirty little secrets. Whatever they did to re-grow the rain forests seems to go on unchecked. I understand they've even considered limited, strategic deforestation in some areas, though you can imagine the political repercussions of that choice in the Green Nation.) -Mike Monitor (10:57:32/11-15-54)",
+    "category": "gear_mechanics",
+    "subcategory": "navigation",
+    "tags": [
+      "global_positioning_system",
+      "navigation",
+      "gear",
+      "sony",
+      "datasoft"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 107,
+    "concept": "GLOBAL POSITIONING SYSTEM",
+    "dependencies": []
+  },
+  {
+    "title": "NIGHT GLIDER IM",
+    "content": "The Artemis Industries Nightglider™ brings the medium-weight glider to the cutting edge of infiltration operations. Easily deployable from two oversized bags, the Nightglider™ runs on a compact, virtually silent, electric-driven turbofan engine. Low noise, radar-absorbing mesh skin, and a flexible and responsive airframe combine to make a vehicle perfect for midnight runs. The Nightglider™ can also carry a fully operational 400-kg load, making it ideal for full-gear tactical strikes. An optional remote operations package lets you leave it airborne nearby for a quick getaway!\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ----- | --- | --- | ------ | ----- | ------: |\n| 3 | 15/60 | 1/0 | 12 | 1 | 4 CF | 45,000¥ |\nSeating: 1 underslung\nEconomy: 1 PF per km\nAccess: N/A\nPower: Elec/100\nWeight: 200 kgs\nLanding/Takeoff Profile: Effective VTOL\nAdditional Features: The glider takes 5 minutes to assemble and disassemble.\n\n> (I've used the Nightglider on several occasions. It's a pretty good transport, but don't try anything fancy or it'll come apart. Avoid ground fire and hard landings at all costs.) -Matador (04:29:17/11-10-54)\n> (I also question the landing/takeoff information. Landing vertically is easy, because the stall-speed is so low you can pretty much coast in and land it, like a hang glider. Taking off is another story. You can take her up almost vertically by redlining the engine, but that sucks away about 25 percent of your battery power. It also kicks engine heat way up, which wrecks the bird's signature-but if you've got the watts to spare, go for it. You'll get off the ground fast.) -Desert Vet (20:14:23/11-15-54)\n> (I wish the airframe was a little tougher. It can take a firmpoint, and I usually bring up light cargo like ECM/ECCM gear and some sensors, but I still feel vulnerable.) -Trap Door Tex (21:18:41/11-16-54)",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "night_glider",
+      "infiltration",
+      "vehicle",
+      "artemis_industries",
+      "tactical"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 108,
+    "concept": "NIGHT GLIDER IM",
+    "dependencies": []
+  },
+  {
+    "title": "GMC MPUV",
+    "content": "The GMC multi-purpose utility vehicle (MPUV) is the world's most popular light combat vehicle, perfect for every use from light scout to personnel transport. Lightly armored against small-arms fire, the four-wheel drive MPUV can handle almost any situation.\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ------- | --- | --- | ------ | ----- | ------: |\n| 5/3 | 40/120* | 2/9 | 4 | 0 | 10 CF | 22,000¥ |\nSeating: 2 front buckets + 1 rear bench\nAccess: 2 + 2 standard\nFuel: MultiF/100\nEconomy: 15 km per liter\nAdditional Features: Accessories include a radio transceiver, white-light searchlight, roll bars, and roof pintle mount with access hatch. Some MPUVs come with a single hardpoint. Weapons not included.\n\\*Off-road speed is 30/90.\n\n> (Ah, the ubiquitous MPUV. You can even see street-legal versions in some areas. Trés chic, don't ya know.) -Hummer Hal (08:29:37/11-28-54)\n> (This entry is too vague about the vehicle's real capabilities. I've seen versions mounting anti-tank weapons, local-area sensor platforms, even light anti-aircraft missiles or autocannons. The biggest problem, in my opinion, is that its armor is too weak to stand up to real weapons and its relatively poor signature.) -Colonel Cobra (21:02:21/11-30-54)\n> (Sure, but trying to improve signature cripples the vehicle. The engine can't handle the extra load. I knew a merc unit that sensor-masked a bunch of MPUVs. Fraggin' things kept overheating. They could have installed extra coolant systems, but that gets expensive.) -Tiger Team (20:54:28/12-02-54)",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "gmc_mpuv",
+      "light_combat_vehicle",
+      "utility_vehicle",
+      "transport"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 109,
+    "concept": "GMC MPUV",
+    "dependencies": []
+  },
+  {
+    "title": "LAV-98 \"DEVIL RAT\" APC",
+    "content": "The major transport of both the Confederated American States and California Free State, the Devil Rat armored personnel carrier (APC) is part of the arsenals of the world's major militaries and corporations. Able to deploy up to eight soldiers while providing fire support, the Devil Rat is the perfect choice for combat and combat-support missions.\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ------ | ---- | --- | ------ | ----- | -------: |\n| 5/3 | 25/75* | 3/12 | 6 | 2 | 12 CF | 250,000¥ |\nSeating: 3 crew + 3 benches\nAccess: 3 top hatches, 1 double-sized rear hatch\nFuel: MultiF/325 liters\nECM/ECCM: None\nEconomy: 2 km per liter\nCargo: 12 CF\nSensors: None\nAdditional Features: Amphibious capability, telecommunications system (Rating O), EnviroSeal™, small remote turret. Weapons, sensors, and ECM/ECCM not included. Off-road speed is 15/45, 10/30 in water.\n\n> (Devil Rat's a death trap if you ask me. I've seen too many of them light up after a hit near the ammo or fuel. The armor seems sufficient for its job, but ya gotta wonder when they go off like grenades all over the battlefield.) -Cougar Punch (03:21:27/11-30-54)\n> (Poor maintenance, Coug. Check those maintenance and tech people. Are they sealing all the conduits after servicing? Checking regularly for micro-leaks in the fuel lines, too small to notice but big enough for a fireball or spark to set off? Are the seals on the ammo feeds and bins solid or rotted? If someone's checking and you still got problems, you got a saboteur.) Flying Wallenchek (21:34:09/12-01-54)\n> (I'll second that. We field Devil Rats regularly and have had no problems. Sure, they pop when an ATGM hits them, but that's no surprise.) -Winter Rat (18:43:55/12-05-54)",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "apc",
+      "devil_rat",
+      "armored_personnel_carrier",
+      "military_vehicles",
+      "transport"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 110,
+    "concept": "LAV-98 \"DEVIL RAT\" APC",
+    "dependencies": []
+  },
+  {
+    "title": "LAV-103 \"STRIKER\" LIGHT TANK OR THUNDER THIGHS",
+    "content": "Based on a reinforced version of the popular Devil Rat suspension and drive train, the LAV-103 \"Striker\" light tank has heavier armor and packs a heavier punch without loss of speed! Improvements to the engine and transmission enable this heavy fire-support vehicle to match the speeds of lighter tanks. Comes in amphibious and anti-air configurations, making the Striker a popular vehicle in many theaters of operation.\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ------ | ---- | --- | ------ | ----- | -------: |\n| 6/4 | 25/75* | 5/15 | 6 | 2 | 5 CF | 480,000¥ |\nSeating: 3 bucket seats\nAccess: 2 front hatches, 1 turret hatch\nEconomy: 1.5 km per liter\nCargo: 5 CF\nFuel: MultiF/600 liters\nECM/ECCM: None\nSensors: None\nAdditional Features: Comes with telecommunications system (Rating 0), and EnviroSeal™, and medium remote turret. Weapons not included.\n\\*Off-road speed is 15/45.\n\n> (The Striker configuration we use most often mounts a Victory rotary assault cannon. We've tried to construct the unit around the same class of heavy weapons so that they all use variants on the same ammo. It works pretty well, though obviously we'd like the heavier firepower of an actual autocannon on occasion.) -Ultra-Drek (23:59:30/12-01-54)\n> (Ultra, you are weird. I've never heard of such a thing on the scale you're talking. Maybe for small arms, but for cannon rounds?) -Tuber (20:20:14/12-02-054)\n> (Not really weird. I've worked with plenty of low-budget countries that bought their vehicles surplus. Want to hear about a logistical nightmare? Of the seven different kinds of light combat vehicles they fielded, none fired the same ammo. Yeeesh.) -Merc Mania (18:28:41/12-030-54)\n> (Seven different cannons in the same class ?? That's stupid !!! ) -Weasel (04:21:40/12-06-54)",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "light_tank",
+      "military_vehicles",
+      "fire_support",
+      "amphibious"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 111,
+    "concept": "LAV-103 \"STRIKER\" LIGHT TANK OR THUNDER THIGHS",
+    "dependencies": []
+  },
+  {
+    "title": "C-60 TITAN MEDIUM TRANSPORT",
+    "content": "A common sight in corporate, military, and mercenary forces around the world, the C-260 is the perfect workhorse. With the right modifications, this transport can become a powerful air-to-ground weapons platform or a long range sensor platform. An excellent all-purpose aircraft!\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ------- | ---- | --- | ------ | -------- | -------: |\n| 7 | 150/300 | 5/12 | 4 | 3 | 3,000 CF | 700,000¥ |\nSeating: 2 crew (buckets) + 3 support (buckets)\nEconomy: . 04\nMax Range: 7,600 km\nAccess: 1 side hatch, rear ramp\nFuel: 180,000 liters\nCombat Radius: 1,800 km\nECM/ECCM: None\nLanding/Takeoff Profile: STOL\nSensors: None\nAdditional Features: Telecommunications system (Rating 0). Weapon mounts, sensors, and ECM/ECCM not included in standard configuration.\n\n> (This sucker flies like a fraggin' brick wall. If you're flying one of these and somebody shoots a marginally intelligent missile at you, or (god forbid) comes after you in an aircraft, you'd better hope you've got enough electronics to spook them. You sure as hell ain't gonna fly out of trouble.) -Wildcat (13:56:41/12-03-54) > (Heh. You've never seen one of our Titans, have you? Sensor suite to dream over: underwing AAMs, chaff and flare dispensers, the works. Costs money, but it's cheaper than losing the plane.) -Winter Rat (04:20:53/12-05-54)\n> Or the pilot.) -Marx (20:29:35/12-06-54)\n> (Thanks for the thought!) -Wildcat (14:08:01/12-07-54)",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "c-60_titan",
+      "transport",
+      "aircraft",
+      "military",
+      "corporate"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 112,
+    "concept": "C-60 TITAN MEDIUM TRANSPORT",
+    "dependencies": []
+  },
+  {
+    "title": "AERODESIGN CONDOR II LD SD-41",
+    "content": "Based on the popular SHAPELY (SHaped Airfoil Positive Enhanced Lift) design, the Condor II drone makes an ideal platform for extended recon and surveillance. This lighter-than-air vehicle requires minimal mechanical lift, reducing its signature and fuel consumption. Modeled on the ground-breaking Condor LDSD-23 drone, the Condor Il replaces solar cells with long-duration batteries for extended airtime.\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ----- | --- | --- | ------ | ----- | ------: |\n| 5 | 30/90 | 1/3 | 11 | 3 | 4 CF | 45,000¥ |\nEconomy: 5 km per PF\nPower: 25 CFs\nOperational Duration: Limited by power\nLanding/Takeoff Profile: VSTOL\nSensor Package: Standard (I)\nSet-up/Breakdown Time: 5 minutes\nAdditional Features: Remote-control gear installed. 3 CF available for sensors,\nECM/ECCM equipment, or vehicle control gear.\n\n> Why risk personnel unless you have to? These days I see plenty of Condors, Condor IIs, and Dalmatians over the battlefield. Well funded units (read: corp) even put up BattleTac™ electronics with a full sensor package. The things you can do with that kind of tactical information!) -Widgit (04:20:14/12-05-54)\n> (Drones are too vulnerable. Any dog with a rocket can drop them. It's got a good signature, but still makes too easy a target. I stopped using them a few years ago.) -Wombat Warrior (21:48:39/12-06-54)\n> (Just because drones loiter well doesn't mean you want to limit their movement in such a way. I've seen plenty of poorly trained drone controllers spot a target and circle it while they tell somebody what they've seen. Bad move.) - Matador (18:20:00/12-07-54)\n> (Always keep your drone moving, even if it's on autopilot.) -Flyer XX (02:19:10/12-10-54)",
+    "category": "gear_mechanics",
+    "subcategory": "drones",
+    "tags": [
+      "aerodesign",
+      "condor_ii",
+      "drone",
+      "recon",
+      "surveillance"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 113,
+    "concept": "AERODESIGN CONDOR II LD SD-41",
+    "dependencies": []
+  },
+  {
+    "title": "STEEL LYNX DRONE",
+    "content": "Fighting a dug-in enemy? Send in the Steel Lynx. The Winter Systems Steel Lynx ground-combat drone is a hardened battle machine designed to clear out even the most defensible position. Lightweight, polyceramic armor combines excellent small-arms protection with speed and maneuverability. Arm the Lynx and go hunting!\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ----- | ---- | --- | ------ | ----- | -------:|\n| 4/6 | 40/80 | 4/12 | 5 | 2 | 20 CF | 15,000¥ |\nEconomy: 3 km per PF\nPower: 30 PFs\nOperational Duration: Limited by power\nSensor Package: Standard (I)\nSet-up/Breakdown Time: 3 minutes\nAdditional Features: Remote-control gear installed. 8 CF available for sensors, ECM/ECCM equipment, vehicle control gear or weapons. Common installations include dedicated hardpoints and a micro-turret that can mount an LMG, HVAR, flechette weapons, and so on. Replaceable power pack costs 3,000¥.\n\n> (The UCAS military is using more and more Steel Lynxes, testing them as part of mechanized infantry squads where the APC also carries the recharging station and a bunch of spare power packs. Every couple of hours, they pull in the drone and replace the power pack. The controller sits protected in the APC the whole time. Nice system.) -Winter Rat (06:00:31/12-06-54)\n> (You would know these things, being on the payroll at Winter Systems. < GRIN> ) -- Hangfire (21:28:46/12-07-54)\n> (I've never claimed otherwise, have I?) -Winter Rat (08:20:19/12-09-54)\n> (HEY! They stole my name! I'm gonna sue!!! ) -Steel Lynx (19:10:18/12-10-54)",
+    "category": "gear_mechanics",
+    "subcategory": "drones",
+    "tags": [
+      "steel_lynx",
+      "drone",
+      "combat",
+      "gear"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 114,
+    "concept": "STEEL LYNX DRONE",
+    "dependencies": []
+  },
+  {
+    "title": "FERRET RPD-VI PERIMETER DRONE",
+    "content": "The small, silent Ferret RPD-VI makes the perfect low-maintenance perimeter-security drone. Equipped with sophisticated sensors and a smart autopilot, the Ferret can patrol an area quietly, alert central security when it detects an intruder, and illuminate them with its searchlight or a targeting laser on demand. Use several to cover acres of ground-nothing gets past the Ferret!\n\n| Handling | Speed | B/A | Sig | APilot | Store | Cost |\n| -------- | ----- | --- | --- | ------ | ----- | --------:|\n| 3/5 | 10/30 | 1/3 | 8 | 3 | 1 CF | 154,800¥ |\n\nEconomy: 10 km per PF\nPower: 10 PF\nOperational Duration: Limited by power\nSensor Package: Security (I)\nSet-up/Breakdown Time: 3 minutes\nAdditional Features: Remote-control gear installed. 3 CF available for sensors, ECM/ECCM equipment, or vehicle control gear. Also includes white-light searchlight.\nLaser designator not included (for more information, see p. 85).\n\n> (Maximum security installations love these things. They lay 'em all over an area, and an intruder can't tell where they'll be because the little bastards wander in random patterns. Th|Typeey're all over the slot who breaks in-lights, lasers, sensors, the works. Next thing the poor slob knows, sentry weapons are opening up from everywhere-with the Ferrets telling the gun where to aim, they ain't gonna miss.) -Shadow Vault (23:21:01/12-02-54)\n> (Ferrets only matter if you're going in quiet. If it doesn't matter, drop a grenade. Kills them like flies.) -Howler (20:18:41/12-04-54)\n> (They're useless in the field unless you've got a digital map (softmap) of the area. Without one, the autopilot is near useless. What's the point?) -Searcher Stue (04:19:18/12-06-54)",
+    "category": "gear_mechanics",
+    "subcategory": "drones",
+    "tags": [
+      "ferret_rpd-vi",
+      "perimeter_drone",
+      "security",
+      "autopilot",
+      "sensors"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 115,
+    "concept": "FERRET RPD-VI PERIMETER DRONE",
+    "dependencies": []
+  },
+  {
+    "title": "WASP/YELLOWJACKET \"F\" SERIES UPGRADE.",
+    "content": "After careful analysis of years of field-use and after-action reports, Northrup Industries offers the \"F\" series upgrade for its PRC-42 Wasp and PRC44 Yellowjacket light security helicopters. The \"F\" series offers enhanced small-arms protection, improved handling, engine upgrades to maintain performance, and a reduced signature that makes the Wasp or Yellowjacket a competitor in any market! Fleet-upgrade discounts are available through all Northrup representatives.\n\n| Type | Handling | Sig | B/A | Cost |\n| -------------------- | -------- | --- | --- | --------:|\n| Wasp Upgrade | -1 | +2 | 2/6 | 74,000¥ |\n| Yellowjacket Upgrade | -1 | +2 | 3/9 | 110,000¥ |\nFor standard Yellowjacket and Wasp statistics, see pp. 70-71, Rigger Black Book, or p. 74, Street Samurai Catalog.\n\n> (After-action reports !!! How about \"Some kid with a BB gun shot me down ?? Or \"I'da caught him but he outran me on foot ?? \" Give me a break! These things are like toys; hit them with anything and they fall down. No upgrade can cure that!) -Wylie Eye (23:28:17/12-06-54)\n> (You didn't read the entry very carefully, did you, Wylie? This upgrade lets the Wasp bounce light pistol ammo and absorb the heavier stuff, and the Yellowjacket bounce pretty much everything that classifies as a non-heavy weapon. I'd think twice about playing with these Insects.) -Mooch (10:18:45/12-07-54)\n> (I carry an assault cannon.) -Wylie Eye (19:02:17/12-08-54)\n> (Oh, well, never mind.) -Mooch (11:02:18/12-09-54)",
+    "category": "gear_mechanics",
+    "subcategory": "vehicle_upgrades",
+    "tags": [
+      "wasp",
+      "yellowjacket",
+      "upgrade",
+      "northrup_industries",
+      "helicopter"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 116,
+    "concept": "WASP/YELLOWJACKET \"F\" SERIES UPGRADE.",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE SMOKE GENERATOR",
+    "content": "Need fast cover? Need a way to break a laser designator's beam? Vehicle smoke generators are the answer to your prayers! Spew smoke on demand from an externally mounted canister that can be triggered from inside the vehicle. Huge, dense clouds cover the battlefield in no time! Special thermal smoke blocks IR-sensing thermographic sensor systems, at only 20 percent over standard costs.\n\n| Type | Number of Charges | Cost |\n| --------------------- | ----------------- | ------:|\n| Small Smoke Generator | 6 | 700¥ |\n| Large Smoke Generator | 12 | 1,000¥ |\nEach charge covers a given area. For smoke rules, see p. 85.\n\n> (Heh-heh. Reminds me of the time I chased down a well equipped rebel force in Nicaragua. One of the Appaloosas we were after decided to blow some smoke. The scout was running at more than 100 KPH trailing this long, thin black line. Sensors or no sensors, we could have found the fools by that smoke. Made me laugh.) -Winter Rat (03:20:14/12-07-54)\n> (I know this is off the topic, but don't you guys find it weird to type in a non-written language indicator? Like the \"heh-heh\" laugh or the \\<grin> from a few posts back. Isn't it odd typing in boy language?) -Social Adept (21:49:30/12-09-5)\n| (Nope. \\<stupid laugh> -Weasel 06:28:18/12-10-54)\n>(Never. \\<schlumping noise> ) -Burrower (10|15:1|/12-11-54)",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "vehicle",
+      "smoke_generator",
+      "tactical_gear",
+      "cover"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 117,
+    "concept": "VEHICLE SMOKE GENERATOR",
+    "dependencies": []
+  },
+  {
+    "title": "ABLATIVE VEHICLE ARMOR",
+    "content": "Looking for a little more armor protection for your vehicle? European Arm Works (EAW) has the answer in its new line of modular ablative armor. Designed to attach to the vehicle's exterior, ablative armor absorbs the kinetic energy of any blast. A hit blows the armor plates clear, but they save you from sudden death! Three different available levels let you choose the degree of protection you need! Not usable on aircraft.\n\n| Armor Level | Availability | Cost | Street Index |\n| ----------- | ------------ | ------:| ------------ |\n| 1 | 8/14 days | 700¥ | 2 |\n| 2 | 12/14 days | 1,600¥ | 2 |\n| 3 | 14/21 days | 2,500¥ | 2 |\nAblative armor adds twice its level to a vehicle's effective Armor Rating, to a maximum equal to its Body. When struck by an attack with a Power greater than 3 times the armor level, reduce the increase in the Armor Rating by -1. It takes 6 hours to install ablative armor, which cannot be concealed. Ablative armor is not Hardened.",
+    "category": "gear_mechanics",
+    "subcategory": "armor",
+    "tags": [
+      "ablative_armor",
+      "vehicle_gear",
+      "protection",
+      "modular_armor"
+    ],
+    "content_type": "stat_block",
+    "source_file": "FieldsofFire-gear-ocr.txt",
+    "chunk_index": 118,
+    "concept": "ABLATIVE VEHICLE ARMOR",
+    "dependencies": []
+  }
+]

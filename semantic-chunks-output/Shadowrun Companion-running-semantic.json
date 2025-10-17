@@ -1,0 +1,160 @@
+[
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "### AFTERMATH\n\nOnce the characters achieve the adventure goal or give up trying, it's time to wrap up the adventure. Consider a variety of endings for the adventure. Try not to fall in love with one particular ending or climatic scene. The decisions of your player characters are likely to change your plot early in the adventure, and an ending that doesn't flow naturally from earlier events will seem contrived. Simply keep the scene in mind in case an opportunity to use it arises in another adventure.",
+    "category": "general",
+    "subcategory": "adventure_wrapping_up",
+    "tags": [
+      "adventure",
+      "endings",
+      "game_mastering",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to wrapping up the adventure and considering multiple endings.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "The consequences, or aftermath, of different endings may also affect which ending you choose to present. Events that happen in one adventure can be used in future games to provide continuity and richness to your campaign.",
+    "category": "general",
+    "subcategory": "campaign_management",
+    "tags": [
+      "consequences",
+      "continuity",
+      "campaign",
+      "adventure",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 1,
+    "concept": "Importance of consequences and continuity in the campaign.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "Jotting down answers to the following questions is an excellent way to determine likely directions for the aftermath of an adventure:\n\n- Did the players leave any loose ends hanging? If so, would any of them be fun to pursue in later adventures?\n- Did the runner's actions hurt or anger any NPCs, corporations, or other groups (specifically, anyone who might want revenge)?\n- Which NPCs and player characters were the major 'actors' in the story? Which ones acted memorably?\n- Did the runners' actions attract any media attention? If so, would this attention mark the runners as targets?\n- Did the runners create any Enemies for themselves?\n- Did other parties notice the runners' actions?\n- Did the runners leave evidence behind? If so, how much?",
+    "category": "general",
+    "subcategory": "adventure_management",
+    "tags": [
+      "adventure_aftermath",
+      "npc_interaction",
+      "story_development",
+      "loose_ends"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 2,
+    "concept": "Questions to consider for determining the aftermath of an adventure.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "- What's the real identity of the Johnson? Have the runners worked for him or her before? If so, are the two runs connected somehow? Why is the Johnson interested in the runners? Is there anyone who might pay for a run against this Johnson?\n- Is it time to let a player character achieve the personal goal that she's always dreamed of—and will it happen in the way she expected?",
+    "category": "general",
+    "subcategory": "narrative_development",
+    "tags": [
+      "johnson",
+      "player_goals",
+      "storytelling",
+      "character_arc"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 3,
+    "concept": "Further questions regarding the Johnson and player character goals in the aftermath.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "### PAYMENT AND REWARD\n\nThe end of a successful run means it's time to count the nuyen. How much money is an appropriate fee for a team of runners? The gamemaster ultimately decides, based on the risk of the run, the employer's ability and willingness to pay and the runners reputations, but the following guidelines may help set appropriate fees.",
+    "category": "general",
+    "subcategory": "payment_and_rewards",
+    "tags": [
+      "payment",
+      "rewards",
+      "gamemaster_guidelines",
+      "runner_fees"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 4,
+    "concept": "Introduction to determining payment and rewards for runners.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "First, keep in mind that player characters will average about one shadowrun per month. A good starting point for an individual runner's payment is one month's living expenses, plus the cost of gear needed for the run. If the player characters on the team have different lifestyles, use an average of the characters lifestyle costs to determine their living expenses.",
+    "category": "general",
+    "subcategory": "payment_calculation",
+    "tags": [
+      "runner_payment",
+      "lifestyle_costs",
+      "gear_costs",
+      "shadowrun",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 5,
+    "concept": "Guidelines for calculating individual runner payments based on lifestyle and gear costs.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "An occasional big windfall serves as a great campaign tease. Windfalls make excellent pay-offs after hard-fought campaigns or excellent stepping stones for new campaigns. Keep windfalls rare—they should reflect the difficulty of the campaign that's just finished or the difficulties likely to afflict the upcoming campaign. As a rule of thumb, a windfall should equal roughly 6 months of the character's lifestyle cost. Windfalls always come from unexpected sources.",
+    "category": "general",
+    "subcategory": "campaign_management",
+    "tags": [
+      "windfall",
+      "campaign",
+      "rewards",
+      "game_mastering",
+      "narrative"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 6,
+    "concept": "Explanation of windfalls as a form of reward and their appropriate use.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "Runner fees and windfalls need not be briefcases filled with credisticks. In fact, alternate payment methods are a great way to enable player characters to survive and continue to perform runs without accumulating fortunes. Instead of nuyen, payment may take the form of valuable data, individuals, equipment, paid expenses, time in a magic-research facility or special Matrix access.",
+    "category": "general",
+    "subcategory": "payment_methods",
+    "tags": [
+      "alternative_payment",
+      "runner_fees",
+      "nuyen",
+      "gameplay_mechanics",
+      "runner_survival"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 7,
+    "concept": "Alternative payment methods for runners beyond nuyen.",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Running.Txt",
+    "content": "SIN numbers also make good alternate payment, as do Doc Wagon contracts and cyberware implants. For more ideas, look in the Equipment Tables at the end of the **Shadowrun** rulebook or other **Shadowrun** books. These sections contain numerous items that most characters can't afford but would willingly accept.",
+    "category": "gear_mechanics",
+    "subcategory": "payment_methods",
+    "tags": [
+      "alternate_payment",
+      "sin_numbers",
+      "doc_wagon",
+      "cyberware_implants",
+      "equipment_tables"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-running.txt",
+    "chunk_index": 8,
+    "concept": "Examples of alternative payment methods and where to find more ideas.",
+    "dependencies": []
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "### COMMUNICATIONS GEAR\n\nI've lost count of the runs I know of that got scragged up by botched communications. Get yourselves a decent headware comm setup: multi-channel, with signal compression/decompression for burst transmissions and hot-wire encryption/decryption to keep the corpers from listening in. A subvocal microphone and subdermal speakers are another must, if you want to keep Mr. Public from overhearing your nattering. Stay away from those fraggin' headset microphone combinations—any old joker can grab onto those and yank you around. Not too inconspicuous, either—a bad move in our line of work.\n\nThe best option is a pure cybernetic rig a cybercomm link that works pretty much like telepathy.",
+    "category": "gear_mechanics",
+    "subcategory": "communications_gear",
+    "tags": [
+      "communications",
+      "cybertechnology",
+      "gear",
+      "headware",
+      "security"
+    ],
+    "content_type": "introduction",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to Communications Gear",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "| | Essence Cost | Price | Availability | Street Index |\n|:------------------------ | ------------ | ------- | ------------ | ------------ |\n| **Subvocal microphones** | | | | |\n| External | — | 500¥ | 3/48 hrs | 1.25 |\n| Internal | .1 | 850¥ | 4/72 hrs | 2 |\n| **Subdermal speakers** | .1 | 650¥ | 4/72 hrs | 2 |\n| **Cybercomm Link** | .4 | 62,000¥ | 8/2 weeks | 3 |",
+    "category": "gear_mechanics",
+    "subcategory": "communications_gear",
+    "tags": [
+      "cybertechnology",
+      "communications",
+      "gear",
+      "essence_cost",
+      "availability"
+    ],
+    "content_type": "table",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 1,
+    "concept": "Table of Communications Gear",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "**Subvocal Microphones** The external unit straps in place at the center of the throat. Either type of microphone adds a +4 modifier to the target number for **Perception Tests** made to overhear conversations using the system. Both units can connect to an external radio transceiver, the external unit via fiber-optic cable and the Internal via a datajack (mandatory for such a hookup).",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "subvocal_microphone",
+      "cybertechnology",
+      "perception_tests",
+      "gear"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 2,
+    "concept": "Subvocal Microphones Description and Functionality",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "**Subdermal Speakers** Usually mounted under the skin just behind the ear, these tiny speakers vibrate various bones in the ear to transmit sound. Sound coming over them cannot be overheard.",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "subdermal_speakers",
+      "cybertechnology",
+      "gear",
+      "audio",
+      "enhancements"
+    ],
+    "content_type": "introduction",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 3,
+    "concept": "Subdermal Speakers Description and Functionality",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "**Cybercomm Link** The cybercomm link consists of a transducer and a radio transmitter. The transducer translates thoughts into words, so that the user need not speak aloud; the transmitter sends and receives these unspoken impulses. No external evidence of this system's use is visible or audible. Quadruples the number of spoken words allowed in a Free Action (p. 81, SRII).",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "cybercomm_link",
+      "cyberware",
+      "communication",
+      "free_action",
+      "transducer"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 4,
+    "concept": "Cybercomm Link Description and Functionality",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "### CYBEREYES\n\nI've had cybereyes awhile, and so do more folks than you might think. The top sellers are made to look real, so they're tough to spot. A drek-load of new cybereye gear hits the market all the time, some of which is pretty handy. If you see two versions of something, go for the name brand or the more expensive piece; better to pay a little more for quality than go cheap and have it fail at the worst moment. When in doubt, ask around. Somebody somewhere probably uses it and can give you the clean scan.",
+    "category": "gear_mechanics",
+    "subcategory": "cybereyes",
+    "tags": [
+      "cybereyes",
+      "gear",
+      "cybertechnology",
+      "upgrades"
+    ],
+    "content_type": "introduction",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 5,
+    "concept": "Introduction to Cybereyes",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "Cybereyes come with cleaning kits; USE THEM! All the precautions in the fraggin' universe won't keep foreign drek out of the eye socket, and some of the parts are so delicate they can get really fragged up that way.",
+    "category": "gear_mechanics",
+    "subcategory": "cybereyes",
+    "tags": [
+      "cybereyes",
+      "maintenance",
+      "cleaning",
+      "cybertechnology"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 6,
+    "concept": "Maintenance and Care for Cybereyes",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "Wiz but trivial eye gadgets that I like include the retinal clock, the image link, and protective covers. Covers cut down the amount of drek I'll eventually have to deal with, meaning I don't need to clean the eyes as often (especially at inconvenient times!). The image link lets me patch in vidphone images, so I can see who I'm talking to right in my field of vision. As for the clock, I just like to know what time it is. I'm funny that way.",
+    "category": "gear_mechanics",
+    "subcategory": "cybereyes",
+    "tags": [
+      "cybereyes",
+      "gadgets",
+      "retinal_clock",
+      "image_link",
+      "protective_covers"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 7,
+    "concept": "Recommended Gadgets for Cybereyes",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "| | Essence Cost | Price | Availability | Street Index |\n|:----------------- | ------------ | ------ | ------------ | ------------ |\n| Retinal Clock | .1 | 450¥ | 3/24 hrs | 1 |\n| Image Link | .2 | 1,600¥ | 4/48 hrs | 2 |\n| Protective Covers | 0 | 500¥ | 4/48 hrs | 1.5 |",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "cybereyes",
+      "gadgets",
+      "essence_cost",
+      "availability"
+    ],
+    "content_type": "table",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 8,
+    "concept": "Table of Cybereye Gadgets",
+    "dependencies": []
+  },
+  {
+    "title": "Cybertechnology Md.Txt",
+    "content": "**Retinal Clock** Displays a time/date stamp in the lower right corner of the wearer's field of vision or wherever the user wants. Can be modified for region and season and includes a stopwatch style timer and a countdown timer. Accurate to +/- .0001 seconds per year.\n\n**Image Link** Allows the display of a vidphone image within the field of vision and functions as a **Display Link** (p. 247, SRII).\n\n**Protective Covers** Protects cyber and normal eyes against impact and particles. Available in various styles.",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "retinal_clock",
+      "cyberware",
+      "display_link",
+      "protective_covers",
+      "timekeeping"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Cybertechnology-md.txt",
+    "chunk_index": 9,
+    "concept": "Retinal Clock Description and Functionality",
+    "dependencies": []
+  }
+]

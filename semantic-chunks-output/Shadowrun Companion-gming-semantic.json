@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "Cop and corporate-security campaigns offer opportunities for more roleplaying and social interaction than the average shadowrun. Characters must work reasonably within the law, and so will almost always try to solve things by talking before resorting to violence. Despite Lone Star's brutal trid image, any cop who consistently shoots before speaking will find himself in court or on the streets pretty quickly.",
+    "category": "general",
+    "subcategory": "campaign_types",
+    "tags": [
+      "cop_campaigns",
+      "corporate_security",
+      "roleplaying",
+      "social_interaction",
+      "law_enforcement"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to cop and corporate-security campaigns",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "Cop and corporate-security characters also have to work within a corporate structure, answering to higher-ups, working together or competing with contemporaries and mentoring newbies. This offers opportunities for social interaction beyond contacts from whom characters get weapons and information, and also for enemies who subtly attack a character's career and ego rather than his physical person.",
+    "category": "general",
+    "subcategory": "social_interaction",
+    "tags": [
+      "social_dynamics",
+      "corporate_security",
+      "cop_roles",
+      "character_interaction",
+      "mentorship"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 1,
+    "concept": "Social dynamics in cop and corporate-security roles",
+    "dependencies": [
+      "Introduction to cop and corporate-security campaigns"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "When running cop/corp campaigns, keep in mind that when the dangerous drek goes down, the first thing most cops do is call for backup. This action may be realistic, but it isn't much fun for the players to know that their characters will always have fifty fellow cops ready to cover them should they screw up. The gamemaster must make sure that the characters can get into high-suspense situations where a lot depends on a few moves made only by the protagonists.",
+    "category": "general",
+    "subcategory": "game_mastering",
+    "tags": [
+      "cop_campaigns",
+      "backup_mechanics",
+      "suspense",
+      "gamemaster_tips"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 2,
+    "concept": "Managing backup in cop and corporate-security campaigns",
+    "dependencies": [
+      "Introduction to cop and corporate-security campaigns"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "In other words, look more to cop movies for inspiration than to 'real-world' police operations. Encourage characters to have moral codes, doing the right thing even if the chief has been bribed to look the other way, or to use their contacts and skills to help a group on the side of 'good' but not on the side of the law (metahuman rights, ecoterrorists and so on).",
+    "category": "general",
+    "subcategory": "inspiration",
+    "tags": [
+      "cop_movies",
+      "moral_codes",
+      "character_motivation",
+      "storytelling",
+      "narrative"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 3,
+    "concept": "Inspirational sources and character motivations",
+    "dependencies": [
+      "Managing backup in cop and corporate-security campaigns"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "Another technique is the 'nobody ever goes in or comes out' ploy. The characters may not be able to call for backup for some reason—for example, they've been kidnapped and their radios taken, or they're inside a barrier like the Bug City containment zone. Alternatively, backup may not be able to reach them—terrorists may control the building they're in, or they started exploring some mysterious sewer tunnels and now they don't know where they are.\n\nTechniques like these put the story into the hands of the player characters, making for a more exciting and memorable game.",
+    "category": "general",
+    "subcategory": "storytelling_techniques",
+    "tags": [
+      "backup_availability",
+      "storytelling",
+      "game_mastering",
+      "player_agency"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 4,
+    "concept": "Techniques to limit backup availability",
+    "dependencies": [
+      "Managing backup in cop and corporate-security campaigns",
+      "Techniques to limit backup availability"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "The cop character has an ambiguous relationship with the streets. He or she may have come from there, his or her most interesting work takes place there, and yet the people of the streets most likely despise and fear the cop. Nonetheless, cops must be able to work with people in the shadows.",
+    "category": "general",
+    "subcategory": "character_relationships",
+    "tags": [
+      "cop",
+      "streets",
+      "relationship",
+      "shadowrun",
+      "narrative"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 5,
+    "concept": "The cop's relationship with the streets",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "When conducting an investigation, having contacts is as helpful for cops as for shadowrunners. Cops tend to use their contacts much more actively to 'get a feel' for what's happening on the street. The Negotiation rules (Spilling the Beans, p. 69) can make these interviews interesting.",
+    "category": "skills",
+    "subcategory": "negotiation",
+    "tags": [
+      "contacts",
+      "investigation",
+      "negotiation_rules",
+      "shadowrunners",
+      "cops"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 6,
+    "concept": "Utilizing contacts in investigations",
+    "dependencies": [
+      "The cop's relationship with the streets"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "Some contacts may also have a hold over the character: for example, a yakuza oyabun who helps a cop out with the occasional bit of information may successfully blackmail that same cop to open a smuggling channel into a local prison.",
+    "category": "general",
+    "subcategory": "contacts",
+    "tags": [
+      "contacts",
+      "blackmail",
+      "yakuza",
+      "complications",
+      "roleplaying"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 7,
+    "concept": "Potential complications with contacts",
+    "dependencies": [
+      "Utilizing contacts in investigations"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "When running a cop campaign, the gamemaster should have a plausible reason for involving a small group of people rather than a large team. Creating specialty teams or SWAT teams is one way to do this: having a big event occur elsewhere that drains all the NPCs away so that the player characters are the only ones left is another.",
+    "category": "general",
+    "subcategory": "campaign_structure",
+    "tags": [
+      "cop_campaign",
+      "gamemaster_tips",
+      "small_groups",
+      "storytelling"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 8,
+    "concept": "Structuring small groups in cop campaigns",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "This type of campaign also works well if you have a very small group of players (1-3) and would like to run an intimate game that requires a lot of investigation rather than combat.",
+    "category": "general",
+    "subcategory": "campaign_management",
+    "tags": [
+      "small_groups",
+      "investigation",
+      "roleplaying",
+      "cop_campaigns"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 9,
+    "concept": "Benefits of small player groups in cop campaigns",
+    "dependencies": [
+      "Structuring small groups in cop campaigns"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "Corporate security functions in the same way as cops for the most part, save that they have an even more limited range of operations. Most often they stay on the grounds of their parent corp.",
+    "category": "lore",
+    "subcategory": "corporate_security",
+    "tags": [
+      "corporate_security",
+      "roles",
+      "law_enforcement",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 10,
+    "concept": "Overview of corporate security roles",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Gming.Txt",
+    "content": "To keep the game varied, consider sending CorpSec characters on undercover missions or varying the types of security crises (a gang attack, an assault by chromed-to-the-teeth or magically powerful runners, an internal-affairs investigation, etc.).",
+    "category": "general",
+    "subcategory": "missions",
+    "tags": [
+      "corporate_security",
+      "undercover_missions",
+      "variety",
+      "game_mastering"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-gming.txt",
+    "chunk_index": 11,
+    "concept": "Variety in corporate security missions",
+    "dependencies": [
+      "Overview of corporate security roles"
+    ]
+  }
+]

@@ -1,0 +1,3034 @@
+[
+  {
+    "title": "Introduction",
+    "content": "# COMBAT\nGuns. Guns. Guns. My life would be so dull without them. —Wedge, mercenary\n\nWhen it’s time to get down to combat between characters, the Shadowrun game proceeds in turns. Each character acts in order, the fastest first, in a set sequence known as the **Combat Turn**. The Combat Turn attempts to mimic what might occur during real combat, resolving issues such as who acts first, who is faster on the draw, what happens when one character punches another, and so on.\n\nDuring the Combat Turn, which is roughly three seconds long, each player takes turns describing his character’s action. The Gamemaster’s role is to describe the actions and reactions of the non-player characters as well as the final outcome of all actions.\n\nThe Combat Turn is divided into a variable number of **Combat Phases**. Based on their Initiative, how fast they’re reacting, characters may attempt actions during one or more Combat Phases within a single Combat Turn. An action, as explained in more detail later, is a character’s attempt to do something. Firing a gun, casting a magic spell, and activating a computer program are some typical actions.\n\nThese combat rules apply to player characters and non-player characters alike. In those cases where a rule or procedure differs for one or the other, the specific rule will always so indicate.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "action_sequence",
+      "gamemaster",
+      "player_actions",
+      "turn_order"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 0,
+    "concept": "Introduction",
+    "dependencies": []
+  },
+  {
+    "title": "USING THESE RULES",
+    "content": "Players need not attempt to completely understand the Combat Turn procedures on their first read-through of the rules. Sections later in this chapter clarify each step in greater detail. For now, simply read through the overview of the Combat Turn sequence given below. When reading for the first time, players can also ignore the references to other specific rules. These references will become relevant as the players become more familiar with the game and begin to encounter more complex possibilities for action.\n\nThe rules relating to magic and decking during the Combat Turn are presented in detail in the chapters covering those subjects.",
+    "category": "combat",
+    "subcategory": "combat_turn",
+    "tags": [
+      "combat_turn",
+      "game_mechanics",
+      "overview"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 1,
+    "concept": "USING THESE RULES",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "The following is a quick summary of the Combat Turn sequence. This Combat Turn sequence is used to resolve all forms of combat, be it hand-to-hand, ranged combat, firearms, magic, vehicle combat, or Matrix combat.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative",
+      "turn_sequence",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 2,
+    "concept": "Overview of the Combat Turn sequence",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "1. **All Dice Pools Refresh (First Combat Turn Only)** If this is the first Combat Turn of a new fight, all Dice Pools of all involved characters refresh, unless this is a Surprise situation (p. 86).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "dice_pools",
+      "refresh",
+      "surprise",
+      "first_turn"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 3,
+    "concept": "Refreshing Dice Pools in the first Combat Turn",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "2. **Determine Initiative** Determine Initiative (p. 79) (Reaction plus Initiative dice) for all the characters, critters, spirits, or computer programs involved in the fight. Then determine which character has the highest Initiative total.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative",
+      "reaction",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 4,
+    "concept": "Determining Initiative for combat participants",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "3. **Characters Take Actions** Characters involved in the combat now take their actions sequentially, starting with the character with the highest Initiative total. This character is the **acting character**. If more than one character has the same Initiative total, see Initiative Tie, p. 79.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative",
+      "action_sequence"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 5,
+    "concept": "Action sequence for characters in combat",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "A. **Acting Character’s Dice Pools Refresh** The Dice Pools of the acting character refresh. If he or she has used no dice from the pools, they remain at their current value.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "dice_pools",
+      "refreshing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 6,
+    "concept": "Refreshing the acting character's Dice Pools",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "B. **Declare Actions** The acting character declares his actions for the Combat Phase. He may make Free, Simple, and Complex Actions, in any order. If multiple characters are acting within one Combat Phase (see Initiative Tie, p. 79), characters declare their actions in reverse order, moving from the one with the lowest Initiative total (or whatever is the determining value) up to the character with the highest Initiative.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_phase",
+      "declare_actions",
+      "initiative_order",
+      "action_types"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 7,
+    "concept": "Declaring actions during the Combat Phase",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "C. **Resolve Actions** Resolve the actions (see p. 79) of the acting character. Once the actions have been resolved, the character’s Initiative total is reduced by 10. If the resulting Initiative total is higher than 0, the character may take additional actions later in the Combat Turn. See Multiple Actions, p. 79. If it is equal to 0 or less, the character is done for that Combat Turn. If multiple characters are resolving actions during the same phase, resolve those of the character with the highest Initiative total (or whatever is the determining value) first, then the next highest, and so on. (See Initiative Tie, p. 79.)",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative",
+      "action_resolution",
+      "multiple_actions",
+      "turn_sequence"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 8,
+    "concept": "Resolving actions of the acting character",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "D. **Declare and Resolve Actions of Remaining Characters** Move on to the character with the next highest Initiative total and resolve his actions, starting with step A above. Continue cycling through steps A through D until no character is eligible for actions.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative_sequence",
+      "action_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 9,
+    "concept": "Handling actions of remaining characters in combat",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT TURN SEQUENCE",
+    "content": "4. **Begin a New Combat Turn** Begin a new Combat Turn, starting again at step 1. Continue cycling through steps 1 through 3 until the combat is resolved. Any unused dice in a character’s Dice Pools carry over to the next Combat Turn and are available for use until the character’s first action of that Turn.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "dice_pools",
+      "action_sequence"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 10,
+    "concept": "Starting a new Combat Turn and carrying over unused Dice Pools",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "Initiative determines the order in which characters take action within a single Combat Turn. Initiative is based on two factors: the character’s total Initiative dice plus his adjusted Reaction Rating. This is called the Initiative total, as explained below.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "combat_turn",
+      "reaction_rating",
+      "action_order"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 11,
+    "concept": "Introduction to Initiative and its components",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "Each character begins with a base Initiative of one six-sided die (1D6). Various types of cyberware and magic may add more dice. A character’s total Initiative dice is listed in parenthesis following the base number, e.g., 1D6 (2D6). In other words, this character has two Initiative dice (2D6), one up from his base.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "combat_mechanics",
+      "cyberware",
+      "magic"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 12,
+    "concept": "Base Initiative and total Initiative dice explanation",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "All characters have a base Reaction, which is equal to the average of the character’s Intelligence and Quickness Ratings (round down). This number is modified by bonuses for magic or cyberware or by penalties for injuries and the like. A character’s adjusted Reaction is listed in parenthesis following the base number, e.g., 4 (6).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "base_reaction",
+      "adjusted_reaction",
+      "combat_mechanics",
+      "character_stats"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 13,
+    "concept": "Base Reaction and adjusted Reaction calculation",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "In the Matrix, a decker’s Reaction and Initiative are modified only by the presence of response increase circuitry (see Response Increase, p. 173) in the cyberdeck the character is using. No other forms of Reaction or Initiative modifiers (other than injury modifiers, p. 112) affect the character while in the Matrix.",
+    "category": "matrix",
+    "subcategory": "initiative",
+    "tags": [
+      "matrix",
+      "initiative",
+      "reaction",
+      "cyberdeck",
+      "modifiers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 14,
+    "concept": "Matrix-specific Initiative and Reaction modifications",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "While rigging, riggers receive only the modifications given them by the vehicle control rig (p. 249) they are using. No other Reaction or Initiative modifiers apply except for injury modifiers.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "riggers",
+      "reaction_modifiers",
+      "vehicle_control_rig"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 15,
+    "concept": "Initiative and Reaction modifications for riggers",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "To get the character’s Initiative total, add his adjusted Reaction to the result of his Initiative roll. The number determines in which Combat Phase the character may first attempt an action.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "combat_phase",
+      "reaction",
+      "action"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 16,
+    "concept": "Calculating Initiative total",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "John Longbone, an ork street samurai, has a listed Reaction of 3 (5) and an Initiative of 1D6 (2D6). (Longbone has reaction-enhancing cyberware that increases his base Reaction by 2, and gives him an additional Initiative die.) Rolling his 2D6 Initiative dice, Longbone gets a 7, to which he adds his adjusted Reaction, 5, for a result of 12. Combat Phase 12 is the first one in which Longbone can act.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "combat_phase",
+      "reaction",
+      "street_samurai",
+      "cyberware"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 17,
+    "concept": "Example of calculating Initiative total",
+    "dependencies": [
+      "Calculating Initiative total"
+    ]
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "The number of Combat Phases in a Combat Turn is equal to the highest Initiative total generated during the Initiative rolls. If, for example, the highest Initiative total was 22, that Combat Turn would have 22 Combat Phases. Events can occur in the first Combat Phase (22) or in any of the following ones, Combat Phases 21-1. No events or actions occur in Combat Phase 0, which signals the end of that Combat Turn.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_phases",
+      "initiative_rolls",
+      "turn_structure"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 18,
+    "concept": "Determining the number of Combat Phases in a Combat Turn",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "All events or actions within the Combat Turn must occur during a Combat Phase. The Gamemaster may need to determine, either by decree or randomly, Initiative totals for some events that are beyond character control. Events that occur at the end of a previously designated elapsed time, such as a timed explosive, always occur last in the Combat Turn, after any actions are resolved.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_phase",
+      "initiative",
+      "turn_order",
+      "gamemaster",
+      "action_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 19,
+    "concept": "Rules for events and actions during Combat Phases",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "GAMEMASTER NOTE: In any Combat Phase during which decking actions are mixed with astral and/or physical actions, the order for resolving actions is all astral actions first, then all decking actions, then all physical actions.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_phase",
+      "action_resolution",
+      "decking",
+      "astral",
+      "physical"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 20,
+    "concept": "Order of action resolution in mixed Combat Phases",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "Depending on their Initiative total, characters may have multiple actions. As described above, each character takes his first action in the Combat Phase that corresponds to the number of his Initiative total. Characters become eligible for additional actions every ten Combat Phases thereafter.\n\nThe four sample characters listed in the first columns below would be eligible for actions in the Combat Phases listed in the third column.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "multiple_actions",
+      "initiative_total",
+      "combat_phases"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 21,
+    "concept": "Introduction to multiple actions based on Initiative total",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "| Character | Initiative Total | Combat Phases |\n| :--- | :--- | :--- |\n| A | 40 | 40, 30, 20, and 10 |\n| B | 27 | 27, 17, and 7 |\n| C | 12 | 12 and 2 |\n| D | 8 | 8 only |",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "multiple_actions",
+      "combat_phases",
+      "initiative_totals"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 22,
+    "concept": "Table of sample characters with their Initiative totals and Combat Phase eligibility",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "Our friend Longbone, from the previous example, would have his first action in Combat Phase 12 (his Initiative total) and a second in Combat Phase 2 (12 - 10). His chummer, Shark, a street samurai with much better (and much more expensive) cyberware has a Reaction of 5 (9) and Initiative dice of 1D6 (3D6). If he gets an 18, the maximum result from his Initiative dice roll, he has an Initiative total of 27. Shark therefore can take actions in Combat Phases 27, 17, and 7.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "multiple_actions",
+      "initiative_totals",
+      "combat_phases",
+      "characters"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 23,
+    "concept": "Example of how characters Longbone and Shark utilize their Initiative totals for actions",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "**GAMEMASTER NOTE:** When running through the Combat Turn sequence, the Gamemaster should ask the players which of their characters has the next highest Initiative total. All should respond. The Gamemaster then compares their responses against the current Initiative totals of any non-player characters involved in the fight. The current Combat Phase then jumps to the number equal to the highest Initiative total.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_turn",
+      "initiative_management",
+      "gamemaster_guidelines"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 24,
+    "concept": "Guidelines for Gamemasters on managing Initiative during Combat Turns",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "Having the players respond keeps the Initiative totals of their characters in their minds and should help to prevent a player from missing the Combat Phase corresponding to his character’s current Initiative total. If a character misses a Combat Phase, his actions are resolved following the resolution of any character’s actions currently in progress.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_phase",
+      "initiative_tracking",
+      "player_engagement",
+      "action_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 25,
+    "concept": "Importance of player engagement in tracking Initiative and consequences of missing a Combat Phase",
+    "dependencies": []
+  },
+  {
+    "title": "MULTIPLE ACTIONS",
+    "content": "It is the player’s job to keep track of when his or her character can act. The character can act again in the Combat Phase equal to 10 less than the current Combat Phase.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "multiple_actions",
+      "combat_phase",
+      "turn_order",
+      "player_responsibility"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 26,
+    "concept": "Responsibility of players to track their character's actions and the timing for subsequent actions",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE TIES",
+    "content": "When multiple characters are eligible for actions in the same Combat Turn, the character with the highest Initiative total declares and resolves actions first, followed by the character with the next highest, and so on. If some characters have rolled the same Initiative total, the tie goes to the one with the higher adjusted Reaction. If that does still not break the tie, use the highest natural Reaction. If that is still not good enough, assume that the actions of both characters occur simultaneously.\n\nWhen multiple characters have actions in the same phase, those actions are declared in reverse order, from the lowest Initiative total (or whatever the deciding value is) to the highest. This way, the faster characters (even slightly so) are still reacting to the actions of the other, slower, characters. When resolving actions, however, work from the higher Initiative totals to the lower; the faster characters first.\n\n> Jack Frost and Seventh Son, a street shaman, both have the same Initiative total (15). Seventh Son’s adjusted Reaction is 7, while Jack’s is 12, making Frost faster. Seventh Son declares his actions (because he is the slower), followed by Frost’s declaration of his actions. Because Frost is faster, his actions are resolved first.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative_ties",
+      "combat_turn",
+      "reaction",
+      "actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 27,
+    "concept": "INITIATIVE TIES",
+    "dependencies": []
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "When the time for a character’s action comes up in a Combat Phase, the player may declare that he is delaying his character’s actions until a Combat Phase later in the Combat Turn. (The procedure for declaring a Delayed Action is on p. 81.) By delaying, the character chooses to wait until later in the Combat Turn to take his action. While he awaits that moment, the character can do nothing except make Free Actions normally (see p. 81). The benefit of delaying action is that it allows the character to wait and respond to something that may occur later in the turn.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delaying_actions",
+      "combat_phase",
+      "turn_order",
+      "free_actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 28,
+    "concept": "Introduction to Delaying Actions",
+    "dependencies": []
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "When something finally does occur in a later Combat Phase to which that character wishes to react, the player states that his character is intervening. This must occur during the Declare Actions portion of the Combat Phase, after all other characters acting in that phase have declared actions. If any character’s actions have begun to be resolved, the delaying character can no longer intervene, having waited too long.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_actions",
+      "combat_phase",
+      "intervention"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 29,
+    "concept": "Intervening with a Delayed Action",
+    "dependencies": [
+      "Introduction to Delaying Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "If multiple characters have delayed actions and now wish to act in the same Combat Phase, use the rules for Initiative Tie, above. In general, declare actions from the lowest Initiative total to the highest for the characters who are acting normally that phase, and then declare the actions of the delaying characters in the same manner. Resolve the actions of the delaying characters first, highest Initiative total to lowest, followed by the actions of the other characters.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_actions",
+      "initiative_tie",
+      "combat_phase",
+      "turn_order"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 30,
+    "concept": "Resolving Multiple Delayed Actions",
+    "dependencies": [
+      "Intervening with a Delayed Action"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "> Bastion is waiting in ambush (he delayed from Combat Phase 25). Crouched in a covering shadow, he watches an alley for signs of activity. Finally, two men exit a door across the way: they’re the ones Bastion has been waiting for. Now, on Combat Phase 12, Bastion takes his delayed Combat Phase. Bastion’s actions are resolved first in this Combat Phase, followed by the others. All three may act again ten phases later.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_action",
+      "combat_phase",
+      "initiative_resolution"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 31,
+    "concept": "Example of Delayed Action Resolution",
+    "dependencies": [
+      "Resolving Multiple Delayed Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "Delaying the Action requires a Free Action to initiate, but it costs nothing to finally take the actions. Following the resolution of the delaying character’s actions, subtract 10 from his Initiative total. If the result is greater than 0, the character may act again that Combat Turn. See Multiple Actions, p. 79.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delaying_actions",
+      "initiative_modification",
+      "combat_turn"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 32,
+    "concept": "Cost and Effects of Delaying Actions",
+    "dependencies": [
+      "Introduction to Delaying Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "If a character still has a delayed action at the end of a Combat Turn, the Delayed Action carries over into the next Combat Turn. The character’s Initiative total is determined using the normal procedure. He may take the Delayed Action at any time during that Combat Turn, even if the Combat Phase in which it occurs is at a higher Initiative total than the delaying character’s own.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_action",
+      "combat_turn",
+      "initiative_total",
+      "optional_rule"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 33,
+    "concept": "Carrying Over Delayed Actions",
+    "dependencies": [
+      "Cost and Effects of Delaying Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "> Bastion, waiting in ambush elsewhere (he’s that kind of guy), has carried over his Delayed Actions from the previous Combat Turn. His Initiative total for the new Combat Turn is 17, but his target appears in his sniper rifle’s sights on Combat Phase 29. Because of the Delayed Action, he may act now even though the Combat Phase occurs before he would normally be allowed to do so.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_actions",
+      "combat_turn",
+      "initiative",
+      "sniper_rifle",
+      "ambush"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 34,
+    "concept": "Example of Carrying Over Delayed Actions",
+    "dependencies": [
+      "Carrying Over Delayed Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "The delayed action is resolved normally. The delaying character may act again ten Combat Phases later or in the phase corresponding to his new Initiative total for that Combat Turn, whichever is less.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_action",
+      "combat_phases",
+      "initiative_total",
+      "turn_order"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 35,
+    "concept": "Resolving Delayed Actions in New Combat Turns",
+    "dependencies": [
+      "Carrying Over Delayed Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "Dice Pools refresh in the Combat Phase during which the delay is initiated. They do not refresh again when the character takes his Delayed Action. If the character uses dice from any Dice Pool for any reason while his Action is delayed, the delay is broken and the Action does not occur. See Dice Pools, p. 84.\n\nA character can have only one Delayed Action at any one time.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_actions",
+      "dice_pools",
+      "combat_phase",
+      "action_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 36,
+    "concept": "Dice Pool Rules for Delayed Actions",
+    "dependencies": [
+      "Cost and Effects of Delaying Actions"
+    ]
+  },
+  {
+    "title": "DELAYING ACTIONS (OPTIONAL)",
+    "content": "> Following the resolution of his Delayed Action, Bastion is not eligible for additional actions until the Combat Phase corresponding to his Initiative total of 17, because it is less than 19 (triggering Combat Phase 29 minus 10). Had the trigger event occurred in Combat Phase 18 instead, Bastion could not act again until Combat Phase 8 (triggering Combat Phase 18 minus 10, which is less than his own Initiative total of 17).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_actions",
+      "combat_phase",
+      "initiative_total",
+      "action_eligibility"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 37,
+    "concept": "Example of Action Eligibility After Delayed Action",
+    "dependencies": [
+      "Resolving Delayed Actions in New combat Turns"
+    ]
+  },
+  {
+    "title": "ACTIONS",
+    "content": "Characters can carry out three different action types within a Combat Phase: **Free, Simple, and Complex**. A character can take one Free Action, and either two Simple Actions or one Complex Action as his or her action.",
+    "category": "combat",
+    "subcategory": "actions",
+    "tags": [
+      "combat_phase",
+      "free_actions",
+      "simple_actions",
+      "complex_actions",
+      "turn_structure"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 38,
+    "concept": "ACTIONS",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "Free Actions are relatively simple, nearly automatic actions that require little or no effort to accomplish. Examples are saying a word, dropping an object, dropping prone, or casually looking at something.",
+    "category": "general",
+    "subcategory": "actions",
+    "tags": [
+      "free_actions",
+      "game_mechanics",
+      "turn_structure"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 39,
+    "concept": "Definition and examples of Free Actions",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "A character may take a Free Action during any Combat Phase of the Combat Turn even if it is not a phase in which he is eligible for action. Only one Free Action is possible during any given Combat Phase. A character may NOT take a Free Action PRIOR to his first action unless that character has delayed an action from a previous Combat Turn, as described above.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "free_actions",
+      "combat_phase",
+      "turn_order",
+      "action_economy"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 40,
+    "concept": "Rules governing when Free Actions can be taken",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "Free Actions generally require no Success Test, though special circumstances may warrant one. Following are descriptions of many possible Free Actions involved in combat in Shadowrun.",
+    "category": "combat",
+    "subcategory": "free_actions",
+    "tags": [
+      "free_actions",
+      "success_tests",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 41,
+    "concept": "General rules about Success Tests for Free Actions",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Activate Cyberware** A character may use a Free Action to activate a piece of cyberware that is not continually turned on. This equipment includes headware radio/telephone, thermographic vision, and so on. See Cyberware, p. 246.",
+    "category": "gear_mechanics",
+    "subcategory": "cyberware",
+    "tags": [
+      "free_action",
+      "cyberware",
+      "activation",
+      "game_mechanics",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 42,
+    "concept": "Using a Free Action to activate cyberware",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Call a Shot** A character may “call a shot” (aim for a vulnerable portion of a target) with this Free Action. See Called Shots, p. 92. This action must be immediately followed by a Take Aim, Fire Weapon, Throw Weapon, or Melee Unarmed Attack.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "free_action",
+      "called_shot",
+      "combat_mechanics",
+      "aiming"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 43,
+    "concept": "Calling a shot as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Change Smartgun Fire Mode** Characters holding a ready smartgun (with smartlink headware) may change their weapon’s fire mode as a Free Action. See Fire Mode, p. 92, and Smartlink, p. 90.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "free_action",
+      "smartgun",
+      "fire_mode",
+      "combat_mechanics",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 44,
+    "concept": "Changing smartgun fire mode as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Delay Action** A character may delay an eligible action by expending a Free Action. See Delaying Actions, p. 80. This Free Action is only possible during a Combat Phase in which a character is eligible for action. See Multiple Actions, p. 79.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "free_actions",
+      "delay_action",
+      "combat_phase",
+      "multiple_actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 45,
+    "concept": "Delaying an action using a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Drop Prone** A character may drop prone at any time, as long as he is not surprised (see p. 86). A character who is surprised may not drop prone. A magician sustaining a spell must make a Willpower (2) Test to avoid losing concentration on the spell when dropping prone.",
+    "category": "combat",
+    "subcategory": "actions",
+    "tags": [
+      "free_action",
+      "drop_prone",
+      "combat_mechanics",
+      "surprise"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 46,
+    "concept": "Dropping prone as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Drop Object** A character may drop a held object as a Free Action. If he is holding objects in both hands, he may drop both objects as a single Free Action.\n\n* **Drop Sustained Spell** A magician may drop a sustained spell as a Free Action.",
+    "category": "general",
+    "subcategory": "actions",
+    "tags": [
+      "free_action",
+      "drop_object",
+      "sustained_spell",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 47,
+    "concept": "Dropping an object as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Eject Smartgun Clip** A character holding a ready smartgun (with smartlink headware) may use a simple cybernetic command to eject the weapon’s clip. It still takes a Simple Action to insert a new, fresh clip. See Smartlink, p. 90.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "free_action",
+      "smartgun",
+      "eject_clip",
+      "cyberware",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 48,
+    "concept": "Ejecting a smartgun clip as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Gesture** A character may execute one gesture as a Free Action. (However ludicrous this may sound, it pertains primarily to the use of gestures as silent communication in combat situations.)",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "free_action",
+      "gesture",
+      "silent_communication",
+      "combat_situations"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 49,
+    "concept": "Using a gesture as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Observe** A character may observe as a Free Action. See Perception, p. 185. A character who is observing can see only what is immediately obvious, though active vision enhancements (low-light, thermographic) apply. No actual Perception Test is possible when observing as a Free Action. (See also Observe In Detail under Simple Actions.)",
+    "category": "general",
+    "subcategory": "free_actions",
+    "tags": [
+      "free_action",
+      "observation",
+      "perception",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 50,
+    "concept": "Observing as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "FREE ACTIONS",
+    "content": "* **Speak a Word** Each word spoken is a Free Action, but, for all practical purposes, characters can speak in a coherent phrase or two when necessary. The Gamemaster may wish to enforce the single action-single word rule in order to control excessive, unrealistic conversations within the span of a Combat Turn (about three seconds). Some Gamemasters and players may, however, prefer elaborate communication.",
+    "category": "combat",
+    "subcategory": "free_actions",
+    "tags": [
+      "free_action",
+      "combat_turn",
+      "communication",
+      "gamemaster",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 51,
+    "concept": "Speaking a word as a Free Action",
+    "dependencies": []
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "A Simple Action is one step more complicated than a Free Action, and requires a bit more concentration to attempt. Only a few require a Success Test to accomplish, however.\n\nA Free Action may be taken in place of a Simple Action.\n\nDuring any Combat Phase, the character may take up to two Simple Actions or one Complex Action.\n\nThe following are typical Simple Actions occurring in combat in the Shadowrun game.",
+    "category": "combat",
+    "subcategory": "actions",
+    "tags": [
+      "simple_action",
+      "combat_phase",
+      "action_types",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 52,
+    "concept": "Definition of Simple Action",
+    "dependencies": [
+      "Definition of Simple Action",
+      "Combat Phase action limits"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Change Gun Mode**\n A character holding a ready firearm can change its fire mode via a Simple Action. If the weapon is a properly linked smartgun, it takes only a Free Action to change the mode. See Fire Mode, p. 92, and Smartlink, p. 90.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "change_gun_mode",
+      "fire_mode",
+      "smartgun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 53,
+    "concept": "Change Gun Mode action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Change Position**\n Using a Simple Action, a character may either stand up or lie down (becoming prone). If the character is wounded and attempting to stand up, he needs a Willpower (2) Test to stand up. Remember to include any injury modifiers to the target number. Characters can always fall down without making a test (or by using the Free Action of Drop Prone).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "simple_action",
+      "change_position",
+      "combat_mechanics",
+      "standing_up",
+      "prone"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 54,
+    "concept": "Change Position action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Command a Spirit**\n Using a Simple Action, a magician character may issue a command to a nature or elemental spirit under his control. See also Elemental Services and Nature Spirit Services, p. 140.",
+    "category": "magic",
+    "subcategory": "spirit_commands",
+    "tags": [
+      "command_a_spirit",
+      "simple_action",
+      "magician",
+      "elemental_services",
+      "nature_spirit_services"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 55,
+    "concept": "Command a Spirit action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Fire Weapon**\n A character may fire a ready firearm in single-shot, semi-automatic, or burst-fire mode via a Simple Action. See Firearms, p. 92, for more information. If a character has one weapon in each hand, he may fire once with each weapon by expending one Simple Action. See Using a Second Firearm, p. 90.\n Single-shot weapons may be fired only once per Combat Phase.\n Using Fire Weapon, a character may fire a bow-weapon (regular bow or crossbow) that has been previously made ready using the Simple Action of Ready Weapon. See Projectile Weapons, p. 96.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "fire_weapon",
+      "simple_action",
+      "combat_phase",
+      "firearms",
+      "projectile_weapons"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 56,
+    "concept": "Fire Weapon action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Insert Clip**\n A character may insert a fresh clip into a ready firearm by taking a Simple Action, but only if he has first removed the previous clip. See the Simple Action of Remove Clip, below, and also Reloading Firearms, p. 95.\n\n* **Observe in Detail**\n A character may make a detailed observation by taking a Simple Action. See Perception, p. 185.\n\n* **Pick Up/Put Down Object**\n A character may pick up an object within reach or put down one that he was holding by expending a Simple Action.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "simple_action",
+      "reload",
+      "firearms",
+      "observation",
+      "object_handling"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 57,
+    "concept": "Insert Clip action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Quick Draw**\n A character may attempt to quick-draw a pistol or pistol-sized weapon (Concealability 4 or greater, see p. 94) and immediately fire it by expending a Quick Draw action. For the character to successfully draw the weapon, the player must make a Reaction (4) Test. Only 1 success is necessary to clear the weapon. If the pistol is not held in a proper holster, add a +2 target modifier. If the test is successful, the character may draw the pistol and fire normally. If the test fails, he cannot fire the gun this Combat Phase.\n Only weapons that can be fired with a Simple Action can be quick-drawn. Two weapons may be quick-drawn and fired, but this adds an additional +2 target modifier to each Reaction Test. See Using a Second Firearm, p. 90.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "quick_draw",
+      "reaction_test",
+      "combat_phase",
+      "firearms",
+      "simple_action"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 58,
+    "concept": "Quick Draw action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Ready Weapon**\n A character may ready a weapon by spending a Simple Action. The weapon may be a firearm, melee weapon, throwing weapon, ranged weapon, or mounted or vehicular weapon. Readying entails drawing a firearm from a holster, drawing a throwing or melee weapon from a sheath, picking up any kind of weapon, nocking an arrow in a bow or crossbow, or generally preparing any kind of weapon for use. A weapon must be ready before it can be used.\n A character can ready a number of small throwing weapons, such as throwing knives or shuriken, equal to one-half his Quickness (round down) per Ready Weapon action.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ready_weapon",
+      "simple_action",
+      "combat_mechanics",
+      "weapon_preparation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 59,
+    "concept": "Ready Weapon action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "SIMPLE ACTIONS",
+    "content": "* **Remove Clip**\n A character may remove a clip from a ready firearm by taking a Simple Action. See Insert Clip, above, and also Reloading Firearms, p. 95. It takes another Simple Action to grab a fresh clip and slam it into the weapon.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "remove_clip",
+      "firearm",
+      "simple_action",
+      "reload",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 60,
+    "concept": "Remove Clip action",
+    "dependencies": [
+      "Introduction to typical Simple Actions"
+    ]
+  },
+  {
+    "title": "COMPLEX ACTIONS",
+    "content": "A Complex Action requires the most intense concentration of all the possible action types. Only one Complex Action is possible per Combat Phase. A character who wishes to take a Complex Action may also take a Free Action that Combat Phase, but no Simple Actions are possible.\n\n* **Astral Projection**\n A magician may accomplish astral projection by taking a Complex Action. See Astral Projection, p. 146.\n* **Cast Spell**\n A magician may cast a spell by taking a Complex Action. See Casting Spells, p. 129.\n* **Melee/Unarmed Attack**\n A character may attack with a melee weapon, or unarmed, by taking a Complex Action. See Melee Combat, p. 100. A character may attack multiple targets within melee range with a single Complex Action. See Multiple Targets, p. 102.\n* **Fire Automatic Weapon**\n A character may fire a ready firearm in full autofire mode by taking a Complex Action. See Firearms, p. 92.\n* **Fire Mounted or Vehicle Weapon**\n A character may fire a ready mounted or vehicle weapon by taking a Complex Action. See Vehicle Combat, p. 105.\n* **Reload Firearm**\n Weapons that do not use clips must be reloaded using a Complex Action. See Reloading Firearms, p. 95.\n* **Summon Nature Spirit**\n A shaman may summon a nature spirit by taking a Complex Action. See Summoning Nature Spirits, p. 140.\n* **Use Complex Object**\n A character may operate a complex object, such as a computer, cyberdeck, vehicle, and so on, by taking a Complex Action. “Use” entails activating a program, issuing detailed instructions, conducting an internal operation (such as copying files), driving the vehicle, and the like. This cannot be done while running.\n* **Use Skill**\n A character may use an appropriate skill by taking a Complex Action. See Skills, p. 66.\n\n---",
+    "category": "combat",
+    "subcategory": "actions",
+    "tags": [
+      "complex_actions",
+      "combat_phase",
+      "free_actions",
+      "melee_attacks",
+      "spellcasting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 61,
+    "concept": "COMPLEX ACTIONS",
+    "dependencies": []
+  },
+  {
+    "title": "MOVEMENT",
+    "content": "In addition to the choices of Free, Simple, and Complex Actions, characters may also choose to move during a Combat Phase. Movement in no way changes the availability of Free, Simple, or Complex Actions.\n\nThere are two types of movement: **walking** and **running**. Characters may move at one of the two rates during a Combat Phase. They may also choose to remain stationary if they wish. Characters who have multiple Actions may run only in one of those Combat Phases, but it does not matter which.",
+    "category": "combat",
+    "subcategory": "movement",
+    "tags": [
+      "combat_phase",
+      "movement",
+      "walking_running",
+      "actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 62,
+    "concept": "MOVEMENT",
+    "dependencies": []
+  },
+  {
+    "title": "WALKING",
+    "content": "When walking, characters may move at a pace equal to their Quickness Rating in meters during that Combat Phase. If they are combining the movement with an action that requires some form of Success Test, the character takes a +1 target modifier. If the movement is over rough terrain or through obstacles, the character takes a +2 target modifier.",
+    "category": "combat",
+    "subcategory": "movement",
+    "tags": [
+      "walking",
+      "movement",
+      "combat_phase",
+      "quickness",
+      "target_modifier"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 63,
+    "concept": "WALKING",
+    "dependencies": []
+  },
+  {
+    "title": "RUNNING",
+    "content": "Characters who are running may move a number of meters equal to their Quickness Rating multiplied by the appropriate running modifier from the table below. The result is in meters per Combat Phase.\n\nCharacters who are running take a +4 target modifier to any tests attempted while running.\n\nCharacters with Running Skill may attempt to increase their running distance by spending a Complex Action (Use Skill). Each success against a Target Number 4 increases the character’s effective Quickness by 1 point for that Combat Phase.\n\n---",
+    "category": "general",
+    "subcategory": "movement",
+    "tags": [
+      "running",
+      "quickness",
+      "combat_phase",
+      "skill_use",
+      "target_modifier"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 64,
+    "concept": "RUNNING",
+    "dependencies": []
+  },
+  {
+    "title": "RUNNING TABLE",
+    "content": "| Race | Running Modifier |\n| :--- | :--- |\n| Human | ×3 |\n| Dwarf | ×2 |\n| Elf | ×3 |\n| Ork | ×3 |\n| Troll | ×2 |\n\n---",
+    "category": "skills",
+    "subcategory": "running",
+    "tags": [
+      "running",
+      "race_modifiers",
+      "movement"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 65,
+    "concept": "RUNNING TABLE",
+    "dependencies": []
+  },
+  {
+    "title": "INTERCEPTION",
+    "content": "If movement takes a character within one meter of an opponent, and the character attempts to pass by without attacking the opponent, that opponent can take a free melee attack. If the opponent has a weapon ready, he uses his normal Armed Combat Skill Rating; otherwise, he uses Unarmed Combat Skill. The attacker’s target number is 4. The only modifiers are those applied for reach, movement, or the attacker’s condition. The character can choose to Subdue (p. 103) if he chooses. The defending character is assumed to be in full Defense (p. 103).\n\nIf the character attempting to pass takes damage (see Melee Combat, p. 100), he is considered to be intercepted and he cannot continue his movement.\n\nThe Combat Pool may be used to augment these rolls.",
+    "category": "combat",
+    "subcategory": "melee_combat",
+    "tags": [
+      "interception",
+      "melee_attack",
+      "combat_rules",
+      "movement"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 66,
+    "concept": "INTERCEPTION",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "Dice Pools initially become available for use at full value as the first step of the first Combat Turn of any encounter. Characters can then draw from them, as appropriate for the type of pool, during the Combat Turn. Once dice are drawn from the pool, those dice are no longer available for use until the pool refreshes at the beginning of the character’s next action. More than one die can be used to augment a test, subject to the limitations of the Dice Pool.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "dice_pools",
+      "combat_turn",
+      "test_augmentation"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 67,
+    "concept": "Introduction to Dice Pools and their availability during Combat Turns.",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "When using dice from a Dice Pool to augment a test, the player adds the Dice Pool dice directly to those normally used for the test. That is, if a character would normally roll 4 dice for a test, but takes 3 more dice from the appropriate pool to augment the test, he now rolls a total of 7 dice.\n\nSome pools have limitations on how many dice can be added to a single test. See the descriptions for the respective Dice Pools for more information.\n\nDice from a Dice Pool should be a different color than the other dice used in the test.",
+    "category": "general",
+    "subcategory": "dice_pools",
+    "tags": [
+      "dice_pools",
+      "test_augmentation",
+      "game_mechanics",
+      "shadowrun"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 68,
+    "concept": "Mechanics of augmenting a test using Dice Pool dice.",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "Ellen Whitelace, heavy pistol held out before her in a combat grip, is fresh out of options: if she doesn’t take down the charging troll right fraggin’ now, she’ll never have to worry about options again. Her player can choose to use none, some, or all of the dice in Whitelace’s Combat Pool to augment her Firearms Test. Whatever dice she uses to augment the test will be unavailable again until the beginning of Whitelace’s NEXT action. In this case, Whitelace has a Combat Pool of 6 dice. Her player, knowing that the troll has to be stopped, decides to use all 6 dice. That leaves no dice in the character’s Combat Pool until her next action. If the Whitelace player had decided to use, say, only 4 dice, 2 dice would still have remained for use. Whitelace’s player has decided to risk it all in taking down the troll. If Whitelace does not stop the troll now, he could well come after her again at a time when she has no Combat Pool dice to use defensively.",
+    "category": "combat",
+    "subcategory": "firearms",
+    "tags": [
+      "combat_pool",
+      "firearms_test",
+      "dice_mechanics",
+      "character_action"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 69,
+    "concept": "Example of using a Combat Pool to augment a Firearms Test.",
+    "dependencies": [
+      "Introduction to Dice Pools and their availability during Combat Turns.",
+      "Mechanics of augmenting a test using Dice Pool dice."
+    ]
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "At the start of each character’s action, all his or her Dice Pools refresh to their original, full value. Thus, if a character has a Magic Pool with 8 dice, the pool always returns to 8 dice at the start of that character’s action. Unused pool dice do not carry over from one action to the next. Pool dice not used by the end of a Combat Turn are available for use early in the next Combat Turn, but are lost on the character’s first action of that Turn.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "dice_pools",
+      "action_refresh",
+      "combat_turn",
+      "mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 70,
+    "concept": "Mechanics of refreshing Dice Pools at the start of a character's action.",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "Whitelace geeks the troll, barely, but now has a trio of ninja wannabees looking to slice and dice her. When the Combat Turn ends, she still has 3 dice in her Combat Pool. Rolling for Initiative, her player makes an Initiative total of 18. Those remaining 3 dice can be used anytime, subject to the rules of the Combat Pool, prior to her action 18. She’ll need them: two of the ninja wannabees have actions before her.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "combat_pool",
+      "initiative",
+      "dice_rolls",
+      "action_order"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 71,
+    "concept": "Example of using remaining Combat Pool dice after an action.",
+    "dependencies": [
+      "Mechanics of refreshing Dice Pools at the start of a character's action."
+    ]
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "The Dice Pools of characters who delay actions refresh in the Combat Phase during which they delayed. The pools do not, however, refresh when the action actually comes up. The characters must wait until their next eligible action after the triggered action. If dice are drawn from any Pool, for any reason, at any time during the delay period (before the triggering event occurs), the delay is lost. See Delaying Actions, p. 80.\n\nA character can have only one Delayed Action at any one time.",
+    "category": "combat",
+    "subcategory": "delaying_actions",
+    "tags": [
+      "dice_pools",
+      "combat_phase",
+      "delayed_actions",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 72,
+    "concept": "Rules for refreshing Dice Pools during delayed actions.",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "Following the resolution of his Delayed Action, Bastion is not eligible for additional actions until the Combat Phase corresponding to his Initiative total of 17, because it is less than 19 (triggering Combat Phase 29 minus 10). Had the trigger event occurred in Combat Phase 18 instead, Bastion could not act again until Combat Phase 8 (triggering Combat Phase 18 minus 10, which is less than his own Initiative total of 17).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "delayed_action",
+      "initiative_total",
+      "combat_phase",
+      "action_economy"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 73,
+    "concept": "Example illustrating the consequences of a Delayed Action and Initiative.",
+    "dependencies": [
+      "Rules for refreshing Dice Pools during delayed actions.",
+      "Limitation on the number of Delayed Actions a character can have."
+    ]
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "The **Combat Pool** represents the attention the character is giving to his or her offensive and defensive posture. Dice from the Combat Pool may be allocated to any offensive or defensive combat-related tests, such as Firearm, Projectile Weapon, Throwing Weapon, Gunnery, Melee Combat, or similar offensive Combat Skill Tests (see Success Tests, p. 66). It is also possible to use dice from the Combat Pool to augment Damage Resistance Tests (see p. 102) against normal attacks.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "dice_mechanics",
+      "combat_tests",
+      "damage_resistance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 74,
+    "concept": "Definition and usage of the Combat Pool in combat-related tests.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "> Jonah Hammer, a mercenary with far too much attitude, has a Combat Pool of 7 dice. He has Firearms, Projectile Weapons, Throwing Weapons, and Gunnery Skills, and can use dice from the Combat Pool to augment tests for those skills. If attacked, he can also use dice from his Combat Pool for the Damage Resistance Test.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "dice_mechanics",
+      "damage_resistance"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 75,
+    "concept": "Example illustrating the application of the Combat Pool.",
+    "dependencies": [
+      "Combat Pool Definition"
+    ]
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "A character’s Combat Pool is equal to his Quickness, Intelligence, and Willpower Ratings, divided by 2, rounding down. Note that the personal combat sense spell (p. 153) does affect the Combat Pool, as do other spells that affect Quickness, Intelligence, or Willpower.\n\nThe Combat Pool refreshes according to the standard Dice Pool rules.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "dice_mechanics",
+      "character_stats"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 76,
+    "concept": "Calculation of a character's Combat Pool and its modifiers.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "The maximum number of Combat Pool dice that a character can add to any offensive Success Test is equal to his rating in the skill for which he is making the test. For example, a character with a Combat Skill of 5 can add only 5 more dice from his Combat Pool when making a Combat Success Test.\n\nThere is no limit on the number of dice that a character may draw from the Combat Pool for a defensive Damage Resistance Test.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "success_tests",
+      "offensive_tests",
+      "defensive_tests"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 77,
+    "concept": "Limitations on adding Combat Pool dice to offensive Success Tests.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "The only time the Combat Pool can be used to augment or resist magic-related Success Tests is in the case of damaging manipulation spells. A character can use dice from the Combat Pool to augment the Damage Resistance Test against these spells. See Manipulation Spells, p. 127.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_pool",
+      "magic_tests",
+      "damage_resistance",
+      "manipulation_spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 78,
+    "concept": "Restrictions on using the Combat Pool for magic-related Success Tests.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "An attack is considered to be a clean miss if the successes earned purely from the Combat Pool dice exceed the successes earned by the attacker. See Resolving Ranged Combat, p. 87, and Resolving Melee Combat, p. 100.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "clean_miss",
+      "attack_success",
+      "ranged_combat",
+      "melee_combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 79,
+    "concept": "Definition of a clean miss in combat based on Combat Pool usage.",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT POOL",
+    "content": "Characters wearing partial or full heavy armor take reductions to their Combat Pools. Those types of armor reduce the Combat Pool by 1 die for every point of Ballistic Armor Rating the armor has over the wearing character’s Quickness Rating. See Armor, p. 242.",
+    "category": "combat",
+    "subcategory": "combat_pool",
+    "tags": [
+      "combat_pool",
+      "armor_effects",
+      "heavy_armor"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 80,
+    "concept": "Effects of armor on the Combat Pool.",
+    "dependencies": []
+  },
+  {
+    "title": "CONTROL POOL",
+    "content": "The **Control Pool** is used by riggers to augment tests relating to vehicle control, such as Driving or Piloting (p. 183) and Position Tests (p. 105).\n\nA rigger’s Control Pool is equal to the character’s Reaction, modified only by a vehicle control rig. Reaction bonuses from other sources are of no help.\n\nThe Control Pool refreshes in accordance with the standard Dice Pool rules. See Vehicle Combat, p. 105, for special rules related to the Control Pool and Position Tests.\n\nThe maximum number of Control Pool dice that a character can add to any control-related test is equal to the base number of dice involved in the test. That is, the maximum number of Control Dice that a character can add to a control-related test is equal to his rating for the skill he is attempting to use.\n\nOnly characters with a Vehicle Control Rig (see p. 104) can use a Control Pool.",
+    "category": "skills",
+    "subcategory": "vehicle_control",
+    "tags": [
+      "control_pool",
+      "riggers",
+      "vehicle_control",
+      "driving",
+      "piloting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 81,
+    "concept": "CONTROL POOL",
+    "dependencies": []
+  },
+  {
+    "title": "HACKING POOL",
+    "content": "**Deckers** use dice from the **Hacking Pool** to augment decking-related tests such as Utility Tests (p. 174) and the MPCP Resistance Test in Matrix combat (p. 179). Hacking Pool dice cannot be used to augment defensive utility programs.\n\nA character’s Hacking Pool is equal to his or her Computer Skill (or Software Concentration or Decking Specialization) plus the character’s Reaction. The only bonuses that can help the Hacking Pool are those received from cyberdeck response increase circuitry (p. 173). Bonuses received from other sources do not help.\n\nThe Hacking Pool refreshes in accordance with the standard Dice Pool rules.\n\nThe maximum number of Hacking Pool dice that can be added to any test is equal to the base number of dice in use. That is, the maximum number of Hacking Pool dice that can be added to a program-related test is equal to the rating of the program. Similarly, the maximum number of dice that can be added to the MPCP Resistance Test is equal to the rating of the MPCP.\n\nOnly characters with a cyberdeck (see p. 172) can use a Hacking Pool.",
+    "category": "matrix",
+    "subcategory": "hacking",
+    "tags": [
+      "deckers",
+      "hacking_pool",
+      "dice_mechanics",
+      "matrix_combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 82,
+    "concept": "HACKING POOL",
+    "dependencies": []
+  },
+  {
+    "title": "MAGIC POOL",
+    "content": "A magician uses dice from the **Magic Pool** to augment certain magic-related Tests. Dice from the Magic Pool can be used to augment Spell Success Tests and Drain Resistance Tests in spellcasting (p. 129), in a special manner for ritual sorcery (p. 133), and for specific or area-effect Spell Defense (p. 132). Dice from the Magic Pool cannot be used to augment Conjuring-related Tests.\n\nA character’s Magic Pool is equal to his or her Sorcery Skill Rating (or any Concentration or Specialization of that skill, per those rules on p. 70), plus the rating of any applicable power foci the character may have (see foci, p. 137). Shamans also receive conditional bonuses to their Magic Pool based on the totem they follow. See Totem Modifiers, p. 119.\n\nThe Magic Pool refreshes in accordance with the standard Dice Pool rules.\n\nThe maximum number of Magic Pool dice that a character can add to a Magic Success Test is equal to his Magic Attribute. For example, a character with a Magic Attribute of 6 could add a maximum of 6 dice to a Success Test for a Force Rating 4 spell; that is, he would make the test with a total of 10 dice.\n\nThere is no limit to the number of dice a character may draw from the Magic Pool for the Drain Resistance Test. See the special rules associated with Ritual Magic (p. 133) and Spell Defense (p. 132) for more on the Magic Pool in those situations. Magic Pool dice cannot be used to augment Conjuring-related Tests.\n\nDice from the Magic Pool are allocated immediately following the Declare Actions step of the Combat Turn.\n\n---",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magic_pool",
+      "spell_success",
+      "drain_resistance",
+      "sorcery_skill",
+      "ritual_sorcery"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 83,
+    "concept": "MAGIC POOL",
+    "dependencies": []
+  },
+  {
+    "title": "CRITTER COMBAT",
+    "content": "In Shadowrun, the term **critter** covers a wide variety of creatures and beings. The group includes regular animals, paranormal animals, spirits, and individuals who have been affected by magical viruses, like vampires and ghouls.",
+    "category": "combat",
+    "subcategory": "critter_types",
+    "tags": [
+      "critter",
+      "combat",
+      "paranormal",
+      "spirits",
+      "magical_creatures"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 84,
+    "concept": "CRITTER COMBAT",
+    "dependencies": []
+  },
+  {
+    "title": "INITIATIVE",
+    "content": "Initiative for critters is determined in exactly the same way as normal character Initiative. All animals have a base Reaction Rating and a number of Initiative dice based on their reflexes (usually 1, 2, and yes, even 3D6). See the Critter Statistics Table, p. 233, for those statistics. The Initiative dice are rolled and added to the animal’s Reaction Rating to determine its Initiative total.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "initiative",
+      "critter",
+      "reaction_rating",
+      "dice_roll"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 85,
+    "concept": "INITIATIVE",
+    "dependencies": []
+  },
+  {
+    "title": "ACTIONS",
+    "content": "Sentient creatures may perform the same actions as normal characters, assuming they have the physical or paranormal means to do so. This may require some judgment on the part of the Gamemaster, based on the information presented in the Critters chapter, p. 214. The only Free Actions available to non-sentient creatures are Cease Using Power (similar to Drop Sustained Spell), Delay Action, Drop Prone, Drop Object (as appropriate), or Observe. They can use the Simple Actions of Change Position, Observe In Detail, or Pick Up/Put Down Object (as appropriate), and Complex Actions like Attack (like Melee/Unarmed Attack) or Use Power (similar to Cast Spell).",
+    "category": "general",
+    "subcategory": "actions",
+    "tags": [
+      "actions",
+      "sentient_creatures",
+      "gamemaster",
+      "non_sentient",
+      "free_actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 86,
+    "concept": "ACTIONS",
+    "dependencies": []
+  },
+  {
+    "title": "DICE POOLS",
+    "content": "Critters do not have Dice Pools. They do have **Threat Ratings**, however. See below and also Behind the Scenes, p. 187.",
+    "category": "general",
+    "subcategory": "dice_pools",
+    "tags": [
+      "dice_pools",
+      "threat_ratings",
+      "critter_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 87,
+    "concept": "DICE POOLS",
+    "dependencies": []
+  },
+  {
+    "title": "CRITTER THREAT RATINGS",
+    "content": "Critters, like non-player characters, have Threat Ratings to reflect increased hazard or ability. The Threat Rating is a permanent addition of dice to augment any applicable tests the critter makes, whether offensive (especially attack-related) or defensive.\n\nThe Threat Rating is not added to Initiative dice for the purpose of determining the creature’s Initiative, however. Use the standard formula of adding together the Reaction Rating and the Initiative dice.\n\nThreat Rating dice should be treated as Combat Pool dice for the purposes of determining a clean miss. See Combat Pool, p. 84.\n\nIt is ultimately the Gamemaster’s option as to when to apply a critter’s Threat Rating dice, based on that critter’s abilities and general strengths.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "critter",
+      "threat_rating",
+      "combat_pool",
+      "gamemaster",
+      "dice"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 88,
+    "concept": "CRITTER THREAT RATINGS",
+    "dependencies": []
+  },
+  {
+    "title": "COMBAT SKILLS",
+    "content": "Sentient creatures may have skills, but if they do not, they usually follow the same rules as non-sentient creatures. See the Critters chapter, starting on p. 214, for more information. Non-sentient creatures use their Reaction Rating as their base dice for physical attacks. Creatures with paranormal abilities use either Quickness, Intelligence, Willpower, or Reaction, as appropriate for the ability or power.\n\nCritters make Damage Resistance Tests normally, but add their Threat Rating to the test dice.\n\n---",
+    "category": "combat",
+    "subcategory": "damage_resistance",
+    "tags": [
+      "combat_skills",
+      "creatures",
+      "damage_resistance",
+      "paranormal_abilities",
+      "reaction_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 89,
+    "concept": "COMBAT SKILLS",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "Characters sometimes appear where and when they are not expected. This may be deliberate, as in the case of a planned ambush. Or it may be accidental, as in the case of two unlucky security guards who stumble over a group of shadowrunners committing some nefarious deed. In these and other similar instances, a surprise situation can occur.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "ambush",
+      "combat_mechanics",
+      "shadowrunners",
+      "security_guards"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 90,
+    "concept": "Introduction to the concept of surprise in Shadowrun.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "When surprised, a character can do little except watch events unfold. Surprise, as a game concept, occurs individually on a character-by-character basis. Thus, a player character walking into an ambush set by two non-player characters may find himself surprised by Ambusher A, but not by Ambusher B. In this case, the player character can take actions against Ambusher B, but not against Ambusher A, because it was Ambusher A that surprised him.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "combat_mechanics",
+      "initiative_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 91,
+    "concept": "Explanation of how surprise affects individual characters in the game.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "To resolve surprise and ambush situations, all participants must make Reaction Tests. Each character rolls his Reaction dice against a Target Number 4. The ambusher-characters, if they have delayed actions as they lie in wait for the arrival or appearance of their targets, receive a -2 to their target numbers. Gamemasters may also wish to apply additional target number modifiers for terrain, proper (or improper) camouflage, and other extenuating circumstances.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "reaction_test",
+      "surprise",
+      "ambush",
+      "target_number",
+      "gamemaster"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 92,
+    "concept": "Rules for conducting Reaction Tests in surprise situations.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "Each character’s successes are then compared individually against the successes generated by the opposing characters. One of the following two results may occur against each of the opposing characters: If a character has not generated more successes than a particular opposing character, he cannot take any actions that directly affect, impede, or counteract that character. If the character has generated more successes than a particular opponent, the first character can take actions against the second.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "reaction_tests",
+      "success_comparison",
+      "action_determination"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 93,
+    "concept": "Mechanics for comparing successes in Reaction Tests and determining actions.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "> Tess, Virgil, and Winger are waiting in ambush for three Mitsuhama security goons. The goons arrive, and our heroes spring their ambush. Tess has a Reaction of 6, Virgil an 8, and Winger a 9. The three goons all have Reaction 4. All characters make Reaction Tests. Rolling against Target Numbers of 2 (4, minus 2 for being ambushers), Tess gets 3 successes, Virgil 4, and Winger 5. Goon A gets a 4, Goon B gets 2, and Goon C gets none. Comparing successes, we find that Tess (3 successes) can act fully against Goon B (2 successes) and Goon C (0 successes), but can do nothing against Goon A (4 successes). Virgil can take actions against Goons B and C, but not A because Virgil and Goon A have the same number of successes. With 5 successes, Winger can act against everybody.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "reaction_tests",
+      "ambush",
+      "combat_mechanics",
+      "success_comparison"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 94,
+    "concept": "Example of a surprise situation with specific character statistics and outcomes.",
+    "dependencies": [
+      "Rules for conducting Reaction Tests in surprise situations",
+      "Mechanics for comparing successes in Reaction Tests and determining actions"
+    ]
+  },
+  {
+    "title": "SURPRISE",
+    "content": "The goons are in deep trouble. Goon A can only take actions against Tess (4 successes versus 3), and that’s it. Neither Goon B nor Goon C can take actions against any of the shadowrunners. Goon B simply did not generate enough successes, and Goon C, with no successes, is caught with his mouth hanging open or admiring a particularly attractive crack in the sidewalk.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "reaction_tests",
+      "combat_scenarios",
+      "goons",
+      "shadowrunners"
+    ],
+    "content_type": "example",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 95,
+    "concept": "Continuation of the example showing the consequences of the Reaction Tests for the goons.",
+    "dependencies": [
+      "Example of a surprise situation with specific character statistics and outcomes"
+    ]
+  },
+  {
+    "title": "SURPRISE",
+    "content": "All losses of actions, or limitations on actions, pertain to the character’s current action (if he is acting) or the next action, if it is not his or her action. Surprise should be resolved before any actions in a Combat Phase.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "combat_phase",
+      "action_resolution"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 96,
+    "concept": "Clarification on when to resolve surprise in relation to combat actions.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "Gamemasters will no doubt have to make numerous judgment calls in combat situations. The main idea in a surprise situation is that characters who do not generate more successes than a particular opponent in the Reaction Test cannot act against or react directly to that character. They are surprised by that character. The character can carry out other actions of a more general nature that are not directed at the opposing character, such as dropping prone or readying a weapon (but not firing it).",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "reaction_test",
+      "gamemaster_guidance",
+      "combat_situations",
+      "judgment_calls"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 97,
+    "concept": "Guidance for Gamemasters on handling surprise situations and actions.",
+    "dependencies": []
+  },
+  {
+    "title": "SURPRISE",
+    "content": "Characters who are unable to generate more successes than any members of the opposition suffer doubly. If anyone in the opposition generated more successes than the first character, the latter is considered to be completely surprised and is unable to take any actions of any kind, including Free Actions. The character may act again normally after the surprise situation is resolved.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "surprise",
+      "combat_mechanics",
+      "initiative_rolls",
+      "action_economy"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 98,
+    "concept": "Consequences for characters who are completely surprised in a surprise situation.",
+    "dependencies": []
+  },
+  {
+    "title": "RANGED COMBAT",
+    "content": "There are two kinds of combat in Shadowrun: ranged combat involving weapons, and melee, or hand-to-hand combat. All ranged combat, whether it involves firearms, projectile weapons, or thrown weapons, is resolved in the same manner. Ranged magic combat is explained in the Magic section, starting on p. 116.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "ranged_combat",
+      "firearms",
+      "projectile_weapons",
+      "thrown_weapons"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 99,
+    "concept": "RANGED COMBAT",
+    "dependencies": []
+  },
+  {
+    "title": "RESOLVING RANGED COMBAT",
+    "content": "Use the procedure outlined below for resolving ranged combat. Each step is explained further in the following sections.\n\n1. **Determine Range**\n Count the number of meters to the target and compare the weapon type against the appropriate range column on the Weapon Range Table (p. 88) to find the base target number.\n2. **Apply Situational Target Modifiers**\n Consult the Ranged Combat Modifiers Table (p. 89) and apply the appropriate situation modifiers.\n3. **Attacker’s Success Test**\n Make the attacker’s Success Test using the appropriate Combat Skill, modified by dice from the character’s Combat Pool. Count the successes. See p. 90, below.\n4. **Resolve Target’s Damage Resistance Test**\n Make the target’s Damage Resistance Test using Body dice and Combat Pool dice against a target number equal to the Power Rating of the weapon used, minus the target’s Armor Rating. Count the successes.\n5. **Determine the Result**\n Compare the successes. Depending on the outcome, the Damage Level may be staged up or down, or the attack may miss entirely. Apply any damage to the target’s Condition Monitor.\n6. **Apply Damage**\n The weapon’s damage is staged accordingly and applied against the target, if necessary. See p.91, below.",
+    "category": "combat",
+    "subcategory": "ranged_combat",
+    "tags": [
+      "ranged_combat",
+      "combat_mechanics",
+      "success_test",
+      "damage_resistance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 100,
+    "concept": "RESOLVING RANGED COMBAT",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "To determine a weapon’s base target number, check the distance to the target in meters and then consult the Weapon Range Table below. Shots against targets at short range have a base target number of 4. Shots against targets at medium range are against a 5, long range against a 6, and extreme range against a 9.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "base_target_number",
+      "weapon_range",
+      "combat_mechanics",
+      "targeting"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 101,
+    "concept": "Determining base target number based on distance to target",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "| Range In Meters | Short | Medium | Long | Extreme |\n| :--- | :--- | :--- | :--- | :--- |\n| **Target Number** | **4** | **5** | **6** | **9** |\n| **Firearms** | | | | |\n| Hold-out Pistol | 0-5 | 6-15 | 16-30 | 31-50 |\n| Light Pistol | 0-5 | 6-15 | 16-30 | 31-50 |\n| Heavy Pistol | 0-5 | 6-20 | 21-40 | 41-60 |\n| SMG | 0-10 | 11-40 | 41-80 | 81-150 |\n| Taser | 0-5 | 6-10 | 11-12 | 13-15 |\n| Shotgun | 0-10 | 11-20 | 21-50 | 51-100 |\n| Sporting Rifle | 0-30 | 31-60 | 61-150 | 151-300 |\n| Sniper Rifle | 0-40 | 41-80 | 81-200 | 201-400 |\n| Assault Rifle | 0-15 | 16-40 | 41-100 | 101-250 |\n| LMG | 0-20 | 21-40 | 41-80 | 81-150 |\n| **Heavy Weapons** | | | | |\n| Medium Machine Gun | 0-40 | 41-150 | 151-300 | 301-500 |\n| Heavy Machine Gun | 0-40 | 41-150 | 151-400 | 401-800 |\n| Assault Cannon | 0-50 | 51-150 | 151-450 | 451-1,300 |\n| Grenade Launcher | *5-50 | 51-100 | 101-150 | 151-300 |\n| Missile Launcher | *20-70 | 71-150 | 151-450 | 451-1,500 |\n| **Impact Projectiles** | | | | |\n| Bow | 0-Str | To Str x 10 | To Str x 30 | To Str x 60 |\n| Light Crossbow | 0-Str x 2 | To Str x 8 | To Str x 20 | To Str x 40 |\n| Medium Crossbow | 0-Str x 3 | To Str x 12 | To Str x 30 | To Str x 50 |\n| Heavy Crossbow | 0-Str x 5 | To Str x 15 | To Str x 40 | To Str x 60 |\n| Thrown Knife | 0-Str | To Str x 2 | To Str x 3 | To Str x 5 |\n| Shuriken | 0-Str | To Str x 2 | To Str x 5 | To Str x 7 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "target_number",
+      "weapon_range",
+      "firearms",
+      "combat_mechanics",
+      "shadowrun"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 102,
+    "concept": "Weapon Range Table showing target numbers for various weapons",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "The base target number appears at the top of the appropriate range column. All distances are in meters. Weapons marked with asterisks at short range have minimum range requirements. For impact projectiles, the notes “to STR × 10” and the like mean that the bow’s Strength Minimum is used to determine the distance. That is, a bow being wielded by a character with a Strength Rating 5 has a 0- to 5-meter short range, 6- to 50-meter medium range, a 51- to 150-meter long range, and a 151- to 300-meter extreme range. See Strength Minimum Rating, p. 96.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "base_target_number",
+      "impact_projectiles",
+      "range_calculation",
+      "strength_minimum",
+      "weapons"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 103,
+    "concept": "Explanation of base target number location and impact projectile distance calculation",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "Weapons marked with an asterisk cannot be fired at targets closer than the minimum value given under Short Range. See Grenade Launcher Minimum Range, p. 97, and Missile Launchers, p. 99.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "minimum_range",
+      "weapons",
+      "combat_rules",
+      "grenade_launchers",
+      "missile_launchers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 104,
+    "concept": "Minimum range restrictions for certain weapons",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "These systems shorten a weapon’s range category by a number of levels equal to the device’s rating. A Rating 2 targeting scope firing at long range would, for example, shift range two places to the left on the Weapon Range Table. Long range would change to short range, and the base target number (normally 6 for an attack at long range) would drop to Target Number 4 for short range. Short range is the minimum, so the same device used for an attack at medium range could not reduce the range category to less than the minimum for short range.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "image_modification",
+      "target_number",
+      "weapon_range",
+      "combat_mechanics",
+      "rating_effect"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 105,
+    "concept": "Impact of image modification systems on weapon range and target number",
+    "dependencies": []
+  },
+  {
+    "title": "BASE TARGET NUMBER",
+    "content": "Things are not always as easy as they seem. Weapon accessories, intervening terrain, atmospheric conditions, and the movement of the attacker and the target can change the base target number. As with tests for skills or attributes, the character’s physical condition also affects the target number.\n\nTarget numbers modified to less than 2 are assumed to be 2. A target number can never be less than 2.\n\nThe various ranged combat modifiers are given on the following table. Each condition is described individually following this table.\n\n| Situation | Modifier |\n| :--- | :--- |\n| Recoil, Semi-automatic | +1 for second shot that ...",
+    "category": "combat",
+    "subcategory": "ranged_combat",
+    "tags": [
+      "base_target_number",
+      "combat_modifiers",
+      "ranged_combat",
+      "weapon_accessories"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 106,
+    "concept": "Factors affecting base target number in ranged combat",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Occasionally, characters get their hands on military-grade missile and rocket launchers. Both use the same kind of launcher (called a missile launcher for convenience), but the two have inherent differences.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "military_gear",
+      "combat_equipment"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 107,
+    "concept": "Introduction to missile launchers and their types",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Rockets are rocket-shaped projectiles consisting of little more than a light metal or plastic body with stabilizing fins, a propulsion system (usually solid-chemical), and a warhead. They are considered to be dumb weapons, as they go only where pointed and have no internal or external guidance capability.\n\nRockets come in three types: High-Explosive Rockets (HER), Anti-Personnel Rockets (APR), and Anti-Vehicle Rockets (AVR).",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "rockets",
+      "weapons_characteristics"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 108,
+    "concept": "Definition and characteristics of rockets",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "High-explosive rockets are designed to do heavy damage to a large area. Their blast-pattern is similar to that of a grenade, but covers a greater area. They are not particularly effective against hardened targets such as vehicles or protected military structures. HERs use the standard grenade rules for blast and its effects.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "high_explosive_rockets",
+      "missile_launchers",
+      "area_damage",
+      "grenade_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 109,
+    "concept": "High-Explosive Rockets (HER) description and rules",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Anti-personnel rockets are, as the name implies, used principally against people. On impact, the warhead discharges high-speed metal or plastic-metal fragments designed to tear into unprotected flesh. APRs are very effective against unprotected individuals, but fairly ineffective against barriers, structures, and vehicles. APRs use the rules under Flechette Rounds, p. 93.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "anti_personnel_rockets",
+      "weapons",
+      "combat_mechanics",
+      "flechette_rounds"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 110,
+    "concept": "Anti-Personnel Rockets (APR) description and rules",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Anti-vehicle rockets contain a shape-charged warhead designed to burn or blast its way through a vehicle or barrier. Though a blast is associated with the impact, it is limited compared to something like that of a HER. Against AVRs, the Barrier Rating of a barrier is halved (round down), as is the Armor Rating for vehicles (round down).",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "anti_vehicle_rockets",
+      "missile_launchers",
+      "combat_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 111,
+    "concept": "Anti-Vehicle Rockets (AVR) description and rules",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Missiles are basically rockets, with two differences; they carry internal guidance and tracking systems, and are much more expensive. Because of their sophisticated electronics, missiles are considered to be smart weapons. The onboard electronics assist the firer in acquiring and hitting the target.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missiles",
+      "smart_weapons",
+      "rockets",
+      "guidance_systems"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 112,
+    "concept": "Definition and characteristics of missiles",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Like rockets, missiles come in three types: high-explosive (HEM), anti-personnel (APM), and anti-vehicle (AVM). The warhead types follow the same rules as their rocket counterparts.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "weapons",
+      "combat_mechanics",
+      "explosives"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 113,
+    "concept": "Types of missiles",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "| Type | Damage | Code | Power Level | Reduction | Scatter |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| HER/HEM | | 16D | | -1 per meter | 2D6 meters |\n| APR/APM | | 16D | | -1 per half-meter | 2D6 meters |\n| AVR/AVM | | 16D | | -8 per meter | 2D6 meters |\n\nRocket fire is resolved in exactly the same manner as for grenade launchers. See Grenades, p. 96.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "damage_mechanics",
+      "combat_rules"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 114,
+    "concept": "Rocket/Missile damage and mechanics table",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Missile fire, on the other hand, works a little differently. Missiles have an Intelligence Rating that reflects the sophistication of their internal electronics. The presence of these electronics does three things. First, when using the missile's sensing and targeting circuits, the character rolls the Intelligence Rating of the missile as extra dice in the Success Test (in addition to the character's Gunnery Skill and any Combat Pool dice). Second, when a missile is fired against a vehicle, the vehicle's Signature Rating (see p. 104) becomes the target number, regardless of range. There is an additional +2 target modifier when the missile is fired in an urban environment such as a major city, industrial park, or most non-residential areas of a sprawl. Lastly, the scatter of a missile is reduced by the missile's Intelligence in meters.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "gunnery",
+      "combat_pool",
+      "targeting",
+      "urban_environment"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 115,
+    "concept": "Missile fire resolution rules",
+    "dependencies": []
+  },
+  {
+    "title": "MISSILE LAUNCHERS",
+    "content": "Like grenades, missiles and rockets scatter. Their scatter is reduced by 1 meter per success generated in targeting the Success Test. The scatter of missiles is also reduced by 1 meter for every point of Intelligence they possess.\n\nSee the Gear section, p. 236, for information about purchasing missiles.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "missile_launchers",
+      "scatter_mechanics",
+      "combat_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 116,
+    "concept": "Scatter mechanics for missiles and rockets",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "Whenever two or more characters engage each other in hand-to-hand or armed combat, the melee combat system rules apply. Melee combat in Shadowrun assumes that some maneuvering occurs as part of the actual combat. Each attack is not a single blow, but a series of moves and counter-moves executed by those involved. Even so, for simplicity, the character who initiates the attack (the character whose action it is) is considered to be the \"attacker.\" The opponent is considered to be the \"defender.\"\n\nTo resolve a melee combat encounter, follow the procedure outlined below. Detailed explanations follow the list of steps.",
+    "category": "combat",
+    "subcategory": "melee_combat",
+    "tags": [
+      "melee_combat",
+      "hand_to_hand",
+      "combat_rules",
+      "attack_defense"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 117,
+    "concept": "Introduction to Melee Combat",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "1. **Make Attacker's Test** Roll the attacker's base Combat Skill dice, augmented by dice from his Combat Pool, against a base Target Number 4, modified as appropriate. Count the successes.",
+    "category": "combat",
+    "subcategory": "attacker's_test",
+    "tags": [
+      "melee_combat",
+      "combat_skill",
+      "attacker_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 118,
+    "concept": "Attacker's Test",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "2. **Make Defender's Test** Roll the defender's base Combat Skill dice, augmented by dice from his Combat Pool, against a base Target Number 4, modified as appropriate. Count the successes.\n\n3. **Compare the Successes** The character who rolls the most successes has hit his or her opponent. A tie goes in favor of the attacker.",
+    "category": "combat",
+    "subcategory": "melee_combat",
+    "tags": [
+      "defender_test",
+      "combat_skill",
+      "successes",
+      "target_number"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 119,
+    "concept": "Defender's Test",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "4. **Determine Damage** The character who hit can increase the Damage Level of his attack by one level for every two full successes he rolls above his opponent's success total.",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "melee_combat",
+      "damage_calculation",
+      "success_rolls"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 120,
+    "concept": "Determining Damage",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "5. **Resist Damage** Roll the hit character's Body dice against a target number equal to the attacker's weapon-modified Strength, minus the target's Impact Armor Rating. For every two successes rolled, the Damage Level is reduced by one level.",
+    "category": "combat",
+    "subcategory": "damage_resistance",
+    "tags": [
+      "resist_damage",
+      "body_dice",
+      "combat_mechanics",
+      "damage_reduction"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 121,
+    "concept": "Resisting Damage",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "Melee combat weapons are any weapons wielded in close-fighting, that is, when the combatants are within a few meters of each other. In some cases, the weapons may be thrown, but if the weapon is actually swung, melee combat is used. The Melee Weapons Table lists the melee weapons, and their game attributes, available to Shadowrun characters.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "melee_combat",
+      "weapons",
+      "close_fighting",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 122,
+    "concept": "Definition of Melee Combat Weapons",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "| | Concealability | Reach | Damage | Weight | Cost |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Edged Weapons** | | | | | |\n| Katana | 3 | 1 | (Str + 3)M | 1 | 1,000¥ |\n| Knife | 8 | 0 | (Str)L | .5 | 30¥ |\n| Sword | 4 | 1 | (Str + 2)M | 1 | 500¥ |\n| **Pole Arms/Staves** | | | | | |\n| Pole Arm | 2 | 2 | (Str + 3)S | 4 | 500¥ |\n| Staff | 2 | 2 | (Str + 2)M Stun | 1 | 50¥ |\n| **Clubs** | | | | | |\n| Club | 5 | 1 | (Str + 1)M Stun | 1 | 10¥ |\n| Sap | 8 | 0 | (Str + 2)M Stun | - | 10¥ |\n| Stun Baton | 4 | 1 | 6S Stun | 1 | 750¥ |\n| **Other** | | | | | |\n| Hand Razor | -/10* | 0 | (Str)L | | 4,500/9,000¥ |\n| Spurs | -/9* | 0 | (Str)M | | 7,000/11,500¥ |\n| Unarmed | NA | 0 | (Str)M Stun | NA | NA |\n| **Whips/Flails** | | | | | |\n| Monofilament Whip | 10 | 2 | 10S | - | 3,000¥ |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "melee_weapons",
+      "damage",
+      "combat_mechanics",
+      "gear"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 123,
+    "concept": "Melee Weapons Table",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "**Concealability** measures how easy or difficult it is to conceal the weapon. This rating becomes the target number for Perception Tests directed at noticing the weapon. See Perception, p. 185. The asterisk under Hand Razor and Spurs indicates their respective Concealability Ratings when extended.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "concealability",
+      "melee_weapons",
+      "perception_tests"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 124,
+    "concept": "Concealability Explanation",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "**Reach** is a measure of how long a weapon is. If one character's weapon Reach exceeds another, he receives a -1 to his target number for each point his weapon's Reach exceeds his opponent's. Moreover, his opponent receives a +1 to his target number for each point his weapon's Reach is inferior to his opponent's. Trolls have a natural Reach of +1 that is cumulative with weapon Reach.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "reach",
+      "melee_combat",
+      "target_number",
+      "trolls",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 125,
+    "concept": "Reach Explanation",
+    "dependencies": []
+  },
+  {
+    "title": "MELEE COMBAT",
+    "content": "**Damage** indicates the overall Damage Code of the weapon. Most melee weapons, with the exception of the monofilament whip (whose effect has nothing to do with the force with which it is wielded) have a base Power equal to the Strength of the wielder, plus some value. This is expressed, for example, as Str + 2, which gives 2 additional points to the wielder's Strength for the Power of the attack. The higher the weapon's Power Rating, the harder it is...",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "melee_combat",
+      "damage",
+      "weapons",
+      "power_rating",
+      "strength"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 126,
+    "concept": "Damage Explanation",
+    "dependencies": []
+  },
+  {
+    "title": "SHOCK WEAPONS",
+    "content": "Shock weapons include both melee-combat stun batons and ranged-combat tasers. Both work on a similar principle, their effect relying on a contact-discharge of electricity rather than kinetic energy. The damage each causes is Stun, and combat with a stun baton (melee) or taser gun (ranged) is handled according to the normal rules for that type of weapon.\n\nAn additional effect of a successful hit by a stun weapon is that the target is stunned for a number of Combat Turns equal to the Power of the attack, minus one-half (round down) any Impact armor worn, and minus the successes generated from a Body or Willpower (whichever is greater) Test made against a Target Number 4. This state of disorientation imposes an additional +2 target modifier to all tests for the duration.\n\nImpact armor is used against shock weapons, except that its rating is halved, rounding down.\n\n---",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "shock_weapons",
+      "stun",
+      "melee",
+      "ranged",
+      "combat_turns"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 127,
+    "concept": "SHOCK WEAPONS",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "Shadowrun is not a vehicle combat game, but characters do sometimes engage in combat involving vehicles.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "rules",
+      "shadowrun"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 128,
+    "concept": "Introduction to vehicle combat in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "Vehicles have Attribute Ratings much like those of characters. Vehicle ratings are on their own scale, however, and not directly compatible with character ratings.\n\n**Handling** refers to the maneuverability of the vehicle. The higher the rating, the more difficult it is to control the vehicle.",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "vehicles",
+      "combat",
+      "handling",
+      "ratings",
+      "maneuverability"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 129,
+    "concept": "Overview of vehicle ratings in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "**Speed** is a split rating that gives the standard cruising speed and then the vehicle's top speed, in meters per Combat Turn. To determine the vehicle's speeds outside of a Combat Turn, multiply the listed speed by 1.2. The result is in kilometers per hour.\n\n**Body** is the measure of the vehicle's structural ruggedness and also acts as a guide to its relative size.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "speed_rating",
+      "combat_turn",
+      "vehicle_stats",
+      "body"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 130,
+    "concept": "Explanation of Speed rating for vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "**Armor** rates the vehicle's protection against weapon damage. Vehicle armor acts as a combination of the kind of standard armor characters wear and as a Barrier Rating. See Vehicles, Weapons, and Magic for more information, p. 108.",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "armor_rating",
+      "vehicle_protection",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 131,
+    "concept": "Explanation of Armor rating for vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "**Signature** represents the vehicle's vulnerability to electronic and thermal detection. The higher the rating, the harder it is to detect the vehicle.\n\n**Autopilot** represents the autopilot's ability to control the vehicle and perceive threats to its progress.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "signature_rating",
+      "autopilot",
+      "vehicle_detection",
+      "combat_vehicles"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 132,
+    "concept": "Explanation of Signature rating for vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "To become a rigger requires the ability to use a piece of cyberware known as a vehicle control rig (VCR). This equipment allows the rigger to cybernetically command a vehicle by jacking directly into it or to operate the vehicle remotely via a remote-control deck. The vehicle control rig gives the rigger advantages such as bonuses to Reaction and Initiative, plus the Control Pool.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicle_control_rigs",
+    "tags": [
+      "vehicle_control_rig",
+      "riggers",
+      "combat",
+      "reaction",
+      "initiative"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 133,
+    "concept": "Overview of Vehicle Control Rigs and their benefits for riggers",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "A rigger only receives the Reaction and Initiative bonuses for the vehicle control rig while cybernetically controlling a vehicle. This may be by direct link into the vehicle, or through a remote link via a rigger deck. Other types of Reaction- or Initiative-enhancing cyberware or magics do not assist the rigger while jacked in.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "rigger",
+      "vehicle_control",
+      "initiative_bonus",
+      "cyberware",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 134,
+    "concept": "Rigger/Vehicle Initiative mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "It requires a Complex Action to command a single vehicle, regardless of how many are under control at that time. A rigger may be controlling two drones, for example, but may only command one of them directly with a Complex Action. If, however, more than one drone is receiving an identical command-'Leave the area' or 'Attack this target,' for example-the rigger may command them as a group.",
+    "category": "combat",
+    "subcategory": "vehicle_actions",
+    "tags": [
+      "vehicles",
+      "riggers",
+      "combat_commands",
+      "actions"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 135,
+    "concept": "Vehicle Actions and Commands mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "If a drone or remote patrol vehicle (RPV) has an autopilot, the rigger can issue it one-sentence commands such as 'Circle this area,' 'Shoot anyone who comes through this door,' 'Follow that car,' and the like. The more specific and detailed the command, the greater the chance the autopilot will become confused, however.",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "drones",
+      "autopilot",
+      "commands",
+      "riggers",
+      "combat"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 136,
+    "concept": "Issuing commands to drones with autopilot",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "The gamemaster should rate the command's complexity (use the Skill Success Table, p. 68), then tell the rigger player the target number for the test, giving him the option of downgrading the complexity before actually issuing the command. (It can be assumed that by the year 2053 computers can clearly understand and interpret plain English-language structure. It can also be assumed that the rigger knows the capability of the autopilot.)",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "autopilot",
+      "command_complexity",
+      "rigger",
+      "target_numbers",
+      "skill_success_table"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 137,
+    "concept": "Determining command complexity and target numbers for autopilot",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "The gamemaster then makes a test, rolling the vehicle's Autopilot Rating against the target number. Only one success is needed for the drone to execute the instruction. The more successes rolled, the more latitude the drone has in interpreting the command (to the benefit of the rigger.) The gamemaster may even permit the rigger to decide what the drone does in the face of a circumstance that runs somewhat counter to the rigger's instructions.",
+    "category": "combat",
+    "subcategory": "vehicles",
+    "tags": [
+      "autopilot",
+      "drone_commands",
+      "riggers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 138,
+    "concept": "Resolving autopilot commands through dice rolls",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES AND COMBAT",
+    "content": "It is best to assume that the drone is what is commonly referred to as a 'dog-brain,' that is, capable of responding to commands like an exceptionally intelligent, highly trained animal.",
+    "category": "combat",
+    "subcategory": "drones",
+    "tags": [
+      "drones",
+      "combat",
+      "dog_brain",
+      "commands"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 139,
+    "concept": "Understanding the capabilities of drones in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "Shadowrun is a roleplaying game and the vehicle combat system reflects that. It is not intended to be an accurate, detailed simulation of vehicle combat. Instead, it is a means by which the key elements of vehicular pursuit can be gamed in a relatively simple, fast manner.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "pursuit",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 140,
+    "concept": "Introduction to the vehicle combat system in Shadowrun",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "In this system, many of the actions, events, and results of an actual pursuit have been abstracted for ease of play. For example, it is assumed that the speed of the vehicles involved is appropriate for the type of vehicle and the terrain through which they are traveling. The actual speed need never be stated.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "pursuit",
+      "abstraction",
+      "gameplay"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 141,
+    "concept": "Overview of abstraction in vehicle combat mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "Vehicles use the same Combat Turn as regular characters. There are, however, some differences. Use the Combat Turn Sequence, from p. 78, but add the following subsections as needed.\n\nBefore determining Initiative, resolve A and B below for riggers. Once that has been done, determine Initiative normally.",
+    "category": "combat",
+    "subcategory": "initiative",
+    "tags": [
+      "vehicle_combat",
+      "combat_turn",
+      "initiative",
+      "riggers",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 142,
+    "concept": "Combat Turn structure for vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "A. **Allocate Control Pool Dice** The rigger must decide which dice from the Control Pool will be available for the remainder of the Vehicle Turn, and which are to be used for the Position Test.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "control_pool",
+      "riggers",
+      "dice_allocation",
+      "turn_management"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 143,
+    "concept": "Control Pool dice allocation for riggers",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "B. **Make Position Test** Make a Position Test, explained below, for all vehicles involved in the Combat Turn. Roll the appropriate Vehicle Skill, plus Control Pool dice, against the Handling of the vehicle, modified by the terrain. The outcome depends on the successes and whether the vehicle is fleeing, pursuing, or fighting.\n\nCharacter actions are resolved normally, but within the parameters defined in Resolving Actions, p. 106, below.\n\nPrior to beginning a new Combat Turn, riggers must make an Escape Test.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "position_test",
+      "combat_turn",
+      "riggers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 144,
+    "concept": "Position Test mechanics for vehicles in combat",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "A. **Make Escape Test (End of Turn)** Riggers who choose Flight in the Position Test may now attempt to escape completely. See Escape Tests, p. 107, for more information.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "escape_test",
+      "riggers",
+      "flight",
+      "combat_mechanics",
+      "turn_end"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 145,
+    "concept": "Escape Test mechanics for riggers",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "A rigger with a Control Pool must now decide how many of its dice he will use in the next step, the Position Test. The rest of the dice may be reserved for other uses, as needed.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "control_pool",
+      "position_test",
+      "riggers"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 146,
+    "concept": "Control Pool usage for Position Test",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "The Control Pool refreshes at the beginning of each of the rigger's actions, but the player removes the dice spent in the Position Test each time the pool refreshes.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "control_pool",
+      "rigger_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 147,
+    "concept": "Control Pool refresh mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "At the beginning of every Combat Turn and before determining Initiative, players must make Position Tests for vehicles involved in that turn. The purpose of the test is to determine the relative position of the various vehicles engaged in the combat. Each driver involved may have a different intention in the test, these being **Fleeing**, **Pursuit**, or **Fight**.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "position_test",
+      "vehicle_combat",
+      "initiative",
+      "fleeing",
+      "pursuit"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 148,
+    "concept": "Overview of Position Test and its purpose",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "**Fleeing** involves maneuvering the vehicle to escape from combat or any pursuers. The driver's objective is to widen the distance between the vehicles so that escape is possible.\n\n**Pursuit** is just the opposite. A pursuing driver wants to catch up to a fleeing vehicle to prevent it from escaping.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "fleeing",
+      "pursuit",
+      "vehicle_mechanics",
+      "combat_strategy"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 149,
+    "concept": "Definition of Fleeing intention in Position Test",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "A driver who chooses **Fight** is primarily interested in getting a clear shot at the opponent, or more correctly, as many clear shots at the opponent as he can manage. Getting the shot is the primary concern.\n\nThe various sides choose their individual intentions in secret, only revealing their choices after making the Position Tests.",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "fight_intention",
+      "position_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 150,
+    "concept": "Definition of Fight intention in Position Test",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE COMBAT",
+    "content": "To make the Position Test, roll the Vehicle Skill of the driving character against a target number equal to the vehicle's Handling Rating, modified by the type of terrain on which the vehicle is traveling. Consult the table below. If the driver of the vehicle has a Control Pool, he may add any dice allocated to the Position Test at the beginning of the turn roll.\n\nDetermine each side's successes. What each side does with their successes depends on whether their intention was flight, pursuit, or combat.\n\n### POSITION TEST MODIFIERS\n\n| Terrain | Modifier |\n| :--- | :--- |\n| Open | 0 |\n| Normal | +1 |\n| Restricted | +2 |\n| Tight | +4 |\n\nEach success in the Posit...",
+    "category": "combat",
+    "subcategory": "vehicle_combat",
+    "tags": [
+      "vehicle_combat",
+      "position_test",
+      "terrain_modifiers",
+      "driving_skills"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 151,
+    "concept": "Mechanics of making the Position Test",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "Weapons use the same Damage Codes against vehicles (hard targets) as they do against other characters (soft targets), but with some differences and restrictions. Against vehicles without vehicle armor, a vehicle's Body counts as composite armor (impact and ballistic) and reduces the Power of the attack. Otherwise, resolving weapon damage is the same. The vehicle's Body also determines the number of dice rolled when resisting damage. A weapon's Damage Code is also reduced by one level (D to S, S to M, and M to L). Weapons rated as Light are unable to affect vehicles unless using special ammunition or when attacking for something vital (see Called Shots, p. 92.)",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "damage_codes",
+      "vehicles",
+      "combat_mechanics",
+      "weapons_effects"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 152,
+    "concept": "Damage Codes and weapon effects against vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "In attacks against vehicles with vehicle armor, the armor acts as a Barrier Rating. That is, if the base Power of the weapon, unmodified by burst or full auto fire, does not exceed the rating of the vehicle armor, it will not penetrate.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "vehicle_armor",
+      "weapon_attacks",
+      "penetration",
+      "barrier_rating"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 153,
+    "concept": "Effects of vehicle armor on weapon attacks",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "The Power and Damage Codes for grenades and other explosives are affected in the same manner, with the exception of anti-vehicle rockets and missiles. Those weapons have a semiarmor-piercing warhead and do not have their Damage Level reduced, but the Power is reduced by the vehicle's armor.",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "explosives",
+      "vehicles",
+      "damage",
+      "armor_piercing",
+      "grenades"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 154,
+    "concept": "Explosive weapon effects against vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "When resisting damage, a driver whose vehicle has vehicle armor rolls a number of dice equal to the Body of the vehicle, plus one-half the vehicle armor against a target number equal to the Power of the weapon, minus the Body plus vehicle Armor Ratings. Riggers may allocate dice from their Control Pools if they choose.",
+    "category": "combat",
+    "subcategory": "damage_resistance",
+    "tags": [
+      "vehicles",
+      "damage_resistance",
+      "armor",
+      "riggers",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 155,
+    "concept": "Damage resistance mechanics for vehicles with armor",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "For attacks against a moving target, consult the table below for additional maneuvering-based modifiers. Compare the speed of the firing vehicle or the vehicle from which the character(s) is firing against the speed of the target. Stationary attackers have a speed of 5. When using the vehicle combat rules, p. 105, compare the vehicles' cruising speeds.",
+    "category": "combat",
+    "subcategory": "attacking_moving_targets",
+    "tags": [
+      "attacking",
+      "moving_targets",
+      "vehicle_combat",
+      "modifiers",
+      "rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 156,
+    "concept": "Modifiers for attacking moving targets",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "### MOVING TARGET TABLE\n| Relative Speeds | Modifier |\n| :--- | :--- |\n| Target's speed less than or equal to Attacker's | 0 |\n| Target's speed up to twice the Attacker's | +2 |\n| Twice to three times higher | +4 |\n| More than three times higher | +6 |",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "moving_targets",
+      "attack_modifiers",
+      "combat_rules"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 157,
+    "concept": "Table of modifiers for attacking moving targets",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "Though the Shadowrun vehicle damage system does not use specific damage locations, it is sometimes necessary to know whether or not a vehicle's windows have shattered. It is assumed that civilian vehicles taking Moderate damage have one or more windows blown out or shattered. Military and security vehicles, on the other hand, have reinforced windows that do not shatter or blow out until the vehicle takes Serious damage. Aircraft whose windows have shattered or blown out must immediately descend to a safe, oxygen-rich altitude. Because none of the Shadowrun vehicle systems are concerned with altitude, this is more a note for roleplaying.",
+    "category": "gear_mechanics",
+    "subcategory": "vehicles",
+    "tags": [
+      "vehicle_damage",
+      "windows",
+      "shattering",
+      "roleplaying",
+      "altitude"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 158,
+    "concept": "Effects of damage on vehicle windows",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "Only physical combat spells that do physical damage can affect vehicles. Mana spells affect minds and living things, while physical spells affect physical things. A physical combat spell cast against a vehicle has a Target Number 8 because of the machine's complex technological and electronic nature. The vehicle resists damage by making a standard Spell Resistance Test in the same manner as a person in that vehicle can attempt to resist the casting magician's successes.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_spells",
+      "vehicles",
+      "damage_resistance",
+      "spellcasting_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 159,
+    "concept": "Combat spells and their effects on vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "The dice rolled for the vehicle's Resistance Test is equal to its Body, plus one-half any vehicle armor. The target number for this test is equal to the Force of the spell. A player can allocate Spell Defense dice to assist a vehicle. In some instances, this is a particularly efficient use of these dice. (See Spell Defense Dice, p. 132.)",
+    "category": "combat",
+    "subcategory": "spellcasting",
+    "tags": [
+      "vehicles",
+      "resistance_test",
+      "combat_spells",
+      "spell_defense",
+      "armor"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 160,
+    "concept": "Resistance mechanics for vehicles against combat spells",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLES, WEAPONS, AND MAGIC",
+    "content": "If the casting magician's Spell Success Test produces extra successes beyond what the vehicle's Spell Resistance Test produced, damage is done. Damage is calculated in the same manner as for damage against characters. Gamemasters and players are referred to Spells and Astral Space, p. 149.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "combat_spells",
+      "vehicle_damage",
+      "spell_success",
+      "gamemaster_guidance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 161,
+    "concept": "Calculating damage from combat spells against vehicles",
+    "dependencies": []
+  },
+  {
+    "title": "VEHICLE DAMAGE",
+    "content": "Vehicles use a standard Condition Monitor marked off in Condition Levels of Light, Moderate, Serious, and Destroyed. Just as a regular character receives modification based on his damage status, so does a vehicle.\n\nThe table below indicates the effects of damage on vehicles.\n\nThe **vehicle damage modifier** applies to all tests that actually involve the vehicle.\n\nThe **Initiative modifier** reduces the effective Reaction of the character controlling the vehicle.\n\nThe **Speed modifier** reduces the vehicle's cruising speed and maximum speed.\n\n---\n\n### VEHICLE DAMAGE MODIFIERS\n| Vehicle Damage | Target Number | Initiative | Speed |\n| :--- | :--- | :--- | :--- |\n| Light | +1 | -1 | No change |\n| Moderate | +2 | -2 | 75% |\n| Serious | +3 | -3 | 50% |",
+    "category": "general",
+    "subcategory": "vehicle_damage",
+    "tags": [
+      "vehicle",
+      "damage",
+      "modifiers",
+      "initiative",
+      "speed"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 162,
+    "concept": "VEHICLE DAMAGE",
+    "dependencies": []
+  },
+  {
+    "title": "DAMAGE AND HEALING",
+    "content": "Characters can be injured in two separate ways: **Physical Damage** and **Stun Damage**. These two types of damage are tracked on the **Condition Monitor**.\n\n---",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "damage",
+      "healing",
+      "condition_monitor"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 163,
+    "concept": "DAMAGE AND HEALING",
+    "dependencies": []
+  },
+  {
+    "title": "TYPES OF INJURY",
+    "content": "* **Physical Damage:** The most dangerous type, caused by guns, explosions, bladed weapons, and most magic spells. If a weapon's damage code doesn't specify stun, it does physical damage. It takes the longest to heal.\n* **Stun Damage:** This is bruising or fatigue damage caused by fists, blunt weapons, stun rounds, shock weapons, and some spells. Its immediate effects can be as severe as physical damage, but it heals more quickly.\n\n---",
+    "category": "combat",
+    "subcategory": "damage_types",
+    "tags": [
+      "physical_damage",
+      "stun_damage",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 164,
+    "concept": "TYPES OF INJURY",
+    "dependencies": []
+  },
+  {
+    "title": "DAMAGE CODES",
+    "content": "A weapon's Damage Code has two parts: a numeral for the **Power** and a letter for the **Damage Level**.\n\n* **Power:** A number used as the target number for any success tests to avoid or resist damage. It can be modified by armor or other factors.\n* **Damage Level:** A letter indicating the base severity of the wound. The levels are:\n * **L:** Light\n * **M:** Moderate\n * **S:** Serious\n * **D:** Deadly\nThe Damage Level can be increased or reduced through a process called **staging**. The attacker can stage up the damage one level for every 2 successes on their attack test. The defender can stage it down one level for every 2 successes on their resistance test. If the damage is staged below \"Light,\" no damage is done.\n\n---",
+    "category": "combat",
+    "subcategory": "weapons",
+    "tags": [
+      "damage_code",
+      "power",
+      "damage_level",
+      "staging",
+      "combat_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 165,
+    "concept": "DAMAGE CODES",
+    "dependencies": []
+  },
+  {
+    "title": "APPLYING DAMAGE",
+    "content": "Damage is recorded on the character's **Condition Monitor**, which has separate columns for Physical and Stun damage.\n\n### CONDITION MONITOR\n\n| DAMAGE | LIGHT | MODERATE | SERIOUS | DEADLY |\n| :--- | :--- | :--- | :--- | :--- |\n| **STUN** | +1 TN# -1 Init. | +2 TN# -2 Init. | +3 TN# -3 Init. | Unc. |\n| **PHYSICAL** | +1 TN# -1 Init. | +2 TN# -2 Init. | +3 TN# -3 Init. | maybe dead |\n\n### DAMAGE LEVEL TABLE\n\n| Damage Type | Number of Boxes Filled In |\n| :--- | :--- |\n| Light | 1 |\n| Moderate | 3 |\n| Serious | 6 |\n| Deadly | 10 |\n\n* Damage is cumulative. For example, a character with a Moderate wound (3 boxes) who takes another Moderate wound fills a total of 6 boxes, equivalent to a Serious wound.\n\n---",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "damage",
+      "condition_monitor",
+      "stun",
+      "physical",
+      "wounds"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 166,
+    "concept": "APPLYING DAMAGE",
+    "dependencies": []
+  },
+  {
+    "title": "EXCEEDING THE CONDITION MONITOR",
+    "content": "* **Stun Damage Overflow:** If the Stun column is exceeded (more than 10 boxes), the extra damage carries over to the Physical column. The character also falls unconscious until the Stun damage is reduced.\n* **Physical Damage Overflow:** If the Physical column is exceeded, the character is near death. Instant death occurs if the total damage exceeds 10 plus the character's natural Body Rating. If the character survives the initial overflow, they take an additional box of damage every 10 minutes until they receive medical attention.\n\n---",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "stun_damage",
+      "physical_damage",
+      "condition_monitor",
+      "overflow"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 167,
+    "concept": "EXCEEDING THE CONDITION MONITOR",
+    "dependencies": []
+  },
+  {
+    "title": "CONDITION LEVELS",
+    "content": "As a character takes damage, they suffer penalties based on their highest **Condition Level** in each column.\n\n* **Injury Modifier:** A universal target number modifier for most Success Tests.\n* **Initiative Modifier:** Applied to the character's Reaction before rolling Initiative dice. If the modifier reduces Reaction to 0 or less, the character cannot take actions that turn.\n\n### DAMAGE MODIFIERS TABLE\n\n| Damage Level | Injury Modifier | Initiative Modifier |\n| :--- | :--- | :--- |\n| Uninjured | None | None |\n| Light | +1 | -1 |\n| Moderate | +2 | -2 |\n| Serious | +3 | -3 |\n| Deadly | Unconscious or Near Death | Unconscious or Near Death |\n\n---",
+    "category": "combat",
+    "subcategory": "damage",
+    "tags": [
+      "condition_levels",
+      "damage_modifiers",
+      "initiative_modifiers"
+    ],
+    "content_type": "table",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 168,
+    "concept": "CONDITION LEVELS",
+    "dependencies": []
+  },
+  {
+    "title": "HEALING",
+    "content": "Healing takes time and varies for Stun and Physical damage.\n\n### Healing Stun Damage\n* Stun damage is overcome through **recovery**, which is a process of resting.\n* A character rolls either **Body or Willpower** dice (whichever is higher) against a base Target Number 2, modified by any injury modifiers.\n* The base recovery time is 60 minutes per box of Stun damage. This time is divided by the number of successes on the roll.\n* A character must be resting completely. If interrupted, the process aborts.\n* Unconscious characters will not wake up until their Stun damage is reduced to the Serious level.\n* Stim patches offer a temporary solution.\n\n### Healing Physical Damage\n* Physical damage takes longer to heal and may require medical attention.\n* A character makes a **Body Test** against a target number based on their wound level (see Wound Table).\n* If any successes are rolled, the character heals without medical attention. If there are no successes, medical attention is required.\n* Deadly wounds always require medical attention.\n\n### WOUND TABLE\n\n| Wound Level | Target Number |\n| :--- | :--- |\n| Light | 2 |\n| Moderate | 4 |\n| Serious | 6 |\n\n* **Stages of Healing:** Healing occurs in stages, reducing the character's damage level by one. The Condition Monitor drops to the lowest point for the next level.\n* The time it takes to heal one Damage Level is determined by a **Body Test** against a target number from the Healing Table, with modifiers for medical care and lifestyle.\n\n### HEALING TABLE\n\n| Damage Level | Base Time | Min. Time | Target Number | Min Lifestyle |\n| :--- | :--- | :--- | :--- | :--- |\n| Deadly | 30 days | 3 days | 10 | Hospitalized |\n| Serious | 20 days | 2 days | 8 | High |\n| Moderate | 10 days | 1 day | 6 | Middle |\n| Light | 24 hours | 2 hours | 4 | Low |\n\n---",
+    "category": "general",
+    "subcategory": "healing",
+    "tags": [
+      "healing",
+      "stun_damage",
+      "physical_damage",
+      "recovery",
+      "body_test"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 169,
+    "concept": "HEALING",
+    "dependencies": []
+  },
+  {
+    "title": "Deadly Wounds and Permanent Damage",
+    "content": "A Deadly wound carries a chance of permanent damage. A character must make a **Body Test** (dermal armor counts) against a Target Number 4.\n\n* **0 Successes:** The character suffers a permanent loss of 1 point in a random attribute (Body, Strength, Quickness, Intelligence, Willpower, or Reaction). The lost point cannot be recovered, and the racial maximum for that attribute is reduced by 1.\n* **1 Success:** The character loses a limb or eye. The base healing time is increased by 50%. A replacement is required.\n* **2 or More Successes:** The character suffers no permanent limb or organ damage.\n\n---",
+    "category": "combat",
+    "subcategory": "injuries",
+    "tags": [
+      "deadly_wounds",
+      "permanent_damage",
+      "body_test",
+      "attributes",
+      "injury_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 170,
+    "concept": "Deadly Wounds and Permanent Damage",
+    "dependencies": []
+  },
+  {
+    "title": "Elective Surgery",
+    "content": "Surgery does damage and requires recovery time.\n* **Minor cosmetic surgery:** Light wound.\n* **Minor invasive surgery:** Moderate wound.\n* **Major invasive surgery:** Serious wound.\n* **Drastic invasive surgery:** Deadly wound (stable).\n\n---",
+    "category": "general",
+    "subcategory": "surgery",
+    "tags": [
+      "surgery",
+      "wounds",
+      "recovery_time",
+      "elective_surgery"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 171,
+    "concept": "Elective Surgery",
+    "dependencies": []
+  },
+  {
+    "title": "FIRST AID",
+    "content": "* First aid, using the **Biotech Skill**, can reduce non-Deadly wounds by one level or stabilize Deadly wounds.\n* It must be applied within the \"golden\" first hour and does not work after magical healing has been used.\n* A **Biotech Success Test** is made against a target number corresponding to the injured character's Damage Level. One success reduces the wound level by one.\n\n### FIRST AID TABLE\n\n| Condition Level | Target Number | Treatment Time |\n| :--- | :--- | :--- |\n| Light | 4 | 10 minutes |\n| Moderate | 6 | 20 minutes |\n| Serious | 8 | 30 minutes |\n| Deadly | 10 | Special |\n\n---",
+    "category": "combat",
+    "subcategory": "first_aid",
+    "tags": [
+      "first_aid",
+      "biotech_skill",
+      "wound_treatment",
+      "damage_levels",
+      "healing"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 172,
+    "concept": "FIRST AID",
+    "dependencies": []
+  },
+  {
+    "title": "MAGICIANS AND DAMAGE",
+    "content": "* Magicians are harder to treat due to the risk of losing their Magic Rating.\n* When a magician suffers a Deadly wound or is treated without a specific modifier, there is a risk of permanently losing 1 point of Magic (2D6 roll, if result is less than or equal to current Magic, 1 point is lost).\n* If a magician needs a replacement body part, it must be cloned from their own tissue to avoid a permanent loss of 1 Magic Rating point.\n* **Magical Healing:** The `treat` spell must be used within one hour of the injury, while the `heal` spell can be administered at any time.\n* Successful use of either spell precludes the use of additional healing or treating spells, or of first aid. \n* Treat and heal spells will reduce Physical overflow damage.",
+    "category": "magic",
+    "subcategory": "spellcasting",
+    "tags": [
+      "magicians",
+      "damage",
+      "magic_rating",
+      "healing",
+      "spells"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "core-combat-rules-ocr.txt",
+    "chunk_index": 173,
+    "concept": "MAGICIANS AND DAMAGE",
+    "dependencies": []
+  }
+]

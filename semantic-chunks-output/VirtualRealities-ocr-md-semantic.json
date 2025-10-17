@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Since Shadowrun first appeared in 1989, players and gamemasters have sent us megapulses of invaluable feedback on the game system. Much of that feedback included concerns about the complexity of Shadowrun's Matrix game mechanics and the sheer amount of playing time needed to create and map Matrix systems, build and upgrade cyberdecks, and conduct runs in the Matrix.",
+    "category": "matrix",
+    "subcategory": "matrix_mechanics",
+    "tags": [
+      "matrix",
+      "game_mechanics",
+      "feedback"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to feedback on Shadowrun's Matrix mechanics",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Virtual Realities 2.0 (VR 2.0), the new Matrix sourcebook for Shadowrun, Second Edition (SRII), takes a fresh look at cyberspace and addresses these concerns. VR 2.0 provides new, streamlined rules for mapping Matrix systems, building and upgrading decks, conducting cybercombat, IC, utility programs-everything involved in making a Matrix run.",
+    "category": "matrix",
+    "subcategory": "matrix_systems",
+    "tags": [
+      "virtual_realities",
+      "matrix",
+      "cybercombat",
+      "deck_building",
+      "rules"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 1,
+    "concept": "Overview of Virtual Realities 2.0 and its purpose",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "In addition, VR 2.0 provides entirely new software, programming tricks, and damage rules, and adds rules for creating and playing the mysterious otaku, the so-called 'feral deckers' of the Matrix.",
+    "category": "matrix",
+    "subcategory": "programming",
+    "tags": [
+      "vr_2.0",
+      "otaku",
+      "feral_deckers",
+      "software",
+      "damage_rules"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 2,
+    "concept": "Additional features and rules introduced in VR 2.0",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "The human mind cannot directly comprehend the flow of data in the Matrix. If users were restricted to old-tech tools-command lines, file names, programs in clumsy procedural languages-the system would be unmanageable.",
+    "category": "matrix",
+    "subcategory": "data_access",
+    "tags": [
+      "matrix",
+      "data_access",
+      "limitations",
+      "technology"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 3,
+    "concept": "Explanation of the limitations of traditional data access methods",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "For example, a user who wanted to read a computer file in 1995 would type in some wearisome command, find the file in a window, or access the desired information in some other, equally clumsy method. But after the Crash of 2029, ASIST technology opened up the possibilities of actual DNI (Direct Neural Interface) access to computers, and the Matrix was born.",
+    "category": "matrix",
+    "subcategory": "history",
+    "tags": [
+      "data_access",
+      "matrix",
+      "asist_technology",
+      "dni",
+      "crash_of_2029"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 4,
+    "concept": "Historical context of data access evolution leading to the Matrix",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Now, the user takes a microsecond-long trip through a computer-generated landscape in order to find a file. If the user is validated to see a file, he finds it right where he expects to find it. The interface routines he uses may look like clerical workers, or a huge library, or simply appear as dazzling patterns of energy.",
+    "category": "matrix",
+    "subcategory": "user_experience",
+    "tags": [
+      "matrix",
+      "user_experience",
+      "file_retrieval",
+      "interface"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 5,
+    "concept": "Description of the user experience in the Matrix",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "The user sees the file, touches it, and the data downloads into his cyberterminal. Users do not need to remember codes, command sets, or file names. If they want something, they go get it.",
+    "category": "matrix",
+    "subcategory": "user_interaction",
+    "tags": [
+      "matrix",
+      "user_interaction",
+      "data_download",
+      "cyberterminal",
+      "file_access"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 6,
+    "concept": "User interaction with data in the Matrix",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "If they want to program a process for the laboratory or an assembly line, they mentally perform the motions involved or build a model using virtual components, and the computer learns from them. Modern chemists, for example, build molecules according to formulae as if they were using children's building blocks.",
+    "category": "matrix",
+    "subcategory": "programming",
+    "tags": [
+      "programming",
+      "matrix",
+      "virtual_reality",
+      "mental_actions",
+      "process_design"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 7,
+    "concept": "Programming processes in the Matrix using mental actions",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Legitimate users have registered cyberterminals that identify themselves to the Matrix at every step. But the cyberdecks of deckers have no Matrix identifiers. Deckers remain anonymous, and when everything goes right they can dance through the secrets of the Matrix, laughing at security measures. Of course, when things go wrong, they can die in the Matrix as well.",
+    "category": "matrix",
+    "subcategory": "deckers",
+    "tags": [
+      "matrix",
+      "deckers",
+      "cyberterminals",
+      "anonymity",
+      "security"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 8,
+    "concept": "Distinction between legitimate users and deckers in the Matrix",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "These concepts remain unchanged from those presented in the basic Shadowrun rules. However, Virtual Realities 2.0 offers new game mechanics to simulate these concepts.",
+    "category": "matrix",
+    "subcategory": "virtual_reality",
+    "tags": [
+      "virtual_reality",
+      "game_mechanics",
+      "vr_2.0"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 9,
+    "concept": "Continuity of concepts from basic rules to VR 2.0",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "The most important new game mechanics are system operations and System Tests. A system operation is simply a list of the game information a decker needs to perform a task in the Matrix.",
+    "category": "matrix",
+    "subcategory": "system_operations",
+    "tags": [
+      "virtual_reality",
+      "decker",
+      "matrix_mechanics",
+      "system_tests"
+    ],
+    "content_type": "introduction",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 10,
+    "concept": "Introduction to new game mechanics in VR 2.0",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Each system operation lists the System Test(s) required to perform the chosen task, the name of any utility programs that augment the test, the type of action the decker has to expend to perform the task, and a description of what happens when he attempts to do so.",
+    "category": "matrix",
+    "subcategory": "system_operations",
+    "tags": [
+      "system_test",
+      "utility_programs",
+      "decker_actions",
+      "task_description"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 11,
+    "concept": "Details of what a system operation includes",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Several pre-designed system operations appear in the section titled System Operations, p. 108. A quick reference list of operations also appears in the Appendix, p. 162.",
+    "category": "matrix",
+    "subcategory": "system_operations",
+    "tags": [
+      "system_operations",
+      "pre-designed",
+      "quick_reference"
+    ],
+    "content_type": "table",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 12,
+    "concept": "Location of pre-designed system operations in the sourcebook",
+    "dependencies": []
+  },
+  {
+    "title": "Virtualrealities Ocr Md.Txt",
+    "content": "Under the revised Matrix 2.0 rules, a System Test consists of an opposed test between the decker and the system he is infiltrating (note that the term System Test is used differently than in the Matrix 1.0 rules).\n\nThe decker makes an appropriate Subsystem Test. The gamemaster makes a Security Test for the system against the deckers Detection Factor.\n\nThis section provides an overview of these and other new game mechanics.",
+    "category": "matrix",
+    "subcategory": "system_test",
+    "tags": [
+      "matrix_2.0",
+      "system_test",
+      "decker",
+      "game_mechanics"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "VirtualRealities-ocr-md.txt",
+    "chunk_index": 13,
+    "concept": "Definition of System Test in Matrix 2.0 rules",
+    "dependencies": [
+      "Definition of System Test in Matrix 2.0 rules"
+    ]
+  }
+]

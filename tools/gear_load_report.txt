@@ -1,0 +1,29 @@
+============================================================
+GEAR LOADING REPORT
+============================================================
+
+✓ Inserted:  561 new items
+↻ Updated:   0 items (better data quality)
+⊕ Merged:    0 items (combined stats)
+⊘ Skipped:   0 duplicates
+
+Potential Duplicates Requiring Review:
+------------------------------------------------------------
+  'Eye Cyber replac.' ≈ 'Ear Cyber replac.' (86%)
+  'Eye Cosmetic mod.' ≈ 'Ear Cosmetic mod.' (86%)
+  'Dermal Plating 2' ≈ 'Dermal Plating 1' (93%)
+  'Dermal Plating 3' ≈ 'Dermal Plating 1' (93%)
+  'Dermal Plating 3' ≈ 'Dermal Plating 2' (93%)
+  'Filter: Air 2' ≈ 'Filter: Air 1' (90%)
+  'Filter: Air 3' ≈ 'Filter: Air 1' (90%)
+  'Filter: Air 3' ≈ 'Filter: Air 2' (90%)
+  'Filter: Air 4' ≈ 'Filter: Air 1' (90%)
+  'Filter: Air 4' ≈ 'Filter: Air 2' (90%)
+  ... and 871 more
+
+Errors:
+------------------------------------------------------------
+  ✗ Orientation System: Object of type datetime is not JSON serializable
+  ✗ Biomonitor: Object of type datetime is not JSON serializable
+
+============================================================

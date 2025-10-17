@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "Edges and Flaws help players create more fully realized starting characters and give the gamemaster a few good hooks with which to bring new characters into his campaign. Edges and Flaws enable players to modify and flesh out their characters by providing them with specific advantages (Edges) and disadvantages (Flaws). Unlike the character-creation variations described earlier in this section, Edges and Flaws do not represent an 'across-the-board' system of altering player characters; each individual player selects specific Edges and Flaws for his or her character, or may decline to use this option at all. This allows Edges and Flaws to be used with any of the variant character-creation systems or with the standard system provided in the *Shadowrun* rulebook.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "character_development",
+      "game_master",
+      "player_choices"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 0,
+    "concept": "Introduction to Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "As with any optional rule, gamemasters have the final say over which Edges and Flaws may be used in their campaigns, and may prohibit the use of this option altogether.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "gamemaster",
+      "edges",
+      "flaws",
+      "optional_rules",
+      "campaign"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 1,
+    "concept": "Gamemaster authority over Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "Players purchase Edges and Flaws during character creation. (If desired, gamemasters may allow their players to add Edges and Flaws to their characters at any time during game play. Because many Edges and Flaws actually represent things that might happen to characters over the course of their lives, however, we recommend that gamemasters require such advantages and disadvantages to be incorporated into existing characters through roleplaying.)",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "character_creation",
+      "roleplaying",
+      "gamemaster"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 2,
+    "concept": "Purchasing Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "Every Edge and Flaw has a point value-Edges have positive ('plus') values and Flaws have negative ('minus') values. When using the standard letter-based priority system, players may select any combinations of Edges and Flaws whose combined point values equal zero. For example, a player might select Ambidexterity (2 points), Color Blind (-1 point), and Combat Monster (-1 point) for his character. Players can purchase Edges and Flaws in the same manner using the point-based character-creation system, or gamemasters may allow their players to use Building Points when selecting Edges and Flaws. In this case, a player can spend Building Points to buy Edges or increase the number of Building Points he has available by the point value of any Flaws he takes. For example, a player who takes the Flaw of Blind (-6 points) can add 6 Building Points to his allowance.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "character_creation",
+      "point_values",
+      "building_points"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 3,
+    "concept": "Point values and combinations for Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "In the following Edge and Flaw descriptions, a positive value indicates an Edge and a negative value indicates a Flaw. The point values of all Edges and Flaws described in this section also appear in the Edges/Flaws Table on page 35.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "point_values",
+      "character_development"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 4,
+    "concept": "Understanding point values of Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "In all cases, bonuses from Edges cannot raise Attribute, skill or Spell Force ratings beyond the standard rating limits and maximums for new characters except with the gamemaster's approval. In cases where Edges and Flaws modify test target numbers, target numbers can never be reduced below 2. Unless otherwise noted, Edges and Flaws cannot be combined. For example, a player cannot gain the advantages at character creation that would be allowed by taking both the Pacifist and Total Pacifist Flaws for his or her character.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "edges",
+      "flaws",
+      "character_creation",
+      "game_master",
+      "limitations"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 5,
+    "concept": "Limitations on Edges and Flaws",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Edges Md.Txt",
+    "content": "The High School Education Edge implies that unless a character has this Edge, he or she may be considered to have only an eighth-grade level of academic achievement. Depending on the type of campaign the gamemaster runs and the desired backgrounds of his players' characters, an assumed lack of formal education might not fit the group's gaming style. The gamemaster can handle this several ways, the easiest of which is simply to not allow education-based Edges and Flaws to be used in the game (Illiterate, Uneducated, High School Education, Technical School Education, College Education). A lack of formal education does not mean that a character is stupid or illiterate, only that he or she does not hold a graduation certificate or other degree. A character may be self-taught: he may have completed all the necessary coursework for a certificate or degree but still owe the educational institution money.",
+    "category": "character_creation",
+    "subcategory": "edges_and_flaws",
+    "tags": [
+      "education_edges",
+      "character_background",
+      "gamemaster_guidance"
+    ],
+    "content_type": "rule_mechanic",
+    "source_file": "Shadowrun Companion-edges-md.txt",
+    "chunk_index": 6,
+    "concept": "Implications of education-related Edges and Flaws",
+    "dependencies": []
+  }
+]

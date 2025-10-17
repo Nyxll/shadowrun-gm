@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "Just about everyone on this board thinks he or she knows everything there is to know about shadowrunning. You take a job from Mr. Johnson, do your homework, go on the run and get paid when you're finished (assuming you live). You blow your hard-earned nuyen on some nifty toys that extend your lifespan while shortening your opposition's, and as you're buying them through your fixer, you let her know you're available again. She puts out feelers and sets up a meet when she finds something promising. Repeat cycle until further notice.",
+    "category": "general",
+    "subcategory": "shadowrunning_cycle",
+    "tags": [
+      "shadowrunning",
+      "jobs",
+      "mr_johnson",
+      "fixers",
+      "nuyen"
+    ],
+    "content_type": "introduction",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 0,
+    "concept": "Overview of the shadowrunning cycle",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "It's true that shadowrunning tends to follow this pattern. So it's important to recognize the biggest link in this circular chain-the Johnson. Without those shady characters to give runners an income and something to do at 02:38 on a Wednesday night, the cycle stops. Joe Runner, desperate and credless, knocks over a Stuffer Shack for groceries and 'rent' money to pay the local gangers. At 02:40 Joe Runner gets capped by the overly nervous clerk with the Mossberg behind the counter, or by a random customer with Shiawase's May 2055 batch of wired flexes who never paid attention to the recall, Joe-boy ends up cremated and dumped into a nearby lake, to become an integral part of the hard rain that eats away layers of paint on our cars and homes.",
+    "category": "lore",
+    "subcategory": "mr_johnson",
+    "tags": [
+      "shadowrunning",
+      "mr_johnson",
+      "narrative",
+      "runner_life"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 1,
+    "concept": "Importance of Mr. Johnson in shadowrunning",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "Okay, maybe I'm going a bit overboard-but clearly, without Mr. Johnsons there is no shadowrunning biz. Like it or not, we depend on these people for our livelihoods. So, as the latest in a long line of public services (for which I rarely get the thanks I deserve), I offer this post-snagged by my ever-helpful friend J.J.-as an example of the kind of drek to expect from the average Johnson.",
+    "category": "general",
+    "subcategory": "mr_johnson",
+    "tags": [
+      "shadowrunning",
+      "mr_johnson",
+      "dependency",
+      "business",
+      "lore"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 2,
+    "concept": "Dependency on Mr. Johnson for shadowrunning",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "This E-pamphlet crawled out of the brain of William Ager, veep hopeful to Kenneth Brackhaven (may they both burn in Hell). Before his fifteen seconds of fame, Mr. Ager worked for Fuchi America's New York office as Head Resources Adjuster (read: 'professional Johnson'). My personal experience has given me every reason to see this inspiring piece of work as typical of Johnsons in general, even though the details may differ from Johnson to Johnson or corp to corp-so everybody read to the end of the paragraph, 'kay? Stuff like this could save your hoop, or at least get you an extra five percent in advance. And if you ever deal with Mr. Ager, you'll know exactly what to expect.",
+    "category": "lore",
+    "subcategory": "johnsons",
+    "tags": [
+      "johnson",
+      "background",
+      "corporate",
+      "shadowrun",
+      "expectations"
+    ],
+    "content_type": "example",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 3,
+    "concept": "Example of a typical Johnson's background and expectations",
+    "dependencies": [
+      "Importance of Mr. Johnson in shadowrunning"
+    ]
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "* Captain Chaos Transmitted: 18 September 2057 at 20:33:13 (EST) * Headzup, folks- I'm only going to post this once. Within three hours of putting this thing online, it had garnered nearly 800 comments. The file expanded to 14,000% of its original size because so many people had so much to add. That made for a fragging BIG post, and we just can't spare the room right now. So I did some judicious editing. All the comments that appeared within the first thirty minutes of posting I've left untouched, as word hadn't spread to every fragging bithead in the world until after an hour or so went by. The rest, I moved to a new SIG under Ager E-Pamphlet: Open Forum. If you want to say anything, say it there. But don't try to edit this file, unless you're dying to experience some bleeding-edge IC that our SS friends like to call 'Cascade Ork.' You've been warned.",
+    "category": "general",
+    "subcategory": "community_announcement",
+    "tags": [
+      "shadowrun",
+      "forum",
+      "comments",
+      "editing",
+      "announcement"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 4,
+    "concept": "Announcement regarding the posting and editing of comments",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "* Captain Chaos Transmitted: 19 September 2057 at 02:50:21 (EST) FUCHI INDUSTRIAL ELECTRONICS E-MAIL SYSTEM v6.011 FUCHI AMERICA BRANCH ... 'We Love America!' TO: << NULL FIELD>> FROM: William T. Ager OF: << NULL FIELD>> OF: Resource Adjustment Division SUBJECT: Resources Adjustment Division information DATE: << NULL FIELD>> THOUGHT FOR THE DAY: 'Gyo kan o yomu'-Read between the lines",
+    "category": "general",
+    "subcategory": "communication",
+    "tags": [
+      "email",
+      "corporate",
+      "lore",
+      "flavor_text"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 5,
+    "concept": "Email header from William T. Ager",
+    "dependencies": []
+  },
+  {
+    "title": "Shadowrun Companion Shadowrunning Md.Txt",
+    "content": "Congratulations on your recent achievements for Fuchi America! Because you have exhibited exceptional loyalty to Fuchi America and Fuchi Industrial Electronics, >>RETRIEVE_subject-advance-type: << (PROMOTION | SEC_LEVEL_RAISE | REFERRAL)? REFERRAL>> you are now qualified to use the Resources Adjustment Department, c...",
+    "category": "general",
+    "subcategory": "corporate",
+    "tags": [
+      "fuchi_america",
+      "achievements",
+      "loyalty",
+      "resources_adjustment",
+      "promotion"
+    ],
+    "content_type": "flavor_text",
+    "source_file": "Shadowrun Companion-shadowrunning-md.txt",
+    "chunk_index": 6,
+    "concept": "Email content regarding achievements and qualifications",
+    "dependencies": []
+  }
+]

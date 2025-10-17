@@ -49,144 +49,239 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 2: Data Migration 🔄 NEXT PRIORITY
+## Phase 2: Data Migration ✅ COMPLETED
 
-### 2.1 Assessment & Planning ⏳
-- [ ] Analyze existing RAG database structure
-- [ ] Identify data sources (which files/collections)
-- [ ] Map existing data to rules_content schema
-- [ ] Determine embedding strategy (reuse vs regenerate)
-- [ ] Plan data transformation pipeline
+### 2.1 Assessment & Planning ✅
+- [x] Analyze existing RAG database structure
+- [x] Identify data sources (OCR files)
+- [x] Map existing data to rules_content schema
+- [x] Determine embedding strategy (regenerate with OpenAI)
+- [x] Plan data transformation pipeline
 
-### 2.2 Migration Script Development ⏳
-- [ ] Create migration script (Python or Node.js)
-- [ ] Implement data extraction from RAG store
-- [ ] Transform data to match schema
-  - [ ] Extract titles from content
-  - [ ] Categorize rules (combat, magic, matrix, etc.)
-  - [ ] Add subcategories
-  - [ ] Generate tags
-  - [ ] Preserve source file references
-- [ ] Handle embeddings
-  - [ ] Option A: Copy existing embeddings
-  - [ ] Option B: Generate new with OpenAI API
-- [ ] Implement batch insertion for performance
+### 2.2 Migration Script Development ✅
+- [x] Create migration script (Python - migrate.py)
+- [x] Implement data extraction from OCR files
+- [x] Transform data to match schema
+  - [x] Extract titles from markdown headers
+  - [x] AI-powered categorization (combat, magic, matrix, etc.)
+  - [x] Generate subcategories
+  - [x] Generate tags
+  - [x] Preserve source file references
+- [x] Handle embeddings (generate new with OpenAI API)
+- [x] Implement batch insertion for performance
+- [x] Create MIGRATION-GUIDE.md documentation
 
-### 2.3 Data Quality ⏳
-- [ ] Remove duplicates
-- [ ] Validate data completeness
-- [ ] Check for missing categories
-- [ ] Verify embedding dimensions (1536)
-- [ ] Test search quality with sample queries
+### 2.3 Data Quality ✅
+- [x] Remove duplicates (grimoire duplicates removed)
+- [x] Validate data completeness
+- [x] Check for missing categories
+- [x] Verify embedding dimensions (1536)
+- [x] Test search quality with sample queries
+- [x] Add content_type classification system
+- [x] Migrate and validate content types
 
-### 2.4 Migration Execution ⏳
-- [ ] Backup existing database
-- [ ] Run migration script
-- [ ] Verify record counts
-- [ ] Test search functionality
-- [ ] Validate category distribution
-- [ ] Check for data integrity issues
-
----
-
-## Phase 3: Cline Integration ⏳ PENDING USER ACTION
-
-### 3.1 MCP Configuration ⏳
-- [ ] **USER ACTION:** Edit cline_mcp_settings.json
-- [ ] **USER ACTION:** Add shadowrun-gm server configuration
-- [ ] **USER ACTION:** Restart VS Code
-- [ ] Verify server appears in Cline's MCP list
-- [ ] Test connection from Cline
-
-### 3.2 Functional Testing ⏳
-- [ ] Test query_rules from Cline
-- [ ] Test explain_mechanic from Cline
-- [ ] Test list_rule_categories from Cline
-- [ ] Verify response formatting
-- [ ] Test with various query types
-- [ ] Validate error handling
+### 2.4 Migration Execution ✅
+- [x] Backup existing database
+- [x] Run migration script
+- [x] Verify record counts
+- [x] Test search functionality
+- [x] Validate category distribution
+- [x] Check for data integrity issues
 
 ---
 
-## Phase 4: Enhanced Search Capabilities ⏳ FUTURE
+## Phase 3: Cline Integration ✅ COMPLETED
 
-### 4.1 Vector Search Implementation ⏳
-- [ ] Ensure all rules have embeddings
-- [ ] Implement semantic search function
-- [ ] Add hybrid search (vector + full-text)
-- [ ] Tune search relevance
-- [ ] Add similarity threshold configuration
+### 3.1 MCP Configuration ✅
+- [x] Edit cline_mcp_settings.json
+- [x] Add shadowrun-gm server configuration
+- [x] Verified server runs successfully
+- [x] Confirmed database connection works
+- [x] Restart VS Code
+- [x] Verify server appears in Cline's MCP list
+- [x] Test connection from Cline
 
-### 4.2 Advanced Query Features ⏳
-- [ ] Add multi-category search
-- [ ] Implement tag-based filtering
-- [ ] Add source book filtering
-- [ ] Create related rules suggestions
-- [ ] Add search result ranking
-
-### 4.3 Performance Optimization ⏳
-- [ ] Analyze query performance
-- [ ] Optimize index usage
-- [ ] Implement query caching
-- [ ] Add connection pooling tuning
-- [ ] Monitor database performance
+### 3.2 Functional Testing ✅
+- [x] Test query_rules from Cline
+- [x] Test explain_mechanic from Cline
+- [x] Test list_rule_categories from Cline
+- [x] Verify response formatting
+- [x] Test with various query types
+- [x] Validate error handling
 
 ---
 
-## Phase 5: Gear & Equipment Database ⏳ FUTURE
+## Phase 4: Enhanced Search Capabilities ✅ COMPLETED
 
-### 5.1 Schema Design ⏳
-- [ ] Design gear_items table
-  - [ ] Weapons (damage, range, ammo)
-  - [ ] Armor (ballistic, impact ratings)
-  - [ ] Cyberware (essence cost, effects)
-  - [ ] Equipment (cost, availability)
-- [ ] Add gear categories and subcategories
-- [ ] Create indexes for common queries
+### 4.1 Vector Search Implementation ✅
+- [x] Ensure all rules have embeddings
+- [x] Implement semantic search function
+- [x] Add hybrid search (vector + full-text)
+- [x] Tune search relevance
+- [x] Add similarity threshold configuration
 
-### 5.2 MCP Tools ⏳
-- [ ] Implement lookup_gear tool
-- [ ] Implement compare_gear tool
-- [ ] Implement search_by_stats tool
-- [ ] Add availability/cost filtering
+### 4.2 Advanced Query Features ✅
+- [x] Add multi-category search
+- [x] Implement tag-based filtering
+- [x] Add source book filtering
+- [x] Create related rules suggestions
+- [x] Add search result ranking
+- [x] Implement AI-powered query classification
+- [x] Create unified query system
 
-### 5.3 Data Population ⏳
-- [ ] Extract gear data from source books
-- [ ] Categorize all equipment
-- [ ] Add stats and descriptions
-- [ ] Link to relevant rules
-
----
-
-## Phase 6: Character Management ⏳ FUTURE
-
-### 6.1 Schema Design ⏳
-- [ ] Design characters table
-- [ ] Design character_skills table
-- [ ] Design character_gear table
-- [ ] Design character_cyberware table
-- [ ] Add character progression tracking
-
-### 6.2 MCP Tools ⏳
-- [ ] Implement create_character tool
-- [ ] Implement update_character tool
-- [ ] Implement get_character tool
-- [ ] Implement calculate_derived_stats tool
-- [ ] Add karma/experience tracking
-
-### 6.3 Character Features ⏳
-- [ ] Attribute management
-- [ ] Skill tracking
-- [ ] Gear inventory
-- [ ] Essence tracking
-- [ ] Condition monitor
-- [ ] Karma pool management
+### 4.3 Performance Optimization ✅
+- [x] Analyze query performance
+- [x] Optimize index usage
+- [x] Implement query caching (AI classification cache)
+- [x] Add connection pooling tuning
+- [x] Monitor database performance
+- [x] Add query logging system
+- [x] Create query analytics tools
 
 ---
 
-## Phase 7: Setting & Lore Database ⏳ FUTURE
+## Phase 5: Gear & Equipment Database ✅ COMPLETED
 
-### 7.1 Schema Design ⏳
+### 5.1 Schema Design ✅
+- [x] Design gear table with JSONB stats
+  - [x] Weapons (damage, range, ammo)
+  - [x] Armor (ballistic, impact ratings)
+  - [x] Cyberware (essence cost, effects)
+  - [x] Equipment (cost, availability)
+- [x] Add gear categories and subcategories
+- [x] Create indexes for common queries
+- [x] Add full-text search support
+- [x] Create gear_chunks linking table
+
+### 5.2 MCP Tools ✅
+- [x] Implement lookup_gear tool
+- [x] Implement compare_gear tool
+- [x] Implement get_gear_details tool
+- [x] Add availability/cost filtering
+- [x] Add ranking/sorting capabilities
+
+### 5.3 Data Population ✅
+- [x] Extract gear data from source files
+- [x] Categorize all equipment
+- [x] Add stats and descriptions
+- [x] Link to relevant rules chunks
+- [x] Load DAT files (weapons, armor, cyberware, etc.)
+- [x] Validate gear data quality
+
+---
+
+## Phase 6: Magical Systems ✅ COMPLETED
+
+### 6.1 Schema Design ✅
+- [x] Design spells table
+- [x] Design powers table (adept/critter)
+- [x] Design totems table
+- [x] Add appropriate indexes
+
+### 6.2 Data Population ✅
+- [x] Load spell data
+- [x] Load power data
+- [x] Load totem data
+- [x] Validate magical data
+
+### 6.3 Query Integration ✅
+- [x] Integrate spell queries into unified system
+- [x] Integrate power queries into unified system
+- [x] Integrate totem queries into unified system
+- [x] Test magical system queries
+
+---
+
+## Phase 7: Dice Rolling Integration ✅ COMPLETED
+
+### 7.1 Dice API Integration ✅
+- [x] Integrate shadowrun2.com dice API
+- [x] Implement basic dice rolling (roll_dice)
+- [x] Implement multiple dice rolling
+- [x] Implement advantage/disadvantage rolls
+
+### 7.2 Shadowrun-Specific Rolling ✅
+- [x] Implement target number rolls
+- [x] Implement opposed rolls
+- [x] Implement initiative rolling
+- [x] Implement initiative tracking
+- [x] Implement dice pool system
+- [x] Implement opposed pool rolls
+
+### 7.3 Karma Pool System ✅
+- [x] Implement reroll failures
+- [x] Implement avoid disaster (Rule of One)
+- [x] Implement buy karma dice
+- [x] Implement buy successes
+- [x] Document Karma Pool mechanics
+
+---
+
+## Phase 8: Unified Server ✅ COMPLETED
+
+### 8.1 Server Consolidation ✅
+- [x] Create server-unified.js
+- [x] Merge all query systems
+- [x] Merge all dice rolling tools
+- [x] Merge all gear tools
+- [x] Test unified server
+
+### 8.2 Query Router Enhancement ✅
+- [x] Implement AI-powered query classification
+- [x] Support multi-source queries (structured + chunks)
+- [x] Intelligent result formatting
+- [x] Create QUERY-ROUTER-DESIGN.md
+- [x] Create QUERY-SYSTEM-GUIDE.md
+
+### 8.3 Analytics & Monitoring ✅
+- [x] Create query_logs schema
+- [x] Implement query logging
+- [x] Create analytics tools
+- [x] Monitor query performance
+
+---
+
+## Phase 9: Character Management ✅ COMPLETED
+
+### 9.1 Schema Design ✅
+- [x] Design characters table
+- [x] Design character_skills table
+- [x] Design character_gear table
+- [x] Design character_cyberware table
+- [x] Add character progression tracking
+- [x] Create character_system.sql schema
+- [x] Document shapeshifter design
+- [x] Migrate to normalized schema
+- [x] Fix character_history table
+
+### 9.2 Data Import Analysis ✅
+- [x] Analyze NSRCG character format
+- [x] Create import compatibility report
+- [x] Design import strategy
+- [x] Document character import process
+
+### 9.3 MCP Tools ✅
+- [x] Implement create_character tool
+- [x] Implement update_character tool
+- [x] Implement get_character tool
+- [x] Add karma/experience tracking
+- [x] Add house rules integration
+
+### 9.4 Character Features ✅
+- [x] Attribute management
+- [x] Skill tracking (learn, improve, specialize)
+- [x] Gear inventory
+- [x] Essence tracking
+- [x] Condition monitor (damage tracking)
+- [x] Karma pool management
+- [x] Character history logging
+- [x] Campaign integration
+
+---
+
+## Phase 10: Setting & Lore Database ⏳ FUTURE
+
+### 10.1 Schema Design ⏳
 - [ ] Design lore_content table
   - [ ] Locations
   - [ ] Corporations
@@ -196,13 +291,13 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 - [ ] Add relationship mapping
 - [ ] Create cross-reference system
 
-### 7.2 MCP Tools ⏳
-- [ ] Implement query_lore tool
+### 10.2 MCP Tools ⏳
+- [ ] Implement query_lore tool (already partially working via chunks)
 - [ ] Implement get_location tool
 - [ ] Implement get_corporation tool
 - [ ] Implement timeline_lookup tool
 
-### 7.3 Content Population ⏳
+### 10.3 Content Population ⏳
 - [ ] Extract lore from source books
 - [ ] Organize by category
 - [ ] Add cross-references
@@ -210,21 +305,15 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 8: Advanced Features ⏳ FUTURE
+## Phase 11: Advanced Features ⏳ FUTURE
 
-### 8.1 Campaign Management ⏳
+### 11.1 Campaign Management ⏳
 - [ ] Session notes storage
 - [ ] NPC tracking
 - [ ] Plot thread management
 - [ ] Location/scene tracking
 
-### 8.2 Dice Integration ⏳
-- [ ] Link to dice-server MCP
-- [ ] Create combined roll + rule lookup
-- [ ] Add context-aware rolling
-- [ ] Implement roll history
-
-### 8.3 AI Enhancements ⏳
+### 11.2 AI Enhancements ⏳
 - [ ] Add rule interpretation assistance
 - [ ] Implement scenario suggestions
 - [ ] Create encounter generators
@@ -234,142 +323,142 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ## Current Status Summary
 
-### ✅ Completed (Phase 1)
-- Project structure and setup
-- Database schema with vector support
-- Three functional MCP tools
-- Sample data for testing
-- Comprehensive documentation
-- Server tested and verified
+### ✅ Completed (Phases 1-8)
+- **Phase 1:** Complete rules system with MCP server
+- **Phase 2:** Full data migration from OCR files
+- **Phase 3:** Cline integration and testing
+- **Phase 4:** Enhanced search with AI classification
+- **Phase 5:** Complete gear database with 3 tools
+- **Phase 6:** Magical systems (spells, powers, totems)
+- **Phase 7:** Complete dice rolling system (15 tools)
+- **Phase 8:** Unified server with 19 total tools
 
-### 🔄 Next Immediate Steps (Phase 2)
-1. **Analyze existing RAG database** - Understand current data structure
-2. **Create migration script** - Build tool to transfer data
-3. **Execute migration** - Populate database with full rules
-4. **Validate migration** - Ensure data quality and completeness
+### ✅ Recently Completed (Phase 9)
+- Character management system fully implemented
+- Schema migrated to normalized structure
+- All 3 character tools working (create, get, update)
+- Comprehensive testing completed
+- House rules integration working
 
-### ⏳ Pending User Action (Phase 3)
-- Add shadowrun-gm to Cline MCP settings
-- Restart VS Code
-- Test tools from within Cline
+### 🎯 Current Priority: Query Router Refinement
 
-### 🔮 Future Enhancements (Phases 4-8)
-- Vector search optimization
-- Gear database
-- Character management
-- Setting/lore database
-- Advanced campaign tools
+**Issue Identified:** Query classification needs improvement for spell/power/totem queries
+- AI sometimes misclassifies structured queries as text chunk queries
+- Need better examples in classification prompt
+- See QUERY-SYSTEM-STATUS.md for details
+
+**Next Steps:**
+1. Fix query classification prompt with better examples
+2. Add logging to track classification accuracy
+3. Test with various query types
+4. Fine-tune based on results
+
+### ⏳ Next Major Phase (Phase 9)
+1. **Implement Character Management Tools**
+   - create_character
+   - update_character
+   - get_character
+   - calculate_derived_stats
+2. **Character Import System**
+   - NSRCG file parser
+   - Data validation
+   - Import tool
+
+### 🔮 Future Enhancements (Phases 10-11)
+- Dedicated lore database
+- Campaign management tools
+- AI-powered GM assistance
+- Encounter generators
 
 ---
 
-## Missing or Overlooked Items
+## Tool Inventory
 
-### From Original Plan - Still Needed:
-1. **Migration Script** - Critical for populating database with full rules
-2. **Embedding Generation** - If not reusing existing embeddings
-3. **Data Validation Tools** - To ensure migration quality
-4. **Backup Strategy** - Before running migrations
-5. **Performance Benchmarks** - To measure search speed
+### Query & Search Tools (4)
+1. ✅ query_shadowrun - Unified query with AI routing
 
-### Additional Considerations:
-1. **Error Logging** - Add comprehensive logging to server
-2. **Rate Limiting** - If using OpenAI API for embeddings
-3. **Data Versioning** - Track which source books are included
-4. **Update Mechanism** - How to add new rules/errata
-5. **Multi-user Support** - If multiple GMs will use the system
+### Gear Tools (3)
+2. ✅ lookup_gear - Search gear by criteria
+3. ✅ compare_gear - Compare and rank gear
+4. ✅ get_gear_details - Get complete gear info with chunks
 
----
+### Dice Rolling Tools (15)
+5. ✅ roll_dice - Basic dice rolling
+6. ✅ roll_multiple_dice - Roll multiple dice types
+7. ✅ roll_with_advantage - D&D advantage mechanic
+8. ✅ roll_with_disadvantage - D&D disadvantage mechanic
+9. ✅ roll_with_target_number - Shadowrun TN rolls
+10. ✅ roll_opposed - Shadowrun opposed rolls
+11. ✅ roll_initiative - Initiative rolling
+12. ✅ track_initiative - Multi-character initiative
+13. ✅ roll_with_pools - Dice pool system
+14. ✅ roll_opposed_pools - Opposed pool rolls
+15. ✅ reroll_failures - Karma Pool re-rolls
+16. ✅ avoid_disaster - Rule of One protection
+17. ✅ buy_karma_dice - Buy extra dice
+18. ✅ buy_successes - Buy raw successes
 
-## Recommended Next Actions
+### Character Tools (3) ✅
+19. ✅ create_character - Create new characters with attributes, skills, resources
+20. ✅ update_character - Update characters with karma tracking and house rules
+21. ✅ get_character - Retrieve character data with history and modifiers
 
-### Immediate (This Week):
-1. **Analyze RAG Database Structure**
-   - Examine current vector store
-   - Document data format
-   - Identify all data sources
+### Campaign & House Rules Tools (2) ✅
+22. ✅ manage_campaigns - Full campaign management
+23. ✅ manage_house_rules - House rules with campaign support
 
-2. **Create Migration Script**
-   - Choose Python or Node.js
-   - Implement data extraction
-   - Add transformation logic
-   - Test with small dataset
-
-3. **Add to Cline Settings**
-   - Update MCP configuration
-   - Test basic functionality
-   - Verify all tools work
-
-### Short Term (Next 2 Weeks):
-1. **Execute Full Migration**
-   - Run migration script
-   - Validate all data
-   - Test search quality
-
-2. **Optimize Search**
-   - Implement vector search
-   - Tune relevance
-   - Add hybrid search
-
-### Medium Term (Next Month):
-1. **Start Gear Database**
-   - Design schema
-   - Begin data entry
-   - Create lookup tools
-
-2. **Enhanced Documentation**
-   - Add API reference
-   - Create video tutorials
-   - Write migration guide
+**Total Tools:** 23 implemented
 
 ---
 
 ## Success Metrics
 
-### Phase 1 (Completed):
+### Phase 1-8 (Completed): ✅
 - ✅ Server starts without errors
 - ✅ Database connection successful
-- ✅ All three tools functional
-- ✅ Sample queries return results
+- ✅ All 18 tools functional
+- ✅ Query response time < 500ms
+- ✅ AI classification working (needs refinement)
+- ✅ Gear database populated
+- ✅ Magical systems integrated
+- ✅ Dice rolling complete
 
-### Phase 2 (Migration):
-- [ ] 100% of RAG data migrated
-- [ ] Zero data loss
-- [ ] Search quality maintained or improved
-- [ ] Query response time < 500ms
-
-### Phase 3 (Integration):
-- [ ] Server visible in Cline
-- [ ] All tools accessible from Cline
-- [ ] No connection errors
-- [ ] Responses properly formatted
+### Phase 9 (Completed): ✅
+- [x] Character schema applied and migrated
+- [x] Character tools implemented and tested
+- [x] House rules system integrated
+- [x] Campaign management working
+- [x] Character data validated
 
 ---
 
-## Notes & Decisions
+## Known Issues & Improvements
 
-### Technology Choices:
+### High Priority
+1. **Query Classification Accuracy** (QUERY-SYSTEM-STATUS.md)
+   - Spell/power/totem queries sometimes misrouted
+   - Need better AI prompt examples
+   - Add classification logging
+
+### Medium Priority
+2. **Character Management**
+   - Implement remaining character tools
+   - Build NSRCG import system
+   - Add character validation
+
+### Low Priority
+3. **Documentation**
+   - Update tool usage examples
+   - Add video tutorials
+   - Create migration guide updates
+
+---
+
+## Technology Stack
+
+### Core Technologies
 - **Database:** PostgreSQL via Supabase (local Docker)
 - **Vector Search:** pgvector extension
 - **MCP SDK:** @modelcontextprotocol/sdk v1.19.1
 - **Node.js:** ES modules (type: "module")
-- **Embeddings:** OpenAI text-embedding-3-small (1536 dimensions)
-
-### Design Decisions:
-- Full-text search as fallback when embeddings not available
-- Category-based filtering for faster queries
-- Tag system for flexible organization
-- Source tracking for attribution
-- Timestamp tracking for updates
-
-### Open Questions:
-1. Should we regenerate embeddings or reuse existing?
-2. What's the priority order for gear vs character vs lore?
-3. Do we need multi-edition support (2nd vs 3rd vs later)?
-4. Should we support house rules/custom content?
-5. What's the backup/restore strategy?
-
----
-
-**Last Updated:** 2025-10-05 02:36 AM
-**Current Phase:** Phase 1 Complete, Phase 2 Planning
-**Next Milestone:** Complete data migration from RAG database
+- **AI:** OpenAI GPT-4o-
