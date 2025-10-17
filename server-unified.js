@@ -18,6 +18,7 @@ import dotenv from 'dotenv';
 import OpenAI from 'openai';
 import axios from 'axios';
 import { createCharacter, getCharacter, updateCharacter } from './character-functions.js';
+import { IntentClassifier } from './lib/intent/intent-classifier.js';
 
 dotenv.config();
 
@@ -89,6 +90,9 @@ const pool = new Pool({
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
+
+// Initialize intent classifier with LLM fallback
+const intentClassifier = new IntentClassifier(classifyQueryEnhanced);
 
 // Create MCP server
 const server = new Server(
@@ -1743,9 +1747,9 @@ async function queryShadowrun(query, limit, rankingCriteria) {
   let errorMessage = null;
   
   try {
-    // Step 1: Enhanced classification
-    classification = await classifyQueryEnhanced(query);
-    console.error('Enhanced classification:', JSON.stringify(classification, null, 2));
+    // Step 1: Multi-stage intent classification (pattern → keyword → LLM)
+    classification = await intentClassifier.classify(query);
+    console.error('Intent classification:', JSON.stringify(classification, null, 2));
     
     // Step 2: Determine result limit
     const resultLimit = limit || 10;
