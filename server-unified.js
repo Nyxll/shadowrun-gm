@@ -19,6 +19,8 @@ import OpenAI from 'openai';
 import axios from 'axios';
 import { createCharacter, getCharacter, updateCharacter } from './character-functions.js';
 import { IntentClassifier } from './lib/intent/intent-classifier.js';
+import { ClarificationEngine } from './lib/intent/clarification-engine.js';
+import { LearningEngine } from './lib/intent/learning-engine.js';
 
 dotenv.config();
 
@@ -91,8 +93,15 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-// Initialize intent classifier with LLM fallback
-const intentClassifier = new IntentClassifier(classifyQueryEnhanced);
+// Initialize clarification and learning engines
+const clarificationEngine = new ClarificationEngine(pool);
+const learningEngine = new LearningEngine(pool);
+
+// Initialize intent classifier with LLM fallback and clarification/learning support
+const intentClassifier = new IntentClassifier(classifyQueryEnhanced, {
+  clarificationEngine,
+  learningEngine
+});
 
 // Create MCP server
 const server = new Server(

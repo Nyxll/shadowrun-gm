@@ -201,7 +201,8 @@ CREATE OR REPLACE FUNCTION update_pattern_success_rate()
 RETURNS TRIGGER AS $$
 BEGIN
   IF (NEW.success_count + NEW.failure_count) > 0 THEN
-    NEW.success_rate := ROUND((NEW.success_count::DECIMAL / (NEW.success_count + NEW.failure_count)) * 100, 2);
+    -- Store as decimal 0.00-1.00 (not percentage)
+    NEW.success_rate := ROUND(NEW.success_count::DECIMAL / (NEW.success_count + NEW.failure_count), 4);
   ELSE
     NEW.success_rate := NULL;
   END IF;
