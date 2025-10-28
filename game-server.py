@@ -39,7 +39,14 @@ LOG_DIR.mkdir(exist_ok=True)
 def setup_logging():
     """Setup structured logging with trace ID support"""
     
-    detailed_formatter = logging.Formatter(
+    # Custom formatter that handles missing trace_id
+    class TraceIDFormatter(logging.Formatter):
+        def format(self, record):
+            if not hasattr(record, 'trace_id'):
+                record.trace_id = 'no-trace'
+            return super().format(record)
+    
+    detailed_formatter = TraceIDFormatter(
         '%(asctime)s | %(levelname)-8s | [Trace: %(trace_id)s] | %(name)s | %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S'
     )
