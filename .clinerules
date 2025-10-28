@@ -1,0 +1,142 @@
+# Shadowrun GM Project Rules
+
+## CRITICAL NOTES - READ BEFORE MAKING CHANGES
+
+### Spellcasting Test Case (tests/test-spellcasting-mcp.py)
+**DO NOT modify this test to use Oak or any real character!**
+- The test uses fictional "Test Leviathan" character intentionally
+- Leviathan totem: FAVORS Combat (+2), OPPOSES Illusion (-2)
+- Oak totem: FAVORS Health (+2), OPPOSES Combat (-2)
+- We need BOTH favored AND opposed test cases
+- Oak cannot test both scenarios (favors Health, opposes Combat)
+- The test validates totem mechanics, not real characters
+- **Leave the test as-is with Leviathan**
+
+## Language & Tool Preferences
+- **Always use Python** for data processing, imports, and analysis scripts
+- **Always use PowerShell** for Windows batch operations and automation
+- **Never use Node.js** for new scripts unless absolutely necessary (MCP server is exception)
+- Store all configuration in `.env` file using python-dotenv
+
+## Code Reuse Philosophy
+- **ALWAYS check `tools/` directory** for existing Python scripts before creating new ones
+- Reuse and refactor existing tools rather than creating duplicates
+- If similar functionality exists, extend it rather than duplicate it
+- Common reusable patterns:
+  - Database connections: Use psycopg2 with .env config
+  - JSON processing: Use existing parsers in tools/
+  - Data imports: Follow patterns in tools/import-*.py
+  - Schema operations: Follow patterns in tools/apply-*.py
+
+## Environment Configuration
+- All secrets and config in `.env` file
+- Use `python-dotenv` to load environment variables
+- Never hardcode database credentials or API keys
+- Standard .env variables:
+  - POSTGRES_HOST, POSTGRES_PORT, POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB
+  - OPENAI_API_KEY
+
+## Python Script Standards
+```python
+#!/usr/bin/env python3
+"""
+Brief description of what this script does
+"""
+import os
+from dotenv import load_dotenv
+import psycopg2
+from typing import Optional, Dict, List
+
+# Load environment variables
+load_dotenv()
+
+def main():
+    """Main function with clear purpose"""
+    try:
+        # Database connection pattern
+        conn = psycopg2.connect(
+            host=os.getenv('POSTGRES_HOST'),
+            port=os.getenv('POSTGRES_PORT'),
+            user=os.getenv('POSTGRES_USER'),
+            password=os.getenv('POSTGRES_PASSWORD'),
+            dbname=os.getenv('POSTGRES_DB')
+        )
+        # Your code here
+    except Exception as e:
+        print(f"Error: {e}")
+        raise
+    finally:
+        if conn:
+            conn.close()
+
+if __name__ == "__main__":
+    main()
+```
+
+## PowerShell Script Standards
+- Use for Windows-specific automation
+- Use `.bat` files for simple command sequences
+- Use `.ps1` for complex logic
+- Always include error handling
+- Log operations to console
+
+## Project Structure
+- `/tools/` - Utility scripts (prefer Python)
+- `/lib/` - Reusable libraries (Node.js for MCP server only)
+- `/tests/` - Test scripts
+- `/migrations/` - Database migrations (SQL)
+- `/parsed-*-data/` - Parsed data outputs (JSON)
+- `/schema/` - Database schema definitions
+  - `schema.sql` - **AUTHORITATIVE** unified schema (v3.0)
+  - `house_rules.sql` - House rules and campaign management
+  - `archive/` - Old schema files (reference only)
+
+## Database Operations
+- Use parameterized queries to prevent SQL injection
+- Always use transactions for multi-step operations
+- Close connections in finally blocks
+- Log all database operations
+- Handle errors gracefully
+
+## Schema Guidelines
+- **Primary Schema**: Always use `schema.sql` as the authoritative source
+- **Character Modifiers**: Store cyberware/bioware in `character_modifiers` table
+  - Use `source_type='cyberware'` or `'bioware'`
+  - Store special abilities in `modifier_data` JSONB field
+  - Example: Smartlink special abilities (grenade bonus, no mag penalty, etc.)
+- **House Rules**: Use `house_rules` table for custom/homebrew content
+  - Link modifiers to house rules via `house_rule_id`
+  - Set `is_homebrew=true` on character_modifiers for custom content
+- **JSONB Fields**: Use for flexible data storage (abilities, conditions, metadata)
+- **Archived Schemas**: Old schema files in `schema/archive/` are for reference only
+
+## Existing Reusable Tools (Check These First!)
+### Python Tools in /tools/
+- `check_*.py` - Database inspection and validation
+- `import-*.py` - Data import patterns
+- `apply-*.py` - Schema application patterns
+- `fix-*.py` - Data correction utilities
+- `verify-*.py` - Validation scripts
+
+### When to Create New vs Reuse
+- **Reuse if**: Similar database operations, JSON parsing, data validation
+- **Extend if**: Need additional functionality in existing tool
+- **Create new if**: Completely different purpose, no overlap with existing tools
+
+## Git Practices
+- Never commit `.env` file
+- Never commit sensitive data
+- Use meaningful commit messages
+- Keep commits focused and atomic
+
+## Error Handling
+- Always use try/except blocks
+- Log errors with context
+- Provide helpful error messages
+- Don't silently fail
+
+## Documentation
+- Include docstrings for all functions
+- Add comments for complex logic
+- Update README.md when adding new tools
+- Document any non-obvious decisions

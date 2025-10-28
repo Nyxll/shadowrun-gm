@@ -1,0 +1,568 @@
+/* Shadowrun Character Sheet Styles */
+
+:root {
+    --neon-cyan: #00ffff;
+    --neon-green: #00ff00;
+    --neon-pink: #ff00ff;
+    --neon-orange: #ff8800;
+    --dark-bg: #0a0a0a;
+    --darker-bg: #050505;
+    --panel-bg: #0f0f0f;
+    --border-color: #00ff00;
+}
+
+.character-sheet-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+.character-sheet-modal.active {
+    display: block;
+}
+
+.sheet-container {
+    max-width: 1400px;
+    margin: 2rem auto;
+    background: var(--dark-bg);
+    border: 3px solid var(--neon-cyan);
+    box-shadow: 0 0 30px var(--neon-cyan);
+    position: relative;
+}
+
+.sheet-header {
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+    border-bottom: 2px solid var(--neon-cyan);
+    padding: 2rem;
+    position: relative;
+}
+
+.sheet-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: all 0.3s;
+}
+
+.sheet-close:hover {
+    background: #cc0000;
+    box-shadow: 0 0 10px #ff0000;
+}
+
+.sheet-title {
+    color: var(--neon-cyan);
+    font-size: 2.5rem;
+    text-shadow: 0 0 20px var(--neon-cyan);
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.sheet-subtitle {
+    color: var(--neon-green);
+    font-size: 1.2rem;
+    text-shadow: 0 0 10px var(--neon-green);
+}
+
+.sheet-body {
+    padding: 2rem;
+}
+
+/* Section Styles */
+.sheet-section {
+    margin-bottom: 2rem;
+    border: 1px solid var(--border-color);
+    background: var(--panel-bg);
+}
+
+.section-header {
+    background: linear-gradient(90deg, #1a1a1a 0%, #0a0a0a 100%);
+    border-bottom: 2px solid var(--neon-green);
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-header:hover {
+    background: linear-gradient(90deg, #2a2a2a 0%, #1a1a1a 100%);
+}
+
+.section-title {
+    color: var(--neon-green);
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px var(--neon-green);
+}
+
+.section-toggle {
+    color: var(--neon-cyan);
+    font-size: 1.5rem;
+}
+
+.section-content {
+    padding: 1.5rem;
+}
+
+.section-content.collapsed {
+    display: none;
+}
+
+/* Grid Layouts */
+.stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.stat-box {
+    background: var(--darker-bg);
+    border-left: 3px solid var(--neon-cyan);
+    padding: 1rem;
+    transition: all 0.3s;
+}
+
+.stat-box:hover {
+    border-left-color: var(--neon-pink);
+    box-shadow: 0 0 10px rgba(255, 0, 255, 0.3);
+}
+
+.stat-label {
+    color: var(--neon-green);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 0.25rem;
+}
+
+.stat-value {
+    color: var(--neon-cyan);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 0 5px var(--neon-cyan);
+}
+
+.stat-detail {
+    color: #bbb;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+}
+
+/* Two Column Layout */
+.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+@media (max-width: 900px) {
+    .two-column {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Lists */
+.item-list {
+    display: grid;
+    gap: 0.5rem;
+}
+
+.list-item {
+    background: var(--darker-bg);
+    border-left: 2px solid var(--neon-green);
+    padding: 0.75rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    transition: all 0.2s;
+}
+
+.list-item:hover {
+    border-left-color: var(--neon-cyan);
+    background: #1a1a1a;
+}
+
+.item-name {
+    color: var(--neon-cyan);
+    font-weight: bold;
+    flex: 1;
+}
+
+.item-rating {
+    color: var(--neon-pink);
+    font-weight: bold;
+    margin-left: 1rem;
+    min-width: 3rem;
+    text-align: right;
+}
+
+.item-details {
+    color: #ddd;
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+}
+
+/* Skill List */
+.skill-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 0.5rem;
+}
+
+.skill-item {
+    background: var(--darker-bg);
+    border-left: 2px solid var(--neon-green);
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.skill-name {
+    color: var(--neon-cyan);
+    font-weight: bold;
+}
+
+.skill-rating {
+    color: var(--neon-pink);
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.skill-bonus {
+    color: var(--neon-orange);
+    font-size: 0.85rem;
+    margin-left: 0.5rem;
+}
+
+/* Gear Categories */
+.gear-category {
+    margin-bottom: 1.5rem;
+}
+
+.category-title {
+    color: var(--neon-orange);
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--neon-orange);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Weapon Stats */
+.weapon-stats {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+}
+
+.weapon-stat {
+    background: #1a1a1a;
+    padding: 0.25rem 0.75rem;
+    border-radius: 3px;
+    font-size: 0.85rem;
+}
+
+.weapon-stat-label {
+    color: #ddd;
+    margin-right: 0.25rem;
+}
+
+.weapon-stat-value {
+    color: var(--neon-cyan);
+    font-weight: bold;
+}
+
+/* Armor Display */
+.armor-rating {
+    display: inline-block;
+    background: #1a1a1a;
+    padding: 0.25rem 0.75rem;
+    margin-left: 0.5rem;
+    border-radius: 3px;
+}
+
+.armor-ballistic {
+    color: var(--neon-cyan);
+    font-weight: bold;
+}
+
+.armor-impact {
+    color: var(--neon-pink);
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+
+/* Cyberware/Bioware */
+.cyber-item {
+    background: var(--darker-bg);
+    border-left: 3px solid var(--neon-pink);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.cyber-name {
+    color: var(--neon-cyan);
+    font-weight: bold;
+    font-size: 1.05rem;
+}
+
+.cyber-cost {
+    color: var(--neon-pink);
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+}
+
+.cyber-effect {
+    color: var(--neon-green);
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+}
+
+/* Magic Section */
+.subsection {
+    margin-bottom: 1.5rem;
+}
+
+.subsection h4 {
+    color: var(--neon-orange);
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--neon-orange);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Totem Display */
+.subsection h4:first-child {
+    color: #ff00ff;
+    border-bottom-color: #ff00ff;
+}
+
+/* Spell List */
+.spell-list {
+    display: grid;
+    gap: 0.5rem;
+}
+
+.spell-item {
+    background: var(--darker-bg);
+    border-left: 3px solid #8800ff;
+    padding: 0.75rem 1rem;
+    transition: all 0.2s;
+}
+
+.spell-item:hover {
+    border-left-color: #ff00ff;
+    background: #1a1a1a;
+}
+
+.spell-name {
+    color: #ff00ff;
+    font-weight: bold;
+    font-size: 1.05rem;
+}
+
+.spell-details {
+    color: #ddd;
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+}
+
+.spell-description {
+    color: #aaa;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+    font-style: italic;
+    padding-left: 1rem;
+    border-left: 2px solid #8800ff;
+}
+
+/* Focus/Foci Display */
+.item-subsection {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--neon-cyan);
+}
+
+.item-subsection strong {
+    color: var(--neon-green);
+}
+
+.item-effects {
+    list-style: none;
+    padding-left: 1rem;
+    margin-top: 0.25rem;
+}
+
+.item-effects li {
+    color: #ddd;
+    font-size: 0.85rem;
+    margin-bottom: 0.25rem;
+    position: relative;
+}
+
+.item-effects li::before {
+    content: '▸';
+    color: var(--neon-green);
+    position: absolute;
+    left: -1rem;
+}
+
+/* Matrix Section */
+.matrix-deck {
+    background: var(--darker-bg);
+    border: 2px solid var(--neon-cyan);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.deck-name {
+    color: var(--neon-cyan);
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 10px var(--neon-cyan);
+}
+
+.deck-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+/* Notes Section */
+.notes-content {
+    color: #aaa;
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+.note-item {
+    margin-bottom: 0.75rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--neon-orange);
+}
+
+/* Edges and Flaws */
+.edge-item {
+    background: var(--darker-bg);
+    border-left: 3px solid var(--neon-green);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.flaw-item {
+    background: var(--darker-bg);
+    border-left: 3px solid #ff0000;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.edge-name, .flaw-name {
+    font-weight: bold;
+}
+
+.edge-name {
+    color: var(--neon-green);
+}
+
+.flaw-name {
+    color: #ff6666;
+}
+
+.edge-cost, .flaw-cost {
+    color: var(--neon-orange);
+    margin-left: 0.5rem;
+}
+
+/* Contacts */
+.contact-item {
+    background: var(--darker-bg);
+    border-left: 2px solid var(--neon-cyan);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.contact-name {
+    color: var(--neon-cyan);
+    font-weight: bold;
+}
+
+.contact-level {
+    color: var(--neon-pink);
+    margin-left: 0.5rem;
+}
+
+.contact-role {
+    color: #ddd;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+}
+
+/* Scrollbar Styling */
+.sheet-container::-webkit-scrollbar {
+    width: 10px;
+}
+
+.sheet-container::-webkit-scrollbar-track {
+    background: var(--darker-bg);
+}
+
+.sheet-container::-webkit-scrollbar-thumb {
+    background: var(--neon-green);
+    border-radius: 5px;
+}
+
+.sheet-container::-webkit-scrollbar-thumb:hover {
+    background: var(--neon-cyan);
+}
+
+/* Loading State */
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: var(--neon-cyan);
+    font-size: 1.2rem;
+}
+
+.loading::after {
+    content: '...';
+    animation: dots 1.5s steps(4, end) infinite;
+}
+
+@keyframes dots {
+    0%, 20% { content: '.'; }
+    40% { content: '..'; }
+    60%, 100% { content: '...'; }
+}
+
+/* Empty State */
+.empty-section {
+    color: #666;
+    font-style: italic;
+    padding: 1rem;
+    text-align: center;
+}

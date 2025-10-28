@@ -1,0 +1,20 @@
+# Shadowrun GM - Live Game Server Requirements
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+websockets==12.0
+
+# OpenAI (for Grok API)
+openai==1.57.4
+
+# Database
+psycopg[binary]==3.2.11
+
+# Environment
+python-dotenv==1.0.0
+
+# Testing
+playwright==1.55.0
+pytest==8.4.2
+pytest-asyncio==1.2.0

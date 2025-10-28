@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadowrun GM - Live Game</title>
+    <link rel="stylesheet" href="themes.css">
+    <link rel="stylesheet" href="character-sheet.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: var(--dark-bg);
+            color: var(--neon-green);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        #header {
+            background: var(--panel-bg);
+            padding: 1rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        
+        h1 {
+            color: var(--neon-green);
+            text-shadow: 0 0 10px var(--neon-green);
+        }
+        
+        #session-info {
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+            color: var(--neon-cyan);
+        }
+        
+        #main {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+        }
+        
+        #chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 1rem;
+        }
+        
+        #messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1rem;
+            background: var(--darker-bg);
+            border: 1px solid var(--border-color);
+            margin-bottom: 1rem;
+        }
+        
+        .message {
+            margin-bottom: 1rem;
+            padding: 0.5rem;
+            border-left: 3px solid var(--neon-green);
+            padding-left: 1rem;
+            white-space: pre-wrap;
+        }
+        
+        .message.user {
+            border-left-color: var(--neon-cyan);
+            color: var(--neon-cyan);
+        }
+        
+        .message.assistant {
+            border-left-color: var(--neon-green);
+            color: var(--neon-green);
+        }
+        
+        .message.system {
+            border-left-color: var(--neon-orange);
+            color: var(--neon-orange);
+            font-style: italic;
+        }
+        
+        .message.tool {
+            border-left-color: var(--neon-pink);
+            color: var(--neon-pink);
+            font-size: 0.9rem;
+        }
+        
+        #input-area {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        #message-input {
+            flex: 1;
+            background: var(--panel-bg);
+            border: 1px solid var(--border-color);
+            color: var(--neon-green);
+            padding: 0.75rem;
+            font-family: 'Courier New', monospace;
+            font-size: 1rem;
+        }
+        
+        #message-input:focus {
+            outline: none;
+            box-shadow: 0 0 10px var(--neon-cyan);
+        }
+        
+        button {
+            background: var(--neon-green);
+            color: var(--dark-bg);
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        button:hover {
+            background: var(--neon-cyan);
+            box-shadow: 0 0 10px var(--neon-cyan);
+        }
+        
+        button:disabled {
+            background: #333;
+            color: #666;
+            cursor: not-allowed;
+        }
+        
+        #sidebar {
+            width: 300px;
+            background: var(--panel-bg);
+            border-left: 2px solid var(--border-color);
+            padding: 1rem;
+            overflow-y: auto;
+        }
+        
+        .sidebar-section {
+            margin-bottom: 1.5rem;
+        }
+        
+        .sidebar-section h3 {
+            color: var(--neon-green);
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.25rem;
+        }
+        
+        .character-list {
+            list-style: none;
+        }
+        
+        .character-list li {
+            padding: 0.5rem;
+            margin: 0.25rem 0;
+            background: var(--darker-bg);
+            border-left: 3px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .character-list li:hover {
+            background: var(--panel-bg);
+        }
+        
+        .character-name {
+            flex: 1;
+        }
+        
+        .character-remove {
+            background: #ff0000;
+            color: #fff;
+            border: none;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-family: 'Courier New', monospace;
+            margin-left: 0.5rem;
+        }
+        
+        .character-remove:hover {
+            background: #cc0000;
+        }
+        
+        #add-character {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+        
+        #character-input {
+            flex: 1;
+            background: var(--darker-bg);
+            border: 1px solid var(--border-color);
+            color: var(--neon-green);
+            padding: 0.5rem;
+            font-family: 'Courier New', monospace;
+        }
+        
+        #character-select {
+            width: 100%;
+            background: var(--darker-bg);
+            border: 1px solid var(--border-color);
+            color: var(--neon-green);
+            padding: 0.5rem;
+            font-family: 'Courier New', monospace;
+            cursor: pointer;
+        }
+        
+        #character-select:focus {
+            outline: none;
+            box-shadow: 0 0 5px var(--neon-cyan);
+        }
+        
+        #character-select option {
+            background: var(--darker-bg);
+            color: var(--neon-green);
+        }
+        
+        .status {
+            padding: 0.5rem;
+            background: var(--darker-bg);
+            border-left: 3px solid var(--neon-orange);
+            color: var(--neon-orange);
+            font-size: 0.9rem;
+        }
+        
+        #character-sheet-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        
+        #character-sheet-modal.active {
+            display: block;
+        }
+        
+        .modal-content {
+            max-width: 800px;
+            margin: 2rem auto;
+            background: #0a0a0a;
+            border: 2px solid #00ff00;
+            padding: 2rem;
+            position: relative;
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: #ff0000;
+            color: #fff;
+            border: none;
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+        }
+        
+        .modal-close:hover {
+            background: #cc0000;
+        }
+        
+        .character-sheet {
+            color: #00ff00;
+        }
+        
+        .character-sheet h2 {
+            color: #00ff00;
+            text-shadow: 0 0 10px #00ff00;
+            margin-bottom: 1rem;
+        }
+        
+        .character-sheet h3 {
+            color: #00aa00;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid #00aa00;
+        }
+        
+        .stat-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .stat-item {
+            background: #0f0f0f;
+            padding: 0.5rem;
+            border-left: 2px solid #00ff00;
+        }
+        
+        .stat-label {
+            color: #00aa00;
+            font-size: 0.9rem;
+        }
+        
+        .stat-value {
+            color: #00ff00;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        
+        .skill-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+        
+        .skill-item {
+            background: #0f0f0f;
+            padding: 0.5rem;
+            display: flex;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body data-theme="tron">
+    <!-- Theme Selector -->
+    <div class="theme-selector">
+        <button class="theme-button" id="theme-toggle">🎨 THEME</button>
+        <div class="theme-dropdown" id="theme-dropdown">
+            <div class="theme-option" data-theme="tron">
+                <span><span class="theme-preview"></span>Tron</span>
+            </div>
+            <div class="theme-option" data-theme="tron-legacy">
+                <span><span class="theme-preview"></span>Tron Legacy</span>
+            </div>
+            <div class="theme-option" data-theme="cyberpunk">
+                <span><span class="theme-preview"></span>Cyberpunk</span>
+            </div>
+            <div class="theme-option" data-theme="matrix">
+                <span><span class="theme-preview"></span>Matrix</span>
+            </div>
+            <div class="theme-option" data-theme="blade-runner">
+                <span><span class="theme-preview"></span>Blade Runner</span>
+            </div>
+            <div class="theme-option" data-theme="neon-city">
+                <span><span class="theme-preview"></span>Neon City</span>
+            </div>
+            <div class="theme-option" data-theme="amber">
+                <span><span class="theme-preview"></span>Amber Terminal</span>
+            </div>
+        </div>
+    </div>
+    
+    <div id="header">
+        <h1>⚡ SHADOWRUN GM - LIVE GAME ⚡</h1>
+        <div id="session-info">
+            Session: <span id="session-id">Connecting...</span> | 
+            Status: <span id="connection-status">Connecting...</span>
+        </div>
+    </div>
+    
+    <div id="main">
+        <div id="chat-container">
+            <div id="messages"></div>
+            <div id="input-area">
+                <input 
+                    type="text" 
+                    id="message-input" 
+                    placeholder="Describe your action..." 
+                    disabled
+                />
+                <button id="send-button" disabled>SEND</button>
+            </div>
+        </div>
+        
+        <div id="sidebar">
+            <div class="sidebar-section">
+                <h3>Active Characters</h3>
+                <ul id="character-list" class="character-list"></ul>
+                <div id="add-character">
+                    <select id="character-select">
+                        <option value="">Loading...</option>
+                    </select>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <button id="add-character-button" style="flex: 1;">ADD CHARACTER</button>
+                        <button id="view-sheet-button" style="flex: 1;">VIEW SHEET</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>Status</h3>
+                <div id="status-display" class="status">Initializing...</div>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>Game Setup</h3>
+                <button id="create-scenario-button" style="width: 100%; padding: 1rem;" disabled>
+                    Create Scenario
+                </button>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3>Debug: Tool Calls</h3>
+                <div id="tool-call-log" style="
+                    background: var(--darker-bg);
+                    border: 1px solid var(--border-color);
+                    padding: 0.5rem;
+                    max-height: 300px;
+                    overflow-y: auto;
+                    font-size: 0.8rem;
+                ">
+                    <div style="color: var(--neon-orange); font-style: italic;">
+                        Waiting for tool calls...
+                    </div>
+                </div>
+                <button id="clear-log-button" style="width: 100%; margin-top: 0.5rem; padding: 0.5rem; font-size: 0.8rem;">
+                    CLEAR LOG
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Character Sheet Modal -->
+    <div id="character-sheet-modal" class="character-sheet-modal">
+        <div class="sheet-container">
+            <div class="sheet-header">
+                <button class="sheet-close" id="modal-close-button">✕ CLOSE</button>
+                <div class="sheet-title" id="sheet-character-name">Loading...</div>
+                <div class="sheet-subtitle" id="sheet-character-subtitle"></div>
+            </div>
+            <div class="sheet-body" id="character-sheet-content">
+                <!-- Character sheet sections will be loaded here -->
+            </div>
+        </div>
+    </div>
+    
+    <script src="error-handler.js"></script>
+    <script src="character-sheet-renderer.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

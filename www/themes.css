@@ -1,0 +1,195 @@
+/* Theme System for Shadowrun GM */
+
+/* Default Theme: Cyberpunk Green */
+[data-theme="cyberpunk"],
+:root {
+    --neon-cyan: #00ffff;
+    --neon-green: #00ff00;
+    --neon-pink: #ff00ff;
+    --neon-orange: #ff8800;
+    --dark-bg: #0a0a0a;
+    --darker-bg: #050505;
+    --panel-bg: #0f0f0f;
+    --border-color: #00ff00;
+}
+
+/* Tron Theme: Blue/Cyan */
+[data-theme="tron"] {
+    --neon-cyan: #6fc3df;
+    --neon-green: #00d9ff;
+    --neon-pink: #ff1493;
+    --neon-orange: #ffa500;
+    --dark-bg: #000000;
+    --darker-bg: #000000;
+    --panel-bg: #0a0a0a;
+    --border-color: #00d9ff;
+}
+
+/* Tron Legacy Theme: Orange/Blue */
+[data-theme="tron-legacy"] {
+    --neon-cyan: #00d9ff;
+    --neon-green: #00d9ff;
+    --neon-pink: #ff6600;
+    --neon-orange: #ff6600;
+    --dark-bg: #000000;
+    --darker-bg: #000000;
+    --panel-bg: #0a0a0a;
+    --border-color: #00d9ff;
+}
+
+/* Matrix Theme: Green on Black */
+[data-theme="matrix"] {
+    --neon-cyan: #00ff41;
+    --neon-green: #00ff41;
+    --neon-pink: #00ff41;
+    --neon-orange: #00ff41;
+    --dark-bg: #000000;
+    --darker-bg: #000000;
+    --panel-bg: #0a0a0a;
+    --border-color: #00ff41;
+}
+
+/* Blade Runner Theme: Purple/Pink */
+[data-theme="blade-runner"] {
+    --neon-cyan: #ff00ff;
+    --neon-green: #ff1493;
+    --neon-pink: #ff00ff;
+    --neon-orange: #ff6600;
+    --dark-bg: #0a0a0a;
+    --darker-bg: #050505;
+    --panel-bg: #0f0f0f;
+    --border-color: #ff00ff;
+}
+
+/* Neon City Theme: Multi-color */
+[data-theme="neon-city"] {
+    --neon-cyan: #00ffff;
+    --neon-green: #39ff14;
+    --neon-pink: #ff10f0;
+    --neon-orange: #ff9500;
+    --dark-bg: #0a0a0a;
+    --darker-bg: #050505;
+    --panel-bg: #0f0f0f;
+    --border-color: #00ffff;
+}
+
+/* Amber Terminal Theme: Classic */
+[data-theme="amber"] {
+    --neon-cyan: #ffb000;
+    --neon-green: #ffb000;
+    --neon-pink: #ffb000;
+    --neon-orange: #ffb000;
+    --dark-bg: #000000;
+    --darker-bg: #000000;
+    --panel-bg: #0a0a0a;
+    --border-color: #ffb000;
+}
+
+/* Theme Selector Styles */
+.theme-selector {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 2000;
+}
+
+.theme-button {
+    background: var(--panel-bg);
+    border: 1px solid var(--border-color);
+    color: var(--neon-green);
+    padding: 0.5rem 1rem;
+    font-family: 'Courier New', monospace;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+}
+
+.theme-button:hover {
+    background: var(--dark-bg);
+    box-shadow: 0 0 10px var(--neon-cyan);
+}
+
+.theme-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0.5rem;
+    background: var(--panel-bg);
+    border: 1px solid var(--border-color);
+    min-width: 200px;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.theme-dropdown.active {
+    display: block;
+}
+
+.theme-option {
+    padding: 0.75rem 1rem;
+    color: var(--neon-cyan);
+    cursor: pointer;
+    border-bottom: 1px solid var(--darker-bg);
+    transition: all 0.2s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.theme-option:last-child {
+    border-bottom: none;
+}
+
+.theme-option:hover {
+    background: var(--dark-bg);
+    color: var(--neon-pink);
+}
+
+.theme-option.active {
+    background: var(--dark-bg);
+    color: var(--neon-green);
+}
+
+.theme-option.active::after {
+    content: '✓';
+    color: var(--neon-green);
+    font-weight: bold;
+}
+
+.theme-preview {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    border: 1px solid currentColor;
+}
+
+/* Theme-specific preview colors */
+.theme-option[data-theme="cyberpunk"] .theme-preview {
+    background: #00ff00;
+}
+
+.theme-option[data-theme="tron"] .theme-preview {
+    background: #00d9ff;
+}
+
+.theme-option[data-theme="tron-legacy"] .theme-preview {
+    background: linear-gradient(90deg, #00d9ff 50%, #ff6600 50%);
+}
+
+.theme-option[data-theme="matrix"] .theme-preview {
+    background: #00ff41;
+}
+
+.theme-option[data-theme="blade-runner"] .theme-preview {
+    background: #ff00ff;
+}
+
+.theme-option[data-theme="neon-city"] .theme-preview {
+    background: linear-gradient(90deg, #00ffff 0%, #39ff14 33%, #ff10f0 66%, #ff9500 100%);
+}
+
+.theme-option[data-theme="amber"] .theme-preview {
+    background: #ffb000;
+}
