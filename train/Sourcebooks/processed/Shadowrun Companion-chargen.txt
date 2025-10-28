@@ -1,0 +1,301 @@
+# Character Creation
+The **Shadowrun Companion** guides players through the life of a shadowrunner, from character creation to retirement. The character creation section clarifies and expands on the system in SRII and includes a new point-based approach. This section also introduces **Edges and Flaws**, which are personality traits that make characters unique and can affect gameplay. In addition, the Character Creation section provides rules for playing a shapeshifter and introduces new metahuman variants.
+
+Because the **Shadowrun** game system is based on the successful use of skills, the **Skills and Training** section offers a revised Skill Web with a more consistent logic, and explains the changes. This section also clarifies and expands the skill defaulting rules and offers a more realistic training system for learning new and improving old skills.
+
+**Player-character contacts** have always been important but under-used. **Contacts and Enemies** suggests ways to expand the role of these non-player characters, from creating personalities to exploring the distinction between what a contact knows and what they are willing to reveal, as well as how to stay on a contact's good side and maintain confidentiality. Players can also network their contacts through the **Friends of Friends** option, which adds new depth to their sources for information. This section also describes several non-traditional contacts, including the Shadowland BBS. Contacts and Enemies provides rules for creating enemies and tips for how to effectively present them in the game.
+
+The **Advanced Rules** section offers new uses and optional rules for Karma, which is the first change to those rules since the release of **Shadowrun, Second Edition**. These variations include the life-saving Hand of God rule, favors and markers, and guidelines for character advancement in a Karma-less campaign. This section also offers advanced rules for tailoring how magic works, a system for creating workable statistics for famous NPCs, threats, and other opponents of shadowrunners. There are also state-of-the-art rules that allow gamemasters to control the technology curve in their campaigns, as well as a few often-requested options for familiar rules.
+
+**Running the Game** gives gamemasters a framework and outline to use when designing their own scenarios, adventures, and campaigns. **Alternate Campaign Concepts** shows gamemasters how to develop and run alternative campaign archetypes and includes examples of player character groups like Doc Wagon EMTs and Lone Star teams. This section also provides rules for creating street gangs and designing gang-member characters, suggests campaign hooks for drawing street gangs into a game, and describes five Seattle gangs in detail to demonstrate the possibilities of running gang storylines.
+
+---
+
+## FILLING IN THE BLANKS
+To those who have been playing the game since its inception, FASA producing a rules companion six years after the initial rules were published might seem like a step backward. It's likely that most of the material in this book covers aspects of the game you currently ignore, for which you've already made up house rules, or that have already been answered at a **Shadowrun** convention seminar. You might be disappointed that this book is not filled with new rules and may have even been hoping for **Shadowrun, Third Edition**. We sympathize with your feelings. The difficulty with producing a companion book is that it should respond to player questions and comments in a useful, effective way, and it's hard to decide when to stop compiling information and actually publish a response.
+
+In the years since the second edition of **Shadowrun** was published, we've noticed an increase in general questions from both new and veteran players about the basics of playing, running, and having fun with the game. Instead of asking about the complexity of using the metaplanes, advanced Matrix design, or the mysteries of cybermancy, **Shadowrun** players wanted more information about character creation, Karma, how to sustain a campaign, and the uses of skills and contacts—the basic concepts of the game.
+
+With any game system and universe, especially one as rich as **Shadowrun**, the tendency is to make each book bigger, more significant, and filled with more "toys"—to up the ante, push the envelope, keep the fans entertained, and always give them something new and exciting. Each product needs to outshine the last one. While that kind of one-upmanship keeps us on our toes and constantly improves the product, it also means that we sometimes forget to answer the players' basic questions. The number of players and gamemasters asking for advice on what to do with this diverse, intriguing universe prompted us to re-evaluate our plan for **The Shadowrun Companion**. We are confident that the result will satisfy the players who were asking those questions.
+
+Even if you have already found a way to fill in the blanks left by published **Shadowrun** products, we believe you will find new, interesting, and fun concepts in this book. As always, gamemasters should modify, adapt, or rework these rules as necessary to accommodate their groups' style of play. Because all the rules in **The Shadowrun Companion** are considered optional, gamemasters and players should agree on which rules to use before incorporating any of these concepts into their games. The goal of **The Shadowrun Companion** is to make playing **Shadowrun** even more enjoyable. Do whatever it takes to make your game fun! 
+
+---
+
+This section provides suggestions to help **Shadowrun** players generate a wide range of interesting, fully realized, and fun-to-play runner characters. In addition to options for varying the character creation system, this section provides optional rules for creating shapeshifter characters and for playing additional metatype variants.
+
+### THE CONCEPT
+"Who do you want to play?" is the most important question to answer before you begin to create your character, because your character can incorporate almost anything you can imagine. You can model your character after a figure in a movie, book, or play; after someone you know personally or an individual in the news; after a historical or mythic figure; or even after yourself—the choices are endless.
+
+Think about what sort of person you might enjoy "being" when you game: a fresh-faced innocent just out of Corpville, a jaded street punk who's been rolling people for food his whole life, a disillusioned hard-boiled ex-cop, and so on. What motivates your character? Does she simply lust after money? Does he want to bring The Revolution to the oppressed people of the Sixth World?  Is she a psychopath who loves mindless violence? Does he just want to get by? 
+
+Tara has been reading lately about the Navy Sea, Air, and Land Special Forces (SEALs) and has developed a lot of respect for their combat training. She wonders how a SEAL would fare in the **Shadowrun** world and thinks she'd enjoy playing a former SEAL gone mercenary. Tara figures that a SEAL team in 2057 would include Matrix experts and magicians as well as more conventional warriors, so she decides her character is a former SEAL decker. She likes the idea of being a computer nerd with enough training and attitude to "whup razorpunks".
+
+### MORE THAN AN ARCHETYPE
+Like most roleplaying games, **Shadowrun** tends to force players to spend an inordinate amount of time calculating their characters' game statistics. Agonizing over Attribute choices, trying to squeeze maximum efficiency out of every Skill Point, and deliberating for hours over the purchase of each piece of equipment, players put a lot of effort into designing lean, mean fighting (or decking, or spellcasting, or driving) machines. Finally, they push the mountain of sourcebooks and scrap paper aside and proudly present a completed character sheet to the gamemaster, who looks it over and asks, "So, what's this guy like?" 
+
+"Uh, well," the player says, "he's a street samurai, you know? Um kind of tough, fearless, honorable... you know, a street samurai". Or, "She's a typical decker, kind of geeky, really cocky about her decking skills and nervous about everything else". Or, "My cat shaman? He's, uh... (sound of pages flipping) ...'stealthy, vain, cunning, and sometimes cruel.' Yeah, that's it".
+
+Why are so many players willing to spend so much time on their characters' guns, gear, and statistics, but so little on their personalities? Combat may be exciting, but players could certainly experience the same vicarious thrill of blowing things up by visiting the local video arcade. Roleplaying games offer much more than the thrill of combat. They allow players to take on roles, to become actors in stories of their own creation. That's why the basic concept of a character is important. Background, motivation, and personality make characters interesting. The more interesting and distinctive you make your role, the more you—and everyone else in your game group—will enjoy playing.
+
+A character's place in a team of shadowrunners is determined by his personality at least as much as his abilities. Characters who bear striking similarities in game terms may be wildly different in outlook and effectiveness, depending on their personalities and the way their players portray them. Consider one of the most basic character types, the "guy with lots of combat-oriented cyberware". The **Shadowrun** core rules alone offer four variants on this basic theme: the street samurai, bodyguard, former company man, and mercenary. All these characters possess several of the same important elements: wired reflexes, smartlinks, excellent physical stats, and at least one Big Gun. In fact, you could substitute the street samurai statistics for any of the other characters' statistics, and the change would make very little difference.
+
+So what distinguishes these characters from each other? Each follows a different mindset and takes a different approach to the world.
+
+* The **street samurai** is an urban predator who balances honor, loyalty, and reputation against the need to survive on the mean streets.
+* The **bodyguard** is trained to take a bullet for her client. Her primary goals may change as she runs the shadows, but she's still willing to put her life on the line to achieve her objective. Unlike the samurai, however, she won't die for honor.
+* The **former company man** may have left his company behind, but he's still as hard as he has to be to get the job done and survive. If that means taking someone out, he'll do it in a heartbeat. Maybe he'll regret it later, but "that's the biz, sweetheart".
+* The **mercenary** has two goals: earn her nuyen and stay alive to spend it. She'll take risks, but only when necessary. Every step of the way, she has her eyes fixed firmly on the bottom line. She may agree with your cause or your politics, but she never works for free.
+
+It is these personality differences—not the archetype name or the game statistics—that distinguish these four similar character types. The preceding examples offer only the broadest, most stereotypical characterizations, but even these bare-bones personality outlines provide better character-building frameworks than statistics alone.
+
+So when you create your next new character, try spending some extra time on the twenty questions posed on pages 47-48 of **Shadowrun, Second Edition (SRII)**. You may want to add more detail to your character's background as he or she develops a stronger, more distinct personality during gaming sessions, but these guidelines offer enough of a framework to give you, your group, and your gamemaster a few strong "hooks" to make your character come alive. Regardless of which questions you choose to answer for your character, ask yourself why the character made each decision. Why did your former wage mage leave her cushy research job to run the shadows, where she gets to sleep in coffin motels and dodge bullets?  Why did your decker sink his entire life's savings into a single, three-pound hunk of electronics?  Why did your street shaman choose the path of Gator? (Here's a hint: the correct answer is not, "To get +2 dice for Combat and Detection spells.") 
+
+### START WITH THE STORY
+Players can take the concept of story-based character creation one step further by designing the character's background before determining his or her statistics. Rather than beginning the character-creation process by saying, "I want to play a rigger," and then designing a background that fits the abilities you want him or her to have, create the character's background first and select his or her game abilities based on the character's life story. The following example shows how two runners based on the same premise can develop into very different characters through their backgrounds.
+
+Imagine that you want your character to be a female human rigger who developed an interest in vehicles at an early age. The logical place to start is by determining how a young kid might get involved with vehicles in the first place.
+
+* Suppose that **Character A** is the daughter of a high-ranking corporate military officer and was fascinated by the t-birds and helicopters she saw every time she visited her father's base. At home, she spent most of her free time playing flight-sim games and watching military vids. When she took her corporate aptitude tests, she rated in the top percentiles for vehicular skills, spatial visualization, and electronics, making her a prime candidate for the corp's Airborne branch. With her father's blessing, she entered corporate military training.
+* **Character B**, on the other hand, grew up on the mean streets of the Barrens. For her own protection, she joined her brother's go-gang, where she had to learn to ride—and fight—to stay alive. The go-gang did the occasional minor job for a local yakuza clan, and Character B's raw talent and hunger for success soon caught the attention of the oyabun. He recruited her to run low-priority errands for the clan, and her solid performance eventually led him to rely on her for jobs requiring greater levels of responsibility and trust. After a year or two, the yakuza recruited Character B as a low-level soldier.
+
+Once you establish the foundation for the background, consider some of the early changes the character may have undergone. For example, every would-be rigger eventually needs to acquire some cyberware, if only a vehicle control rig. Turning points such as these offer good opportunities to explore your character's thoughts and motivations. How does your character feel about having a computer implanted into her brain? 
+
+* **Character A** would probably feel few qualms about such a step. Working in a high-tech environment, surrounded by experts with easy access to all the top-notch cyberware they need to do their jobs, she would probably be eager to go under the laser and jump-start her career.
+* **Character B**, on the other hand, might well dread having the rig implanted. But if the yakuza—at this point, her only route out of the gutter—made it clear that her continued employment depended on her accepting cyberware, she might feel compelled to undergo the surgery despite her fears. As a result, she might never really embrace her tech and perhaps even refuse to consider further implants.
+
+After creating your character's early life story, decide how your character became a shadowrunner.
+
+* **Character A**, for example, would need a pretty dramatic reason to turn against the corporate world of her youth. Perhaps her father refused to follow an order that he morally opposed, and corporate officials court-martialed him and ousted him from the ranks in disgrace. Or perhaps another corp tried to "recruit" him, and his parent corporation killed him rather than let him defect. Either event would shock and disillusion Character A, and she might well turn to the streets out of bitterness and a desire for revenge.
+* **Character B**, on the other hand, grew up close to the shadows as part of the go-gang, and her stint as a yakuza courier kept her on the street. Perhaps running against the corps was a natural reaction when a corporate strike team wiped out her brother's gang in response to some petty vandalism or as a distraction for some covert operation. Her decision to run the shadows might just as easily be a result of heavy recruitment by shadowrunner friends or a misguided belief that living the "glamorous" life of a shadowrunner represents a move up in the world. Character B's presence in the shadows takes on a completely different dimension if the yakuza did not approve of her choice.
+
+Now that you've figured out how your character ended up in the shadows, you can go to the rulebook and build her statistics.
+
+* The most logical allocation for **Character A** would be Priority A for Resources, Priority B for Skills, and Priority C for Attributes. She would probably be carrying a substantial amount of military cyberware, most likely including a headware radio, crypto circuit, and similar communications gear. Her skills would focus on military-style helicopters, planes, drones, and t-birds, and include Tactics and perhaps Leadership, but only minimal self-defense skills, because she wasn't trained to operate outside her vehicle. Her primary contacts would be corporate and military.
+* Priorities for **Character B**, the ex-go-ganger, might sensibly be distributed as Attributes A, Resources B, and Skills C. The only cyberware she might have is the vehicle control rig, with perhaps a spur, smartlink, or other personal defense cyberware to help protect her on the streets. Her Vehicle Skills would center on cars and motorcycles, based on minimal exposure to larger and more expensive vehicles. She would, however, possess better personal defense skills than Character A, because she grew up depending on herself rather than her squadmates for protection. Her contacts would include gang, yakuza, and other street-level people and organizations.
+
+After selecting your character's game statistics, you can define her personality, based on her life history. This may not seem important, but your character's personality will determine how she acts and reacts to different situations.
+
+* For example, **Character A's** military background would probably give her a disciplined, by-the-book mentality. She might even be a bit too strait-laced and rigid at times. As a runner, she would want clearly defined objectives and would probably be reluctant to change objectives mid-run. She would likely have little tolerance for looting, inter-team bickering, and other unprofessional behavior. She would expect the other team members to show the same professional discipline that she does and would also be ready to either give or follow orders.
+* **Character B's** unsupervised childhood on the streets would likely leave her independent, strong-willed, and stubborn. Though less disciplined than Character A, Character B would be more flexible, able to adapt to changing situations on the fly. She would be far less likely than Character A to wait patiently in the van piloting drones while the run takes place.
+
+### THE SKY'S THE LIMIT
+The background-first approach to character creation illustrates one of the basic strengths of the **Shadowrun** character system—it is not limited by character classes. While other roleplaying games provide distinct sets of character classes that can be combined only in a limited number of ways, the players' own imaginations are the only limits in the **Shadowrun** character creation system. In the preceding example, Character A combines aspects of the rigger, former company man, and former military officer archetypes, while Character B adds parts of the ganger archetype to her rigger nature. Because **Shadowrun** characters are not limited by class, they can have any sort of skill or ability that players want and gamemasters allow. The best **Shadowrun** characters, like the most interesting people, combine many different "roles" to create a well-rounded whole.
+
+The archetypes in the **Shadowrun, Second Edition (SRII)** rulebook and supplements represent some of the major types of characters in the game world. They are examples, nothing more. They allow inexperienced players to jump into the game and start having fun without spending a lot of time on character creation, but they are essentially one-dimensional characters—which usually makes them less interesting than complex characters created by players. So don't hesitate to go beyond the archetypes and familiar stereotypes when creating **Shadowrun** characters—variety is the spice of life, and a unique, rich character will make the game more fun for everyone.
+
+Consider, for example, the possibilities of a detective character who also happens to be a mage, like the character in **Awakenings**. Think about the potential of a secret-seeking Snake shaman who's also a newsfax reporter, a Shark adept hit man, or maybe a decker who enjoys his Three Musketeers reality filter so much that he actually becomes a competent swordsman. Let your imagination run wild. An imaginative background story opens up a multitude of possible combinations—and it's more fun than simply designing a character around a particular set of abilities.
+
+The background-first method of character design can also suggest dozens of adventure hooks you can use to involve your characters in games. Say your group includes a mage who has a kid sister, for example. The seemingly ordinary corporate extraction that your group just got involved in may seem a lot more interesting if the targeted biotechnical engineer also happens to be working on a cure for the mysterious disease that's killing the mage's kid sister. Or maybe your playing group contains a street shaman who has claimed an area of the Barrens as his own little urban protectorate. When a megacorp buys the area and the wreckers move in to make way for new condos, will the shaman fight to defend his turf or try to move "his people" out?  Will the other characters on his team help him? 
+
+These types of adventures can provide a refreshing change of pace from the usual fixer-generated jobs and give player characters a chance to affect their game world more directly. By creating rich backgrounds for their characters, players don't have to rely on their gamemasters alone to come up with interesting runs. The personalities and motives of the characters themselves and the events of their lives can spawn adventures and help foster more varied, less predictable play.
+
+---
+
+### THE NUMBERS
+After determining the personality and background of a character, the player must translate the character's traits into game statistics. The first step is to assign one of five priorities to five different categories that describe the character. This section illustrates the finer points of assigning priorities. The Master Character Creation Table also appears on p. 47, SRII.
+
+The **Shadowrun** character-creation system enables players to assign priorities to five areas: Race, Magic, Attributes, Skills, and Resources. Assigning a high priority to Magic and/or Race opens up a wide range of possibilities for roleplaying and offers both the player and the gamemaster a point of reference for storylines and character motivations. Attributes, Skills, and Resources have the most impact on how well your character performs his job on a shadowrunning team.
+
+The priority you assign to Attributes, Skills, or Resources affects your character's ability to survive it all, do it well, or have it all. The higher your base Attributes, the better your character's survivability. The more Skill Points he or she begins with, the better your character is at what you want him or her to accomplish. The higher the starting Resources, the more equipment and other goodies your character can have to do his or her job.
+
+For example, a character with Priority A in Attributes begins the game with high enough Attribute values to have an excellent chance of surviving whatever the gamemaster throws at him—by virtue of Quickness, Strength, and Intelligence, among other qualities—and substantial default values for skills he may lack. Giving the character Priority B in Attributes only means the character is more likely to have average Attribute values, which will still serve to keep him or her alive long enough to improve.
+
+If you assign Priority A to Skills, you can give your character a wider range of options. For example, you can give your character multiple skills at an average level, producing a well-rounded character with an impressive variety of solid skills. This approach works well when designing deckers or riggers, who need a greater number of skills to do their jobs effectively. If you assign Priority B to Skills, you can give your character fewer skills but at a higher rating, effectively creating a specialist such as a fighter or magic-user.
+
+When determining what priority to assign to Resources, players must balance their desire to give their characters every neat toy in the game against the realities of encumbrance: how many guns and other weapons can one man or woman really use at once?  Because deckers and riggers need a certain amount of expensive equipment to function effectively in the game, players designing those types of characters may want to assign Priority A to Resources. For any other type of character, Priority B in Resources offers enough starting cash to buy most necessary equipment, pay for a decent lifestyle, and subscribe to a DocWagon health-insurance program.
+
+Tara figures a SEAL decker would need to make both Matrix and Physical Skills a high priority and would need hefty resources to acquire serious cyberware and an expensive cyberdeck. Tara decides to give Skills Priority A (40 points), Resources Priority B (400,000 nuyen), Attributes Priority C (20 points), Race Priority D (human), and Magic Priority E (magic and the Matrix generally don't mix well). This is the same mix of priorities as the former company man archetype (p. 55, SRII), but Tara plans to give her decker a totally different feel than that archetype.
+
+---
+
+### RACE AND MAGIC
+Being a member of a metahuman race or a magic user has a big impact on any character, and any metahuman or magic-using character's background should reflect that impact. If you're playing such a character, think about how these conditions affect your character's life. Ask yourself, when did the character realize that he was different from most other people?  Was the character born in a predominantly human town, or in Seattle's ork community?  If the character is a mage or shaman, how does he or she view magic?  Is he experiencing Drain because channeling energy has burned him out or because his totem thinks he shouldn't be casting powerballs so often?  Are his Killing Hands really the hate of his ancestors focused on his enemies?  The answers to these types of questions help determine how your character works in the game.
+
+### ATTRIBUTES
+A character's Attributes—Body, Quickness, Strength, Charisma, Intelligence, and Willpower—represent the raw material that makes up every person: his or her body, what the character has done with that body, and what's inside the person that makes him or her unique. Because Attributes can be improved during the course of a character's life, they represent something more than genetics.
+
+* The **Body** Attribute determines a character's resistance to outside forces. It represents the character's cardiovascular fitness and endurance, immune system, how well he heals, how well he adjusts to bioware, his tolerance for drugs and alcohol, and, to some extent, his muscle and bone structure and weight. Low Body could mean a character is skinny and frail-boned, or has bad eating and health habits. A character recovering from a nasty disease or extensive cyberware surgery might have low Body as well. High Body means a character is better fed, tough as nails, has strong bones with some spring to them, and an immune system that won't quit.
+* **Quickness** represents a character's motor reflexes, balance, metabolism, running speed, flexibility, and coordination. A character with low Quickness might be a "trid potato," have an inner ear disturbance, or might simply have a tendency to freeze up in emergency situations. High Quickness means that a character has developed fluidity and grace, perhaps through a regimen of running, martial arts, or even typing (which builds up manual dexterity).
+* **Strength** denotes what a character's muscles can do. Strength is somewhat dependent on a character's size and metatype. If your character is a 5-foot-tall, 115-pound human girl, she's unlikely to possess an unaugmented Strength Attribute of 6. On the other hand, dwarfs have a muscle density that rivals that of reptiles (to reflect this, starting dwarf characters receive a +2 Strength bonus). Characters with low Strength may be small, skinny, or slight, or simply too busy to work out. A high-Strength character may be tough and wiry, know how to use her body to her best advantage, work out every day, or simply be "fraggin' BIG".
+* **Charisma** is a nebulous Attribute. More than just looks, Charisma represents a character's self-image, ego, willingness to find out what people want and give it to them, and ability to recognize what he can and can't get out of people. A whiny demeanor, a me-first attitude, or an inability to read body language or subtle hints are just a few traits that can give a character low Charisma. A character with high Charisma might simply enjoy entertaining others, may honestly want to help people and develop friendships, or may be all flash and fun with whomever it is today. A high-Charisma character might deliver jokes at the right moment, have a sexy way of carrying herself, or command respect because her timing is always impeccable.
+* **Intelligence** represents a character's perceptual and analytical abilities, memorizing ability, and raw brain power. It denotes how fast a character learns, adapts, or remembers. Low Intelligence does not mean stupidity; instead, it might denote a character who discounts things too quickly rather than seeing how he might use them. Such a character may not think beyond the moment, may be easily distracted, or may simply rely on instinct rather than intellect. High Intelligence, on the other hand, means a character can keep track of several things at once, integrate old memories with whatever he's working on now, and apply general principles to specific problems. Such characters learn fast—they may not have gone to school for years and years, but if someone competent explains something to them, they'll get it.
+* **Willpower** keeps a character going when he wants to give up, or enables him to control his habits and emotions. Willpower determines whether or not a character is going to take charge of his life. A character with low Willpower might defer to other people when big decisions are being made, for example. A high-Willpower character is more assured and possesses a never-say-die streak. Such characters go down to the monowire because "that's exactly the fragging point".
+
+Tara is juggling the numbers on her SEAL decker, whom she's named Erde "Virgil" Lemarck. With only 20 Attribute Points, Virgil isn't quite the "hoop-kickin' dude" Tara originally envisioned. After distributing those points, Virgil has Body 3, Quickness 4, Strength 3, Charisma 1, Intelligence 5, and Willpower 4. Tara justifies these low numbers by deciding that Virgil is leaving the military to chase money—big-time. He plans to sell some "borrowed" military passcodes to an organized crime group, but he doesn't know any yet. As play begins, the other PCs are going to find Virgil a bitter decker who's spending most of his life in the Matrix rather than the real world, letting his fine-tuned body slip down to normal standards and wasting his self-image and enthusiasm. But he's no wash-out: he's smart, and he's got enough guts to go on a life-risking shadowrun. His Charisma is in the toilet, but only because he's uncommunicative with people he doesn't know, such as the other runners. He is still a team player, and with a little good fortune and some encouraging successes, he can turn into a serious runner with some valuable skills, contacts, and hardware.
+
+### SKILLS
+Skills represent the abilities your character has worked for and learned. So how did your character get them?  Why does he concentrate on or specialize in certain skills—or why doesn't he?  Car 6 is great for a rigger, but it means your character can drive a big rig just as well as a passenger vehicle—where'd he learn to do that?  When you create a character, go through each of your character's skills and think of a short explanation of why and how he or she learned it.
+
+For a real-world example of what the skill rating scale means, let's look at Unarmed Combat.
+
+* **No skill at all** means the character doesn't really know what he's doing. He might think he does, but he's just getting by on intuition. He's never really been in a fight or even thought about it much. If he hits someone, he could seriously hurt his hand.
+* A character with an **Unarmed Combat Rating of 1** has probably thought about unarmed fighting a little. Perhaps she's just started taking karate classes and has learned to make a proper fist and throw a formal punch. The character's form isn't great—she doesn't know where to strike an opponent and where not to, and she certainly hasn't tried out any moves on a live, moving target.
+* A character with **Unarmed Combat 2** has started to put it together—blocking, moving forward and backward, gauging range when hitting or getting beneath someone's center of gravity when wrestling. He's figured out that if you attack high and then low, you might beat someone's reaction time and hit them where they're not expecting it.
+* At **Unarmed Combat 3**, the character has a good chance of hurting someone pretty badly. She's starting to read her opponent's body movements, recognizing patterns in fighting, and experimenting with new techniques. However, her fighting style boils down to a few key moves.
+* A character with **Unarmed Combat 4** has been training for three or four years and has developed enough ability to knock an opponent down and Moderately wound him. The character is learning to fight well by most methods (weapons, feet, hands, elbows, wrestling), though he has a favorite method on which he relies heavily.
+* At **Unarmed Combat 5 or 6**, a character can usually survive most battles. Such characters know a few tricks, can pull off some advanced combat moves (fingertip strikes to the throat, chokes, quick arm breaks, and so on) and are generally people you don't want to pick on. Such characters may be first- or second-degree black belts, serious street-fighters, bodyguards, or bouncers.
+* A character with **Unarmed Combat 7 or 8** is serious bad news. She's the sort of individual that the cops hire to instruct their patrolmen in the Barrens. She can take a weapon away from an experienced opponent or strike an opponent's vulnerable pressure points and shut down his nervous system.
+* Achieving an **Unarmed Combat rating of 9 or higher** usually requires fifteen to twenty years of study, experimentation, or intense specialization in a single area of combat. Such characters might retire undefeated from a fighting circuit, found their own martial arts style, beat up physads just for fun, and teach the Sioux Wildcats and Tir Ghosts a thing or two.
+
+Finally, keep in mind that no game supplement can possibly list all the different types of expertise characters can conceivably acquire. Think about what your character would know if he or she were a real person. Nearly everybody has acquired at least three specialized abilities or areas of expertise they may not think of as potential game skills. You can use hobbies, passions, and bits of information learned through the years to flesh out your character.
+
+Tara assigns Virgil skills and skill ratings based on the background she's created for him. Like all SEAL deckers, Virgil possesses considerable decking and deck-construction expertise, so she gives him Computer 6 and Computer (B/R) 6. She decides that he doesn't concentrate or specialize in either Computer Skill because he must build his own deck, write his own programs, and serve as the resident computer expert for the rest of his shadowrunning team. After considering his general knowledge in this area, Tara gives Virgil Electronics 5 as well. Virgil also has formal education in computer science, so Tara gives him Computer Theory 3. That leaves Tara with 20 remaining points for Virgil's other skills. The decker's career with the SEALs has provided him with experience in night maneuvers, demolitions, exercising, and a little combat, so Tara gives Virgil Stealth 4, Demolitions 4, Athletics 4, Unarmed Combat 4, and Firearms 4. She then shows her notes to her gamemaster, David, who looks them over.
+
+To reflect Virgil's special-operations experience, Tara gives him the following Concentrations: Demolitions (Plastic-Explosives) 3/5 and Unarmed Combat (Cyber Implant Weaponry) 3/5. She doesn't give him a Specialization in Unarmed Combat because she wants Virgil to retain a degree of versatility in Unarmed Combat. She also gives Virgil Etiquette (Matrix) 3/5 to make him a serious information-gatherer and a lot nicer to be around. For athletic endeavors, Virgil will rely on his Physical Attributes, which are adequate for most situations. Tara purchases for Virgil the Language Skill of Japanese at a Skill Rating of 2. Consequently, he'll sound like a foreigner when he speaks the language, but he'll know enough to get by. Tara doesn't have enough Skill Points left to give Virgil the Car Skill, so she simply notes his driving ability on the back of his character sheet. Without a Driving Skill, however, Virgil must rely on the autopilot when driving. Virgil also attended the Virginia Military Institute and majored in computer science, so he knows some other handy subjects, such as higher math, that his skills won't reflect. These subjects include Morse code, wilderness survival tricks, SCUBA diving techniques, and the ability to translate lots of military acronyms. Virgil's also a snorkeler and knows about as much marine biology as Tara does.
+
+Tara's Resources priority for Virgil gives her 400,000 nuyen to spend, which she uses to purchase Wired Reflexes 1, Enhanced Articulation, and a smartgun link. The Wired Reflexes enable Virgil to move with a superhuman 2D6 + 7 Initiative, and the Enhanced Articulation bioware adds 1D6 to his Physical Skills, so he looks coordinated and smooth. The smartgun link, of course, makes him a pretty good shot.
+
+### RESOURCES
+The Resources Attribute provides two things: money to purchase cyberware, gear, and extras; and Force Points for magic spells and foci. Only magicians receive Force Points, but all characters receive the money. As with Attributes and skills, let your character's background suggest appropriate gear when allocating resources. Characters should not be able to pull money and gear out of thin air—they should only possess items they can plausibly pay for and obtain, based on their backgrounds.
+
+When assigning a priority to your character's Resources, keep in mind the optional rules for availability (p. 90), reputation (p. 32, and **Shadowbeat** for media-based characters), and otaku (**Virtual Realities 2.0**). These rules can affect the way your character is played, so you may want to review them before assigning Resources.
+
+Virgil has extensive military special-ops and computer training, so the gamemaster allows Tara to select gear from **Fields of Fire** and **Virtual Realities 2.0** as well as from **SRII**. Tara selects the items listed below:
+
+| Item | Cost (¥) |
+| :--- | :--- |
+| Level 3 datajack | 2,000 |
+| Cybereyes | 5,000 |
+| Low Light | 3,000 |
+| Flare Compensation | 2,000 |
+| Optical Mag-3 | 6,000 |
+| Smartlink II | 3,200 |
+| Wired reflexes I | 55,000 |
+| Enhanced articulation | 40,000 |
+| Retractable cyberspurs | 11,500 |
+| 800-Mp computer | 16,000 |
+| Microtronics shop | 15,000 |
+| Microtronics kit | 1,500 |
+| Programming shop | 15,000 |
+| Hitachi RM-AX optical chip encoder | 9,500 |
+| H&K MP-5TX | 850 |
+| w/Smartlink II | 800 |
+| Shock pad | 200 |
+| Sound suppressor | 750 |
+| 5 clips, 100 rounds regular ammo | 300 |
+| Colt Manhunter | 425 |
+| w/Smartlink II | 800 |
+| 5 clips, 80 rounds explosive ammo | 225 |
+| Survival knife | 45 |
+| Climbing kit | 250 |
+| Form-fitting body armor (Level 1) | 150 |
+| Camouflage armor jacket | 1,200 |
+| 5 extra contacts | 25,000 |
+| 1 year of Middle lifestyle at 2 residences | 120,000 |
+| Tracking signal for deck (Concealability 4) | 400 |
+| Signal locator for deck (Rating 4) | 4,000 |
+| (2) Rating 5 maglocks | 1,000 |
+| 2 counterfeit SINs | NA |
+| Honda-GM 3220 ZX | 30,000 |
+| DocWagon Gold Service | 25,000 |
+| Uzi III | 600 |
+| w/Smartlink | 800 |
+| Silencer | 500 |
+| 10 flash grenades | 400 |
+| 10 smoke grenades | 300 |
+| Metal restraints | 50 |
+| Armored tuxedo | 1,100 |
+| **Total cost** | **399,845** |
+| **Nuyen remaining** | **155** |
+
+Tara figures Virgil could easily have obtained his cybereyes, Level 3 datajack, and Smartlink II during his training as a SEAL decker. Given Virgil's computer experience, it seems natural that he would prefer to save money by designing his own cyberdeck. That decision explains the 800-Mp computer, microtronics shop and kit, programming shop, and the Hitachi RM-AX optical chip encoder. Virgil's five extra contacts include an old decker friend who now works for Lone Star, a fixer, a deckmeister, a rigger, and his former commanding officer. For Virgil's two free contacts, Tara selects a yakuza soldier and a yakuza boss—she reasons that the yakuza boss originally lured Virgil away from the SEALs.
+
+Initially, Tara wanted to give Virgil a Panther assault cannon. The gamemaster nixed that idea, however. Even considering Virgil's military background, it seemed unlikely that a decker would be able to obtain such a powerful weapon. The gamemaster therefore invoked the optional Availability rule (p. 90), which applies because the Panther's Availability is higher than 6. In place of the Panther, Tara selected a silenced, smart submachine gun and some other nifty items, such as flash and smoke grenades for house-to-house runs, metal restraints in case Virgil needs to kidnap someone, sunglasses, and an armored tuxedo.
+
+Tara completes her character by dividing his remaining nuyen of 155 by 10 for a total of 15. Rolling 3 dice to calculate Virgil's starting nuyen yields a 3, 3, and 6, which equals 12,000 nuyen (12 x 1,000¥). Tara adds the 15 nuyen left over from character creation for a final starting nuyen total of 12,015. Virgil now has 12 credsticks worth 1,000 nuyen each and one worth 15 nuyen. It's time for Virgil to hit the shadows! 
+
+---
+
+### FINISHING TOUCHES
+After completing the game statistics, you can put the finishing touches on your character by creating a biographical sketch. Then the gamemaster can introduce the character into gameplay. A biographical sketch combines all the bits of background you've created for your character. Tell the gamemaster as much as you can about the character. This is your chance to go crazy. It's your character, so he or she can have whatever history you want—no rules, priorities, or numbers to worry about. Once again, the Twenty Questions on pages 47-48, SRII offer a good place to start with this part of the creative process.
+
+As soon as you are finished fleshing out your character, the gamemaster can find a way to introduce the new runner into gameplay. A storyline that lets the character demonstrate his strengths and weaknesses makes for an interesting, believable introduction, especially if the story also provides opportunities for the personalities of the other characters to shine through. The story should also include situations that force the characters to work together. For suggestions on ways to introduce new characters into an established group, see **Integrating New Team Members**, p. 89.
+
+Though Virgil left the SEALs for the potentially lucrative career of a shadowrunner, Tara is not satisfied with the simple motivation that "he's money-grubbing slime". She decides that Virgil grew up in the newly seceded CAS. His family experienced all sorts of financial problems, so when Virgil was offered a scholarship, he accepted immediately. Virgil worked hard to get onto a SEAL team, and military life satisfied him for several years. As time wore on, however, he grew disenchanted with it. When a serious illness sent his father to the hospital, Virgil decided the time had come to leave the SEALs and make some quick money. Shadowrunning seemed the best way to do that. When a yakuza operative contacted Virgil and offered him a generous payment for military passcodes, Virgil realized opportunity had come his way. That deal alone enabled Virgil to pay for his father's medical bills, but Virgil realized he could never go back to the SEALs. He resigned his Navy commission a few weeks later and began offering his services in the shadow market.
+
+Virgil likes to work on a close-knit team where everyone covers each other. He's content to follow orders given by other people (this works out well because Tara is an inexperienced **Shadowrun** player). Virgil doesn't have many friends outside of his team and contacts, and he cares little about higher causes. Virgil likes puns, marine biology, action simsense, and figuring out how to assemble machines.
+
+Virgil is about 1.68 meters tall and 73 kilos, with brown hair and light brown eyes. His teeth aren't quite straight because his dad couldn't afford braces for him during his childhood. He carries a scar on his left torso as a result of being bitten by a dog as a child.
+
+Tara explains Virgil's background to the other players, who are running an ork gang member (Teeth) and an elf razorpunk (Zero-One). Both of these characters want to stick it to Humanis. Realistically, Virgil probably wouldn't work with these guys for very long, but the gamemaster suggests that Virgil's fixer—the same fixer contact that the other players selected—heard they were good muscle and wants the three to work together once to see how they do. That rationale sounds good enough to the players.
+
+By the time the characters complete the run, each of the characters has saved the others' hides and proved that he's good at what he does. The characters develop respect for one another, and when the next job comes through, Virgil rings up Teeth and Zero-One.
+
+---
+
+### CHARACTER CREATION OPTIONS
+The following variations of the standard character-creation system suggest alternate methods that change the focus of character creation in several ways. Most of these variations are designed to produce fairly balanced characters, but clever players will undoubtedly find ways to use them to create characters with massive combat abilities and few or no weaknesses or flaws. If such characters fit your style of play, by all means use them. Otherwise, gamemasters should carefully inspect characters created with these rules to ensure that they do not upset the balance of play in their games.
+
+Raising and lowering priority costs is perhaps the simplest way to vary the character-creation system. In general, however, altering priorities in some way allows gamemasters to discourage or encourage the creation of certain types of characters that will suit his campaign without restricting the players' freedom to choose. Specifically for the sum-to-10 and point-based character design systems, we recommend that all players create their characters using the same creation system in order to maintain game balance.
+
+#### ALTERING RACE PRIORITIES
+The More Metahumans option (p. 46, SRII) reduces the priority of metahuman characters from A to C, thus providing players with added incentive to create metahuman characters. Gamemasters who wish to keep metahumans a bit more uncommon in their games can lower the priority of "ordinary" metahumans to B and reserve Priority A for more "exotic" racial types, such as metahuman variants or shapeshifters (see pp. 36-44). Alternatively, gamemasters can assign different priorities to different **Shadowrun** races. For example, a gamemaster can assign Priority A to dwarf or elf characters, and Priority B to ork or troll characters. If desired, gamemasters can even eliminate the character-race priority category. However, this variation may produce an overabundance of metahuman characters, most of whom possess certain abilities superior to those of normal human characters. Gamemasters who lower the priority for metahuman characters may choose to compensate for metahumans' natural advantages by emphasizing the prejudice against and unique obstacles faced by metahumans in the Sixth World. The gamemaster can achieve this by using such optional rules as the Racism and Charisma rules (p. 182, SRII) or the Prejudice rules on pp. 137-40 in the **California Free State** sourcebook. While metahumans may be harassed by groups such as the Humanis Policlub, Alamos 20,000, and the Human Nation, gamemasters can also give human characters trouble from human-hating metahuman groups such as the Sons of Sauron.
+
+#### ALTERING MAGIC PRIORITIES
+Gamemasters can encourage the proliferation of magicians and adepts in their games by lowering the priority cost for creating these characters. Generally, any priority change should affect all magician and adept character types equally. In some circumstances, gamemasters may wish to encourage or discourage specific magical character types. For example, a gamemaster running a tribal campaign may wish to encourage his players to design shaman characters by lowering the priority for shaman characters to B, keeping the priority of mage characters at A and adjusting the priority cost for adepts accordingly. This variation provides shaman characters with an advantage over mage characters. Lowering the priority cost for creating magically active characters can lead to the creation of very powerful magicians blessed with Priority A Resources. Gamemasters should carefully consider the effects of lowering priorities for magical characters before doing so, and determine how to balance his game against such characters. In fact, gamemasters should reserve most magical-character priority reductions for campaigns tailored to magic and magician characters.
+
+#### ALTERING ATTRIBUTE AND SKILL PRIORITIES
+Altering the cost of other priority categories often provides players with greater options when assigning their characters' Attributes and Skills. If desired, gamemasters can also raise or lower the starting-point limits for these categories to foster the creation of stronger or weaker characters. However, gamemasters can achieve these same effects more simply by giving characters initial Karma bonuses to increase their skills and abilities before the game begins, or by raising or lowering the initial Attribute and Skill rating limits (see Altering Rating Limits, p. 20).
+
+#### ALTERING RESOURCE PRIORITIES
+Gamemasters can change the amount of resources offered at any given priority to give characters greater or fewer resources at the start of the game. Alternatively, gamemasters can set a standard amount of resources that all characters receive. This variation allows the gamemaster to know in advance how many nuyen all player characters will have to spend and to better judge what equipment they will be able to purchase. Gamemasters can also set specific equipment restrictions by creating lists of approved equipment for starting characters. For example, a gamemaster may allow starting characters to use any cyberware listed in **SRII** but restrict some of the cybertech and bioware items in the **Shadowtech** or **Cybertechnology** sourcebooks. Or gamemasters can set general restrictions, such as "no bioware for starting characters". Alternatively, gamemasters can set limits using the Availability ratings of equipment. For example, a gamemaster may declare that starting characters may only possess equipment of Availability 6 or lower. (In fact, Availability 6 seems to be a workable equipment limit for most **Shadowrun** campaigns) . Gamemasters may also set the equipment Availability limit for their games at the same level as the initial Attribute and Skill rating limits. See Availability rules, p. 90.
+
+#### ALTERING RATING LIMITS
+Gamemasters can also shape the design of new characters by altering the rating limits on starting Attributes and Skills. Lowering the rating limits from the standard upper limit of 6 tends to result in characters who have many different skills and abilities but are masters of none. For example, a rating limit of 4 produces characters whose Skill ratings make them competent in a few areas but who are no match for the more experienced and capable character archetypes from **SRII**. However, such characters usually have the advantage of a greater variety of skills than the archetypes. This variation works well for campaigns in which the characters play gang members, corporate types forced into the shadows, newshounds, or newbie runners looking to make a name for themselves—pretty much anything except experienced shadowrunners.
+
+Increasing the Skill and Attribute rating limits without increasing the total available character-creation points enables players to create characters with extreme abilities and weaknesses. Under a rating limit of 8, for example, the system tends to produce ultra-specialized characters such as a fantastic marksman or computer hacker who can't tie his own shoes without help. Such characters may be ill-suited for general play, but players and gamemasters may find them ideal for special campaigns or a simple change of pace.
+
+#### SUM-TO-10 SYSTEM
+In the sum-to-10 system, each priority is replaced with a numerical value between 4 and 0: A = 4, B = 3, C = 2, D = 1, and E = 0. (Long-time **Shadowrun** players may recognize this variation from the **Shadowrun, First Edition** rulebook) . Players set their character priority levels however they desire, as long as the final combined priority levels do not exceed 10. For example, a character may have priority combinations of 4, 3, 2, 1, 0; or 4, 4, 1, 1, 0; or 3, 3, 3, 1, 0; or any other combination that adds up to 10. Like most of the other variations described here, the sum-to-10 system can be abused, so the gamemaster should keep an eye on the choices his players are making. This system provides the greatest opportunity for the creation of virtually invincible characters.
+
+#### POINT-BASED DESIGN
+The point-based system provides players with great flexibility when designing characters. This system rests on a simple premise. In place of the standard priorities—A, B, C, D, and E—the gamemaster declares a Building Points allotment. Each player then uses his Building Points to purchase his or her character's Race, Magic, Attributes, Skills, and Resources. We recommend a Building Point allocation of 100.
+
+Magically capable characters created using the point-based system automatically receive 30 Force Points, rather than a number of Force Points based on the priority assigned to Resources (see also Magic, p. 21). While this results in characters that are always less powerful at creation than identical characters created using the priorities system, magical characters designed using the point-based system are more appropriately balanced with other character types in the game. In other words, they still "kick butt," but not at the expense of game balance. Also, because players are not forced to accept a certain number of Force Points in order to get a specific level of Resources or vice versa, they can more successfully tailor their characters to the background, team function, and personality they desire.
+
+Using this system, gamemasters still can restrict their players' choices or encourage the creation of certain character types by setting rating limits on characters' Attributes and Skills. By adjusting the starting Building Point amount, gamemasters can control the general power of characters. The point-based system also provides a convenient way to "handicap" players. For example, a gamemaster can make play more challenging for experienced players by reducing their starting Building Points and increasing the Building Points of inexperienced or new players.
+
+The Building Points Table suggests Building Point costs for various character components. For the costs of Edges and Flaws, see Edges and Flaws, page 21.
+
+##### Race
+If desired, gamemasters can vary the Building Point costs for characters of different metahuman races or add even more expensive races (see Altering Race Priorities, p. 19).
+
+##### Magic
+Decreasing the Building Point cost of magical ability will encourage the creation of magically active characters, and increasing the Building Point cost will discourage players from designing such characters. Magicians and all non-physical adepts automatically receive 30 Force Points at character creation. At the gamemaster's discretion, players may gain additional Force Points at character creation by "buying" them at a cost of 1 Building Point for each 2 Force Points. Players may reduce the number of Force Points available at character creation in favor of gaining additional Building Points by "selling" them at a ratio of 2 Force Points for every 1 Building Point. Note that physical adept characters do not begin the game with 30 Force Points; these are not available to trade for Building Points. Physical adepts still only receive a number of points equal to their character's Magic Rating for buying powers (see p. 125, SRII).
+
+##### Skills
+Skills cost 1 Building Point per level up to the point cap determined by the gamemaster. Because players choose their characters' Concentrations and Specializations after they purchase their skills, these have no additional cost.
+
+##### Spells
+In addition to the standard uses for Force Points during character creation, gamemasters may allow player characters to use Force Points in place of Karma Points in order to begin the game as an initiate, to summon and maintain an ally spirit, and so on.
+
+If we assign Building Point costs to the numbers chosen to create Virgil (the SEAL decker from the examples in the previous section) using the standard character creation system, we end up with a total of 102 Building Points. This number is only 2 points above the standard recommended above, which demonstrates that the two character creation systems can be balanced. If the gamemaster prefers to adhere strictly to the 100-point cap, he might require Tara (the player who created Virgil) to give her character a 2-point Flaw (see Edges and Flaws) to reduce the Building Points to 100. Gamemasters may also choose to allow a range of Building Points to accommodate such minor overages.
+
+| Component | Building Point Cost |
+| :--- | :--- |
+| **Race** | |
+| Human | 0 |
+| **Magic** | |
+| None | 0 |
+| **Attributes** | |
+| Body: 3 | 6 |
+| Quickness: 4 | 8 |
+| Strength: 3 | 6 |
+| Charisma: 1 | 2 |
+| Intelligence: 5 | 10 |
+| Willpower: 4 | 8 |
+| **Skills** | |
+| Computer: 6 | 6 |
+| Computer (B/R): 6 | 6 |
+| Electronics: 5 | 5 |
+| Computer Theory: 3 | 3 |
+| Stealth: 4 | 4 |
+| Demolitions (Plastic Explosives): 3/5 | 4 |
+| Unarmed Combat (Cyberimplanted Weaponry): 3/5 | 4 |
+| Athletics: 4 | 4 |
+| Firearms: 4 | 4 |
+| Japanese: 2 | 2 |
+| **Resources** | |
+| 400,000¥ | 20 |
+| **Total Building Point Cost** | **102** |

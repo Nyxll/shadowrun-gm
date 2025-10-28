@@ -1,0 +1,1243 @@
+# ARCHTYPES
+## BODYGUARD
+
+**Quotes:**
+
+>"You blow it once in my line of work and you probably ain't never gonna work again. Who's gonna hire you if they know you blew it and a client got geeked? Reputation is everything."
+>"If you hire me, you can trust me. My eyes see everything, my ears hear everything, but I don't remember anything you want me to forget. That's part of my job. If you don't believe me, what's the point of me working for you?"
+>"Hire me, and you can sleep easy. You're safe in my hands. Nobody gets near you, and if they try, I'll take care of them. I can play it as soft or hard as you want."
+>"I'll do anything you say, except when the drek starts to fly. That's when you do exactly as I say. If I say jump, you jump. If I say run, you run. When your life's in danger, it's my brawl game."
+
+**Commentary:**
+The bodyguard is a professional, and personal protection is his specialty. His job can be as boring as guarding a reclusive, housebound computer programmer, or as exciting as protecting the latest sweet young simsense star during her first whirlwind tour of Europe.
+
+***
+
+### Attributes
+* **Body:** 6 (9)
+* **Quickness:** 6
+* **Strength:** 5
+* **Charisma:** 3
+* **Intelligence:** 5
+* **Willpower:** 5
+* **Essence:** 0.2
+* **Reaction:** 5 (9)
+* **Initiative:** 9 + 3D6
+
+***
+
+### Skills
+* Car: 6
+* Firearms: 6
+* Negotiation: 4
+* Stealth: 2
+* Unarmed Combat: 6
+
+***
+
+### Dice Pools
+* **Combat:** 8
+
+***
+
+### Cyberware
+* **Air Filtration:** 5
+* **Dermal Plating:** 3
+* **Skillsofts:**
+    * Armed Combat: 3
+    * Bike: 3
+    * Electronics: 3
+    * Rotor: 3
+    * Winged: 3
+    * (4) Specialized Etiquette softs at 3 points each
+* **Skillwire:** 3
+* **Smartlink**
+* **Wired Reflexes:** 2
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* (3) Spare Clips
+* Ares Predator (with smartlink, 50 rounds exploding ammo)
+* Armor Clothing (3/1)
+* Concealed Holster
+* DocWagon Contract (Gold)
+* High Lifestyle (2 months prepaid)
+* Lined Coat (4/2)
+* Pocket Secretary
+* Portable Phone (ear/boosted)
+* Tres Chic Clothing
+* **Starting Cash:** 11,474¥
+
+***
+
+## COMBAT MAGE
+
+**Quotes:**
+
+>"No one argues that the samurai is lord of the physical street, but if you view that as the sum of existence, you are not long for this world."
+>"I am not the average mage. Though I'm interested in all matters arcane, my passion lies in the application of those mystical theories. My lifestyle is expensive, for I cherish all the finer things. One could not enjoy the life I do by poring endlessly through myriad dusty tomes."
+>"I never worry about money, for my services are most useful to those who can pay me what I am worth."
+
+**Commentary:**
+The combat mage is from that elite group of magicians dedicated to applying their magic martially. In a firefight, his sudden appearance can tip the balance. The combat mage is a lean, powerful fighting machine, and more than a match for most samurai. It would be foolish, however, for a combat mage to take on a samurai head-to-head. Guile and subterfuge will always be his most powerful tools.
+
+***
+
+### Attributes
+* **Body:** 2 (3)
+* **Quickness:** 4
+* **Strength:** 2
+* **Charisma:** 2
+* **Intelligence:** 5
+* **Willpower:** 5
+* **Essence:** 5.8
+* **Magic:** 5 (7)
+* **Reaction:** 4
+* **Initiative:** 4 + 1D6
+
+***
+
+### Skills
+* Conjuring: 3
+* Etiquette (Corp): 2
+* Firearms: 3
+* Magical Theory: 4
+* Sorcery: 6
+* Unarmed Combat: 2
+
+***
+
+### Dice Pools
+* **Combat:** 7 (9)
+* **Magic:** 6 (8)
+
+***
+
+### Cyberware
+* **Cybereyes** with Thermographic and Low-Light
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Armor Jacket (5/3)
+* DocWagon Contract (Gold)
+* HK227 SMG (w/laser sight and 50 rounds regular ammo)
+* Middle Lifestyle (1 month prepaid)
+* Power Focus (2)
+* Spell Lock (Armor/2 successes)
+* Spell Lock (Personal Combat Sense/4 successes)
+
+***
+
+### Spells
+* **Combat:**
+    * Manaball: 4
+    * Mana Bolt: 4
+    * Power Bolt: 3
+* **Detection:**
+    * Clairvoyance: 3
+    * Detect Enemies: 2
+    * Personal Combat Sense: 5
+* **Health:**
+    * Heal: 3
+    * Increase Reaction (+2): 2
+* **Manipulation:**
+    * Armor: 3
+    * Confusion: 3
+
+***
+
+* **Starting Cash:** 14,100¥
+
+***
+
+## DECKER
+
+**Quotes:**
+
+>"Technomancer, that's what I am. A wizard with technology, not that fuzzy mumbo-jumbo razz. The mighty computer is at my command, trembling to perform my least wish."
+>"You want some Ice cracked, I'm your girl. I've got programs to slide past the best. You got a shadowrun? No sweat. I've done 'em, and come away clean, too. Ain't no corp tracer or groundhound gonna pick up my trail. I hit 'em sharp and hard, then I'm away and running, a ghost in the Grid. The only touch they'll ever make is my street name, and I'll only let 'em have that if I feel like it."
+>"You'd better have plenty on your credstick, chummer. I ain't cheap. I'm a big leaguer, not some junkyen runner. I'm slick and I'm fast, the cutting edge. The Matrix is my home, and I wouldn't have it any other way. You ain't alive till you've jacked in and seen the electron horizon in cyberspace. I'm going places."
+>"Maybe you've heard of Fastjack? Well, forget him! I'm the hot new decker on the Grid, and I'm gonna put him in the history banks."
+
+**Commentary:**
+The decker is a console cowgirl, a descendent of the computer hacker of the latter part of the 20th century. She jacks into the Matrix to manipulate the dataflows to her own ends while seeking the big score or the trick that will snug her firmly into the annals of the technomancers. She skirts the edges of legality, overstepping them more than occasionally.
+
+***
+
+### Attributes
+* **Body:** 2
+* **Quickness:** 4
+* **Strength:** 3
+* **Charisma:** 1
+* **Intelligence:** 6
+* **Willpower:** 4
+* **Essence:** 5.5
+* **Reaction:** 5 (7)\*
+* **Initiative:** 5 (7)\* + 1D6 (2D6)\*
+
+***
+
+### Skills
+* Bike: 4
+* Computer: 6
+* Computer Theory: 6
+* Computer (B/R): 6
+* Electronics: 6
+* Etiquette (Street): 5
+* Firearms: 3
+* Physical Sciences: 4
+
+***
+
+### Dice Pools
+* **Combat:** 7
+* **Hacking:** 11 (13)\*
+
+***
+
+### Cyberware
+* **Datajack**
+* **Headware Memory:** (30 Mp)
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Fuchi Cyber-4 (with Response Increase 1)
+* **Programs:**
+    * Bod: 5
+    * Evasion: 4
+    * Masking: 4
+    * Sensors: 5
+    * Attack: 6
+    * Browse: 4
+    * Deception: 4
+* Microtronics Workshop; Table-top Personal Computer (100 Mp)
+* Yamaha Rapier
+* Ruger Super Warhawk (with 10 regular rounds)
+* Middle Lifestyle
+* **Starting Cash:** 10,860¥
+
+***
+
+\*Applies in the Matrix only.
+
+***
+
+## DETECTIVE
+
+**Quotes:**
+
+>"They told me you were looking for me. Well, you found me. So turn on the sob story. I got the time. But first, tickle my comp with your credstick. I may have the time, but I haven't got the interest until I know you've got the nuyen. Time takes money, chummer. Just flick the stick into the slot. The box will dump my rates and sheet onto your stick."
+>"The sheet will give you the highlights of my illustrious career: maidens rescued (extra charge for preserving original status), the lost found, the necessary lost, but I don't do erasures. No point in going on. I see by your eyes you've already scanned the sheet. Charlie at the precinct, or did Stevie the Snitch pass it on? Don't really matter. If somebody hadn't given you my name, you wouldn't be looking for me."
+>"Now before we go any further, let me check the cred balance. Whew! You got my interest, all right. What's the job?"
+
+**Commentary:**
+The detective leads a hard life, balanced between the shadows of crime and the harsh glare of corporate and city life. To keep his own code of honor and justice intact, he makes constant compromises to get through the day, or the night. He won't touch magic, though his cases often involve it, and he won't augment his body, though sometimes his resolve puts him at a disadvantage. He'll tell you that a man has to stand on his own feet.
+
+***
+
+### Attributes
+* **Body:** 4
+* **Quickness:** 4
+* **Strength:** 3
+* **Charisma:** 3
+* **Intelligence:** 6
+* **Willpower:** 4
+* **Essence:** 6
+* **Reaction:** 5
+* **Initiative:** 5 + 1D6
+
+***
+
+### Skills
+* Biotech: 2
+* Car: 4
+* Computer: 4
+* Etiquette (Corp): 3
+* Etiquette (Street): 4
+* Firearms: 6
+* Negotiation: 6
+* Stealth: 5
+* Unarmed Combat: 6
+
+***
+
+### Dice Pools
+* **Combat:** 7
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (6) Contacts
+
+***
+
+### Gear
+* Ares Predator (with 10 rounds)
+* Armor Vest (2/1)
+* Ford Americar (weather-beaten)
+* Low Lifestyle (1 month prepaid)
+* Micro-Recorder
+* Sony Pocket Secretary
+* Walther Palm pistol (with 10 rounds)
+* **Starting Cash:** 12,311¥
+
+***
+
+## DWARF MERCENARY
+
+**Quotes:**
+
+>"Oh, har-har, I get it. That was a joke, right? I've got news for you, chummer. When I pull the trigger on my FN-HAR, I ain't gonna be the one knocked across the room."
+>"If it's been a hot spot, I've vacationed there. Got the tan and the scars to prove it. Wanna see my passport? Which one?"
+>"You've got my last six personal efficiency reports in front of ya, with not a smudge of red ink on any of them. They're certified. If I'd doctored them, you'd know about it. Keep questioning my integrity, though, and they'll be covered in red."
+>"You know my rates. We got a deal or what?"
+
+**Commentary:**
+The dwarf mercenary, though a rarity among the corporate armies of the world, is nonetheless a stalwart professional. His size is an advantage in rough terrain where a normal-sized merc would get bogged down or hung up. Too many short jokes, however, and he'll hang you out to die.
+
+***
+
+### Attributes
+* **Body:** 6
+* **Quickness:** 3
+* **Strength:** 5
+* **Charisma:** 2
+* **Intelligence:** 3
+* **Willpower:** 4
+* **Essence:** 5.5
+* **Reaction:** 3
+* **Initiative:** 3 + 1D6
+
+***
+
+### Skills
+* Car: 4
+* Etiquette (Mercenary): 2
+* Firearms: 6
+* Gunnery: 5
+* Stealth: 4
+* Throwing: 4
+* Unarmed Combat: 5
+
+***
+
+### Dice Pools
+* **Combat:** 4
+
+***
+
+### Cyberware
+* **Smartlink**
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Armor Clothing (3/1)
+* (2) Defensive Hand Grenades
+* FN-HAR Assault Rifle (100 rounds and laser sight)
+* Low Lifestyle
+* **Starting Cash:** 10,154¥
+
+***
+
+**Notes:** Natural thermographic vision, +2 Body for disease resistance only
+
+***
+
+## ELVEN DECKER
+
+**Quotes:**
+
+>"They say the Awakened have no touch for technology. Well, short, squat, and ill-favored, don't believe everything you hear on the street. I am living proof that a metahuman, especially an elf, can ride the Matrix and bend it to his will."
+>"I am a technomancer, and there isn't a drop of the Rain Dance in the magic I do. My spells are programs, offering reliability no spellworm can boast. My wand is my datajack, portal to the glittering scenery of the Matrix. My conjurings are electrons slaved to my will under the drivers of my elegant and sophisticated software. You will find no better."
+>"So, tell me what it is you wish me to do. If it piques my interest, I will essay the task and complete it to my satisfaction, which shall certainly exceed your requirements."
+>"There will, of course, be a fee."
+
+**Commentary:**
+The elven decker seems, at first, a contradiction in terms. He is living proof that metahumans cannot be stereotyped, and he will be the first to tell you that not all elves live in the woods. Magic has no attraction for him, and although he has the superior attitude of his brethren in the wilderness, he has little use for their customs and practices. He is happy living in the modern technical world.
+
+***
+
+### Attributes
+* **Body:** 2
+* **Quickness:** 5
+* **Strength:** 2
+* **Charisma:** 5
+* **Intelligence:** 5
+* **Willpower:** 4
+* **Essence:** 5.5
+* **Reaction:** 5 (7)\*
+* **Initiative:** 5 (7)\* + 1D6 (2D6)\*
+
+***
+
+### Skills
+* Bike: 3
+* Computer: 5
+* Computer Theory: 5
+* Etiquette (Elven): 2
+* Etiquette (Street): 2
+* Firearms: 3
+
+***
+
+### Dice Pools
+* **Combat:** 7
+* **Hacking:** 10 (12)\*
+
+***
+
+### Cyberware
+* **Datajack**
+* **Headware Memory:** (30 Mp)
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Fuchi Cyber-4 (with Response Increase 1)
+* **Programs:**
+    * Bod: 5
+    * Evasion: 4
+    * Masking: 4
+    * Sensors: 5
+    * Attack: 6
+    * Browse: 4
+    * Deception: 4
+* Microtronics Workshop; Table-top Personal Computer (100 Mp)
+* Yamaha Rapier
+* Ruger Super Warhawk (with 10 regular rounds)
+* Middle Lifestyle
+* **Starting Cash:** 10,860¥
+
+***
+
+**Notes:** Natural low-light eyes.
+\*Applies only in the Matrix.
+
+***
+
+## FORMER COMPANY MAN
+
+**Quotes:**
+
+>"Let's get one thing understood. I'm a freelancer. I don't work for them anymore. I don't care what you heard about the dust-up over at Aztechnology last month. That wasn't me. I'm a pro. Only amateurs make that big a noise. Besides, nobody saw me."
+>"So you're looking for somebody who can do a job and keep his mouth shut? You don't have to look any further. I did a good job for them, and I'll do the same for you. We'll get along just fine as long as you remember one thing: I don't talk about them. Ever. That kind of talk is more trouble than a Beretta full-auto flechette gun shoved in your belly."
+>"I did learn one thing when I was working the corp. You don't play without a little quid pro quo, ya know. If I can't do it for you, I know somebody who can. So let's talk price and details. I'm sure we can come to a working arrangement."
+
+**Commentary:**
+The former company man has had his eyes opened to the nature of the corporation he served for so long. Disgusted by the corruption he uncovered, he quit. He is still haunted by his former employers and deeds, but is trying to bury the past. Making a new life is hard. He has little to offer except the skills he used in the company's behalf. He doesn't like it, but he uses them. Some day, he'll retire completely.
+
+***
+
+### Attributes
+* **Body:** 4
+* **Quickness:** 4 (5)
+* **Strength:** 4 (5)
+* **Charisma:** 2
+* **Intelligence:** 3
+* **Willpower:** 3
+* **Essence:** 1.3
+* **Reaction:** 4 (8)
+* **Initiative:** 8 + 3D6
+
+***
+
+### Skills
+* Car: 6
+* Computer: 3
+* Demolitions: 2
+* Etiquette (Corp): 4
+* Firearms: 6
+* Stealth: 4
+* Unarmed Combat: 6
+
+***
+
+### Dice Pools
+* **Combat:** 5
+
+***
+
+### Cyberware
+* **Datajack**
+* **Muscle Replacement:** (1)
+* **Smartgun Link**
+* **Wired Reflexes:** (2)
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Armor Clothing (3/0)
+* Armor Jacket (5/3)
+* Bug Scanner (4)
+* Earplug Phone with Booster
+* Eurocar Westwind 2000
+* Fichetti Pistol (with internal smartlink, 100 regular rounds)
+* HK227 SMG (with internal smartlink, 100 regular rounds)
+* Jammer (4)
+* Low-Light Goggles
+* Medkit
+* Survival Kit
+* (2) Tranq Patch (5)
+* Trauma Patch
+* White Noise Generator (6)
+* **Starting Cash:** 17,780¥
+
+***
+
+## FORMER WAGE MAGE
+
+**Quotes:**
+
+>"You would do well to withdraw your questions as to why I left my former employ. I will not satisfy your curiosity. Ask my old boss if you want to know."
+>"But let us not sour a mutually profitable arrangement over such trivia. While my refusal to speak of the past may seem inconvenient and perhaps a trifle disconcerting, I assure you that I bring no tail behind me. I am a free agent, and am quite capable of keeping any threads from my past from tangling your schemes."
+>"We are all aware of the state of the world and the changes that are the legacy of our grandfathers' time. I assume that your concerns touch on some of these changes, at least in part. You need a competent mage, well-versed in the fine points of magic."
+>"Tell me your problem. Once I know what it is, I can begin to solve it."
+
+**Commentary:**
+The former wage mage has had her eyes opened to the nature of the corporation she served for so long. Disgusted by the corruption she uncovered, she quit. She is still haunted by her former employers and the perversion of the magic she performed for their benefit. She wants to forget the past and make a new life. She has the skills she used in the company's behalf and uses them, more positively she hopes, to do good. Some day, the scales will be balanced, and she will be able to rest.
+
+***
+
+### Attributes
+* **Strength:** 1
+* **Quickness:** 3
+* **Body:** 2
+* **Charisma:** 1
+* **Intelligence:** 6
+* **Willpower:** 4
+* **Essence:** 6
+* **Magic:** 6
+* **Reaction:** 4
+* **Initiative:** 4 + 1D6
+
+***
+
+### Skills
+* Conjuring: 6
+* Etiquette (Corp): 5
+* Firearms: 3
+* Magical Theory: 6
+* Negotiation: 2
+* Psychology: 2
+* Sorcery: 6
+
+***
+
+### Dice Pools
+* **Combat:** 6
+* **Magic:** 6
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Armor Clothing (3/0)
+* **Computer Media Hermetic Library**
+    * Conjuring: 3
+    * Magical Theory: 3
+    * Sorcery: 3
+* Data Display with 60 Mp of storage
+* Ruger Super Warhawk (w/10 rounds of ammo)
+
+***
+
+### Spells
+* Choose one orientation from the following:
+    * **Fighter:**
+        * Fireball: 5
+        * Mana Bolt: 6
+        * Powerball: 6
+        * Sleep: 5
+    * **Healer:**
+        * Antidote M Toxin: 2
+        * Heal: 3
+        * Cure M Disease: 4
+        * Detox M Toxin: 3
+        * Heal: 6
+        * Hibernate: 4
+        * Treat: 6
+    * **Prowler:**
+        * Analyze Device: 5
+        * Chaotic World: 5
+        * Clairvoyance: 4
+        * Entertainment: 3
+        * Mask: 3
+        * Sleep: 5
+
+***
+
+* **Starting Cash:** 11,100¥
+
+***
+
+## GANG MEMBER
+
+**Quotes:**
+
+>"You don't look so tough to me, but that's okay. Whadd'ya expect from some liner who ain't run with my gang? You looking for tough? You got it right here."
+>"There's only one real power in this part of the 'plex. We know the streets, and the people know us. This is our turf. Gang turf! And we protect it. You want a piece of us, you know where to find us. That is, if you're stupid enough to try."
+>"Anything you need on the street, you come to me. Just remember, you burn me, the gang burns you. Simple law of the 'plex, chummer. We take care of our own."
+
+**Commentary:**
+The gang member may be young, but he is old in the ways of life in the metroplex. He is a survivor, a predator of the concrete jungle. He is tough, smart, and confident.
+
+***
+
+### Attributes
+* **Body:** 5
+* **Quickness:** 6
+* **Strength:** 5
+* **Charisma:** 6
+* **Intelligence:** 4
+* **Willpower:** 4
+* **Essence:** 5.7
+* **Reaction:** 5
+* **Initiative:** 5 + 1D6
+
+***
+
+### Skills
+* Armed Combat: 4
+* Bike: 3
+* Etiquette (Street): 4
+* Firearms: 4
+* Projectile Weapons: 3
+* Stealth: 3
+* Unarmed Combat: 3
+
+***
+
+### Dice Pools
+* **Combat:** 7
+
+***
+
+### Cyberware
+* **Hand Razors**
+* **Cybereyes** with Low-Light
+
+***
+
+### Contacts
+* Choose (4) Contacts
+
+***
+
+### Gear
+* Knife
+* Simsense Player and Half a Dozen Sense Chips
+* Squatter Lifestyle
+* Streetline Special Pistol (with 10 regular rounds)
+* Synth-leathers (0/1)
+* Yamaha Rapier
+* **Starting Cash:** 11,647¥
+
+***
+
+**Notes:** The gang member can call on 2D6 other members for help.
+
+***
+
+## MERCENARY
+
+**Quotes:**
+
+>"We're all businessmen, right? We both work for a living, don't we? I got bills to pay, just like you. Only difference is, you work with a cyberdeck. I work with an Uzi III."
+>"Look, my record's good. Three years in the corp's first-run circuit and a clean two with the Aztlan Third Legion. No demotions or discipline problems logged in my jacket. Huh? Don't give me that stuff about doctored records. I'm telling you my record's clean. I can do your job quiet, or I can do it loud. Either way, I'll get results, and that's what you want, isn't it?"
+>"Thought so. Now, let's talk price."
+
+**Commentary:**
+The merc is a tough veteran who has seen combat in every corner of the world. He'll work for the corp, the policlubs, a petty dictator, or a noble revolution, as long as he gets paid. The contract is all that matters. Receiving payment on a job has never been a problem for him. No employer would dare to renege on a merc contract.
+
+***
+
+### Attributes
+* **Body:** 5
+* **Quickness:** 4
+* **Strength:** 5
+* **Charisma:** 3
+* **Intelligence:** 4
+* **Willpower:** 3
+* **Essence:** 3.4
+* **Reaction:** 4 (6)
+* **Initiative:** 6 + 2D6
+
+***
+
+### Skills
+* Armed Combat: 6
+* Car: 4
+* Demolitions: 3
+* Firearms: 6
+* Gunnery: 4
+* Military Theory: 2
+* Rotor: 3
+* Stealth: 3
+* Throwing: 3
+* Unarmed Combat: 6
+
+***
+
+### Dice Pools
+* **Combat:** 5
+
+***
+
+### Cyberware
+* **Cybereyes** with Low-Light
+* **Radio Receiver**
+* **Wired Reflexes:** 1
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Ares Predator (with external smartlink, 20 rounds regular ammo)
+* Armor Jacket (5/3)
+* Ingram Valiant LMG (with external smartlink, 100 rounds regular ammo)
+* Knife
+* Smart Goggles
+* Throwing Knife
+* **Starting Cash:** 12,750¥
+
+***
+
+## RIGGER
+
+**Quotes:**
+
+>"We were screaming down the dunes when Oldfield's t-bird lifted skirts. Fool thought we had cleared the sight line for their AVMs. Paid for his stupidity. Cost the company two mil on that bird. Oldfield never could slide her down the path the way a rigger's got to. We pulled it out, though. I canceled the rocket team with a twitch of the old trigger muscle and roared my turtle past their sec teams and scrambled the reins before they could hit the main force. Got a nice bonus for that scrap. Good ratings on the first-run circuit, too. Old EBM2 appreciates quality workmanship. Just wanted you to understand what kind of quality you're talking to here."
+>"Most people don't understand us riggers. Never will, I suppose. You just have to feel it, the adrenalin rush when you rev the old turbines, the air howling over your hull. Ain't nothing like it."
+
+**Commentary:**
+The rigger is a specialized breed of console cowgirl. She trades all normal sensations for the input of a cybernetic link-up, typically to a vehicle or a security system. Jacked into her vehicle, the revving of the engine becomes her heartbeat, and the flow of fuel the adrenalin rush. Here she is one with her machine; yet at the end of a run she can separate her perceptions from the machine and walk away without giving it another thought.
+
+***
+
+### Attributes
+* **Body:** 5
+* **Quickness:** 6
+* **Strength:** 4
+* **Charisma:** 4
+* **Intelligence:** 6
+* **Willpower:** 5
+* **Essence:** 1.35
+* **Reaction:** 6 (10)\*
+* **Initiative:** 6 (10)\* + 1D6 (3D6)\*
+
+***
+
+### Skills
+* Bike: 4
+* Car: 5
+* Computer: 3
+* Electronics: 3
+* Etiquette (Corp): 1
+* Firearms: 2
+* Gunnery: 4
+* Ground Vehicles (B/R): 2
+
+***
+
+### Dice Pools
+* **Combat:** 8
+* **Control:** 6 (10)\*
+
+***
+
+### Cyberware
+* **Cybereyes** with Low-Light, Flare Protection, and Thermographic Imaging
+* **Datajack**
+* **Radio**
+* **Smartlink**
+* **Vehicle Control Rig:** 2
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* (2) Surveillance Drones (rigged, with remote gear)
+* Ares Predator (with external smartlink, 20 rounds regular ammo)
+* Armor Jacket (5/3)
+* DocWagon Contract (Platinum)
+* Eurocar Westwind 2000 (rigged, with concealed LMG, 1,000 rounds of belted ammo, and a two-shot Missile Launcher (2 AVMs))
+* Hunter-Spotter Drone (with 2 LMGs and 1,000 rounds of regular belted ammo; remote gear, rigged)
+* Middle Lifestyle
+* Patrol Vehicle (with 2 LMGs and 1,000 rounds of regular belt-fed ammo; remote gear)
+* Remote Control Deck (with three slave ports)
+* **Starting Cash:** 10,315¥
+
+***
+
+\*Applies only when rigged.
+
+***
+
+## SHAMAN
+
+**Quotes:**
+
+>"I am the one you seek. Step closer. Do not be afraid. My medicine is strong, but you will not be harmed if you have no evil intentions toward me."
+>"I knew you were coming. My totem whispered it to me. It is always need that brings them to me. Speak of your desire, that I may gauge your intent."
+>"If your desire is in accord with the land and the spirits, I can help you. Those who aid and guide me can then be called to come to your aid. There will be a price, but it shall be a just price suited to what is done and what you can pay."
+
+**Commentary:**
+The shaman treads the path of the spirits. Festooned with fetishes and the implements of his trade, he walks the land, in tune with its spirit and seeking to preserve its harmony. More than the ordinary mage, he abhors the encroachment of technology, especially that which invades the body.
+
+***
+
+### Attributes
+* **Body:** 3
+* **Quickness:** 3
+* **Strength:** 3
+* **Charisma:** 5
+* **Intelligence:** 4
+* **Willpower:** 6
+* **Essence:** 6
+* **Magic:** 6
+* **Reaction:** 3
+* **Initiative:** 3 + 1D6
+
+***
+
+### Skills
+* Armed Combat: 3
+* Conjuring: 6
+* Etiquette (Tribal): 4
+* Magical Theory: 3
+* Sorcery: 5
+* Stealth: 3
+
+***
+
+### Dice Pools
+* **Combat:** 6
+* **Magic:** 5
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Knife
+* Leather Clothing (0/2)
+* Medicine Lodge Materials: 2
+* Street Lifestyle
+
+***
+
+### Spells
+* Choose one of the following orientations:
+    * **Fighter:**
+        * Mana Bolt: 4
+        * Powerball: 6
+        * Sleep: 5
+    * **Deceiver:**
+        * Chaos: 4
+        * Confusion: 5
+        * Entertainment: 3
+        * Mask: 3
+    * **Healer:**
+        * Heal: 6
+        * Hibernate: 4
+        * Treat: 5
+    * **Detector:**
+        * Analyze Device: 4
+        * Clairvoyance: 3
+        * Detect Enemies: 3
+        * Detect Magic: 5
+
+***
+
+* **Starting Cash:** 10,315¥
+
+***
+
+**Note:** A shaman must select a wilderness totem. See the Magic chapter for details.
+
+***
+
+## STREET MAGE
+
+**Quotes:**
+
+>"The streets are where the life is. Life, ya know. The very stuff of magic."
+>"Those wage mages caught in the corporate rat race just don't understand. You got the power, you take it out and use it. For yourself. For the people. Slotting the clock to turn nuyen for the corp is like selling your body, chummer. You prostitute the magic."
+>"I tried their way for a while, you know. But my eyes got opened when I saw the suits and the clock like a tombstone for the future. They didn't have anything to teach me, so I flew. Got out where the life is. They shook their wise old heads and invoked the mighty bottom line. What fossil brains!"
+>"Look around you. It's life, you know. We're all a part of it, and it's the real power. I'm going to ride that power, chummer. All the way to the heavens."
+
+**Commentary:**
+The street mage has left the path of rigorous magical study, seeking his own path of enlightenment and perfection at street level. He has all the heart, energy, and stubbornness of youth. He knows his way will change the world for the better, even if he must engage in activities that seem to contradict his goals. He is sure that everything will all work out in the end.
+
+***
+
+### Attributes
+* **Body:** 3
+* **Quickness:** 3
+* **Strength:** 2
+* **Charisma:** 3
+* **Intelligence:** 4
+* **Willpower:** 5
+* **Essence:** 6
+* **Magic:** 6
+* **Reaction:** 3
+* **Initiative:** 3 + 1D6
+
+***
+
+### Skills
+* Bike: 2
+* Conjuring: 6
+* Etiquette (Street): 4
+* Firearms: 2
+* Magical Theory: 5
+* Sorcery: 6
+* Stealth: 3
+* Unarmed Combat: 2
+
+***
+
+### Dice Pools
+* **Combat:** 6
+* **Magic:** 6
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Armor Clothing (3/0)
+* Ritual Sorcery Materials (4 Points for Detect or Illusion Spells)
+* Streetline Special Pistol (with 10 rounds regular ammo)
+
+***
+
+### Spells
+* Choose one orientation from the following:
+    * **Fighter:**
+        * Mana Bolt: 4
+        * Powerball: 6
+        * Sleep: 5
+    * **Deceiver:**
+        * Chaos: 4
+        * Confusion: 5
+        * Entertainment: 3
+        * Mask: 3
+    * **Healer:**
+        * Heal: 6
+        * Hibernate: 4
+        * Treat: 5
+    * **Detector:**
+        * Analyze Device: 4
+        * Clairvoyance: 3
+        * Detect Enemies: 3
+        * Detect Magic: 5
+
+***
+
+* **Starting Cash:** 10,300¥
+
+***
+
+## STREET SAMURAI
+
+**Quotes:**
+
+>"The streets may look like a mess to you, chummer. Just shows that you ain't got eyes. Maybe you should take a trip to Chiba. I hear they got a pair for everybody, so they must have a set for you. Let you see it up close, real time. Like I do. I see the streets as the land of opportunity for a charger. Possibilities everywhere for a guy with an edge."
+>"What's my edge, you ask. Slot me if I'll spill to you just for the asking! Oh, I've got my edge all right. I'm still blowing air past my teeth, ain't I? That's all the credentials a guy in my business needs."
+>"I've done shadowruns since ... well, never mind since when. I may be a street samurai, but I've got enough experience to handle your work. What is it? Muscle down? Lift? Or just a straight-out raid? Hum, your turn to keep it close. That's okay. I can respect that. But you keep something from me that I need to know, and you'll find out just how sharp my edge is. Didn't think you'd like that."
+
+**Commentary:**
+The street samurai can be male or female, but sex has nothing to do with how tough a street samurai is. Born to the metroplex, he's as tough as its alloy steel bones and as dangerous as ground glass. His augmentations are more than just tools to him; they are his style, his badge of commitment to the hi-tech life of the city. He's chromed and proud of it. Bodyguard or strongarm man, hired muscle or street soldier, he's a lion of the plex, a hunter in the shadows.
+
+***
+
+### Attributes
+* **Body:** 6 (8)
+* **Quickness:** 4 (5)
+* **Strength:** 6 (7)
+* **Charisma:** 2
+* **Intelligence:** 5
+* **Willpower:** 5
+* **Essence:** 0.1
+* **Reaction:** 5 (9)
+* **Initiative:** 9 + 3D6
+
+***
+
+### Skills
+* Armed Combat: 3
+* Bike: 2
+* Etiquette (Street): 4
+* Firearms: 5
+* Stealth: 4
+* Unarmed Combat: 6
+
+***
+
+### Dice Pools
+* **Combat:** 7
+
+***
+
+### Cyberware
+* **Cybereyes** with Low-Light
+* **Dermal Plating:** 2
+* **Muscle Replacement:** 1
+* **Retractable Hand Razors**
+* **Smartlink**
+* **Wired Reflexes:** 2
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Data Display (100 Mp of memory)
+* Armor Jacket (5/3)
+* Ares Predator (with external smartlink, 50 rounds of regular ammo)
+* DocWagon Contract (Platinum)
+* Harley Scorpion
+* Stun Baton
+* Uzi III (with external smartlink, sound suppressor, 100 rounds of regular ammo)
+* Wrist Phone with flip-up screen
+* **Starting Cash:** 17,270¥
+
+***
+
+## STREET SHAMAN
+
+**Quotes:**
+
+>"Others will tell you that only on the land may you find the spirits who guide and nurture. They are sadly wrong. They cling too fervently to the old ways, the old tales. The future calls to all of us, and we must walk new paths to reach it."
+>"I have found the spirits of the city, and they have power. They lend their power to me, that I can work to see the new paths, that I can walk strong and proud to meet the future."
+>"Talk to me of your problems. If there is a harmony with my path, I can help you. Those who aid and guide me can be called to your aid. There will be a price, but it shall be a just price suited to what is done as well as your ability to pay."
+
+**Commentary:**
+The street shaman walks the path of the spirits. Festooned with fetishes and the implements of his trade, he haunts the metroplex, in tune with its spirit and seeking to preserve its harmony. Unlike the ordinary shaman, he does not abhor the encroachment of technology, although he finds no personal solace in the fruits of the manufactured world. Like all magicians, he avoids all technology which invades the body.
+
+***
+
+### Attributes
+* **Body:** 4
+* **Quickness:** 3
+* **Strength:** 2
+* **Charisma:** 5
+* **Intelligence:** 4
+* **Willpower:** 6
+* **Essence:** 6
+* **Magic:** 6
+* **Reaction:** 3
+* **Initiative:** 3 + 1D6
+
+***
+
+### Skills
+* Conjuring: 5
+* Etiquette (Street): 3
+* Firearms: 3
+* Magical Theory: 5
+* Sorcery: 5
+* Stealth: 3
+
+***
+
+### Dice Pools
+* **Combat:** 6
+* **Magic:** 5
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* Medicine Lodge Materials (1)
+* Medkit
+* Ruger Super Warhawk (with 10 rounds regular ammo)
+
+***
+
+### Spells
+* Choose one orientation from the following:
+    * **Fighter:**
+        * Mana Bolt: 4
+        * Powerball: 6
+        * Sleep: 5
+    * **Deceiver:**
+        * Chaos: 4
+        * Confusion: 5
+        * Entertainment: 3
+        * Mask: 3
+    * **Healer:**
+        * Heal: 6
+        * Hibernate: 4
+        * Treat: 5
+    * **Detector:**
+        * Analyze Device: 4
+        * Clairvoyance: 3
+        * Detect Enemies: 3
+        * Detect Magic: 5
+
+***
+
+* **Starting Cash:** 11,305¥
+
+***
+
+**Note:** A street shaman must select an urban totem. See the Magic chapter for details.
+
+***
+
+## TRIBESMAN
+
+**Quotes:**
+
+>"The land is the life of the world. For too many years, we have forsaken our proper role, abandoned our task as guardians. This is our shame. We must now take up the mantle again. The shamans understand this. They are wise men."
+>"Years ago, the Great Ghost Dance promised our fathers salvation. It was so, but not as our fathers foresaw it. The Great Spirit has a deeper plan. He has given us much to aid us in our work. We must provide the rest. We will only see the land prosper if we work to aid it. The old ways are forever gone, but that is not bad. There are new ways now, but that too is not bad. We walk a path between the old and the new; a path of our own choosing, one that will lead us to greatness and the fulfillment of our dreams as long as we do not neglect or forsake the land."
+>"I walk now in the shadows of the towers of steel and glass rather than the shadow of the trees. It is a stalker's path, sometimes a warrior's path. Always I strive to make it a path of honor and wisdom."
+
+**Commentary:**
+The tribesman is a member of one of the local tribes, possibly metahuman, scattered throughout the wilderness. He believes in the sanctity of the land and of the body.
+
+***
+
+### Attributes
+* **Body:** 5
+* **Quickness:** 5
+* **Strength:** 5
+* **Charisma:** 5
+* **Intelligence:** 5
+* **Willpower:** 5
+* **Essence:** 6
+* **Reaction:** 5
+* **Initiative:** 5 + 1D6
+
+***
+
+### Skills
+* Armed Combat: 5
+* Biology: 3
+* Biotech: 3
+* Etiquette (Tribal): 4
+* Projectile Weapons: 6
+* Stealth: 6
+* **Special Skills:**
+    * Horseback Riding: 3
+
+***
+
+### Dice Pools
+* **Combat:** 7
+
+***
+
+### Cyberware
+* None
+
+***
+
+### Contacts
+* Choose (2) Contacts
+
+***
+
+### Gear
+* 3 Antidote (4) Patches
+* Binoculars
+* Bow and 20 Arrows
+* Knife
+* Low-Light Goggles
+* Medkit
+* Real Leathers
+* Street Lifestyle
+* Survival Kit
+* Tranq Patch (5)
+* Trauma Patch
+* **Starting Cash:** 12,495¥
+
+***
+
+**Notes:** The tribesman may call on 2D6 members of his tribe for help.

@@ -1,0 +1,12 @@
+{
+  "name": "Show Training Statistics",
+  "description": "Display current training progress and accuracy",
+  "type": "stats",
+  "query": {
+    "select": "SELECT COUNT(*) as total, SUM(CASE WHEN gm_response IS NOT NULL THEN 1 ELSE 0 END) as processed, SUM(CASE WHEN gm_response IS NULL THEN 1 ELSE 0 END) as pending, SUM(CASE WHEN intent = expected_intent THEN 1 ELSE 0 END) as correct, SUM(CASE WHEN intent != expected_intent AND intent IS NOT NULL THEN 1 ELSE 0 END) as incorrect FROM query_logs WHERE is_training_data = TRUE"
+  },
+  "display": {
+    "format": "table",
+    "fields": ["total", "processed", "pending", "correct", "incorrect", "accuracy"]
+  }
+}

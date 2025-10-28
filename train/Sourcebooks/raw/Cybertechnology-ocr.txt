@@ -1,0 +1,3145 @@
+
+COMMUNICATIONS GEAR
+I've lost count of the runs I know of that
+got scragged up by botched communica-
+tions. Get yourselves a decent headware
+comm setup: multi-channel, with signal
+compression/decompression for burst
+transmissions and hot-wire encryption/
+decryption to keep the corpers from listen-
+ing in. A subvocal microphone and subder-
+mal speakers are another must, if you want
+to keep ]. Public from overhearing your nat-
+tering. Stay away from those fraggin' head-
+set microphone combinations-any old
+joker can grab onto those and yank you
+around. Not too inconspicuous, either-a
+bad move in our line of work.
+The best option Is a pure cybernetic
+rig-a cybercomm link that works pretty
+much like telepathy.
+Essence Cost
+Price
+Availability
+Street Index
+Subvocal microphones
+External
+-
+500¥
+3/48 hrs
+1.25
+Internal
+.1
+850¥
+4/72 hrs
+2
+Subdermal speakers
+:1
+650¥
+4/72 hrs
+2
+Cybercomm Link
+.4
+62,000¥
+8/2 weeks
+3
+Subvocal Microphones
+The external unit straps in place at the center of the throat. Either type of microphone adds a +4 modifier to the target number for
+Perception Tests made to overhear conversations using the system. Both units can connect to an external radio transceiver, the external
+unit via fiber-optic cable and the Internal via a datajack (mandatory for such a hookup).
+Subdermal Speakers
+Usually mounted under the skin just behind the ear, these tiny speakers vibrate various bones in the ear to transmit sound. Sound com-
+Ing over them cannot be overheard.
+Cybercomm Link
+The cybercomm link consists of a transducer and a radio transmitter. The transducer translates thoughts Into words, so that the user
+need not speak aloud; the transmitter sends and receives these unspoken Impulses. No external evidence of this system's use is visible or
+audible. Quadruples the number of spoken words allowed in a Free Action (p. 81, SRII).
+
+
+CYBEREYES
+I've had cybereyes awhile, and so do
+more folks than you might think. The top
+sellers are made to look real, so they're
+tough to spot. A drek-load of new cyber-
+eye gear hits the market all the time, some
+of which is pretty handy. If you see two
+versions of something, go for the name
+brand or the more expensive piece; better
+to pay a little more for quality than go
+cheap and have it fail at the worst
+moment. When in doubt, ask around.
+Somebody somewhere probably uses it
+and can give you the clean scan.
+Cybereyes come with cleaning kits; USE
+THEM !!! All the precautions in the fraggin'
+universe won't keep foreign drek out of
+the eye socket, and some of the parts are
+so delicate they can get really fragged up
+that way.
+Wiz but trivial eye gadgets that I like
+include the retinal clock, the image link,
+and protective covers. Covers cut down
+the amount of drek I'll eventually have to deal with, meaning I don't need to clean the eyes as often (especially at inconvenient times!).
+The image link lets me patch in vidphone images, so I can see who I'm talking to right in my field of vision. As for the clock, I just like to
+know what time it is. I'm funny that way.
+Essence Cost
+Price
+450¥
+Availability
+Street Index
+Retinal Clock
+.1
+3/24 hrs
+1
+Image Link
+.2
+1.600¥
+4/48 hrs
+2
+Protective Covers
+0
+500¥
+4/48 hrs
+1.5
+Retinal Clock
+Displays a time/date stamp in the lower right corner of the wearer's field of vision or wherever the user wants. Can be modified for
+region and season and includes a stopwatch style timer and a countdown timer. Accurate to +/- . 0001 seconds per year.
+Image Link
+Allows the display of a vidiphone image within the field of vision and functions as a Display Link (p. 247, SRII).
+Protective Covers
+Protects cyber and normal eyes against impact and particles. Available in standard transparent or one-way reflective material; one-way
+adds 20 percent to the price. At the gamemaster's discretion, covers give 1 point of Impact Armor to the eye area.
+
+
+EYE DATAJACKS
+These wiz little toys deserve special mention. One type is an eye dataport, the other an optical scanning datajack. The dataport sits
+behind the iris of the cybereye, You reach up, apply a little pressure to the iris, and it opens to reveal a standard dataport. This toy is handy
+for sleazing your way into places that someone might try to keep you out of if you happened to be wearing a standard (and visible) data-
+jack. It's tough to tell what's buried in a cybereye without dissecting the whole thing. Drawback is, you end up standing around with your
+eye plugged into something. Very weird-likely to attract attention if anyone happens along.
+The optical scanning datajack includes an emitter unit and a data receptor. The receptor sits In your eye; the emitter you carry around
+(it's no bigger than a silver oxide battery). You stick the emitter unit onto the data-out port on whatever you came hunting for and you look
+at it. The data receptor in your eye reads the laser beam put out by the emitter and decodes the data transmitted over it. Dozens of uses
+for this, neh? It's cutting edge drek, but becoming more available.
+Essence Cost
+Cost
+Availability
+Street Index
+Eye Dataport
+.25
+2,200¥
+6/48 hrs
+2
+Optical Scanning Datajack
+.3
+5,500¥
+8/72 hrs
+3
+Concealability
+Weight
+Availability
+Cost
+Street Index
+Optical Scanning Datajack
+Emitter
+10
+.25
+8/2 weeks
+2,500¥
+2
+
+
+EYE LIGHT SYSTEMS
+Eye lights, another nifty new piece of work, can be either a tool or a weapon. The plain-vanilla light system mounts high-powered,
+low-heat lights in the cybereye that channel a tight, polarized beam outward down a path parallel to the optical center of the eye. An
+amount of light sufficient to see with standard low-light eyes falls wherever the user is looking. The tight beam and polarization minimize
+scatter from the eye, so the light can't be seen unless someone's staring right at you.
+You can also get a nasty, nasty high-intensity BrightLight flash system. Brights come in two intensities; the first is reusable and works
+just like a flash-pak. The second is a one-shot deal until the flash units are replaced; this puppy creates a flash bright enough to overload
+the optic nerves of the poor bastard in front of you, blinding and stunning him at the same time.
+Essence Cost
+Price
+Availability
+Street Index
+Eye Light Systems
+2
+1,200¥
+4/72 hrs
+1.5
+BrightLight Addition
+4
+1.200¥
+8/2 weeks
+3
+w/ Flash-pak
++1,000¥
+8/2 weeks
+3
+each One Shot Flash-pak
+-
++500¥
+8/2 weeks
+3
+
+
+EYE WEAPONS
+There are enough deranged minds in
+the world that somebody had to be work-
+ing on these things. Eye weapons have
+specific and limited uses, and I don't rec-
+ommend them in normal combat situa-
+tions. For one thing, using them tends to
+leave you partially blind, at least for
+awhile. Firing a gun in your eye also inflicts
+quite a few shocks-like some nasty recoil,
+for example- but if you're willing to live
+with that, one of these things might Just
+save your life.
+The two types of eye weapons avail-
+able are a dart and a gun, and they work in
+similar ways. One ammo load sits in the
+eye, and is fired through a hole running
+parallel to the optical axis. When the
+weapon fires, a sheer covering tears away
+and reveals the barrel, The eye dart fires
+Narcoject or toxin rounds; the eye gun
+fires microbullets. And yes, you can install
+these weird gadgets in more than one eye.
+Eye Dart
+Eye Gun
+Essence Cost
+.25
+Price
+4,200¥
+.4
+6.400¥
+Availability
+8/2 weeks
+6/1 week
+Street Index
+2
+3
+Eye Dart
+Fires half-strength (round up) Narcoject/toxin rounds as a hold-out pistol with one-half range (round down). One shot per reload.
+Reloading takes 10 Combat Turns. Rounds cost four times the normal price. Firing requires a Special Skill or Quickness Test. Cannot be linked
+to any kind of aim enhancer. See p. 62, Street Samurai Catalog, for Narcoject weapons; p. 186, SRII, for toxins; and pp. 90, 92, 97,
+Shadowtech, for other compounds. After firing, a character must apply a +2 modifier to all visual tests for a period of (4 - Unaugmented Body)
+Combat Turns, for a minimum of 1 Combat Turn, For rules on the maximum capacity of the orbital socket, see Cyberware Rules, p. 45.
+Eye Gun
+Treat as a hold-out pistol with one-half range (round down), a -1 Damage modifier, and a +1 recoil modifier. One shot per reload.
+Reloading takes 10 Combat Turns, but a successful Biotech Test reduces the reload time by half the character's Quickness. Rounds cost five
+times the normal price. Firing requires a Special Skill or Quickness Test. Cannot be linked to any kind of aim enhancer. After firing, a char-
+acter must apply a +2 modifier for all visual tests for a period of (6 - Unaugmented Body) Combat Turns, for a minimum of 2 Combat Turns.
+
+
+EYE LASER SYSTEMS
+No combat lasers yet, chummers. Gotta wait
+a few more years for those. Wiz drek you can
+get includes laser designators, laser trackers,
+and tool lasers. Word of warning-if someone
+tries to sell you a headware laser sight and
+gun-link system, ignore it. Buy a smartgun
+system or a simple laser sight. Why bother
+with the cost and hassle of putting cyberdrek
+in your head when the tech you can carry
+around works better?
+Laser designators do the targeting work for
+other weapons, Just like the full-size units, but at
+slightly reduced ranges. I know some people
+who've put tracking weapon mounts on vehi-
+cles or drones and slaved them to their eye-laser
+designator frequencies. Interesting technique,
+but it implies a scale of combat I'd rather not
+think about. Me, I'm a hot-flash skirmish man.
+You won't find me at any tactical engagements.
+Laser trackers are laser sights cybernetically tied to a cyberarm that automatically tracks with the sight. The arm tracks exactly where
+you're looking and aims. Very wiz. Tool lasers can create small welds and cut thin objects, but are too low-powered to cause more than
+minimal damage. They have their uses, but don't count on hurting somebody much with one.
+Range (In meters) Essence Cost
+Availability
+Street Index
+Laser Designator
+4,000
+.5
+Price
+12,000¥
+12/1 month
+3
+Laser Tracker
+400
+2
+3,200¥
+8/72 hrs
+2
+Tool Laser
+4
+.25
+5.200¥
+8/1 week
+2
+Laser Designator
+See pp. 60 and 85, Fields of Fire, for more information on laser designators. Maximum range is 1,000 meters.
+Laser Tracker
+Ties into a cyberlimb or external weapon mount and auto-tracks a designated target. This function is built into the unit and does not
+require an additional laser designator.
+Tool Laser
+The tool laser has a Damage Code of 4L. If it is used as a weapon, make Combat Tests using the character's Quickness or a Special
+Skill. These tests have a Base Target Number 4, with a +1 modifier to the target number for each meter or part thereof beyond 1. The Power
+of the attack is -1 against targets up to two meters away and -2 against targets up to four meters away. Will not penetrate reflective met-
+als or silvered glass, but can cut mirrored plastics.
+
+
+CYBERCAR ACCESSORIES
+Compared to eyes, cyberears are sim-
+ple. The market's pretty saturated with
+cyberear drek already, but I know of a cou-
+ple of interesting toys. The first is a spatial
+recognizer, which improves on nature's
+ability to tell where a sound is coming
+from. This thing helps you locate the
+source of what you're hearing-always
+useful when you're trying to place how far
+behind you the pounding footsteps are, or
+the location of the sniper whose foot you
+just heard scraping against the side of a
+chimney. It's especially handy in situations
+where you might be fooled by echoes.
+Another nifty cyberear gadget aug-
+ments the inner ear's natural balance sen-
+sors. A friend of mine has one, and I've
+seen him do some pretty amazing things.
+He was pretty athletic even before he got
+the balance augmentor, but now he can
+jump around and swing from things and
+hardly ever fall down. He doesn't even
+wobble for a second, except under rare
+circumstances. My buddy also tells me the
+gadget makes it harder for him to deliber-
+ately fall down or throw himself off bal-
+ance. He had to train himself to do that all
+over again. Weird.
+Essence Cost
+Spatial Recognizer
+.2
+.4
+Price
+1,200¥
+Balance Augmentor
+14,000¥
+Availability
+4/48 hrs
+8/2 weeks
+Street Index
+2
+2
+Spatial Recognizer
+This cyberear accessory reduces the target numbers for Perception Tests based primarily on sound location by -2 whenever a charac-
+ter attempts to track something by listening for movement. For additional rules in cases of restricted vision, see Cyberware Rules, p. 46.
+Balance Augmentor
+This device reduces the target numbers by -2 for any Skill Tests involving balance, such as climbing, walking across a narrow platform,
+landing after a jump, and so on. It also applies a -2 modifier in the character's favor to avoid Knockdown (see pp. 91-92 and p. 103, SRII).
+
+
+ORAL WEAPONS
+Never mind the obvious jokes-some of these actually
+work and might save your lousy hides someday. Oral darts,
+guns, spurs and whips may sound weirder than a cross
+between a hellhound and a toy poodle, but they have their
+uses. The oral dart and the oral gun work pretty much the
+same. Each one stores a few rounds of ammo in a cavity in
+the roof of the mouth, and each has a safety to keep them
+from firing unless the user's mouth is open. The dart fires
+mini-Narcoject or toxin rounds, the gun microbullets. As
+bizarre as these sound, the sheer surprise value may be
+worth it for some. I've never used either of them, but friends
+of mine have.
+The spur and the whip I find so weird as to be useless.
+but others may disagree, The oral spur is misnamed, I think.
+Maybe the slots who make this thing couldn't stomach the
+thought of marketing an oral ram. The spur's pneumatic trig-
+ger uses your own lungs plus some pumps-just prime the system and WHAM. The whip also has a pneumatic, self-priming trigger-and
+no, you can't get a mono-whip version. Just imagine how much fun that would be to use, neh? Anyone for slicing off his own nose?
+Essence Cost
+Price
+Availability
+Street Index
+Oral Dart
+.25
+3,600¥
+6/1 weeks
+2
+Oral Gun
+.4
+5,600¥
+6/72 hrs
+3
+Oral Spur
+.25
+8,200¥
+6/72 hrs
+2.5
+Oral Whip
+.25
+10,500¥
+8/1 week
+2.5
+Oral Dart
+Fires Narcoject/toxin rounds at hold-out pistol ranges. Can hold three darts before reloading, which takes 1 minute per dart. Ammo
+costs double the standard price. Use a Special Skill or Quickness for the Ranged Combat Test. Cannot be linked to aim enhancers.
+Oral Gun
+Treat as a hold-out pistol with a total of four shots. Reloading takes one minute per shot. Ammo costs triple the standard price. Use a
+Special Skill or Quickness for the Ranged Combat Test. Cannot be linked to alm enhancers.
+Oral Spur
+Treat as a cyberspur: use a Special Skill or Quickness for the Melee Combat Test.
+Oral Whip
+Range equals one meter. Damage is 6M. Use a Special Skill or Quickness for the Ranged Combat Test.
+
+
+TOOTH COMPARTMENT
+The hollow tooth makes a great place to hide small Items or substances. The first model, activated by biting down hard on it, is the one
+where the spies in all the old movie used to store cyanide. Much better uses in our wonderful century Include activating a micro-homing
+beacon hidden in the tooth, and so on. I know a couple of people with these, and I've never heard of anyone setting one off accidentally.
+The second model is for storage only. Microchips are the contraband of choice, though I've heard people use them to smuggle small
+medical samples and the like. These puppies are in tight so they can't be accidentally knocked out. They can only be removed manually,
+and that's no easy task. Most compartment teeth are molars or other biggies at the back of the mouth, to keep them out of harm's way.
+Essence Cost
+Price
+Availability
+Street Index
+Tooth Compartment
+Breakable
+700¥
+3/48 hrs
+1.5
+Storage
+1,500¥
+2/48 hrs
+1.25
+Tooth Compartment
+To break the breakable tooth takes a successful Willpower (2) Test If the contents are non-lethal to the user. If the contents are lethal,
+a Willpower (4) Test is required. Tooth contents take effect immediately. The contents of either type of tooth compartment can be removed
+or replaced in three minutes.
+To remove a storage tooth takes 2 Complex Actions and a successful Quickness (4) Test.
+
+
+CRANIAL BOMBS
+Here's the clean scoop on the ever-
+popular menace most of us know as the
+cortex bomb. Lots of people ask me about
+these nasty things, and I've monitored
+enough conversation pits in the Matrix to
+know how little most folks know about
+them. A cortex bomb is actually just one
+kind of cranial bomb, placed at the base of
+or adjacent to the cerebral cortex where its
+detonation kills the poor slob carrying it.
+Cranial bombs can also be placed else-
+where for different results (all just fraggin'
+lovely).
+The cranial bomb known on the streets
+as a kink bomb is a tiny little fragger, and
+when it goes off you can barely hear it
+unless it's in your own head. Placed near
+the cortex, it kills instantly. Placed adjacent
+to or within headware memory, detona-
+tion destroys said cyberbits and usually
+leaves the poor slob with a king grand-
+daddy of a headache.
+A second kind, the microbomb, is just
+powerful enough to kill the bearer. If
+you're standing next to him, you'll hear it go off and maybe get hit with some gray matter. The third kind, officially called an area bomb
+and affectionately known streetside as the cranial nuke, is a piece of high-grade plastic explosive big enough to have a blast radius. This
+sick puppy kills the bearer and anybody standing too close to him.
+Cranial bombs can be remote or time-detonated. I've even heard of c-bombs hooked up to tiny sound-recognition devices. Say the
+magic word and-BOOM!
+Essence Cost
+Price
+Availability
+Street Index
+Cranial Bombs
+Kink Bomb
+28,000¥
+12/14 days
+1.5
+Microbomb
+65,500¥
+18/48 hrs
+1.25
+Area Bomb
+500,000¥
+20/14 days
+1
+Cranial Bombs
+If built to do so, all cranial bombs will kill the bearer. At the gamemaster's discretion, kink bombs may have a permanent physiologi-
+cal effect such as blindness, stuttering, and so on. Area bombs can be purchased at Power Levels of 3 through 8 and Damage Levels of M
+through D. All reduce their blast effects at a rate of -1 per meter. All kill the bearer regardless of blast size.
+
+
+DERMAL PLATING AND SHEATHING
+This drek's common on the streets and easier to pick out than
+you might think. Watch for bunching when the person in question
+moves. Even the highest-quality, lightest grade sheeting isn't flexible
+enough to move like skin or muscle. (Orthoskin does, but that's
+something else again.)
+Plenty of people mistakenly think of dermal plating as armor in
+the same way that an armored jacket is armor. Dermal plating is actu-
+ally a shock-resistant plastic or semi-metallic fiber weave that distrib-
+utes some of the energy from impacts-including bullets-over a
+larger area. Rather than stopping them, it dissipates their kinetic ener-
+gy as they hit. If you're wearing real armor over your dermals (like
+any smart sam should), the armor has already slowed the offending
+object down sufficiently that the plating's small degree of energy
+dampening actually has an effect.
+Users of dermal armor have probably noticed that natural skin
+doesn't always heal properly where both the skin and the dermal
+armor have been penetrated. Talk to your street doc about that-he'll
+know some ways to fix it. One way of dealing with it is to use a new
+D.M.
+version of dermal plating, known as dermal sheathing, which side-
+steps some of the problems. Dermal sheathing combines the latest
+advances In dermal plating technology with a semi-synthetic skin
+sheath. The result is smoother and less bulky than standard dermal plating, with greater self-regenerative capability.
+Some dermal sheaths use a technology derived from ruthenium polymers, those nifty chem compounds that can change to such a
+wide array of colors with a small voltaic charge. This sheathing gives you variable coloration within a specified range. To make it sturdy
+enough to work well as artificial skin, they combined it with something to stiffen it, so it has nowhere near the flexibility of actual rutheni-
+um polymers. The coloration system works for cyberlimbs too, but that version's a little more expensive. Such is the downside of being a
+chrome god.
+Essence Cost
+Price
+Availability
+Street Index
+Dermal Sheath
+Level 1
+.7
+24,000¥
+6/14 days
+1.5
+Level 2
+1.4
+60,000¥
+6/14 days
+1.5
+Level 3
+2.1
+120,000¥
+8/14 days
+1.5
+Coloration Adaptation
+-
++50%
++2/+4 days
++.25
+Cyber Controller
+.1
+32,000¥
+8/14 days
+1.5
+Dermal Sheath
+The dermal sheath boosts the character's Body Attribute by a number of points equal to the sheath's level plus 1: for example, Level
+2 sheathing adds 3 points. It also provides Impact Armor equal to one-half the level, rounded up. Coloration may be purchased as a cam-
+ouflage pattern (urban, desert, winter, or wilderness), or a solid color (red, green, blue, or black). The coloration intensity can be varied in
+10-percent increments using a hand-control or the cyber-controller. Such devices enable the sheath to function as camouflage clothing (see
+p. 77. Fields of Fire).
+
+
+FINGERTIP COMPARTMENTS
+Most people think of fingertip compartments as a
+place to hide things-especially, god help us, monofila-
+ment whips. I won't deny the value of the concealment
+part. But if you insist on using a monofilament whip,
+please say to yourself "Hatchetman told me so" when you
+cut off one of your own limbs-as you eventually will.
+A fingertip compartment makes a dandy place for
+a datajack. For those who want (or need) to keep the
+presence of their datajack a secret, where better to
+conceal it? (Don't answer that.) The artificial fingertip
+plugs nicely into the jack when you don't need to use
+the ware. Lots of advantages to this one-it's conve-
+nient and fast, with no messy wires to string up or trip
+on. Should an unwanted observer happen to stroll by in
+mid-operation, it's quicker and less conspicuous to
+yank your finger out of wherever you've stuck it than to
+detach and coil a cable.
+You can also hide a needle in a fingertip compartment. Built-in drug injectors might be handy in certain sticky situations, neh? You
+can put pretty much anything you want in that injector, but it can only hold one dose.
+Some wizzer fingertip compartments even come with built-in lock picks. Don't think nobody uses lock picks anymore. Even in this age
+of maglocks and other such devices, simple key-and-tumbler locks are still out there. It can ruin your day to find one, unless you're studly
+enough to tear it off with your teeth (not likely). The lock pick gizmo is mechanical and comes with a micro-expert system. You pop off the
+fingertip cover, stick your finger up against the keyhole, and the picks do the rest.
+Essence Cost
+Price
+Availability
+Street Index
+Fingertip Datajack
+Fingertip ExpertPicks
+Per standard datajack
+18,000¥
+800¥
+8/2 weeks
+4/72 hrs
+3
+Fingertip Needle
+-
+1.5
+All of the above require a fingertip compartment; see p. 249, SRII.
+Fingertip Needle
+Holds one dose of any chemical, poison, toxin, or other appropriate compound. To use the needle, a player character must make a
+successful Unarmed Combat Test. All standard modifiers apply. The needle will not pierce Hardened Armor. Replacing the dose takes two
+minutes.
+Fingertip ExpertPicks
+These lock picks have a Skill Rating of 3, and using them is a Complex Action. Most key-and-tumbler locks have a Rating of 2 or 3
+depending on their complexity. Resolve attempts to open the lock with an Opposed Test between the lock's rating and that of the
+ExpertPicks.
+
+
+CYBERLIMBS
+MO
+I probably get more questions about cyber-
+limbs than anything else because there are so
+many possibilities. I define a cyberlimb as an arm
+or a leg, or a part of one like a hand, a lower arm,
+a lower leg, and so on. I'll talk about basic cyber-
+limbs first, then their possible enhancements.
+After that, I'll give you chapter and verse about
+the magnetic cyberlimb system and the cyberarm
+gyromount (yeah, chumminskis, you read that
+last one right), a couple of wiz new accessories
+with which I'm particularly impressed. Next I'll
+talk weapons, and finally miscellaneous limb
+accessories. (Once you've read all that, what you
+don't know about cyberlimbs won't be worth
+knowing.)
+Those of you thinking about getting your-
+selves a cyberlimb should keep a couple of things
+in mind. A cyberlimb doesn't work in exactly the same way as a real limb, so it has to be anchored differently. Installing a cyberarm usu-
+ally involves additional work on the shoulder, while a cyberleg means work on the hip. A partial limb requires a little tinkering with the rest
+of the arm or leg. Reinforcement is a big part of this work, because cyberlimbs tend to be heavier and stronger than natural limbs. To han-
+dle the increased weight and strength, the connecting joints need beefing up.
+Also, physical inspections are the tough ones when it comes to keeping your cyberarm a secret. Cyberlimbs look natural to all but the
+most expert visual inspections, but there's no way to hide that cyberarm or leg from a knowledgeable person who's poking them.
+Handshakes you can get away with, 'cause lots of people have strong grips. You can also pass through with simple prosthetics most of the
+time, but the cyberlimbs most shadowfolk like are a little too hard for that.
+Essence Cost
+Price
+100,000¥
+Availability
+Street Index
+Cyberarm/Leg
+1
+4/4 days
+1
+Cyberhand/Foot
+.35
+45,000¥
+3/4 days
+1
+Cyber Forearm/Lower Leg
+.65
+70,000¥
++10%
+4/4 days
+1
+Semi-natural Covering
+Same as limb
+1
+Cyberlimbs
+The presence of a cyberlimb adds to the Power of any unarmed combat attack using that limb. See General Rules for Cyberlimbs, p.
+49 of Cyberware Rules. Also, cyberlimbs reduce Essence loss from some types of cyberware. If the cyberware in question exists entirely
+in the limb and has minimal neurological connections, the limb offsets Essence loss somewhat.
+Semi-natural Covering
+This semi-synthetic, natural-looking skin covers the cyberlimb. It adds a +3 modifier to the target number of any visual Perception Tests
+made to notice the cyberlimb. Note that clothing adds an additional +3 modifier at the gamemaster's discretion, based on how much of
+the limb is showing.
+
+
+LIMB ENHANCEMENTS
+If you're willing to pay, you can get vari-
+ous enhancements for your cyberlimbs to
+make them stronger, faster and tougher.
+Enhancements have their limits, however,
+mostly because of how the various enhance-
+ments work together. If you want to make
+your cyberlimbs stronger, faster and tougher
+all at the same time, you'll end up with one
+mean piece of chrome for which you'll have
+paid one nasty hunk of nuyen.
+Why the expense? Think about it. I want
+my limbs stronger, so I pay for heavier lifting
+servos and more powerful pneumatic and flat-
+motor systems. That adds weight and bulk.
+Now that I've got more bulk to move around,
+making the heavier limb move faster means a
+major upgrade to the motion servos-which
+also costs me. To make the limb tougher. I add
+dermal plating or reinforce it some other way.
+once again adding weight and bulk and cost,
+and-you get the idea.
+Simple strength, speed, or toughness
+enhancements are easy enough to handle, up
+to a point-you pay your nuyen and you take
+your choice. Once you've beefed up your
+cyberlimb to the point where its capabilities
+roughly double the human norm, the cost
+escalates, especially if you want anything that
+looks even remotely human. If you can live
+with decidedly cyber-looking cyberlimbs.
+however, you have no problem.
+Essence Cost
+Price
+Availability
+Street Index
+Strength Enhancement
+1-3 points (per limb)
+4+ points (per limb)
+Quickness Enhancement
+.4/point
+175,000¥/point
+6/4 days
+6/4 days
+1.5
+90.000¥/point
+8/4 days
+1.5
+.3/point
+110,000¥/point
+8/4 days
+1.5
+75.000¥/point
+6/4 days
+1.5
+1-3 points (per limb)
+4+ points (per limb)
+Body Enhancement
+150.000¥/point
+1.5
+
+
+MAGNETIC CYBERLIMB SYSTEM
+FILE FOOTAGE
+69
+STAY
+MO
+This system for cyberarms and legs is a series of electro-magnets mounted In the hands, knees and feet. They let you hold on to things
+better-metal things, that is, specifically things made of ferrous metals. (The drek that cyberware and such is made of is right out, chum-
+meroo. Sorry.) With that limitation, some people might pass this gadget up-after all, most metals these days are non-ferrous. In fact, most
+"metals" are actually a semi-metallic polymer compound. However, the mag system still has its uses. There's enough out there that you
+can grab onto to make it worth having. Lots of vehicles, especially trucks and big cars, have enough ferrous metal. So do buildings (beams,
+supports and so on), railings, support cables, and such. A friend of mine with this system has put metal plates in the grips of his guns and
+other weapons. He doesn't drop them anymore.
+Sorry to tell you, though, that the magnetic field generated by the system won't really affect modern electronics. We use mostly light-
+optics these days-you might be able to mess with the power supply, but the effect won't amount to much. These magnets can't even
+erase optical chips.
+Essence Cost
+Price
+Availability
+Street Index
+Magnetic Cyberlimb System
+(per cyberlimb)
+2,800¥
+6/7 days
+2
+Magnetic Cyberlimb System
+Each limb system can only hold about 25 kilograms. Multiple systems are cumulative. The weight the magnets can hold is subtracted
+from the weight of anything being held (see Dangling and Holding, p. 51 of Cyberware Rules).
+
+
+CYBERARM GYROMOUNT
+0
+sony
+sony
+W
+Here's the one the sammie boys are
+twitchin' in the street for-a gyromount IN
+YOUR ARM. Pretty wiz, neh? Some bunch
+of bright techboys brought this puppy to
+market about six weeks ago, so we are
+talking white-drek-hot. Talk about improv-
+ing your firing capability-better balance,
+nowhere near as much recoil from big
+nasty guns-a fraggin' beautiful piece of
+'ware. Want to know the best part? It
+works just like a regular cyberarm! You can
+enhance it and play with it and do pretty
+much whatever you like to it. Okay, now
+for the drawbacks. First, don't even think
+about hiding the fact that this is a cyber-
+arm. The pair of counterweights that come
+out near the wrist when you start to rock-
+and-roll are a dead giveaway, believe me.
+Also, it costs a lot of nuyen. This thing
+costs BIG 'cause it's new and you all want
+it. You REALLY want it, you've got to pay
+for it. Go find a gold mine, folks.
+Here's one more thing you'll find
+useful with a cyberarm gyromount, or any
+other wiz piece of hardware you choose to
+stick in your limbs the direct neural inter-
+face. This ever-so-handy device passes
+data directly from a piece of gear in a
+cyberarm to your brain, giving you cyber-
+netic control of your gyromount/
+gun/whatever.
+Street Index
+Cyberarm Gyromount
+Essence Cost
+1.5
+.1
+Price
+260,000¥
+4,500¥
+Availability
+10/21 days
+4/6 days
+2
+Direct Neural Interface
+1
+Gyromount Cyberarm
+This piece of cyberware works like a standard gyromount and provides 3 points of recoil reduction. It can be used with any weapon
+up to and including a light machine gun.
+Direct Neural Interface
+Allows cybernetic control of any device not originally designed to be cybernetically controlled that is placed in a cyberlimb, at a 50
+percent increase in the device's cost.
+
+
+OTHER CYBERLIMB ACCESSORIES
+SEARCHING
+FOR NETWORK
+2
+MJ
+You have the foot spur, replacement hand, and cyberarm cyberdeck to consider. The foot spur shoots down through the heel of the
+cyberfoot. You can stab somebody with it or anchor yourself to the ground. How well it works depends on what kind of ground you're
+shooting it into. You can get a foot spur for your regular foot, but lots of work has to be done to your ankles and shins so your bones don't
+just snap off near the blade when pressure is applied.
+You see replacement hands in all the stupid trid shows, and I think they belong there. Still, some people must think it's wiz to have a
+hand with a Walther PPK already in it. Me. I'd rather take the half-second to pick up whatever I need.
+The cyberarm cyberdeck is a deck you can install in your cyberarm. Deckers probably love this one. I'm not a decker, so I don't care
+about it. You can also get tactical computers and orientation systems installed in a cyberarm; both are incredibly useful.
+Essence Cost
+Price
+14,000¥
+28.000¥
+Varies*
+Availability
+6/7 days
+12/14 days
+Varies*
+Street Index
+Foot Anchor
+4
+2
+Replacement Hand
+2
+Cyberarm Cyberdeck
+NA
+Tactical Computer
+Level 1
+3.5
+350,000¥
+12/60 days
+4
+Level 2
+4.0
+900.000¥
+12/60 days
+4
+Level 3
+4.5 (Estimated)
+CLASSIFIED
+CLASSIFIED
+CLASSIFIED
+Level 4
+5 (Estimated)
+CLASSIFIED
+CLASSIFIED
+CLASSIFIED
+Orientation System
+.5
+15,000¥
+5/6 days
+1.5
+"See Cyberarm Cyberdeck, p. 36.
+1
+Foot Anchor
+As a weapon, the foot spur does (STR-1)M Damage. As an anchor. it cannot penetrate materials with a Barrier Rating higher than 8,
+the Barrier Rating of most pavement. Each foot anchored increases the amount of weight a character can hold up or hang on to by a max-
+imum of 50 kilograms. If the foot anchor is set into a material with a Barrier Rating of less than 8, each Barrier Rating point below 8 reduces
+the amount of weight by 5 kilograms. See Dangling and Holding, p. 51 of Cyberware Rules.
+Replacement Hand
+Attaching/removing a replacement hand requires a free hand and a Complex Action. A variety of tool and gear/weapon hands are
+available, at a 30-percent increase of the cost of the item itself. Weapons built into a replacement hand receive a +1 modifier to the target
+number for purposes of Combat Tests.
+
+
+OTHER CYBERLIMB ACCESSORIES
+MJ
+Cyberarm Cyberdeck
+Players may install standard or cranial cyberdecks in cyberarms. For standard decks, multiply the price of the selected deck by 4,
+increase the Availability target number by 25 percent (round up), and double the Base Time for acquiring It. See p. 38, Shadowtech, for
+rules on installing a cranial cyberdeck in the arm. Increase the standard target number for building each component by +2, and increase
+costs and Base Times per component by 20 percent .
+Tactical Computer/Orientation System
+Cyberarm versions of these pieces of equipment work in the same way as cranial versions (pp. 53 and 63 of Shadowtech, respectively).
+
+
+CYBERLIMB WEAPONS
+DMSO
+Most of you folks reading this already know about the weapons usu-
+ally mounted in a cyberlimb: spurs, razors, and cyberguns. I know of a
+few more (surprise, surprise!): the hand blade, the shock hand, the
+cyberarm taser, and the cyberSquirt.
+The hand blade slips out of the side of the hand opposite the thumb.
+parallel to the hand. This dandy little weapon can make a punch pretty
+fragging nasty. The side of the blade closest to your own hand has no
+sharp edge, so you can't cut yourself by accident. You can also get the
+hand blade implanted in a normal hand, but the hand-side edge tends
+to bruise flesh if you strike out sideways and hit something too hard.
+That's no problem for hand blades in a cyberarm, of course.
+The shock hand consists of shock pads built into the knuckles or palm
+of the hand that impart a nasty charge to the poor sap you hit. They're
+a little more expensive than traditional shock gloves or batons, but the
+convenience is worth the minor expense. The cyberarm taser works
+exactly like a taser pistol, but with a limited number of shots. Might
+come in handy in certain situations.
+The cyberSquirt is an Ares Squirt mounted as a cyberweapon. It's a nice,
+handy weapon to have, especially for getting through armor clothing or
+Kevlar, but I've heard at least one report of containment leakage. Be care-
+ful with this one-dosing yourself accidentally can really ruin your day.
+Essence Cost
+Price
+Availability
+Street Index
+Hand Blade
+.1
+7,500¥
+6/5 days
+1.5
+Retractable
+.25
+10,000¥
+6/5 days
+1.5
+Shock Hand
+-
+1,300¥
+6/4 days
+2
+Cyberarm Taser
+-
+2,000¥
+6/4 days
+1.5
+CyberSquirt
+-
+1.400¥
+8/6 days
+2
+Hand Blades
+Hand blades do (STR + 3)L Damage. Essence Cost only applies if the blade is mounted in a normal hand.
+Shock Hand and Cyberarm Taser
+The shock hand does 8S Damage and holds 12 charges. It must be recharged after 12 uses The cyberarm taser does 10S Damage, but
+can fire only two shots before recharging. It has the same ranges as the standard taser (p. 103, SRII).
+CyberSquirt
+The cyberSquirt fires up to 10 shots at a time of chemical/biological agents in a special gelling agent. Like the non-cybered Ares Squirt.
+the cyberSquirt holds 10 chemical rounds and the gel reservoir holds enough gel for up to 20 shots. The reservoir must be reloaded once
+for every 2 cartridge reloads. The gel is made of DMSO (dimethyl sulfoxide), a utility chemical that forces the skin to absorb delivered chem -.
+Ical/biological agents. Porous armor, such as armor clothing and Kevlar weaves, offers no protection against DMSO. Rigid armor (higher
+than 5, or plated) applies half its normal Defensive Rating (rounded up) against DMSO attacks. (See p. 92, Shadowtech, for effects of
+DMSO.)
+
+
+CYBERTORSOS AND SKULLS
+Here's a scary thought-a cyber-body and a
+cyber-head to go with your cyberarms and legs.
+Hardly enough warm human flesh left to bother
+with, is there? The perfect mechanism, driven by
+a human brain and soul. Better than God made.
+'cause we can fix the Cyber Man a lot easier.
+The doctors and scientists here talk about
+this a lot. They think I'm not listening, that the
+music coming over my headset drowns out
+their words, But I can hear them. It scares me.
+But listening to the nurses scares me even
+more. The doctors are clinical, scientific. The
+nurses call it like they see it. You know what
+they call Cyber Man? A zombie.
+You don't need to know about that. You
+need to know about the cybertorso and the
+cyberskull. They act as framework and prote-
+tion for various other cybersystems, kind of
+like how our real torsos and skulls protect our
+vulnerable insides.
+Body plating can give you more protection
+if you want it. Ceramic and hybrid-polymer
+plating replaces the outer casing of your vari-
+ous cyber body parts, as soft armor or hard-
+ened armor depending on how much you've
+got to spend.
+Essence Cost
+Street Index
+Cybertorso
+Cyberskull
+Body Plating
+1.5
+.75
+Price
+120,000¥
+75,000¥
+Availability
+6/4 days
+6/4 days
+1
+1
+Soft Armor
+Hard Armor
+10.000¥/level
+25,000¥/level
+12/2 weeks
+14/3 weeks
+2
+2
+-
+Cybertorso and Cyberskull
+The cybertorso and cyberskull each add +1 to the character's Body Attribute. The cybertorso also reduces by half (round up) the addi-
+tional Essence cost of Strength or Quickness enhancements beyond 3 points (see Limb Enhancements, p. 31, and Cyberware Rules, p. 49).
+Body Plating
+Soft armor adds | point of Ballistic and Impact armor per level, cumulative with any armor worn. Hard armor also adds 1 point of
+Ballistic and Impact armor per level, but functions as hardened armor per the critter power Hardened Armor (p. 218, SRII.) Body plating
+can also be applied to cyberlimbs. See also Armor, p. 49 of Cyberware Rules.
+
+
+WIRED REFLEX SYSTEMS
+Some people say-and I'm one of them-
+that a street samurai lives and dies by his
+reflexes. Edge is everything. That extra mil-
+lisecond off the starting block could mean life
+or death-yours or someone else's. When
+folks think of reflex enhancers, they tend to
+think purely in terms of wired reflexes, boost-
+ed reflexes, synaptic accelerators, and so on.
+Good ware, all of it-but I know a couple
+other options.
+A reaction enhancer, for example, increas-
+es your reaction time by replacing part of your
+spinal column with superconducting material.
+I don't know what material they use, but I
+have friends who tell me that it works. And as
+long as it works, who cares about much else?
+A reflex trigger is a variant of wired reflex-
+es. Get this cybernetic device installed along
+MO
+with your wired reflexes, and you can turn
+those reflexes on and off. (You can't get it
+installed after the fact-the wiring won't work
+right.) I know a bunch of people who'd have gone for the trigger like a shot if they'd had the chance. Do you have any idea what it's like
+to go through normal life wired to the max? Reflexes are an automatic, instinctive response. People have lots of reflexive actions-fight or
+flight, for example-but If they have to, the unwired can usually shut down the reflex before acting on it. With wired reflexes, you can't
+always manage that. Sometimes that can result in unfortunate accidents-I speak from experience. The trigger can help you avoid that kind
+of thing. If you're contemplating wires, get a trigger. It's a good investment.
+Essence Cost
+Reaction Enhancer
+Reflex Trigger
+.3/point
++.2
+Price
+60.000¥
++13,000¥
+Availability
+6/7 days
+Street Index
+2
+As wired reflexes
+Reaction Enhancers
+Player characters may increase Reaction up to a maximum of +6 in this manner. The reaction enhancer is completely compatible with
+all other reaction/Initiative boosters except the move-by-wire system (see p. 39) and the adrenal pump (p. 19, Shadowtech).
+Reflex Trigger
+Activating or deactivating wired reflexes with a reflex trigger requires a Simple Action. For additional information, see Effects of Wired
+Reflexes. p. 53 of Cyberware Rules.
+
+
+MOVE-BY - WIRE SYSTEM
+This wiz piece of wire needs a little back-
+ground explanation. Modern aircraft and some
+other kinds of vehicles (t-birds mostly) use what's
+known as a fly-by-wire system. As I've heard it
+explained, the design of the aircraft is inherently
+unstable. It literally wants to fly in all directions at
+once. The fly-by-wire system keeps it under con-
+trol by using a series of redundant computers that
+continually counteract the chaotic motion of the
+craft. This also means that when the craft is told
+to move in a specific direction, it already wants to
+do that, and so is much more responsive and
+maneuverable. Imagine applying this to a person,
+and you've got the move-by-wire system.
+As I understand it. this system puts your body
+in a constant state of seizure. A computer in your
+brain monitors the state of the seizure and coun-
+teracts its effects until you tell it that you want to
+move. At that point it channels the effects of the
+seizure along the motion path desired.
+This system lets you move with unnatural
+smoothness. Move-by-wire makes someone with
+mere balance augmentation look spastic. You can spot the joker with move-by-wire a mile off. There's another giveaway too, which I sus-
+pect will disappear once they perfect the technology. Every once in a while the person with a move-by-wire system develops a slight
+tremor in one muscle group. It's not as obvious as a twitch or spasm, but you can see it if you're looking for it or at it. As far as I know, the
+tremor only hits when the muscle group is at rest. If it's in motion, everything's fine. I figure it has something to do with built-in errors
+when the system's compensating for the seizure, but don't quote me on that.
+Essence Cost
+Price
+Availability
+Street Index
+Move-by-Wire System
+Level 1
+2.5
+250,000¥
+8/10 days
+2.5
+Level 2
+3.85
+500,000¥
+12/20 days
+3
+Level 3
+5.2
+1,250,000¥
+18/30 days
+3
+Level 4
+6.45
+3,000,000¥
+20/45 days
+3.5
+Move-by-Wire System
+The move-by-wire system provides the following benefits at each level. This system is not compatible with any other Reaction/Initiative
+enhancing cyber- or bioware.
+Level 1: +1 Quickness, +2 Reaction, +1D6 Initiative, +1 die for Athletics and Stealth tests
+Level 2: +2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests
+Level 3: +3 Quickness, +6 Reaction, +3D6 Initiative, +3 dice for Athletics and Stealth tests
+Level 4: +4 Quickness, +8 Reaction, +4D6 Initiative, +4 dice for Athletics and Stealth tests
+
+
+WEAPON MOUNTS
+Here's some red meat for the round-the-bend hard boys out there: external
+mounts, tracking mounts, and articulate arms. Some of these mounts can only go
+on a cyberlimb or cybertorso, thank fraggin' whoever, so don't even think about
+bolting one on your real shoulder. You could probably get some psycho street doc
+to do it for you, but you probably wouldn't be all that happy with the result.
+The external mount for the cyberarm is a simple mounting point, sort of like
+a hardpoint, that allows a cybernetic connection to a weapon already mounted
+there. The guns that attach to the external mount are equivalents of cyberguns
+and are fully smartgun-capable. I like this piece of ware; it lets you mount and
+use a gun while keeping your hands free. That's what I call an advantage.
+The tracking mount is usually connected to an eye laser tracking system
+and extends at an angle off the shoulder to get clear of the head. Obviously, this
+mount requires a cybertorso. This puppy also has a dead spot for fire where the
+user's head is, so figure about 10 degrees to either side of the head is blocked.
+The articulate arm is a separate articulate tracking mount, usually anchored
+to a cybertorso in the middle of the back. This baby has a full range of motion
+and can cover fragging near any firing angle. We're talking big and nasty and don't-mess-with-me. It's a little too much that way for my
+taste, but the hard-edged razorboys ought to lap it up.
+Essence Cost
+Price
+Availability
+Street Index
+External Mount
+-
+3,200¥
+6/4 days
+2
+Tracking Mount
+-
+24,000¥
+8/7 days
+2
+Articulate Arm
+.25
+110,000¥
+12/24 days
+2
+External Mount
+Attaching or detaching a weapon from this mount requires a Complex Action. The mount takes light, heavy, or machine pistols and
+submachine guns; double the cost of the weapon. Player characters can buy external ammo pods that hold 50 rounds, but only one pod
+can be mounted at any given time. For quadruple the listed price, the mount can be made to retract into a cyberarm that has had a Body
+enhancement of at least +1.
+Tracking Mount
+This mount is a motorized, pivoting tracking system that ties into an eye laser designator. It can take light, heavy, or machine pistols, sub-
+machine guns, and assault rifles; triple the cost of the weapon. Player characters can buy external ammo pods that hold 50 rounds, but only
+one pod can be mounted at any given time. The system gives users 3 points of Recoil Reduction, plus the same modifiers as a laser sight.
+Articulate Arm
+This mount works like a tracking mount, but has a full range of motion and covers a 360-degree firing area. The articulate arm can take
+all light weapons up to a light machine gun. The system gives users 3 points of Recoil Reduction, plus the same modifiers as a laser sight.
+
+
+MISCELLANEOUS CYBERWARE
+Here's a couple of odd pieces: the induction datajack and the internal air tank. Anybody jumping around and getting all loopy over
+the induction datajack, calm down. It's a wizzer little toy, but it does not allow you to grab a wire or put your hand on a computer and suck
+up data from it. This jack is a subdermal induction pad. You can attach a cable and a special induction connector between it and the stan-
+dard data-out port on a cyberdeck or computer and then use it just like a standard datajack. Because it's under the skin, it can't be seen,
+so you can jander into places that might be harder to crack if the security guard saw a bright silver datajack at your temple.
+The internal air tank is exactly what it sounds like-an independent air source. While breathing from it, you are immune to any inhal-
+able toxin or sleepy gas or other compound. The tank only holds about twenty minutes' worth of air, so don't stay anywhere dangerous for
+too long. Refilling it takes five minutes.
+Essence Cost
+Induction Datajack
+.3
+Price
+3,000¥
+Availability
+Street Index
+2
+Internal Air Tanık
+.25
+1,200¥
+5/4 days
+4/5 days
+1.5
+Induction Datajack
+Performs identically to standard and improved datajacks (p. 246 of SRII and p. 45 of Shadowtech, respectively). For the induction
+equivalent to the datajacks listed in Shadowtech, add .1 to the Essence, multiply the Price by 3, and use the Availability/Street Index list-
+ed above.
+Alr Tank
+The internal air tank can be vented if necessary.
+
+
+Cyberware Rules provides revised and expanded rules for various pieces of cybertech-
+nology in the Shadowrun game. Some of these have been described in previous source-
+books-others are new. The rules in this section deal with some of the pros and cons of cyber-
+ware in greater detail than in previously published sourcebooks, so that gamemasters can
+enrich their gaming sessions by bringing additional elements into play. This section does not
+attempt to give detailed rules for every possible situation in which cyberware may be used. but
+rather offers broad guidelines.
+In all instances where material in this section contradicts previously published material,
+the newer material should take precedence, but the gamemaster ultimately decides which ver-
+sion to use. As always, the name of the game is fun and the gamemaster is the final arbiter.
+Gamemasters should keep in mind, however, that an over-chromed campaign can become
+unbalanced and dull very quickly. If the gamemaster wants to limit his players' ability to obtain
+or use certain pieces of cybertech, he can make those items unavailable, horrendously expen-
+sive, or otherwise undesirable. For example, the clinic that outfits the runners with the forbid-
+den ware may sell them inferior gear and then go out of business. Alternatively, he may sim-
+ply let the players have whatever they want and make them deal with subsequent cyberware
+damage. (There are a hundred ways to skin a chromed rat.)
+CYBERWARE QUALITY
+As veteran Shadowrun players and gamemasters already know, cyberware comes in var-
+lous forms: standard, second-hand, alpha-grade, beta-grade, and even delta-grade. Alpha,
+beta, and delta grades represent various levels of quality and sophistication beyond standard,
+off-the-shelf cyberware. If alpha-grade cyberware is comparable to a simple home stereo sys-
+tem, delta-grade would represent a custom audiophile rack system. Both play music, but
+delta-grade is far more capable and reliable than alpha-grade. Second-hand cyberware comes
+in standard, alpha, and beta grades, but is less reliable than new cyberware of the same grade.
+
+
+Only standard and alpha-grade cyberware are mass-pro-
+duced. Beta-grade pieces are usually custom-made. Delta-grade
+cyberware is always custom-made for the individual. which
+makes it Essence-friendly but also prohibitively expensive.
+Medical costs and repair times for delta-grade cyberware are
+quadruple those for standard equipment. Essence reductions,
+cost multipliers, and damage resistance statistics for alpha, beta,
+and delta-grade cyberware appear below.
+Player characters can get alpha- and beta-grade custom cyber-
+ware at most shadow clinics, but delta-grade cyberware is far more
+difficult to acquire. Stumbling across a delta-grade cyberware clinic
+is nearly impossible for Joe Shadowrunner. Some corps run such clin-
+ics, but a player character cannot just make an appointment to go in
+for a lube job. The corp has to want the character to be at the clinic
+(and if the corp wants someone, there's got to be a reason).
+Some types of cyberware, especially anything involving
+cybermancy, require a delta-grade clinic for installation. For more
+information, see Cybermancy, pp. beginning on p. 64.
+Essence
+Reduction
+Cost
+Multiplier
+Damage
+Resistance
+Alpha-grade
+-20% (x .8)
+× 3
+5/6
+Beta-grade
+40% (x .6)
+× 7
+4/5
+Delta-grade
+-50% (x .5)
+× 10
+3/4
+ESSENCE REDUCTION
+Reduce the amount of Base Essence Cost by the percentage
+listed (or use the multiplier given in parentheses). Round all num-
+bers up. Essence Cost may never be reduced below .05 in this
+manner.
+COST MULTIPLIER
+AND MEDICAL FEES
+Multiply the cost for the cyberware by the number indicated.
+This represents only the cost for the piece of cyberware and does
+not include doctor's fees and hospitalization. For alpha- and beta-
+grade cybersurgery, doctor's fees and hospitalization are 50 times
+the rates listed on p. 145 of the Shadowrun basic rules. For delta-
+grade cybersurgery, the fees are 200 times the rates listed.
+DAMAGE RESISTANCE
+The first number given is the target for resisting damage from
+Serious Wounds, the second from Deadly Wounds. When a piece
+of custom cyberware is damaged, roll 5 dice against the target
+number indicated above. If a single success is achieved, the cyber-
+ware takes no damage.
+GENERAL RULES ON DAMAGE
+Rules for damage to cyberware previously published in The
+Street Samural Catalog and Shadowtech deal with gross effects
+of damage and the procedures necessary for repairs. However,
+damage to cyberware can also cause extremely inconvenient sec-
+ondary effects. For example, damaged cybereyes may begin to
+short out, suffer color shifts, and so on. Rules for the various kinds
+of cyberware addressed in this section include specific secondary
+effects of damage that gamemasters can use to bring a little spice
+and stress into the player characters' lives.
+As an alternative to the rules in previous sourcebooks for
+determining whether and where cyberware damage occurs,
+gamemasters can use the following quick-and-dirty system.
+Whenever a character takes a Serious or Deadly Wound, the
+gamemaster rolls 2D6 after all Damage Resistance Tests are
+resolved. If the result is less than the number of boxes of damage
+taken (6 for Serious and 10 for Deadly), the character's cyberware
+takes damage. Because the possible combinations of cyberware
+that a player character may cram into his body are virtually infinite,
+the gamemaster decides what specific piece of cyberware has
+been damaged. The damage should have a logical connection
+with the location of the wound, and the gamemaster's choice
+should not unduly hinder the player character. The goal is to add
+more challenge to the game, but not make it impossible for play-
+er characters to succeed.
+HEADWARE
+The following rules apply to various types of headware, from
+communications gear to cybereyes and cyberears and their acces-
+sories.
+COMMUNICATIONS
+Information and basic rules for the headware radio and tele-
+phone appear on pp. 246-247, SRII. Those for the communica-
+tions link, crypto-circuit HD, and scramble breaker HD appear in
+the Street Samurai Catalog, pp. 76, 77, and 81. Rules and infor-
+mation for the tactical communications system appear in Fields of
+Fire, pp. 59 and 86.
+The cybercomm link is essentially a transducer that converts
+thoughts into speech, making it possible to communicate without
+talking aloud. Because the transducer has no transmitting or receiv-
+ing capacity, using it as part of a communications system requires
+a radio transmitter. In addition to being useful for the clandestine
+communications of shadowrunners, the cybercomm link has revo-
+lutionized the lives of people who suffer from congenital muteness
+or have suffered severe damage to their vocal chords.
+Jamming, Counter-Jamming
+and Encryption
+Jamming and counter-jamming are achieved with
+ECM/ECCM add-ons to communication equipment (see Using
+Equipment, p. 184, SRII). To resolve jamming or counter-jam-
+ming attempts, make an opposed test pitting the rating of the
+jamming component against the rating of the counter-jamming
+component (or vice-versa). Characters who have a Special Skill
+related to the use of the jamming or counter-jamming element
+in question, or who have encephalon (see p. 49, Shadowtech),
+may add a number of additional dice up to the rating of the
+ECM/ECCM gear. The jammer or counter-jammer that achieves
+the greater number of net successes accomplishes its task; in
+the case of a tie, the jamming unit is successful. The number of
+net successes determines the overall success of the jamming
+or counter-jamming attempt. Multiply the number of success-
+
+
+COMMUNICATIONS HEADWARE SECONDARY DAMAGE
+Dice Roll Result
+2-4
+5-7
+No effect, lucky you.
+Static; garbles message.
+8-9
+10-11
+Unit functions intermittently and must be struck or jostled to work again after failure. For attempts to
+get it working, make a Quickness (3) Test.
+Total unit failure; nothing but continual annoying static.
+es by 10. The result is the percent of the message that is
+received or is blocked.
+To resolve attempts at encryption and decryption of commu-
+nications signals, use the same procedure as for jamming and
+counter-jamming.
+Secondary Damage
+If a headware communications unit takes damage, roll 2D6
+and consult the Communications Headware Secondary Damage
+table to determine secondary effects.
+All secondary effects continue until the damaged unit is
+repaired. If the gamemaster is using the quick-and-dirty dam-
+age system, the target number of any appropriate Repair Test
+is equal to one-half (round down) the secondary-effect dice
+roll result.
+CYBEREVES AND ACCESSORIES
+In general, any combination of accessories can be installed in
+a cybereye, subject to the following Essence limits. Per pair,
+cybereyes cost a player character .2 points of Essence on installa-
+tion. The eyes can handle an additional .5 Essence points' worth
+of accessories, such as low-light amplification, without additional
+cost to the character. In other words, a total of .7 Essence points
+actually costs the character .2 Essence points. Cybereye acces-
+sories can be added or removed without impacting the Essence of
+the character. When dealing with beta- and delta-grade
+loss of efficiency, but in general such systems operate about half
+as well in one eye as in two. Many other systems, such as a laser
+designator or a display link, are single-eye enhancements to begin
+with and so are not affected. Vision magnification systems can
+provide proper magnification with only one eye; however, they
+cannot provide any depth perception to characters with only one
+cybereye. A +4 modifier applies to the target number of any
+Combat Tests made while the vision magnification is active; this
+modifier is cumulative with other modifiers (if any). Needless to
+say, eye weapons and laser systems can only be mounted in a
+cybereye.
+The small size of the (meta)human eye socket represents a
+built-in limitation to the number of accessories that can be
+installed in a cybereye. Player characters cannot walk around
+with guns, darts, lasers, cameras, and all kinds of other things
+packed into such a confined space. To reflect this, gamemasters
+should seriously consider the following limits. Accessories worth
+a maximum of 1.2 Essence points can be installed in a pair of
+cybereyes (including the free .5 Essence points conferred by the
+standard rules), and only one accessory per eye may be a
+weapon system. Player characters hoping to get around that lim-
+itation by installing a tool laser that can function as an extra
+weapon are out of luck: a single cybereye cannot mount a tool
+laser and a gun or dart. In addition, a cybereye with a cybercam
+installed in It cannot accomodate a weapon system or a tool
+laser because there is not sufficient room. (Of course, there's
+CYBEREYE SECONDARY
+DAMAGE
+Dice Roll Result
+Secondary Effect
+2-4
+No effect, lucky you.
+Black-and-white image.
+5-6
+7
+Blurred vision: add +2 to all target numbers for tests
+involving perception at a distance.
+8-9
+Image intermittent; eye must be struck or jostled to
+work again after failure. To get it working, make a
+Quickness (3) Test.
+10-11
+One eye fails; add a +4 modifier to the target number
+for any tests involving depth perception.
+12
+Total unit failure: signal provides nothing but continual
+annoying static.
+cybereyes, make the necessary adjust-
+ments for Essence loss before consid-
+ering the .5 allowance for accessories.
+Though cybereyes are usually
+purchased in pairs, they can be pur-
+chased singly. A single cybereye costs
+60 percent of the standard purchase
+price, takes up . 1 Essence and accepts
+accessories worth only .25 points of
+Essence before adding to the total
+Essence cost. Cybereye accessories
+that require a pair to work well, such
+as low-light amplification, thermo-
+graphics, and cyberoptic camera or
+Smartcam systems (see pp. 89-90.
+Shadowbeat) are less effective in a
+single eye. The gamemaster may find
+it necessary to determine the exact
+Secondary Effect
+Intermittent signal; approximately half of message gets through.
+12
+
+
+nothing to stop the really determined from Installing a different
+weapon in each eye.)
+Secondary Damage
+If a cybereye takes damage, roll 2D6 and consult the
+Cybereye Secondary Damage table to determine secondary
+effects. A character who uses an eye gun automatically damages
+his cybereyes because of the shock of recoil in such a confined
+space. Even with the stabilization systems available, recoil in the
+orbital cavity remains an almost insoluble problem. Eye guns
+should be treated as one-shot items for desperate situations.
+All secondary effects continue until the unit is repaired. If the
+gamemaster is using the quick-and-dirty damage system, the tar-
+get number of any appropriate Repair Tests is equal to one-half
+(round down) the secondary-effect dice roll result.
+Eye Dataports and Optical
+Scanning Datajacks
+The standard data flow rate (DFR) of an eye dataport is 25 (the
+DFR of the standard datajack in SRII). To find costs for ports with
+higher DFRs, add .05 to the Essence Cost and double the purchase
+price listed below for each 25-point increase to the DFR (to a max-
+imum of 100).
+Level
+DFR
+Essence Cost
+Price
+1
+25
+.10
+500¥
+2
+50
+15
+1,000¥
+3
+75
+.20
+2,000¥
+4
+100
+.25
+4.000¥
+For an optical scanning datajack, the standard DFR is 20. To
+find costs for optical datajacks with higher DFRs, use the rules
+given above for eye dataports. Note that the cost increase applies
+to the emitter as well.
+The description of the optical scanning datajack (Comfortably
+Numb. p. 20) refers to "pressing on the iris" to render the datajack
+functional. Literally pressing on the iris would temporarily blind that
+eye. To keep this from occurring, optical scanning datajacks are either
+mounted in a secondary iris-like structure not apparent to casual
+inspection, or they feature a mirror to refract light to the cyber-retina.
+BrightLight Systems
+The reusable BrightLight flash system operates like the stan-
+dard flash-pak (Street Samural Catalog. p. 45), Opponents facing
+the light system receive a +4 modifier to their target numbers for
+all ranged attacks: flare compensation reduces this modifier to +2.
+In addition. the target number modifier is reduced by | for every
+5 meters that the opponent is standing from the character using
+the eye light system. The system also negates the effects of poor
+or absent lighting for the duration of its use, but the strobe effect
+imposes a +2 modifier to all the user's target numbers.
+The flash-pak unit can flash three times before the battery
+must be replaced. A replacement battery costs 150Y and takes 10
+minutes to install.
+The battery and bulb for the high-powered one-shot flash-pak
+must be replaced after every use. Replacement batteries and bulbs
+are commonly available at a cost of 10¥ each. The batteries can
+also be bought in packs of six for 50¥. The flash only affects tar-
+gets directly in front of the user. If a question arises as to whether
+or not the target is looking directly at the user, the gamemaster
+may (at his discretion) resolve the dispute with an opposed test
+pitting the Reaction of the user against the Reaction of the target.
+The target's net successes apply to his Damage Resistance Test.
+The user's net successes do not apply, as the game mechanic
+already assumes that the target is looking the user full in the face.
+The nature of this weapon precludes the need for a Combat
+Test. Instead, each target must make a Damage Resistance Test
+against a target number equal to 12 minus the number of meters
+away from the user they are standing. The BrightLight system
+does Serious Stun damage, and the target must also apply a mod-
+Ifier to the target numbers for all visual tests equal to the number
+of boxes of damage done. This effect fades at the rate of 1 point
+per minute. If the target suffers a Deadly Wound, certain effects
+may become permanent at the gamemaster's discretion.
+The BrightLight flash is visible for three kilometers, unless line
+of sight is somehow blocked. Used inside a building or room, the
+light will seep through any crack or opening and might even be
+visible throughout an entire floor. Users also risk blinding friends
+as well as foes. To determine whether or not this happens, the
+gamemaster should apply a version of the Blast in a Confined
+Space rules (p. 97, SRII), assuming a starting Power Level of 12
+that degrades by | for every meter that the light travels. Under
+this rule, even someone standing behind the user might be blind-
+ed by the flash. Also, whenever a character uses the BrightLight
+flash, the gamemaster rolls 2D6. On a result of 2 or 3, the user is
+blinded and must replace his cybereyes.
+Eye Laser Systems
+Eye lasers and light systems run on battery power, which
+means that player characters who have them must carry the bat-
+teries (and a couple of spares, if they're smart) somewhere.
+Batteries supplying power to such systems can be stored any-
+where on the character's person. A character can even carry laser
+batteries externally, connecting them to the laser system via an
+interface so that he can change power packs when needed with-
+out having to open up Interesting body cavities that a runner
+might not want exposed in dangerous situations. The gamemas-
+ter determines how runners equipped with these systems can
+manage to plug in and recharge. However, it is unlikely that the
+need for such details will arise often in game play. Eye lasers have
+extremely specific uses, and should not become major elements
+of any character's personal arsenal.
+CYBERCAR ACCESSORIES
+At the gamemaster's discretion. special rules may apply
+when using the spatial recognizer in certain situations-for exam-
+ple. when attempting to locate something or someone moving
+around a corner or in a maze of corridors. In such cases, the
+gamemaster may appply a -1 modifier to the target numbers of
+all Perception Tests made to locate an object or person. This mod-
+ifier only applies in visually dull environments-featureless corpo-
+rate corridors, boringly decorated interiors painted in drab colors,
+
+
+CYBEREAR SECONDARY DAMAGE
+Dice Roll Result
+Secondary Effect
+2-4
+No effect, lucky you.
+5-6
+Lower end of the sound spectrum cuts out.
+7
+8-9
+Static; add a +2 modifier to all target numbers for tests to discern sounds.
+Sound intermittent; ear must be struck or jostled to work again after failure.
+To get it working, make a Quickness (3) Test.
+10-11
+12
+Total unit failure; user hears nothing except continual, annoying static.
+and so on. The spatial recognizer is most effective when visual
+input is absent or restricted, because visual input tends to be
+dominant when the brain processes information. Therefore, an
+overabundance of things to look at swamps the spatial recogniz-
+er and renders it virtually useless.
+Secondary Damage
+If a cyberear takes damage, roll 2D6 and consult the Cyberear
+Secondary Damage table to determine the secondary effects.
+All secondary effects continue until the unit is repaired. If the
+gamemaster is using the quick-and-dirty damage system, the tar-
+get number of all appropriate Repair Tests is equal to one-half
+(round down) the secondary effect dice roll result.
+ORAL WEAPONS
+Oral darts and guns are usually concealed in a compartment
+in the roof of the mouth. When triggered. they drop into shooting
+position and fire when the character opens his mouth. The
+gamemaster may impose penalties on characters equipped with
+oral darts or guns when such characters make Perception Tests
+using their innate sense of smell. because such cyberware may
+interfere with sinus functioning.
+The oral spur and whip are becoming popular among certain
+hardcore street samural because they are significantly less com-
+mon and harder to spot than such weapons as hand razors. Some
+rough-edged bullyboys believe that the unexpectedness of these
+oral weapons gives them an edge in combat. Also, a character can
+use these weapons even when his hands and legs are tied. In gen-
+eral. however, the limitations on oral weapons (small number of
+shots and/or short ranges) make them useful only in highly spe-
+cialized situations.
+The oral whip can only be used effectively if the character
+can impart momentum from head movement. Though the whip
+is powered, it tends to pop out like an extra-strong party
+streamer if the user's head is restrained or still. The gamemaster
+may decide to reduce the whip's Damage Code if a character
+uses this weapon while his head is restrained. A control mecha-
+nism monitors the user's head position at all times to ensure that
+the whip always retracts smoothly and does not strike the user
+inadvertently.
+CRANIAL BOMBS
+The common name, "cortex bomb," is actually something of a
+misnomer. The microbomb has a devastating effect if placed near
+any major internal organ-close to the heart, for example, or next
+to a major spinal nerve group. The area bomb kills no matter where
+it is located in a person's body. The term "cortex bomb" is histori-
+cal in origin: initially these deadly devices were located in the cen-
+tral nervous system to make their surgical removal extremely diffi-
+cult. In those long-departed days of the 2020's, brain surgery was
+a more chancy business than it is in 2055. Corporations who placed
+these bombs in their couriers liked being able to activate the
+bombs and dispose of compromised couriers before the opposi-
+tion could get at the information they wanted. Cortex bombs also
+made useful devices for blackmail and coercion.
+Although they are most often placed in the brain, kink bombs
+can be implanted near any expensive piece of cyberware. They
+are often implanted in cyberlimbs. Cyberlimbs are expensive, and
+few people will risk losing them by disobeying orders.
+The gamemaster may adjust the cost of area bombs with dif-
+ferent Damage Codes, but should consider a minimum of
+300.000¥ for the weakest versions.
+BODYWARE
+The following rules apply to various types of bodyware, from
+dermal plating and sheaths to cyberlimbs.
+DERMAL PLATING
+Repairing damage done to dermal plating by a Serious or
+Deadly Wound requires a spray bonder that re-bonds the dam-
+aged dermal fiber weave by augmenting the fiber's innate self-
+repairing properties. A repair kit with this spray bonder costs
+500¥ for 10 applications. Failure to use the spray bonder may
+result in long-term damage to the weave. If a player character
+with dermal plating takes damage to it from a Serious or Deadly
+Wound and does not use the spray bonder on the damaged plat-
+ing within 24 hours, the gamemaster should note that fact. From
+then on, whenever that character suffers a Serious or Deadly
+Wound (after resolution of the Damage Resistance Test) from non-
+explosive weapons or magic, the gamemaster rolls 2D6. If the
+One ear fails. Apply a +4 modifier to the target number for all tests involving
+spatial sound perception.
+
+
+result is less than the number of times the character has failed to
+use the spray bonder on a damaged area, the effective rating of
+the dermal plating is reduced by 1. The character must check his
+plating every time he suffers a Serious or Deadly Wound, and the
+reductions are cumulative.
+A street doc can repair this damage-for a price. To repair 1
+point of the plating's protection, a street doc normally charges
+2,000¥ multiplied by the total number of points that the plating
+has lost. For example, a character whose dermal plating has been
+reduced by 2 points would be charged 4,000¥ to repair the first
+point (2,000¥ × 2) and another 2,000¥ to repair the second
+(2,000¥ × 1). The player character can modify this fee by making
+a standard Negotiation Test; each net success the character
+achieves lowers the final price by 5 percent. The actual work
+requires a biotech shop and a Biotech (5) Test with a Base Time of
+4 hours per point. Technically, characters with the necessary skills
+and access to the necessary hardware can attempt these repairs
+on their own; the raw materials cost 400¥, multiplied by twice the
+number of points being repaired.
+As stated in Comfortably Numb (p. 28), skin near dermal
+plating tends to heal poorly in the area of Serious or Deadly
+Wounds. Runners who wish to avoid scarring can buy a healing
+lotion that costs 20¥ per tube for 30 applications. For more infor-
+mation, see Scarring. p. 56.
+DERMAL SHEATHING
+Though similar in many ways to dermal plating, dermal
+sheathing is easier to care for and repair, though repairs are more
+expensive. Only a Deadly Wound can cause a permanent reduc-
+tion in the rating of dermal sheathing. The base cost of repairs is
+6.500¥ per point (1,400¥ raw materials cost); the work requires a
+Biotech (4) Test and takes a Base Time of 5 hours.
+As long as the semi-artificial skin is sprayed with a chemi-
+cal sealer within 12 hours of damage, there will be no scarring.
+The sealer spray costs 1,200¥ for 10 applications. If the dam-
+aged sheathing is not sprayed, Minor scarring occurs (see
+Scarring, p. 56).
+A character cannot gain the benefits of both dermal plating
+and dermal sheathing. Sheathing is a superior form of plating and
+can only be fitted if pre-existing plating over the same area is
+removed. Note that orthoskin (p. 17. Shadowtech) is not com-
+patible with dermal sheathing.
+
+
+CYBERLIMB SECONDARY DAMAGE
+Dice Roll Result
+2-4
+5-7
+Secondary Effect
+No effect, lucky you.
+The limb twitches at random. Add a +1 modifier to'target numbers for all tests using
+that limb.
+8-9
+On a 2D6 roll with a result of 10 or greater, the limb does not perform properly. The
+specific effect is up to the gamemaster.
+10-11
+12
+On a 2D6 roll with a result of 8 or greater, the limb fails to perform properly.
+The limb shuts down completely, except for an occasional twitch.
+ARMOR
+As stated in Comfortably Numb, armor can be acquired for
+cyberlimbs, torsos and skulls. Shadowrun does not use a hit loca-
+tion system, and so player characters who want full protection must
+acquire armor for each of five possible hit locations: arms, legs,
+head, front of torso, and back of torso. To find the overall Armor
+Rating, add up the ratings of the individual pieces of armor and
+average the result, rounding down. For example, the hotshot street
+samurai Razor's Edge has 4 points of armor on his chest, 2 points
+covering his back, 2 points covering his legs, 2 points on his arms,
+and 1 point protecting his head. This gives him a total of 11 points
+of armor plating distributed around his body (4 + 2 + 2 + 2 + 1 =
+11). To find the average, divide the sum (11) by 5 (total possible hit
+locations). The result is 2.2,rounded down to 2, and so Razor's Edge
+has an overall Ballistic and Impact Armor Rating of 2. To keep play-
+ers from doing such senseless things as putting all 10 points of
+armor in a cyberskull, the gamemaster may decree that any rating
+higher than 4 in any one area does not count for purposes of deter-
+mining the overall Armor Rating. This limitation should ensure a
+sensible distribution of armor.
+GENERAL RULES FOR CYBERLIMBS
+Though simple replacement limbs with no special capabilities
+do exist in the world of Shadowrun (p. 249, SRII), most (if not all)
+shadowrunners who acquire cyberlimbs will buy the obviously
+cybernetic kind that can be modified and enhanced. The following
+rules apply to the latter type of cyberarm.
+Pairs of cyberlimbs act as a layer of dermal plating, adding +1
+to the character's Body. A character with a pair of cyberarms and
+a pair of cyberlegs adds +2 to
+his Body. Partial limbs,
+hands, and feet do not add
+to a character's Body.
+Cyberhands and feet
+retain all the flexibility of
+their natural counterparts; in
+fact, they tend to move more
+fluidly than real hands or
+feet. A single cyberhand or
+foot adds +1 to the Power of
+unarmed combat attacks;
+any two cyberhands or feet
+(two hands, two feet, or one of each) adds +2 to the Power of
+unarmed combat attacks. More than two cyberhands or feet con-
+fer no additional bonus.
+Detecting Cyberlimbs
+The base target number for detecting an undisguised cyber-
+limb is 4, assuming a reasonably short period of interaction. If, for
+example, someone spends an entire evening at a bar in the com-
+pany of a character with a cyberlimb, that base target number is
+reduced by a minimum -2 modifier. This modifier may drop as
+low as -4 at the gamemaster's discretion, depending on such fac-
+tors as the duration, frequency, and continuity of observation.
+Cyberlimbs never move quite as naturally as the real thing, and
+after awhile the onlooker will notice. A cyberlimb becomes even
+more obvious if a character is drunk; the artificial limb does not
+flail around with quite the right degree of abandon.
+Secondary Damage
+If a cyberlimb takes damage, roll 2D6 and consult the Cyberlimb
+Secondary Damage table to determine secondary effects.
+CyberwaresCyberlimb
+Compatibility
+When certain pieces of cyberware are wired into a cyberlimb,
+the limb reduces or eliminates the cyberware's Essence Cost. The
+Cyberware-Cyberlimb Compatibility table indicates the adjusted
+Essence Cost for the specific pieces to which this rule applies. In
+most cases, the Essence Cost of cyberware comes from the neur-
+al interface and secondary connections that allow control of the
+cyberware in question, and so
+the presence of a cyberlimb
+does not adjust Essence Cost.
+CYBERWARESCYBERLIMB
+COMPATIBILITY
+Fingertip Compartment
+Spurs and Razors (all kinds)
+Smartgun Links (all kinds)
+Tactical Computer
+Orientation System
+Adjusted Essence Cost
+0
+0
+.25
+-25% (round down)
+.25
+Cyberlimbs
+and Bone Lacing
+Bone lacing (p. 42,
+Shadowtech) cannot be per-
+formed on cyberlimbs. The
+armor value for bone lacing
+does not apply to cyberlimbs,
+though it does apply to a char-
+acter's residual meat body. As
+
+
+a rule of thumb, characters can have two complete cyber replace-
+ments without losing bonuses for previously applied bone lacing.
+For characters with three cyber replacements, subtract 1 from
+bone lacing armor bonuses; for more than 3 replacements, all
+such bonuses are lost. (A single limb-such as the right arm or left
+leg-counts as one replacement for these purposes. Skulls and
+torsos count as single replacement as well.)
+STRENGTH ENHANCEMENTS
+The following rules for Strength enhancements offer a new
+level of complexity, and so gamemasters and players alike should
+study them carefully
+before using them.
+In certain situations, such as unarmed or armed combat, it is
+impossible to tell for certain when and how a particular limb is
+being used. In this case, the player must choose between one or
+the other of the following alternatives.
+The player's character may use an average Strength
+Rating-adding up the Strength ratings of all four limbs and then
+dividing by four (rounding down)-as the Strength Rating for
+melee combat. If the character also has muscle replacement or
+muscle augmentation, the appropriate Strength bonuses apply
+to all limbs equally and should be added to the Strength of each
+natural limb.
+BERGTING
+All cyberlimbs are
+assumed to have a built-
+in Strength of 3. If char-
+acters choose to enhance
+their cyberlimbs-or beef
+up their natural limbs
+with muscle replacement
+and/or augmentation-
+they may have to deal
+with problems that can
+surface when different
+limbs end up with differ-
+ent Strength ratings.
+(Imagine a character
+whose left arm has
+Strength 3. right arm
+Strength 5, a right leg
+Strength 7, and a left leg
+Strength 4. Yikes!)
+If a character's vari-
+ous limbs have different
+Strength ratings, the true
+rating of any given limb
+can only be used in spe-
+cific circumstances. The
+gamemaster must deter-
+mine what happens in
+any given situation, as
+the possibilities are too
+numerous to devise rules
+for in detail. As a broad
+guideline, assume that if
+the character can apply a
+particular limb properly
+in a given situation, that limb's full Strength Rating can be used.
+For example, a character trying to pull up someone who has fall-
+en over the edge of a building can use the true Strength Rating for
+the limb that is actually supporting the fallen person. In this same
+situation, the character cannot use the Strength Ratings of his
+other limbs unless he manages to get leverage or bracing that
+allows the application of strength from them. If a character man-
+ages to apply more than one limb in a given situation, use the
+average of all the Strength Ratings (round down) for those limbs.
+Alternatively. the
+player can have his char-
+acter try to lead with the
+highest-strength limb
+the character possesses.
+This option allows a char-
+acter to take full advan-
+tage of enhanced limbs.
+A player who makes
+this choice finds the
+average Strength Rating
+mentioned above and
+must apply a modifier to
+the target numbers for
+Melee Combat Tests
+equal to the difference
+between that average
+and the Strength Rating
+of the chosen limb. For
+example, a character
+with one arm at Strength
+3, the other at Strength
+5, a right leg at Strength
+4 and a left leg at
+Strength 7 has an aver-
+age Strength Rating 4. If
+this character wants to
+lead with his Strength 5
+arm, he must fight with a
++1 modifier to the target
+number for all Melee
+Combat Tests (5-4 = 1).
+Limitations
+Any single cyberlimb
+can only handle a maxi-
+mum of 3 points of Strength enhancement before additional
+Essence and nuyen must be spent to modify the body to handle
+the extra stress. Each point of strength enhancement beyond 3
+requires an additional .4 points of Essence and another 25,000¥.
+A character having his arm enhanced must undergo cybersurgery
+for the mounting reinforcement on the shoulder or elbow.
+depending on whether the character has a full cyberarm or a par-
+tial one. Enhancements to legs require cybersurgery on the hip for
+a full limb and the knee for a partial.
+
+
+A character may possess an average augmented Strength
+Rating up to a maximum of twice his Body, or Body + 4, whichev-
+er is lower. A character with Body 3 can have an average Strength
+Rating no greater than 6; a troll character with Body 9 can have an
+average Strength no greater than 13.
+Partial Cyberlimbs
+Characters may boost the inherent strength of cyberhands
+and feet, but the boosted strength does not add to the Power of
+unarmed combat attacks. Such enhancements cost 65,000¥ per
+point of additional hand or foot strength to a maximum of +3 and
+cost no additional Essence. Increased hand strength can only be
+applied to gripping, not arm leverage.
+Cyber lower arms and legs work like cyberhands and feet,
+except that strength enhancements for them cost 120,000¥ per
+point-60,000¥ if the adjacent hand or foot already has enhanced
+strength.
+Trolls and Cyberlimbs
+Strength enhancements for cyberlimbs apply differently to troll
+characters than to characters of other races. For non-troll characters,
+their relatively low Strength makes the hefty Essence losses for
+large Strength enhancements (+4 and up) of cyberlimbs reason-
+able-these characters are getting far more than their basic biology
+allows them to accomodate, and the invasive work needed to sup-
+port the limb should entail big-time Essence loss. Trolls, by contrast,
+have an average Strength of 8. Under normal rules, a troll whose
+arm got ripped off would have to pay 2 Essence points to get a
+cyberarm that matched his average biological strength, with no
+bonuses at all. To compensate for this unfair penalty, treat the basic
+Strength of a cyberlimb for a troll as 8 instead of the usual 3.
+Cyberlimbs with Strength enhancements higher than 8 cost troll
+characters the standard .4 Essence loss per point.
+QUICKNESS ENHANCEMENTS
+Quickness enhancements to cyberlimbs must be balanced
+across a pair of limbs. A pair of cyberarms or a pair of cyberlegs
+must have the same level of Quickness enhancements. If they do
+not, the player character must apply a modifier equal to the dif-
+ference between the limbs' Quickness Ratings to the target num-
+bers for all tests involving movement or coordination of any kind.
+Modifiers from arm and leg pairs are cumulative.
+Determine the average Quickness of multiple enhanced limbs
+as for Strength enhancements. Quickness altered in this manner
+affects Reaction and Initiative.
+Limitations
+As with Strength enhancements, any single cyberlimb can
+only handle a maximum of 3 points of Quickness enhancement
+before a player character must spend additional Essence and
+nuyen to modify the body to handle the extra stress. Each point
+of Quickness enhancement beyond 3 requires an additional .3
+points of Essence and another 20,000¥. Cybersurgery is required
+for additional mounting reinforcement to the appropriate joint.
+The maximum average enhanced Quickness a character can
+possess is equal to twice his natural Quickness (including any
+bioware the character may have) or Quickness + 4, whichever is
+lower. For example, a character with Quickness 3 can have an
+average enhanced Quickness Rating of no greater than 6; an elf
+character with Quickness 9 can have an average enhanced
+Quickness no greater than 13.
+BODY ENHANCEMENTS
+Body enhancements give a character protection above and
+beyond the equivalent layer of dermal armor received for each
+pair of cyberarms or legs. Body enhancements can only be
+applied to pairs of limbs, up to a maximum of an additional +3
+Body per pair. A character with a pair of cyberarms and full Body
+enhancements would receive +3 to his Body Rating. If the charac-
+ter has cyberarms and cyberlegs with full Body enhancements, his
+Body Rating rises by +6.
+Body enhancements cost no additional Essence. However,
+they bulk up a limb significantly, making it much more difficult to
+conceal its nature. For each point of Body Enhancement per pair of
+cyberlimbs, apply a -1 modifier to the target numbers of any visu-
+al Perception Tests made to notice and recognize cyberlimbs (see
+Perception, p. 185, SRII; also Detecting Cyberlimbs, p. 49).
+MULTIPLE ENHANCEMENTS
+Players who choose to give their characters multiple types of
+enhancements to the same limb will discover that the require-
+ments and modifications for one type of enhancement are often at
+odds with those of another. To reflect this fact, add 10 percent to
+the purchase price of any additional enhancements. For example,
+a character who already has a Strength enhancement in one
+cyberarm must pay an additional 10 percent of the cost of
+Quickness or Body enhancements he wants to add. If the charac-
+ter adds Quickness and later adds Body, he must pay an extra 10
+percent of the cost of the Quickness enhancement and 10 percent
+of the cost of the Body enhancement. If he wishes to add
+Quickness and Body enhancements at the same time, the costs for
+both increase by 10 percent.
+DANGLING AND HOLDING
+The introduction of the cyberlimb magnetic system begs the
+question of just how long a character can dangle, lift, and hold on
+in various situations. The character's weight, the weight of any
+object the character may be holding on to, and the character's
+Strength, Body and Willpower ratings may all come into play.
+depending on the specific action the character is trying to accom-
+plish. Keep in mind that the following game mechanics do not
+accurately reflect all the possibilities in real-life situations. To spell
+out rules in such detail would require complex geometric pro-
+gressions that only a mathematician could love. These rules are
+intended as rough guidelines to keep things simple, and
+gamemasters may modify them as they see fit.
+A character's weight is determined by his Body Rating.
+Different races have different ratios of weight to Body points, as
+Indicated by the racial averages listed on the table on p. 52. To
+determine a character's approximate weight, consult the Weight
+to Body Table and multiply the listed kilograms by the character's
+Body Rating.
+
+
+WEIGHT TO BODY TABLE
+Race	Kilograms per point of Body
+Dwarf	13
+Elf/Human	24
+Ork	16
+Troll	28
+
+Though actual weight may vary from character to character,
+using the Weight to Body Table allows the gamemaster to make a
+rough approximation. The weight-to-Body ratio also applies to
+increases in Body conferred by cyberware.
+For each point of Strength a character with one cyberarm pos-
+sesses, he can hold 15 kilograms with that arm. A character with
+two cyberarms can hold a total of 30 kilograms for each point of
+Strength. However, the character can only hold that weight with-
+out difficulty for a time period equal to the sum of his Strength,
+Body, and Willpower ratings, multiplied by 15 seconds. For exam-
+ple, an average human (Strength 3, Body 3, Willpower 3) can hold
+up to 45 kilograms (Strength 3 x 15 kilograms) for a base time of
+two minutes and fifteen seconds (9 x 15 seconds = 135 seconds,
+or 2 min. 15 sec.).
+For every 5 kilograms or part thereof that the weight exceeds
+the character's limit, the base time is reduced by 20 percent
+(round up). For example, assume that an average human is trying
+to hold on to something that weighs 70 kilograms. The object in
+question is 25 kilograms over the character's weight limit (70-45
+= 25), which means that the 20-percent reduction in the base
+holding time applies five times-once for every five extra kilo-
+grams (25 divided by 5 = 5). Twenty times 5 equals 100, and so
+the base holding time is reduced by 100 percent. This character
+has to struggle to hold on to the object right away.
+If a character is holding something that weighs less than the
+maximum he can hang on to, the holding time rises by 10 percent
+(rounding up) for every 5 kilograms or portion thereof below the
+character's limit. For example, an average human is holding on to
+an object that weighs 30 kilograms, or 15 kilograms below that
+character's limit (45-30 = 15). The 10-percent increase in the base
+holding time applies three times (15 divided by 5 - 3), for a total
+increase of 30 percent. Thirty percent of 135 seconds equals 40.5
+seconds; added to the base holding time of 2 minutes and 15 sec-
+onds, this means that the character can hold the object without dif-
+ficulty for just under 3 minutes (2 minutes and 56 seconds).
+Once a character reaches his limit, he must make a test pit-
+ting the sum of his Strength and Willpower ratings against a tar-
+get number equal to the weight of the object being held divided
+by 15 (rounding up). For example, an average human holding on
+to a 45-kilogram load rolls 6 dice (Strength 3 + Willpower 3 = 6)
+against a Target Number 3 (45 kg divided by 15 = 3). If the test
+fails. the character drops the object. If the test is successful, the
+character holds on to the object for another 2 Combat Rounds (6
+seconds). In the third Combat Round the character must make
+another test, with a +1 modifier to the target number. An addi-
+tional +1 modifier applies to every subsequent test made to con-
+tinue hanging on to the object.
+Once the character reaches his limit he must also begin mak-
+ing Damage Resistance Tests against a Power Rating equal to the
+amount of weight he is attempting to hold, divided by 15 (round-
+ing up). For example, an average human holding on to a 45-kilo-
+gram weight would make a Damage Resistance Test against a
+Target Number 3 (45 divided by 15 - 3). An average human
+attempting to hold 75 kilograms would make a Damage
+Resistance Test against a Target Number 5 (75 divided by 15 = 5).
+Attempts to hold heavy objects cause Light Stun damage at
+first. The damage increases by one level for each multiple or part
+thereof of the base weight the character can hold, rounding up.
+Damage is taken immediately. An average human holding onto a
+45-kilogram weight would make his Damage Resistance Test for
+Light Stun damage; the same character attempting to hold a 75-
+kilogram weight would make a Damage Resistance Test for
+Moderate Stun damage.
+If a character attempts to hold on to an object that weighs
+less than 20 percent of the maximum, he can hold the object
+indefinitely. Excessively heavy weights are up to the gamemaster
+to decide. Player characters should get at least some chance to
+pull off the heroic, one-turn hanging-on act with something real-
+ly heavy, but holding on to a rhino falling off a skyscraper is out of
+the question.
+For dangling characters attempting to keep their grip on
+something, the character's weight functions as the maximum
+weight he can easily hold. When cumulative damage from the
+character's exertions renders the character unconscious, the char-
+acter falls. If the gamemaster wishes, he may make a Willpower
+(6) Test for the character once the cumulative damage reaches the
+Deadly level. Success allows the character to hang on for a period
+of time determined by the gamemaster. If no successes are
+achieved, the character loses his grip and plummets. Keep in
+mind, however, that imposing this option is somewhat harsh for a
+character in such a life-or-death situation.
+CYBERGUNS
+Cyberguns mounted in a cyberlimb cost no Essence.
+Cyberguns mounted in a natural limb or other body part do cost
+Essence, as indicated on the Cybergun Essence Costs table.
+Additional rules for cyberguns appear on p. 86, Street
+Samurai Catalog, Second Edition.
+CYBERGUN ESSENCE COSTS
+Weapon
+Essence Cost
+Hold-out Pistol
+.15
+Light Pistol
+.35
+Machine Pistol
+.4
+Submachine Gun
+.6
+Heavy Pistol
+1
+Shotgun
+1.1
+
+
+CYBERARM GYROMOUNT
+The effective Strength employed for the purposes of recoil
+modifiers (p. 83, Fields of Fire) is the Strength of the cyberarm in
+which the gyromount is located, not the Strength of the charac-
+ter's meat body.
+CYBERSURGERY
+Cybersurgery requires a skill test on the part of the perform-
+ing surgeon. The surgeon may use the Biotech (B/R) Skill or one
+of its appropriate Concentrations or Specializations, or an appro-
+priate Special Skill at the discretion of the gamemaster. The base
+target number for this skill test is equal to 10 minus the Essence
+that the character intends to end up with (rounding down). For
+example, if a character is having cyberware Installed that would
+result in an Essence of 2.3, the Base Target Number would be 8
+(10-2 - 8).
+Appropriate modifiers to the skill test target number appear
+in the Doctoring Table (p. 113, SRII). The character is assumed to
+be in Intensive Care but may or may not have access to long-term
+magical care at the discretion of the gamemaster. Note, however,
+that alpha-, beta-, and delta-grade clinics always have healing
+magicians on staff. All other modifiers apply as needed.
+These rules assume that the surgery is successful-medical
+science in 2056 has progressed to a point where table deaths are
+rare. The skill test determines exactly how well the cyber-implant
+surgery was performed, especially the delicate work of the neu-
+rological interface. The successes achieved by the doctor can raise
+or lower the actual Essence Cost of the cyberware being installed,
+as indicated on the Essence Cost Change Table.
+Apply the percentage indicated to the Essence Cost of the
+piece of cyberware. rounding up. If the result would leave the
+character with less than 0 Essence, assume the surgery is aborted.
+The character survives, but with an Essence Rating of 0. If the char-
+acter in question is at a delta clinic, cybermancy is an option (see
+Cybermancy, p. 64).
+The gamemaster may choose not to reveal to the player his
+character's actual Essence Rating. Instead, the gamemaster may
+simply state what it rounds to for the purposes of magical healing.
+The character must then decide whether to risk additional cyber-
+surgery at a later date.
+Note that cybersurgery is elective surgery (pp. 114-115,
+SRII). In addition to the in-hospital healing time costs, the actual
+surgery also costs nuyen, as indicated on the following table.
+ESSENCE COST CHANGE TABLE
+Successes
+Essence Cost Change
+None
++15%
+1
++10%
+2-3
+no change
+4-5
+-10%
+6 or more
+-20%
+MEDICAL COSTS TABLE
+Wound Level
+Cost (in nuyen)
+First Aid
+Deadly
+400
+Serious
+200
+Moderate
+100
+Light
+50
+Doctor's Services
+Deadly
+400 per day
+Serious
+200 per day
+Moderate
+100 per day
+Light
+50 per day
+Hospitalization
+Lifestyle (includes doctor's services)
+500 per day
+Intensive Care
+(only if Hospitalization Lifestyle applies) 1.000 per day
+Surgery (Includes cost of surgeon)
+Minor Cosmetic
+1,000
+Minor Invasive
+5,000
+Major Invasive
+25,000
+Drastic Invasive
+250,000
+Body Parts (Base Time to Grow)
+Eye (6 weeks)
+10,000
+Limb (10 weeks)
+30,000
+Organ (6 weeks)
+20,000
+Forced Growth (maximum rating 10)
+Cost x Rating
+Divides time to grow by rating
+Reduces compatibility by rating
+EFFECTS OF WIRED REFLEXES
+Characters with wired reflexes or any other kind of cybernetic
+reflex enhancements are prone to react without thinking, because
+they are constantly on edge. At the gamemaster's discretion, such
+a character tends to react reflexively in situations where a per-
+ceived threat exists, regardless of whether or not that threat is real.
+The unexpected appearance of a stranger or dangerous-looking
+people, a sudden threatening move or action, and a violent motion
+in a crowd are all things that might set off a wired character. In
+such situations, have the character make a Perception Test (p.185,
+SRII). Apply a +1 modifier to the target number per +1D6 Initiative
+bonus the character possesses. This modifier represents the char-
+acter's tendency to react before fully analyzing the situation.
+However, the character may also make a Willpower Test against
+the unmodified target number for the Perception Test to see if he
+can hold off his (probably destructive) reaction.
+
+
+The gamemaster should use this rule sparingly, as an occa-
+sional reminder of what it's like to live on the edge. Constantly
+subjecting the character to it will turn him into a hyperactive ner-
+vous wreck and won't be much fun for the player. Reserve this
+mental torture for appropriate situations-potentially threatening
+crowds, lonely dark streets, and particularly tense encounters.
+EFFECTS OF MOVE-BY-WIRE SYSTEMS
+This piece of cyberware can make a character lethal in com-
+bat, but it has drawbacks to match its advantages. Putting the cen-
+tral nervous system into a state of constant seizure, as this system
+does, risks precipitating some unpleasant side effects: TLE-x
+(Temporal Lobe Epilepsy with complications) and CCSS
+(Catastrophic Clonic Seizure Syndrome).
+To check for TLE-x and CCSS. the gamemaster makes
+Attribute Tests at regular intervals for players whose characters
+have the move-by-wire system. The average of the character's
+Body and Willpower ratings determines the number of dice used
+for the test. Magical bonuses to Attributes do not apply to these
+tests: round fractions down. The maximum augmentation of a
+character's Body Rating from cyber enhancements is +2, as these
+enhancements have a limited capacity to affect the chances of the
+character's brain going AWOL. The frequency of the tests and the
+relevant target numbers depend on the level of move-by-wire
+system the character possesses, as shown on the Complication
+Test Table.
+
+
+The gamemaster can
+make these tests at sched-
+uled dates or after a charac-
+ter experiences excessive
+physical or emotional
+Move-by-Wire Level
+stress. The tests should be made when the character is unaffected by any spells that might temporarily boost relevant Attributes,
+as TLE-x or CCSS are more likely to occur when an individual has weakened resistance. If the
+gamemaster achieves 2 successes, the character avoids complica-
+tions. One success means that the character has developed TLE-
+x. If no successes are achieved, the character has developed CCSS
+or both CCSS and TLE-x, at the gamemaster's discretion.
+COMPLICATION TEST TABLE
+
+Test Frequency
+Target Number
+Every 6 months
+3
+Every 4 months
+4
+Every 4 months
+5
+Every 3 months
+6
+
+If the test fails, the character collapses in an epileptic seizure and suffers 6M Damage. The individual becomes unconscious after 10 × 1D6 Combat Turns and remains out cold for 10× 1D6 minutes.
+CCSS
+CCSS is a catastrophic
+breakdown of brain functions. Chronic seizures grip all major per-
+ceptual, motor and associative regions. Basic vegetative functions
+such as breathing work more or less normally, but the affected
+character is incapable of voluntary action and is barely aware of
+what is happening around him. He experiences the world as a ter-
+rifying, whirling chaos of nightmarish sensations and intense pain.
+CCSS renders a victim's move-by-wire system permanent-
+ly dysfunctional and it must be removed. If a character with
+CCSS cannot find a doctor to perform the necessary treat-
+ments, he must make a successful (Unaugmented) Body (5)
+Test every hour or the character dies. For characters who
+undergo treatment, long-term rehabilitation is required. Such
+rehabilitation must last (10 - Unaugmented Body) weeks, to a
+minimum of 5, and includes intensive care, corrective brain
+surgery enough drugs to sink the Titanic, and lots more (at a
+cost of 50,000¥ per week).
+Of course, simply undergoing surgery and follow-up treat-
+ment is no guarantee that the character will be just fine. To deter-
+mine possible long-term damage from CCSS, the treating physi-
+cian makes a Biotech/Transimplant Surgery (10) Test. The CCSS
+Recovery Table indicates the effects of various roll results. If the
+physician achieves no successes, for example, the patient suffers
+Damage Level 4; his Strength. Quickness, and Willpower are all
+permanently reduced by 1, and his Intelligence level becomes
+0- he lives, but with no more mind than a hairbrush. At least 1
+success means the patient eventually returns to near normal func-
+tioning, although he suffers the permanent reductions in
+Attributes as shown on the table. Note these rules assume the
+best possible medical care; this work can only be performed in an
+intensive-care unit. Any attempt to perform this work outside
+such a facility fails automatically.
+CCSS RECOVERY TABLE
+Successes
+Damage Level
+Effects
+6
+1
+-1 Quickness and Willpower
+4
+2
+-1 Quickness, Intelligence, and Willpower
+2
+3
+0
+4
+-1 Strength, Quickness, and Willpower; - 2
+Intelligence
+-1 Strength, Quickness, and Willpower;
+Intelligence level 0 (you lucky lobotomy
+case, you). Adaptation to the social world is
+possible at the level of a family pet.
+The implica-
+tion of these rules
+for game play is
+that Level 1-3
+move-by-wire
+systems may not
+pose too many
+hazards for peo-
+ple with big-time
+bods and/or steely
+wills. Level 4 sys-
+tems are for
+those who want
+to live fast and
+TLE-K
+TLE-x is a condition loosely based on basic TLE syndrome.
+Feelings of alienation, depersonalization, and perceptual distor-
+tions characterize the condition. Coordination of perceptions
+and actions, and judging spatial relationships becomes difficult
+due to a secondary focus developing in the motor systems. In
+circumstances that the gamemaster deems dangerous or tacti-
+cally crucial-such as whether an individual notices some clue or
+sign-a +2 penalty is applied to target numbers for Perception
+Tests, Initiative is reduced by 2, and Reaction is reduced by 1D6.
+The character also suffers a -1 penalty to Charisma and all
+Charisma-based skills in important social situations; the deper-
+sonalization and alienation make his social responses subtly
+inappropriate.
+TLE-x can be treated by a physician who makes a successful
+Biotech/Transimplant Surgery (8) Test. However, this procedure
+cuts away a small area of brain tissue that has become chronical-
+ly dysfunctional, and the guy in the white coat can only do this a
+limited number of times. A second occurrence of the syndrome
+can be treated with a successful Biotech/Transimplant Surgery (10)
+Test. After that the condition becomes chronic and cannot be cor-
+rected. In the case of chronic TLE-x, the epileptic foci can spread
+and the unfortunate victim can develop exciting and romantic
+afflictions like impotence and incontinence. The gamemaster may
+decrease Social skills and Charisma as he sees fit.
+The individ-
+ual with chronic
+TLE-x may also
+suffer acute sei-
+zures, If such a
+character suffers a
+Moderate
+worse) Wound and
+is engaged in
+combat or some
+other type of con-
+flict, the player
+must make a Will-
+power (6) Test. If
+
+
+die horribly in the near
+future-or for truly appalling
+NPCs the sadistic gamemaster
+wants to unleash on runners.
+SCARRING
+For players who want to
+know when their characters
+get scars and how nasty they
+are, use the following guide-
+lines. Whenever a character
+takes a Serious or Deadly
+Wound, have him make a
+Body Test against a target
+number equal to the number
+of boxes of damage taken.
+Apply the appropriate target
+number modifiers listed in the
+Scarring Modifiers Table.
+SCARRING MODIFIERS TABLE
+Treatment Conditions
+Modifier
+-4
+Intensive care (in hospital)
+Not in hospital or clinic
+Bad conditions (Barrens, slums, etc.)
++2
+Terrible conditions (cesspool, sewer, etc.)
++4
+Character was magically healed of
+half or more of the damage
+-4
+Character was magically healed of
+some of the damage
+-2
+Character has dermal plating
++3
+Character has dermal sheathing or some form
+of semi-artificial skin
++2
+Character has proper healing salve for dermal
+plating or dermal sheathing
+-2
+a cyberhand, and a cybertorso
+reduce the adrenal pump's
+efficiency by 40 percent (15 +
+5 + 20 - 40). If a character has
+those cyber enhancements,
+he receives only 60 percent of
+the usual bonus provided by
+his adrenal pump. This reduc-
+tion would affect a Level 2
+adrenal pump as follows. The
+usual bonuses conferred by
+such a pump are +2 to Quick-
+ness, Strength, and Willpower,
+and +4 to Reaction. Sixty per-
+cent of +2 equals 1.2 (2 x.60
+= 1.2), rounded down to 1,
+and so the bonus to
+Quickness, Strength, and Will-
+power drops to +1. Sixty
+percent of +4 equals 2.4 (4 x
+.60 - 2.4), rounded down to 2; the character's Reaction bonus
+drops to +2.
+The Reaction Enhancer system described on p. 38 of
+Comfortably Numb reduces the normal bonuses for the adrenal
+pump by 50 percent.
+SCARRING TABLE
+Number of Successes
+Scar
+Terrible
+Major
+Noticeable
+5+
+Minor
+CYBERWARE
+AND BIOWARE
+Bioware may have greatly reduced effects on heavily
+cybered characters. In some instances, bioware and cyberware
+may produce adverse reactions. The following text applies to
+biotech described in the Shadowtech sourcebook. Bioware items
+not mentioned in this section function normally, regardless of a
+character's cybertech implantations.
+ADRENAL PUMP
+The less meat there is to stimulate, the less effective adrenal
+augmentation becomes. Assuming that an adrenal pump works at
+100 percent efficiency in a body with no cyberware, the
+gamemaster should reduce the efficiency of the adrenal pump by
+15 percent for each cyberlimb, 10 percent for each partial cyber-
+limb, 5 percent for each cyberhand or foot, and by 20 percent for
+a cybertorso. Reductions for partial cyberlimbs and cyberhands
+and feet are cumulative.
+The total reduction of efficiency determines how much of the
+bioware's usual bonus the cybered character receives. A cyberleg.
+DAMAGE COMPENSATOR
+The damage compensator does not affect the functions of
+cyberlimbs or reduce damage to them.
+ENHANCED ARTICULATION
+This systemic implant cannot be integrated into a cyberlimb.
+The Reaction gain conferred by enhanced articulation is lost if the
+character gains a Reaction bonus from Quickness-enhanced cyber-
+limbs or if more than two of the character's limbs are partly or
+wholly replaced by cyberlimbs. Because enhanced articulation is
+system-wide and different limbs do not have different Reaction
+Ratings (the mind truly boggles at this possibility), there is no
+need to come up with formulas for individual limbs.
+MUSCLE REPLACEMENT /AUGMENTATION
+Standard rules for muscle replacement (p. 249, SRII) and
+muscle augmentation (p. 35, Shadowtech) assume that the mus-
+cle/strength increase is applied equally across all the muscle
+Adrenal pumps do not
+function in conjunction with
+move-by-wire
+systems,
+because the combination pro-
+duces violent and uncontrol-
+lable responses completely out
+of proportion to stimuli and the
+body's natural reflexes. Such
+catastrophic overstimulation is
+totally unworkable.
+After making the test, count the successes and consult the
+Scarring Table.
+
+0	surgery can reduce a Terrible scar
+1-2	to a Minor one (see Elective
+3-4	Surgery. pp. 114-115, SRII).
+
+
+A Terrible scar is large, ugly, and impossible not to notice. A
+Major scar refers to noticeable disfigurement or discoloration. A
+Noticeable scar is visible but not
+particularly noteworthy. A Minor
+scar is barely noticeable. Minor
+cosmetic surgery can eliminate
+all except Terrible scars, if the
+player character wishes to pay
+for it. Minor invasive cosmetic groups in the body. Unless a character already has one or more
+cyberlimbs, muscle replacement or augmentation can only be
+accomplished in this way. The presence of cyberlimbs reduces the
+Essence Cost and the purchase price for each point of muscle
+replacement or augmentation by 20 percent (round fractions up)
+per cyberlimb. Note that this rules clarification may create a
+strength imbalance; different parts of the body may have different
+strength bonuses. For applicable rules, see Strength
+Enhancements, p. 50.
+SUPRATHYROID GLAND
+Cyber enhancements affect suprathyroid glands in the same
+manner as adrenal pumps. Note that only major-scale body-
+ware/cyberlimb replacements render the suprathyroid gland use-
+less. Like the adrenal pump, suprathyroid glands are incompatible
+with the move-by-wire systems.
+SYNAPTIC ACCELERATOR
+Synaptic accelerators may be integrated with move-by-wire
+systems only with considerable difficulty. To date, medical spe-
+cialists have successfully combined only Level 1 synaptic acceler-
+ators with move-by-wire systems, and the Integration of the two
+requires extreme care. If a character wants the combination, triple
+the normal cost for the synaptic accelerator. Move-by-wire sys-
+tems can only be implanted simultaneously with synaptic acceler-
+ators. Characters who already possess accelerators cannot receive
+move-by-wire systems, and vice versa.
+SYNTHACARDIUM
+The customary bonus synthacardiums provide to Athletics-
+based tests is not cumulative with any bonuses from cyberlimbs.
+CYBERWARE AND
+SOCIAL INTERACTION
+As noted in various Shadowrun products, heavily chromed
+individuals tend to suffer social disapproval (when did you last
+have a fun conversation with someone who looked like a vending
+machine?). To simulate this reality, the gamemaster may use the
+following optional rules in appropriate social situations and when
+cybered characters are dealing with contacts.
+SOCIAL SITUATIONS
+In some social situations, having lots of cybertech is no big
+deal. The Johnson hiring runners may actually be reassured at
+the sight of would-be employees who look like they can really
+take care of themselves (he may decide he doesn't like them
+much as human beings, but that's not the point). Interrogations
+and other situations where runners are in a position of strength,
+or dealings with people who are used to heavily chromed indl-
+viduals (the military, research scientists, and so on) also pose
+few problems.
+However, excessive cyberware should be a liability for most
+casual social interactions. If a runner Is trying to get some infor-
+mation from a stranger or a person he knows only slightly at a
+
+
+CONTACT REACTIONS TABLE
+Successes	Effect
+4+	Contact remains unaffected.
+3	Contact is slightly aloof or cold.
+2	Contact initially attempts to avoid the runner. Apply a +1 modifier to target numbers for all subsequent Charisma or Social Skill tests.
+1	Contact consistently attempts to avoid the runner without going to excessive lengths.
+0	Apply a +1 modifier to the target number for all subsequent Charisma or Social Skill tests.
+
+Contact shuns runner and refuses to help him unless coerced.
+shop or in a bar, walking in with a look that says "I use metal pol-
+ish every day" is a real no-no. Gamemasters may reflect this in
+game play with the following modifier to Charisma or Charisma-
+based Skill Tests: +1 to all target numbers for every 2 points of
+Essence (or portion thereof above .5) below the normal Essence
+Attribute of 6.
+The gamemaster may adapt this modifier based on the visi-
+bility of the cyberware. For cyberware that is invisible to normal
+senses, such as headware memory, skillsofts, cortex bombs, and
+the like, the +1 modifier may not apply at all. Datajacks should be
+ignored: these items are so common that they cause no social dis-
+approval (unless the character has them mounted somewhere
+very strange indeed). Wired reflexes and cyberware that primari-
+ly affects movement, such as move-by-wire systems, should have
+a modifier; even though the actual cyberware may not be visible.
+its effects are immediately apparent. Disguised cyberware, such
+as cyberlimbs with semi-natural covering, may or may not require
+a modifier depending on the results of Perception Tests needed to
+spot them.
+The +1 modifier should apply to any cyberware the
+gamemaster deems flagrant in appearance (lurid cybereyes, steely
+cyberarms over which a character wears nothing but headache-
+inducing short-sleeved Hawaiian shirts, and so on).
+Additional modifiers are the gamemaster's call, depending
+on the situation. For example, a runner chatting at the bar with the
+staff of a newssheet devoted to cutting-edge cybertech is not
+going to attract anywhere near the negative attention of a street
+samurai conversing with back-to-nature elves who shudder at the
+very thought of implanting metal into themselves. However, the
+gamemaster should always apply a minimum modifier of +1 for a
+character with Essence loss greater than 3.0, unless the circum-
+stances are exceptional.
+Subtle and tricky situations arise when characters use offset-
+ting factors such as tailored pheromones (p. 18, Shadowtech).
+Such things can completely eliminate the Charisma penalty of
+obvious cyberware. However, the person talking to such a runner
+should not behave as they would to a normal individual. They
+know the runner is strange and different, not quite human (or
+metahuman) in the same way they are. The possible situations
+that can arise are infinite, and the gamemaster must use his own
+judgment when dealing with them.
+CONTACTS
+Runners with excessive cyberware appear dangerous to other
+people and may lose contacts as people begin to shun them.
+Contacts who work with cybertechnology or cybered individuals
+on a regular basis may have no problem dealing with heavily
+cybered runners, but in other cases the gamemaster should con-
+sider making over-chromed runners work hard to keep the con-
+tacts they have. The gamemaster should require a periodic
+Charisma Test to see if a given contact is still friendly to the run-
+ner, or if the contact will take at least minimal steps to avoid that
+runner because of a developing aversion. The base target number
+for these tests is 3. Apply Essence-loss modifiers as described in
+Social Situations as well. For contacts, however, the +1 modifier
+should apply even in cases where cyberware is not obvious. This
+rule assumes that a given runner's contact knows the runner well
+enough or has been around him enough to see, feel or intuit the
+effects of any cyberware. In general, this Charisma Test should be
+made once per run. when the runner first seeks out the contact. If
+a gamemaster has players whose runners go out every weekday
+and night. the test may be made less frequently. These tests
+should be made for all characters whose Essence loss from cyber-
+ware implantation exceeds 0.5; datajacks can be ignored at the
+gamemaster's discretion. The effects of the Charisma Test depend
+on the number of successes achieved, as indicated on the Contact
+Reactions Table.
+A cybered runner should not lose more than one contact per
+test period. The gamemaster may make fresh tests for all contacts
+the first time they meet the runner after he has additional cyber-
+ware implanted, using the Contact Reactions Table to determine
+their reactions.
+The gamemaster may allow runners to avoid these penalties
+If they make active attempts to keep on their contacts' good
+sides. Make the players work at this; simply buying their contacts
+drinks or handing over money won't do. Runners must use a more
+personal touch-a thoughtful gift, some news about someone
+important to that contact, or some other action to demonstrate to
+the contact that the humanity they sensed was absent from the
+runner is not actually lost.
+Until now, the Essence costs of cyberware have limited the amount of cyberware
+Shadowrun characters could possess. Too much cyberware would have reduced the charac-
+ter's Essence below 0, effectively killing the character. The new cybermancy rules, however,
+enable characters and NPCs to remain "alive" even when their Essence Ratings drop below 0.
+This means that characters may have a nearly unlimited amount of cyberware-provided they
+are willing to suffer the various side effects of a cybermantically sustained existence. This sec-
+tion provides rules for performing cybersurgery/cybermancy operations and for these side
+effects.
+FINDING THE RIGHT PLACE
+Cybermancy is not available everywhere. In fact, cybersurgery that lowers a character's
+Essence below 0 can be performed only at delta clinics. Unlike alpha and beta clinics (see pp.
+98-99. Street Samurai Catalog) characters cannot simply find one of the world's few ultra-
+secret delta clinics in the local phone book or hear about one from friends. And even if a char-
+acter does stumble across such a clinic by some rare cosmic coincidence, he cannot simply
+walk right in and get some work done. Every delta clinic operates under the tight control of a
+megacorp or nation-state. And the staffs at these clinics do no work for anyone unless their
+bosses order them to do so.
+Therefore, Individual gamemasters may decide whether or not to allow cybermancy in
+their games. Gamemasters who choose to incorporate cybermancy should keep in mind that
+characters cannot start the game with an Essence Rating below 0. Because of this rule- and
+because of the potential impact of cybermancy on Shadowrun games-cybermancy should be
+connected to some plot element in a story. Gamemasters should ensure that becoming a
+cyberzombie is an extended, difficult endeavor full of extensive roleplaying-rather than a
+matter of simple dice rolls.
+For example, a megacorp might provide a player character access to a delta clinic in exchange
+for some extremely important work, or as a reward for some service yet to be performed. In the
+latter case, the character should perform one heck of a service and
+the megacorp should have an excellent reason for trusting that the
+runner will come through with the goods. Hatchetman, for
+instance, performed a run that virtually saved a megacorp from
+destruction. He got scragged in the process, so his employer
+decided to reward him by fixing him up better than new. Of
+course, he was also a convenient guinea pig. Regardless of why
+the megacorp patched him up in the first place, Hatchetman now
+owes the corp big time. And the corp expects him to be extreme-
+ly grateful when they decide to call in that marker.
+GROUND RULES
+For game purposes, any character who undergoes cyber-
+surgery that reduces his Essence below 0 automatically under-
+goes cybermancy at the time of the surgery. Only delta clinics
+may perform these procedures. (No rules are provided for the
+actual cybermantic ritual. See Cybermantic Magic, p. 84, for fur-
+ther information.)
+The Less Than Zero section provides rules for the cyber-
+surgery/cybermancy procedure. During the procedure, the char-
+acter receives an implanted automatic-medication system that
+feeds him special drugs, nutrients, and other substances that will
+keep his technically dead body alive. The installation of the auto-
+matic-medication system costs nothing, but refills of the medicine
+cost 15,000¥ each and must be purchased every 10 days. If the
+system runs out of medicine, the character dies immediately. If
+the corp authorizing the cybersurgery/cybermancy really likes the
+character. it might swing him a discount of 1D6 x 5 percent on
+refills. If the corp has something special in mind for the character,
+it might even pick up the entire tab-a practice that provides the
+character with a strong motivation for following orders.
+LESS THAN ZERO
+The cybersurgery/cybermancy procedure is a highly danger-
+ous operation. Unlike regular cybersurgery, which entails no real
+risk of failure, a character undergoing a cybersurgery/cybermancy
+operation may well die on the table. The chance of death increas-
+es the further the character's Essence drops below O.
+To determine whether or not the character survives the cyber-
+surgery/cybermancy procedure, the gamemaster makes a Biotech or
+appropriate medical skill test for the performing doctor. The target
+number for the test is determined by the Essence Rating the charac-
+ter will have if the cybersurgery succeeds. All characters undergoing
+cybermantic operations automatically receive an Invoked memory
+stimulator (IMS), which carries an Essence Cost of .25 and a price of
+137.750¥. Include this Essence Cost when calculating the intended
+Essence Rating of the operation. Then consult the
+Cybersurgery/Cybermancy Survival Table for the target number.
+To determine target numbers for intended Essence Ratings
+lower than those listed, continue the progression shown on the
+table. Technically there is no lower limit, but the possibility of sur-
+viving the procedure becomes vanishingly small as the character's
+Essence drops farther and farther below 0.
+Apply all appropriate modifiers listed on the Doctoring Table
+(p. 113. SRII), except for the -2 modifier for intensive care (delta
+CYBERSURGERY / CYBERMANCV
+SURVIVAL TABLE
+Intended Essence Rating
+Target Number
+-. 05 to -. 50
+4
+-. 55 to -1.0
+6
+-1.05 to -1.50
+8
+-1.55 to -2.0
+10
+-2.05 to -2.50
+12
+-2.55 to -3.0
+14
+clinics are automatically considered intensive-care facilities). Note
+that the Willpower-enhancing magic of the cybermantic ritual
+(Changes to Willpower, p. 82) does not apply in this test.
+If the test fails, the character dies. That's it. The player cannot
+spend Karma on the doctor's skill test to enhance his chances. If
+the test succeeds, the character lives. To determine how well the
+doctor did his job and modify the actual Essence cost of the pro-
+cedure accordingly, see Cybersurgery, p. 53.
+SIDE EFFECTS
+The actual cybersurgery/cybermancy operation is by far the
+riskiest part of using cybermancy. However, a successful opera-
+tion does not mean the character is in the clear. When a character
+undergoes a cybermantic operation, he becomes the central par-
+ticipant in a magical ritual intended to fool his spirit into staying
+with his body. As a result, cybermantic techniques inflict several
+potentially lethal conditions and side effects on the character. One
+such condition, the need for an automatic-medication system. is
+described in Ground Rules. Other side effects are described in the
+following passages.
+BETTER OFF DEAD
+Ironically, cybermancy makes dying easier for a character,
+because it reduces the character's Physical Damage Overflow
+value (Body Rating + 10) by half (round up). (For more informa-
+tion on Physical Damage Overflow, see Exceeding the
+Condition Monitor, p. 111, SRII.) The odds are that the charac-
+ter has boosted his Body Rating by at least one piece of cyber-
+ware or bioware, so initially this side effect does not pose too
+much of a problem.
+However, every time the character experiences Physical
+Damage Overflow and is healed or stabilized, the character must
+make a Willpower Test against a target number equal to twice the
+amount of overflow damage. If the test fails the character dies,
+regardless of any magical or mundane healing measures applied.
+The character may spend Karma to prevent this, and cybermantic
+adjustments to Willpower apply to the test as well (see Changes
+to Willpower, p. 82).
+MAGICAL SIDE EFFECTS
+Characters who undergo cybermantic treatment become
+more resistant to magic. To reflect this side effect, add twice the
+absolute value of the character's Essence Rating to the target
+number of any magical test made against him. (The absolute value
+of -2 Is 2, for example.) Unfortunately for the character, this mod-
+ifier also applies to magical tests used for healing.
+Cybermantic techniques also give a character an astral pres-
+ence-the enchantments woven into his body shine like beacons
+on the astral plane. This has the same effect as if the character
+were constantly astrally perceiving-except that the character
+cannot actually see or sense astral space. The character has no
+awareness of astral space at all. Yes, this means the character can
+be attacked in astral space. Those are the breaks, chummer.
+Harma Hazing
+The term "karma hazing" was coined by a specific hermetic
+organization whose members apparently know more about this
+phenomenon than anyone else. They call it karma hazing because
+they believe that individuals with sub-zero Essence generate per-
+manent astral pollution that may prove disastrous for the collec-
+tive Karma of (meta)humanity.
+Karma hazing makes the cybermantic character's astral
+presence increasingly noticeable to astrally active individuals
+and creatures, who can sense it far beyond normal ranges for
+assensing or astral awareness. Increasingly, the character's
+astral presence registers as a black shadow, a polluted zone.
+To all who can sense it. it somehow feels wrong. Astrally
+active creatures and individuals elther shun the affected char-
+acter or take hostile action against him, and astral predators
+may be drawn to his vicinity. Wraiths (p.110, Paranormal
+Animals of Europe) seem particularly sensitive to karma-
+hazed individuals.
+The gamemaster may approach karma hazing in several
+ways. Most simply, he may ignore it-after all, the risks of disso-
+ciation and cancer caused by cybermancy are bad enough. Also.
+any megacorp that authorizes cybermancy for a character will pro-
+tect their investment by ensuring that their mages do their
+damnedest to disguise the astral signature of a cybermantically
+sustained character.
+Alternatively, the gamemaster may make a periodic Essence
+(4) Test for the character-every month or so, say, or during a
+run-treating the character's Essence Rating as positive for the
+purposes of the test (round fractions up). If the gamemaster
+achieves any successes, sooner or later something takes an active
+and hostile interest in the character. This something may be a crit-
+ter wandering around the astral or a much more dangerous enti-
+ty with a much more specific purpose. This hostile attention can
+form the basis for an entire adventure in which the character must
+shake off the astral menace.
+CHANGES TO REACTION / PERCEPTION
+For every point of negative Essence or part thereof that a
+character has, he receives a +1 modifier to all Reaction Tests
+made when he is taken by surprise (see Surprise, p. 86, SRII).
+For example, a character with an Essence Rating -1.3 would
+receive a +2 modifier to his Reaction Tests in these circum-
+stances.
+
+
+Additionally, a character receives a +2 modifier to all
+Perception Tests for every point of negative Essence or part there-
+of. In situations where a character is deliberately searching for or
+expecting something, he can reduce the Perception Test modifier
+by making a Willpower Test against a target number equal to three
+times the absolute value of his Essence Rating (round up). Each
+success from this test reduces the Perception Test modifier by 1.
+Lost in the Details
+Sometimes a cybermantically sustained character can get lost
+in the details of what he is observing. Whenever a character
+achieves all successes on Perception Tests with modified Target
+Numbers of 5 or more, this occurs. To break free, the character
+may immediately make a Willpower Test against the target num-
+ber of the Perception Test. If the Willpower Test falls, the charac-
+ter remains lost in concentration.
+The player may repeat the Willpower Test in every following
+Combat Turn or once per minute If not in combat, The target num-
+ber increases by 1 each time the test is repeated. If the player fails
+5 tests in a row, his invoked memory stimulator kicks in and the
+target number begins to drop by 1 per each Combat Turn or
+minute. whichever is more frequent.
+Other characters may attempt to attract the cybermantic
+character's attention as well. Each such attempt reduces the
+Willpower Test target number by 1. During Combat Turns, charac-
+ters must spend Simple Actions to make these attempts.
+CHANGES TO WILLPOWER
+For every half point of negative Essence or part thereof that a
+character has, his Willpower Rating is reduced by 1. A character
+with an Essence Rating of -. 75, for example, would experience a
+Willpower Rating reduction of 2.
+However, the cybermantic process magically restores up to 4
+points of Willpower lost because of negative Essence. Note that
+cybermantic magic cannot increase the character's Willpower
+beyond the rating he possessed before undergoing cybermancy.
+
+
+The character is also immune to any form of magic that can
+increase his Willpower Attribute, such as the Increase Attribute
+spell. Additionally, the cybermantic Willpower increase cannot be
+dispelled or broken and is not affected if magic is grounded into
+the character's body from astral space.
+INVOKED MEMORY STIMULATOR
+Whenever a cybermantically sustained character's invoked
+memory stimulator (IMS) kicks In, It dredges up various of the
+character's memories to keep him from slipping away. The char-
+acter hears voices, sees faces, remembers people long dead or
+long forgotten, remembers good times and terrible times. The
+IMS and the memories it provokes have no specific game effects.
+but the gamemaster should use invoked memories as a roleplay-
+ing or storytelling tool. On occasion the character may even con-
+fuse memory with reality, and the gamemaster should feel free to
+mix and match reality with various memories as seems appropri-
+ate. However, keep in mind that this kind of confusion does not
+occur very often.
+SOCIAL AND
+HARMA PENALTIES
+A sub-zero Es-
+sence Rating causes
+characters to act
+strangely in social sit-
+uations. To reflect this
+side effect, add the
+absolute value of the
+character's Essence
+Rating to the target
+numbers for all the
+character's Charisma
+and social-skill based
+tests (round fractions
+up). For Essence Rat-
+ings below -2, double
+the penalty for the
+amount below -2.
+CHRONIC DISSOCIATION SYNDROME TABLE
+Essence Rating
+Frequency of Tests
+-0.05 to -0.50
+1 every 6 months
+-0.55 to -1.00
+1 every 6 months
+-1.05 to -1.50
+1 every 6 months
+-1.55 to -2.00
+1 every 4 months
+-2.05 to -2.50
+1 every 4 months
+-2.55 to -3.00
+1 every 3 months
+-3.05 to -3.50
+1 every 2 months
+-3.55 or lower
+1 every 2 months
+For example, a character with an Essence Rating of -3
+receives a +4 modifier to appropriate target numbers: 2 for the
+first 2 points of negative Essence, plus 2 for the remaining point
+(1 x 2 - 2). A character with an Essence Rating of -3.5 receives a
++5 modifier: 2 for the first 2 points of negative Essence, plus 3 for
+the remaining 1.5 points (1.5 x 2 = 3).
+These penalties apply even if a strong emotional bond
+once existed between the character and the individual he is
+interacting with. Gamemasters may increase the penalties in
+such circumstances, because people who once knew the
+character well may be especially disconcerted by his strange
+behavior.
+Cybermantic characters cannot compensate for their loss of
+social skills by any magical means. The character has crossed an
+absolute threshold, and anyone who meets him knows this at a
+gut, heart, and brain level.
+These social modifiers do not apply in situations where the
+character intentionally intimidates others, such as an interroga-
+tion. In fact, the gamemaster may even use the character's
+Essence Rating to reduce the target numbers of tests in such situ-
+ations.
+Sub-zero Essence also reduces a character's ability to accu-
+mulate and use Karma. Such characters gain Karma at one-half the
+usual rate (p. 190, SRII). Additionally, characters cannot regain
+lost Essence by spending Good Karma.
+LONG-TERM EFFECTS
+Cybermantic treatments also may produce long-term side
+effects that may not be immediately apparent. These effects
+include chronic dissociation syndrome and cancer. (Hey, chum-
+mer, you're the one who wanted to be a walking dead guy. Deal
+with it.)
+CHRONIC DISSOCIATION SYNDROME
+Chronic dissociation syndrome (CDS) occurs when a charac-
+ter's response to his invoked memory stimulator (IMS) deterio-
+rates, The IMS continues to provoke memories in the character's
+mind, but he ceases to respond to them in the same way. Instead, he experiences the memories as alien to himself. The memories produce the same disruptive effects described in Invoked Memory Stimulator and they gradually lose their power to "anchor" the character to the real world as well. The
+images that occupy him are devoid of meaning, a jumble of dis-
+connected events and appearances that serve only to confuse and
+painfully remind the character of the life he once had. The charac-
+ter loses the will to live and seems to fade away from the land of
+the living, his last days spent in a soulless catatonic state,
+The gamemaster makes periodic Willpower Tests to deter-
+mine whether a character develops CDS. The frequency and tar-
+get number for the tests are determined by the character's
+Essence Rating as shown on the Chronic Dissociation Syndrome
+Table. Willpower modifiers from cybermantic magic apply to this
+test, but similar modifiers from any other shorter-term magical
+source do not.
+If a Willpower Test fails, CDS has set in and the character is
+lost to the world. He cannot initiate action, only react. For exam-
+ple. the character cannot initiate combat but can defend himself
+against attacks. CDS adds a +4 modifiers to all Perception Tests the character makes and a +3 modifier for all other tests. Note that
+these modifiers are in addition to any other modifiers already
+applied to the character's tests.
+The character sickens, will not eat, develops untreatable
+insomnia and dies in a number of weeks equal to 3 + his
+Willpower Rating.
+Chronic dissociation syndrome is treatable magically, but
+only trained magicians-those capable of performing the origi-
+nal cybermantic rituals-can perform the treatment. (They don't
+teach the tricks of the trade either, for damned good reasons.)
+Assuming the treatment is conducted in a delta clinic, the afflict-
+ed character makes a Spell Resistance (8) Test. If the test suc-
+ceeds, the magic fails and the character dies. If the Spell
+Resistance Test fails, the syndrome is reversed and the charac-
+ter's IMS begins to function effectively, though it takes a few
+days for this to happen. The character makes a Willpower (6)
+Test to determine how quickly this recovery occurs. The base
+time for this recovery is 1 week; each success on the Willpower
+Test shortens the recovery time by 1 day.
+CDS treatment becomes Increasingly difficult each time the
+syndrome sets in, so reduce the target number for the Spell
+Resistance Test by 1 each time a character repeats the test. The
+target number may never drop below 2, however.
+CANCER
+Cybermancy produces an artificial, forced alliance between a
+character's body and spirit. Magical and technological trickery is
+used to "fool" the spirit into staying, but this means that the body
+as well as the spirit develops problems.
+Just as the insidious sickness of the spirit manifests as karma
+hazing, the body's sickness manifests as cancer. At a very deep,
+primal level, the body knows that the spirit is not truly present in
+it. As a result, the P46-gatekeeper/MIC gene systems present in
+every (meta)human, which normally instruct body cells to die in a
+pre-programmed fashion, no longer send the right biochemical
+signals. Cells that should die remain alive and become cancerous.
+At the same time, cells that should stay alive die, and the body
+necrotizes. This is a ghastly end.
+To determine whether the character will suffer this particular
+long-term effect, roll 2D6 during the initial cybermantic opera-
+tion. If the result is less than double the absolute value of the char-
+acter's intended Essence Rating, the character will eventually
+develop cancer (if he lives long enough). At the gamemaster's
+discretion, the roll result may be increased by 1 if the character's
+unaugmented Body Rating is between 4 and 7, and by 2 if the
+Body Rating is 8 or better-high Body Ratings reduce the chances
+of cancer developing. If the individual has circulating symbiotes
+(p. 15, Shadowtech), the dice roll result can be increased by 1 at
+the gamemaster's discretion.
+If the test fails, the character will develop cancer after 10D6
+months. The cancer will be fast-growing, extremely nasty, and
+incurable. It will kill kill the character within 5 to 10 weeks of its
+appearance (4 + 1D6). The gamemaster decides when to inform
+the player of his character's condition.
+CYBERMANTIC MAGIC
+This book provides no rules for the spells, rituals and magical
+operations involved in cybermancy simply because shadowrun-
+ners are never going to be able to use them. Even if by some wild
+stretch of the imagination a player character managed to learn
+cybermantic techniques, the knowledge would be worth nothing
+unless he also had access to a delta clinic and a dedicated med-
+ical staff at his beck and call for weeks on end (which isn't going
+to happen).
+The Magic and Death section indicates the tasks involved
+in cybermantic magic. The ritual requires a dedicated group,
+takes at least 24 hours to accomplish, involves the equivalent of
+an astral quest (though nowhere near as difficult as the usual
+kind, unless the subject of the magical treatment is intended to
+end up with a very low Essence), and also involves powerful
+spirits in some way. Usually these are Spirits of Man, though a
+certain organization has learned to employ blood spirits instead.
+Finally, some extended form of metamagical centering is used
+to focus the spirit of the subject to enhance the magical "anchor-
+ing" of that spirit to the body.
+The drain produced by the ritual is stupefying-players and
+gamemasters shouldn't even want to think about the number of
+dice rolls that would be needed to simulate it (and all those dou-
+ble-digit Damage codes get really depressing after a while). Even
+high-level initiates of a hermetic group, who can use extra-effec-
+tive Centering techniques against Drain, think more than twice
+about it when they're preparing for the ritual.
+Only a small number of hermetic organizations know the rit-
+uals necessary for cybermantic magic. They are not owners or
+major shakers in corporations, but they willingly work for corpo-
+rate interests and instruct a few corporate mages in just enough
+of the techniques to enable them to perform cybermancy. They
+do not teach the corp mages quite enough to pull off the really
+heavy-duty stuff, such as taking Essence below -3. And these
+organizations only teach those corporate mages who have donat-
+ed blood, skin, bonded foci and similar elements of their magical
+selves as assurances of their good behavior, to ensure that the stu-
+dents will never pose a threat to their instructors. They make sure
+that when it comes to the really big numbers, they must be called
+in personally. And their fees are high enough to buy a Fairlight
+with the change.
+Magic and Death gives some hints on why these organiza-
+tions do this. Money is one obvious motive, but big-time her-
+metics are rarely motivated by greed alone. To some extent, the
+power gained by becoming a big-gun cybermancer motivates
+some. Of course, these organizations may have far more impor-
+tant motives.
+If a player thinks about having his character hit that delta clin-
+ic, don't let him forget into whose hands he might be putting him-
+self. Let him worry a little about it before he makes his choice,
+because once he's gone through with the treatment, worrying
+won't do him any good.
+

@@ -1,0 +1,2029 @@
+# MAGIC
+
+**"Magic is not tuxedos, white rabbits, and fake flowers anymore. It is power."**
+—Arthur Garrett, Chairman, Department of Occult Studies, UCLA
+
+There are few who would have the temerity to argue that any single event in the known history of Earth is more significant than the **return of magic**. The world woke up one morning and suddenly all the rules were different. The boundaries of existence had changed and life had to be relearned. The world had **Awakened**.
+
+In **Shadowrun**, characters can choose to walk one of three magical paths: that of **shamanism**, of the **hermetic tradition**, or the path of **physical discipline**. Whichever path the character chooses, it is for life. There is no going back.
+
+A character who chooses the shamanic tradition becomes a **shaman**. Shamans receive their power through linking their own inner world of emotion, will, and faith with the external world of nature. This link with nature is personified through a **totem**, an animal figure that exemplifies the shaman's beliefs and way of life.
+
+A character who chooses the hermetic tradition becomes a **mage**. A mage sees the universe as a pattern of abstract forces and energies that can be controlled through complex symbols and formulae of power. Where shamanism is intuitive and improvisational, hermetic magic is more **intellectual** in its approach, relying on observation, theory, practices, and precise execution. Mages are **scholars** and often have elaborate libraries and equipment to assist their research and practice.
+
+A character who walks the path of physical discipline becomes a **physical adept**. A physical adept is concerned with mastery and perfection of the physical body in order to achieve a state of inner harmony. A physical adept can do little that does not directly involve the body, but that is usually enough.
+
+In *Shadowrun*, any character with a **Magic Rating** is generically considered to be a **magician**. The title of magician signifies magical ability on some level, regardless of whether it be hermetic or shamanic. Often, the rules simply refer to magicians, encompassing both forms equally. When the rules are referring exclusively to the hermetic tradition, however, the term **mage** is used. If the rules speak only of the shamanic tradition, the term **shaman** is used. Rules for physical adepts are almost unique and overlap little with the rules for hermetic or shamanic magicians.
+
+The path of magic that the character chooses affects how easily he can learn spells and what kinds of spirits he can summon. It may also impose requirements on how the character acts. Indeed, the choice colors the character's whole outlook on life, his relationships with other characters, and his motives for studying magic.
+
+Magicians, regardless of tradition or form, come in two basic types. There is the **full-blooded magician**, who can tap into the full range of abilities of the chosen tradition, and the **adept**, who can only practice certain types and forms of magic within strict limitations. There are two ways to be considered a full-blooded magician:
+1.  The character must either have been **human** during Character Generation, at which time his or her **Priority A** choice was allocated to Magic.
+2.  Or else the character would have had to be a **metahuman** whose **Priority B** choice was allocated to Magic.
+
+To be an adept a character must have been either **human** and had his **Priority B** choice allocated to Magic, or else been **metahuman** and had his **Priority C** choice allocated to Magic. See *Adepts, pp. 124-26*, and *Creating A Character, pp. 40-48*, for more information.
+
+---
+
+## THE SHAMANIC TRADITION
+
+A shaman's magic comes from the **world of nature** and the **power of emotions**. In days past, some "civilized" scholars disparaged shamanism, calling it "primitive" nature worship. When the Awakening came, however, these "backward" primitives knew how to use their new power to pay back the governments and corporations that had oppressed their people for so long. Indeed, shamanism had developed even among some city-dwellers during the boom in occultism at the close of the 20th century. When the magic came back, these "**urban shamans**" found that the old ways worked well in cities, too.
+
+To a shaman, the **universe is alive**. Animals, plants, stones, Mother Earth herself, are all potential allies who can be contacted magically. Before the Awakening, a shaman could only do this by use of hallucinogens, hours of chanting and dancing to the hypnotic beat of drums, or even self-inflicted torture. Though the shamans of the 2050-era still use chants and dance, usually only a few words or motions are all it takes to make the magic happen.
+
+Shamans are in tune with the ways of nature and life. They are concerned with the maintenance and preservation of their environment, be it the wilds of the Pacific Northwest, the expanse of the Sahara, the majesty of the Amazon rain forests, or the wonderfully complex ecosystem that is a modern city. **All is nature**, whether it be rocks, streams, trees, and animals, or concrete, steel, neon, and humanity.
+
+### TOTEMS
+
+To be a shaman, one must have a **totem**. To the shaman, the totem is an ideal to be emulated. Coyote, for example, has his ways, as does Bear. Both are animal images representing an outlook and a way of life. The shaman lives by these ideals, and the totem provides him with a pattern for his life. The totem represents the shaman's perfect self. While in the imperfect form of his mortal flesh, the shaman must do all that he can to live the way of the totem.
+
+An example of how strong are the ties between shaman and totem is the time-honored tradition of the **shamanic mask**. Before the Awakening, shamans wore masks that evoked their totem. Made from primitive materials, these masks were crude or sophisticated, simple or elaborate, depending on the shaman's culture. The shamanic mask was an item of great power. When wearing the mask, the shaman became the totem incarnate. The dividing line between crude flesh and perfect form was bridged, and the shaman and totem were one.
+
+**Physical masks are no longer necessary.** When a shaman performs magic, the physical traits associated with the totem become more apparent in him. The more powerful the magic, the more noticeable these animal traits become. A complete shape-change does not occur, but the effect can be striking nonetheless. If, for example, an Eagle shaman were to perform a minor spell, one not particularly relevant to the Eagle totem, the shaman's features might merely take on a sharper cast, or her chant come to resemble the shrill cry of a mighty bird. When casting a more demanding spell, the same shaman's crooked fingers would become like the talons of an eagle and his or her eyes like the piercing eyes of a hunting bird. When calling on a powerful spell, the shaman's own features can completely dissolve within the image of a mighty eagle's head.
+
+Even without the shamanic mask, the life, dress, and actions of the shaman evoke the totem. Unlike a hermetic mage, a shaman cannot even temporarily cast aside the accouterments of the chosen way without risking the totem's anger. The totem is the way of life. Life is the way of the totem.
+
+#### Choosing a Totem
+
+Technically, it is the **totem that does the choosing**. Sometime early in life, though occasionally later, the would-be shaman feels the call of the totem. Often it will be an event or incident that symbolizes this call and begins the relationship of the shaman and the totem. Though it may take some time for the individual to find the path, the totem is always there waiting for the shaman to walk it.
+
+In *Shadowrun*, players are allowed to choose their characters' totems at the time of character creation. This choice is always **permanent**. Remember, it is the totem that chooses, and though it may not seem so, the totem always chooses right.
+
+The totem must be one of the **wilderness** or **urban** totems.
+* **Wilderness totems** are animals that live in the wild, such as Eagle, Wolf, Bear, and so on.
+* **Urban totems** are animals that have found some niche in the urban ecology: Rat, Raccoon, Dog, and others.
+
+There are hundreds of possible totem animals, but space here to describe only a few. Players who wish to create an alternate totem can work with their gamemaster to define its characteristics, advantages, and disadvantages.
+
+The choice of totem places some **restrictions** on the shaman's use of magic and behavior. It also bestows various **advantages and disadvantages**. A shaman has extra dice in his Magic Pool when casting spells that fall within the power of the totem. Then again, some totems cost the shaman dice from the Magic Pool when he is casting spells outside the totem's power. These dice advantages or disadvantages are called **totem modifiers**. Shamans also get totem modifiers for using Conjuring Skill to summon or banish certain kinds of nature spirits.
+
+It is best to view the totem modifiers as **bonus or penalty dice** that apply in certain situations. For example, Flys Like Wind, a Raven shaman, receives **+2 extra dice** for manipulation spells, but loses **-1 die** for combat spells. When it comes time to cast one of those spells, the shaman has 2 additional dice in the Magic Pool for a manipulation spell, or 1 less if it is a combat spell, at the moment the spell is cast. These dice exist, or are removed, only at the exact moment the spell is cast. If the Magic Pool would normally be used up, but the totem modifier adds 2 dice, then there are 2 extra dice available for casting the appropriate spell at that moment. If there are dice in the pool, but the totem modifier reduces the pool to 0, then no extra dice are available for casting that specific, but ill-favored, spell.
+
+The player should choose a totem that is easy to **roleplay**. A **Bear** shaman, for example, would be deliberate, ponderous, and with a clumsy shamble that looks slow until he has to move fast. A **Rat** shaman might be unwashed and fond of dark corners, always keeping an eye out for an emergency exit. When she has to fight, Rat will fight like a cornered. . . well, rat.
+
+Players should also note that a totem is not just a "bear" or even "the bear." The totem is **Bear**, the archetype for all bears in the world. A totem is not just an animal, but the **essence**, or true spirit, of that animal. Gender-specific pronouns are sometimes used when describing a totem, but these are intended only to bring a certain tone to the descriptions and do not indicate any gender restriction for shamans of that totem.
+
+#### TOTEM TABLE
+
+| Wilderness | Urban |
+|:---|:---|
+| Bear | Cat |
+| Coyote | Coyote |
+| Eagle | Dog |
+| Gator | Gator |
+| Lion | Owl |
+| Owl | Raccoon |
+| Raccoon | Rat |
+| Raven | Snake |
+| Shark | |
+| Snake | |
+| Wolf | |
+
+***
+
+#### Bear
+* **Characteristics:** Bear is powerful in body, but ponderous unless he has to move fast. He seems clumsy and unaware of his surroundings, but he is in harmony with the world and what goes on around him. He is slow in speech but mighty in battle. Bear is a powerful healing totem found in shamanic cultures wherever bears are known, be it North America, central and northern Europe, or Asia. Bear is a **healer**. Unless a Bear shaman has a good reason to refuse healing to someone who needs it, he cannot do so.
+* **Favored Environment:** Forest
+* **Advantages:** **+2 dice** for all health spells; **+2 dice** for conjuring forest spirits.
+* **Disadvantages:** A Bear shaman can go **berserk when wounded**. Whenever a Bear shaman is wounded, his player makes a **Willpower Test** with an injury-modified Target Number of **3**. The Bear shaman will go berserk for **three turns**, minus one turn for every success. If the player rolls 3 or more successes, the berserk rage is controlled. A berserk shaman will attack the closest living thing, using his most powerful weapons (either magical or physical). When the time is up or if the shaman kills or incapacitates an enemy, the berserk fury dissipates.
+
+***
+
+#### Cat
+* **Characteristics:** Cat is stealthy, vain, cunning, and sometimes cruel. Cat loves to ferret out secrets, but dislikes sharing them with others, for she is Cat-Who-Walks-Alone. Cat is an **urban totem**, at home with mankind, either in their company or as a lonely hunter in city streets and alleyways. Cat shamans are solitary types, committed to no one but themselves.
+* **Favored Environment:** Urban
+* **Advantages:** **+2 dice** for illusion spells; **+2 dice** for conjuring city spirits.
+* **Disadvantages:** Cat will **toy with an opponent in battle**, even when the situation is desperate. She will threaten, sneer, and hiss, displaying her dominance. She will also use showy magic, flashy physical combat, or other irrelevancies in the process of the kill. An unwounded Cat shaman must make a **Willpower Test** with a Target Number **6** when she wants to cast a combat spell. If the test fails, she casts the least damaging of the spells she knows. If the shaman is wounded, all this playing around stops. Cat is so fastidiously clean that she suffers a **+1 target modifier** to all her tests whenever dirty or unkempt.
+
+***
+
+#### Coyote
+* **Characteristics:** Coyote is the **Great Trickster**, unpredictably bold one moment, cowardly the next. He can be a friend or a cruel joker who leads one into danger. Coyote is also the **great magician**. A Coyote shaman is too independent to be bound by anything except his word. Like Grandfather Coyote of the legends, he is intensely curious. He is also typically greedy and fond of taking risks just for fun.
+* **Favored Environment:** Anywhere on land
+* **Advantages/Disadvantages:** **None**. A Coyote shaman would never permit himself to be limited by such concepts. He is beyond rules and lives by his own wits.
+
+***
+
+#### Dog
+* **Characteristics:** Dog is **loyal** to friends and family. He fights furiously to defend his home and holdings, but is not generally aggressive outside his own territory. Dog loves people, and will defend them pitilessly from dangerous spirits or evil magic. Once a Dog shaman gives his loyalty or love, he will remain loyal even if the person he loves is unworthy. A Dog shaman will try to protect humanity from evil magicians at any cost.
+* **Favored Environment:** Urban
+* **Advantages:** **+2 dice** for detection spells; **+2 dice** for conjuring field and hearth spirits.
+* **Disadvantages:** Dog is **single-minded**, to the point of stubbornness. Any time a Dog shaman changes his plans or tactics, his player must make a **Willpower Test** with a Target Number **4**. The test itself requires one Complex Action as Dog struggles to change his mind.
+
+***
+
+#### Eagle
+* **Characteristics:** Eagle is the highest-flying bird in the sky, and so comes closest to heaven. He faces the rising sun at dawn and is lord of the highest peaks. Eagle is **proud**, **solitary**, and sees everything that happens on the Earth over which he flies.
+* **Favored Environment:** Mountains
+* **Advantages:** **+2 dice** for detection spells; **+2 dice** for conjuring wind spirits.
+* **Disadvantages:** An Eagle shaman will not tolerate evil or ignoble actions. He is a fierce defender of the land and the purity of nature, with a strong **distrust of technology** and its tools. Polluters and others who would damage the land for profit are Eagle's enemies, and he will brave any danger to defeat them. **Double all Essence losses** caused by adding cyberware, because of the psychological impact this has on the Eagle shaman.
+
+***
+
+#### Gator
+* **Characteristics:** Gator is a greater fighter and a big eater. He is swift to act when action is called for, but lethargic, even torpid, the rest of the time. Gator is often ill-tempered, especially when prodded to action. But once he grips, he holds, and will not turn away from a path he has chosen.
+* **Favored Environment:** Swamps or rivers in the wilderness. Gator is also an urban totem because myth, if not reality, has placed him in the sewers of the great cities. In magic, myth is as good as reality and so Gator thrives among urban shamans.
+* **Advantages:** **+2 dice** for combat and detection spells; **+2 dice** for conjuring spirits of the swamp, lake, or river (if a wilderness totem chosen), or city spirits (if an urban totem chosen).
+* **Disadvantages:** Gator is **lazy and greedy**. As an eater, he prefers to glut himself with food and then laze around. As a shadowrunner, he prefers a job with a big payoff that will let him take it easy until all the money is gone. It can take some hefty argument to make Gator exert himself. His greed makes him loathe to share material goods, and he will almost never make loans or pick up a check. Once on a job, he goes for the **direct solution** and is impatient of subtlety. To make a Gator shaman break off a fight, a chase, or other direct action takes a **Willpower Test** with a Target Number **6**. He also **subtracts 1 die** for illusion spells.
+
+***
+
+#### Lion
+* **Characteristics:** Lion is the **brave and powerful warrior**. His method is direct and pointed, for he is not a creature of subtlety. Lion prefers to work from surprise or ambush, allowing others to perform tasks for him while he holds his strength in reserve. He will take the offensive when necessary. Any threat to his kin or family is a threat to him.
+* **Favored Environment:** Prairie
+* **Advantages:** **+2 dice** for combat spells; **+2 dice** for conjuring prairie spirits.
+* **Disadvantages:** **-1 die** for health spells. Lion is **vain** and demands the most from himself, especially when it comes to his physical condition and appearance. He must live well, and demands respect and loyalty from those around him.
+
+***
+
+#### Owl
+* **Characteristics:** Owl is a **wise and silent watcher**. She rarely speaks, but she sees much. Owl rules the night skies, and so what she hunts, she finds. Owl is friendly to her companions, but terrible to her enemies. By day, she is practically helpless.
+* **Favored Environment:** Any urban or wilderness location, but spell-learning is conducted by **night**
+* **Advantages:** **+2 dice** for any sorcery or conjuring **by night**.
+* **Disadvantages:** **+2** to all target numbers (even non-magical ones) when in **direct sunlight**. Even when Owl is sheltered from the sun, add **+2** to all target numbers for magic **during the daytime**.
+
+***
+
+#### Raccoon
+* **Characteristics:** Raccoon is a **clever bandit** who can break open any trap to remove the bait. He can also escape any danger, for his paws are like cunning hands. Raccoon fights when he must, but prefers **strategy and trickery**.
+* **Favored Environment:** Anywhere but the desert
+* **Advantages:** **+2 dice** for manipulation spells; **+2 dice** for conjuring city spirits.
+* **Disadvantages:** A Raccoon shaman is a **loner**. Like Coyote, his intense curiosity makes him ignore danger in any quest for information. Raccoon can be **greedy** (this is a thief totem), but Raccoon shamans will steal only the very best, for petty thefts and violent robberies are beneath their dignity. Raccoon shamans suffer a **-1 die modifier** for combat spells.
+
+***
+
+#### Rat
+* **Characteristics:** Rat is a **stealthy thief** who is too selfish to share anything, even with his companions. He is also a reluctant warrior who would rather run than fight. Where mankind goes, there also goes Rat, for who else's bounty can sustain him?
+* **Favored Environment:** Urban
+* **Advantages:** **+2 dice** for detection and illusion spells; **+2 dice** for conjuring all Spirits of Man.
+* **Disadvantages:** Rat shamans are usually **dirty and unkempt**. Rat is a **coward**, but when he must fight, he fights to kill. Rat dislikes working out in the open, for a muttered spell from the shadows (or a silenced pistol from a doorway) is more his style. **Subtract 1 die** for combat spells.
+
+***
+
+#### Raven
+* **Characteristics:** Like Coyote, Raven is a **trickster**, clever and devious. Raven is also the **transformer**, responsible for changes. He is a living contradiction, greedy and generous by turns.
+* **Favored Environment:** Anywhere under the open sky
+* **Advantages:** **+2 dice** for manipulation spells; **+2 dice** for conjuring wind spirits.
+* **Disadvantages:** Raven shamans are either **overweight or else rail-thin**. In either case, they are **gluttonous** and always hungry, finding it next to impossible to refuse an offer of food. Raven **dislikes fighting**, preferring to let others handle that part of life. **Subtract 1 die** for combat spells. Whenever **not under the open sky**, Raven shamans suffer a **+1** to all target numbers.
+
+***
+
+#### Shark
+* **Characteristics:** Shark is a **cold, relentless hunter**, who is savage in combat. With no fixed home, he knows all the secrets of the sea. Shark can be a totem of shamans from any sea- or shore-dwelling culture, including the Hawaiian kahunas, the Japanese miko, Haitian houngans, Eskimo angekok, as well as the Native Americans of the Pacific Northwest and any surviving shamans among the few Australian aborigines still living in Dreamtime.
+* **Favored Environment:** On or by the sea
+* **Advantages:** **+2 dice** for combat and detection spells; **+2 dice** for conjuring sea spirits.
+* **Disadvantages:** A Shark shaman may go **berserk when wounded in combat or if he kills an opponent**. Whenever one of these conditions occurs, the shaman's player must make a **Willpower Test**, with an injury-modified Target Number **4**. He will go berserk for **3 turns**, minus 1 turn for every success. If he scores 3 or more successes, he won't go off. A berserk shaman will attack the closest living thing, using his most powerful weapons (either magical or physical). A berserk Shark shaman fights to kill. He may, alternatively, continue to hurl magic or use weapons against the inert body of his last victim, savagely blasting or hacking it. Even if he is not berserk, Shark believes that the only good enemy is a dead enemy. If challenged, he does not waste time with threats or bragging, but strikes, usually to kill.
+
+***
+
+#### Snake
+* **Characteristics:** Snake is a **wise healer** who dwells in many places and knows many secrets. Snake is a good councilor, but exacts a price for her advice. Snake is **adaptable**, and can confuse the senses of enemies.
+* **Favored Environment:** Anywhere except mountains
+* **Advantages:** **+2 dice** for healing, illusion, and detection spells. As a wilderness totem, **+2 dice** for conjuring any one Spirit of the Land (shaman's choice). As an urban totem, **+2 dice** for conjuring any one Spirit of Man (shaman's choice).
+* **Disadvantages:** Snake will **not fight** unless she must defend herself or else hunt to eat. Snake shamans have a **-1 die modifier** for any spells cast during combat. Snake shamans are **obsessed with learning secrets** and will take enormous risks to do so.
+
+***
+
+#### Wolf
+* **Characteristics:** Wolf is the **hunter and warrior**. He is brother to all his pack, and fiercely loyal to his mate and cubs. As the ancient saying goes, Wolf wins every fight but the last, and in that one, he dies.
+* **Favored Environment:** Forest, prairie, or mountain
+* **Advantages:** **+2 dice** for detection and combat spells; **+2 dice** for conjuring forest or prairie spirits (shaman's choice).
+* **Disadvantages:** A Wolf shaman is **loyal to his friends and family until death**. Nothing can make him betray those bonds. Nor will he ever show **cowardice**. When a Wolf shaman extends his protection to another or otherwise accepts a responsibility, nothing can make him betray that bond. Wolf can, however, go **berserk** as a Bear does.
+
+***
+
+#### Insect Totems
+Insects do not appear in this list of totems because they are **rare** in the shamanic tradition. When they do show up, however, it is often as a **dangerous or evil influence**. Veteran *Shadowrun* players already know that dark truth.
+
+### ROLEPLAYING THE SHAMAN
+
+When roleplaying a shaman, the player must take care to behave appropriately for his or her totem. Otherwise, the shaman could lose his link to the totem, possibly even losing all access to its magic. A player who is not certain he wishes to limit his character with a lot of requirements should try playing a **Coyote shaman**, who has more freedom of action.
+
+This does not mean that a Cat shaman never has close friends, or that a Shark shaman must kill anyone who looks at him sideways, but Cat will not reveal her darkest secrets, or even her telecom code, to every chummer she meets. Neither is Shark going to walk away from a fight just because someone might get hurt.
+
+Shamans are human and a totem is not a religion, though it gets close. There are no commandments the shaman must follow. The totem is important because it is what makes the shaman a magician. Gamemasters should be lenient about occasional minor goofs.
+
+If a shaman **consistently behaves out of character** for the totem, then the gamemaster should **punish** the character. At first, punishment will be the loss of any advantages usually gained from the totem. For really persistent behavior, the gamemaster can **reduce the shaman's Magic Attribute by 1 point**.
+
+A shaman can retrieve lost powers once he begins to behave properly again. A special shadowrun that is particularly appropriate to the totem might be required as a final purification, however.
+
+### THE MEDICINE LODGE
+
+The **medicine lodge** is the sacred place of the shaman. It is a little, isolated world where powerful magics can be worked and it is a place for communication with the spirits. Here is where the shaman keeps the special items that are actually and symbolically powerful for him. It is the place where the world of the shaman bridges the worlds of the magical and the mundane.
+
+The medicine lodge must be in an **environment suitable to the shaman's totem**. A Bear lodge should be in the woods, for example, while a Rat lodge could be anywhere in a city. The lodge can be indoors, in a cave, or even an open campsite, as long as it has definite, marked-off boundaries. The lodge should be at least a **3-meter by 3-meter area**; bigger if a group of shamans intend to share it.
+
+A medicine lodge has a **rating**. The lodge's rating is determined by the shaman's ability and available time and money. To learn a spell, a shaman must have a medicine lodge available and it must have a rating at least **equal to the Force of the spell** he wishes to learn. See *Learning A New Spell, p. 132*.
+
+Most tribes have permanent lodges, be it a hogan, teepee, kiva, cave, or pueblo designated as a lodge. Because many shamans stay on the move, they must often lug their lodges around with them. The actual materials would be animal pelts, bones, drums, painted hides, sands for sand paintings, minerals and crystals, and so on. All these are reusable, and need not be replaced after purchase unless the lodge is lost or destroyed. Talismongers sell the magical gear that goes into a medicine lodge. Generally speaking, a medicine lodge's materials cost **500¥ per rating point** and weigh about **2 kilograms per rating point**.
+
+It is best to set up a permanent medicine lodge. If that is not possible, the shaman should haul the materials to an appropriate site and set one up. It takes **one day per rating point** of the lodge to do this because the shaman must charge the new lodge with magical energy to link it to the Earth. It is for this reason that a permanent lodge is more convenient.
+
+Lodges are erected to a specific totem and can be **shared** among shamans of that totem.
+
+### NATURE SPIRITS
+
+One of the most powerful abilities of the shaman is the ability to conjure **nature spirits**. These are strong spirits associated with a specific place or domain, and that personify the forces or nature of that place. They can only be summoned by shamans. See *Summoning Nature Spirits, p. 139*, for more information.
+
+### SHAMAN ABILITIES
+
+Shamans can use magical **Foci** (*pp. 137-39*), cast **Spells** (*pp. 129-32*), and access **Astral Space** (*pp. 145-50*) without restriction. They may also use **Conjuring** (*pp. 139-44*), with some restriction on the types of spirits they may summon.
+
+---
+
+## THE HERMETIC TRADITION
+
+Though some magicians may like the country life, most are **urban types**. Their magic is based on a complicated set of theories that describe the way astral space contracts and intersects with the physical world. As one might expect, there are as many versions of these theories as there are mages.
+
+**Hermetic magic** attracted much interest before the Awakening. Surprisingly large numbers from all walks of life were studying the disciplines of the mage at the time of the Awakening, reacting variously with surprise, relief, or dismay to discover that the magic suddenly worked. Because many of these students were corporate employees studying magic in their spare time, the corporations picked up on hermetic magic very early on. To this day the corporations employ **wage mages** in all capacities, but there are very few shamans. (Try telling Coyote he can only have an hour for lunch.)
+
+Mages see the universe as a complex of abstract forces ranging from the simple and complex laws of natural physics to the equally simple and complex laws of metaphysics. How these forces work with and against each other, and how these forces can be controlled, is the territory of the hermetic mage.
+
+Before the Awakening the process by which a mage opened up to those forces, and thereby controlled them, required lengthy, complex ceremonies. Now, a mage can work magic with a few gestures and key syllables of invocation. The elaborate rituals and equipment are necessary only for special situations.
+
+The desire of the mage is to know, firsthand, the **inner reality of the universe**. The mage may practice magic for its own sake, or for the nuyen it earns, or for power, but a mage is a **scholar** whose art demands constant study.
+
+### HERMETIC LIBRARIES
+
+Mages spend a lot of time doing **research**. They need extensive reference libraries for many activities: learning new spells, designing magical rites, summoning spirits, and so on.
+
+Hermetic libraries are **specific to a given skill**. That is, a mage needs separate libraries for:
+* **Sorcery**
+* **Conjuring**
+* **Magical Theory**
+
+Libraries, unlike the skills themselves, do not have Concentrations or Specializations. They do, however, have **ratings** reflecting their completeness and level of information.
+
+* A mage needs a **sorcery library** in order to increase his Sorcery Skill. Without it, skill advancement is very difficult (*see Skills, p. 190*).
+* A **conjuring library** is vital in the summoning of elementals (*see Conjuring, p. 139*).
+* A **magical theory library** is required to learn new spells (*see Learning A New Spell, p. 132*).
+
+In the 2050s, print is almost dead, but many mages are old-fashioned enough to enjoy the feel of a physical book. Libraries can consist of printed books and papers (**hardcopy**). Though bulky, books are accessible almost anywhere and not subject to power failures. Alternatively, a library, like any other information, can be stored on a **mini-CD** (compact disk) or **optical chip**. The space required to store them is small, but the mage needs a data reader or computer to access them. **Datasoft libraries** (*see Skillsofts, p. 248*) are available, but they are expensive and not easily shared with other mages. A library can mix all three types of storage.
+
+Mages can **share libraries**. Access to the thaumaturgical section of any big university library or corporate reference department lets any number of mages pursue projects at the same time. These large research facilities have nearly any rating a mage may require, within reason. Libraries above **Rating 4** are difficult to find and acquire access to. Libraries often charge legitimate, registered users a fee on an hourly basis equal to the rating of the library in **nuyen**. Illegal users may find the owners taking exception to their using the data.
+
+Libraries can hold an amount of data equal to their rating, **squared, times 100 Mp (megapulses)**. A Rating 6 sorcery, conjuring, or magical theory library would, for example, require **3,600 Mp**, or **3.6 Gp (gigapulses)**.
+
+* **Hardcopy libraries** require roughly **one-half cubic meter** of space per 100 Mp of data. They also cost their rating points, squared, **times 2,000¥**. So again, that Rating 6 library would cost **72,000¥**.
+* **Electronic data** merely requires sufficient CD or chip storage space.
+    * A magical library on **CD** holds **100 Mp per disk** and costs its rating points, squared, **times 1,000¥**. On disk the Rating 6 library would take up **36 disks** and cost **36,000¥**.
+    * Data-storage **optical chips** hold up to **1 Gp per chip** and cost its rating points, squared, **times 1,200¥**. On chip it would take up **four chips** and cost **43,200¥**.
+
+Library ratings are **not cumulative**. Combining a Rating 2 library with a Rating 3 library does not result in a Rating 5 library. It is still only a Rating 2 or 3 library.
+
+### THE HERMETIC CIRCLE
+
+Sometimes a mage needs to set up a **hermetic circle**. It can be in any convenient, private place, indoors or out, but should be secluded so that operations will not attract gawkers.
+
+Hermetic circles are prepared for a **specific spell or conjuring**. For example, if the mage wants to use ritual sorcery to cast a stink spell on someone, he must prepare a circle for that specific spell. He could not use the same circle to cast a mask spell the next day, but must draw a new one. The same goes for summoning elementals. A circle created to summon a fire elemental is useless for summoning water elementals (not to mention downright insulting to the elemental).
+
+Once the circle has been drawn, it can be **re-used for the same mystical operation**. It is quite common for a mage to draw a circle for summoning a fire elemental, leaving it in place for another day and another summoning.
+
+Hermetic circles have **ratings**. There is no limit to the rating of a circle a mage can create, as long as he has sufficient time and enough room. Actually drawing and empowering the circle takes a number of hours of uninterrupted work **equal to the circle's rating**. The circle is a base **3 meters in diameter**, plus an additional number of meters equal to the rating. That means a Rating 6 Hermetic Circle would be **9 meters in diameter**.
+
+A circle's rating **limits the maximum rating of an operation** conducted within it. For example, summoning an elemental with a Force 6 requires a hermetic circle with at least a **Rating 6**.
+
+A hermetic circle is **linked to the mage who inscribed it**. This link can be traced through astral space, though with some difficulty (*see Astral Tracking, p. 149*). Also, like spell constructs, the style of a circle's creator is identifiable within its construction. See *Astral Perception, p. 145*, for more information.
+
+---
+
+## ADEPTS
+
+A less powerful form of magician, an adept is **focused and restricted in his abilities**. Like full magicians, adepts have a **Magic Rating** and lose points from that Attribute as they suffer Essence loss or Deadly wounds. There are three types of adepts:
+1.  **Magical adepts**
+2.  **Shamanic adepts**
+3.  **Physical adepts**
+
+### MAGICAL ADEPTS
+
+A magical adept can use **only one magical skill**. An adept who uses only Sorcery Skill is often referred to as a **sorcerer**, while one who uses only Conjuring Skill is referred to as a **conjurer**. Sorcerers are the most common kind of magical adept. Whatever skill the adept picks, he will follow the normal rules for that skill.
+
+Like other magicians, magical adepts must choose between the **shamanic and hermetic traditions**. They follow the rules in spell learning and so on for that tradition. Shamans get their totem benefits and penalties, if applicable to the skill. Adepts can use foci like any other magician, if it is applicable to their skill.
+
+The principle difference (and it is an important one) between a magical adept and a full magician is that the adept has **no access to astral space**. A magical adept cannot use astral perception or projection at all.
+
+### SHAMANIC ADEPTS
+
+A different form of adept is the **shamanic adept**, who, as the name implies, must be a shaman. This adept can **only cast spells or conjure spirits for which a totem would offer modifiers**. For example, a shamanic adept of the Bear totem can only cast health spells and can only conjure forest spirits.
+
+Note that shamanic adepts do **not receive totem modifiers** for these activities. They are subject to all the usual requirements for their totem. For example, it is not possible to be a shamanic adept for the Coyote totem, because it does not receive any totem modifiers, nor is it possible with a totem such as Owl, whose spells receive a modifier based on time or place, but not purpose.
+
+Shamanic adepts have full use of their Sorcery and Conjuring Skills for **defensive purposes**, and are capable of **astral perception and projection**.
+
+### PHYSICAL ADEPTS
+
+A **physical adept** is dedicated to improving the body and its abilities. Powers attributed to legendary martial artists, warriors of shamanic peoples, berserkers, and the like, suggest that such adepts may have existed before the Awakening. The first publicly documented physical adept in modern times was **Francis Daniels**, an engineering Ph.D. and fourth dan ki-akido black belt. Much of the current understanding of the abilities of the physical adept are due to research Daniels conducted before his untimely death in the riots attending the collapse of the U.S. government in the Washington D.C. metroplex in 2030.
+
+When a physical adept character is created, his **Magic Rating Points are used to "buy" various improvements** to the physical Attributes, Reaction, senses, and skills. The adept can also "buy" various unique powers, similar to the effects of certain spells. These become permanent abilities for the adept.
+
+It should be noted that the character's Magic Rating Points are **not actually used up** to "buy" the adept abilities. Rather, those points are used as a gauge of how many abilities the adept can acquire (a number of points up to his or her Magic Rating.)
+
+The only magical focus of any use to a physical adept is a **weapon focus**. Foci are described in full beginning on *p. 137*. Note also that a physical adept **cannot use astral perception**, unless it is purchased as an ability. A physical adept **cannot astrally project**.
+
+#### Powers of the Physical Adept
+
+| Power | Cost | Description |
+|:---|:---|:---|
+| **Astral Perception** | **2** | The adept has the ability to see into the astral plane via Astral Perception (*p. 145*), but cannot use astral projection. This enables the adept to use the Sorcery Skill in Astral Combat (*see p. 147*), but the character cannot cast spells nor does he have a Magic Pool. |
+| **Combat Sense** | See below | The adept has an almost sixth sense about an area and any threats around him. Each level purchased gives the adept extra dice in the Combat Pool, as well as the ability to spend Combat Pool dice to assist the Reaction Test in surprise situations (*p. 86*). |
+| **Improved Ability** | See below | The adept purchases additional dice for use with a specific general skill. Dice carry over equally to any Concentrations or Specializations of the skill. In addition to the +2 target modifier received for every circle passed on the Skill Web (*p. 69*), any Improved Ability dice are reduced at a rate of one per circle crossed. Restriction: for Combat Skills, the adept cannot have more extra dice than the character's current Combat Skill Rating. |
+| **Improved Physical Attributes** | See below | Can raise a Physical Attribute (**Body, Strength, or Quickness**), but not a Mental Attribute. If the adept later increases the Attribute using Karma, the cost is based on the *total* attribute rating (including magical improvements). |
+| **Improved Physical Senses** | **.25 per improvement** | These include low-light or thermographic vision, high- or low-frequency hearing, enhanced smell or taste, and so on. Anything that can be improved by cyberware (unless it involves a radio or similar technological phenomena) can be improved by this power. No package deals. |
+| **Increased Reaction** | See below | Gives the physical adept additional points of Reaction, based on the degree purchased. The adept receives only the Reaction bonus, but **no additional Initiative dice**. |
+| **Increased Reflexes** | See below | Gives the adept additional **Initiative dice**, based on the degree of ability purchased. |
+| **Killing Hands** | See below | The adept may use magic to turn Unarmed Combat attacks into deadly **Physical damage**. The player must declare use of Killing Hands with the attack. The attack is effective against creatures with Immunity or magical defenses against normal weapons (*see Powers of the Awakened, p. 214*), and their defensive bonuses do not count. It is a bare-handed strike and cannot be augmented by weaponry or magic, though other physical adept abilities may be used. |
+| **Pain Resistance** | **.5 per point** | Allows the adept to **ignore the effects (injury and Initiative modifiers)** of a number of boxes of damage equal to the number of points acquired. Once damage passes the Pain Resistance limit (e.g., more than 3 boxes for 3 points), all modifiers apply normally. Points work equally on both the Physical and Stun Condition Monitors. Does not prevent unconsciousness or death at Deadly wound level. Also allows the character to resist pain from torture, magic, illness, and so on (add points to target numbers for inflicting pain; subtract from target number to resist pain). Cannot be used to improve the outcome of any form of Damage Resistance Test. |
+
+#### COMBAT SENSE POWER
+
+| Level | Combat Pool Dice | Cost |
+|:---|:---|:---|
+| 1 | 1 | 2 |
+| 2 | 2 | 3 |
+| 3 | 3 | 4 |
+
+#### IMPROVED ABILITY COSTS
+
+| Area | Cost |
+|:---|:---|
+| Athletic Skills | .25/ |
+| Stealth | .25/die |
+| **Combata Skills** | |
+| Armed Combat | .5/die |
+| Unarmed Combat | .5/die |
+| Throwing | .5/die |
+| Projectile Weapons | .5/die |
+| Firearms | 1/die |
+| Gunnery | 1/die |
+
+#### IMPROVED ATTRIBUTE COSTS
+
+| Attribute Rating | Cost |
+|:---|:---|
+| Less than or equal to 1/2 Racial Maximum | .5 \per +1 rating |
+| Up to Racial Maximum | 1 \per +1 rating |
+| Up to 1.5 * Racial Maximum | 1.5 \per +1 rating |
+
+#### INCREASED REACTION COST
+
+| Reaction Bonus | Cost/Point |
+|:---|:---|
+| Less than or equal to 1/2 Racial Maximum | .5\per +1 |
+| Up to Racial Maximum | 1\per +1 rating |
+| Up to 1.5 * Racial Maximum | 2\per +1 rating |
+
+#### INCREASED REFLEXES COST
+
+| Extra Initiative Dice | Cost |
+|:---|:---|
+| 1 | 1 |
+| 2 | 4 |
+| 3 | 6 |
+
+#### KILLING HANDS COST
+
+| Damage Level | Cost |
+|:---|:---|
+| (Strength)L | .5 |
+| (Strength)M | 1 |
+| (Strength)S | 2 |
+| (Strength)D | 4 |
+
+### PHYSICAL ADEPTS AND MAGIC
+
+A physical adept can lose Magic Rating Points just like any other magician. Should that happen, the loss affects any improvements the character has purchased. An adept must give up **1 full point of improvement for every point of Magic lost**.
+
+Once a player has allocated Magic Rating Points to "buy" a power, that power **cannot be changed**, but it can be **upgraded** by spending more Magic points at a later time. For example, if a player puts 2 Magic points into Killing Hands (Strength)S, he could later raise the power to (Strength)D by "spending" 2 more points.
+
+## SORCERY
+
+**Sorcery** is the art of **spellcasting**. Through it, a magician can command and shape the forces of astral space to a specific end. **Shamans** and **mages** can both cast spells without restriction, though the shaman must keep in mind **totem modifiers**.
+
+Though both types of magician can cast spells that are, for all intents and purposes, identical within the *Shadowrun* game system, how they cast spells is entirely different.
+
+**Hermetic mages** command the astral forces through very specific, practiced, precise formulas. Most of the effort is **mental**; the exercise of commanding the forces is a task of mental gymnastics and willpower. Some physical activity accompanies the spell (spoken words, a minor gesture, symbolic material), but it is minor compared to the work the mage's mind is doing. The mage calls up the mental multidimensional image of the spell formula, imposes it on the forces of reality at hand, then shapes, channels, and directs them to the desired end. The casting of a particular spell is an identical procedure each and every time, unless some parameter of the spellcasting has changed.
+
+**Shamans**, however, rarely cast magic the same way twice. Their magic comes from **intuition**, **improvisation**, and an **understanding of the moment**. The forces of nature are **called**, not commanded. The shaman considers the forces of nature to be **allies**, not tools, allies to be praised for their assistance. The specifics of a shaman's spellcasting vary with the moment and the situation. The calling of powers is very personal and must be tailored to the situation. Each dance, each chant, each song is different because each moment is different. Thus, each spellcasting is different. Like the mage, the shaman uses his mind to call on the unseen forces of magic, but his spellcasting has more external components in the form of dances, gestures, chants, or songs. Most of this is voluntary, however. When necessary, the shaman can call the forces of nature with barely a whisper.
+
+That said, it should also be pointed out that though the method of spellcasting differs radically between mages and shamans, both cast the **same spells** within the game system. As far as the *Shadowrun* game is concerned, a mana blast spell is a mana blast, regardless of whether a mage or shaman casts it. The roleplaying of the spellcasting will differ, as explained above, but the procedure and the game statistics behind the spell are the same.
+
+---
+
+## TYPES OF SPELLS
+
+Spells come in two **types** and five **categories**. The two types are **Physical** and **Mana**, and the five categories are **combat, detection, health, illusion, and manipulation spells**. Each category includes many individual spells, which are listed and described in the *Spell Directory, beginning on p. 151*.
+
+### Physical Spells
+
+* Physical spells affect **physical things**. The magical energies are synchronized with the tangible aspects of a target: its composition, mass, momentum, appearance, and so on.
+* Only physical spells can affect **inanimate objects** such as walls, rocks, and the like.
+* Physical spells can affect living things, but they affect the **physical nature and structure** of the being.
+* If the target is a living being, he or she resists physical spells with the **Body Attribute**.
+* Objects made of certain materials are more resistant to magical effects. See *Casting Spells, p. 129*.
+* Unless otherwise noted, physical spells do **Physical Damage**.
+
+### Mana Spells
+
+* Mana spells affect the **intangible elements** of a target, such as the spirit or emotions.
+* They are the **only spells that can affect purely magical targets**.
+* Mana spells **cannot affect inanimate objects** on any level.
+* Mana spells are resisted by the target's **Willpower Attribute**.
+* Unless otherwise noted, mana spells do **Physical Damage**.
+
+### Categories of Spells
+
+#### Combat Spells
+* Combat spells are quick, dirty, and violent. The energy is channeled directly from astral space **through the target's aura**. The target is, effectively, attacked from within.
+* Combat spells **ignore the effects of armor and non-magical, external protections**.
+* The target of a combat spell must be within **line-of-sight (LOS)** of the casting magician (must see the target directly). The magician can ignore transparent obstructions such as clear glass, but not smoked or one-way glass. If the magician cannot see the target, he cannot affect the target. See *Spell Targeting, p. 130*, as well as the descriptions of *Combat Spells, p. 151*.
+* Combat spells can be either **physical or mana spells**.
+
+#### Detection Spells
+* Detection spells are used to **enhance the senses** or to **analyze the environment**.
+* They allow the magician, or the recipient of the spell, to sense things in a manner normally beyond ability, to see or hear from a great distance, and to detect the presence of other beings, magic, life, and enemies. See *p. 152* for the listing of detection spells.
+* Detection spells can be either **physical or mana spells**.
+
+#### Health Spells
+* Health spells are concerned with the **condition and performance of the body**.
+* They can be used to treat or heal injuries, purge poisons or toxins from a body, or affect Attribute Ratings. See *p. 154* for the listing of health spells.
+* Health spells can be either **physical or mana spells**.
+
+#### Illusion Spells
+* Illusion spells **fool the senses**.
+* They can be used to deceive, create things that do not really exist, make things invisible, stimulate the senses, or provide simple or complex entertainment. See *p. 155* for the listing of illusion spells.
+* Illusion spells, which affect the mind, are usually **mana spells**.
+
+#### Manipulation Spells
+* Manipulation spells can **transform, transmute, control, or animate matter or energy**. They are powerful, complex spells that are difficult to control and master.
+* They can control the emotions or actions of a person, move objects or items, shape, create, or channel energy such as light or fire, or change a target's form or appearance by changing its structure. See *p. 156* for the listing of manipulation spells.
+* Unlike combat spells, a manipulation spell used for a violent, destructive purpose actually creates a **tangible physical effect**. A blast of flame strikes the target from the outside, which lets the target benefit from the **protection of armor** and such.
+* Manipulation spells do **not have the same line-of-sight restrictions** as combat spells. See *Spell Targeting, p. 130*, and the listing of *manipulation spells, p. 156*.
+* Manipulation spells can be either **physical or mana spells**.
+
+---
+
+## SPELL COMPONENTS
+
+In addition to type and category, spells have several other components that affect their operation: **Force, Range, Drain Level, Duration, and Exclusivity**.
+
+### Force
+
+* A spell's **Force** sets how powerful it is. Force 1 is the minimum.
+* Magicians learn spells at a specific Force. They can voluntarily cast the spell at a lower, reduced Force, but **never higher** than what they learned. To increase the learned Force, the magician must **re-learn the spell**. See *Learning A New Spell, p. 132*.
+* The higher the Force, the greater its potential effect, the harder it is for the target to resist, and the more draining it is to the caster. The magician must balance effectiveness against Drain.
+* The Force of the spell is the **base number of dice** used to determine the spell's success. These dice may be augmented from the **Magic Pool** (*see p. 85*). See also *Casting Spells, pp. 129*.
+
+### Range
+
+* Most spells have a Range listed as **LOS (line-of-sight)**. If the magician can see the target, he can hit it with the spell, regardless of range. See *Spell Targeting* for more information.
+* Other spells, specifically health spells, have a listing of **Touch**. The caster must physically touch the intended target. If the target resists, the magician must make a successful attack using the **Unarmed Combat Skill** (*see Melee Combat, p. 100*).
+* Detection spells dealing with senses have a **limited, variable range**.
+    * The magician makes a separate **Force Test** (Force dice + Magic Pool dice) against a Target Number of **4 + any applicable injury modifiers**.
+    * **Maximum range in meters** = successes from Force Test * magician's Magic Rating.
+
+### Drain Level
+
+* A spell's **Drain Level** reflects how casting the spell affects the magician himself (fatigue).
+* Drain Levels are rated like a weapon's Damage Level (M Stun, S Stun, etc.).
+* Drain damage is usually **Stun damage**. If the **Force of the spell exceeds the spellcasting magician's Magic Rating**, the Drain damage is **Physical damage**.
+* Drain damage is resisted by rolling dice equal to the magician's **Willpower** against the Drain Level, which is based on the Force of the spell cast. Successes reduce the Damage Level. See *Casting Spells, specifically the Drain Resistance Test, p. 132*.
+
+### Spell Duration
+
+Three Durations are possible: **Instant, Sustained, and Permanent**.
+
+* **Instant Spells** take a Complex Action to cast. They take effect and vanish in the same action, but their effects are usually lasting. Combat spells and some manipulation spells fall into this category.
+* **Sustained Spells** can be maintained over time as long as the magician maintains concentration.
+    * Magicians suffer a universal **target modifier of +2 per sustained spell** to all other tests they must make.
+    * A magician may simultaneously sustain a maximum number of spells equal to his **Sorcery Skill**.
+    * Magicians may maintain spells while astrally perceiving (*p. 145*), but **not** while astrally projecting (*p. 146*).
+* **Permanent Spells** must be sustained for some specified period of time before their effects become permanent (e.g., Health spells). If the spell is dropped before the required time, the effects disappear.
+
+### Exclusivity
+
+* A spell, when learned, can be declared **exclusive**.
+* An exclusive spell **cannot be stacked with another spell or be cast while another spell is being separately sustained**. It is the only one the magician can cast, or have under his control, at that time.
+* Exclusivity allows a spell to be cast at an effectively **higher Force**. See *Learning A New Spell, p. 132*.
+
+---
+
+## SPELL STACKING & MULTIPLE TARGETS
+
+### Spell Stacking
+
+* Magicians may **stack multiple spells** into one long spell and cast them simultaneously with one Complex Action.
+* The magician suffers a **+2 target modifier** to all target numbers involved in casting the spells and to resisting the Drain **per stacked spell**.
+* Magic Pool dice must be allocated **separately** between the various stacked spells. See *Magic Pool, p. 85*.
+* Stacked spells are resolved in the order the casting magician desires.
+
+### Multiple Targets
+
+* A magician may cast a single spell against multiple targets, but must **split the Spell Force dice** up among the targets.
+* The caster must then make **three separate Drain Resistance Tests** against a base target number equal to the original, undivided, Drain of the spell.
+* Magic Pool dice must be allocated against each of the targets individually and for each of the Drain Resistance Tests.
+
+---
+
+## CASTING SPELLS
+
+All spellcasting occurs within **step C (Resolve Actions)** of the Combat Turn sequence (*p. 78*). During the previous step, **Declare Actions**, the magician allocates his **Magic Pool dice** to assist the Spell Success Test, the Drain Resistance Test, or for use as **Spell Defense dice** (*p. 132*).
+
+### Basic Steps in Spellcasting
+
+**A. Determine Spell**
+Determine the spell and its specifics (exclusive check, type, category, duration).
+
+**B. Determine Target**
+Determine the target(s), ensure validity (e.g., line-of-sight), and determine the base target number (Willpower, Body, or Object Resistance Table, *p. 130*).
+
+**C. Apply Situation Modifiers**
+Apply injury (*p. 112*), cover, and visibility modifiers (*p. 89*). Apply modifiers for:
+* Targets within a hermetic circle, medicine lodge, or mana barrier spell: **+1 target modifier per every 2 rating/Force points**.
+* Each spell currently sustained: **+2 target modifier per spell**.
+
+**D. Make Spell Success Test**
+Roll **Force dice + allocated Magic Pool dice** against the modified target number. Count successes. If no Spell Resistance Test is needed, apply successes for the final effect.
+
+**E. Make Spell Resistance Test** (If applicable)
+The target rolls dice equal to their **Body or Willpower** (as appropriate) + Magic Pool/Spell Defense dice against a target number equal to the **spell Force Rating**. Count successes.
+* *Note: If the spell is a damaging manipulation spell, this is a **Damage Resistance Test**, as in Ranged Combat.*
+
+**F. Determine Result**
+Compare the spellcaster's successes vs. the target's successes.
+* Target has more successes: Spell goes off, but **no effect** on the target.
+* Tie: Spell has its **minimum effect** (e.g., Light damage for combat spells).
+* Spellcaster has more successes: The spell has an effect based on the **net successes** (difference between successes).
+
+**G. Make Drain Resistance Test**
+Roll **Willpower dice + allocated Magic Pool dice** against a target number equal to the **modified Force of the spell**.
+* Every **2 successes** lowers the Drain by one level.
+* Apply remaining damage to the **Stun Condition Monitor** (or **Physical Condition Monitor** if the Force exceeded the Magic Rating).
+
+---
+
+## Spell Targeting
+
+* The magician can choose anything within **sight**. Binoculars, glasses, telescopes, and magic/technology that penetrates darkness can enhance vision.
+* A magician cannot cast spells directly at invisible beings or beings in astral space except by using enhanced vision or astral perception.
+* **Remote vision** (telecom screen, security camera, *clairvoyance* spell) is **useless** for casting spells.
+* **Rule of thumb:** Magicians must be able to see their targets with their **own eyes or a natural extension of those eyes**. The image must be the **original image**; nothing that translates the image into another medium works (e.g., optical binoculars work, electronic binoculars that digitize the light do not).
+* Mirrors work; transparent glass is no hindrance. Cybereyes work (Essence cost). Drone cameras do not. See *Combat Spells (p. 151), Spells and Astral Space (p. 149), and Manipulation Spells (p. 156)*.
+
+### Spell Target Numbers
+
+* **Living Being:** **Willpower** (mana spell) or **Body** (physical spell).
+* **Inanimate Object:** Determined by the **Object Resistance Table**.
+* **Treat and heal spells:** Have separate target numbers (see individual descriptions).
+* **Ranged damaging manipulation spells** (e.g., *flamethrower*): Base Target Number **4**.
+
+#### OBJECT RESISTANCE TABLE
+
+| Category | Target Number |
+|:---|:---|
+| Natural Objects (trees, soil, unprocessed water) | 3 |
+| Manufactured Low-Tech Objects and Materials (brick, leather) | 5 |
+| Manufactured High-Tech Objects and Materials (advanced plastics, alloys, electronic equipment) | 8 |
+| Highly Processed Objects (computers, complex toxic wastes) | 10 or more |
+
+### Area-Effect Spells
+
+* The **base radius** of effect is equal to the magician's **Magic Rating in meters**.
+* Area-effect spells affect **all valid targets** (friend, foe, neutral) within the area of effect.
+* **Reducing Radius:** Reduce the base radius by **1 meter** for every **2 dice withheld** from the Spell Success Test.
+* **Increasing Radius:** Increase the area of effect by **1 meter** for every **1 die withheld** from the Spell Force Test.
+* The number of dice removed for area-effect modification may **not exceed the Force Rating** of the spell. Magic Pool dice can be used up to a maximum number equal to the original Force of the spell.
+* Make the Spell Success Test only **once**, then compare the results against the varying target numbers for each valid target.
+
+### Spell Success Test
+
+* Roll **Force dice + allocated Magic Pool dice** against the modified target number.
+* **No successes:** Spell is **miscast** (no effect).
+* **All ones (Rule of Ones):** A **misfire** occurs, and the target number for the Drain Resistance Test is increased by **+2**.
+* **Successes:** Count and keep track.
+
+### Noticing Spellcasting
+
+* Noticing a spellcasting requires a **Perception Test** (Intelligence dice) against a Target Number equal to **twice the difference between the Force of the spell and the Magic Rating of the spellcaster**.
+    * *Example: Magic Rating 6, Force 4 spell. Target Number = (6 - 4) * 2 = 4.*
+* Apply situation modifiers (*see Perception, p. 185*).
+* An additional **-2 modifier** may apply if the observing character is also a magician.
+* An astrally projecting or perceiving character **automatically notices** the colorful astral display.
+
+### Spell Defense Dice
+
+* Magicians may allocate dice from their **Magic Pool as Spell Defense** immediately after declaring actions.
+* This is an **area effect** encompassing all characters or objects within the allocating magician's **direct line-of-sight** that the magician chooses to protect.
+* These dice act as a kind of defensive Magic Pool for all it protects.
+* The allocating magician chooses to use these dice when protected targets are attacked by magic.
+* Spell Defense dice, once expended, are **lost until reallocated** when the Magic Pool refreshes.
+* To benefit, characters must be within **view** (normal or natural extension) of the controlling magician at the time the dice are used.
+
+---
+
+## LEARNING A NEW SPELL
+
+A magician must learn a spell before casting it, either from a teacher or by designing it (covered in *The Grimoire*).
+
+| Tradition | Requirements | Process |
+|:---|:---|:---|
+| **Shaman** | Must study in a **medicine lodge** with a rating eq Spell Force. | Spends time chanting, dancing, and carrying on to whip up an emotional peak. |
+| **Mage** | Needs peace and quiet and a **sorcery library** with a rating \geq Spell Force. | Spends time in meditation, intense study, and formal ritual. |
+
+* **Teachers** cost money (typical price: **1,000¥ * Spell Force Rating + living expenses**).
+* The teacher must be functional (Magic Rating \geq 1) and can teach spells up to the maximum Force they know.
+* **Learning Test:** Success Test using dice from the character's **Sorcery and Magical Theory Skills** against a Target Number of **twice the desired Force**.
+    * A shaman gets totem modifiers, if appropriate. A mage may get extra dice if aided by an appropriate elemental.
+    * Teaching Aid: If the instructing mage has the Teaching Special Skill, they can make a Teaching Test (Target Number = Spell Force Rating - pupil's Intelligence,  min TN 2). Successes reduce the magician's target number.
+* **Time:** Base number of days = **desired Force**. Divide this by the number of successes. Minimum time is **one day**.
+* **Cost:** Costs **Karma** (*see p. 190*) equal to the desired Force.
+* **Failure:** If the player rolls **no successes**, the learning attempt fails (time wasted, but no Karma cost).
+
+### RESTRICTED USE SPELLS
+
+When learning a spell, the magician can accept limitations on its use (**exclusive spells** and **fetish-required spells**). This allows them to cast the spell at a Force Rating higher than their Magic Rating without risking Physical damage. The force modifier is permanent for that spell.
+
+#### Exclusive Spells
+
+* Allows the spell to be cast as if its Force Rating were **2 points higher** for determining the spell's effect.
+* Drain is calculated at the **normal Force value**.
+* **Restrictions:** When casting, the magician **cannot sustain or cast any other spells** in the same action. When sustaining, the magician **cannot cast any other spells or use another magical skill**.
+
+#### Fetish-Required Spells
+
+* A magician needs a physical object (a **fetish**) in hand or touch to cast the spell, chosen at the time of learning.
+* **Reusable Fetish:** Spell is cast at **1 Force Rating Point higher**. A durable object that can be used again and again.
+* **Expendable Fetish:** Spell is cast at **2 Force Rating Points higher**. Used up or destroyed when the spell is cast (needs to be replaced).
+* A fetish belongs to a **specific spell** and cannot be used for different spells.
+* Fetishes can be purchased from a **talismonger**.
+
+| Type | Shamanic Fetishes (Reusable) | Shamanic Fetishes (Expendable) | Hermetic Fetishes (Reusable) | Hermetic Fetishes (Expendable) |
+|:---|:---|:---|:---|:---|
+| **Examples** | Drums, rattles, knives, tomahawks, spears, carved wooden or bone wands, native jewelry, carvings, masks, medicine bags/pouches. | Small packets of herbs, twigs, tufts of feathers/hair, small stones/crystals, crude miniature weapons, bits of bone, shells. | Ornate wands (usually jeweled), rings, amulets and other jewelry, complex illustrated scrolls with diagrams. | Small parchment talismans, chemical mixtures or potions, crystals or stones, painted charms. |
+
+* **Starting Spells:** A magician can begin the game with spells that have Force modifiers. The spell is purchased at the **original Force Rating** and then modified. The maximum Force Rating of **6** still applies for starting characters.
+
+---
+
+## RITUAL SORCERY
+
+**Ritual sorcery** is a spellcasting process in which the spell builds gradually, taking **hours** to complete.
+* It lets magicians **cooperate**, pooling their skills and power.
+* It allows magicians to cast spells on targets that are **not within visual range**.
+* Use the **Ritual Sorcery Concentration Rating** of the Sorcery Skill for all tests.
+* **Shaman:** Must be in a **medicine lodge** with a rating \geq Spell Force.
+* **Mage:** Must be in a **hermetic circle** for the spell being cast, with the circle's rating \geq Spell Force.
+* **Combat spells** cannot be cast using ritual sorcery.
+
+| Ritual Sorcery Material | Cost |
+|:---|:---|
+| Detection materials | 100¥ * Spell Force Rating |
+| Health materials | 500¥ * Force |
+| Illusion materials | 100¥ * Force |
+| Manipulation materials | 1,000¥ * Force |
+
+* Casting the spell uses up the materials, regardless of the outcome.
+
+### MATERIAL LINK
+
+If the magician cannot see the target, he needs a **material link** to perform ritual sorcery.
+* **Living being:** A **tissue sample** that contains the being's DNA pattern.
+* **Non-living being:** An **integral piece** of its structure (e.g., a brick from a building).
+* *Exception: If a ritual team is involved, one member can **astrally guide** the spell, making a material link unnecessary.*
+
+### RITUAL TEAMS
+
+* All members of a ritual team **must know the spell** and belong to the **same tradition** (shamans of different totems may cooperate).
+* **Maximum size** is equal to the **lowest Sorcery Skill Rating** among the members.
+* The ritual counts as **one spellcasting action**.
+* The team designates a **leader**. All tests use the leader's modifiers for totems and equipment.
+* All magicians combine their **Magic Pools into one Ritual Magic Pool** at the start. The pool is **not refreshed** during the ritual.
+* If any member withdraws, reduce the remaining dice in the pool by the number of dice in the withdrawing character's Magic Pool. If this exhausts the pool, the spell **aborts** and all members make a Drain Resistance Test.
+* Individual wounds affect only that individual, unless the leader is the one affected.
+
+#### Astral Guiding
+
+* A team member "spots" the target in astral space.
+* This member **does not contribute to the Magic Pool**, but is subject to Drain.
+* If this forward observer is killed or driven away, the spell **aborts** and all team members must make Drain Resistance Tests.
+* The observer must stay in astral space until the sending of the spell is complete.
+
+### CASTING RITUAL SORCERY SPELLS
+
+**A. Prepare for Sending**
+Team members combine Magic Pools. Leader declares the Spell Force. Team members must drop any sustained spells.
+
+**B. Form Material Link**
+If astrally guided/in view, skip. Otherwise, lock on to target:
+* **Base Time:** Force in hours.
+* **Test:** Leader allocates dice from Ritual Magic Pool against the **Material Link Table** target number.
+* **Success:** A single success is sufficient. Actual time is Base Time \ successes.
+* **No successes:** Spell **aborts**. All members make a Drain Resistance Test.
+
+#### MATERIAL LINK TABLE
+
+| Target Location | Target Number |
+|:---|:---|
+| City or county known | 5 |
+| State, province, or country known | 7 |
+| Continent known | 9 |
+| Unknown | 11 |
+| **Modifiers** | |
+| Target is magically active | +2 |
+| Target is behind a mana barrier | +Barrier Rating |
+| Target is in a hermetic circle or medicine lodge | +Rating |
+
+**C. The Sending**
+Build up power and direct at target:
+* **Test:** Leader allocates dice from Ritual Magic Pool against the **Sending Table** target number.
+* **Time:** Force in hours \ successes. Minimum time is **one hour**.
+* **No successes:** Spell **aborts**. All members make a Drain Resistance Test.
+
+#### SENDING TABLE
+
+| Target Type | Target Number |
+|:---|:---|
+| Specific place | 6 |
+| Human or metahuman | 6 |
+| Specific object | 8 |
+| Spirit | 8 |
+| **Modifiers** | |
+| Target moving faster than running | +2 |
+| Area spell | -1 |
+
+**D. Determine the Effect**
+Spell Success Test is made with **Ritual Magic Pool dice** against a target number determined by the spell and the target. The effect is assessed as a regular spell.
+
+**E. Resist Drain**
+Each member of the team makes a **Drain Resistance Test** as if they had cast the spell alone. Any remaining Ritual Magic Pool dice may be divided among team members for this test. This step occurs even if the ritual sorcery **aborts** at any stage.
+
+## Noticing the Sending
+
+During the Sending stage of ritual sorcery, any magician who sees the target from **astral space** has a chance of noticing the activity.
+
+* **Observer Test:** Make an **Intelligence Test** against a Target Number equal to **Force of the sending - the number of hours into the sending** when the observation takes place.
+    * Only **1 success** is needed to recognize and identify the sending.
+* **Target Magician Test:** If the target is a magician, the chance to notice is calculated as above, but the Target Number **increases by +2**.
+
+---
+
+## Determine the Effect (Ritual Sorcery)
+
+* **Area Spells:** The base radius is equal to the ritual team leader's **Magic Rating** in meters. It can be altered by subtracting dice from the pool, per the normal rules for area-effect spells (*p. 130*).
+* **Spell Success Test:** Make a normal Spell Success Test using dice from the **Ritual Magic Pool**.
+    * Because the material link has been established, modifiers for hermetic circles, medicine lodges, and mana barriers **do not apply**.
+    * Modifiers for cover and visibility **do not apply**.
+    * Only any **injury modifiers** the leader may have apply.
+    * If the leader is a shaman, **totem modifiers** also apply.
+* **Resolution:** The spell is resolved in the normal manner, per the spell description.
+* **Spell Resistance Test:** If necessary, it is made against a Target Number equal to the **Force of the spell or the ritual team leader's Ritual Sorcery Skill, whichever is higher**.
+    * Allies of the target may allocate **Spell Defense dice** (*p. 132*) if they are aware of the sending prior to its arrival.
+
+---
+
+## Sustaining Ritual Sorcery
+
+If the spell is successful and requires sustaining:
+
+* **Using the Ritual Pool:** The ritual team can sustain it by allocating any **remaining dice from the Ritual Magic Pool**. The spell may be maintained for a number of hours equal to the team leader's **Magic Rating * the number of dice allocated**.
+* **Using an Elemental (Mages):** Mages can use an elemental to maintain the spell for a number of days equal to the **Spell Force Rating** (*see Elemental rules later*).
+* **Team Concentration:** Magicians on the ritual team may maintain the spell themselves by staying locked into a team, concentrating on the spell.
+    * This leaves an **astral path** leading back to the team.
+    * It also counts as sustaining a spell, adding **+2 to the Drain Resistance Test** for each team member.
+    * Magicians sustaining a spell this way need not remain physically adjacent, but they can only undertake **non-intensive mundane tasks**.
+
+---
+
+## Tracking Back a Sending
+
+* It is possible to track back a detected sending by following the tendrils of power in astral space. A magician uses the **Astral Tracking** rules on *p. 149*.
+* **Attacking the Ritual Team:** Once found, the ritual caster(s) can be attacked in astral space. During the Sending stage, the ritual team is considered to be present in astral space and is vulnerable to **Astral Combat** (*p. 147*).
+* If time allows, the target can mount a **physical assault** on the ritual team.
+    * If the magicians do not pull dice out of the pool to defend themselves, they are "sitting ducks."
+    * Pulling dice out of the pool to defend themselves **aborts the ritual**.
+
+---
+
+## Resist Drain (Ritual Sorcery)
+
+* Each member of the team acts as if he had cast the spell alone, making a **Drain Resistance Test**.
+* The leader decides how to divide up any **remaining Ritual Magic Pool dice** among the team members.
+* Team members may also add extra dice from foci, totem modifiers, or spirit aid if they have not previously used them in casting this spell.
+* Drain is handled per the individual spell.
+
+---
+
+## FOCI
+
+**Foci** (plural of focus) are items of magical power that assist a magician in casting spells or conjuring spirits. Only **magicians** can use foci. To a magician, a focus is a source of **channeled power**. Foci must be **enchanted** (purchased or created using rules in *The Grimoire*).
+
+### Classes of Foci
+
+Foci have a rating of at least 1, except for Spell Locks (max rating 1).
+
+1.  **Spell Foci:** Help in sorcery (specific spell or category).
+2.  **Spirit Foci:** Help in conjuring.
+3.  **Power Foci:** Boost the Magic Pool.
+4.  **Spell Locks:** Sustain spells.
+5.  **Weapon Foci:** Assist in combat.
+
+### Availability
+
+Foci are generally available through **talismongers** (dealers in arcane objects). Availability depends on power (rating) (*consult the Gear chapter for prices and availability*).
+
+### BONDING A FOCUS
+
+A magician must **bond** a focus before he can use it by spending **Karma**.
+
+* **Karma Cost:** Consult the Focus Bonding Table below.
+* Only **one magician** may bond a single item at a time, and only that magician can use it.
+* If a magician finds or takes another's magical focus, the item can only be used by the new magician if he spends the Karma to bond it.
+
+| Item | Karma Cost |
+|:---|:---|
+| Specific Spell Focus | Rating |
+| Spell Category Focus | 3 * Rating |
+| Spirit Focus | 2 * Rating |
+| Power Focus | 5 * Rating |
+| Spell Lock | 1 Karma Point |
+| Weapon Focus, Small | 4 * Rating |
+| Weapon Focus, Large | 5 * Rating |
+
+### USING A FOCUS
+
+* **Activation:** Takes **one Simple Action** to activate. No action is required to use or apply the focus's benefit (except Weapon Foci, used with a Complex Action armed attack).
+* **Limit:** The number of foci that may be active on a magician at one time is equal to the character's **Intelligence Rating**.
+* **Operation:** Once activated, a focus operates as long as it is on the magician's person (worn, carried, or held).
+* **Deactivation:** If snatched away or dropped, it immediately deactivates. The magician loses all benefits until recovered. It does not need to be re-bound if picked up by the same magician.
+* **Exception:** Spell Locks are an exception to the operation rules (see below).
+
+---
+
+## SPELL FOCI
+
+Spell foci provide **extra dice** equal to their rating for specific purposes. Treat these dice exactly like **Magic Pool dice** for refreshing, but they **cannot** simply be added into the Magic Pool, as they have limited uses.
+
+### Specific Spell Foci
+
+* **Use:** Provides extra dice for the **tests to cast and resist Drain** associated with **one specific spell** (indicated at bonding).
+* **Limitation:** Dice **cannot** be used to defend against the same spell cast by another magician (i.e., **no** help with Spell Resistance Tests).
+* **Spell Defense:** Dice from a specific spell focus **cannot** be used as Spell Defense dice.
+
+### Spell Category Foci
+
+* **Use:** Provides extra dice for the **Spell Success or Drain Resistance Tests** for **any spells** the magician knows within the specified category (e.g., combat, detection).
+* **Defense:** The magician **can** use these dice to assist in **resisting a spell** cast by another magician from within that category.
+* **Spell Defense:** Dice from a spell category focus **cannot** be used as Spell Defense dice.
+
+---
+
+## OTHER FOCI TYPES
+
+### SPIRIT FOCI
+
+* **Use:** Provides extra dice for use with **conjuring**. The magician must declare the **specific spirit type** (e.g., water elemental, hearth spirit) at bonding.
+* **Benefit:** Provides dice equal to its rating to **summon, banish, or control** a spirit of that specific type, and for the **Drain Resistance Test**.
+* **Limit:** The magician may only use a number of dice up to the focus's rating in **all** the various tests associated with summoning a single spirit.
+
+### POWER FOCI
+
+* **Benefit:** They are the most flexible and powerful type.
+    1.  Increase a magician's **Magic Rating by their value** (allows casting of higher-Force spells without physical Drain risk).
+    2.  Add dice equal to their rating **directly into the Magic Pool** (usable for anything regular Magic Pool dice can affect).
+
+### SPELL LOCKS
+
+* **Purpose:** Special foci that sustain a spell without the casting magician's concentration.
+* **Bonding/Activation:** Takes **one Simple Action** and the expenditure of **one point of Karma**. This occurs simultaneously with a successful cast of a **sustainable spell**.
+    * This link sustains the spell from astral space.
+* **Transfer:** Can be given to another magician of the same tradition (shamanic or hermetic) for placement and activation.
+    * Activation occurs by **touch** and a **Simple Action** (and the new magician must be of the proper tradition).
+* **Placement:** Must be placed in **contact with its target** (worn, hung, nailed, pocketed, etc.).
+* **Invisibility:** Once in place, the spell lock effectively **vanishes**. Mundanes cannot see, touch, or affect it. A magician can only see it if they are **astrally perceiving**.
+* **Removal:** If a magician spots and removes the lock, the link is broken, the lock goes dormant, and it must be re-bonded to be used again (can lock a different spell).
+* **Creator Control:** The creating magician can activate and deactivate them at will (Simple Action). It counts toward the creator's limit of active foci.
+* **Drawback (Vulnerability):** An active spell lock creates an **astral thread** connecting it to its creator.
+    * This thread can be traced using **Astral Tracking** (*p. 149*).
+    * It can be used as a **material link** to make the lock's creator vulnerable to **ritual sorcery**.
+
+### WEAPON FOCI
+
+* **Requirement:** User must be magically active (Magic Rating \geq 1) and have bonded the focus.
+* **Benefit:** Adds its rating to the user's **Armed Combat Skill** in a fight. Adepts can use a weapon focus.
+* **Missile Weapons:** No one has found a way to enchant missile weapons (firearms, bullets) because a weapon focus only functions in the hands of its owner and ceases to function as soon as it leaves those hands.
+* **Astral Combat:** Does **increased damage in astral combat** (*p. 147*). Paranormal creatures with defenses against normal weapons **do not** have that defense against a weapon focus (*p. 214*).
+    * An image of the focus translates into astral space with the magician when they astrally project.
+    * Active weapon foci are present in astral space and can be used against critters or spirits present only there.
+* **Regeneration:** If used against creatures with regeneration (*p. 219*), and the wound is Deadly or takes the creature down, the creature must make an **Essence Test** against a Target Number of **2 * weapon focus rating**. If the test fails, the critter does not regenerate.
+* **Construction:** Must contain the magical metal **orichalcum** (alloy of copper, gold, silver, and mercury).
+
+---
+
+## ATTACKING THROUGH A FOCUS
+
+An active focus of any kind creates a continual, open bridge between astral and mundane space. Normally, a spell cannot be cast between these two realms.
+
+* **Attack Method:** An astrally present magician can cast a **physical spell** at the focus's physical component through this channel.
+* **Targeting:** Only the focus itself can be affected, **unless** the attacking magician casts an **area-effect spell centered on the focus**. This could hit all targets within the spell's effect area.
+    * Manipulation spells **cannot** be used in this manner.
+* **Attack Procedure (Two Steps):**
+    1.  **Contest:**
+        * Attacker rolls **Spell Force Rating dice** against a Target Number equal to the **rating of the focus**.
+        * Defender rolls dice equal to the **rating of the focus** against a Target Number equal to the **Force of the spell**.
+        * The side that generates **more successes wins**.
+    2.  **Result:**
+        * **If the spell wins:** The **spell focus bonding is broken**, rendering the focus useless, and the spell grounds into the physical material of the focus.
+        * **If the focus wins:** The attacking spell **does not ground into it** and dissipates.
+* **Spell Resolution:** Resolve the spell effects normally (*p. 129*).
+    * If not an area-effect spell, it only affects the target in possession of or directly connected to the focus.
+    * If an area-effect spell, line-of-sight is determined from the spellcaster's position in astral space (*see Astral Space, p. 145*).
+
+---
+
+## CONJURING
+
+**Conjuring** is the art of summoning, controlling, and banishing spirits. The **Force Rating** of a spirit (assigned by the magician) determines its abilities and the difficulty of handling it.
+
+* **Nature Spirits:** Personify the forces of the environment. Only a **shaman** can summon or control them.
+* **Elementals:** Arise from the four hermetic elements (fire, water, air, earth). Only a **mage** can summon or control them.
+* *Full abilities and descriptions are in the Critters section, p. 224.*
+
+### SUMMONING NATURE SPIRITS (Shamans)
+
+* **Domain:** A shaman can only summon a nature spirit in that spirit's home domain. They cannot cross out of their domain.
+* **Conjuring Test:** Roll **Sorcery dice** against a Target Number equal to the **Force of the spirit**.
+    * **Totem modifiers** and **extra dice from spirit foci** apply.
+    * **Magic Pool dice DO NOT assist** in any Conjuring-related Tests.
+* **Services:** Each success represents **one service** the spirit agrees to perform. No successes means no spirit comes.
+* **Action:** Requires a **Complex Action**. A shaman can only have **one nature spirit** in service at one time.
+* **Drain Resistance Test:** Must be made regardless of success.
+    * Roll **Charisma dice** (adjusted by totem modifiers and spirit foci) against a Target Number equal to the **Force Rating** of the nature spirit.
+    * Every **2 successes** reduces the Drain by one level. If Drain knocks the shaman unconscious, the spirit **departs**.
+* **Duration:** Nature spirits **vanish at sunrise and sunset** (all services end).
+
+#### CONJURING DRAIN TABLE
+
+| Spirit's Force Rating | Drain Level |
+|:---|:---|
+| Less than half shaman's Charisma | (L)Stun |
+| Shaman's Charisma or less | (M)Stun |
+| Greater than shaman's Charisma | (S)Physical |
+| Greater than twice shaman's Charisma | (D)Physical |
+
+#### Nature Spirit Services
+
+* **Appearance:** First appears in its **astral form** (visible as a slight shimmering). Concealability = **12 - Spirit's Force**.
+* **Calling:** Once summoned, it can be put on "stand-by." Calling it later takes a **Simple Action**.
+* **Powers:** To perform a service, the spirit uses one of its powers as directed.
+    * In **astral form**, it can only use powers that directly protect or benefit the shaman (concealment, guard, movement).
+    * To use powers on others, it must assume its **manifest form**.
+* **Service Count:** Continual use of a specific power counts as **only one service**. Changing parameters (e.g., concealing more characters) constitutes a new service. Using combat powers against multiple foes is **one service**.
+
+### SUMMONING ELEMENTALS (Mages)
+
+* **Requirements:** A **conjuring library** and a **hermetic circle** (of the correct type) with ratings at least equal to the **Force** of the spirit.
+    * **Materials Cost:** **1,000¥ per Force Rating Point**.
+    * **Source:** Each elemental type needs a specific source (bonfire for fire, pool for water, incense for air, heap of earth/clay/rock for earth).
+* **Ritual Time:** Takes a number of hours equal to the elemental's **Force** (uninterrupted).
+* **Conjuring Test:** Roll **Sorcery dice** against a Target Number equal to the **Force of the spirit**.
+    * **Spirit focus** can add extra dice. **Magic Pool dice DO NOT apply**.
+* **Services:** The number of successes determines the number of services. No successes means no elemental comes (materials used up).
+* **Drain Resistance Test:** Must be made regardless of success.
+    * Roll **Charisma dice** (adjusted by spirit focus) against a Target Number equal to the **Force Rating**.
+    * If Drain knocks the mage unconscious, the spirit **escapes free and uncontrolled**. It makes a Force Test against TN 4 to determine if it flees (1+ success) or attacks (0 successes).
+* **Binding Limit:** A mage can bind a number of elementals equal to his **Charisma**.
+
+#### Elemental Services
+
+An elemental is **bound** to the mage and responds to calls. It departs via astral space when not needed.
+
+* **Calling to Service:** Requires a **Complex Action** to command the spirit to appear. The elemental appears in **astral form** (slight shimmering). Concealability = **8 - Elemental's Force**.
+    * Calling an elemental does **not** cost a service, but it is an **exclusive activity** (mage cannot be sustaining spells).
+* **Duration:** If the elemental is just "hanging around" or performing a service for **twenty-four hours**, this uses up an **additional service**.
+* **Line-of-Sight:** Except for remote service, the elemental must remain within **line-of-sight** of the mage (astral senses, *clairvoyance* fulfill this, but electronic viewing does not).
+* **Delegation:** The summoning magician can order the spirit to obey another character (magician or mundane).
+* **Action:** Once called, it takes a **Simple Action** to command a service. Elementals can only perform **one service at a time**.
+
+##### Types of Services (Cost 1 Service to initiate)
+
+1.  **Aid Sorcery (Astral Form):** Gives the mage extra dice equal to the elemental's **Force**. These dice **do not refresh**.
+    * Elementals only help with one category: **Fire** (Combat), **Water** (Illusion), **Air** (Detection), **Earth** (Manipulation). **No elemental can aid Health spells**.
+    * Each die used **reduces the spirit's Force by 1**. When Force reaches 0, it vanishes (but can be re-called for another service).
+2.  **Aid Study (Astral Form):** Adds the elemental's **Force in dice** to the mage's learning attempt for a new spell (*p. 132*).
+    * Must be within the spirit's appropriate category. A mage may only use **one spirit, one time**, for learning a particular spell.
+3.  **Physical Service (Manifest Form):** Commands the elemental to manifest and use its powers (e.g., burn a door, move weight, fight).
+4.  **Spell Sustaining (Astral Form):** Uses the elemental's Force to sustain one spell in the appropriate category.
+    * The elemental can maintain the spell for **one Combat Turn for each point of Force** it has (Force reduces by 1 per turn). When Force hits 0, it disappears. The mage can take over maintenance before it vanishes.
+    * **Permanent Sustaining:** The elemental can maintain the spell for a number of days equal to its **Force**. Each day permanently reduces the spirit's Force by 1 point. When Force hits 0, it is **destroyed and disappears**.
+    * If banished, the spell ends.
+    * Once commanded to sustain a spell, it **cannot perform any other service** until that service ends.
+5.  **Remote Service (Astral or Manifest Form):** Commanded immediately following a summoning (forfeits extra successes and other services). The spirit pursues the job single-mindedly until accomplished, banished, or destroyed. The summoning mage **cannot halt it**.
+
+---
+
+## SPIRIT FORMS
+
+Nature spirits and elementals can assume either **astral** or **manifest** form. Changing forms costs a **Simple Action**.
+
+### Astral Form
+
+* **Existence:** Entirely within astral space (may be noticeable as a slight shimmering).
+* **Services:** Can only perform services that directly affect the **summoning magician** or targets with a **valid astral presence** (*p. 145*). Powers can "ground" through the target's physical body.
+* **Communication/Sensing:** Can communicate with summoner and be sensed by magicians using astral perception or projection.
+* **Attacks:** Physical weapons **cannot harm it**. **Weapon foci** with an image in astral space can harm it, but the wielder must be using astral perception or projection. The "shimmering air effect" cannot be attacked. Can be attacked by **banishing** or **astral combat**.
+
+### Manifest Form
+
+* **Existence:** Assumed to use a power against a target that has only a physical presence.
+* **Vulnerability:** Spirits dislike it because it makes them vulnerable to physical attacks.
+* **Mundane Attackers:** When attacking a manifest spirit with a **mundane weapon**, the character uses **Willpower** instead of the normal Combat Skill. The attacker may **not** add Combat or Magic Pool dice.
+    * Attacks using **weapon foci, magical attacks, or the spirit's vulnerability** use the proper Combat Skill dice and can be augmented by Combat Pool dice.
+* **Immunity:** Manifest spirits have the power of **immunity** against **firearm attacks, ranged weapons** (excluding bows and throwing weapons), and **explosions** (indirect attacks).
+    * They have **twice their Force as armor** (impact or ballistic).
+    * They **do not** have this power against **melee attacks, bows** (except crossbows), and **throwing weapons**.
+* **Services:** Each use of a power is a separate service, unless it's an attack against a group of foes (single service).
+
+---
+
+## SPIRIT INITIATIVE
+
+Spirits move quickly.
+
+* **Astral Form:** Base Reaction as indicated for the spirit type, **plus 20**. Rolls **1D6** Initiative die.
+* **Manifest Form:** Base Reaction as indicated for the spirit type, **plus 10**. Rolls **1D6** Initiative die.
+* **Action Change:** If an astral spirit changes to manifest form during the Combat Turn, it resolves the rest of its action but is ineligible for another action for **20 Phases** (the normal 10 + the +10 Initiative bonus for astral form).
+* **Commands:** Spirits can only receive new commands on their summoner's actions. They can **Delay** actions while waiting.
+
+---
+
+## SPIRIT COMBAT
+
+Spirits generally obey the normal combat rules.
+
+* **Force vs. Force Contest (Spirits vs. Spirits):**
+    * Each spirit uses its **Force dice** against a Target Number equal to the **opposing spirit's Force**.
+    * The spirit that generates the greater number of successes reduces the other spirit's Force by the **net successes**.
+    * A spirit whose Force is reduced to 0 is **destroyed**.
+    * Requires a **Complex Action**. Costs **one service** to initiate but may continue without additional service costs until one spirit is defeated.
+    * Nature spirits may oppose each other within a domain; the spirit with the greater Force wins, and the power takes effect at a Force Rating equal to the difference.
+* **Defense against Damage:** When attacked by a spirit, a magician has the option of using the **Conjuring Skill** in place of the normally appropriate resisting attribute (Body or Willpower).
+
+---
+
+## CONTROL CONTESTS
+
+Two magicians can contest control of a spirit (shaman vs. nature spirit, mage vs. elemental).
+
+* **Action:** Challenger declares the attempt as a **Complex Action**.
+* **Challenger's Test:** **Conjuring Test** against a Target Number equal to **Spirit's Force + 2**.
+* **Controller's Test:** **Conjuring Test** against the **Force of the spirit** (no modifiers).
+* **Modifiers:** Both may use dice from totem modifiers or spirit foci.
+* **Result:**
+    * **Controller wins:** Nothing changes. Challenger makes a **Drain Resistance Test** as if he had conjured the spirit.
+    * **Challenger wins:** Challenger gets control. **Both magicians** must make Drain Resistance Tests.
+    * **Neither rolls successes:** Both attempt to resist Drain, and the spirit goes **uncontrolled**.
+    * If the winner is knocked out by Drain, the spirit goes **uncontrolled**.
+
+### Commanding an Uncontrolled Spirit
+
+A magician with Conjuring Skill can attempt to gain control over an uncontrolled spirit.
+
+* **Test:** Identical to the test for banishing a spirit.
+    * Roll **Conjuring dice** against a Target Number equal to the **spirit's Force**.
+    * Spirit foci and totem modifiers apply.
+* **Services:** Every **2 successes** results in the spirit owing **one service**.
+
+---
+
+## BANISHING
+
+* **Action:** Requires **great concentration** and uses the Conjuring Skill as if the magician were casting an **exclusive spell** (*p. 133*). Requires a **Complex Action**.
+* **Magician:** A magician of either tradition may banish a spirit of any type.
+* **Duration:** The process is repeated until one participant overcomes the other (Magic or Force drops to 0) or the winner breaks off the contest.
+    * If **spirit's Force reaches 0**, it is **utterly destroyed**.
+    * If **magician's Magic Rating drops to 0**, the character **passes out**, and the spirit is free.
+    * Lost rating points (Magic or Force) are regained at a rate of **1 point per hour**.
+
+### Banishing Steps (Repeated)
+
+**A. Make Magician's Conjuring Test**
+Roll **Conjuring dice** against a Target Number equal to the **spirit's Force Rating**. If the magician summoned the spirit, he may add **Charisma dice**. Totem modifiers and spirit foci apply.
+
+**B. Make Spirit's Force Test**
+Roll **Force dice** against a Target Number equal to the **magician's Magic Rating**.
+
+**C. Determine Effect**
+Compare successes:
+* **Spirit generates more successes:** Magician's Magic Rating is reduced by **1 for every 2 net successes**.
+* **Magician rolls more successes:** Spirit's Force is reduced by **1 for every 2 net successes**.
+
+**D. Continue Contest**
+The winner decides whether to continue. If yes, both combatants are **locked** until the winner's next action.
+
+---
+
+## SPIRIT TABLE
+
+| Spirit | B | Q | S | C | I | W | E | R | Attacks | Powers | Weaknesses |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Elementals** | | | | | | | | | | | |
+| Air | F-2 | (F + 3) * 4 | F- 3 | F | F | F | (F)A | F + 2 | Attacks: Per Powers | Engulf, Manifestation, Movement, Noxious Breath, Psychokinesis | Confinement, Vulnerability (Earth) |
+| Earth | F + 4 | (F -2) * 2 | F + 4 | F | F | F | (F)A | F-2 | Attacks: (F)S as Unarmed Combat (Skill = Reaction); +1 Reach | Engulf, Manifestation, Movement | Vulnerability (Air) |
+| Fire | F+1 | (F + 2) * 3 | F-2 | F | F | F | (F)A | F+ 1 | Attacks: (F)M as Ranged Combat (Skill = Reaction); Range = Force * 2 meters | Engulf, Flame Aura, Flame Projection, Guard, Manifestation, Movement | Vulnerability (Water) |
+| Water | F+ 2 | F * 2 | F | F | F | F | (F)A | F-1 | Attacks: (F)S Stun as Unarmed Combat (Skill = Force) | Engulf, Manifestation, Movement | Vulnerability (Fire) |
+| **Nature Spirits** | | | | | | | | | | | |
+| **OF MAN** | F+1 | (F + 2) * 3 | F-2 | F | F | F | (F)A | F+1 | | | |
+| City Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Fear, Guard, Search | Domain: Streets, plazas, alleys, open areas, and abandoned buildings of a city. |
+| Hearth Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Guard, Search | Domain: Homes, residences, occupied buildings. |
+| Field Spirit | | | | | | | | | | Accident, Concealment, Guard, Search | Domain: Cultivated, worked fields and growing areas. |
+| **OF THE LAND** | F + 4 | (F -2) * 2 | F + 4 | F | F | F | (F)A | F-2 | | | |
+| Desert Spirit | | | | | | | | | | Concealment, Guard, Movement, Search | Domain: Open desert. |
+| Forest Spirit | | | | | | | | | | Accident, Concealment, Confusion, Fear, Guard | Domain: Forests, as well as decent-sized parks. |
+| Mountain Spirit | | | | | | | | | | Accident, Concealment, Guard, Movement, Search | Domain: Rugged mountain terrain. |
+| Prairie Spirit | | | | | | | | | | Accident, Alienation, Concealment, Guard, Movement, Search | Domain: Open land, uncultivated fields, tundra. |
+| **OF THE SKY** | F-2 | (F + 3) * 4 | F-3 | F | F | F | (F)A | F + 2 | | | |
+| Mist Spirit | | | | | | | | | | Accident, Concealment, Confusion, Guard, Movement | Domain: Mist, fog, rain. |
+| Storm Spirit | | | | | | | | | | Concealment, Confusion, Electrical Projection, Fear | Domain: Thunderstorms, hurricanes, tornadoes, violent storms. |
+| **OF THE WATERS** | F + 2 | F * 2 | F | F | F | F | (F)A | F-1 | | | |
+| Lake Spirit | | | | | | | | | | Accident, Engulf, Fear, Guard, Movement, Search | Domain: Open lake water. |
+| River Spirit | | | | | | | | | | Accident, Concealment, Engulf, Fear, Guard, Movement, Search | Domain: Rivers, large streams, river deltas (when not swampy), inlets and outlets. |
+| Sea Spirit | | | | | | | | | | Accident, Alienation, Concealment, Confusion, Engulf, Fear, Guard, Movement, Search | Domain: The open sea. |
+| Swamp Spirit | | | | | | | | | | Accident, Binding, Concealment, Confusion, Engulf, Fear, Guard, Movement, Search | Domain: Swamps, marshes. |
+
+*(B = Body, Q = Quickness, S = Strength, C = Charisma, I = Intelligence, W = Willpower, E = Essence, R = Reaction. 'F' refers to the spirit's Force. 'A' under Essence indicates that the spirit exists primarily in astral space.)*
+
+
+# ASTRAL SPACE
+Astral space, or the astral plane, is a parallel dimension that coexists with the physical world. It is both the source of magical energy, and the medium through which it travels. Though astral and physical space are vastly different, the two share the common dimension of time. Everything that exists on physical Earth also has an astral counterpart, though the laws of physics do not apply to the astral plane.
+
+Magical things (spirits, foci, spells, some magical creatures, ritual teams, magicians using astral projection or perception, and so on) are living entities in astral space. They are visible, corporeal, and capable of action while there. Beings in astral space can see physical objects and assense magical energy given off by the astral forms of all living things. Assensing is the sixth sense that allows perception of magical energy and astral forms.
+
+Non-magical living things have a dormant astral form, an aura that is visible and corporeal in astral space but that does not act on other astral forms. The Earth is a living thing in magical terms, and thus corporeal in astral space. It is not possible to pass through things that are alive, no matter at what level, in astral space. Vegetation, for example, blocks movement just as it does in the physical world. Water, air, and fire are also tangible in astral space, but astral beings can pass through these elements because of their low density. Water and fire do no harm to the astral traveler, but do reduce the range of assensing.
+
+Inanimate objects are visible because of reflected light, and block the passage of magical energy and emotions, two primary elements of the astral form, or aura. Because such objects block the flow of the aura, astral beings cannot assense through them. These objects possess no aura or astral form of their own, however, and so astral beings can freely pass through the astral position corre-sponding to the object's physical space. In astral space, one cannot see or assense through a wall, though it is a simple matter to walk right through it. Transparent objects retain that quality, however.
+
+Lit by radiant life energy, astral space is usually bright no matter what the time of day on the physical plane. Certain places, however, that are devoid or lacking in living material (within a bare concrete room, for example) may actually be dim or dark, imposing visibility modifiers similar to those that occur in normal visibility. See Visibility Impaired, p. 89.
+
+Astral space pulses with the primal energies of life. Artificial symbols, objects of the intellect, are not directly perceptible in astral space. Someone examining the astral counterpart of this or any book would find that he or she could not read the words them-selves, but that they could vividly sense the emotions (overwhelm-ing, aren't they?) of each passage. Books of poetry, for example, are rewarding when assensed astrally. Technical manuals are virtually blank. Scanning a computer screen in astral space would not reveal the informational content, but would impart the emotional context of the file-that is, whether it was public or secret data, legal or illegal, personal, technical, or business-oriented.
+
+Neither street signs nor even maps can be read from astral space, so an astral traveler had better know where he is going before he sets out.
+
+All things reveal their true forms and natures when viewed in astral space. Auras do not lie, and they are unique. Disguises, whether physical or magical, simply do not work astrally. A shape changed elf retains his original aura, regardless of the final form.
+
+---
+
+## ASTRAL PERCEPTION
+Any magician can perceive astral space (with the exception of certain adepts), but he or she must make a Simple Action to switch from normal senses to astral senses and back again. When perceiv-ing astrally, the magician's senses are focused on the astral plane. Purely physical things are visible only by their astral echo, making interaction with the physical world very difficult. If an astrally perceiving magician attempts a task based solely in the physical world, an additional +2 target modifier applies to any tests.
+
+When viewing within astral space, an astrally perceiving character can:
+- assense anything that is actually there
+- assense the magical energy surrounding an item
+- assense a ritual sorcery sending
+- assense a being's aura to determine its true nature
+
+The magician can assense all spirits, magical creatures, and so on, whether they are visible in the physical world or not. If the magician has a spell that affects astral space, it may be cast. See Spells and Astral Space, p. 149. The magician is also vulnerable to astral combat, p. 147.
+
+Because the character is only perceiving astrally, he is still limited by the constraints of his body. The character can touch and be touched by other astrally active things, but he cannot reach through a wall to touch an astral object, because the physical arm cannot penetrate the physical wall, even though the astral arm has no such restrictions.
+
+The magician can assense magical energy surrounding any-thing that is itself magical or that is being affected by magic: enchanted items, characters under the effect of spells, magicians casting or maintaining spells, and so forth. He can assense spells, foci, and other magical items as living beings.
+
+The magician can detect the sending of ritual sorcery. An assensable web of energies leads back toward the source of the spell, allowing the magician to trace it using astral projection (see Astral Tracking, p. 149). Spells being sustained through ritual sorcery and spell locks also display such a trace, leading back to the spellcaster(s).
+
+Astral perception allows the magician to view the aura of any living or magical thing, which will reveal to him the true form or nature of the being. A shapeshifter always shows its animal form ìn astral space, for example. A character under a disguising spell would also show his or her true form. The spell's aura (visible independently or surrounding the thing it affects) identifies it as being of sorcery. Foci are visible as such. The auras of living beings also reveal their general state of health, wounds, diseases, active drugs in the system, and so on. The magician can also assense the Essence and Magic Attributes of living beings. The gamemaster should not reveal actual numbers, but instead inform the magician if the score is higher, lower, or about the same in comparison to the magician's own. The aura of a magician shows both Magic and Essence, thus revealing the magician's nature.
+
+The magician can gain further information about magical things by making a various Tests. Sorcery Skill would divine the nature of a spell. Conjuring or Sorcery Skills, respectively, would reveal the Force and Magic Ratings of spirits or enchanted items. Use a number equal to the spell creator's Sorcery Skill, a spirit's Force, a magician's Magic Attribute, or 5, if no target number can easily be determined. The number of successes controls the amount of information revealed.
+
+The magician can make additional rolls to try to get more information, up to a maximum equal to his skill. Each additional attempt adds +2 to the target number.
+
+The act of astrally perceiving opens the magician's own aura to astral space, making it vulnerable to attack. As stated previously, astrally perceiving characters are vulnerable to astral combat. They can also be directly affected by mana spells, and physical spells can be cast to ground-out through them. See Spells and Astral Space, p. 149.
+
+### ASTRAL EXAMINATION
+| Successes | Result |
+| :--- | :--- |
+| 0 | No result; nothing learned. |
+| 1-2 | The general class is learned (fire elemental, manipulation spell, combat spell focus, and so on). |
+| 3 | Exact spell, spirit's Force Rating or Focus Rating higher or lower than magician's Magic Rating. |
+| 4+ | Spell, spirit's Force Rating or Focus Rating learned. |
+
+---
+
+## ASTRAL PROJECTION
+The next step beyond astral perception is actual projection, in which the magician's aura "separates" from his body and is able to move about freely and independently for some time.
+
+Any magician can use astral projection by sinking into a trance. While in this trance, the magician's body is dead to the world; his pulse and respiration are almost nil, and his senses are turned off. In magical terms, the magician "leaves his body" to travel in astral space. Until the aura returns, the physical body is comatose.
+
+The magician's astral form has Attributes based on his At-tributes in the physical world, as follows:
+- Astral Strength is Charisma
+- Astral Quickness is Intelligence
+- Astral Body is Willpower
+- Astral Reaction is twice Intelligence
+
+The magician's Mental Attributes and Magic and Essence Ratings do not change.
+
+The magician's astral form appears as an idealized self-image. Of course, the idealized self-image of an ork shaman or a coldly murderous corporate hit mage can be a pretty scary assensement. Astral images of the magician's fetishes and magical items accompany the journey. Non-magical gear stays with the comatose body in the physical world. Simply by willing it to be so, the astral magician can form any garments or ornaments desired, but such things have no magical or armor value. It is just razzle-dazzle.
+
+> Tweezil glanced with the obnoxious pity of youth at the frail figure of his master before he entered into his own trance. As astral space enveloped him, a voice from behind boomed, "What kept you, boy?" Tweezil whirled and stared at a vibrant figure, powerfully muscled, robed in garments of light. He bore a familiar broadsword and his hands lightly held a staff Tweezil had assensed before. "B-b-boss?" "You young snots never figure it out, do you?" the mage said with a laugh. "Over on this side, you are what you will, not what you think! Now follow me. We've got work to do."
+
+### Astral Movement
+Movement through the landscape of astral space proceeds at normal rate or fast rate. Normal movement is Astral Quickness multiplied by 4. This is the number of meters traveled per Action Phase. There is no danger of fatigue. Characters use this rate when they need to pay attention to the surroundings.
+
+Fast movement is fast indeed! The magician character can move at his Magic Rating in kilometers per action (roughly Magic x 1,000 km per hour). At this speed, the magician's surroundings are a blur. The character knows where he is and can dodge astral obstacles, but he cannot assense or see the scene in detail without slowing to normal movement. Combat can occur between two characters who are both using fast movement.
+
+At either speed, the magician can fly, that is, can move freely to any altitude, up to the limits of the atmosphere. Do not leave the atmosphere (80 kilometers). Magicians who have tried to break this barrier have usually died or gone mad, and the memories of those who survived the journey have been badly scrambled by some kind of profound mental trauma.
+
+### Effects of Astral Projection
+The longer a magician is in astral space, the weaker becomes the physical form. Because the magician has taken his Essence into astral space, the body begins to die.
+
+The physical body loses 1 point of Essence for every hour the magician is astrally gallivanting. If the Essence falls below 0, the magician dies. The magician's astral form has its full Essence and Magic Ratings even though the physical body is withering. Once the magician returns to the body, the Essence returns at a rate of 1 point per minute, up to the original rating.
+
+While in astral space, the magician is unaware of the environ-ment of his physical body unless it can be seen. If someone, or some thing, moves the body while the magician's aura is gone, the magician will not know it until he comes back, to find that his physical shell is not where he left it. This sends the character on a search for his body, which he carries out by making a test of his Body or Willpower Rating, whichever is higher, against a Target Number 4. The search lasts a base time of 6 hours, divided by the number of successes. At the end of that period, assuming the magician has not run out of Essence, he will discover the location of the body. Of course, if it was enemies that moved it, the magician may find astral opponents still blocking the way back home.
+
+A magician's enemies could simply kill the physical body. Almost any wound to the comatose form will drive it into fatal shock. A magician in astral space knows at once if his body dies. The astral form survives until its Essence is used up, at which point it evaporates. Such a wretch may decide to spend his remaining hours seeking vengeance, and the gamemaster can use such no-bodies as ghosts.
+
+---
+
+## ASTRAL COMBAT
+Any magical thing or being with a presence in astral space can engage in astral combat. Things that do not have an active astral presence cannot fight or be hurt in any way in astral space. That means mundane characters (those with no Magic Rating) are immune to direct effects from astral space. It is not possible to make astral ambushes into the physical world, unless the ambusher can find some sort of bridge. See Spells and Astral Space, p. 149.
+
+Astral combat works exactly like Melee Combat (p. 100), because the nature of astral space prevents ranged attacks. Movement, cover, and so forth have the same effect in astral space as in physical space, with the differences noted above. A magician can attack other astral forms, suffering no penalties for "movement."
+
+In astral space, a spell is a living thing. When viewed from astral space, the casting of a spell reveals the formation of a living shape around the caster, which charges toward the target at high speed when released. Reaching the target, it vanishes, exiting into real space, where it releases its power. Even manipulation spells that traverse the distance in normal space behave this way.
+
+The procedure for astral combat varies slightly with each type of astral form.
+
+### Astral Initiative
+Characters in astral space have a modified Astral Reaction equal to their calculated Astral Reaction +15. They roll 1 Initiative die (1D6). Characters who begin a Combat Turn in their physical bodies and then begin astral projection (a Complex Action) stay with their physical-body Initiative for the turn. If they begin the Combat Turn astrally projecting, and then return to their physical bodies (a Complex Action), they are ineligible for another action for 20 phases.
+
+Initiative for spirits is described under Spirit Initiative, p. 142. Characters who are only astrally perceiving (p. 145) are limited to their physical Reaction and Initiative.
+
+### Resolving Astral Combat
+Magicians in astral space function with their normal Mental and Special Attributes, but have their Astral "Physical" Attributes. For all actions in astral space (dodging, fighting, reducing damage), magicians have only one dice pool, the Astral Pool, which is the equal to the sum of the magician's Intelligence, Willpower, and Charisma, divided by 2 (round down). This Astral Combat Pool works like the physical Combat Pool in that it can be applied to astral combat, but not to the casting of magic spells in astral space. The normal Magic Pool may be applied to spells cast in astral space.
+
+Actual attacks are like melee combat (see p. 100). If armed with an active weapon focus, the magician may attack using Armed Combat Skill. If not, he uses Unarmed Combat Skill or, alternatively, Sorcery Skill in place of either of the other two. Even characters who cannot cast spells can use Sorcery Skill for astral combat. It is for this reason that physical adepts and others study sorcery. The Target Number for an astral attack is 4. A character's astral Damage Code is based on the nature of the attack and the attacker. See the Astral Attack Table.
+
+### ASTRAL ATTACK TABLE
+| Attack Type | Damage Code |
+| :--- | :--- |
+| Unarmed human magician | (Astral Strength)L |
+| Armed attack (w/weapon focus) | (Astral Strength + Focus Rating/2)M |
+| Dual-natured beings | See p. 148 |
+| Spells | (Force)Drain Level |
+| Spirit | (Force)M |
+| Barriers | (Rating)L |
+
+Make the Damage Resistance Test using the Astral Body Rating. Dual-natured beings (see Magical Creatures below, and Critters, p. 214) that have physical armor receive the benefits of that armor in astral space. As with normal armor, the target's armor reduces the Power of the attack. (See Critter Statistics, p. 232, for a listing of dual-natured beings and their armor, if any.)
+
+Astral damage can be Physical or Stun at the choice of the character inflicting it. Non-sentient astral entities such as barriers and foci always do Physical damage when attacked (they don't know any better). Similarly, they can only be affected by Physical damage.
+
+Note that a physical adept is able to use killing hands ability to full effect on the astral plane. Remember also that physical adepts can only astrally perceive; they cannot project.
+
+Because of the occult phenomenon of "repercussion," the physical body manifests the damage. That means that if a magician is wounded in astral space, the physical body is wounded at the same moment. If killed, the astral and physical bodies die at the same moment. Healing techniques used on one body also heal the other, whether the healing is magical or mundane.
+
+### Barriers
+Hermetic circles and medicine lodges act as barriers in astral space. To pass through a barrier, a magician must destroy its resistance. The barrier remains intact against all other intruders. Spells cast at targets inside such barriers must penetrate the barrier before they can manage to attack their targets. The creator of the barrier will know whenever someone is attacking it.
+
+A barrier will resist an intrusion attempt, but it will not persist in fighting an intruder who drops the attempt. To pass through the barrier the magician rolls the appropriate attack dice (Armed or Unarmed Combat or Sorcery Skill) against a target number equal to the rating of the barrier. At the same time, the Barrier's Rating in dice is rolled against a target number equal to the Magic Rating of the magician.
+
+If the magician rolls more successes than the barrier, the barrier is reduced by the net successes. If the barrier prevails, it causes the same damage as would an opposing magician. It has a Damage Code of (Force)L, which increases by one level for every 2 suc-cesses. The magician may resist this damage with Astral Body dice against a target number of the Barrier Rating just as for a normal Damage Resistance Test. If and when the barrier's rating is reduced to 0, it collapses and the magician can pass through. If the fight ends prematurely, the barrier's rating is permanently reduced.
+
+The above applies only against attacks originating in astral space. If the attack originates in physical space, the barrier's normal effect applies. See Manipulation Spells, p. 156.
+
+### Magical Items
+Like barriers, magical items fight only if attacked. When "destroyed," a magical item loses its en-chantment, but its physical form rarely changes. It will, however, probably show some evi-dence of the loss of the enchantment, such as a lessening of its quality or appearance.
+
+The item's Force Rating serves as its attack dice in the original Success Test. Remember, a spell lock has only a Force of 1 (the Karma spent to bond it), regardless of the power of the spell it holds. Attacks are made against the lock, not against the spell.
+
+### Magical Creatures
+The two types of magical creatures are dual beings and as-tral beings.
+
+Dual beings exist on both planes all the time. They have the same Attribute and Ability Ratings on both planes. Astral beings live in astral space, and most have the abil-ity, but not the inclination, to manifest themselves in the physical world.
+
+Dual beings must move on both planes simultaneously, as must astral be-ings when they manifest in the physical world. They cannot be in one place in the physical and another in astral space. Thus, they are limited to their physical-plane rate of speed and Initiative.
+
+Combat with magical creatures follows the general rules for the environment, physical or astral, where the battle is taking place. Dual beings have the same Attributes regardless of where the fight takes place. In astral space, purely astral beings have all Attributes equal to their Force or Essence.
+
+### Ritual Teams
+Magicians engaged in a ritual sorcery team are present in astral space during the sending or when they are sustaining a ritual spell. The hermetic circle or medicine lodge acts as a barrier in astral space, but all team members except the leader may sortie outside the barrier to engage astral attackers. Though they cannot cast spells from inside the barrier, they can do so freely outside the barrier. If a team member dies or loses consciousness, reduce the Magic Pool for the ritual by the appropriate amount. If this reduces the pool to 0 or if the leader loses consciousness, the ritual aborts and each remaining member of the team makes a Drain Resistance Test. Those outside the circle or lodge take the Drain as Physical damage.
+
+### Spells
+A spell uses its Force Rating for all tests in any contest with a magician in astral space. Although the caster of the spell may be in the physical world, he knows the spell is being attacked. He can allocate dice from the Magic Pool and from any foci or totem modifiers he has for that spell to help the spell survive.
+
+A spell is mindless. If unopposed, it will ignore any other astral forms and proceed to its target, arriving there in the same action as its creation. If blocked, the spell will fight. In order to intercept a spell, an astrally projecting character must be aware of the spellcasting and have a Delayed Action. An astrally perceiving character cannot move his physical form fast enough to inter-cept the spell.
+
+Fighting a spell works like fight-ing a barrier. See Barriers, above. If the magician wins, the spell's Force is reduced. If the spell (really the casting magician) wins, the magi-cian takes damage based on the spell ((Force)Drain Level as the Damage Code). The winner (the intercepting magician or casting magician) then decides whether to continue. As long as one side con-tinues the fight, the spell is "blocked" and cannot strike the target. If the attacking magician drops outs, or is defeated, the spell zooms on and hits the target. If it took any damage, how-ever, the spell's Force is now reduced.
+
+If a magician in astral space intercepts a spell, its caster can assist the spell, as de-scribed above. This can continue for as long as the magician desires, until the spell either wins the fight or is destroyed, which cancels it out. The magician can, on any action, decide to stop casting the spell, which will then promptly evaporate. Other spells can be cast, (subject to the magic rules) while that one is being supported. This is the equivalent of sustaining a spell (+2 target modifier). The casting magician makes a Drain Resistance Test in the action the spell was cast, no matter what. If Drain or anything else knocks out the caster, the spell vanishes.
+
+A magician in astral space cannot cast a spell at another spell, but he can cast one at any other astral being. Such a spell cannot be intercepted, and only spells that would affect the thing or being physically will work. A sleep spell cannot be used to damage a magical item, but it would work against a magician in astral space. Mana spells only affect the astral target. Physical spells ground out and may affect others. See Spells and Astral Space, p. 149.
+
+When a magician casts spells in astral space, Drain always causes Physical damage, regardless of the spell's Force Rating.
+
+---
+
+## ASTRAL EVASION
+Given the great speeds at which astral bodies can travel (see Astral Projection, p. 146), it is a simple matter for one astral character to evade another. There are only a few points to consider. A dual being, shackled to the flesh, can only move at speeds and ways dictated by its physical form. An astrally projecting character can break off combat with such an opponent by moving out of its reach, dodging through a wall, or by some other similar tactic.
+
+When both opponents can move with equal freedom, how-ever, an Astral Evasion Test is needed to resolve any attempts to break off combat and/or evade pursuit. Both participants roll dice, using Astral Quickness for normal movement, or the characters' Magic Ratings for fast movement. (Normal movement allows the character to break off, while still remaining in the general area. Fast movement takes the character a great distance in no time at all.) If one of the participants chooses to let the other escape, no test is needed. Spirits always use their Force Ratings.
+
+The target number for this test is the opponent's Astral Quickness, Magic Rating, or Force, as appropriate.
+
+The opponent with the greater number of successes decides what happens. At normal movement rates, the character can move away from the opponent the distance his astral projection speed would allow. At fast movement, the character can evade the opponent completely, leaving the area. Alternatively, the winner can maintain combat range and can attack.
+
+---
+
+## ASTRAL TRACKING
+It has been mentioned that ritual sendings and foci such as spell locks maintain a thread of energy back to the spellcaster or creator. This is true, but it is difficult to track.
+
+Tracking such a thread requires an Astral Perception Test of Intelligence dice rolled against a Target Number 4, modified by the following astral tracking modifiers:
+
+| Situation | Modifier |
+| :--- | :--- |
+| Ritual spell/focus has equal or lesser Force/Rating than tracker's Sorcery Skill | -2 |
+| Ritual spell/focus has greater Force/Rating than tracker's Sorcery Skill | +2 |
+
+The base time for this tracking is twelve hours, divided by the number of successes generated. Odds are that this will be longer than the magician is able to maintain astral projection. The magician can, however, leave off the search at some point to take a rest. At the time the magician resumes the search, he must make an Intelligence or Magic (whichever is higher) Test against a target number equal to the number of hours, or part thereof, that has passed since he left off tracking. As long as he scores at least 1 success, the search continues. If he scores no successes, the trail is lost.
+
+---
+
+## SPELLS AND ASTRAL SPACE
+A little more needs to be said concerning spells and astral space, but first, an overview of what occurs when a magician casts a spell astrally. The sequence is slightly different from that described previously in Ritual Sorcery, p. 133.
+
+First, obviously, the magician chooses the spell to be cast and chooses a target. Regardless of the nature of the spell, the target must be within direct line-of-sight of the spellcaster. Combat spells, and most others (except manipulation spells) affect only targets within the caster's vision. If, for example, two characters were standing within a meter of each other, but one was blocked from the magician's view, only the visible character could be affected by the spell even though the second character might be within the area-effect of the spell.
+
+Why is this?
+
+The reason has to do with how a spell works. As a spell is being cast, the magician's senses are opened up partially to the astral plane. The magician, because of the working of the astral forces that power the spell, is able to see the aura of the target. This allows him to align or synchronize his aura with that of the target, permitting the astral energy shaped by the caster to leap between them, through astral space, much as a spark of electricity jumps between two properly polarized points. The spell leaps from the caster, crosses the distance to the target in astral space, and strikes.
+
+The visual effect of this is minimal on the caster. Maybe there is a flicker of energy as the spell goes off, but mostly not. Because the spell is traveling between caster and target through astral space there is no physical effect. No energy lashes out from caster to target, though powerful spells may display the astral-echo shimmer pro-duced by powerful spirits. The detonation of the spell on the target is usually quite visible, if that is appropriate to the type of spell.
+
+Back in astral space, the spell has bridged the distance and struck the target. What happens next is that the spell grounds out into the target through the target's aura. This is because of the previously stated rule that things in astral space cannot directly affect non-magical things in the real world, unless there is a bridge. The bridge, in this case, is momentarily created by the spellcaster when the auras involved are synchronized. This can only be done if the caster is physically present in physical space. This physical caster-physical target symmetry must exist for the spell to work. If the caster were projecting in astral space, the physical-physical symmetry would not exist and the caster could not affect a physical target.
+
+Getting back to the spell, upon impact its energies ground out through the aura of the target and affect either the target's physical component (ifit is a physical spell) or spiritual component if the spell is a mana spell and the target is living. Non-living things have no spiritual component and so cannot be affected by mana spells.
+
+The spell energy, entering from astral space through the target's aura, now radiates outward from the center of the aura, the center of the target's being. This is why targets struck by physical combat spells do not receive the benefits of armor. How can armor offer protection against an attack from the inside?
+
+The line-of-sight restriction is still a powerful one for these types of spells. If the target's aura cannot be seen, it cannot be hit. Some frightening possibilities are circumvented because a living aura radiates a short distance from the being: enemies in sealed combat armor, with no part of the body showing, can still be attacked because the aura extends past the armor. Seeing only a piece of an aura is not enough for targeting, though, so that enemy lurking right at the edge of the corner, with its aura leaking into view is still safe. An astrally perceiving viewer might spot the aura, but it is safe from targeting.
+
+Foci and active astral perception both create bridges between the physical world and the astral plane that can be exploited by spellcasters in astral space. A mana spell thrown at a target with such a dual profile, physical and astral, will only affect that target, even ifit is an area-effect spell. The spiritual component is contained within the physical component, so the area-effect is dampened. This only holds for attacks that do not have the physical-physical symmetry requirement. A physical spell thrown by an astral caster at a dual-natured target will ground out through the target's physical component. The physical component of the target is of course affected, but because of that component's adjacency to the physical world, area-effects of certain spells continue onward. The same requirements for line-of-sight hold for the spell's effect as if the spell had been cast normally from physical space: if the caster cannot see a target, it cannot be hit. Since physical terrain is opaque in astral space, line-of-sight can be figured as if the astral caster were standing at the same location in physical space.
+
+Additionally, intervening transparent obstructions, such as glass, have no effect on the spell. Because the obstruction is transparent, the casting mage can see the target. Were it opaque, the caster would not be able to see the target, so no spell. Semi-transparent obstructions afford cover modifiers (see p. 88). Because the obstruction is non-living, the spell (in astral space) passes right through it without impediment.
+
+Finally, what about mirrors?
+
+Well, mirrors are tricky, and very deadly. A target seen reflected in a mirror is a valid target. Auras are synchronized, the spell is released, and the spell energy follows a direct (as possible) path to the target. No, it does not head out and reflect off the mirror, like the image of the target. Spells are smarter than that. Mirrors do, therefore, qualify in line-of-sight figuring. Note that manipulation spells, as discussed below, cannot be used this way because when they direct-line to the target, they hit the wall. Oops.
+
+Virtually nothing else does, though. The magician must be able to directly see the target with conventional vision. Remote-viewing technology like cameras does not work, nor do remote-viewing spells like clairvoyance. The magician must use natural vision. Cybereyes qualify though, because the character has spent Essence points for that vision. Those eyes are, as far as the character's being are concerned, now natural.
+
+Whew. Complex, eh? Welcome to Shadowrun.
+
+Now, manipulation spells. These spells work a little differently. Everything is the same in the casting of a manipulation spell as for a combat spell up to the point where the spell energy is released.
+
+The spell energy of a manipulation spell travels the distance between the caster and the target not only in astral space (as combat spells do) but in the physical world as well. So, visible energy does lash out between caster and target when a manipula-tion spell is cast.
+
+Because the spell has a "physical" energy component, it is impeded by transparent obstructions like glass. The "physical" energy component hits the glass, and one of them has to give.
+
+The general rules for shooting through barriers, (Combat, p. 98) are used to resolve this, but use only one-half the Barrier Rating. What happens is that the target adds one-half the Barrier's Rating to its own Impact Armor Rating when struck by a manipulation spell cast through glass. If one-half the Barrier Rating is equal to or greater than the Force of the spell, the spell dissipates.
+
+Because manipulation spells have this "physical" energy com-ponent, the target gets to apply its Impact Armor Rating in the manner of ranged combat, reducing the Force of the spell by one-half the Impact Armor Rating. A quick look at the relative Power of weapons and the anticipated Force of spells shows that manipula-tion spells are generally not as effective as a well-placed bullet. This may be true, but spells, by their nature, have a certain degree of flexibility (unlimited range and so on) that is lacking in weapons. Besides, the additional effects of certain manipulation spells make them worth the effort.
+
+---
+
+## SPELL DIRECTORY
+This directory describes the basic spells players will need to roleplay magic and magicians in the Shadowrun game universe. The spells are presented according to type: combat, detection, health, illusion, and manipulation spells. Each spell listing is accom-panied by the following notations:
+
+**Type** tells the type of spell, whether Physical or Mana.
+**Range** tells the range: Touch, Limited, or Line-of-Sight (LOS).
+**Target** indicates how to calculate the target number for the Spell Success Test. A notation of (R) means that the spell is Resisted and so the target will roll dice to reduce the casting magician's successes. If no (R) is present, the spell is Unresisted and only the casting magician rolls dice.
+**Damage** indicates the base Damage Level; Light, Moderate, Serious, or Deadly, as well as whether or not the spell does Stun damage.
+**Duration** tells whether the spell has Instant, Sustained, or Permanent duration. If Permanent has an extra notation, such as "Permanent (10 Turns)," that indicates the number of turns the spell must be sustained before it actually becomes permanent.
+**Drain** indicates the Drain Code of the spell. The (F + 2) or [(F + 2) + x] notation indicates that the Drain Resistance Test is made against one-half the Force of the spell (round down), or one-half the Force plus some number. The second notation indicates whether the Drain Level is Light, Moderate, Serious, or Deadly.
+
+A player can designate a spell as exclusive or fetish-required at the time his character chooses or learns the spell. See Creating A Character, p. 43, and Learning A New Spell, p. 132. Spells listed here are not designed with any Force modifiers.
+
+### COMBAT SPELLS
+For a full discussion of Combat Spells, see Combat Spells, p. 127, Casting Spells, p. 129, and Spells and Astral Space, p. 149. Things to remember are:
+- Combat spells can only affect targets the magician can see.
+- Armor does not help in the Spell Resistance Test.
+- Mana spells are resisted by Willpower, and physical spells by Body.
+
+**Fireball**
+An area-effect spell that causes Physical damage. The fireball spell can ignite combustible materials in its blast area. Gamemaster discretion.
+Type: Physical
+Range: LOS
+Damage Level: S
+Duration: Instant
+Target: Body (R)
+Drain: [(F + 2) + 3]D
+
+**Hellblast**
+An area-effect spell that causes Physical damage. The hellblast spell can ignite combustible materials in its blast area. Gamemaster discretion.
+Type: Physical
+Range: LOS
+Damage Level: D
+Duration: Instant
+Target: Body (R)
+Drain: [(F + 2) + 6]D
+
+**Mana Bolt**
+A powerful bolt of magical energy that causes Physical damage.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Damage Level: S
+Duration: Instant
+Drain: (F + 2)S
+
+**Mana Dart**
+A small dart of magical power that does Physical damage.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Damage Level: L
+Duration: Instant
+Drain: (F + 2)L
+
+**Mana Missile**
+A bolt of magical power that causes Physical damage.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Damage Level: M
+Duration: Instant
+Drain: (F + 2)M
+
+**Manaball**
+An area-effect spell that causes Physical damage. This mana version affects only living targets.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Damage Level: M
+Duration: Instant
+Drain: (F + 2)S
+
+**Power Bolt**
+See Mana Bolt, above.
+Type: Physical
+Range: LOS
+Target: Body (R)
+Damage Level: S
+Duration: Instant
+Drain: [(F + 2) + 1]S
+
+**Power Dart**
+See Mana Dart, above.
+Type: Physical
+Range: LOS
+Target: Body (R)
+Damage Level: L
+Duration: Instant
+Drain: [(F + 2) + 1]L
+
+**Power Missile**
+See Mana Missile, above.
+Type: Physical
+Range: LOS
+Target: Body (R)
+Damage Level: M
+Duration: Instant
+Drain: [(F + 2) + 1]M
+
+**Powerball**
+An area-effect spell. See Manaball, above.
+Type: Physical
+Range: LOS
+Target: Body (R)
+Damage Level: M
+Duration: Instant
+Drain: [(F + 2) + 1]S
+
+**Ram**
+The ram spell damages inanimate targets. Successes from the casting are added to the spell's Force, which is then compared to the target's Barrier Rating to determine the effect. See Barriers, p. 98. Against vehicles, use the same procedure, comparing the results against the vehicle's Body as the Barrier Rating. Each indicated reduction of the Barrier Rating does Light damage to the vehicle, but does not actually reduce the Body Rating. If vehicle armor is present, it should be added to the vehicle's Body to determine the Barrier Rating.
+The target number of the spell is found on the Object Resistance Table, p. 130.
+Type: Physical
+Range: LOS
+Target: Object Resistance Table
+Damage Level: S
+Duration: Instant
+Drain: [(F + 2) + 1]S
+
+**Sleep**
+An area-effect spell that causes Stun damage to living targets only.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Damage Level: M
+Duration: Instant
+Drain: [(F + 2) - 1]S
+
+---
+
+### DETECTION SPELLS
+Some detection spells, those called hypersense spells, give a magician new senses for as long as the spell is maintained. To determine the range at which the hypersense operates, the magician rolls Force dice against a Target Number 4. He multiplies the successes by his Magic Rating for the distance in meters at which the new sense will work. Such spells are listed as having a Limited range.
+
+Certain detection spells, those called general, are not aimed at a specific target or targets, so it is not necessary to make a test for each of the umpty-hundred people in range of, say, a detect life spell. First, the magician declares the nature of the information sought. This sets the target number, which is 4 if the magician is exploring all targets within sight, 6 for all subjects out of sight, or 10 for beings in astral space. For subjects who are out of sight behind a magical barrier, add the Barrier Rating to the target number. The magician then makes a Success Test, rolling Force dice against that target number. See the table below for results.
+
+**DETECTION SPELL TABLE**
+| Successes | Results |
+| :--- | :--- |
+| 1 | Only general knowledge, no details. |
+| 2 | Detailed information obtained, but some minor items inaccurate. |
+| 3 | All details accurate, but minor items obscure or missing. |
+| 4+ | Accurate and detailed information. |
+
+Detection spells against a specific target use the same table for determining results.
+
+If a magician sustains a general detection spell, new subjects are picked up as they enter the area covered by the spell. The results from the original success test still apply.
+
+Specific hypersense spells are good only against one target within the Limited range of the spell. A general hypersense spell touches on all targets within the Limited range.
+
+Spells that require a voluntary subject can be cast on any willing subject.
+
+**Analyze Device**
+A specific hypersense spell requiring a voluntary subject. The magician can analyze the purpose and basic operation of a device or piece of equipment. The magician's previous familiarity with the device or similar objects reduces the target number by -2. The base target number for this spell is based on the object's resistance, see p. 130.
+Type: Physical
+Range: Limited
+Target: Object
+Duration: Sustained
+Drain: [(F + 2) + 1]M
+
+**Analyze Truth**
+A hypersense spell. The magician can tell whether a target's statement is the truth or not. The target makes a Spell Resistance Test using his Willpower Rating against the Force of the spell to reduce the spellcaster's successes. The caster needs at least 1 success to determine validity. The spell does not work on written materials. The magician must hear a statement to know if it is true or not.
+Type: Mana
+Range: Limited
+Target: Willpower [R]
+Duration: Sustained
+Drain: (F + 2)S
+
+**Clairvoyance**
+A hypersense spell requiring a voluntary subject. The magician can see distant scenes as if present, to the range of the new sense. The magician must concentrate to use this sense, and while using it, cannot use physical vision. A magician cannot cast spells at a target seen using the clairvoyance spell. This spell does not translate sound.
+Type: Mana
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: (F + 2)M
+
+**Clairaudience**
+A hypersense spell. The magician can hear distant sounds as if present, to the range of the new sense. The magician must concentrate to use this sense, and while using it, cannot use physical hearing. This spell does not translate visual images.
+Type: Mana
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: (F + 2)M
+
+**Combat Sense**
+A hypersense spell requiring a voluntary subject. The subject becomes able to subconsciously analyze combat or other danger-ous situations. The theory is that the spell allows precognition, with the subject sensing events a split second before they occur. Every 2 successes adds to the subject's Combat Pool for the duration of the spell.
+Type: Physical
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]S
+
+**Detect Enemies**
+An area-effect, general hypersense spell requiring a voluntary subject. Within range. detects living beings who have hostile intentions toward the subject of the spell. This spell would not detect a trap (it is not alive) nor a terrorist about to shoot into a crowd at random (the intention is not personal).
+Type: Mana
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]M
+
+**Detect Individual**
+An area-effect, general hypersense spell requiring a voluntary subject. To detect the presence of a particular individual, the magician names the individual when the spell is cast. The target number is 10 minus the Essence of the target, if the target is mundane, or 10 minus the Magic Rating (or either Force or Essence, as appropriate) of the target, if the target is magically active.
+Type: Mana
+Range: Limited
+Target: See above
+Duration: Sustained
+Drain: (F + 2)L
+
+**Detect Life**
+An area-effect, general hypersense spell. The magician detects all living beings within range and knows their number and position. In a crowded area, the spell is virtually useless, picking up a blurred mass of traces. Requires a voluntary subject.
+Type: Mana
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: (F + 2)L
+
+**Detect (Life Form)**
+See Detect (Object)
+Type: Mana
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) - 1]L
+
+**Detect (Object)**
+An area-effect, general hypersense spell. The magician detects a specified type of target: detect ork, detect dragon, detect guns, detect computers, detect cameras, and so forth. Each variation is a separate spell.
+Type: Physical
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]M
+
+**Mind Probe**
+The magician can telepathically probe a subject's mind. The target makes a Resistance Test using his Willpower Rating against a target number equal to the Force of the spell. If the target fails to offset all the successes, the number remaining determines the extent to which the magician can probe the target's mind. One success means that the magician can read surface thoughts. The magician knows what the target is thinking about at that instant, but cannot influence the thoughts or draw other information from the target. Two suc-cesses allow the magician to probe for thoughts. The magician can find out anything the subject knows consciously. He can ask any one question, and the target must answer with the truth as he knows it. Three or more successes allow the magician to enter the target's subconscious, and he can obtain the answer to two questions. Additional castings of this spell against the same target within a number of hours equal to the target's Willpower are at a +2 per attempt.
+Type: Mana
+Range: Touch
+Target: 4 [R]
+Duration: Sustained
+Drain: [(F + 2) + 2]D
+
+**Personal Combat Sense**
+This personal form of the combat sense spell affects only the caster.
+Type: Physical
+Range: Self
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]M
+
+---
+
+### HEALTH SPELLS
+Health spells can cure diseases or inflict them, detoxify poisons or drugs, or mimic their effects, and some can temporarily modify Attributes. Many health spells are curative, healing physical dam-age and diseases. No techniques known to magic can erase fatigue or cure mental conditions, however.
+
+**Antidote Toxin**
+These curative spells act on a toxin (poison or drug) or the disease, not the person affected by them. The Spell Success Test has a target number equal to the Strength (Power) of the infection or toxin. The antidote spell must be used before the toxin damages the victim. Its successes directly reduce the Strength of the toxin at a one-to-one ratio, making it easier for the target to make his own Resistance Tests.
+Type: Physical
+Range: Touch
+Target: Toxin strength
+(L) Toxin
+Drain: (F + 2)L
+Duration: Permanent (5 turns)
+(M) Toxin
+Drain: (F + 2)M
+Duration: Permanent (10 turns)
+(S) Toxin
+Drain: (F + 2)S
+Duration: Permanent (15 turns)
+(D) Toxin
+Drain: (F + 2)D
+Duration: Permanent (20 turns)
+
+**Cure Disease**
+The cure disease spell can be used at any point after infection, killing the germs in the patient's system and eliminating any symptoms at once, but it does not heal damage already done by the disease. That takes a separate healing spell. Successes from the cure spell directly reduce the Virulence (Power) of the disease at a one-to-one ratio, making the target's own Resistance Tests easier.
+A separate version of the spell exists for each of the Damage Levels associated with toxins and diseases.
+Type: Physical
+Range: Touch
+Target: Virulence
+(L) Disease
+Drain: (F + 2)L
+Duration: Permanent (5 turns)
+(M) Disease
+Drain: (F + 2)M
+Duration: Permanent (10 turns)
+(S) Disease
+Drain: (F + 2)S
+Duration: Permanent (15 turns)
+(D) Disease
+Drain: (F + 2)D
+Duration: Permanent (20 turns)
+
+**Decrease (Attribute)**
+The magician's Target Number is 10, minus the target's Essence. The target resists using the Attribute that is attacked, not necessarily his Body Rating. The success totals of both are com-pared. The magician needs only 1 success to affect the target. If an Attribute is reduced to 0, the target is helpless. If this is a Physical Attribute, the victim is unconscious or paralyzed. When a Mental Attribute is reduced to 0, the victim is standing about mindlessly.
+A separate version of the spell exists for each of the Physical and Mental Attributes, and for Reaction, but the other Special Attributes may not be affected. These are physical spells, but will not affect targets with cyberware modifiers to their Attributes.
+Type: Physical
+Range: Touch
+Target: 10 - Essence [R]
+Duration: Sustained
+Attribute -1
+Drain: [(F + 2) + 1]L
+Attribute -2
+Drain: [(F + 2) + 1]M
+Attribute -3
+Drain: [(F + 2) + 1]S
+Attribute -4
+Drain: [(F + 2) + 1]D
+
+**Detox**
+Detox relieves the effects of a drug or poison. It must overcome the toxin as the antidote spell does, but because relief is symptomatic, the target number for Drain is reduced. Detox does not heal damage from toxins, but it eliminates any other effects they may have on the victim (dizziness, hallucinations, nausea, pain, and so on). Detox is the hangover cure of choice among those who can afford it. Each toxin Damage Level is a separate curative spell.
+Type: Physical
+Range: Touch
+Target: Toxin strength
+(L) Toxin
+Drain: [(F + 2) - 2]L
+Duration: Permanent (5 turns)
+(M) Toxin
+Drain: [(F + 2) - 2]M
+Duration: Permanent (10 turns)
+(S) Toxin
+Drain: [(F + 2) - 2]S
+Duration: Permanent (15 turns)
+(D) Toxin
+Drain: [(F + 2) - 2]D
+Duration: Permanent (20 turns)
+
+**Increase Attribute**
+The spell increases a normal Physical or Mental Attribute and Reaction (with special modifications) but not any other Special Attributes. The target number for the Spell Success Test is equal to twice the rating of the Attribute to be increased. A single success is sufficient. This spell does not affect cybernetic features, which require the spell described next. Each Attribute has four specific spells, and so there might be a magician who knows Increase Strength +2, Increase Quickness +1, and so on.
+The increase Reaction version of this spell has a Drain one level higher; L becomes M, M becomes S, and S becomes D. There is no increase Reaction +4 spell. The increase Reaction spell only in-creases the Reaction Rating and gives no other benefits.
+Note that this spell does not stack on top of other increase attribute spells of the same type. When cast on characters with an already magically boosted Attribute (such as a physical adept), the target number is increased by +4.
+Type: Mana
+Range: Touch
+Target: 2 x affected Attribute
+Attribute +1
+Drain: [(F + 2) + 1]L
+Duration: Sustained
+Attribute +2
+Drain: [(F + 2) + 1]M
+Duration: Sustained
+Attribute +3
+Drain: [(F + 2) + 1]S
+Duration: Sustained
+Attribute +4
+Drain: [(F + 2) + 1]D
+Duration: Sustained
+
+**Increase Cybered Attribute**
+Like the increase attribute spell described above, except that these spells increase Attributes already affected by cybernetics. Increase cybered Reaction +4 has a [(F + 2) + 5]D code.
+Type: Physical
+Range: Touch
+Target: 2 x affected Attribute
+Attribute +1
+Drain: [(F + 2) +3]L
+Duration: Sustained
+Attribute +2
+Drain: [(F + 2) + 3]M
+Duration: Sustained
+Attribute +3
+Drain: [(F + 2) + 3]S
+Duration: Sustained
+Attribute +4
+Drain: [(F + 2) + 3]D
+Duration: Sustained
+
+**Increase Reflexes**
+This spell increases the Initiative dice of the voluntary subject by the amount indicated for the spell (+1, +2, or +3). There is no cybered version of this spell, so characters who have received cybernetic enhancements that add Initiative dice (e.g., wired reflexes) cannot be boosted by this spell.
+Type: Mana
+Range: Touch
+Target: 2 x Reaction
++1 Initiative Die
+Drain: (F + 2)M
+Duration: Sustained
++2 Initiative Dice
+Drain: (F + 2)S
+Duration: Sustained
++3 Initiative Dice
+Drain: (F + 2)D
+Duration: Sustained
+
+**Treat**
+The treat and heal spells are both curative. Each will heal a number of boxes of damage equal to the successes rolled. The difference is that the treat spell must be applied within one hour of injury. The heal spell may be applied at any time. A character can only be magically treated or healed once for any single set of injuries.
+The target number for these spells is 10 or 8 minus the target's Essence. The spell is permanent and must be maintained for the base time indicated on the Healing Table, below.
+Successes from the Spell Success Test can be used to actually heal boxes of damage or used to reduce the base time, as indicated on the table. Divide the successes into the base time. The total successes can be split between the two uses (healing and time reduction), as the magician desires.
+The Drain Resistance Test target number is equal to one-half the Force of the spell, and the Drain Level is equal to the current Wound Level of the target, Light, Moderate, Serious, or Deadly.
+Type: Mana
+Range: Touch
+Target: 8 - Essence
+Duration: Permanent
+Drain: (F + 2)(Wound Level)
+
+**Heal**
+See Treat, above.
+Type: Mana
+Range: Touch
+Target: 10 - Essence
+Duration: Permanent
+Drain: (F + 2)(Wound Level)
+
+**HEALING TABLE**
+Damage Level | Time
+:--- | :---
+Deadly | 20 turns
+Serious | 15 turns
+Moderate | 10 turns
+Light | 5 turns
+
+---
+
+### ILLUSION SPELLS
+No matter how realistic are illusion spells, they cannot perma-nently harm a character, mentally or physically. They can cause distractions, loss of balance or orientation, and even symptoms like nausea or pain. Such symptoms vanish as soon as the magician drops the illusion.
+
+Obvious illusions are usually no more than entertainments, but a magician can use the more powerful ones to at least distract enemies, even when the opponents are aware of the illusion. Single-sense illusions seem real to only one physical sense. Full-sensory illusions seem completely real to the targets.
+
+An illusion spell that is Resisted has an (R) added to the target number. In these cases, the target gets a Spell Resistance Test, rolling the dice indicated by the Target notation against a target number equal to the Spell Force Rating. The target's successes reduce the magician's successes, and thereby the effect of the spell.
+
+Mana-based illusion spells are completely ineffective across technological remote-viewing systems like security cameras. A physical-based illusion spell actually bends and shapes light, and so will be effective across such systems.
+
+**Chaos**
+A target who fails to resist a chaos spell is subject to massive distractions. The spell consumes all senses in a cloud of blinding sights, fierce odors, and tickling sensations. A major distraction (+1 to all target numbers) is suffered for every extra success the spell has after being reduced by the Spell Resistance Test. This spell can also deceive technological sensing devices in addition to the target's own senses.
+Type: Physical
+Range: LOS
+Target: Intelligence (R)
+Duration: Sustained
+Drain: [(F + 2) + 2]M
+
+**Chaotic World**
+This is an area-effect version of the chaos spell.
+Type: Physical
+Range: LOS
+Target: Intelligence (R)
+Duration: Sustained
+Drain: [(F + 2) + 2]S
+
+**Confusion**
+This is an area-effect spell similar to the chaos spell, except that the confusion spell does not affect technological systems. Visual illusions fill the affected area, making it a place of shifting forms, dazzling lights, and pools of shadow. Those who fail to resist suffer a distraction (+1 to all target numbers) for every two successes remaining after reductions from the Spell Resistance Test.
+Type: Mana
+Range: LOS
+Duration: Sustained
+Target: Willpower (R)
+Drain: (F + 2)S
+
+**Entertainment**
+This area-effect spell requires voluntary subjects. It creates obvious, but entertaining, illusions for all who wish to watch. The number of successes measures how entertaining the audience finds the illusion.
+Type: Mana
+Range: LOS
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]L
+
+**Improved Invisibility**
+Like the invisibility spell, below, except that this spell affects technological sensing devices.
+Type: Physical
+Range: Touch
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]M
+
+**Invisibility**
+The spellcaster must touch the subject, who becomes invisible to normal light. Thermographic vision can still detect body heat, and the subject is completely tangible and detectable to the senses of hearing, smell, and so forth. Double the number of successes to get the target number for an observer's Perception Test. A success-ful Perception Test means that the invisible person or thing has been noticed. The spell does not affect technological sensing systems (not including cybereyes which are considered natural because of the Essence Cost paid).
+Type: Mana
+Range: Touch
+Target: 4
+Drain: (F + 2)M
+Duration: Sustained
+
+**Mask**
+This spell requires that the magician touch a voluntary subject. The subject assumes some physical appearance (same basic size and shape) chosen by the caster. The number of successes becomes the target number for Perception Tests by observers. This spell does not work through technological devices.
+Type: Mana
+Range: Touch
+Target: 4
+Duration: Sustained
+Drain: (F + 2)L
+
+**Stimulation**
+The voluntary subject experiences a full sensory illusion of whatever type the spellcaster desires. This is usually a luxury spell bought by the rich and jaded, seeking sensations they cannot find in the real world. Successes measure the pleasure of the subject.
+Type: Mana
+Range: LOS
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 1]L
+
+**Stink**
+This area spell stimulates the sense of smell. Subjects within the area of effect make normal Spell Resistance Tests to reduce the magician's successes. Each remaining success increases all of the victims' target numbers by +1 because of the sickening effect of the smell's stench.
+Type: Mana
+Range: LOS
+Duration: Sustained
+Target: Willpower (R)
+Drain: [(F + 2) + 1]S
+
+---
+
+### MANIPULATION SPELLS
+Manipulation spells are, potentially, the most powerful class of spells in Shadowrun, and thousands of variations are possible. Control spells can transform or control matter and energy. Control spells can also affect the actions and the thoughts of living beings. Transformation spells change the material structure of a target. Telekinetic spells are various forms of mind over matter, from wild poltergeist phenomena to subtle work-controlling machinery.
+
+Manipulation spells that affect characters contrary to their wishes must be resisted. Willpower is used, and the casting magician must generate an equal or greater number of successes than the target for the spell to succeed.
+
+#### Control Manipulations
+**Control Actions**
+Like a puppeteer, the magician controls the physical actions of a target. The victim's consciousness is not affected, but becomes only a passenger in its own body. The victim uses any skills possessed at the magician's orders, but with +4 to all target numbers. The Threshold is the target's Willpower Rating.
+Type: Mana
+Range: LOS
+Target: Willpower (R)
+Duration: Sustained
+Drain: [(F + 2) + 2]S
+
+**Control Emotion**
+The subject feels some overwhelming emotion, which can be anything the magician chooses when the spell is cast. The spell can make the target love somebody, hate somebody, or any other single emotion desired.
+The effects of this spell require roleplaying more than they do calculating scores or numbers. The spell's victims believe the emotion wholeheartedly but not mindlessly. As a rule of thumb, no penalties apply if a character is doing something that is in keeping with the emotion (fighting while filled with anger or hate). If the character is doing something that is not relevant to the emotion (trying to drive while laughing wildly), distraction modifiers apply (+2 or more to target numbers). If the character tries to go directly against the emotion (trying to shoot a "loved" target), it calls for a Willpower Test with the spell's Force as the target number. Distrac-tion penalties apply even if the test succeeds, but it must succeed for that action to be taken.
+Type: Mana
+Duration: Sustained
+Range: LOS
+Target: Willpower (R)
+Drain: [(F + 2) + 2]M
+
+**Control Thoughts**
+The magician controls the thoughts of the subject. The victim will carry out orders wholeheartedly as long as the magician sustains the spell. This is the magical equivalent of deep hypnotic suggestion. Actions that would be terribly destructive to the target or his loved ones allow the character to fight the spell. He must pass a Willpower Test with a target number of the spell's Force. If the casting magician is not present, a single success will do. If the casting magician is present, roll that character's Willpower against a target number equal to the target's Willpower. The magician's successes reduce the target's. One net success on the part of the target is still all that is required to resist the heinous command.
+Type: Mana
+Range: Limited
+Target: Willpower [R]
+Duration: Sustained
+Drain: [(F + 2) + 2]D
+
+**Hibernate**
+The magician must touch a voluntary or unconscious subject. The spell puts the subject in a form of suspended animation. Double the successes from the Spell Success Test to get the factor by which bodily processes are slowed. If 4 successes are scored, the hiber-nate spell slows the subject's metabolism by a factor of 8. If the subject has exceeded his Condition Monitor, he or she, or it would take an extra box of damage every 80 minutes instead of 10 minutes, as described in Exceeding the Condition Monitor, p. 111. If the subject were suffering from a disease that weakened him every hour, it would now take 8 hours. If he were sealed into a chamber with only enough air to keep him alive for 1 day, the air would now last 8 days.
+Type: Physical
+Range: Touch
+Target: 4
+Duration: Sustained
+Drain: (F + 2)S
+
+#### Telekinetic Manipulations
+**Levitate Item**
+Levitation allows a magician to lift an item or person from the ground and move him or it around. The maximum "distance" that the target can be moved in meters is the magician's Magic Rating times the number of successes. This distance can be expressed as vertical distance (height), horizontal distance, or any combination of the two. A magician with a distance result of 12, for example, could move an object 12 meters horizontally, or 12 meters verti-cally or any combination of the two, as long as the total distance (horizontal plus vertical) equalled 12. This means that 10 horizontal and 2 vertical is fine (10 + 2 = 12), as is 5 horizontal and 7 vertical (5 + 7 = 12). The sum of the vertical and horizontal components must equal the "distance." All movement is figured from the starting point of the target.
+The magician's target number for the Spell Success Test is increased by +1 for every 100 kilograms of mass the object has. (Figure a living being has 50 kilograms per point of body, and a vehicle 1,000 kilograms.) A magician can move a levitated object anywhere as long as the spell is maintained and the target stays in view. Objects can move the full "distance" within one Action Phase.
+If the spellcaster is attempting to levitate an item attached or held by a living being, that being is allowed to make a Strength Test against a target number equal to the Force of the spell. Reduce the caster's successes by the successes from this test. The caster must have at least 1 net success to levitate the item away.
+Type: Physical
+Duration: Sustained
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]L
+
+**Levitate Person**
+Type: Physical
+Duration: Sustained
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]M
+
+**Magic Fingers**
+Magic fingers is classic telekinesis. The magician creates "invisible hands" and can hold or manipulate items by mental power. The Spell Success Test has a Target Number 6. The number of successes becomes the spell's ratings for Strength and Quick-ness. The character can use his own skills with the magic fingers spell, but all target numbers receive a +2 because of the problems of remote control. Even simple actions may require a Quickness Test. The magician can fight, pick a lock, or whatever, using magic fingers. The fingers can reach any point the magician can see. The casting magician can use a clairvoyance spell or even remote-viewing technology to get a close-up of the scene, as long as the actual location is within his view. The spell comes in very handy for disarming bombs.
+Type: Physical
+Range: LOS
+Target: 6
+Drain: [(F + 2) + 2]M
+Duration: Sustained
+
+**Poltergeist**
+Within the area of this spell, all small objects and debris, up to a kilogram in mass, whirl around in random patterns. This reduces the visibility factor of the area (+2 to all target numbers). The spell does Stun damage as well, whacking targets with flying debris. Targets within the area use their Quickness Rating, not Body, for their Resistance Tests against such damage, with the Spell Force Rating as the target number. The Damage Category is Light. Impact armor provides protection against this damage.
+Type: Physical
+Range: LOS
+Target: 4 [R]
+Drain: [(F + 2) + 1]S
+Duration: Sustained
+
+#### Transformation Manipulations
+**Armor**
+A voluntary subject is required. The magician gives the subject built-in armor, knitting his tissues into tougher compounds. Treat one-half the successes made in the Spell Success Test as the Dermal Armor Rating (add to Body) for as long as the spell is maintained.
+Type: Physical
+Range: Limited
+Target: 4
+Duration: Sustained
+Drain: [(F + 2) + 2]M
+
+**Barrier**
+Barrier is an area-effect spell in which the magician forms a force field of crackling energy. The Spell Success Test has a Target Number 6. The magician may form the barrier as a normal area spell, which would create a dome of energy, or he may create a wall. The wall's height is the spell's Force in meters. The length of the wall or radius of the dome is equal to the magician's Magic Rating. This length may be adjusted in the same way as the radius of an area effect, by withholding dice from the Success Test. The magician may make the wall into any shape. Anything the size of a molecule (or less) can pass the barrier, including air or other gases. Anything bigger treats a physical barrier as having a Barrier Rating equal to the spell's Force (and is therefore cumulative with armor). Attacks directed through a barrier spell have a visibility modifier of -1. Physical barriers do not impede spells, even manipulation spells.
+Type: Physical
+Range: Limited
+Target: 6
+Duration: Sustained
+Drain: [(F + 2) + 2]S
+
+**Mana Barrier**
+Mana barriers do not stop physical weapons, but they do block movement by living beings. Unliving things (like bullets) pass right through. Passengers inside closed vehicles are not affected by a mana barrier spell, but it would knock the rider off a motorcycle. A mana barrier spell also acts as a defense against spells. Add one-half the spell's Force (the barrier's Rating) to the target numbers of all magicians casting spells across the barrier. It is also an astral barrier.
+Type: Mana
+Range: Limited
+Target: 6
+Duration: Sustained
+Drain: [(F + 2) + 1]S
+
+**Ignite**
+The magician accelerates molecular speed in a target, making it catch fire. Anything that can burn is subject to this spell. The base time to ignite the target is 10 turns, divided by the magician's successes. Once the target ignites, it is burning until it either burns up or is extinguished by smothering, water, or a fire extinguisher. The spell must generated more successes than the Body Rating of living targets or the base Barrier Rating of inanimate objects. The ignite spell wraps a being in flames, causing (F)M damage on the first turn. The Power increases by 1 point per Combat Turn. At the end of each turn, make a Damage Resistance Test, counting one-half impact armor. Ammo or explosives carried by the victim may go off. If flames are not extinguished, they burn out in 1D6 Combat Turns.
+Type: Physical
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 2]D
+Duration: Permanent
+
+**Flame Bomb**
+This area-effect spell creates a blast whose effects surround the target. Being of real flame, it causes easily flammable materials to ignite and burn. The Damage Code for this attack is (F)M. Every 2 successes increases the damage by one level. The spell is resisted by Body, and one-half the value of Impact Armor reduces the Power (Force) of the attack. Resolve using the ranged combat procedure.
+Type: Physical
+Duration: Instant
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]D
+
+**Flamethrower**
+This spell creates a stream of flame from the caster to the target. Being of real flame, it causes easily flammable materials to ignite and burn. The Damage Code for this attack is (F)M. Every 2 successes increase the Damage Code by one level. The spell is resisted by Body. and one-half the value of Impact Armor reduces the Power (Force) of the attack. Resolve using the ranged combat procedure.
+Type: Physical
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]S
+Duration: Instant
+
+**Ice Sheet**
+This spell creates a flat sheet of ice that covers a number of square meters equal to the caster's Magic Rating multiplied by the successes. Characters crossing the sheet must make a Quickness Test against a Target Number 3 to avoid falling prone. Vehicles must make a Handling Test to avoid having to make a Crash Test. The sheet melts at a rate of 1 square meters per minute.
+Type: Physical
+Duration: Instant
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]S
+
+**Light**
+An area-effect spell. This spell creates a mobile point of light that illuminates an area equal to the magician's Magic Rating times the spell's successes in meters. The illumination is roughly equal to that from a good flashlight, but as an area-effect. This spell cannot be used to blind, but does offset visibility modifiers for darkness; 2 successes counters a +1 modifier.
+Type: Physical
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 2]M
+Duration: Sustained
+
+**Shadow**
+An area-effect spell. This spell creates a pool of darkness equal to one-half the caster's Magic Rating times the spell's successes in meters. The target number depends on the local conditions: bright midday, 6; day, 5; day, overcast, 4; twilight, 3; street light or darker, 2. Every 2 successes imposes a +1 target modifier for Combat or Perception Tests against targets within the area of shadow.
+Type: Physical
+Range: LOS
+Target: See above
+Duration: Sustained
+Drain: [(F + 2) + 2]M
+
+**Spark**
+This spell creates a small spark of electricity that springs from the spellcaster to the target. The damage code for this attack is (F)M. Every 2 successes increase the Damage Code by one level. The spell is resisted by Body, and one-half the value of Impact Armor reduces the Power (Force) of the attack. Resolve using the ranged combat procedure.
+Type: Physical
+Duration: Instant
+Range: LOS
+Target: 4
+Drain: [(F + 2) + 1]M

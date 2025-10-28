@@ -1,0 +1,1705 @@
+# COMBAT
+Guns. Guns. Guns. My life would be so dull without them. —Wedge, mercenary
+
+When it’s time to get down to combat between characters, the Shadowrun game proceeds in turns. Each character acts in order, the fastest first, in a set sequence known as the **Combat Turn**. The Combat Turn attempts to mimic what might occur during real combat, resolving issues such as who acts first, who is faster on the draw, what happens when one character punches another, and so on.
+
+During the Combat Turn, which is roughly three seconds long, each player takes turns describing his character’s action. The Gamemaster’s role is to describe the actions and reactions of the non-player characters as well as the final outcome of all actions.
+
+The Combat Turn is divided into a variable number of **Combat Phases**. Based on their Initiative, how fast they’re reacting, characters may attempt actions during one or more Combat Phases within a single Combat Turn. An action, as explained in more detail later, is a character’s attempt to do something. Firing a gun, casting a magic spell, and activating a computer program are some typical actions.
+
+These combat rules apply to player characters and non-player characters alike. In those cases where a rule or procedure differs for one or the other, the specific rule will always so indicate.
+
+## USING THESE RULES
+Players need not attempt to completely understand the Combat Turn procedures on their first read-through of the rules. Sections later in this chapter clarify each step in greater detail. For now, simply read through the overview of the Combat Turn sequence given below. When reading for the first time, players can also ignore the references to other specific rules. These references will become relevant as the players become more familiar with the game and begin to encounter more complex possibilities for action.
+
+The rules relating to magic and decking during the Combat Turn are presented in detail in the chapters covering those subjects.
+
+## COMBAT TURN SEQUENCE
+The following is a quick summary of the Combat Turn sequence. This Combat Turn sequence is used to resolve all forms of combat, be it hand-to-hand, ranged combat, firearms, magic, vehicle combat, or Matrix combat.
+
+1.  **All Dice Pools Refresh (First Combat Turn Only)**
+    If this is the first Combat Turn of a new fight, all Dice Pools of all involved characters refresh, unless this is a Surprise situation (p. 86).
+2.  **Determine Initiative**
+    Determine Initiative (p. 79) (Reaction plus Initiative dice) for all the characters, critters, spirits, or computer programs involved in the fight. Then determine which character has the highest Initiative total.
+3.  **Characters Take Actions**
+    Characters involved in the combat now take their actions sequentially, starting with the character with the highest Initiative total. This character is the **acting character**. If more than one character has the same Initiative total, see Initiative Tie, p. 79.
+    A. **Acting Character’s Dice Pools Refresh**
+    The Dice Pools of the acting character refresh. If he or she has used no dice from the pools, they remain at their current value.
+    B. **Declare Actions**
+    The acting character declares his actions for the Combat Phase. He may make Free, Simple, and Complex Actions, in any order. If multiple characters are acting within one Combat Phase (see Initiative Tie, p. 79), characters declare their actions in reverse order, moving from the one with the lowest Initiative total (or whatever is the determining value) up to the character with the highest Initiative.
+    C. **Resolve Actions**
+    Resolve the actions (see p. 79) of the acting character. Once the actions have been resolved, the character’s Initiative total is reduced by 10. If the resulting Initiative total is higher than 0, the character may take additional actions later in the Combat Turn. See Multiple Actions, p. 79. If it is equal to 0 or less, the character is done for that Combat Turn. If multiple characters are resolving actions during the same phase, resolve those of the character with the highest Initiative total (or whatever is the determining value) first, then the next highest, and so on. (See Initiative Tie, p. 79.)
+    D. **Declare and Resolve Actions of Remaining Characters**
+    Move on to the character with the next highest Initiative total and resolve his actions, starting with step A above. Continue cycling through steps A through D until no character is eligible for actions.
+4.  **Begin a New Combat Turn**
+    Begin a new Combat Turn, starting again at step 1. Continue cycling through steps 1 through 3 until the combat is resolved. Any unused dice in a character’s Dice Pools carry over to the next Combat Turn and are available for use until the character’s first action of that Turn.
+
+---
+
+## INITIATIVE
+**Initiative** determines the order in which characters take action within a single Combat Turn. Initiative is based on two factors: the character’s total Initiative dice plus his adjusted Reaction Rating. This is called the **Initiative total**, as explained below.
+
+Each character begins with a base Initiative of one six-sided die (**1D6**). Various types of cyberware and magic may add more dice. A character’s total Initiative dice is listed in parenthesis following the base number, e.g., 1D6 (**2D6**). In other words, this character has two Initiative dice (2D6), one up from his base.
+
+All characters have a base Reaction, which is equal to the average of the character’s Intelligence and Quickness Ratings (round down). This number is modified by bonuses for magic or cyberware or by penalties for injuries and the like. A character’s **adjusted Reaction** is listed in parenthesis following the base number, e.g., 4 (**6**).
+
+In the Matrix, a decker’s Reaction and Initiative are modified only by the presence of response increase circuitry (see Response Increase, p. 173) in the cyberdeck the character is using. No other forms of Reaction or Initiative modifiers (other than injury modifiers, p. 112) affect the character while in the Matrix.
+
+While rigging, riggers receive only the modifications given them by the vehicle control rig (p. 249) they are using. No other Reaction or Initiative modifiers apply except for injury modifiers.
+
+To get the character’s Initiative total, add his adjusted Reaction to the result of his Initiative roll. The number determines in which Combat Phase the character may first attempt an action.
+
+> John Longbone, an ork street samurai, has a listed Reaction of 3 (5) and an Initiative of 1D6 (2D6). (Longbone has reaction-enhancing cyberware that increases his base Reaction by 2, and gives him an additional Initiative die.) Rolling his 2D6 Initiative dice, Longbone gets a 7, to which he adds his adjusted Reaction, 5, for a result of 12. Combat Phase 12 is the first one in which Longbone can act.
+
+The number of Combat Phases in a Combat Turn is equal to the highest Initiative total generated during the Initiative rolls. If, for example, the highest Initiative total was 22, that Combat Turn would have 22 Combat Phases. Events can occur in the first Combat Phase (22) or in any of the following ones, Combat Phases 21–1. No events or actions occur in Combat Phase 0, which signals the end of that Combat Turn.
+
+All events or actions within the Combat Turn must occur during a Combat Phase. The Gamemaster may need to determine, either by decree or randomly, Initiative totals for some events that are beyond character control. Events that occur at the end of a previously designated elapsed time, such as a timed explosive, always occur last in the Combat Turn, after any actions are resolved.
+
+> **GAMEMASTER NOTE:** In any Combat Phase during which decking actions are mixed with astral and/or physical actions, the order for resolving actions is all astral actions first, then all decking actions, then all physical actions.
+
+## MULTIPLE ACTIONS
+Depending on their Initiative total, characters may have multiple actions. As described above, each character takes his first action in the Combat Phase that corresponds to the number of his Initiative total. Characters become eligible for additional actions every ten Combat Phases thereafter. The four sample characters listed in the first columns below would be eligible for actions in the Combat Phases listed in the third column.
+
+| Character | Initiative Total | Combat Phases |
+| :--- | :--- | :--- |
+| A | 40 | 40, 30, 20, and 10 |
+| B | 27 | 27, 17, and 7 |
+| C | 12 | 12 and 2 |
+| D | 8 | 8 only |
+
+> Our friend Longbone, from the previous example, would have his first action in Combat Phase 12 (his Initiative total) and a second in Combat Phase 2 (12 - 10). His chummer, Shark, a street samurai with much better (and much more expensive) cyberware has a Reaction of 5 (9) and Initiative dice of 1D6 (3D6). If he gets an 18, the maximum result from his Initiative dice roll, he has an Initiative total of 27. Shark therefore can take actions in Combat Phases 27, 17, and 7.
+
+> **GAMEMASTER NOTE:** When running through the Combat Turn sequence, the Gamemaster should ask the players which of their characters has the next highest Initiative total. All should respond. The Gamemaster then compares their responses against the current Initiative totals of any non-player characters involved in the fight. The current Combat Phase then jumps to the number equal to the highest Initiative total. Having the players respond keeps the Initiative totals of their characters in their minds and should help to prevent a player from missing the Combat Phase corresponding to his character’s current Initiative total. If a character misses a Combat Phase, his actions are resolved following the resolution of any character’s actions currently in progress. It is the player’s job to keep track of when his or her character can act. The character can act again in the Combat Phase equal to 10 less than the current Combat Phase.
+
+## INITIATIVE TIES
+When multiple characters are eligible for actions in the same Combat Turn, the character with the highest Initiative total declares and resolves actions first, followed by the character with the next highest, and so on. If some characters have rolled the same Initiative total, the tie goes to the one with the higher adjusted Reaction. If that does still not break the tie, use the highest natural Reaction. If that is still not good enough, assume that the actions of both characters occur simultaneously.
+
+When multiple characters have actions in the same phase, those actions are declared in reverse order, from the lowest Initiative total (or whatever the deciding value is) to the highest. This way, the faster characters (even slightly so) are still reacting to the actions of the other, slower, characters. When resolving actions, however, work from the higher Initiative totals to the lower; the faster characters first.
+
+> Jack Frost and Seventh Son, a street shaman, both have the same Initiative total (15). Seventh Son’s adjusted Reaction is 7, while Jack’s is 12, making Frost faster. Seventh Son declares his actions (because he is the slower), followed by Frost’s declaration of his actions. Because Frost is faster, his actions are resolved first.
+
+## DELAYING ACTIONS (OPTIONAL)
+When the time for a character’s action comes up in a Combat Phase, the player may declare that he is delaying his character’s actions until a Combat Phase later in the Combat Turn. (The procedure for declaring a Delayed Action is on p. 81.) By delaying, the character chooses to wait until later in the Combat Turn to take his action. While he awaits that moment, the character can do nothing except make Free Actions normally (see p. 81). The benefit of delaying action is that it allows the character to wait and respond to something that may occur later in the turn.
+
+When something finally does occur in a later Combat Phase to which that character wishes to react, the player states that his character is intervening. This must occur during the Declare Actions portion of the Combat Phase, after all other characters acting in that phase have declared actions. If any character’s actions have begun to be resolved, the delaying character can no longer intervene, having waited too long. If multiple characters have delayed actions and now wish to act in the same Combat Phase, use the rules for Initiative Tie, above. In general, declare actions from the lowest Initiative total to the highest for the characters who are acting normally that phase, and then declare the actions of the delaying characters in the same manner. Resolve the actions of the delaying characters first, highest Initiative total to lowest, followed by the actions of the other characters.
+
+> Bastion is waiting in ambush (he delayed from Combat Phase 25). Crouched in a covering shadow, he watches an alley for signs of activity. Finally, two men exit a door across the way: they’re the ones Bastion has been waiting for. Now, on Combat Phase 12, Bastion takes his delayed Combat Phase. Bastion’s actions are resolved first in this Combat Phase, followed by the others. All three may act again ten phases later.
+
+Delaying the Action requires a Free Action to initiate, but it costs nothing to finally take the actions. Following the resolution of the delaying character’s actions, subtract 10 from his Initiative total. If the result is greater than 0, the character may act again that Combat Turn. See Multiple Actions, p. 79.
+
+If a character still has a delayed action at the end of a Combat Turn, the Delayed Action carries over into the next Combat Turn. The character’s Initiative total is determined using the normal procedure. He may take the Delayed Action at any time during that Combat Turn, even if the Combat Phase in which it occurs is at a higher Initiative total than the delaying character’s own.
+
+> Bastion, waiting in ambush elsewhere (he’s that kind of guy), has carried over his Delayed Actions from the previous Combat Turn. His Initiative total for the new Combat Turn is 17, but his target appears in his sniper rifle’s sights on Combat Phase 29. Because of the Delayed Action, he may act now even though the Combat Phase occurs before he would normally be allowed to do so.
+
+The delayed action is resolved normally. The delaying character may act again ten Combat Phases later or in the phase corresponding to his new Initiative total for that Combat Turn, whichever is less.
+
+Dice Pools refresh in the Combat Phase during which the delay is initiated. They do not refresh again when the character takes his Delayed Action. If the character uses dice from any Dice Pool for any reason while his Action is delayed, the delay is broken and the Action does not occur. See Dice Pools, p. 84.
+
+A character can have only one Delayed Action at any one time.
+
+> Following the resolution of his Delayed Action, Bastion is not eligible for additional actions until the Combat Phase corresponding to his Initiative total of 17, because it is less than 19 (triggering Combat Phase 29 minus 10). Had the trigger event occurred in Combat Phase 18 instead, Bastion could not act again until Combat Phase 8 (triggering Combat Phase 18 minus 10, which is less than his own Initiative total of 17).
+
+---
+
+## ACTIONS
+Characters can carry out three different action types within a Combat Phase: **Free, Simple, and Complex**. A character can take one Free Action, and either two Simple Actions or one Complex Action as his or her action.
+
+## FREE ACTIONS
+Free Actions are relatively simple, nearly automatic actions that require little or no effort to accomplish. Examples are saying a word, dropping an object, dropping prone, or casually looking at something.
+
+A character may take a Free Action during any Combat Phase of the Combat Turn even if it is not a phase in which he is eligible for action. Only one Free Action is possible during any given Combat Phase. A character may NOT take a Free Action PRIOR to his first action unless that character has delayed an action from a previous Combat Turn, as described above.
+
+Free Actions generally require no Success Test, though special circumstances may warrant one. Following are descriptions of many possible Free Actions involved in combat in Shadowrun.
+
+* **Activate Cyberware**
+    A character may use a Free Action to activate a piece of cyberware that is not continually turned on. This equipment includes headware radio/telephone, thermographic vision, and so on. See Cyberware, p. 246.
+* **Call a Shot**
+    A character may “call a shot” (aim for a vulnerable portion of a target) with this Free Action. See Called Shots, p. 92. This action must be immediately followed by a Take Aim, Fire Weapon, Throw Weapon, or Melee Unarmed Attack.
+* **Change Smartgun Fire Mode**
+    Characters holding a ready smartgun (with smartlink headware) may change their weapon’s fire mode as a Free Action. See Fire Mode, p. 92, and Smartlink, p. 90.
+* **Delay Action**
+    A character may delay an eligible action by expending a Free Action. See Delaying Actions, p. 80. This Free Action is only possible during a Combat Phase in which a character is eligible for action. See Multiple Actions, p. 79.
+* **Drop Prone**
+    A character may drop prone at any time, as long as he is not surprised (see p. 86). A character who is surprised may not drop prone. A magician sustaining a spell must make a Willpower (2) Test to avoid losing concentration on the spell when dropping prone.
+* **Drop Object**
+    A character may drop a held object as a Free Action. If he is holding objects in both hands, he may drop both objects as a single Free Action.
+* **Drop Sustained Spell**
+    A magician may drop a sustained spell as a Free Action.
+* **Eject Smartgun Clip**
+    A character holding a ready smartgun (with smartlink headware) may use a simple cybernetic command to eject the weapon’s clip. It still takes a Simple Action to insert a new, fresh clip. See Smartlink, p. 90.
+* **Gesture**
+    A character may execute one gesture as a Free Action. (However ludicrous this may sound, it pertains primarily to the use of gestures as silent communication in combat situations.)
+* **Observe**
+    A character may observe as a Free Action. See Perception, p. 185. A character who is observing can see only what is immediately obvious, though active vision enhancements (low-light, thermographic) apply. No actual Perception Test is possible when observing as a Free Action. (See also Observe In Detail under Simple Actions.)
+* **Speak a Word**
+    Each word spoken is a Free Action, but, for all practical purposes, characters can speak in a coherent phrase or two when necessary. The Gamemaster may wish to enforce the single action-single word rule in order to control excessive, unrealistic conversations within the span of a Combat Turn (about three seconds). Some Gamemasters and players may, however, prefer elaborate communication.
+
+## SIMPLE ACTIONS
+A Simple Action is one step more complicated than a Free Action, and requires a bit more concentration to attempt. Only a few require a Success Test to accomplish, however.
+
+A Free Action may be taken in place of a Simple Action.
+
+During any Combat Phase, the character may take up to two Simple Actions or one Complex Action.
+
+The following are typical Simple Actions occurring in combat in the Shadowrun game.
+
+* **Change Gun Mode**
+    A character holding a ready firearm can change its fire mode via a Simple Action. If the weapon is a properly linked smartgun, it takes only a Free Action to change the mode. See Fire Mode, p. 92, and Smartlink, p. 90.
+* **Change Position**
+    Using a Simple Action, a character may either stand up or lie down (becoming prone). If the character is wounded and attempting to stand up, he needs a Willpower (2) Test to stand up. Remember to include any injury modifiers to the target number. Characters can always fall down without making a test (or by using the Free Action of Drop Prone).
+* **Command a Spirit**
+    Using a Simple Action, a magician character may issue a command to a nature or elemental spirit under his control. See also Elemental Services and Nature Spirit Services, p. 140.
+* **Fire Weapon**
+    A character may fire a ready firearm in single-shot, semi-automatic, or burst-fire mode via a Simple Action. See Firearms, p. 92, for more information. If a character has one weapon in each hand, he may fire once with each weapon by expending one Simple Action. See Using a Second Firearm, p. 90.
+    Single-shot weapons may be fired only once per Combat Phase.
+    Using Fire Weapon, a character may fire a bow-weapon (regular bow or crossbow) that has been previously made ready using the Simple Action of Ready Weapon. See Projectile Weapons, p. 96.
+* **Insert Clip**
+    A character may insert a fresh clip into a ready firearm by taking a Simple Action, but only if he has first removed the previous clip. See the Simple Action of Remove Clip, below, and also Reloading Firearms, p. 95.
+* **Observe in Detail**
+    A character may make a detailed observation by taking a Simple Action. See Perception, p. 185.
+* **Pick Up/Put Down Object**
+    A character may pick up an object within reach or put down one that he was holding by expending a Simple Action.
+* **Quick Draw**
+    A character may attempt to quick-draw a pistol or pistol-sized weapon (Concealability 4 or greater, see p. 94) and immediately fire it by expending a Quick Draw action. For the character to successfully draw the weapon, the player must make a Reaction (4) Test. Only 1 success is necessary to clear the weapon. If the pistol is not held in a proper holster, add a +2 target modifier. If the test is successful, the character may draw the pistol and fire normally. If the test fails, he cannot fire the gun this Combat Phase.
+    Only weapons that can be fired with a Simple Action can be quick-drawn. Two weapons may be quick-drawn and fired, but this adds an additional +2 target modifier to each Reaction Test. See Using a Second Firearm, p. 90.
+* **Ready Weapon**
+    A character may ready a weapon by spending a Simple Action. The weapon may be a firearm, melee weapon, throwing weapon, ranged weapon, or mounted or vehicular weapon. Readying entails drawing a firearm from a holster, drawing a throwing or melee weapon from a sheath, picking up any kind of weapon, nocking an arrow in a bow or crossbow, or generally preparing any kind of weapon for use. A weapon must be ready before it can be used.
+    A character can ready a number of small throwing weapons, such as throwing knives or shuriken, equal to one-half his Quickness (round down) per Ready Weapon action.
+* **Remove Clip**
+    A character may remove a clip from a ready firearm by taking a Simple Action. See Insert Clip, above, and also Reloading Firearms, p. 95. It takes another Simple Action to grab a fresh clip and slam it into the weapon.
+    The wielder of a smartgun with properly linked headware may eject the gun’s clip by spending a Free Action to make a simple cybernetic command. See Smartlink, p. 90.
+* **Shift Perception**
+    A Simple Action allows a magician to shift perception to or from astral space. Actual astral projection requires a Complex Action. See Astral Perception, p. 145.
+* **Take Aim**
+    A character may take aim with a ready ranged weapon (firearm, bow, or throwing weapon) as a Simple Action. Take Aim actions are cumulative, but the benefits are lost if the character takes any other kind of action, including a Free Action. Take Aim actions may be extended over multiple Combat Phases and Combat Turns. The maximum number of sequential Take Aim actions a character may take is equal to one-half the character’s skill with that weapon, rounded down.
+    Characters who are aiming over multiple Combat Phases may not use Dice Pool dice for any reason without losing the benefits of the Take Aim actions.
+    Each Take Aim action reduces the base target number by 1. See Resolving Ranged Combat, p. 87.
+* **Throw Weapon**
+    A character may throw a ready throwing weapon (see Ready Weapon, above) by taking a Simple Action.
+* **Use Simple Object**
+    A character may use a simple object by taking a Simple Action. In this case, simple is defined as being able to operate the device or mechanism via a simple activity such as pushing a button, turning a knob (doors must be unlocked to be opened with a Simple Action), pulling a lever, and so on. The Gamemaster may have to decide on a case-by-case basis if a device or mechanism is simple or complex. A character can also use objects such as potions, pills, skillsofts, or patches by taking a Simple Action.
+
+## COMPLEX ACTIONS
+A Complex Action requires the most intense concentration of all the possible action types. Only one Complex Action is possible per Combat Phase. A character who wishes to take a Complex Action may also take a Free Action that Combat Phase, but no Simple Actions are possible.
+
+* **Astral Projection**
+    A magician may accomplish astral projection by taking a Complex Action. See Astral Projection, p. 146.
+* **Cast Spell**
+    A magician may cast a spell by taking a Complex Action. See Casting Spells, p. 129.
+* **Melee/Unarmed Attack**
+    A character may attack with a melee weapon, or unarmed, by taking a Complex Action. See Melee Combat, p. 100. A character may attack multiple targets within melee range with a single Complex Action. See Multiple Targets, p. 102.
+* **Fire Automatic Weapon**
+    A character may fire a ready firearm in full autofire mode by taking a Complex Action. See Firearms, p. 92.
+* **Fire Mounted or Vehicle Weapon**
+    A character may fire a ready mounted or vehicle weapon by taking a Complex Action. See Vehicle Combat, p. 105.
+* **Reload Firearm**
+    Weapons that do not use clips must be reloaded using a Complex Action. See Reloading Firearms, p. 95.
+* **Summon Nature Spirit**
+    A shaman may summon a nature spirit by taking a Complex Action. See Summoning Nature Spirits, p. 140.
+* **Use Complex Object**
+    A character may operate a complex object, such as a computer, cyberdeck, vehicle, and so on, by taking a Complex Action. “Use” entails activating a program, issuing detailed instructions, conducting an internal operation (such as copying files), driving the vehicle, and the like. This cannot be done while running.
+* **Use Skill**
+    A character may use an appropriate skill by taking a Complex Action. See Skills, p. 66.
+
+---
+
+## MOVEMENT
+In addition to the choices of Free, Simple, and Complex Actions, characters may also choose to move during a Combat Phase. Movement in no way changes the availability of Free, Simple, or Complex Actions.
+
+There are two types of movement: **walking** and **running**. Characters may move at one of the two rates during a Combat Phase. They may also choose to remain stationary if they wish. Characters who have multiple Actions may run only in one of those Combat Phases, but it does not matter which.
+
+## WALKING
+When walking, characters may move at a pace equal to their Quickness Rating in meters during that Combat Phase. If they are combining the movement with an action that requires some form of Success Test, the character takes a +1 target modifier. If the movement is over rough terrain or through obstacles, the character takes a +2 target modifier.
+
+## RUNNING
+Characters who are running may move a number of meters equal to their Quickness Rating multiplied by the appropriate running modifier from the table below. The result is in meters per Combat Phase.
+
+Characters who are running take a +4 target modifier to any tests attempted while running.
+
+Characters with Running Skill may attempt to increase their running distance by spending a Complex Action (Use Skill). Each success against a Target Number 4 increases the character’s effective Quickness by 1 point for that Combat Phase.
+
+---
+
+## RUNNING TABLE
+| Race | Running Modifier |
+| :--- | :--- |
+| Human | ×3 |
+| Dwarf | ×2 |
+| Elf | ×3 |
+| Ork | ×3 |
+| Troll | ×2 |
+
+---
+
+## INTERCEPTION
+If movement takes a character within one meter of an opponent, and the character attempts to pass by without attacking the opponent, that opponent can take a free melee attack. If the opponent has a weapon ready, he uses his normal Armed Combat Skill Rating; otherwise, he uses Unarmed Combat Skill. The attacker’s target number is 4. The only modifiers are those applied for reach, movement, or the attacker’s condition. The character can choose to Subdue (p. 103) if he chooses. The defending character is assumed to be in full Defense (p. 103).
+
+If the character attempting to pass takes damage (see Melee Combat, p. 100), he is considered to be intercepted and he cannot continue his movement.
+
+The Combat Pool may be used to augment these rolls.
+
+## DICE POOLS
+**Dice Pools** initially become available for use at full value as the first step of the first Combat Turn of any encounter. Characters can then draw from them, as appropriate for the type of pool, during the Combat Turn. Once dice are drawn from the pool, those dice are no longer available for use until the pool refreshes at the beginning of the character’s next action. More than one die can be used to augment a test, subject to the limitations of the Dice Pool.
+
+When using dice from a Dice Pool to augment a test, the player adds the Dice Pool dice directly to those normally used for the test. That is, if a character would normally roll 4 dice for a test, but takes 3 more dice from the appropriate pool to augment the test, he now rolls a total of 7 dice.
+
+Some pools have limitations on how many dice can be added to a single test. See the descriptions for the respective Dice Pools for more information.
+
+Dice from a Dice Pool should be a different color than the other dice used in the test.
+
+> Ellen Whitelace, heavy pistol held out before her in a combat grip, is fresh out of options: if she doesn’t take down the charging troll right fraggin’ now, she’ll never have to worry about options again. Her player can choose to use none, some, or all of the dice in Whitelace’s Combat Pool to augment her Firearms Test. Whatever dice she uses to augment the test will be unavailable again until the beginning of Whitelace’s NEXT action. In this case, Whitelace has a Combat Pool of 6 dice. Her player, knowing that the troll has to be stopped, decides to use all 6 dice. That leaves no dice in the character’s Combat Pool until her next action. If the Whitelace player had decided to use, say, only 4 dice, 2 dice would still have remained for use. Whitelace’s player has decided to risk it all in taking down the troll. If Whitelace does not stop the troll now, he could well come after her again at a time when she has no Combat Pool dice to use defensively.
+
+At the start of each character’s action, all his or her Dice Pools refresh to their original, full value. Thus, if a character has a Magic Pool with 8 dice, the pool always returns to 8 dice at the start of that character’s action. Unused pool dice do not carry over from one action to the next. Pool dice not used by the end of a Combat Turn are available for use early in the next Combat Turn, but are lost on the character’s first action of that Turn.
+
+> Whitelace geeks the troll, barely, but now has a trio of ninja wannabees looking to slice and dice her. When the Combat Turn ends, she still has 3 dice in her Combat Pool. Rolling for Initiative, her player makes an Initiative total of 18. Those remaining 3 dice can be used anytime, subject to the rules of the Combat Pool, prior to her action 18. She’ll need them: two of the ninja wannabees have actions before her.
+
+The Dice Pools of characters who delay actions refresh in the Combat Phase during which they delayed. The pools do not, however, refresh when the action actually comes up. The characters must wait until their next eligible action after the triggered action. If dice are drawn from any Pool, for any reason, at any time during the delay period (before the triggering event occurs), the delay is lost. See Delaying Actions, p. 80.
+
+A character can have only one Delayed Action at any one time.
+
+> Following the resolution of his Delayed Action, Bastion is not eligible for additional actions until the Combat Phase corresponding to his Initiative total of 17, because it is less than 19 (triggering Combat Phase 29 minus 10). Had the trigger event occurred in Combat Phase 18 instead, Bastion could not act again until Combat Phase 8 (triggering Combat Phase 18 minus 10, which is less than his own Initiative total of 17).
+
+## COMBAT POOL
+The **Combat Pool** represents the attention the character is giving to his or her offensive and defensive posture. Dice from the Combat Pool may be allocated to any offensive or defensive combat-related tests, such as Firearm, Projectile Weapon, Throwing Weapon, Gunnery, Melee Combat, or similar offensive Combat Skill Tests (see Success Tests, p. 66). It is also possible to use dice from the Combat Pool to augment Damage Resistance Tests (see p. 102) against normal attacks.
+
+> Jonah Hammer, a mercenary with far too much attitude, has a Combat Pool of 7 dice. He has Firearms, Projectile Weapons, Throwing Weapons, and Gunnery Skills, and can use dice from the Combat Pool to augment tests for those skills. If attacked, he can also use dice from his Combat Pool for the Damage Resistance Test.
+
+A character’s Combat Pool is equal to his Quickness, Intelligence, and Willpower Ratings, divided by 2, rounding down. Note that the personal combat sense spell (p. 153) does affect the Combat Pool, as do other spells that affect Quickness, Intelligence, or Willpower.
+
+The Combat Pool refreshes according to the standard Dice Pool rules.
+
+The maximum number of Combat Pool dice that a character can add to any offensive Success Test is equal to his rating in the skill for which he is making the test. For example, a character with a Combat Skill of 5 can add only 5 more dice from his Combat Pool when making a Combat Success Test.
+
+There is no limit on the number of dice that a character may draw from the Combat Pool for a defensive Damage Resistance Test.
+
+The only time the Combat Pool can be used to augment or resist magic-related Success Tests is in the case of damaging manipulation spells. A character can use dice from the Combat Pool to augment the Damage Resistance Test against these spells. See Manipulation Spells, p. 127.
+
+An attack is considered to be a clean miss if the successes earned purely from the Combat Pool dice exceed the successes earned by the attacker. See Resolving Ranged Combat, p. 87, and Resolving Melee Combat, p. 100.
+
+Characters wearing partial or full heavy armor take reductions to their Combat Pools. Those types of armor reduce the Combat Pool by 1 die for every point of Ballistic Armor Rating the armor has over the wearing character’s Quickness Rating. See Armor, p. 242.
+
+## CONTROL POOL
+The **Control Pool** is used by riggers to augment tests relating to vehicle control, such as Driving or Piloting (p. 183) and Position Tests (p. 105).
+
+A rigger’s Control Pool is equal to the character’s Reaction, modified only by a vehicle control rig. Reaction bonuses from other sources are of no help.
+
+The Control Pool refreshes in accordance with the standard Dice Pool rules. See Vehicle Combat, p. 105, for special rules related to the Control Pool and Position Tests.
+
+The maximum number of Control Pool dice that a character can add to any control-related test is equal to the base number of dice involved in the test. That is, the maximum number of Control Dice that a character can add to a control-related test is equal to his rating for the skill he is attempting to use.
+
+Only characters with a Vehicle Control Rig (see p. 104) can use a Control Pool.
+
+## HACKING POOL
+**Deckers** use dice from the **Hacking Pool** to augment decking-related tests such as Utility Tests (p. 174) and the MPCP Resistance Test in Matrix combat (p. 179). Hacking Pool dice cannot be used to augment defensive utility programs.
+
+A character’s Hacking Pool is equal to his or her Computer Skill (or Software Concentration or Decking Specialization) plus the character’s Reaction. The only bonuses that can help the Hacking Pool are those received from cyberdeck response increase circuitry (p. 173). Bonuses received from other sources do not help.
+
+The Hacking Pool refreshes in accordance with the standard Dice Pool rules.
+
+The maximum number of Hacking Pool dice that can be added to any test is equal to the base number of dice in use. That is, the maximum number of Hacking Pool dice that can be added to a program-related test is equal to the rating of the program. Similarly, the maximum number of dice that can be added to the MPCP Resistance Test is equal to the rating of the MPCP.
+
+Only characters with a cyberdeck (see p. 172) can use a Hacking Pool.
+
+## MAGIC POOL
+A magician uses dice from the **Magic Pool** to augment certain magic-related Tests. Dice from the Magic Pool can be used to augment Spell Success Tests and Drain Resistance Tests in spellcasting (p. 129), in a special manner for ritual sorcery (p. 133), and for specific or area-effect Spell Defense (p. 132). Dice from the Magic Pool cannot be used to augment Conjuring-related Tests.
+
+A character’s Magic Pool is equal to his or her Sorcery Skill Rating (or any Concentration or Specialization of that skill, per those rules on p. 70), plus the rating of any applicable power foci the character may have (see foci, p. 137). Shamans also receive conditional bonuses to their Magic Pool based on the totem they follow. See Totem Modifiers, p. 119.
+
+The Magic Pool refreshes in accordance with the standard Dice Pool rules.
+
+The maximum number of Magic Pool dice that a character can add to a Magic Success Test is equal to his Magic Attribute. For example, a character with a Magic Attribute of 6 could add a maximum of 6 dice to a Success Test for a Force Rating 4 spell; that is, he would make the test with a total of 10 dice.
+
+There is no limit to the number of dice a character may draw from the Magic Pool for the Drain Resistance Test. See the special rules associated with Ritual Magic (p. 133) and Spell Defense (p. 132) for more on the Magic Pool in those situations. Magic Pool dice cannot be used to augment Conjuring-related Tests.
+
+Dice from the Magic Pool are allocated immediately following the Declare Actions step of the Combat Turn.
+
+---
+
+## CRITTER COMBAT
+In Shadowrun, the term **critter** covers a wide variety of creatures and beings. The group includes regular animals, paranormal animals, spirits, and individuals who have been affected by magical viruses, like vampires and ghouls.
+
+## INITIATIVE
+Initiative for critters is determined in exactly the same way as normal character Initiative. All animals have a base Reaction Rating and a number of Initiative dice based on their reflexes (usually 1, 2, and yes, even 3D6). See the Critter Statistics Table, p. 233, for those statistics. The Initiative dice are rolled and added to the animal’s Reaction Rating to determine its Initiative total.
+
+## ACTIONS
+Sentient creatures may perform the same actions as normal characters, assuming they have the physical or paranormal means to do so. This may require some judgment on the part of the Gamemaster, based on the information presented in the Critters chapter, p. 214. The only Free Actions available to non-sentient creatures are Cease Using Power (similar to Drop Sustained Spell), Delay Action, Drop Prone, Drop Object (as appropriate), or Observe. They can use the Simple Actions of Change Position, Observe In Detail, or Pick Up/Put Down Object (as appropriate), and Complex Actions like Attack (like Melee/Unarmed Attack) or Use Power (similar to Cast Spell).
+
+## DICE POOLS
+Critters do not have Dice Pools. They do have **Threat Ratings**, however. See below and also Behind the Scenes, p. 187.
+
+## CRITTER THREAT RATINGS
+Critters, like non-player characters, have Threat Ratings to reflect increased hazard or ability. The Threat Rating is a permanent addition of dice to augment any applicable tests the critter makes, whether offensive (especially attack-related) or defensive.
+
+The Threat Rating is not added to Initiative dice for the purpose of determining the creature’s Initiative, however. Use the standard formula of adding together the Reaction Rating and the Initiative dice.
+
+Threat Rating dice should be treated as Combat Pool dice for the purposes of determining a clean miss. See Combat Pool, p. 84.
+
+It is ultimately the Gamemaster’s option as to when to apply a critter’s Threat Rating dice, based on that critter’s abilities and general strengths.
+
+## COMBAT SKILLS
+Sentient creatures may have skills, but if they do not, they usually follow the same rules as non-sentient creatures. See the Critters chapter, starting on p. 214, for more information. Non-sentient creatures use their Reaction Rating as their base dice for physical attacks. Creatures with paranormal abilities use either Quickness, Intelligence, Willpower, or Reaction, as appropriate for the ability or power.
+
+Critters make Damage Resistance Tests normally, but add their Threat Rating to the test dice.
+
+---
+
+## SURPRISE
+Characters sometimes appear where and when they are not expected. This may be deliberate, as in the case of a planned ambush. Or it may be accidental, as in the case of two unlucky security guards who stumble over a group of shadowrunners committing some nefarious deed. In these and other similar instances, a **surprise** situation can occur.
+
+When surprised, a character can do little except watch events unfold. Surprise, as a game concept, occurs individually on a character-by-character basis. Thus, a player character walking into an ambush set by two non-player characters may find himself surprised by Ambusher A, but not by Ambusher B. In this case, the player character can take actions against Ambusher B, but not against Ambusher A, because it was Ambusher A that surprised him.
+
+To resolve surprise and ambush situations, all participants must make Reaction Tests. Each character rolls his Reaction dice against a Target Number 4. The ambusher-characters, if they have delayed actions as they lie in wait for the arrival or appearance of their targets, receive a -2 to their target numbers. Gamemasters may also wish to apply additional target number modifiers for terrain, proper (or improper) camouflage, and other extenuating circumstances.
+
+Each character’s successes are then compared individually against the successes generated by the opposing characters. One of the following two results may occur against each of the opposing characters:
+
+* If a character has not generated more successes than a particular opposing character, he cannot take any actions that directly affect, impede, or counteract that character.
+* If the character has generated more successes than a particular opponent, the first character can take actions against the second.
+
+> Tess, Virgil, and Winger are waiting in ambush for three Mitsuhama security goons. The goons arrive, and our heroes spring their ambush. Tess has a Reaction of 6, Virgil an 8, and Winger a 9. The three goons all have Reaction 4. All characters make Reaction Tests. Rolling against Target Numbers of 2 (4, minus 2 for being ambushers), Tess gets 3 successes, Virgil 4, and Winger 5. Goon A gets a 4, Goon B gets 2, and Goon C gets none. Comparing successes, we find that Tess (3 successes) can act fully against Goon B (2 successes) and Goon C (0 successes), but can do nothing against Goon A (4 successes). Virgil can take actions against Goons B and C, but not A because Virgil and Goon A have the same number of successes. With 5 successes, Winger can act against everybody.
+>
+> The goons are in deep trouble. Goon A can only take actions against Tess (4 successes versus 3), and that’s it. Neither Goon B nor Goon C can take actions against any of the shadowrunners. Goon B simply did not generate enough successes, and Goon C, with no successes, is caught with his mouth hanging open or admiring a particularly attractive crack in the sidewalk.
+
+All losses of actions, or limitations on actions, pertain to the character’s current action (if he is acting) or the next action, if it is not his or her action. Surprise should be resolved before any actions in a Combat Phase.
+
+Gamemasters will no doubt have to make numerous judgment calls in combat situations. The main idea in a surprise situation is that characters who do not generate more successes than a particular opponent in the Reaction Test cannot act against or react directly to that character. They are surprised by that character. The character can carry out other actions of a more general nature that are not directed at the opposing character, such as dropping prone or readying a weapon (but not firing it).
+
+Characters who are unable to generate more successes than any members of the opposition suffer doubly. If anyone in the opposition generated more successes than the first character, the latter is considered to be **completely surprised** and is unable to take any actions of any kind, including Free Actions. The character may act again normally after ten Combat Phases.
+
+Critters and animals all obey the same rules for surprise, as do spirits. Magical spells, programs, and IC are never surprised. Sorry.
+
+---
+
+## RANGED COMBAT
+There are two kinds of combat in Shadowrun: ranged combat involving weapons, and melee, or hand-to-hand combat. All ranged combat, whether it involves firearms, projectile weapons, or thrown weapons, is resolved in the same manner. Ranged magic combat is explained in the Magic section, starting on p. 116.
+
+## RESOLVING RANGED COMBAT
+Use the procedure outlined below for resolving ranged combat. Each step is explained further in the following sections.
+
+1.  **Determine Range**
+    Count the number of meters to the target and compare the weapon type against the appropriate range column on the Weapon Range Table (p. 88) to find the base target number.
+2.  **Apply Situational Target Modifiers**
+    Consult the Ranged Combat Modifiers Table (p. 89) and apply the appropriate situation modifiers.
+3.  **Attacker’s Success Test**
+    Make the attacker’s Success Test using the appropriate Combat Skill, modified by dice from the character’s Combat Pool. Count the successes. See p. 90, below.
+4.  **Resolve Target’s Damage Resistance Test**
+    Make the target’s Damage Resistance Test using Body dice and Combat Pool dice against a target number equal to the Power Rating of the weapon used, minus the target’s Armor Rating. Count the successes.
+5.  **Determine the Result**
+    Compare the successes. Depending on the outcome, the Damage Level may be staged up or down, or the attack may miss entirely. Apply any damage to the target’s Condition Monitor.
+6.  **Apply Damage**
+    The weapon’s damage is staged accordingly and applied against the target, if necessary. See p.91, below.
+
+## BASE TARGET NUMBER
+To determine a weapon’s base target number, check the distance to the target in meters and then consult the Weapon Range Table below. Shots against targets at short range have a base target number of 4. Shots against targets at medium range are against a 5, long range against a 6, and extreme range against a 9.
+
+---
+
+| Range In Meters | Short | Medium | Long | Extreme |
+| :--- | :--- | :--- | :--- | :--- |
+| **Target Number** | **4** | **5** | **6** | **9** |
+| **Firearms** | | | | |
+| Hold-out Pistol | 0-5 | 6-15 | 16-30 | 31-50 |
+| Light Pistol | 0-5 | 6-15 | 16-30 | 31-50 |
+| Heavy Pistol | 0-5 | 6-20 | 21-40 | 41-60 |
+| SMG | 0-10 | 11-40 | 41-80 | 81-150 |
+| Taser | 0-5 | 6-10 | 11-12 | 13-15 |
+| Shotgun | 0-10 | 11-20 | 21-50 | 51-100 |
+| Sporting Rifle | 0-30 | 31-60 | 61-150 | 151-300 |
+| Sniper Rifle | 0-40 | 41-80 | 81-200 | 201-400 |
+| Assault Rifle | 0-15 | 16-40 | 41-100 | 101-250 |
+| LMG | 0-20 | 21-40 | 41-80 | 81-150 |
+| **Heavy Weapons** | | | | |
+| Medium Machine Gun | 0-40 | 41-150 | 151-300 | 301-500 |
+| Heavy Machine Gun | 0-40 | 41-150 | 151-400 | 401-800 |
+| Assault Cannon | 0-50 | 51-150 | 151-450 | 451-1,300 |
+| Grenade Launcher | *5-50 | 51-100 | 101-150 | 151-300 |
+| Missile Launcher | *20-70 | 71-150 | 151-450 | 451-1,500 |
+| **Impact Projectiles** | | | | |
+| Bow | 0-Str | To Str x 10 | To Str x 30 | To Str x 60 |
+| Light Crossbow | 0-Str x 2 | To Str x 8 | To Str x 20 | To Str x 40 |
+| Medium Crossbow | 0-Str x 3 | To Str x 12 | To Str x 30 | To Str x 50 |
+| Heavy Crossbow | 0-Str x 5 | To Str x 15 | To Str x 40 | To Str x 60 |
+| Thrown Knife | 0-Str | To Str x 2 | To Str x 3 | To Str x 5 |
+| Shuriken | 0-Str | To Str x 2 | To Str x 5 | To Str x 7 |
+
+---
+
+The base target number appears at the top of the appropriate range column. All distances are in meters. Weapons marked with asterisks at short range have minimum range requirements. For impact projectiles, the notes “to STR × 10” and the like mean that the bow’s Strength Minimum is used to determine the distance. That is, a bow being wielded by a character with a Strength Rating 5 has a 0- to 5-meter short range, 6- to 50-meter medium range, a 51- to 150-meter long range, and a 151- to 300-meter extreme range. See Strength Minimum Rating, p. 96.
+
+### Minimum Ranges
+Weapons marked with an asterisk cannot be fired at targets closer than the minimum value given under Short Range. See Grenade Launcher Minimum Range, p. 97, and Missile Launchers, p. 99.
+
+### Image Modification Systems
+These systems shorten a weapon’s range category by a number of levels equal to the device’s rating. A Rating 2 targeting scope firing at long range would, for example, shift range two places to the left on the Weapon Range Table. Long range would change to short range, and the base target number (normally 6 for an attack at long range) would drop to Target Number 4 for short range. Short range is the minimum, so the same device used for an attack at medium range could not reduce the range category to less than the minimum for short range.
+
+---
+
+### SITUATIONAL TARGET MODIFIERS
+Things are not always as easy as they seem. Weapon accessories, intervening terrain, atmospheric conditions, and the movement of the attacker and the target can change the base target number. As with tests for skills or attributes, the character’s physical condition also affects the target number.
+
+Target numbers modified to less than 2 are assumed to be 2. A target number can never be less than 2.
+
+The various ranged combat modifiers are given on the following table. Each condition is described individually following this table.
+
+To determine the final, adjusted target number, total all the applicable modifiers and apply that number to the base target number found earlier. The result is the adjusted target number. The adjusted target number can never be less than 2.
+
+---
+
+### RANGED COMBAT MODIFIERS TABLE
+
+| Situation | Modifier |
+| :--- | :--- |
+| Recoil, Semi-automatic | +1 for second shot that Combat Phase |
+| Recoil, Burst-fire | +3 per burst that Combat Phase |
+| Recoil, Full-auto | +1 per round fired that Combat Phase |
+| Recoil, Heavy weapon | 2× uncompensated recoil |
+| Blind Fire | +8 |
+| Partial Cover | +4 |
+| Visibility Impaired | See Visibility Table |
+| Multiple Targets | +2 per additional target that Combat Phase |
+| Target Running | +2 |
+| Target Stationary | -1 |
+| Attacker in Melee Combat | +2 per opponent |
+| Attacker Running | +4 |
+| Attacker Running (difficult ground) | +6 |
+| Attacker Walking | +1 |
+| Attacker Walking (difficult ground) | +2 |
+| Attacker Wounded | See Injury Modifier, p. 112 |
+| Smartlink (with smartgun) | -2 |
+| Smart Goggles (with smartgun) | -1 |
+| Laser Sight | -1 |
+| Using a Second Firearm | +2 |
+| Aimed Shot | -1 per Simple Action |
+| Image Magnification | Special |
+| Recoil Compensation | Reduces recoil modifier |
+| Gyro Stabilization | Reduces recoil or movement modifier |
+
+---
+
+**Recoil**
+Weapons that fire more than one round in an action are subject to an escalating recoil modifier as the rounds leave the weapon. Semi-automatic weapons that fire a second shot receive a +1 modifier for the second shot only. Burst-fire receives a +3 recoil modifier for each burst fired that Combat Phase. Thus, a character who fires the maximum of two bursts in an action receives a +3 modifier for the first burst and an additional +3 modifier (total of +6) for the second burst. Full-auto fire weapons take a cumulative +1 modifier for each round fired that Combat Phase. That is, a character choosing to fire a seven-round full-auto burst receives a +7 modifier. If that same character chooses instead to fire two five-round full-auto bursts, he would have a +5 modifier (four previous rounds) for the first burst and a +10 modifier (nine previous rounds) for the second burst.
+
+The only way to counter a recoil modifier is with recoil compensation or gyro stabilization (p. 240).
+
+Double the uncompensated recoil modifiers for heavy weapons (specifically, medium and heavy machine guns and shotguns). If a medium machine gun is firing 10 rounds, and has 6 points of recoil compensation, its final recoil modifier would be +6 (9 - 6 = 3, 3 doubled is 6).
+
+**Blind Fire**
+Attacks against targets that cannot be seen take a +8 modifier. This modifier normally applies only to attacks through opaque barriers or for indirect fire by grenade or missile launchers against targets that cannot be seen. Attacks against normally visible targets that are now invisible also suffer this modifier.
+
+**Partial Cover**
+Attacks against targets obscured by intervening terrain such as brush, foliage, or obstacles (crates, windows, doorways, curtains, and the like) receive a +4 modifier. Obscurity due to environmental conditions like smoke or darkness uses modifiers given on the Visibility Table, below.
+
+**Visibility Impaired**
+Environmental conditions such as darkness or smoke occasionally affect combat conditions. How much depends on the type of vision the attacker is using. Consult the Visibility Table for the modifiers.
+
+If the table listing is split by a slash, the first modifier is for cybernetic or electronic vision and the second for natural, metahuman vision. If no slash appears, the modifier applies equally to all vision types.
+
+*Full Darkness* usually occurs only indoors or underground, and indicates a complete absence of light. *Minimal Light* indicates the presence of a small amount of light (small flashlight, match, leaking light, moonlight, and so on). *Partial Light* is the most common, being the lighting condition of city streets at night, partially lit stairways and hallways, and so on. *Glare* occurs when the attacker is looking directly into a bright light, be it the sun or an artificial light source such as a search or spotlight. *Mist* is very light rain or blowing snow. *Light Smoke/Fog/Rain* is the presence of thin smoke (perhaps from a fire), a light inland fog, or light rain. *Heavy Smoke/Fog/Rain* is the heavy version of the previous. *Thermal Smoke* is special smoke designed to block thermographic vision. Thermal smoke affects thermographic vision the way normal smoke affects normal vision.
+
+---
+
+### VISIBILITY TABLE
+
+| Condition | Type of Vision | Normal | Low-Light | Thermographic |
+| :--- | :--- | :--- | :--- | :--- |
+| Full Darkness | | +8 | +8/+8 | +4/+2 |
+| Minimal Light | | +5 | +4/+2 | +4/+2 |
+| Partial Light | | +2 | +1/0 | +2/+1 |
+| Glare | | +2 | +2/0 | 0 |
+| Mist | | +4 | +4/+2 | 0 |
+| Light Smoke/Fog/Rain | | +4 | +4/+2 | 0 |
+| Heavy Smoke/Fog/Rain | | +6 | +6/+4 | +1/0 |
+| Thermal Smoke | | As smoke | As smoke | As normal |
+
+---
+
+**Multiple Targets**
+If a character is attacking multiple targets within a single Combat Phase, he takes a +2 modifier per additional target. That is, if a character were firing on full-auto fire and engaging three targets (three-round, four-round, and three-round bursts), he would suffer a +2 modifier for the second target and a +4 modifier for the third target.
+
+**Target Running**
+If the target is running at the time of the attack or during his previous action, the attack suffers a +2 modifier.
+
+**Target Stationary**
+Attacks against an unmoving, stationary target reduce the target number by 1.
+
+**Attacker in Melee Combat**
+If the attacker is attempting to conduct a ranged attack while engaged in melee combat with an opponent, or if he is aware of another character attempting to block the attempt within two meters of him, the attack takes a +2 modifier per opponent present.
+
+**Attacker Running**
+If the attacker is running at the time of the attack, the attack takes a +4 modifier. If the attacker is running over difficult, hazardous, or broken ground, the modifier is +6. Movement modifiers can be counteracted by gyro-stabilization systems, described below. See also p. 83, Movement.
+
+**Attacker Walking**
+Modifiers are +1 for normal walking and +2 for walking over difficult, hazardous, or broken ground. See also p. 83, Movement.
+
+**Attacker Wounded**
+The attacker has taken damage. See Injury Modifier, p. 112.
+
+**Smartlink**
+Characters with smartlink headware and a properly equipped smartweapon (see p. 241) receive a -2 target modifier.
+
+**Smart Goggles**
+Characters wearing smart goggles and using a properly equipped smartweapon (see p. 241) receive a -1 modifier.
+
+**Laser Sight**
+Attacks using weapons equipped with a laser sight receive a -1 modifier. Laser sights are only effective out to 50 meters and are counteracted by the presence of mist, light or heavy smoke, fog, or rain.
+
+**Using a Second Firearm**
+Characters can use two pistol or SMG class weapons, one in each hand. Doing so, however, imposes a +2 target modifier to each weapon, and negates any target number reductions due to smartlinks, smart goggles, or laser sights. Additionally, any uncompensated recoil modifiers received by one weapon also apply to the other weapon.
+
+**Aimed Shot**
+Characters that aim receive a -1 modifier per Simple Action spent aiming. See Take Aim, p. 82, for more information.
+
+**Image Magnification**
+This equipment reduces the range and associated base target number. See Imaging Scopes, p. 240.
+
+**Recoil Compensation**
+Recoil compensation systems counteract the effects of recoil on a weapon. The recoil modifier is reduced at a rate of -1 per point of recoil compensation the system provides. See Firearm Accessories, p. 240, for the exact degrees of recoil compensation. Recoil compensation is cumulative, and only counteracts recoil modifiers, not non-recoil situational modifiers.
+
+**Gyro-Stabilization**
+Gyro-stabilization provides portable, stabilized firing platforms that counter the effects of recoil and movement-based modifiers (such as for running or walking). The total recoil and movement modifiers are reduced by -1 for every point of gyro-stabilization the system provides. See Firearm Accessories, p. 240, for the exact degrees of gyro-stabilization available. Gyro-stabilization counteracts only recoil and movement modifiers and does not counter any non-recoil or movement situational modifiers. Gyro-stabilization is cumulative with recoil compensation.
+
+### Attacker Success Test
+To determine the outcome of the attack, the player makes a Success Test using a number of dice equal to his character’s appropriate Ranged Combat Skill, plus additional dice from the character’s Combat Pool. Compare each individual die rolled against the modified target number using the Rule of One and the Rule of Six (p. 32). Each die that equals or exceeds the target number is counted as a success. If there are no successes, the attack has missed.
+
+Keep track of this number. Write it down.
+
+> Liam has Firearms Skill 6 and is using 4 dice from his Combat Pool. His adjusted Target Number is 4. Rolling the 10 dice (6 + 4), he gets 3, 4, 3, 2, 5, 5, 1, 2, 6, and 5. Looking at the dice individually, he has the one 4, the three 5s, and the 6 equaling or exceeding the adjusted target number (4), for a total of 5 successes. If the adjusted target number had been 5, there would have been only 3 successes. Had the target number been higher than 6, say an 8, then only the 6 could have been re-rolled to try for the 8, per the Rule of Six. In that case, re-rolling only the 6, Liam would have needed to roll a 2 or better to get 1 success.
+
+### Defender Resistance Test
+At this point, the target gets to make a Resistance Test to lessen the effects of the damage. To save his skin, the defender rolls a number of dice equal to his adjusted Body Attribute (including any dermal armor, p. 242), plus any dice still in his Combat Pool.
+
+The target number for this test is the Power Rating of the attacking weapon, modified by any armor the character is wearing. To determine that adjusted target number, simply subtract the rating of the armor from the weapon’s Power. Any result less than 2 is considered a 2. Roll the dice, using the Rule of One/Rule of Six. It is recommended that dice from the Combat Pool be a different color than the Body dice. Each die that equals or exceeds the target number is counted as a success.
+
+Keep track of the total number of successes, as well as how many of the Combat Pool dice also succeed.
+
+This test is also referred to as the **Damage Resistance Test**.
+
+> Liam’s target, an unfortunate with the even less fortunate name of Snot, has a Body of 5 and is wearing 5 points of ballistic armor. Liam is firing his trusty Ares Predator heavy pistol, which has a Damage Code of 9M.
+> The target number for Snot’s Resistance Test is 4 (9 - 5). He is rolling 5 dice for his Body, plus any dice from his Combat Pool. Alas, he has none remaining.
+> The dice are rolled, resulting in 2, 3, 4, 4, and 6. Three of the dice score equal to or higher than 4, so Snot has three successes.
+
+### Determine Outcome of Attack
+Compare the successes generated by the attacker and the target.
+
+If the attacker’s successes exceed the target’s, the attacker can raise the base damage of the weapon upward. The base damage of the weapon rises by one Damage Level for every two full successes the attacker rolls over the target’s total.
+
+All weapons are rated at one of the Damage Levels: (L)ight, (M)oderate, (S)erious, and (D)eadly, in that order. Increasing a weapon’s Damage Level shifts it to the next higher Damage Level. Decreasing a weapon’s Damage Level shifts it to the next lowest damage level. See also Damage Codes, p. 33.
+
+Staging up 1 level per 2 successes → Light → (M)oderate → (S)erious → (D)eadly ← Staging down 1 level per 2 successes
+
+If the attacker’s successes equal the target’s, the weapon does its base Damage Level.
+
+If the target’s successes exceed the attacker’s, the target can reduce the weapon’s base damage downward. The base damage of the weapon drops by one Damage Level for every two full successes the target rolls over the attacker’s total. If the damage falls below Light, no damage occurs.
+
+If the target’s Combat Pool dice alone are enough to exceed the attacker’s successes, the attack is a **complete miss**.
+
+> Comparing Liam’s and Snot’s successes, we find that Liam (the attacker, with 5) has generated 2 more successes than Snot (the defender, with 3). Liam therefore gets to stage the weapon’s damage upward. He has 2 net successes (2 more than Snot), which is enough to increase the Damage Level from “M” to “S.” Poor Snot takes a Serious wound.
+> If Snot had, by some chance, rolled 2 more successes than Liam, he would have been able to stage the weapon down one Damage Level, from “M” to “L,” and only taken a Light wound. He would have needed 4 more successes than Liam in order to take no damage (2 successes to reach Light, and then two more to eliminate it completely).
+> If both had scored the same number of successes, Snot would have taken a Moderate wound, the base damage of the weapon (9M).
+> If Liam had scored two more successes than he did, he would have been able to stage the Damage Level up 2 levels, “M” to “S,” and then “S” to “D,” giving his opponent a Deadly wound and blowing the...well, you get the idea.
+
+### Apply Damage
+Record the damage on the target’s Condition Monitor, according to the rules on p. 111.
+
+### Stopping and Knockdown
+A character struck by a ranged weapon may be knocked down by the blow. When struck, the character must make a Body Test against a target number equal to one-half the Power of the attack, round down. If the character can overcome a Threshold Number equal to one-half (rounding off) the amount of damage done (1 for a Light Wound, 2 for Moderate, and 3 for Serious), there is no effect.
+
+If the character is unable to generate any successes, he falls down (prone).
+
+If he generates successes, but does not overcome the Threshold Number, the character remains standing but takes a step or two (one meter) away from the direction of the attack.
+
+> This means, for example, that a character who has taken a Moderate wound must generate more than 2 successes in his or her Body Test to remain standing. With 1 or 2 successes, the character staggers or stumbles one meter away from the attack. If no successes are generated, the character falls down.
+
+Gel rounds have a base target number equal to their Power. (See Ammunition Table, in the Gear section.)
+
+Characters who take a Deadly wound are always knocked down.
+
+### Called Shots
+Characters may “call shots” in an attempt to increase the damage their weapon will do. By calling a shot, the character is aiming at a vulnerable portion of a target, such as the head of a person, the tires or windows of a vehicle, and so on. It is up to the Gamemaster to determine if such a vulnerable spot is accessible.
+
+When a shot is called, a few things can occur, at the player’s choice and with the Gamemaster’s agreement:
+
+* The Damage Code is increased by one level (L becomes M, M becomes S, and so on, up to a maximum of D). The character also suffers a +4 target modifier for the shot.
+* A specific sub-target of something vehicle-sized or larger can be hit, such as the windows or tires on a vehicle. Normal damage rules apply, but are used against the specific part of the vehicle. For the windows or tires, the Barrier Ratings would be used. The character receives the +4 modifier for this shot as well.
+
+Only weapons that fire in single-shot, semi-automatic, and burst-fire modes are eligible for called shots.
+
+A character can aim (see Simple Actions, p. 82) and then call a shot at the time of the attack. Calling the shot is a Free Action.
+
+---
+
+### FIREARMS
+Most ranged combat involves the use of firearms. The four types of firearms are those that fire in **single-shot mode (SS)**, **semi-automatic mode (SA)**, **burst-fire (BF)**, and **full-auto mode (FA)**. Some firearms are capable of firing in more than one mode.
+
+---
+
+### FIRE MODE TABLE
+
+| Firearm Type | Fire Mode |
+| :--- | :--- |
+| Hold-out Pistol | Single-shot or semi-auto |
+| Light Pistol | Semi-auto only |
+| Taser | Single-shot or semi-auto |
+| Heavy Pistols | Single-shot or semi-auto |
+| Submachine Gun | Semi-auto, burst-fire, and/or full-auto |
+| Shotguns | Semi-auto or burst-fire |
+| Assault Rifle | Semi-auto, burst-fire, and/or full-auto |
+| Sporting Rifle | Semi-auto only |
+| Sniper Rifle | Semi-auto only |
+| LMG | Burst-fire and/or full-auto |
+| MMG and HMG | Full-auto only |
+| Assault Cannon | Single-shot only |
+
+---
+
+**SINGLE-SHOT MODE**
+Weapons that fire in single-shot mode can usually fire only in that mode. Firing a single-shot mode firearm requires only a Simple Action, but that weapon cannot be fired again that Combat Phase.
+
+**Semi-Automatic Mode**
+Firearms that are capable of firing in semi-automatic mode can fire up to twice in one Combat Phase. Each shot requires a Simple Action. The first shot is unmodified, but the weapon has a +1 recoil modifier if a second shot is taken in that Combat Phase. This modifier can be, and usually is, neutralized by recoil compensation.
+
+Each shot requires a separate Success Test. Each shot also requires a separate allocation of Combat Pool dice, if used.
+
+**Multiple Targets**
+If the attacker engages multiple targets in semi-automatic mode, the second target is at a +2 modifier.
+
+**BURST-FIRE MODE**
+In burst-fire mode, firearms spit out three bullets in rapid succession every time the trigger is pulled. Firing a weapon in burst mode is a Simple Action, which means that up to two bursts may be fired per Combat Phase.
+
+Firing a weapon in burst-mode imposes a +3 recoil modifier per burst fired. This modifier can be neutralized with recoil compensation.
+
+Make an individual Success Test for each separate burst, modified by dice from the Combat Pool, if desired. Each burst requires a separate allocation of Combat Pool dice. For the purposes of resolving burst damage, the weapon is considered to have a Power Level 3 points greater than listed, and its Damage Level goes up to the next level. Thus, an SMG weapon firing in burst-mode would have a Power Rating of 8 and a Damage Level of S.
+
+**Short Bursts**
+If, because of insufficient ammunition in the clip, the burst ends up being a round short, the Power Rating increases by +2, but the Damage Level does not increase. A +2 recoil modifier also applies.
+
+If a burst consists of only one round, again due to insufficient ammunition, resolve it just as for a single-shot attack.
+
+**Multiple Targets**
+When engaging multiple targets in burst-mode, fire directed against a second target receives a +2 target modifier.
+
+**FULL-AUTO MODE**
+Weapons capable of firing in full-auto mode throw bullets for as long as the attacker depresses the trigger. This effect is affectionately referred to as the “lead hose.” Firing a weapon in full-auto mode is a Complex Action.
+
+The attacker declares how many rounds are fired from the weapon at a specific target. This group of rounds is considered a “full-auto burst” and is resolved in a manner similar to burst-fire. Each round fired imposes a +1 recoil modifier for the entire group. This modifier can be reduced by recoil compensation. One test, modified by dice from the Combat Pool, is made to resolve each attack, each full-auto burst. The Power Rating of the weapon increases by 1 point for every round in that full-auto burst. The Damage Level of the weapon also increases by one level for every three full rounds in the full-auto burst, raising an M Damage Level to S, and then to D, if enough rounds are fired. A Damage Level of D is the maximum obtainable.
+
+A minimum of three rounds must be fired with each burst. If the belt or clip runs short, see Short Bursts, above.
+
+> This is most certainly Wedge’s day. Six punks from the Halloweener gang decided to harass some innocent pedestrians whom Wedge decided (seconds ago) that he likes. Sure, he yelled a warning to the gangers, but is it his fault that his City Speak is so bad it sounded like something about dead mothers and fish?
+> The Halloweeners rush Wedge with a collection of knives and clubs. Wedge pulls his Ingram Valiant LMG from the back of his pick-up truck and holds down the trigger in full-auto fire.
+> Though nuts, he’s not completely insane. He limits his targets to the first three gangers, hitting each one with a full-auto burst, consisting of three rounds, three rounds, and four rounds, respectively.
+> The Valiant has a Damage Code of 7S, and this particular weapon is equipped with a Rating 3 gas vent system on the barrel and a shock pad on the stock, for a total of 4 points of recoil modification. The punks are all within 20 meters, making Wedge’s base Target Number a 4. The punks are walking, so there’s no movement modifier. There are, in fact, no situation modifiers at all, except for the laser sight on the LMG (did we mention that?). That means Wedge has a base Target Number of 3 (4 - 1).
+> The first punk gets a three-round burst, which increases the Damage Code of the weapon to 10D. The three-round burst qualifies for 3 points of recoil, which the weapon compensates for. Punk 1: Damage Code 10D, Target Number 3.
+> Punk 2 gets a three-round burst too, with a healthy Damage Code of 10D. Now, however, six rounds have been fired from the weapon, so the recoil modifier is 6. The weapon compensates for 3, leaving 3. This is the second target this Combat Phase, which adds another +2 modifier. Punk 2: Damage Code 10D, Target Number 8.
+> Punk 3 gets the four-round burst (lucky her) that has a Damage Code of 11D. The recoil modification is now +7 (10 - 3). Being the third target also means a +4 modifier added to the attack because of multiple targets. Punk 3: Damage Code 11D, Target Number 14.
+> Make a separate Success Test for each burst, with a separate allocation of Combat Pool dice, which Wedge has a lot of and which he uses primarily for the last two bursts because of their higher target numbers.
+
+**Multiple Targets**
+When engaging multiple targets in full-auto mode, the attacker must “walk” the fire from one target to the next. What this means is that one round is “wasted” for every meter of distance between the two targets. Smartguns never waste rounds.
+
+The attacker also receives a blanket +2 target modifier for each new target engaged during that Combat Phase.
+
+### STRAY SHOTS (OPTIONAL)
+Full-auto fire walked from one target to the next may result in stray shots striking an unintentional target. If a potential target is within the line of fire of a stray shot, roll 2 dice against a 4 if the potential target is within short range, 5 for medium range, 6 for long, and 9 for extreme. If 1 or more successes are rolled, resolve the hit normally, but give the attacker 1D6 more successes.
+
+If more than one potential target lies within the line of fire, determine randomly the order in which they are checked.
+
+Remember, each meter between targets produces one stray round, and smartguns never produce stray rounds.
+
+### AMMUNITION
+Most weapons are capable of firing an assortment of ammunition types. The three most common are **flechette, explosive**, and **gel (or stun) rounds**.
+
+**Flechette Rounds**
+Instead of firing a single, solid slug, flechette rounds fire a large number of small, sharp metal fragments designed to rip and tear into a target. They are very effective against minimally or unarmored targets, but almost useless against those with any kind of armor protection.
+
+Against unarmored targets, flechette rounds increase their damage by one level. That is, a heavy pistol (9M) firing a flechette round would have a Damage Code of 9S against unarmored targets.
+
+Against armored targets, flechette rounds fare poorly. For the target’s Armor Rating, use either double its Impact Armor Rating or its normal Ballistic Rating, whichever is higher. Double the Barrier Rating of any barriers fired at and/or through (see Barriers, p. 98). Also double the value of any vehicle armor (p. 104).
+
+The only effect of dermal armor, other than adding its rating to the character’s Body Attribute, is that it negates the Damage Level increase effects of flechette ammunition.
+
+**Explosive Rounds**
+Explosive rounds are solid slugs designed to fragment and explode on impact. Increase the Power Rating of any attack with explosive rounds by 1.
+
+Attempts to fire through a barrier use twice the normal Barrier Rating of the material, but the barrier itself takes damage as if it had one-half its normal Barrier Rating. See Barriers for more information.
+
+On the downside, explosive rounds will misfire whenever all of the Attack Test dice come up as ones, regardless of whether or not the test would otherwise have succeeded or failed. When this occurs, the character firing the weapon is immediately subjected to one “attack,” with a Damage Code equal to that of the normal round the weapon fires. Do not apply the explosive round adjustments. The character may make a Damage Resistance Test against the “attack,” but may not apply any dice from his Combat Pool. Roll 1D6 to determine the number of successes in the “attack.” The attack in progress misses.
+
+---
+
+### WEAPON RATINGS TABLE
+
+| Type | Concealability | Ammo | Mode | Damage | Weight | Cost |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **PISTOLS** | | | | | | |
+| Streetline Special | HO | 8 | 6 (c) | SS | 4L | .5 | 100¥ |
+| Walther Palm Pistol | HO | 9 | 2 (b) | SS | 4L | .25 | 200¥ |
+| Beretta Model 101T | LP | 5 | 12 (c) | SA | 6L | 1.0 | 350¥ |
+| Colt America L36 | LP | 6 | 11 (c) | SA | 6L | 1.0 | 350¥ |
+| Fichetti Security 500 | LP | 7 | 12 (c) | SA | 6L | 1.0 | 400¥ |
+| Fichetti Security 500a | LP | 6 | 25 (c) | SA | 6L | 1.25 | 450¥ |
+| Ares Predator | HP | 5 | 15 (c) | SA | 9M | 2.25 | 450¥ |
+| Ares Viper Slivergun | HP | 6 | 30 (c) | SA/BF | 9S(f) | 2.0 | 600¥ |
+| Browning Max-Power | HP | 6 | 10 (c) | SA | 9M | 2.0 | 450¥ |
+| Remington Roomsweeper | HP | 8 | 8 (m) | SA | 9S(f) | 2.5 | 300¥ |
+| Ruger Super Warhawk | HP | 4 | 6(cy) | SS | 10M | 2.5 | 300¥ |
+| **SPECIAL WEAPONS** | | | | | | |
+| Narcoject Pistol | LP | 7 | 5 (c) | SA | ** | 1.5 | 600¥ |
+| Narcoject Rifle | SH | 4 | 10 (c) | SA | ** | 3.25 | 1,700¥ |
+| Defiance Super Shock | LP | 4 | 4 (m) | SA | 10S | 2 | 1,000¥ |
+| **SUBMACHINE GUNS** | | | | | | |
+| AK-97 SMG/Carbine | SMG | 4 | 30 (c) | SA/BF/FA | 6M | 4 | 800¥ |
+| Heckler & Koch HK227 | SMG | 4 | 28 (c) | SA/BF/FA | 7M | 4 | 1,500¥ |
+| HK227 S Variant | SMG | 5 | 28 (c) | SA/BF | 7M | 3 | 1,200¥ |
+| Uzi III | SMG | 5 | 24 (c) | BF | 6M | 2 | 600¥ |
+| **RIFLES** | | | | | | |
+| Remington 750 | SR | 3 | 5 (m) | SA | 7S | 3.0 | 600¥ |
+| Remington 950 | SR | 2 | 5 (m) | SA | 95 | 4.0 | 1,300¥ |
+| Ranger Arms SM-3 | SN | 6 (m) | SA | 14S | 4.0 | 4,000¥ |
+| Enfield AS-7 | SH | 3 | 10 (c) | SA/BF | 8S | 4 | 1,000¥ |
+| Defiance T-250 | SH | 4 | 5 (m) | SA | 10S | 3 | 1,400¥ |
+| AK-97 | AR | 3 | 38 (c) | SA/BF/FA | 8M | 4.5 | 700¥ |
+| AK-98 | AR/GR | 1 | 38 (c) | SA/BF/FA | 8M | 6.0 | 2,500¥ |
+| FN HAR | AR | 2 | 35 (c) | SA/BF/FA | 8M | 4.5 | 1,200¥ |
+| **LIGHT MACHINE GUNS** | | | | | | |
+| Ingram Valiant | LMG | Belt 50(c) | BF/FA | 7S | 9 | 1,500¥ |
+| **HEAVY WEAPONS** | | | | | | |
+| Generic MMG | MMG | 40 (c) | FA | 9S | 12 | 2,500¥ |
+| Generic HMG | HMG | 40 (c) | FA | 10S | 15 | 4,000¥ |
+| Assault Cannon | Cannon | - | 20 (c) | SS | 18D | 20 | 6,500¥ |
+
+---
+
+**TABLE KEY**
+* **Type** describes whether the weapon is hold-out (HO), light pistol (LP), heavy pistol (HP), submachine gun (SMG), sporting rifle (SR), sniper rifle (SN), shotgun (SH), assault rifle (AR), grenade launcher (GR), light machine gun (LMG), medium machine gun (MMG), heavy machine gun (HMG), or assault cannon (cannon). These designations correspond to the entries on the Weapon Range Table, p. 88, used for determining the range to the target and the base target number.
+* **Concealability** measures how concealable the weapon is. It is used as the target number for Perception Tests directed at noticing the weapon. See Perception, p. 185.
+* **Ammo** refers to the amount of ammunition the weapon carries, and the type of reload system used. See Reloading Firearms, p. 95.
+* **Mode** refers to the different fire modes the weapon can produce. SS is single-shot, SA is semi-automatic, BF is burst-fire, and FA is full autofire. See Fire Modes, p. 92.
+* **Damage** indicates the overall Damage Code of the weapon. The higher the weapon's Power Rating, the harder it is for the target to resist the damage of the attack. The second part of the Damage Code is a letter-either L (Light), M (Moderate), S (Serious), or D (Deadly)-indicating the level of damage done. See Damage Codes, p. 110. The presence of an (f) notation indicates that the flechette ammunition rules (p. 93) should be used.
+* **Weight** indicates the weight of the weapon in kilograms.
+* **Cost** is the base cost of the weapon in nuyen.
+
+### Gel (Stun) Rounds
+Gel rounds are special rounds designed to take down a target without seriously damaging it. They are usually semi-rigid slugs that flatten on impact, dispersing their kinetic energy over a larger-than-normal area. Gel rounds have a Power Rating 2 points less than listed for the weapon’s normal round and the same Damage Level, but all damage is Stun, not Physical. Impact, not Ballistic Armor, applies.
+
+Gel rounds also have an increased chance of knocking the character down. See Knockdown in a later section.
+
+### RELOADING FIREARMS
+Most firearms in Shadowrun hold ammunition in removable clips that can contain many bullets. Other guns offer a variety of reload methods, including break action, internal magazines, or cylinders (on revolvers). Heavy weapons use clips, or a multi-round belt feed. Grenade launchers, discussed shortly, use the internal magazine system. Missile and rocket launchers, also discussed shortly, use a break action. The type of system used determines how long it takes to reload the weapon.
+
+Firearms, once reloaded, are considered ready. (See Actions, p. 82.)
+
+* **Removable Clips**
+    Identified by a notation of (c) on the Firearms Table, removable clips take one Simple Action to remove or insert. Using a Complex Action, a character can reload a number of rounds into a clip equal to his Quickness Rating.
+* **Break Action**
+    Identified by a (b) notation on the Firearms Table, a break action weapon requires one Complex Action for the insertion of two rounds. A break-action weapon usually hinges open near the firing mechanism (or the equivalent) to allow insertion of the rounds.
+* **Internal Magazines**
+    Identified by an (m) notation on the Firearms Table, an internal magazine weapon takes one Complex Action for the insertion of a number of rounds equal to the firing character’s Quickness Rating. Weapons with internal magazines usually have small ports on the side or top into which the rounds are inserted for storage and firing.
+* **Cylinders**
+    Identified by a (cy) notation on the Firearms Table, these systems can be reloaded at a rate of a number of rounds equal to the character’s Quickness, per Complex Action. The presence of a speed loader (see Firearm Accessories, p. 240) allows the contents of the loader (the maximum ammunition capacity of the weapon) to be loaded with a single Complex Action. Speed loaders themselves may be reloaded at the same rate as the weapon.
+* **Belt Feed**
+    Identified by a (belt) notation, a belt feed is a long belt of linked ammunition fed continuously through a weapon until the belt runs out. It takes one Complex Action to insert the belt into the weapon. Belts themselves may be reloaded at a rate equal to one-half the character’s Quickness Rating, per Complex Action.
+
+### SHOTGUNS
+The shotguns described in the Gear chapter of this book (p. 236) fire slug rounds. It is possible to load them with shot rounds, but shot rounds have little effect in this era of body-armor technology.
+
+Apply the flechette ammunition rules to the Damage Code indicated for the weapon. That sets the damage for a hit from a shot round from that weapon.
+
+Shot rounds spread when fired, creating a cone of shot extending outward from the muzzle of the shotgun. This allows the shot to hit multiple targets, but with reduced effectiveness (the same number of shot pellets are spread out over a larger area). The mechanism that controls this spread is called the choke.
+
+The user of the shotgun can set the choke of the weapon at anywhere from 2 to 10. What this number determines is how quickly the shot spreads. For every number of meters equal to the choke setting that the shot travels, it will spread one meter to either side of the center line of fire. That means a shotgun firing with a choke of 2 would catch targets along a one-meter-wide path for two meters, then a two-meter-wide path for another two meters, then a four-meter-wide path for another two meters, and so on. If the choke were 5, it would catch targets along a one-meter path for five meters, then a two-meter path until the ten-meter point, then a four-meter path until the fifteen-meter point, and then along a six-meter path until the twenty-meter point, and so on.
+
+Every time a shot round increases its spread, it loses 1 point of Power. Every time the shot spreads, subtract -1 from the attacker’s target number. That means the first shot in the example above would be -2 Power/-2 target number at the six-meter point, while the second shot would be -2/-2 at fifteen meters, and then -3/-3 at twenty meters. When the Power reaches 0, the shot is considered ineffective and no further effects are determined.
+
+**SHOTGUN SPREAD EXAMPLE**
+Everything within the area of spread is considered a valid target, organic or inorganic, friend or foe. To resolve the actual attack, the attacker makes his Success Test, and then each of the targets makes his Resistance Test individually, comparing the results against the attacker’s successes from the single roll. See Resolving Ranged Combat, p. 87. There is an additional modifier for every other target within the spread in front of the target making the Resistance Test. If, for example, a character were standing back a bit and there were three other targets ahead of him within the spread (between the first character and the gun), that first character gets 3 extra dice for his Resistance Test.
+
+For an extra +10 percent cost, the choke on a smart shotgun can be rigged for cybernetic adjustment. Shotguns firing shot rounds receive only a -1 from smartlinks, and no modifiers from smart goggles or laser sights.
+
+---
+
+### PROJECTILE WEAPONS
+
+---
+
+### PROJECTILE WEAPONS TABLE
+
+| Type | Concealability | Strength Minimum | Damage Code | Weight | Cost |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **BOWS** | | | | | |
+| Standard Bow | 2 | 1+ | (Str Min + 2)M | 1 | 100¥xStr Min |
+| Arrows | 3 | NA | As bow | .1 | 10¥ |
+| **CROSSBOWS** | | | | | |
+| Light | 2 | 3 | 6L | 2 | 300¥ |
+| Medium | 2 | 4 | 6M | 3 | 500¥ |
+| Heavy | NA | 5 | 8S | 4 | 750¥ |
+| **THROWING WEAPONS** | | | | | |
+| Non-Aerodynamic Throwing Knife | 9 | NA | (Str)L | .25 | 20¥ |
+| Aerodynamic Shuriken | 8 | NA | (Str)L | .25 | 30¥ |
+
+---
+
+Bows (regular and crossbows) and throwing weapons use the same ranged combat procedure as firearms (see p. 87). There are, however, some special rules that apply to these types of weapons.
+
+**Strength Minimum Rating**
+Bows and crossbows have Strength Minimum Ratings that indicate the minimum Strength a character must have to use that weapon. When attacking with a bow, characters below the Strength Minimum suffer an additional +1 target modifier per point below that number because of the difficulty they have in pulling the bow and nocking an arrow. The weapon’s Strength Minimum is used to determine the weapon’s range and damage.
+
+If a character does not have the Strength Minimum for using a particular crossbow, he must spend one additional Ready Weapon action reloading the crossbow for each point of Strength he is below the minimum. A crossbow’s Strength Minimum Rating is used to determine its range.
+
+**Throwing Weapons**
+Throwing weapons have no Strength Minimum Rating; they use the thrower’s Strength Attribute to determine range and damage.
+
+**Projectile Weapon Types**
+Above is a list of some projectile weapons available in the Shadowrun universe. The listing is not intended to be exhaustive, but representative.
+
+Note that bows are purchased with a specified Strength Minimum.
+
+---
+
+### GRENADES
+Grenades are inaccurate and unreliable in their effect, but can be extremely effective when used properly. A character can deliver grenades to a target by throwing them or firing them from a grenade launcher. In either case, the number-one priority of the attacker is to land the grenade as near the target as possible. Grenades, because of their shape and method of delivery, will scatter, bouncing and skittering across the ground. The better the throw or launch, the less the scatter.
+
+Resolving a grenade attack is a two-step process. The first step determines where the grenade ended up when it exploded. Then, the effect of the grenade’s explosion, or blast, must be resolved.
+
+**Hitting the Target**
+To determine the grenade’s final location, first choose the intended target. Make a Success Test of the attacker’s appropriate Combat Skill against a base target number from the Grenade Range Table. Combat Pool dice can be applied.
+
+Determine the range to the target in meters and cross-reference it with the type of grenade used. The number at the top of the corresponding range column is the base target number. That target number is modified by the same situation modifiers as for Ranged Combat (see p. 88). Roll the skill dice against the target number, and note the number of successes generated.
+
+---
+
+### GRENADE RANGE TABLE
+| Type | Short (4) | Medium (5) | Long (6) | Extreme (9) | Scatter Dice |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Standard | 0–STR × 3 | to STR × 7 | to STR × 15 | to STR × 30 | 3D6 |
+| Aerodynamic | 0–STR × 3 | to STR × 7 | to STR × 15 | to STR × 30 | 2D6 |
+| Grenade Launcher | 5–50 | 51–100 | 101–150 | 151–300 | 2D6 |
+
+---
+
+**Determine Scatter**
+Next, the Gamemaster must determine the grenade’s base scatter. Because all grenades scatter to some degree, the number of successes generated in the Scatter Test are used to reduce the distance.
+
+The Gamemaster determines the direction of the scatter by rolling 1D6 and consulting the Scatter Diagram below.
+
+The large arrow indicates the direction of the throw, so a result of 1 means the grenade continued on past the target, while a result of 4 means the grenade has bounced back in the direction of the attacker. (Uh-oh!)
+
+**SCATTER DIAGRAM**
+
+
+Having determined the direction of the scatter, the Gamemaster next calculates the base distance of the scatter. The far right column of the Grenade Range Table indicates the number of dice rolled to find the scatter distance.
+
+After that roll is made, the attacker reduces the scatter distance by two meters per success for standard grenades, and four meters per success for aerodynamic grenades and grenade launchers. If the scatter distance is reduced to zero or less, the grenade has detonated at the target. If the scatter distance is not reduced to zero, the grenade detonates at the remaining distance in the direction indicated.
+
+**Grenade Launcher Minimum Range**
+The short range for grenade launchers is given as five to fifty meters. This is because the mini-grenades fired from standard grenade launchers do not actually arm until they have traveled about five meters. They do not detonate if they hit anything before traveling that distance. This is a safety feature in case of accidental misfire.
+
+Disarming this safety feature requires only a simple adjustment to the weapon, outside of the Combat Turn, but the character who wishes this adjustment should probably re-read the scatter rules.
+
+**Blast Effects**
+The next step is to determine the effects of the grenade’s explosion. Grenades are area-effect weapons, meaning that their blast will affect an area and any targets, be they friend or enemy, within that area. The target’s distance from the final location of the grenade, the blast point, is critical. The farther away the target, the less damage it takes, because a grenade’s blast effect is reduced by distance.
+
+Different grenade types lose blast-effect at different rates. Consult the Grenade Damage Table below to find the grenade’s Damage Code as well as its blast reduction rate.
+
+---
+
+### GRENADE DAMAGE TABLE
+
+| Type | Damage Code | Power Level Reduction |
+| :--- | :--- | :--- |
+| Offensive | 10S | -1 per meter |
+| Defensive | 10S | -1 per half meter |
+| Concussion | 12M (Stun) | -1 per meter |
+
+---
+
+As with other weapons, the first part of a grenade’s Damage Code is its Power Level. It is the Power that determines how likely the grenade’s blast is to affect the target. It is also the Power that is reduced with range. Thus, a target standing three meters away from an offensive grenade blast would be subject to a base 7S damage, while a target standing six meters away would be subject to a base 4S damage. If this were a defensive grenade instead, the first character would be subject to only a base 4S damage, while the second character would be out of the grenade’s blast effect entirely.
+
+To resolve the effects of the grenade blast, roll the target’s Body dice against a target number equal to the adjusted Power of the grenade’s blast at that range, minus the Impact Armor Rating of the target. Combat Pool dice may be used to augment this test. Compare the defender’s successes against those from the attacker’s Success Test. If the attacker generates more successes, the Damage Level of the blast increases one level for every two successes over the target’s success total. If the defender generates more successes, the Damage Level of the blast is reduced one level for every two successes over the attacker’s success total.
+
+**Blast against Barriers**
+When a grenade’s blast hits a barrier such as a wall, door, or other similar structure, compare the remaining Power of the blast (reduced by range) against twice the Barrier Rating of the object, per the Barrier Rating Table, p. 98.
+
+To find the blast’s effect on the barrier, consult the Barrier Effect Table, p. 98, below.
+
+If the barrier falls, the blast continues on, but the Power Level is reduced by the original Barrier Rating. If the barrier does not fall, the blast may be channeled, as described under Blast in A Confined Space, below.
+
+**Demolitions**
+If a character uses Demolitions Skill to place explosive charges, treat the barrier as though it had a normal Barrier Rating. Also make a Demolitions Test against a Target Number 2. Successes from this test add to the effective Power of the explosives.
+
+**Blast in A Confined Space**
+Sometimes, grenades detonate in a confined space, such as a hallway or room. When this occurs, the Gamemaster must first determine whether any barriers (walls primarily) stood firm against the explosion. Consult the Blast against Barriers rules above. If the walls or doors hold, blast channeling occurs. If they do not hold, determine blast effects normally.
+
+If the walls hold, the shock wave reflects off the wall, continuing back in the direction it came. If this rebounding shock wave maintains enough Power to reach a character, that character is subject to the appropriate blast. If this is the second time the character has been struck by the shock wave (once as it headed out and then again as it rebounded back), the Power of the blast is equal to the combined Power of the two waves. If, for example, the wave had a Power of 6 when first passing the character, and then a 2 after rebounding and hitting the character again, the effective Power of the attack would be 6 + 2, for an 8. Yes, this does mean that in a really small, really well-built room a detonating grenade could rebound repeatedly off each of the four walls, raising the effective Power of the blast to a value far higher than the original Power of the grenade. This is known as the chunky salsa effect.
+
+Consult the diagrams below for some examples of confined blast grenade effects.
+
+**GRENADE BLAST DIAGRAM**
+
+
+---
+
+### BARRIERS
+Sometimes, a character will wish to attack through a barrier, either to get at a target on the other side or to create a hole through which he can move. The procedure for each is similar, but not the same.
+
+---
+
+### BARRIER RATING TABLE
+
+| Material | Rating |
+| :--- | :--- |
+| Standard Glass | 2 |
+| Cheap Material/Regular Tires | 3 |
+| Average Material/Ballistic Glass | 4 |
+| Heavy Material | 6 |
+| Reinforced/Armored Glass | 8 |
+| Structural Material | 12 |
+| Heavy Structural Material | 16 |
+| Armored/Reinforced Material | 24 |
+| Hardened Material | 32 |
+
+---
+
+Standard doors use the Barrier Rating of their construction material. Security doors have twice the rating of the material. Glass doors have the rating of the glass.
+
+**Firing Through**
+A character firing a ranged weapon at a target on the other side of a barrier is subject to the +8 Blind Fire Target Modifier because he cannot see the intended target. If the intervening barrier is transparent, the modifier does not apply.
+
+Either way, the character makes the standard Success Test, except that the defender can subtract both his appropriate Armor Rating and the adjusted Barrier Rating of the barrier from the Power of the attack. Thus, a character wearing 3 points of armor and standing on the far side of a Barrier 4 would subtract a total of 7 from the Power of the attack.
+
+If, however, the Barrier Rating exceeds the Power of the attack, the attack cannot penetrate and is stopped cold. Note, however, that this may still damage the barrier by reducing its rating.
+
+Against blunt melee attacks such as fists, clubs, or other similar weapons, a barrier maintains its normal rating.
+
+Against edged melee attacks, such as those made by swords and the like, the barrier has twice its normal rating.
+
+**Break Through**
+Characters will sometimes wish to break through a barrier, most commonly doors, to get at or through to the other side. This is resolved with a procedure similar to the one used in Blast against Barriers except that the barrier has twice its normal Barrier Rating against firearm rounds and other ranged attacks. This is to account for the fact that even though a bullet is powerful, it really does punch only a tiny hole.
+
+---
+
+### BARRIER EFFECT TABLE
+
+| Power of Attack | Effect |
+| :--- | :--- |
+| Power less than ½ adjusted Barrier Rating | No effect, barrier holds, minor cosmetic damage. |
+| Power equal to or greater than ½ adjusted Barrier Rating, up to the rating | Barrier damaged; reduce Barrier Rating by 1. |
+| Power greater than adjusted Barrier Rating | For every increment equal to half the Barrier Rating that the Power exceeds that rating, a one-half meter hole is opened and the Barrier Rating reduced by 1. |
+
+---
+
+Against melee attacks, a barrier has twice its normal Barrier Rating. Against combat magic spells, barriers use twice their normal rating. Against damaging manipulation spells, they use the normal Barrier Rating.
+
+A regular door will break open when its Barrier Rating is reduced to one-half. A security door must be reduced to 0 before it will break open.
+
+Always use the base Power Rating of the round, unmodified for burst or full-auto fire, for comparison against the Barrier Rating.
+
+## MISSILE LAUNCHERS
+
+Occasionally, characters get their hands on military-grade missile and rocket launchers. Both use the same kind of launcher (called a missile launcher for convenience), but the two have inherent differences.
+
+### Rockets
+Rockets are rocket-shaped projectiles consisting of little more than a light metal or plastic body with stabilizing fins, a propulsion system (usually solid-chemical), and a warhead. They are considered to be dumb weapons, as they go only where pointed and have no internal or external guidance capability.
+
+Rockets come in three types: High-Explosive Rockets (HER), Anti-Personnel Rockets (APR), and Anti-Vehicle Rockets (AVR).
+
+#### High-Explosive Rockets (HER)
+High-explosive rockets are designed to do heavy damage to a large area. Their blast-pattern is similar to that of a grenade, but covers a greater area. They are not particularly effective against hardened targets such as vehicles or protected military structures. HERs use the standard grenade rules for blast and its effects.
+
+#### Anti-Personnel Rockets (APR)
+Anti-personnel rockets are, as the name implies, used principally against people. On impact, the warhead discharges high-speed metal or plastic-metal fragments designed to tear into unprotected flesh. APRs are very effective against unprotected individuals, but fairly ineffective against barriers, structures, and vehicles. APRs use the rules under Flechette Rounds, p. 93.
+
+#### Anti-Vehicle Rockets (AVR)
+Anti-vehicle rockets contain a shape-charged warhead designed to burn or blast its way through a vehicle or barrier. Though a blast is associated with the impact, it is limited compared to something like that of a HER. Against AVRs, the Barrier Rating of a barrier is halved (round down), as is the Armor Rating for vehicles (round down).
+
+### Missiles
+Missiles are basically rockets, with two differences; they carry internal guidance and tracking systems, and are much more expensive. Because of their sophisticated electronics, missiles are considered to be smart weapons. The onboard electronics assist the firer in acquiring and hitting the target.
+
+Like rockets, missiles come in three types: high-explosive (HEM), anti-personnel (APM), and anti-vehicle (AVM). The warhead types follow the same rules as their rocket counterparts.
+
+---
+
+### ROCKET/MISSILE TABLE
+
+| Type | Damage | Code | Power Level | Reduction | Scatter |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| HER/HEM | | 16D | | -1 per meter | 2D6 meters |
+| APR/APM | | 16D | | -1 per half-meter | 2D6 meters |
+| AVR/AVM | | 16D | | -8 per meter | 2D6 meters |
+
+---
+
+### Resolving Rocket and Missile Fire
+Rocket fire is resolved in exactly the same manner as for grenade launchers. See Grenades, p. 96.
+
+Missile fire, on the other hand, works a little differently. Missiles have an Intelligence Rating that reflects the sophistication of their internal electronics. The presence of these electronics does three things. First, when using the missile's sensing and targeting circuits, the character rolls the Intelligence Rating of the missile as extra dice in the Success Test (in addition to the character's Gunnery Skill and any Combat Pool dice). Second, when a missile is fired against a vehicle, the vehicle's Signature Rating (see p. 104) becomes the target number, regardless of range. There is an additional +2 target modifier when the missile is fired in an urban environment such as a major city, industrial park, or most non-residential areas of a sprawl. Lastly, the scatter of a missile is reduced by the missile's Intelligence in meters.
+
+See the Gear section, p. 236, for information about purchasing missiles.
+
+### Missile and Rocket Scatter
+Like grenades, missiles and rockets scatter. Their scatter is reduced by 1 meter per success generated in targeting the Success Test. The scatter of missiles is also reduced by 1 meter for every point of Intelligence they possess.
+
+---
+
+## MELEE COMBAT
+
+Whenever two or more characters engage each other in hand-to-hand or armed combat, the melee combat system rules apply. Melee combat in Shadowrun assumes that some maneuvering occurs as part of the actual combat. Each attack is not a single blow, but a series of moves and counter-moves executed by those involved. Even so, for simplicity, the character who initiates the attack (the character whose action it is) is considered to be the "**attacker**." The opponent is considered to be the "**defender**."
+
+### RESOLVING MELEE COMBAT
+To resolve a melee combat encounter, follow the procedure outlined below. Detailed explanations follow the list of steps.
+
+1. **Make Attacker's Test**
+Roll the attacker's base Combat Skill dice, augmented by dice from his Combat Pool, against a base Target Number 4, modified as appropriate. Count the successes.
+2. **Make Defender's Test**
+Roll the defender's base Combat Skill dice, augmented by dice from his Combat Pool, against a base Target Number 4, modified as appropriate. Count the successes.
+3. **Compare the Successes**
+The character who rolls the most successes has hit his or her opponent. A tie goes in favor of the attacker.
+4. **Determine Damage**
+The character who hit can increase the Damage Level of his attack by one level for every two full successes he rolls above his opponent's success total.
+5. **Resist Damage**
+Roll the hit character's Body dice against a target number equal to the attacker's weapon-modified Strength, minus the target's Impact Armor Rating. For every two successes rolled, the Damage Level is reduced by one level.
+
+---
+
+### MELEE COMBAT WEAPONS
+Melee combat weapons are any weapons wielded in close-fighting, that is, when the combatants are within a few meters of each other. In some cases, the weapons may be thrown, but if the weapon is actually swung, melee combat is used. The Melee Weapons Table lists the melee weapons, and their game attributes, available to Shadowrun characters.
+
+Following the table are explanations of the terms used.
+
+---
+
+### MELEE WEAPONS TABLE
+
+| | Concealability | Reach | Damage | Weight | Cost |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Edged Weapons** | | | | | |
+| Katana | 3 | 1 | (Str + 3)M | 1 | 1,000¥ |
+| Knife | 8 | 0 | (Str)L | .5 | 30¥ |
+| Sword | 4 | 1 | (Str + 2)M | 1 | 500¥ |
+| **Pole Arms/Staves** | | | | | |
+| Pole Arm | 2 | 2 | (Str + 3)S | 4 | 500¥ |
+| Staff | 2 | 2 | (Str + 2)M Stun | 1 | 50¥ |
+| **Clubs** | | | | | |
+| Club | 5 | 1 | (Str + 1)M Stun | 1 | 10¥ |
+| Sap | 8 | 0 | (Str + 2)M Stun | - | 10¥ |
+| Stun Baton | 4 | 1 | 6S Stun | 1 | 750¥ |
+| **Other** | | | | | |
+| Hand Razor | -/10* | 0 | (Str)L | | 4,500/9,000¥ |
+| Spurs | -/9* | 0 | (Str)M | | 7,000/11,500¥ |
+| Unarmed | NA | 0 | (Str)M Stun | NA | NA |
+| **Whips/Flails** | | | | | |
+| Monofilament Whip | 10 | 2 | 10S | - | 3,000¥ |
+
+---
+
+**Concealability** measures how easy or difficult it is to conceal the weapon. This rating becomes the target number for Perception Tests directed at noticing the weapon. See Perception, p. 185. The asterisk under Hand Razor and Spurs indicates their respective Concealability Ratings when extended.
+
+**Reach** is a measure of how long a weapon is. If one character's weapon Reach exceeds another, he receives a -1 to his target number for each point his weapon's Reach exceeds his opponent's. Moreover, his opponent receives a +1 to his target number for each point his weapon's Reach is inferior to his opponent's. Trolls have a natural Reach of +1 that is cumulative with weapon Reach.
+
+**Damage** indicates the overall Damage Code of the weapon. Most melee weapons, with the exception of the monofilament whip (whose effect has nothing to do with the force with which it is wielded) have a base Power equal to the Strength of the wielder, plus some value. This is expressed, for example, as Str + 2, which gives 2 additional points to the wielder's Strength for the Power of the attack. The higher the weapon's Power Rating, the harder it is for the target to resist the damage of the attack. The second part of the Damage Code is a letter, either L (Light), M (Moderate), S (Serious), or D (Deadly), which indicates the level of damage done. See Damage Codes, p. 110, for more information.
+
+**Weight** indicates the weight of the weapon in kilograms.
+
+**Cost** is the base cost of the weapon in nuyen.
+
+### Attacker's Success Test
+The attacker player rolls a base number of dice equal to his character's Combat Skill, against a base Target Number 4. Dice from the Combat Pool may be added to this roll. The base target number may be modified by the situation. See the Melee Modifiers Table below. Following the table are further explanations of the situations listed.
+
+Every die roll result equal to or greater than the modified target number qualifies as a success. Keep track of the total number of successes.
+
+---
+
+### MELEE MODIFIERS TABLE
+| Situation | Modifiers |
+| :--- | :--- |
+| Character has friends in the melee | -1/Friend (max -4) |
+| Opponent has friends in the melee | +1/Friend (max +4) |
+| Visibility impaired | Consult the Visibility Table |
+| Character is wounded | Injury Modifier |
+| Character's weapon has longer Reach | -1/point longer |
+| Character's weapon has inferior Reach | +1/point shorter |
+| Character attacking multiple targets | +2/target |
+| Character has superior position | -1 |
+| Opponent prone | -2 |
+
+---
+
+**Friends in the melee:** This modifier applies primarily to large melees with more than one participant. The character only receives the modifier if he or his opponent has allies involved in the same fight. Having allies nearby is not good enough; they must be actually participating in the same brawl. See also Multiple Opponents, this page.
+
+**Visibility impaired:** Consult the Visibility Table, p. 89, using the modifiers at half their value, rounding down, except for Full Darkness.
+
+**Character wounded:** See Damage and Healing, p. 110.
+
+**Reach:** See the explanation of reach under Melee Combat Weapons, p. 100.
+
+**Multiple targets:** See the Multiple Targets rules, p. 92.
+
+**Superior position:** A character has a superior position if he is standing on higher ground (at least one-half meter) than his opponent, if he is standing on steady, stable ground while the opponent is not, or if the opponent is in a tight, restricted position and the character is not.
+
+**Opponent Prone:** If the opponent is lying on the ground, this modifier applies.
+
+### Defender's Success Test
+Make the defender's Success Test in the same way as for the attacker, with the same situation modifiers.
+
+Keep track of the total number of successes.
+
+### Compare Successes
+After both sides make their tests, compare the successes generated by each character. The one who generates the most successes has hit his opponent. Subtract the opponent's success from the winner's to get the net number of successes. Ties go to the attacker.
+
+The net number of successes determines how much potential damage is done.
+
+> Zipperhead and Geist are facing off in some dark alley somewhere in the sprawl. Zipper has Unarmed Combat 5, Body 5, and 4 dice available in his Combat Pool. Geist has Unarmed Combat 4, Body 5, and 5 dice available in her Combat Pool. Both are making tests against a Target Number 4 (no situation modifiers apply). Both will use all their Combat Pool dice to assist their attack.
+>
+> Zipperhead rolls 9 dice, resulting in a 1, 2, 2, 2, 3, 3, 4, 5, and 6. Three of the dice beat a 4, so ole Zip has 3 successes. Geist rolls 9 dice, resulting in a 1, 1, 2, 2, 4, 4, 5, 5, and 6. Geist has 5 successes.
+>
+> Geist has more successes than Zipperhead, so she hits. If Zipperhead had rolled more successes, he would have hit. If they had both generated the same number of successes, the tie would have gone in Geist's favor.
+
+### Determine Damage
+The character who generates the most successes, the winner, can attempt to use those successes to increase the damage his weapon does. The weapon's Damage Level is increased by one level for every 2 net successes. Ties are assumed to do the base damage of the weapon.
+
+> The damage Geist does is based on the 2 successes she rolled above Zipperhead's success total. Her unarmed Damage Code is 4M Stun (her Strength is 4), so she can use her 2 successes to raise, or stage, the Damage Code up one level to Serious Stun.
+
+### Damage Resistance Test
+The character who was hit now attempts to resist the damage. He or she rolls Body dice against a target number equal to the opponent's weapon-modified Strength, minus the character's Impact Armor Rating. Every 2 successes stages, or reduces, the Damage Code of the weapon by one level.
+
+> Zipperhead rolls his 5 Body dice against a base Target Number of 4 (Geist's Strength), minus the 2 points of impact armor he wears. This gives him a final target number of 2. Rolling his 5 dice, he gets a 1. 1. 2, 4, and a 6. Three of those dice are higher than 2, so Geist has made 3 successes.
+>
+> Every 2 successes he generates will stage his damage down one level from where Geist staged it (Serious Stun). Because Zipperhead has 3 successes, not 4, he can only reduce the Damage Code by one level, to Moderate Stun. Zipperhead takes a Moderate Stun wound.
+
+### Multiple Targets
+Characters may attack more than one opponent with a Complex Action. Each attack uses the base Combat Skill dice of the character, plus dice from the Combat Pool, if desired. The target number for each attack is increased by +2 per additional target the character strikes in that Combat Phase. If a character is attempting to strike two targets, for example, the first attack is at the calculated target number, and the second at an additional +2.
+
+Dice from the Combat Pool must be allocated separately for each attack.
+
+### Multiple Opponents
+Characters may often find themselves outnumbered in a fight. When this occurs, the number of friends on hand becomes extremely important. In such a situation, total up the number of characters within one meter or so who are fighting in the same fight as the character. If six friends are around, but they are all spread out fighting their own combats, they are going to be of no help against the character's opponent. They do count, however, if they are near the character and fighting against the same opponent(s). Total up the number of "friends" on each side. The side with the greater number of friends gets a target number modifier of -1 for each friend more than their opponents, maximum of -4. The side with the lesser number of friends suffers a +1 target number modifier for each additional friend their opponents have, maximum of +4.
+
+As characters physically move away, or are taken out of the fight, they are removed from the count of "friends."
+
+### Called Shots
+Characters using melee weapons may call shots, per the rules on p. 92.
+
+### Full Defense
+Characters may choose, when attacked, to defend only themselves. When doing so, they may not add any Combat Pool dice to their Attack Success Test, but may add dice to their Damage Resistance Test. When using this option, a clean miss occurs if the target's successes from Combat Pool dice alone exceed the attacker's successes, regardless of any other dice result or the Damage Code of the weapon.
+
+### Knockback and Knockdown
+Characters struck in melee combat may be knocked back, and possibly down, by the blow. When struck, a character must make a Body Test against a target number equal to his opponent's Strength. If the character can overcome a Threshold Number equal to one-half (round off) the amount of damage done (1 for a Light Wound, 2 for Moderate, and 3 for Serious), there is no effect.
+
+If he generates successes, but does not overcome the Threshold, the character steps directly backward one meter. If for some reason he cannot step backward (a wall perhaps), he will fight at a +2 target modifier until able to move away.
+
+If the test generates no successes, the character falls down (prone).
+
+> A character who has suffered a Moderate wound would have to make more than 2 successes on his Body Test to remain standing where he is. If he generates 1 or 2 successes, he steps backward one meter. If he makes no successes, he falls down.
+
+### Subduing
+Sometimes it is necessary to subdue and control an opponent without beating him into unconsciousness. To do so, the attacker must engage in subduing combat.
+
+To subdue a character, resolve combat normally, except that an additional +2 modifier applies to the target number and that all damage done must be Stun damage. When one of the characters takes damage to the "Unconscious" level, he or she is considered to be subdued and under the control of the victorious character. The losing character never actually falls unconscious, however. Because this was subduing combat, the damage done during the combat is removed from the Condition Monitor at a rate of one box per minute if the control is not maintained.
+
+The subduing character can attempt to maintain the damage on the Condition Monitor (to keep control of the defeated character) by making an Unarmed Combat, Strength, or Quickness Test against a target number equal to the defeated character's Unarmed Combat, Strength, or Quickness, whichever is lowest. Each success restores one box of subduing damage to the Condition Monitor.
+
+The defeated character can try to resist this by making an opposed roll using the same rules as above, but with injury modifiers and an additional +2 modifier applied to the target number. The dominant character can choose to make this maintenance roll as often as he wishes.
+
+The victorious character must declare subduing combat at the start of the combat. At any time during the combat the initiating character may decide to stop subduing and to fight normally. If this occurs, it removes all subduing combat damage from the Condition Monitor. It is not necessary for all the participants in a fight to be engaged in subduing combat, however. All injury modifiers due to the subduing damage are applied normally.
+
+Subduing can only be performed with weapons that do Stun damage.
+
+### Monofilament Whip
+This weapon is uncommon, and feared, on the streets of the 2050 era. Though not truly monomolecular, the monofilament whip is capable of inflicting significant damage. The weapon consists of a short haft that holds the monofilament line when not in use. The line itself is able to extend out to two meters, hence the +2 Reach adjustment.
+
+The whip action, the presence of a weighted tip, and the danger of the monofilament line itself all make wielding the weapon difficult, at best. If an attack misses solely because the target's Combat Pool dice successes exceed the attacker's successes (a possibility only if the optional Full Defense rule is in use), the attacker risks being hit by the whip. When this occurs, make a separate Armed Combat Test against a Target Number 6. If the test yields no successes, the attacker is struck by his own whip.
+
+The attacker, now the target, must make a Damage Resistance Test (Body dice plus Combat Pool dice) against the standard Damage Code of the weapon, 10S. Successes from the Damage Resistance Test stage the damage down one Level for every 2 successes.
+
+Impact armor is used to defend against the monofilament whip, but its rating is halved (round down). Barrier Ratings are doubled against a monowhip.
+
+---
+
+## SHOCK WEAPONS
+
+Shock weapons include both melee-combat stun batons and ranged-combat tasers. Both work on a similar principle, their effect relying on a contact-discharge of electricity rather than kinetic energy. The damage each causes is Stun, and combat with a stun baton (melee) or taser gun (ranged) is handled according to the normal rules for that type of weapon.
+
+An additional effect of a successful hit by a stun weapon is that the target is stunned for a number of Combat Turns equal to the Power of the attack, minus one-half (round down) any Impact armor worn, and minus the successes generated from a Body or Willpower (whichever is greater) Test made against a Target Number 4. This state of disorientation imposes an additional +2 target modifier to all tests for the duration.
+
+Impact armor is used against shock weapons, except that its rating is halved, rounding down.
+
+---
+
+## VEHICLES AND COMBAT
+
+Shadowrun is not a vehicle combat game, but characters do sometimes engage in combat involving vehicles.
+
+### VEHICLE RATINGS
+Vehicles have Attribute Ratings much like those of characters. Vehicle ratings are on their own scale, however, and not directly compatible with character ratings.
+
+Following are explanations of Handling, Speed, Body, Signature, and Autopilot, the ratings Shadowrun uses for vehicles.
+
+**Handling** refers to the maneuverability of the vehicle. The higher the rating, the more difficult it is to control the vehicle.
+
+**Speed** is a split rating that gives the standard cruising speed and then the vehicle's top speed, in meters per Combat Turn. To determine the vehicle's speeds outside of a Combat Turn, multiply the listed speed by 1.2. The result is in kilometers per hour.
+
+**Body** is the measure of the vehicle's structural ruggedness and also acts as a guide to its relative size.
+
+**Armor** rates the vehicle's protection against weapon damage. Vehicle armor acts as a combination of the kind of standard armor characters wear and as a Barrier Rating. See Vehicles, Weapons, and Magic for more information, p. 108.
+
+**Signature** represents the vehicle's vulnerability to electronic and thermal detection. The higher the rating, the harder it is to detect the vehicle.
+
+**Autopilot** represents the autopilot's ability to control the vehicle and perceive threats to its progress.
+
+### VEHICLE CONTROL RIGS
+To become a rigger requires the ability to use a piece of cyberware known as a vehicle control rig (VCR). This equipment allows the rigger to cybernetically command a vehicle by jacking directly into it or to operate the vehicle remotely via a remote-control deck. The vehicle control rig gives the rigger advantages such as bonuses to Reaction and Initiative, plus the Control Pool.
+
+### Rigger/Vehicle Initiative
+A rigger only receives the Reaction and Initiative bonuses for the vehicle control rig while cybernetically controlling a vehicle. This may be by direct link into the vehicle, or through a remote link via a rigger deck. Other types of Reaction- or Initiative-enhancing cyberware or magics do not assist the rigger while jacked in.
+
+### Vehicle Actions and Commands
+It requires a Complex Action to command a single vehicle, regardless of how many are under control at that time. A rigger may be controlling two drones, for example, but may only command one of them directly with a Complex Action. If, however, more than one drone is receiving an identical command-"Leave the area" or "Attack this target," for example-the rigger may command them as a group.
+
+If a drone or remote patrol vehicle (RPV) has an autopilot, the rigger can issue it one-sentence commands such as "Circle this area," "Shoot anyone who comes through this door," "Follow that car," and the like. The more specific and detailed the command, the greater the chance the autopilot will become confused, however.
+
+The gamemaster should rate the command's complexity (use the Skill Success Table, p. 68), then tell the rigger player the target number for the test, giving him the option of downgrading the complexity before actually issuing the command. (It can be assumed that by the year 2053 computers can clearly understand and interpret plain English-language structure. It can also be assumed that the rigger knows the capability of the autopilot.)
+
+The gamemaster then makes a test, rolling the vehicle's Autopilot Rating against the target number. Only one success is needed for the drone to execute the instruction. The more successes rolled, the more latitude the drone has in interpreting the command (to the benefit of the rigger.) The gamemaster may even permit the rigger to decide what the drone does in the face of a circumstance that runs somewhat counter to the rigger's instructions.
+
+It is best to assume that the drone is what is commonly referred to as a "dog-brain," that is, capable of responding to commands like an exceptionally intelligent, highly trained dog. The higher the Autopilot Rating, the smarter the dog-brain.
+
+### TERRAIN
+The kind of terrain through which a vehicle is moving affects its performance. A sports car traveling across wide, open salt flats is going to cover a lot more ground than if it were winding through traffic in downtown city streets. In the same manner, an aircraft traveling through clear skies is going to have a better time of it than if there was a terrible storm in progress.
+
+The Shadowrun game rates terrain types in terms of Open, Normal, Restricted, and Tight, with regard to the type of vehicle involved. Obviously, what is Tight for a sports car is not the same as what is Tight for an aircraft (at least not until technology advances a little bit further).
+
+**Open** terrain means flat areas without buildings, trees, or other significant features. Highways qualify as Open. For aircraft, this means cloudless skies, and for boats, smooth water.
+
+**Normal** terrain means typical countryside and winding roads, mostly open, but with some obstacles. For aircraft it means partly cloudy skies, and for boats light seas.
+
+**Restricted** terrain can be suburban streets, light woods, hilly areas, and so on. Fog, rain, or darkness can change Normal terrain to Restricted. Overcast skies and rain constitute overcast skies for aircraft, and high seas for boats.
+
+**Tight** terrain includes urban mazes, badlands, and dense woods. Mist, glare, or low light changes Restricted terrain to Tight, and smoke, heavy fog, or total darkness change Normal to Tight. High winds constitute Tight conditions for aircraft and boats.
+
+The gamemaster must set the terrain type for any vehicle in which action occurs, determining whether it is possible to change terrain types at that time.
+
+---
+
+## VEHICLE COMBAT
+
+Shadowrun is a roleplaying game and the vehicle combat system reflects that. It is not intended to be an accurate, detailed simulation of vehicle combat. Instead, it is a means by which the key elements of vehicular pursuit can be gamed in a relatively simple, fast manner.
+
+In this system, many of the actions, events, and results of an actual pursuit have been abstracted for ease of play. For example, it is assumed that the speed of the vehicles involved is appropriate for the type of vehicle and the terrain through which they are traveling. The actual speed need never be stated.
+
+### Vehicle Combat Turn
+Vehicles use the same Combat Turn as regular characters. There are, however, some differences. Use the Combat Turn Sequence, from p. 78, but add the following subsections as needed.
+
+1. **Determine Initiative**
+Before determining Initiative, resolve A and B below for riggers. Once that has been done, determine Initiative normally.
+    A. **Allocate Control Pool Dice**
+    The rigger must decide which dice from the Control Pool will be available for the remainder of the Vehicle Turn, and which are to be used for the Position Test.
+    B. **Make Position Test**
+    Make a Position Test, explained below, for all vehicles involved in the Combat Turn. Roll the appropriate Vehicle Skill, plus Control Pool dice, against the Handling of the vehicle, modified by the terrain. The outcome depends on the successes and whether the vehicle is fleeing, pursuing, or fighting.
+2. **Resolve Actions**
+Character actions are resolved normally, but within the parameters defined in Resolving Actions, p. 106, below.
+3. **Begin New Combat Turn**
+Prior to beginning a new Combat Turn, riggers must make an Escape Test.
+    A. **Make Escape Test (End of Turn)**
+    Riggers who choose Flight in the Position Test may now attempt to escape completely. See Escape Tests, p. 107, for more information.
+
+### Allocating Control Pool Dice
+A rigger with a Control Pool must now decide how many of its dice he will use in the next step, the Position Test. The rest of the dice may be reserved for other uses, as needed.
+
+The Control Pool refreshes at the beginning of each of the rigger's actions, but the player removes the dice spent in the Position Test each time the pool refreshes.
+
+### Making the Position Test
+At the beginning of every Combat Turn and before determining Initiative, players must make Position Tests for vehicles involved in that turn. The purpose of the test is to determine the relative position of the various vehicles engaged in the combat. Each driver involved may have a different intention in the test, these being **Fleeing**, **Pursuit**, or **Fight**.
+
+**Fleeing** involves maneuvering the vehicle to escape from combat or any pursuers. The driver's objective is to widen the distance between the vehicles so that escape is possible.
+
+**Pursuit** is just the opposite. A pursuing driver wants to catch up to a fleeing vehicle to prevent it from escaping.
+
+A driver who chooses **Fight** is primarily interested in getting a clear shot at the opponent, or more correctly, as many clear shots at the opponent as he can manage. Getting the shot is the primary concern.
+
+The various sides choose their individual intentions in secret, only revealing their choices after making the Position Tests.
+
+To make the Position Test, roll the Vehicle Skill of the driving character against a target number equal to the vehicle's Handling Rating, modified by the type of terrain on which the vehicle is traveling. Consult the table below. If the driver of the vehicle has a Control Pool, he may add any dice allocated to the Position Test at the beginning of the turn roll.
+
+Determine each side's successes. What each side does with their successes depends on whether their intention was flight, pursuit, or combat.
+
+---
+
+### POSITION TEST MODIFIERS
+
+| Terrain | Modifier |
+| :--- | :--- |
+| Open | 0 |
+| Normal | +1 |
+| Restricted | +2 |
+| Tight | +4 |
+
+---
+
+### Fleeing Vehicles
+Each success in the Position Test allows the fleeing vehicle to travel a number of meters equal to its cruising speed. If, for example, the driver of a vehicle with a cruising speed of 20 rolled 4 successes on the Position Test, he would travel eighty meters.
+
+Additionally, for every 2 successes generated, each character in the vehicle can spend one full action conducting attacks against a pursuing vehicle (subject to weapon availability and so on). If 6 successes are generated, characters in the vehicle can spend up to three actions each to attack a pursuing vehicle. A character who is only eligible for two actions that Combat Turn will still have only two actions, however. Only if the character had three or more eligible actions could he use all three actions on a roll of 6 successes.
+
+There is also a chance that at the end of this Combat Turn the fleeing vehicle evades pursuit and escapes. See Escape Test, p. 107, for more details. Keep track of the number of successes generated in the Position Test because it will affect the Escape Test.
+
+### Pursuit
+Vehicles in pursuit use Position Test successes in the same way as fleeing vehicles, except that they are able to close a distance equal to the vehicle's cruising speed multiplied by the number of successes. They also get to attack the fleeing vehicle once for every 2 successes generated.
+
+Keep track of the number of successes generated in the Position Test for use in the Escape Test later in the turn.
+
+### Fight
+The fight option is the choice of warriors. In choosing this option, the player character may have to maneuver the vehicle out of position, in terms of flight or pursuit, in order to make the attack.
+
+Vehicles intending to fight may make a number of attacks against the opposing vehicle equal to the number of successes generated in the Position Test.
+
+For every 2 successes, they also get to open or close the distance between themselves and the other vehicle by a number of meters equal to the vehicle's cruising speed.
+
+### Relative Distances
+When one vehicle closes on another by traveling a greater distance than the other vehicle in that Combat Turn, the driver may choose the final distance between the two vehicles. Say, for example, that the vehicles begin the Combat Turn with 20 meters between them. The fleeing vehicle travels another 30 meters, while the pursuing vehicle travels 45 meters. The pursuing vehicle has gained 15 meters on the fleeing vehicle, cutting the distance between them to 5 meters. The pursuing vehicle could, in this situation, choose the final distance between them as anything between 5 meters (the maximum gain) and 20 meters (the original distance between them).
+
+Vehicles closer than 1 meter are in a potential ram situation. The collision only occurs, however, if the driver of one of the vehicles chooses to spend a Complex Action ramming the other vehicle. See Ramming, below.
+
+### Airborne Vehicles and Terrain
+When a mix of ground and airborne vehicles are involved, such as when a helicopter is chasing a motorcycle, it is likely that the encounter will include more than one terrain type. The gamemaster may wish to take into account factors like building height and the like when determining the type of terrain for each vehicle. For example, the motorcycle might be traveling through Restricted suburban streets, while overhead the helicopter might very well be in Open terrain. If, however, the motorcycle were traveling the streets of downtown (Tight terrain), the helicopter might also be traveling in Tight terrain because of the height of buildings.
+
+### Determining Initiative
+Now it is time for the participants to determine Initiative, in the usual manner. Characters using vehicle control rigs to operate a vehicle may add the Reaction and Initiative bonuses gained from that piece of cyberware. Also apply any Initiative modifiers related to vehicle damage at this time, reducing the driver's effective Reaction.
+
+The rigger determines only one Initiative total, regardless of the number of vehicles being controlled. The rigger's Initiative is equal to the lowest Initiative result for all the vehicles under control. Obviously, if they all have the same damage status, the numbers will come out the same. If the vehicles have different damage statuses, use the number for the vehicle in the worst condition.
+
+### Resolving Actions
+Player characters involved in the Combat Turn may now take actions as they come to their appropriate Combat Phases. Remember, each character can only conduct a limited number of attacks against the opposing vehicle, based on the results of the Position Test.
+
+The driver of the vehicle must spend at least one Complex Action-it does not matter which one-to control the vehicle. No tests are necessary; he simply spends the action. If he uses no action, the driver must make a Crash Test at the end of his last Action of that turn. (See Crash Tests, below.)
+
+The driver may use dice from the Control Pool to assist the test against any incoming attacks, but he may not use Control Pool dice to help defend against magical combat spell attacks or the damage resistance part of Crash Tests.
+
+Dice from the Control Pool may also assist in any Handling Tests.
+
+### Crash Test
+Crash Tests are required in any Combat Phase where the vehicle takes Serious damage. The driver makes a test using the appropriate Vehicle Skill against a target number based on the vehicle's Handling and the terrain, per the Crash Test Table below. Control Pool dice may be added to this roll.
+
+If the driver fails the test, the vehicle crashes. The Power of the crash is equal to the cruising speed of the vehicle, divided by 10, rounding down. The Damage Code is also based on the cruising speed of the vehicle. Consult the Impact Table.
+
+---
+
+### CRASH TEST TABLE
+| Terrain | Modifier |
+| :--- | :--- |
+| Open | -1 |
+| Normal | 0 |
+| Tight | +2 |
+| Restricted | +4 |
+
+---
+
+### IMPACT TABLE
+| Speed | Damage Category |
+| :--- | :--- |
+| 1-20 | Light (L) |
+| 21-60 | Moderate (M) |
+| 61-200 | Serious (S) |
+| 201+ | Deadly (D) |
+
+---
+
+The Damage Resistance Test uses the vehicle's Body, plus one-half the vehicle armor (round down) against the Power of the attack. The Power of this attack is reduced only by the full value of the vehicle armor, not by its Body as well, as against weapon damage. Every 2 successes reduces the Damage Code by one level. Control Pool dice may NOT assist this Test.
+
+Passengers traveling in the vehicle may also be injured in the crash. If the vehicle's Damage Resistance Test eliminates the damage, the passengers are free from worry. If the vehicle does take damage, the passengers will suffer an attack equal to the crash damage. The Damage Code is the one to which the crash damage is reduced, however. If the crash damage starts at Deadly and is reduced to Moderate, the passengers will suffer an attack with the same Power as the crash damage, but a Damage Code of Moderate. This damage is resisted as damage from melee combat. Combat Pool dice can never be applied, and only impact armor counts.
+
+A crash stops a vehicle's travel for the remainder of that Combat Turn, eliminating any distance won in the Position Test. The driver must also make a Crash Test at the end of his last action if he spent no action controlling the vehicle anytime during the turn. The Crash Test is resolved in the same manner as described above.
+
+If a vehicle takes so much damage from weapons that it is destroyed, the result is an automatic crash.
+
+### Ramming
+When the distance between two vehicles is less than one meter, one of the drivers involved can choose to ram the other vehicle. In other words, the driver of one vehicle is attempting to force the other to make a Crash Test. The Control Pool applies.
+
+To resolve the ram, make a test for each of the two vehicles, rolling dice equal to the driver's Vehicle Skill, plus Body, plus one-half vehicle armor (round down), minus the vehicle's Handling. The target number is equal to the Body of the opposing vehicle, plus one-half its vehicle armor, minus a terrain modifier.
+
+Apply the modifier for the terrain in which the pursuing vehicle is traveling. (It is, of course, very difficult to escape from aircraft.)
+
+The vehicle that generates the least number of successes must make a Crash Test. If there is a tie, there is no crash.
+
+---
+
+### RAMMING TABLE
+| Terrain | Modifier |
+| :--- | :--- |
+| Open | 0 |
+| Normal | -2 |
+| Restricted | -3 |
+| Tight | -4 |
+
+---
+
+### Escape Test
+Vehicles that choose flight in the Position Test may now attempt to escape completely. Compare the successes generated by both sides in the Position Test. If the pursuing or fighting vehicle has more successes, the escape attempt has automatically failed.
+
+If the fleeing vehicle generated more successes, it may yet get away. The pursuing vehicle must now make an Escape Test against a target number equal to the net successes generated by the fleeing vehicle, modified per the table below.
+
+---
+
+### ESCAPE TEST MODIFIERS
+| Terrain | Modifier |
+| :--- | :--- |
+| Open | -4 |
+| Normal | -2 |
+| Restricted | 0 |
+| Tight | +2 |
+
+---
+
+The pursuing vehicle can choose to make the test with the highest Intelligence Rating of the character potentially able to see the fleeing vehicle. If no successes are generated in this test, the fleeing vehicle has escaped.
+
+### Beginning a New Turn
+Start a new turn by reallocating Control Pool dice for a new Position Test.
+
+---
+
+## VEHICLES, WEAPONS, AND MAGIC
+
+Weapons use the same Damage Codes against vehicles (hard targets) as they do against other characters (soft targets), but with some differences and restrictions.
+
+Against vehicles without vehicle armor, a vehicle's Body counts as composite armor (impact and ballistic) and reduces the Power of the attack. Otherwise, resolving weapon damage is the same. The vehicle's Body also determines the number of dice rolled when resisting damage. A weapon's Damage Code is also reduced by one level (D to S, S to M, and M to L). Weapons rated as Light are unable to affect vehicles unless using special ammunition or when attacking for something vital (see Called Shots, p. 92.)
+
+In attacks against vehicles with vehicle armor, the armor acts as a Barrier Rating. That is, if the base Power of the weapon, unmodified by burst or full auto fire, does not exceed the rating of the vehicle armor, it will not penetrate.
+
+The Power and Damage Codes for grenades and other explosives are affected in the same manner, with the exception of anti-vehicle rockets and missiles. Those weapons have a semiarmor-piercing warhead and do not have their Damage Level reduced, but the Power is reduced by the vehicle's armor.
+
+When resisting damage, a driver whose vehicle has vehicle armor rolls a number of dice equal to the Body of the vehicle, plus one-half the vehicle armor against a target number equal to the Power of the weapon, minus the Body plus vehicle Armor Ratings. Riggers may allocate dice from their Control Pools if they choose.
+
+### Shooting at Moving Targets
+For attacks against a moving target, consult the table below for additional maneuvering-based modifiers. Compare the speed of the firing vehicle or the vehicle from which the character(s) is firing against the speed of the target.
+
+Stationary attackers have a speed of 5. When using the vehicle combat rules, p. 105, compare the vehicles' cruising speeds.
+
+---
+
+### MOVING TARGET TABLE
+| Relative Speeds | Modifier |
+| :--- | :--- |
+| Target's speed less than or equal to Attacker's | 0 |
+| Target's speed up to twice the Attacker's | +2 |
+| Twice to three times higher | +4 |
+| More than three times higher | +6 |
+
+---
+
+### Breaking Windows
+Though the Shadowrun vehicle damage system does not use specific damage locations, it is sometimes necessary to know whether or not a vehicle's windows have shattered.
+
+It is assumed that civilian vehicles taking Moderate damage have one or more windows blown out or shattered. Military and security vehicles, on the other hand, have reinforced windows that do not shatter or blow out until the vehicle takes Serious damage.
+
+Aircraft whose windows have shattered or blown out must immediately descend to a safe, oxygen-rich altitude. Because none of the Shadowrun vehicle systems are concerned with altitude, this is more a note for roleplaying.
+
+### Combat Spells against Vehicles
+Only physical combat spells that do physical damage can affect vehicles. Mana spells affect minds and living things, while physical spells affect physical things.
+
+A physical combat spell cast against a vehicle has a Target Number 8 because of the machine's complex technological and electronic nature. The vehicle resists damage by making a standard Spell Resistance Test in the same manner as a person in that vehicle can attempt to resist the casting magician's successes. The dice rolled for the vehicle's Resistance Test is equal to its Body, plus one-half any vehicle armor. The target number for this test is equal to the Force of the spell.
+
+A player can allocate Spell Defense dice to assist a vehicle. In some instances, this is a particularly efficient use of these dice. (See Spell Defense Dice, p. 132.)
+
+If the casting magician's Spell Success Test produces extra successes beyond what the vehicle's Spell Resistance Test produced, damage is done. Damage is calculated in the same manner as for damage against characters.
+
+Gamemasters and players are referred to Spells and Astral Space, p. 149. Keeping that section in mind, vehicles have simple, limited auras that make them vulnerable to physical combat spells. The attempt is difficult; hence the high target number. A vehicle is considered a single, complete entity. Its wheels and windshield, for example, are not directly connected and may be constructed from different materials, but they are interrelated components. Because of a vehicle's "aural wholeness," a mage cannot use magic to selectively target an individual portion of the vehicle. Single-target combat spells like bolt and missile spells affect a vehicle in the same manner as an area-effect spell. A magician cannot cast an area-effect spell and then catch individual parts of the vehicle in order to attack them separately.
+
+### Damaging Manipulations against Vehicles
+Damaging manipulation spells do damage against vehicles as if they were regular weapons, and are treated as such. They do not, however, suffer the reductions in Power and Damage Code.
+
+### Hitting Walls
+Sometimes, vehicles hit things their drivers don't wish them to. Under certain conditions this is simulated in the Combat Turn by the Crash Test. At other times, a different system is necessary to determine the result of an impact.
+
+> Let us say that Nick Nightmare on his Aurora racing bike is roaring through the Seattle night with visions of some form of barely legal debauchery filling his tiny mind. Unknown to Nick, a wiz-kid mage has erected a barrier spell in Nick's path. Blindly, and with an anticipatory grin on his face, Nick races straight into it.
+>
+> What happens depends on exactly what type of barrier spell it was.
+>
+> If the wiz-kid cast a straight mana barrier spell, Nick would have some problems. Not being living, the Aurora racing bike is unaffected by the mana barrier spell and roars on into the night. Whether Nick is still seated on it is another question entirely.
+>
+> Nick hits the mana barrier as if he were hitting a wall. The speed at which he hits that wall is the speed at which his bike was traveling. Treat the barrier like an actual, physical wall with a Barrier Rating equal to the Force of the spell. When Nick hits the barrier, he may take damage.
+>
+> The Power of the impact is equal to the speed of the vehicle in meters per Combat Turn, divided by 10 (round down). Thus, if Nick were traveling at the bike's maximum of 210 meters per combat turn, the Power would be a nasty 21. If he were traveling at its cruising speed of 70 meters per combat turn, it would be a 7. (By the way, two bikes hitting head-on would add their individual speeds together to get the net speed of the impact.) The damage is calculated exactly as for Crash Tests, so consult that section to determine the Damage Code, which is also speed-based.
+>
+> If this incident were to occur as part of the Combat Turn (say, as the result of an action by an imaginative magician), then the vehicle's cruising speed would be used to find the Power.
+>
+> Hitting this barrier poor Nick would face the equivalent of a 21D attack. He can make a normal Damage Resistance Test. If he is aware of the impact, he may add dice from his Combat Pool. If Nick had been traveling at a more leisurely 70 meters per Combat Turn, the Damage Code would be 7S. Note that armor does not help Nick because this is a mana spell that ignores the armor.
+>
+> See the Blast against Barrlers section, p. 97, for handling damage against walls. Spells whose Barrier Rating (Force) drops to 0 are knocked down. If the spell is not knocked to 0, it automatically rebuilds itself during the casting magician's next action.
+>
+> If Nick had been traveling in an enclosed car, he and the vehicle would have blithely passed through the mana barrier spell, completely unaffected by it.
+>
+> If the barrier spell were physical or a wall, the Aurora would also be in trouble. In fact, the bike would hit the barrier before Nick, and that impact would have to be resolved before dealing with the effect on Nick. All other values remain the same as for Nick, but the vehicle makes its Damage Resistance Test with its Body dice, plus one-half its vehicle armor, rounding down.
+>
+> If the barrier breaks as a result of the impact (is reduced to 0), Nick must make a Crash Test, per p. 107. If the barrier does not break, Nick (or the passenger of any vehicle) suffers an attack of the same Power as the bike, but at one Damage Code Level less.
+
+---
+
+## VEHICLE DAMAGE
+Vehicles use a standard Condition Monitor marked off in Condition Levels of Light, Moderate, Serious, and Destroyed. Just as a regular character receives modification based on his damage status, so does a vehicle.
+
+The table below indicates the effects of damage on vehicles.
+
+The **vehicle damage modifier** applies to all tests that actually involve the vehicle.
+
+The **Initiative modifier** reduces the effective Reaction of the character controlling the vehicle.
+
+The **Speed modifier** reduces the vehicle's cruising speed and maximum speed.
+
+---
+
+### VEHICLE DAMAGE MODIFIERS
+| Vehicle Damage | Target Number | Initiative | Speed |
+| :--- | :--- | :--- | :--- |
+| Light | +1 | -1 | No change |
+| Moderate | +2 | -2 | 75% |
+| Serious | +3 | -3 | 50% |
+
+## DAMAGE AND HEALING
+Characters can be injured in two separate ways: **Physical Damage** and **Stun Damage**. These two types of damage are tracked on the **Condition Monitor**.
+
+---
+
+## TYPES OF INJURY
+* **Physical Damage:** The most dangerous type, caused by guns, explosions, bladed weapons, and most magic spells. If a weapon's damage code doesn't specify stun, it does physical damage. It takes the longest to heal.
+* **Stun Damage:** This is bruising or fatigue damage caused by fists, blunt weapons, stun rounds, shock weapons, and some spells. Its immediate effects can be as severe as physical damage, but it heals more quickly.
+
+---
+
+## DAMAGE CODES
+A weapon's Damage Code has two parts: a numeral for the **Power** and a letter for the **Damage Level**.
+
+* **Power:** A number used as the target number for any success tests to avoid or resist damage. It can be modified by armor or other factors.
+* **Damage Level:** A letter indicating the base severity of the wound. The levels are:
+    * **L:** Light
+    * **M:** Moderate
+    * **S:** Serious
+    * **D:** Deadly
+The Damage Level can be increased or reduced through a process called **staging**. The attacker can stage up the damage one level for every 2 successes on their attack test. The defender can stage it down one level for every 2 successes on their resistance test. If the damage is staged below "Light," no damage is done.
+
+---
+
+## APPLYING DAMAGE
+Damage is recorded on the character's **Condition Monitor**, which has separate columns for Physical and Stun damage.
+
+### CONDITION MONITOR
+
+| DAMAGE | LIGHT | MODERATE | SERIOUS | DEADLY |
+| :--- | :--- | :--- | :--- | :--- |
+| **STUN** | +1 TN# -1 Init. | +2 TN# -2 Init. | +3 TN# -3 Init. | Unc. |
+| **PHYSICAL** | +1 TN# -1 Init. | +2 TN# -2 Init. | +3 TN# -3 Init. | maybe dead |
+
+### DAMAGE LEVEL TABLE
+
+| Damage Type | Number of Boxes Filled In |
+| :--- | :--- |
+| Light | 1 |
+| Moderate | 3 |
+| Serious | 6 |
+| Deadly | 10 |
+
+* Damage is cumulative. For example, a character with a Moderate wound (3 boxes) who takes another Moderate wound fills a total of 6 boxes, equivalent to a Serious wound.
+
+---
+
+## EXCEEDING THE CONDITION MONITOR
+* **Stun Damage Overflow:** If the Stun column is exceeded (more than 10 boxes), the extra damage carries over to the Physical column. The character also falls unconscious until the Stun damage is reduced.
+* **Physical Damage Overflow:** If the Physical column is exceeded, the character is near death. Instant death occurs if the total damage exceeds 10 plus the character's natural Body Rating. If the character survives the initial overflow, they take an additional box of damage every 10 minutes until they receive medical attention.
+
+---
+
+## CONDITION LEVELS
+As a character takes damage, they suffer penalties based on their highest **Condition Level** in each column.
+
+* **Injury Modifier:** A universal target number modifier for most Success Tests.
+* **Initiative Modifier:** Applied to the character's Reaction before rolling Initiative dice. If the modifier reduces Reaction to 0 or less, the character cannot take actions that turn.
+
+### DAMAGE MODIFIERS TABLE
+
+| Damage Level | Injury Modifier | Initiative Modifier |
+| :--- | :--- | :--- |
+| Uninjured | None | None |
+| Light | +1 | -1 |
+| Moderate | +2 | -2 |
+| Serious | +3 | -3 |
+| Deadly | Unconscious or Near Death | Unconscious or Near Death |
+
+---
+
+## HEALING
+Healing takes time and varies for Stun and Physical damage.
+
+### Healing Stun Damage
+* Stun damage is overcome through **recovery**, which is a process of resting.
+* A character rolls either **Body or Willpower** dice (whichever is higher) against a base Target Number 2, modified by any injury modifiers.
+* The base recovery time is 60 minutes per box of Stun damage. This time is divided by the number of successes on the roll.
+* A character must be resting completely. If interrupted, the process aborts.
+* Unconscious characters will not wake up until their Stun damage is reduced to the Serious level.
+* Stim patches offer a temporary solution.
+
+### Healing Physical Damage
+* Physical damage takes longer to heal and may require medical attention.
+* A character makes a **Body Test** against a target number based on their wound level (see Wound Table).
+* If any successes are rolled, the character heals without medical attention. If there are no successes, medical attention is required.
+* Deadly wounds always require medical attention.
+
+### WOUND TABLE
+
+| Wound Level | Target Number |
+| :--- | :--- |
+| Light | 2 |
+| Moderate | 4 |
+| Serious | 6 |
+
+* **Stages of Healing:** Healing occurs in stages, reducing the character's damage level by one. The Condition Monitor drops to the lowest point for the next level.
+* The time it takes to heal one Damage Level is determined by a **Body Test** against a target number from the Healing Table, with modifiers for medical care and lifestyle.
+
+### HEALING TABLE
+
+| Damage Level | Base Time | Min. Time | Target Number | Min Lifestyle |
+| :--- | :--- | :--- | :--- | :--- |
+| Deadly | 30 days | 3 days | 10 | Hospitalized |
+| Serious | 20 days | 2 days | 8 | High |
+| Moderate | 10 days | 1 day | 6 | Middle |
+| Light | 24 hours | 2 hours | 4 | Low |
+
+---
+
+## Deadly Wounds and Permanent Damage
+A Deadly wound carries a chance of permanent damage. A character must make a **Body Test** (dermal armor counts) against a Target Number 4.
+
+* **0 Successes:** The character suffers a permanent loss of 1 point in a random attribute (Body, Strength, Quickness, Intelligence, Willpower, or Reaction). The lost point cannot be recovered, and the racial maximum for that attribute is reduced by 1.
+* **1 Success:** The character loses a limb or eye. The base healing time is increased by 50%. A replacement is required.
+* **2 or More Successes:** The character suffers no permanent limb or organ damage.
+
+---
+
+## Elective Surgery
+Surgery does damage and requires recovery time.
+* **Minor cosmetic surgery:** Light wound.
+* **Minor invasive surgery:** Moderate wound.
+* **Major invasive surgery:** Serious wound.
+* **Drastic invasive surgery:** Deadly wound (stable).
+
+---
+
+## FIRST AID
+* First aid, using the **Biotech Skill**, can reduce non-Deadly wounds by one level or stabilize Deadly wounds.
+* It must be applied within the "golden" first hour and does not work after magical healing has been used.
+* A **Biotech Success Test** is made against a target number corresponding to the injured character's Damage Level. One success reduces the wound level by one.
+
+### FIRST AID TABLE
+
+| Condition Level | Target Number | Treatment Time |
+| :--- | :--- | :--- |
+| Light | 4 | 10 minutes |
+| Moderate | 6 | 20 minutes |
+| Serious | 8 | 30 minutes |
+| Deadly | 10 | Special |
+
+---
+
+## MAGICIANS AND DAMAGE
+* Magicians are harder to treat due to the risk of losing their Magic Rating.
+* When a magician suffers a Deadly wound or is treated without a specific modifier, there is a risk of permanently losing 1 point of Magic (2D6 roll, if result is less than or equal to current Magic, 1 point is lost).
+* If a magician needs a replacement body part, it must be cloned from their own tissue to avoid a permanent loss of 1 Magic Rating point.
+* **Magical Healing:** The `treat` spell must be used within one hour of the injury, while the `heal` spell can be administered at any time.
+* Successful use of either spell precludes the use of additional healing or treating spells, or of first aid. 
+* Treat and heal spells will reduce Physical overflow damage.

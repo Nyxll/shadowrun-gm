@@ -1,0 +1,466 @@
+# GEAR
+"When you cut someone nowadays, you don't know whether they're going to bleed or leak hydraulic fluid." -Evil Eye, Tiger gang member
+
+This section provides a fine selection of items from various Grid-catalogs, fixer shops, and talismonger haunts of 2053. All prices are MSRP (manufacturer's suggested retail price). Actual street price will vary. (See Availability in Behind the Scenes, p. 184.)
+
+---
+
+## PERSONAL WEAPONS
+These weapons are the basic hand-to-hand fighting implements still in use today. This list does not include impromptu weapons created from material on hand.
+
+* **Katana:** The two-handed "samurai" sword favored by those with a taste for the romantic and old-fashioned. 1,000¥
+* **Knife:** A basic all-purpose street cutter. 30¥
+* **Monofilament Whip:** A near-monomolecular cord, it is swung with a weight at the end for control. It is extremely sharp and will cut through just about anything. (See Monofilament Whip rules on p. 103.) 3,000¥
+* **Polearm:** An unlikely and rare weapon, these days. It is included to give an idea of weapon types. 500¥
+* **Staff:** This is popular with magicians, for that traditional look. 50¥
+* **Stun Baton:** The standard riot-control weapon, this weighted stick delivers an electrical charge. (See Shock Weapons, p. 103.) 750¥
+* **Sword:** This refers to any of a variety of ceremonial styles and also covers some of the longer and more vicious knives. 500¥
+
+---
+
+## IMPACT PROJECTILE WEAPONS
+These weapons are man-powered, and may make use of simple mechanical assistance for additional distance or speed.
+
+* **Bow:** This can be either a traditional longbow of fiberglass or wood or a modern-compound and pulley bow. 100¥ x STR. Min (plus 100¥/10 arrows)
+* **Crossbow:** These come in three grades. Lights are cocked by hand, while the heavier models use a built-in, side-wheel gear to assist re-cocking. 300¥ for light, 500¥ for medium, 750¥ for heavy (plus 100¥/20 bolts)
+* **Throwing Knife:** Any of a variety of slim knives or spikes. 20¥
+* **Shuriken:** A multi-edged or spiked, airfoil throwing blade. 30¥
+
+---
+
+## FIREARMS
+Firearms are primarily slug-throwers. The principle has not changed much over the years. Many weapons offer two versions, for standard loads or for caseless ammunition, though the latter is far more common in the 2050s. A weapon can either fire one form of ammunition or the other, but not both interchangeably. Ammo cost is the same. In either case, a digital ammunition counter is standard. The readout usually appears on the rear sight, where the user can see it when firing.
+
+### PISTOLS
+Standard pistols are able to mount barrel- and top-mounting firearm accessories only. Revolvers cannot use silencers or sound suppressers. Hold-out pistols cannot mount any accessories.
+* **Streetline Special:** This is a common hold-out pistol found among the lowest economic level of society. Made of composite materials, it is small, lightweight, and extremely concealable. 100¥
+* **Walther Palm Pistol:** This European hold-out design packs one large-caliber round in each of its over-under barrels. A select switch allows the user to fire both barrels simultaneously (treat as a Short Burst, p. 92). 200¥
+* **Colt America L36:** This light American design is popular among the style-conscious because of its sleek profile, which also makes it easy to conceal. 350¥
+* **Beretta Model 101T:** This slim-line light personal weapon is favored by corporate personnel worldwide. 350¥
+* **Fichetti Security 500:** Designed for light security work, the Fichetti 500 accepts a full range of pistol accessories. Mint models come with the standard 10-round clip, as well as an extended 22-round optional clip and a detachable shoulder stock. 400¥
+* **Ares Predator:** Considered by many the premier heavy pistol, the Predator is a menacing weapon that is popular among mercenaries and security services. 450¥
+* **Browning Max-Power:** This is the primary contender against the Ares Predator as the toughest heavy pistol. 450¥
+* **Ruger Super Warhawk:** This heavy revolver accepts all standard accessories except, of course, a silencer. 300¥
+* **Remington Roomsweeper:** The short-barreled Roomsweeper heavy shotgun is popular with the urban fighter for its high take-down capability and significant intimidation factor. (The weapon uses heavy-pistol ranges, but Shotgun rules, see p. 95.) 300¥
+* **Ares Viper:** This pistol fires flechette ammunition (already factored into its Damage Code). The slivergun has the range of a heavy pistol even though it is really a light pistol. The Viper features a built-in silencer. 600¥
+
+### SUBMACHINE GUNS (SMGS)
+SMGs are able to accept one top mounting, one barrel mounting, and one under-barrel mounting firearms accessory, with the exception of grenade launchers. SMGs cannot use silencers, but can use sound suppressers.
+* **Uzi III:** This is a worthy descendent of the famous Israeli Uzi. The Fabrique Nationale model, officially manufactured for the French government, is one of the more common street weapons. It features an integral folding stock and laser sight (top mount). The very similar Ingram Mk. 22 omits the laser sight. 600¥
+* **Heckler & Koch HK227:** This is the SMG of choice for many corporate security, military police, and base security units worldwide. The standard model boasts a retractable stock, integral laser sights (under-barrel mount), and a gas-vent recoil compensation system (barrel mount, Rating 2). The S variant, popular with corp strike teams and special forces, substitutes an integral silencer for the recoil system. 1,500¥ (1,200¥ for S variant)
+* **Ingram Valiant:** Popular with merc units around the world, this is the most common model of light machine gun. Models like the Ares light machine gun and Ingram Valiant have a hip-brace recoil pad (Rating 1) and an ammunition bin slung over the back or hip to feed belted ammo to the weapon. A gas-vent recoil compensation system (barrel mount, Rating 2) is standard equipment on these popular models. 1,500¥
+
+### RIFLES
+Rifles are able to mount one barrel-, one under-barrel-, and one top-mounting firearm accessory. Some rifles come with rigid shoulder stocks, and some with folding stocks. Neither affect recoil. Shotguns cannot mount silencers or sound suppressers.
+* **FN HAR:** This assault rifle is common in Europe and increasingly popular with corporate response teams and private security forces specializing in high-threat areas. It comes with an integral folding stock, laser sight (top mount), and gas-vent recoil compensation system (barrel mount, Rating 2). 1,200¥
+* **Soviet AK-97:** Originally a Soviet weapon, this assault rifle is now found worldwide. The SMG carbine form, with its integral folding stock, is almost as common. Mounting a grenade launcher on either model is extremely difficult, though the AK-98 features an integral mini-grenade launcher (under-barrel mount). 700¥ for AK-97, 800¥ for carbine, 2,500¥ for AK-98
+* **Remington 750:** Long and sleek, the 750 sport rifle and the 950, its heavy-duty sister, have been the choice of hunters for nearly 50 years. Both use a smooth bolt-operated action of supreme reliability. A top-mount image magnifying scope (Rating 1) is standard with either model. Under-barrel mounting is not available. 600¥ for 750, 800¥ for 950
+* **Ranger Arms SM-3:** The SM-3 is a must for those jobs when the first shot has to count. Combined barrel-mount gas-vent recoil compensator (Rating 2) and silencer, and imaging scope magnification (top mount, Rating 3) with thermographic or low-light circuits are standard equipment. Like most of its breed, it disassembles completely and will fit into a standard briefcase with no loss of accuracy. (Three Complex Actions required to assemble/disassemble.) Ideal for the assassin on the go, but does not stand up well to combat use. The number of turns this rifle is carried and used as a combat weapon (outside of its intended sniper role) equals the chance on a roll of 2D6 that the weapon suffers a +2 target number modifier due to loss of alignment of its precision and calibrated parts. (For example, John uses his SM-3 to discourage his pursuers while making a strategic retreat through a garbage-cluttered alley. His rifle gets bumped around for 3 turns. If his player rolls a 3 on 2D6, John must add +2 to all weapon target numbers.) 4,000¥
+* **Enfield AS7:** This assault shotgun provides massive firepower. It has an integral laser sight (top mount) and is fitted with a 10-shot clip or 50-shot drum (drum adds -3 to Concealability, +2 kg to weight). 1,000¥
+* **Defiance T-250:** A popular autoloading shotgun available in full size and short barrel (use heavy-pistol ranges) versions. It has no under-barrel mount. 500¥
+
+---
+
+## TASER WEAPONS
+Some police and security units favor these electroshock weapons in low-threat environments. The standard model fires a dart that trails a 10-meter-long wire. An electric charge surges down the wire to incapacitate the target as long as the current flows. A variant on these weapons fires darts that contain high-capacitance batteries. The darts discharge on contact, stunning the target, virtually paralyzing it. See Shock Weapons, p. 103, for rules.
+* **Defiance Super Shock:** The most popular taser weapon in service with UCAS law enforcement agencies, the SS packs side-by-side heavy darts. Standard issue pistols have integral low-light imaging scopes (top mount). 1,000¥
+
+---
+
+## HEAVY WEAPONS
+Heavy weapons can generally mount one barrel, one under-barrel, and one top-mounting accessory, as applicable. Missile and rocket launchers do not use standard firearm accessories.
+* **Machine Gun:** These autofire weapons come in two grades, medium and heavy. They normally use belt ammo feeds. Though usually mounted on tripods, medium machine guns are occasionally used on gyro-stabilized mounts as mobile infantry support weapons. 2,500¥ for medium, 4,000¥ for heavy
+* **Assault Cannon:** This massive weapon fires shells equivalent to explosive bullets, but without the inherent instability. The shells also have limited armor-piercing capability, making the weapon useful in a wide range of applications. It can use belted ammo. 6,500¥
+* **Missile/Rocket Launcher:** The various missile and rocket launchers of the previous century have given way to weapons emphasizing flexible delivery systems and eliminating the back-blast problems so common in early systems. The typical launcher is reusable and breaks open to load up to four missiles. Its sighting mechanism, shoulder brace, and exhaust tube are collapsible, making the weapon a compact bundle when disassembled. Heavier missiles and launchers exist, of course, but they are rare in the shadows of the city streets. 8,000¥ for the launcher alone.
+    * **Anti-Vehicle Rockets/Missiles (AVR/AVM):** pierce a vehicle's armor, and they do not explode if they miss. 2,000¥ for AVR, 5,000¥ for AVM
+    * **Anti-Personnel Rockets/Missiles (APR/APM):** have high-explosive and fragmentation warheads. 1,000¥ for APR, 2,500¥ for APM
+    * **High-Explosive Rockets/Missiles (HER/HEM):** cause general destruction. 1,500¥ for HER, 3,750¥ for HEM
+
+---
+
+## FIREARM ACCESSORIES
+Note that Concealability Rating adjustments on the following accessories refer only to the installation of these accessories after purchase. If the weapon description lists the accessory as "integral," no Concealability modifier is added. It also means the accessory cannot be removed.
+
+* **Bipods:** Bipods are two-legged braces that extend downward from the weapon, allowing the weapon to be fired low to the ground with the user in a sitting or lying position. A bipod uses the under-barrel mount, does not affect Concealability, and provides 2 points of recoil compensation. 400¥
+* **Concealable Holster:** Custom-fitted to the wearer, the holster can be designed for wear over the hip, in the small of the back, under the arm, on the forearm, or on the ankle. It adds +2 to the Concealability of a pistol (Concealed weapons require a Perception Test to spot. The Concealability Rating is the target number.) 100¥
+* **Gas-Vent System:** Gas-vent recoil compensation systems vent a weapon's barrel gases at a specific vector to counter barrel climb. These systems are all barrel-mounted, and subtract from the weapon's Concealability. Once installed, gas-vent systems cannot be removed. Two versions are available. Gas-vent system with 2 points of recoil compensation, -1 Concealability: 450¥. Gas-vent system with 3 points of recoil compensation, -2 Concealability: 700¥
+* **Grenade Launcher:** Actually a weapon in its own right, though rarely used in modern forces except as an under-barrel addition to an assault rifle, the launcher fires a round from its integral magazine with either a thumb-press button or a separate trigger. These weapons fire only mini-grenades. Available only in under-barrel versions. Once installed, it cannot be removed. -3 Concealability. 1,700¥
+* **Gyro Stabilization:** These systems consist of a heavy upper-body harness system with an attached, articulated, gyro-stabilized arm that mounts a rifle or heavy weapon. The gyro-stabilization system neutralizes recoil and movement modifiers. Standard military systems also include smart goggles with a protected cable connection. Mounted smartguns may still be fed through standard palm induction links. While worn, the entire system provides an additional point of impact and ballistic armor, and is in no way concealable. It takes 5 minutes to get into a gyro-mount harness, 1 Complex Action to "quick-release" out of it. Attaching or removing a weapon from the mount requires 2 Complex Actions. Standard Gyro-mount (Rating 5) 2,500¥, Deluxe Gyro-mount (Rating 6) 6,000¥
+* **Imaging Scopes:** A variety of imaging scopes are available, including low-light, infrared, and simple magnification. Imaging scopes can only be top-mounted. Scopes may not be used with smartlink systems. Scopes require 1 Complex Action to install/remove. Magnification systems have a -1 Concealability Rating, low-light and thermographic systems have a -2 Concealability. 500¥ for Rating 1 magnification, 800¥ for Rating 2 magnification, 1,200¥ for Rating 3 magnification. 1,500¥ for low-light or thermographic capability.
+* **Laser Sight:** This device projects a laser beam to produce a glowing red spot on the target point. The sight activates when the user touches the trigger. Such sights may not be used with any kind of smartlink system. Laser sights are available in under-barrel or top-mounting versions. Mounting a laser sight adds -1 to the Concealability Rating, and requires 1 Complex Action to install/remove. 500¥
+* **Shock Pads:** Shock-absorbing pads that can be mounted on the rigid shoulder stock (not folding stock) of a rifle, assault rifle, or shotgun, or on the hip brace of a heavy automatic weapon. The shock pad gives 1 point of recoil compensation. 200¥
+* **Silencer:** A silencer is a barrel-mounted accessory that reduces the sound and flash of a weapon's discharge. Silencers can only be used with single-shot or semi-automatic weapons. They cannot be used with revolvers. A silencer applies a +4 target modifier to any attempt to notice the weapon's use, or to locate the weapon's firer. Using a silencer modifies Concealability by -2, and requires 1 Complex Action to install/remove. 500¥
+* **Smart Goggles:** A pair of oversized goggles that connect by fiber-optic cable to a weapon rigged as a smartgun. The chips in the gun feed into the receptors in the goggles, producing red cross hairs in the user's field of vision, centered on where the gun is pointing. The gun's ammo status appears in the user's field of vision as well. This system may be built into a helmet or, for enough nuyen, rigged as mirrored sunglasses. In addition to simple targeting, smart goggles may be set up for low-light or infrared reception. 3,000¥ (+1,000¥ for low-light or infrared additions)
+* **Smartgun Systems:** Available in two forms, internal and external, the system provides a feedback circuit relating the gun's angle of fire to the shooter's line of sight. The internal smartgun system is built into the gun and doubles the weapon's cost if installed after manufacturing. The external system mounts on the weapon (top- or under-barrel positions) and can be transferred from weapon to weapon, with one hour of maintenance and alignment. These units cost 600¥. Without a receptor (smart goggles or smartlink), the hardware is simply dead weight.
+* **Sound Suppresser:** Similar to silencers, sound suppressers are used with burst-fire and full-auto-capable weapons. A sound suppresser adds a +2 target modifier to any attempt to notice the weapon's use or to locate the weapon's firer. Sound suppressers must be replaced every 300 rounds of burst or autofire. A sound suppresser modifies Concealability by -2, and requires two Complex Actions to install/remove. 750¥
+* **Spare Clips:** Extra ammunition clips cost 5¥ per clip, unloaded. They hold the maximum rounds available for the weapon, and are not interchangeable from weapon to weapon, even within the same class.
+* **Tripod:** A heavy, stable mounting for heavy weapons, tripods are not concealable, and provide 6 points of recoil compensation. 600¥
+
+---
+
+## AMMUNITION
+In Shadowrun, each kind of gun can trade ammo with another of its class. Thus, all light pistols share ammo. Use the categories shown on the Weapon Range Table, p. 88, to determine what gun types share ammo. Shotgun weapons, whether pistol or rifle, can share ammo. Standard ammo costs 20¥ for 10 rounds.
+
+See Ammunition rules in the Combat Section, p. 93, for special game rules relating to the different kinds of ammunition.
+
+* **Explosive Rounds:** Very tiny versions of grenades, explosive rounds come with standard military weapons. Though unpopular with troops because of the disastrous results of a weapon malfunction or misfire, these rounds remain in wide use by both civilians and the military. Exposure to intense heat such as flames or fireballs can also cook the touchy things. 50¥ for 10 rounds.
+* **Flechette Rounds:** Tiny, tightly-packed slivers function as the business end of a flechette round. They are devastating against unprotected targets, and will cut through standard ballistic protection. Impact armor can easily stand up to this ammunition. 100¥ for 10 rounds.
+* **Gel Rounds:** Designed as a non-lethal round for riot control, these rounds use a hard jelly-like substance to achieve their effect. Impact armor is very effective against this ammunition, and ballistic armor is affected normally. 30¥ for 10 rounds.
+* **Stun Rounds:** Also designed for riot control, these rounds work only in large-bore weapons such as shotguns. Impact armor is effective against this ammunition, but ballistic armor is useless against the relatively high mass and low speed of these rounds. 100¥ per 10 rounds.
+
+---
+
+## EXPLOSIVES
+* **Hand Grenades:** Grenades are small, self-contained packages of explosive, timer, and detonator. They may be set to explode on impact, or at any time from 2 seconds to 2 minutes. Non-aerodynamic models often offer a "booby-trap" setting that detonates by electric signal or pressure release. These models are shaped as spheres or cylinders. Aerodynamic models are rings or disks with superior range capabilities. Explosive grenades come in one of three types. Defensive grenades have the lowest radius of destruction, allowing the character to use the grenade as he presses forward. Offensive grenades have a higher fragmentation effect. Concussion grenades are intended to have little fragmentation effect at all, relying on the blast effect to stun or injure targets. 30¥ per grenade, regardless of type.
+* **Mini-grenades:** Mini-grenades are bullet-like projectiles designed for grenade launchers. They cannot be armed and thrown. Mini-grenades come in offensive, defensive, and concussion forms, delivering the same blast as their larger brothers. Mini-grenades cost 50¥ per grenade, regardless of type.
+* **Plastic Explosives:** Highly stable, moldable, and slightly sticky, these substances are ideal for certain jobs, such as blowing a hole in a wall. Compounds are usually color-tinted to indicate the level of current needed to detonate them, from the black of magnetic-field induction to the chalky white of 440-volt industrial explosive. Commercial (non-plastic) explosives cost 60¥ per kilogram. Compound IV plastic explosives cost 80¥ per kilo, and Compound 12 costs 200¥ per kilo. Timers (2 second to 2 hours) can be purchased for 100¥ each. Radio detonators (one-half kilometer range) cost 250¥. The Damage Code is (Rating)D per kilogram. Use the following formula for multiple kilograms: (Rating × √kilograms)D. The Power of the blast is reduced by the base Rating per meter. See Blast Effects, p. 97.
+
+---
+
+## ARMOR
+Technically, there are two types of armor: **dermal armor** (cybernetic or natural) and **worn**.
+
+Dermal armor works against anything by increasing the character's Body Attribute. It does not aid in healing.
+
+External armor works differently. It has two ratings: **ballistic** and **impact**. No matter how many pieces of armor are worn, only the highest rating counts for Damage Resistance Tests.
+
+Ballistic armor protects against projectiles delivering large amounts of kinetic energy in short amounts of time, mostly bullets.
+
+Impact armor protects against projectiles with lesser kinetic transfer: projectile weapons, explosives, hand-held weapons, stun ammunition, and damaging manipulation spells.
+
+* **Armor Clothing:** The prime choice for an everyday stroll along the streets of 2053. Fashion designers worldwide offer a variety of styles in fabrics made of descendants of Kevlar™. 500¥
+* **Armor Jacket:** Available in a wide selection of tailoring, from chic street styling to the harsh ribbed and padded aesthetic of macho militarism, these jackets offer substantial protection. 900¥
+* **Armor Vest:** The vest provides slim-line protection under normal clothing. Additional rigid plates provide improved protection at the expense of subtlety. 200¥, or 600¥ with plates
+* **Helmet:** Most corporations provide distinctive headgear for their security personnel. An exception to the basic rule, a helmet does add its rating to other exterior armor. 200¥
+* **Heavy Armor:** These are obvious armors, often styled for intimidation as much as for protection and ease of movement. They already include helmets. Partial suits use rigid plates on the torso and head and occasionally elsewhere. These plates may be integral to an undersuit or attached separately. Full suits use heavier undersuits and more extensive plating. They often offer environmental sealing with minimal preparation. Heavy armor also affects the Combat Pool. See Combat Pool, p. 84. 20,000¥ for full suit, 10,000¥ for partial
+* **Lined Coat:** Available in a variety of styles, the lined coat is a popular form of armor. Its appearance is reminiscent of the long dusters worn in the days of the wild West. It uses rigid plates concealed between layers of ballistic cloth to cover vital organs. Lined coats add +2 to the Concealability of any weapon hidden under it. 700¥
+
+---
+
+## SURVEILLANCE AND SECURITY
+### VISION ENHANCERS
+* **Binoculars:** These flat, compact digital imagers produce high resolution at up to 50x magnification. Optical glass variants are available for magicians. Enhanced models can operate in low-light or function on thermographic principles. 100¥ for magnification, 300¥ for low-light, 350¥ for thermographic
+* **Goggles:** Strap-on models or helmet visors allow low-light or thermographic vision. 1,500¥ for magnification, 2,000¥ for low-light, 2,200¥ for thermographic
+
+### COMMUNICATIONS
+Kleen-tac™ backing makes these items attachable almost anywhere.
+* **Micro-transceiver:** This flat 2 cm disk transmits on a preselected radio frequency with a range of 5 kilometers. 2,500¥
+* **Micro-recorder:** This small (3 x 3 x 1.5 cm) case can record up to 6 hours. It may be set to voice-activation to increase effective recording time. 1,000¥
+* **Micro-camcorder:** The case (3 x 5 x 2 cm) comes with a three-hour vid cartridge. It may be set to activate with motion. The recording's image carries time indicators from its internal clock. 2,500¥
+
+### SURVEILLANCE MEASURES
+Surveillance measures and countermeasures oppose each other. See Using Equipment, p. 184 of Behind the Scenes. Prices for surveillance measures and countermeasures are listed for the base system, Rating 1. For the final cost of available higher ratings, multiply the base cost by the rating. Generally, the maximum rating is 10. See Avallability, p. 184, for additional information.
+* **Data Codebreaker:** This sophisticated device, the size of a briefcase, unscrambles the encryption on a data pulse. It can receive transmissions from dataline taps or accept standard recordings. Base 10,000¥
+* **Dataline Tap:** Spliced into a dataline, the tap will transmit a copy of any data to a distant receiver. To avoid detection, many devices are set to conduct burst-data transmissions at irregular intervals. Base 5,000¥
+* **Laser Microphone:** This device bounces a beam against a solid object, reading the vibrational variations of the surface and translating them into the sounds that are occurring on the other side of the surface. Base 1,500¥
+* **Shotgun Microphone:** This directional microphone (30 x 8 cm polyfoam-protected cone attached to a pistol grip) allows the user to listen in on distant conversations. Solid objects block reception, as do loud sounds outside of the line of eavesdropping. Base 1,000¥
+* **Signal Locator:** This comes in a hard plastic case with a map screen in its lid. Using a detachable sensor, it triangulates on a set tracking signal, displaying its location on the map. The device can also sweep transmission bands for other tracking signals. Base 1,000¥
+* **Tracking Signal:** This is a homing signal transmitter (4 cm-diameter disk) with Kleen-tac™ backing. The typical transmission range is 5 kilometers in cities. Smaller versions have correspondingly smaller ranges. The criminal justice system uses a special ankle band sealed on the leg of a criminal to broadcast his location at all times. 100¥/point of Concealability
+* **Voice Identifier:** This system is designed to defeat voice-masking devices. It analyzes the masked voice, offering a variety of possible voices, one of which should be a recognizable version of the original voice. Base 2,000¥
+
+### SURVEILLANCE COUNTERMEASURES
+* **Bug Scanner:** This hand-held device scans for the micro-induction field created by micro-transceivers and other monitoring devices. The scanner will not detect bugs unless they are transmitting. The case's holographic screen displays a directional arrow pointing to the bug. Base 500¥
+* **Data Encryption System:** Placed in-line with any fiber-optic transmission device, this system will encrypt the signal so that it can be unscrambled only by a receiver with the proper decode sequence. The keypad on this device allows selection of random or pre-arranged codings. Base 1,000¥
+* **Dataline Scanner:** When in-line with a system, this device emits a pulse, measures its return, and analyzes the echo to detect the presence of dataline taps, even those that are inactive. The scanner cannot determine the location of the tap. Base 100¥
+* **Jammer:** This transmitter overrides broadcast signals, scrambling them by filling the band with garbage. Base 1,000¥
+* **Voice Mask:** This small disk (3 cm-diameter), when worn or held near the throat, creates a resonating frequency to distort the timbre and pitch of the user's voice. Base 3,000¥
+* **White Noise Generator:** This device creates a field of random noise, masking the sounds within its area. It is designed to defeat eavesdroppers and long-range microphones (shotgun or laser). Base 1,500¥
+
+### SECURITY DEVICES
+Security device prices are listed for the base of Rating 1. Higher ratings are available; multiply the base cost by the rating to get the final cost. The usual maximum is Rating 10. See Availability, p. 184.
+* **Identification Scanners:** A variety of devices contain readers (pads for thumbprints and palmprints; eyecup pads for retinal scans) and library files of recording patterns. Most record the patterns of anyone who attempts to use the scanner. ID scanners are often incorporated into locks, which then open only to authorized patterns. Base 200¥ for thumbprint scanner, 300¥ for palmprint scanner, 1,000¥ for retinal scanner
+* **Maglocks:** Household and commercial security rely almost exclusively on maglocks, computer-controlled systems operable only with the proper passcode, keycard, or credstick. Usually, the only visible component of these locks is the slot or slot-keypad mount. In high-security areas, a thumbpad or retinal scanner may also be present. Maglocks may be linked to the PANICBUTTON™M system to signal an alarm if tampering with the lock occurs. Base 100¥
+* **Maglock Passkeys:** These sophisticated electronic devices fool a maglock into opening. Use of such systems often leaves the lock scrambled or sluggish in response, providing a warning that the lock has been violated. Base 10,000¥
+* **Restraints:** Besides the usual metal models, high-tech plastic strips may be heat-fused to a subject's wrists or ankles, where they will remain in place until cut free. Such restraints can be painful if the wearer resists their constraints. 50¥ for metal (effective Barrier Rating 12), 20¥ for plastic (effective Barrier Rating 15)
+* **Squealer:** Formally known as a location forbidder, this small box is strapped to the wrist or ankle of corporate employees or visitors. When the wearer approaches within a specified distance of a restricted area, the box emits a polite warning. At a closer distance, the device transmits a call to security and activates a siren to alert guards in the area. (It has an effective Rating 5 for the purposes of avoiding jamming.) 100¥
+
+---
+
+## SURVIVAL GEAR
+Some pieces of survival gear have prices listed for the base system, Rating 1. Higher ratings are available; multiply the base cost by the rating to get the final cost. The usual maximum is Rating 10. See Availability, p. 184, for additional information.
+* **Chemsuit:** This slick, impermeable garment usually consists of booted coveralls, a hooded poncho, and mittens. The hood is often transparent, at least in the face area, and fitted with an air filter. Designer versions are popular in the UCAS and other industrialized areas for the miserable, "hard rain" days. Base 200¥
+* **Respirator:** This is a small oxygen cylinder (20 x 10 cm) connected by a plastic hose to a full or partial face mask. It provides enough air for several hours of moderate exertion. A pressure regulator allows the wearer to use the respirator underwater. 500¥ for respirator, 250¥ additional for pressure regulator
+* **Survival Kit:** This rugged bag contains a useful assortment of stuff: flares, small utility knife, lighter, matches, compass, lightweight thermal blanket, several days' worth of ration bars, a water-purification unit, a filter mask, and other items. 100¥
+
+---
+
+## WORKING GEAR
+To use Build/Repair Skills requires tools to do the job. Tools in Shadowrun come in kits, shops, and facilities.
+* A **kit** is portable and contains the basic gear to make repairs.
+* A **shop** is transportable with a large van or small truck.
+* A **facility** is immobile because of the bulky, heavy machines involved.
+
+The prices are variable, depending on the type of tools. The base cost is 500¥ for a kit, 5,000¥ for a shop, and 100,000¥ for a facility.
+* General construction uses basic tools, which have the base cost.
+* Electronic, computer, and cyberware repairs require microtronics tools, which cost triple the base figures.
+* Vehicle tools cost double the base figures.
+
+---
+
+## LIFESTYLE
+### ENTERTAINMENT
+* **Music:** Recorded music comes in two basic forms, laser-read compact disks (CD) and optical chips (OC). Both formats record to a fidelity far beyond the average person's discrimination. Playback units are slightly larger than the storage disk, fitting comfortably in the hand or clipping to a belt. Extra speakers can achieve a "total dimension of sound." Headsets or mastoid-implant speakers are available for private listening. Units with flat roll-out screens are available for disks with video tracks.
+* **Video:** Video recording systems long ago switched to digital information-storage and liquid-crystal screens. Most recorders function in the pseudo-holographic format popularly known as trideo, or trid. Despite technical advances, the production of high-quality holograms in open air still eludes technicians. Even those produced under controlled conditions lack proper texture and animation. Trid screens range from tiny, 30mm diagonal wristphone displays to wall-sized arrays. Screens capable of displaying recorded imagery have the usual image-speed and quality controls, as well as simple special-effects distortion and color-alteration capability.
+* **Simsense:** Simulated sensory impressions are the latest fashion in entertainment. Developed from the early ASIST (Artificial Sensory Induction Systems) technology, the system consists of a lightweight headset that deceives the user by inducing false sensory signals in the brain. The user, despite the imperfect simulation and the undercurrent of sensory impressions from the real world around him, experiences a programmed set of stimuli while neural overrides prevent him from injuring himself or others during playback. Most users prefer programs that are "hosted" by a specific simstar whose actual sensations are the ones that have been recorded, allowing the user a true vicarious experience. Many simstars have cults of fans devoted to them and emulating their every move. The simsense headset is connected by fiber optics to a player unit. A unit may be set up for direct feed into a datajack. Portable simsense recorders are available to the public, but they lack the clarity and editing capability of professional equipment.
+* **Live Performance:** Live performances continue to be popular in the 2050s. Performers, both actors and singers, often have implanted voice amplifiers, either simple volume enhancers or sophisticated transmitting microphones that broadcast to speakers placed around the hall. Such equipment often features voice modifiers and sound-effects generators. The basic shape and style of musical instruments have changed little, but there has been a proliferation of the electronic versions. Few, if any, pop performers use anything other than synthesized sound. Highly technical musicians work with a synthlink, a special system that operates through a datajack to allow the user to cybernetically control his instrument for greater complexity and subtlety of sound than is otherwise possible.
+* **Networks:** Corporate-owned and viewer-supported networks still make up the bulk of transmitted trideo in 2053. Although the term "broadcasting" remains in use, all transmissions are digitized and travel over fiber-optic cables to individual subscribers.
+
+***
+
+# ELECTRONICS
+
+The personal electronics industry, apart from the enormous computer and cyber subsectors, is one of the major growth sectors of the world economy in 2053. Samples are ubiquitous, and advertising invasive. Everywhere the citizen is bombarded with catch phrases and taglines—**compact**, **flexible**, **advanced**, **stylish**, **tailored**. All are buzzwords used to describe the wonders of 21st-century technology.
+
+## Credstick:
+A credstick is a combination **passport**, **keyring**, **credit card**, **checkbook**, and **business card**. It is a small plastic cylinder tapering to a point. The blunt end houses a computer. The chip in the credstick contains the owner's **System Identification Number (SIN)**, credit balance, financial records, and resumé, as well as passcodes for the owner's locks. When used to conduct transactions or access the owner's records or property, the credstick transmits identification data from a simple ID number (**standard**) or a thumbprint (**silver stick**) or a retinal pattern (**platinum sticks**) to the bank or lock. The transmission must match the data on file, and the user must confirm by typing the ID number, thumbing a pad, or submitting to a retinal scan, as appropriate. Once the user is confirmed as the owner of the credstick, the transaction is approved or the lock opened.
+
+Credsticks record transactions not already in the financial computer network, but they must be periodically connected to the network to validate such transactions. Failure to do so results in invalidation of all non-network transactions and cancellation of the credstick's financial function. **Limited-use credsticks** carry a specified credit limit, much like a certified check. Ownership of a certified credstick is by the bearer.
+
+## Telecom:
+The telecom is the **entertainment and communication center** of the modern home. It also provides a **work station** for a home office or the telecommuting corporate worker. The typical telecom functions as a **telephone** with audio-video reception and transmission (speaker phone is the normal mode, but handsets and headsets, with or without connecting fibers, are available), a **computer** with display screen, and keyboard (advanced models have datajacks and interface hardware), and a **television** (the most advanced models feature simsense ports). The exact services accessible through the telecom depends on the owner's subscriptions. Subscription services include the usual entertainment, sales, news, dating, sports, and literary channels; magazine and news services, with printouts available through the computer printer; public data access; phone services on local or long-distance nets; and secretarial services.
+
+## Portable Phones:
+Portable phones range from the common **wrist models**, with or without flip-up view screen, to "**walkie-talkie**" handset units, to **audio-only earplug models** with lightweight boom microphones. Range is limited, but the user may wear a **booster pack** on his belt or on any other convenient surface or part of his clothes. Portable phones without a fiber link-up are subject to electromagnetic distortions and jamming.
+
+## Pocket Secretary:
+The pocket secretary is an **office for the businessman on the go**. The compact unit functions as a **portable phone**, a **computer (100 Mp)**, and **filing system**. Standard software performs call screening, answering-machine functions, automatic teleconfirmation of credit transactions, word processing with standard letters on file and stenographer functions. Pocket secretaries are never equipped for jacking into the Matrix. Cases are **shock- and water-resistant** for durability and long service.
+
+## Personal Computers:
+The standard personal computer of 2053 is the size of a **keyboard**. It has a **roll-out flat-screen monitor**. A digital radio signal transmits input and output to peripherals. Program and data cartridges are the size of a standard credstick and slot into the ends of the keyboard. Internal program storage is more than sufficient for common programs such as word and data processors, communications software, and games, and the storage is non-volatile (stored indefinitely). Disposable printers for one-color printing come attached to containers of paper, barely increasing the size. Full-color printers add two centimeters to the height of the paper box.
+
+Smaller computers exist, usually designed for a particular function. These accept a limited range of spoken commands, and they output data in a synthesized voice. They may be fiber-linked to a monitor. Internal storage capacity is limited, and they do not accept standard program or data cartridges. Some models have miniature keyboards, usable with a stylus, accept links to standard keyboards, or recognize handwriting.
+
+## Data Display Systems:
+Typical data units have **fold-up monitors** and will accept on-line input or standard chip cartridges, allowing them to function as a computer's display screen, a television, a video player, or a simple data reader. For people who work with their hands, there are **headset units** that project data in "**heads-up**" display on a surface such as a transparent face shield, the lens of a pair of glasses, or a monocle. A headset unit usually has only one slot to accept standard data cartridges (1,000 Mp). Helmets of government and corporate military forces often have headset display units, allowing soldiers to access maps and other important tactical data without disrupting their regular functions.
+
+***
+
+# CYBERWARE
+
+Each item of cyberware has an **Essence Cost**. This is the reduction of the character's Essence Rating that occurs when the cyberware is implanted. If a character's Essence ever falls below 0, his life force ebbs and he will die in short order. Even 0 Essence is tough to handle, promoting despair and melancholy. Folks of such low Essence walk the thin edge of sanity.
+
+## HEADWARE
+
+This hardware, small and complex, requires the replacement of sections of the cranium with plastic plates of artificial bone. There is no loss of skull strength.
+
+**.3.5€= 92**
+
+### Communications
+
+* **Chipjack:** A specialized form of datajack that allows access to a skillsoft or datasoft. **1,000¥**
+* **Datajack:** The almost universal mark of the cyber-conscious user, standard datajacks allow both input and output to certain headware and bodyware items. **1,000¥**
+* **Radio:** This headware allows full-band, limited-range communications. The signal quality is rarely as good as a telephone, but the ability to switch bands makes the system more popular with the military or any user expecting active jamming. When transmitting, the user must speak, though it may be in tones inaudible to those nearby. For the cost- or health-conscious, receiver-only models are available. **4,000¥ for two-way radio, 2,000¥ for receiver**. Multiply the cost by the rating of any levels of ECM/ECCM installed. See Using Equipment, p. 184.
+* **Synthlink:** This specialized datajack linked to control systems is a musician's tool, allowing cybernetic use of music synthesizers. **1,000¥**
+* **Telephone:** A real headphone allows the user to access the telenet from his head. Like all mobile phones, the quality of the link is unsuitable for a decking connection. The user may speak normally or, with the pressure on a sub-dermal switch, speak sub-vocally. **3,700¥**
+
+### Ears
+
+Cyber replacement of the ears typically features an obvious prosthesis that provides perfect hearing within normal ranges. The cyberear will also accept a minor additional adjustment (one feature of .2 Essence Cost or less) without additional impact on the user's system. **4,000¥ for replacement, 2,000¥ for modification**
+
+* **Cosmetic Modification:** There is an endless variety of shapes and sizes. By far the most popular is the pointing and/or extension for metahuman wannabees. **1,000¥**
+* **Damper:** This modification protects the user from sudden increases in sound level as well as providing partial protection from damaging frequencies. **3,500¥**
+* **High Frequency:** The user can hear sounds of pitch higher than the normal human hearing range. **3,000¥**
+* **Low Frequency:** The user can hear sounds of pitch lower than the normal human hearing range. **3,000¥**
+* **Recorder:** The user can record anything he can hear. The recorder can play back recordings inside the head (with a cyberear or modification). If linked to a standard datajack, it can play them back through a speaker. **7,000¥**
+
+### Eyes
+
+Cyber replacement of normal eyes offers 20/20 vision as standard. It almost always involves both eyes, because mismatched pairs will send imbalanced signals to the brain. In outward appearance the implants may be indistinguishable from biological eyes (at least without an eye exam) or they may be outlandish, ranging from gold or neon irised effects (complete with gold-lettered manufacturer's logo) to the high-chrome, featureless effect. Cybereyes will accept additional vision enhancements up to .5 Essence Cost without further Essence loss. **5,000¥**
+
+**Retinal modification**, rather than eye replacement, is also an option for the appearance-conscious, but each feature impacts independently on the user's system. Duplication of another person's retinal pattern, either permanently in a retinal modification or as a stored pattern in a cybereye, is a capital crime. It is also of dubious use, because the duplicate rarely is of high enough fidelity to consistently fool retinal scanners. Continual changes also are a health hazard. **50,000¥ times the rating** (for use against retinal scanners).
+
+* **Camera:** The brain can store a digital copy of any image viewed through the eye. If the eyes are linked to a standard datajack, images may be downloaded to any data system. Recording 1 second of video requires 1 Mp of storage. Otherwise, the image-storage chip must be removed through a port in the eye. **5,000¥**
+* **Cosmetic Modification:** Alteration of iris color is the most popular type, but pupil-shape alteration and cornea pigmentation are also common. **1,000¥**
+* **Flare Compensation:** This protects the user from blinding flashes of light, as well as simple glare. Eliminates glare vision modifiers. **2,000¥**
+* **Low-Light:** The user can see normally in light levels as low as starlight. Total darkness, rare in the cities of the 2050 era, still renders the user as blind as an unmodified person. **3,000¥**
+* **Thermographic:** This cyberware operates in the infrared portion of the spectrum, allowing the user to see heat patterns. Light level has no effect, but strong sources of heat act much like a bright glare does to normal vision, often blinding the user. **3,000¥**
+
+### Internal Headware
+
+* **Cortex Bombs:** These are an illegal method of coercion offering the ultimate headache. A small amount of fuergel or some similar explosive is implanted at the brain stem. The triggering circumstance is determined at the time of implant, either set as a timer or prepared for the receipt of an electromagnetic signal. Most cortex bombs are booby-trapped, rigged to explode if the wearer's nervous system is tampered with in any way. The explosion of a cortex bomb kills the wearer and endangers those around him (1-meter radius, 5D explosion). **500,000¥**
+* **Memory:** This is the definition of the computing power of a character's headware systems. It covers the storage space as well. Unless the character wants to change data surgically, he needs a datajack. Memory is the amount of space available in **megapulses (Mp)**. Raw data, skill software, and certain programs can be stored, but other equipment gives the user access to them. **100¥ times the number of Mp**
+* **Datasoft Link:** This gives the user mental access to his KnowSofts, either in a chipjack or downloaded into headware memory. **1,000¥**
+* **Display Link:** This allows a user to display data on the retina or cybereye, letting him read what is displayed in his head. **1,000¥**
+* **Data Lock:** This denies wearers access to their own cyber memory space. Input or output through a datajack requires a special code. This option is very popular for couriers. **1,000¥**
+* **Data Filter:** This is a special sensory block that prohibits wearers from absorbing sensory data into their own memory while retaining the data in their cybernetic memory. A data filter turns a character into an organic audio-visual recorder, unaware of what he has heard and witnessed while the recording feature is active. This is very popular for confidential couriers and secretaries. **5,000¥**
+* **Skillsofts:** Memory on a chip. When utilized in conjunction with the proper headware and bodyware, skillsofts allow users to know and do things they actually never learned in the normal fashion. Because a skillsoft's "**memory imaging**" encoding differs radically from any actual memories or learned experiences the user may already have, the skillwire system must override the user's own reflexes, abilities, and memories, forcing a reliance on the encoded capabilities. When a skillsoft is accessed that duplicates a skill the character already possesses naturally, he uses only the skillsoft's rating. The character's natural ability is lost for the duration of the skillsoft access.
+
+    Skillsofts come in three types. **KnowSofts** replicate Knowledge Skills like Science or Mental Skills. A sub-classification of KnowSoft is the **LinguaSoft** which allows language use and replicates Language Skills. **DataSofts** are raw data, pure information, like that found in a textbook. No application or comprehension ability comes with the DataSoft, just the data. **ActiveSofts** replicate Active Skills like Combat, Physical, Technical, or Vehicle Skills.
+
+    KnowSofts can be accessed through a chipjack, or uploaded into headware memory and accessed with a datasoft link. DataSofts can be accessed through a datajack or chipjack, sent to a display or datasoft link, or put into headware memory and downloaded to a display link or datasoft link. Full skillwire systems are required for the use of ActiveSofts.
+
+    Additional chipjacks can accommodate additional skillsofts. Skillsofts are usually sold installed in 5-centimeter-long cylinders to protect the chip until it is inserted into a jack. Once the chip is in, and the data transferred, the user can remove the chip. Skillsofts can be accessed just the same whether via a datajack or downloaded into headware memory. If downloaded, the resulting program takes up the amount of space shown on the Skill Memory Table.
+
+    ActiveSofts do not provide associated Dice Pools. For example, the user of a Computer ActiveSoft does not receive a Hacking Pool. Additionally, Magic Skills like Sorcery and Conjuring cannot be made into ActiveSofts.
+
+### SKILLSOFT COSTS
+
+| Type | Cost |
+| :--- | :--- |
+| KnowSoft | Mp times 150¥ |
+| LinguaSoft | Mp times 50¥ |
+| DataSoft | Varies with value of data |
+| ActiveSoft | Mp times 100¥ |
+
+***
+
+# BODYWARE
+
+Bodyware is cyberware implanted in locations other than the user's head. Some types, such as dermal plating, also involve additions to the skull.
+
+* **Dermal Plating:** This is an invasive protection system that uses hard plastic and metal fiber plates bonded to the user's skin to produce dermal armor. Dermal plating does limit skin flexibility and is obvious. The armor plates may be tailored to any surface texture or color. It comes in three strengths, which affect the level of invasion. The character's Body is increased by the rating. **6,000¥ for Rating 1; 15,000¥ for Rating 2; 45,000¥ for Rating 3**. Does not assist in healing.
+* **Filtration Systems:** These systems operate to protect the user from specified substances. Toxins and rated gases oppose the system's rating. If the system fails, the toxin takes effect at full value. A **replacement trachea** fitted with filters protects the user from smoke and most gases. A specialized form, the **artificial gill**, allows the user to filter oxygen from water. A **kidney replacement** includes toxin filters to remove foreign agents from the bloodstream. It is effective against most injected drugs and many diseases. There is also a system of implanted filters designed to detoxify a wide range of poisons, including alcohol, taken orally. Ratings to a maximum of 10 are available. **15,000¥ times the rating for an air filter, 10,000¥ times the rating for a blood or toxin filter**
+
+### SKILL MEMORY TABLE
+
+| Skill Type | Rating (In Mp) | | | | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rating** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| General | 10 | 20 | 30 | 200 | 250 | 300 | 700 | 800 | 900 | 2,000 |
+| Concentration | 6 | 12 | 18 | 120 | 150 | 180 | 420 | 480 | 540 | 1,200 |
+| Specialization | 4 | 8 | 12 | 80 | 100 | 120 | 280 | 320 | 360 | 800 |
+| Language | 3 | 6 | 9 | 24 | 30 | 36 | 70 | 80 | 90 | 300 |
+
+* **Fingertip Compartment:** This is a small storage space replacing the last joint of a finger. It is ideal for concealing data chips. It is also commonly used for the concealment of a monofilament whip, because the replacement joint can serve as the control weight. **3,000¥**
+* **Hand Razors:** These are 2.5-centimeter chromed steel or carbon fiber blades that replace the user's fingernails. The razors anchor to the user's bones. Retractable versions slide out of sight under synthetic nail replacements. **4,500¥, 9,000¥ for retractable version**
+* **Limbs:** Substitute limbs come in two basic models, **obvious cyberlimbs** and fully functional, **natural-looking replacements**. Replacements offer no special abilities. Other cyberlimbs can offer enhanced strength, but the typical user can rarely apply the limb's full strength. Trying to lift a car single-handedly will only bring a character grief and pain as the limb rips free from its flesh-and-blood moorings. Cyberlimbs may have spurs and hand razors at no additional loss to the user's system. Multiple replacements make the user less vulnerable to additional damage. Each pair of limbs replaced counts as one level of dermal armor. **50,000¥ for replacement, 100,000¥ for cyberlimb, plus 150,000¥ for each level of increased strength**
+* **Muscle Replacement:** Implanted, vat-grown synthetic muscles replace the user's own. Calcium treatments and skeletal reinforcement allow an overall increase in the user's strength. Rating increases apply to **Strength** and **Quickness**, but this change does not affect Reaction. The maximum increase is 4. **20,000¥ times the rating**
+* **Skillwires:** These are an invasive system of neuro-muscular controllers necessary for a user to take advantage of ActiveSofts. The **Skillwire Rating** limits the total rating of all the ActiveSofts in use at any one time. The system includes a chipjack for the insertion of a skillsoft. **10,000¥ times the Rating if 1-3, 100,000¥ times the Rating if 4-6, 1,000,000¥ times the Rating if 7-9**
+* **Smartlink:** This is the feedback loop circuitry necessary to take full advantage of a smartgun. Targeting information appears on the user's retina or cybereye as a small dot or cross hairs that corresponds to the smartweapon's current line of fire. Typical systems use a subdermal induction pad in the user's palm to link with the smartgun. **2,500¥**
+* **Spur:** A narrow blade attached to the user's bone, similar to a razor. Retractable versions must be placed where they can be withdrawn along a long bone. Alternatively, a set of three smaller blades may be anchored to the back of the hand. **7,000¥; 11,500¥ for retractable**
+* **Vehicle Control Rig:** These are neuro-enhancers and muscular signal transference (MST) interfaces. Each level adds +2 to the user's Reaction while rigging. Each level also allows an additional +1D6 Initiative die when the user is controlling a vehicle through a datajack that is equipped with vehicle control gear. **12,000¥ for Level 1, 60,000¥ for Level 2, 300,000¥ for Level 3**
+* **Voice Modulator:** Voice modulators are popular with entertainers. Stage performers commonly make use of the volume feature, and singers use the tonal shift. **45,000¥ plus the cost of features.**
+    * **Increased volume** makes the user into a loudspeaker (**10,000¥**).
+    * **Tonal shift** alters tones for perfect bird calls, mellifluous singing, and uncanny vocal impressions. Modulations and secondary quavers make detection simple for a vocal-pattern recognizer (**25,000¥**).
+    * **Secondary pattern**, an illegal modification, allows the user to install a second vocal pattern and reproduce it in a form that is almost indistinguishable from an unmodified pattern (**50,000¥**).
+    * **Playback** allows the user to access an audio record, in data storage or fed in through a datajack, and reproduce it almost perfectly (**40,000¥**).
+* **Wired Reflexes:** These are implanted neural boosters and adrenaline stimulators. Each level adds +2 to the user's Reaction and gives +1D6 Initiative die. **55,000¥ for Level 1, 165,000¥ for Level 2, 500,000¥ for Level 3**
+
+## CYBERDECKS AND PROGRAMS
+
+This gear is described in the Matrix chapter, p. 160.
+
+***
+
+# BIOTECH
+
+* **DocWagon™ Contract:** Don't leave home without it! DocWagon™ offers first-class medical care on a 24-hour, house (or street) call basis. Once a call from a platinum card-holder is confirmed, most DocWagon™ franchises guarantee arrival of a trauma team in less than ten minutes, or else the immediate medical care is free. Resuscitation service carries a high premium, as does **High Threat Response (HTR) service**. In the latter case, the client (or his heir) is expected to pay medical bills up to and including death compensation for DocWagon™ employees. A DocWagon™ contract requires a filing of tissue samples (held in a secure vault staffed by bonded guards) and comes with a sealed-band, direct-dial wrist phone, which also serves as a homing beacon for the roving DocWagon™ ambulances and choppers. Rupture of the band will, of course, alert the DocWagon™ representative.
+    * **Gold service** includes one free resuscitation per year, 50 percent reduction on HTR service charges, and a 10 percent discount on extended care.
+    * **Platinum service** includes four free resuscitations per year. There is no charge for HTR services, but employee death compensation still applies. It carries a 50 percent discount on extended care.
+    * **5,000¥ per year for basic service, 25,000¥ for gold service, 50,000¥ for platinum service**
+
+* **Medkit:** The 2053 medkit is well-equipped to handle most typical medical emergencies. It includes drug supplies, bandages, tools, and even a doctor. Actually, it is an **expert system (Biotech 3)** designed to diagnose problems from information given by the user. The system will request more information if the diagnosis is unclear. Having determined a course of action, the kit will advise the user on techniques. The kit may be able to concoct a specific antidote to a toxin (Biotech Skill Test against the toxin's Virulence Level), thereby canceling the toxin's effects. Medkits are, of course, not infallible and a standard waiver of liability must be filed with the manufacturer on purchase of the item. Most models will advise of their inability to supply proper treatment as well as issuing reminders when their stocks of expendable materials are low. Supplies run out on a result of 1 on a 1D6 rolled following a treatment. **200¥, 50¥ for new drugs**
+* **Organic Replacements:** Vat-grown replacement tissues and organs are readily available. Most common are "**Type O**" products tailored for minimal rejection-reaction, although they require a program of tailored immuno-suppressant treatment to prevent a body's rejection of the transplant. The safest transplant material is grown from samples of the patient's own body. Regrettably, no replacements for brain or nervous tissue are yet available, and fully viable clones of a person exist only in the realm of fiction. See Healing, p. 112, for details.
+
+## SLAP PATCHES
+
+Slap patches are adhesive drug-dispensers that release measured doses to allow continual, safe administration of necessary chemicals. Patches must be applied directly against the patient's skin. Dermal armor hinders their effects (reduce the Patch Rating by the Armor Rating), and blood filtration implants make all but the trauma patch ineffective.
+
+* **Antidote Patch:** This releases a broad-spectrum toxin antidote to aid the patient in resisting the effects of a toxin. The **Patch Rating** adds to the subject's Body Attribute for Resistance Tests. Multiple patches give no additional effect. **50¥ times its rating**
+* **Stimulant Patch:** This releases a non-addictive stimulant to keep a character awake at those times when awareness is vital. When used, reduce the Stun Damage on the Condition Monitor by a number of blocks equal to the patch's rating. Magicians should be wary of side-effects that may damage their ability to use magic. The magician makes a Magic Test against a target number equal to the patch's rating. If the test fails, the magician must follow the procedure for possible Essence loss as if he had taken a Deadly wound. (See Healing, p. 112, for details.) The effects of the patch wear off in 2D6 minutes and the removed damage is restored, plus one box of damage. **25¥ times its rating**
+* **Tranq Patch:** This is designed to anesthetize patients in preparation for medical attention. Tranq patches are also used in some circles to sedate unruly prisoners. Both the patch and the patient must make a test. Each one uses its own Rating (Body Rating for the patient) as the number of dice to roll and the other's rating as the target number. If the patch generates more successes than the character, each net success fills in a block on the Stun damage track of the subject's Condition Monitor. **20¥ times its rating**
+* **Trauma Patch:** This is the last-ditch hope of a victim unable to receive medical care. The trauma patch must be placed over the victim's heart. It allows the character a second chance against death. See Healing, p. 112. **500¥**
+* **Stabilization Unit:** An enclosed capsule with carrying handles, this unit is designed to stabilize a critically wounded person until proper medical care can be applied. It is standard equipment on DocWagon™ vehicles and in use with all the better ambulance services. The unit extends the amount of time a character has to escape death. Each minute of time in the stabilization unit becomes a number of hours equal to the rating. **10,000¥ for the standard model, (Rating 2), 20,000¥ for the deluxe (Rating 6)**
+
+## MAGICAL EQUIPMENT
+
+See the Magic chapter, p. 116, for item descriptions.
+
+***
+
+# VEHICLES
+
+## GROUND
+
+Vehicles operate on varied forms of power. Economy models and those intended for use with a power grid usually use **high-capacity storage batteries** that can be recharged at stations, parking garages, or on a grid track. Some have solar cell auxiliaries, but these provide only limited power. Vehicles in use with the Native American tribes or in outlying areas sometimes rely on **alcohol fuels** easily derived from organic materials. Long-distance vehicles still use some **petroleum-derivative fuels**. Luxury vehicles usually use **petrochem**. Whatever the form of fuel, the vehicles still handle with similar efficiency, the main differences arising in the cost and availability of the fuel and in the capacity of the vehicle for sustained travel.
+
+Some ground vehicles have **limited self-guidance capability**. They can follow a programmed map and still react to conditions around them. The **autopilot** is very cautious, often stopping for no reason apparent to the passenger. Unexpected roadblocks confuse the system, prompting it to ask for instructions. The **Autopilot Rating** acts as the equivalent of the appropriate driving skill for the vehicle.
+
+Combat vehicles have **hardpoints** and **firmpoints** to contain weapon systems. Some also have weapons incorporated into their structure. Such weapons may not be changed to suit a mission, as can those on a hardpoint. **Hardpoints** accept any heavy weapon or special weapons designed for vehicles. They halve the recoil modifier for the weapon. **Firmpoints** accept any firearm smaller than a heavy weapon. They also provide 1 point of recoil compensation. Weapons must be purchased separately. Adaptation of a weapon for a vehicle mount doubles its cost.
+
+### Cars
+
+* **Mitsubishi Runabout:** A one-person, three-wheeler that runs on electric power, the Runabout is designed for commuters and short-distance errands. It is affectionately referred to as "the box," due to its blocky shape. **10,000¥**
+* **Chrysler-Nissan Jackrabbit:** This electric two-seater's low price and heavy advertising campaign have made it the most common car on North American highways. The back section may be used as a trunk or space to squeeze in another two passengers. **15,000¥**
+* **Ford Americar:** A mid-size sedan. **20,000¥**
+* **Eurocar Westwind 2000:** A sleek, low-slung speed machine. Side wheel-panel covers slide down in parking mode to lock and protect the tires. **100,000¥**
+* **Toyota Elite:** A full-size luxury car whose interior appointments beggar some penthouse apartments. It has a superior autopilot. **125,000¥**
+* **Mitsubishi Nightsky:** The limousine of the well-to-do, the Nightsky's interior style and features make the Elite look like a cheap Sri Lankan import. A full suite of anti-theft systems, armor, rigger controls, telecom with direct satellite link-up, and wet bar are standard features. The autopilot is superior. Concealed defensive weaponry is often retrofitted. **250,000¥**
+
+### Bikes
+
+* **Dodge Scoot:** An electric intra-city scooter. **2,000¥**
+* **Yamaha Rapier:** A fast street machine whose slick styling makes it a favorite with go-gangs. **10,000¥**
+* **Harley Scorpion:** A classic, heavy-bodied road hog. The Scorpion features folding aerodynamic panels that double as armor. Many consider it a combat bike. It can carry up to three firmpoints. **15,000¥ plus 1,000¥ per firmpoint**
+
+## HOVERCRAFT
+
+* **Chrysler-Nissan G12a:** This is a general-purpose hovercraft that sees duty in passenger and freight versions. The separate driver's compartment seats two, and the six-ton cargo flat may be fitted with a 30-passenger cabin. **50,000¥**
+
+## BOATS
+
+Watercraft feature the same power sources as ground vehicles, with a higher proportion using petrochem fuels. Large freighters are almost completely robot-controlled. The largest super-freighters and tankers have fusion plants.
+
+### Motorboats
+
+* **Samuvani-Criscraft Otter:** A popular mid-size craft fine for pleasure boating, the Otter also does light hauling and utility work. **20,000¥**
+* **Aztech Nightrunner:** This small, two-seat craft is equipped with auxiliary electric engines for silent running. Its composite hull and non-reflective paint, which reduce its heat signature, make it hard to detect. It can mount two firmpoints. **30,000¥**
+
+### Sailboats
+
+* **Sendanko Marlin:** Designed as a pleasure boat, this 15-foot craft has gained notoriety as the favored boat of the infamous smuggler Janos Smoot ever since the Channel 32 docudrama of the irascible criminal's life. **15,000¥**
+
+## AIRCRAFT
+
+Save for a few solar-powered pleasure and reconnaissance vehicles, aircraft are petrochem guzzlers. Designs are sophisticated, usually featuring **fly-by-wire controls** and **adjustable airframes**. Added to the availability of new composite materials, this has allowed the dreams of visionary designers of the 20th century to become everyday reality.
+
+Autopilot systems work in a similar fashion to those on ground vehicles, but they are almost always tied into the **Navstar position-location system**. Aircraft categories are based on the system that provides the major portion of their lift.
+
+### Winged Planes
+
+The minimum air speed of these craft is 50 meters per Combat Turn.
+
+* **Cessna C750:** A dual-prop craft serving as transport, the Cessna C750 can be configured to carry six passengers. The plane also sees service with border patrols and surveillance corporations. **200,000¥**
+* **Lear Platinum I:** This sleek flying limousine carries advanced materials and features. It is the airborne equivalent of the Mitsubishi Nightsky. **500,000¥**
+
+### Rotorcraft
+
+* **Federated Boeing Commuter:** A tilt-wing craft, the Commuter is designed for rapid transport to and from sites with limited landing area. It is primarily a passenger carrier. **625,000¥**
+* **Hughes WK-2 Stallion:** The workhorse helicopter of the mid-21^{st} century, this venerable design has seen a number of modifications. It features a two-seat tandem cockpit and a cabin that seats ten people. Armed (two hardpoints, two firmpoints) military variants are common in much of the world. **300,000¥**
+* **Ares Dragon:** This large, double-rotor helicopter has a variety of military and civilian applications, from passenger transport (it can carry 24 battle-armed troops) through cargo and heavy-lifting duty to serving as a command post. It can mount two hardpoints. **600,000¥**
+* **Hughes Airstar:** This luxury helicopter was designed for speed and agility. The standard corporate model carries armor and luxurious appointments. There are many reports of variants with concealed weapons. **900,000¥**
+
+## MILITARY AND RESTRICTED-ISSUE VEHICLES
+
+* **EFA Variants:** Designed as the European Economic Community's general fighter, this craft has been pirated worldwide, proving to be an extremely durable design primarily because of its ease of maintenance and adaptability to improved electronics and weapon systems. Many corporations maintain a squadron for escorting VIP jets. It carries an assault cannon in its nose and four hardpoints. **5,000,000¥**
+	* **Thunderbirds:** This is slang for a category of low-altitude vehicles (LAV) in service with militaries and corporations worldwide. These vehicles are heavily armed and armored and capable of extended operations in hostile environments.
+    * **GMC Banshee:** This light t-bird is designed for reconnaissance and courier duty. It carries two assault cannons, two heavy machine guns, an autocannon in its turret, four hardpoints, and two surveillance/decoy drones.
+* **Security Vehicles:** This classification includes a variety of urban combat vehicles ranging from police squad cars to anti-terrorist assault vehicles. All are well-armored and capable of traversing typical city rubble.
+    * **Ares Citymaster:** An urban riot-control vehicle, the Citymaster carries and serves as a command post for ten riot cops. A roof turret mounts a water cannon and a coaxial light machine gun. The machine gun usually uses gel rounds. **500,000¥**
+    * **Chrysler-Nissan Patrol-1:** A ubiquitous urban patrol car, the Chrysler-Nissan's armored body features lock-down wheel protection and slide-up window armor with firing ports. In tight situations, the crew may release nausea gas from ports located around the exterior. **100,000¥**
+    * **GMC Beachcraft Patroller:** A swift, lightly armed patrol craft, the Patroller sees service with coast guards and security corps worldwide. It has two hardpoints. **750,000¥**
+    * **GMC Riverine:** A popular commercial patrol boat, the Riverine relies on water jets rather than propellers, making it an excellent shallow-water craft with superb maneuverability. It has four hardpoints. **75,000¥**
+	* **Northrup PRC-42 Wasp:** This single-man rotorcraft was designed for police and military service. The craft is very stealthy in that the pilot can cut power to the rotors some distance away and descend safely on autorotation effect alone. Combat support variants are beginning to appear. Nicknamed **Yellowjackets**, they carry one or two hardpoints. **220,000¥ for standard model, 280,000¥ for Yellowjacket**
+	* **VECTORED THRUST:** These craft are too fuel-inefficient to be practical for any user but the military and high-threat corporate operations.
+    * **Federated Boeing Eagle:** A vectored-thrust aircraft designed for air superiority, it has entered limited commercial service. It has two assault cannon in its nose and six hardpoints. **Restricted**
+
+## DRONES
+
+Many remotely piloted vehicles are available in surveillance, spotter, and weapons-carrier modes. Though operable by any trained user, these vehicles function most efficiently when controlled by a **rigger**, to whom the feedback is as innate as his sense of balance. Remotes have **autopilots** and may function independently for short periods, but only at risk to the vehicles, as the autopilots can rarely cope with novel occurrences. Drones and remotes do not automatically come with rigger or remote gear installed.
+
+* **Surveillance Drone:** This rotor aircraft carries thermographic and low-light video scanners. It can be equipped for direct data transmission, or it can store images for later recovery. **10,000¥**
+* **Spotter Drone:** This winged, stealth aircraft carries equipment similar to that of the surveillance drone. The spotter is designed for longer missions with increased loiter times. Recovery is more difficult, though, because the craft needs a runway or a catch net to avoid a crash on return. **15,000¥**
+* **Hunter:** This is a designation for armed versions of surveillance or spotter drones. They carry two firmpoints. **20,000¥**
+* **Patrol Vehicle:** This tracked ground vehicle performs perimeter patrol and defense. These remotes carry one firmpoint, one hardpoint, and armor. The sensor equipment usually consists of only thermographic receptors. **10,000¥**
+
+## VEHICLE WEAPONS
+
+* **Autocannon:** This is a light cannon with autoloader. Single-shot firing only. **12,000¥**
+* **Launcher:** This small launcher uses the same missiles as a shoulder-fired launcher. **15,000¥**
+* **Water Cannon:** A high-pressure projector, it always fires on "autofire" (10 shots an action) and suffers no recoil penalty. The Damage Code is on human scale, but any hit requires the target to make a Strength Test (Target Number 5) or be knocked over. If the weapon's pump is connected to a water source, it does not need to "reload." **20,000¥**
+
+## RIGGER GEAR
+
+* **Remote Adaptation:** Any vehicle can be adapted for remote control. The cost for this is equal to **2,500¥ times the Body of the vehicle.**
+* **Vehicle Adaptation:** Any vehicle can be adapted for rigger control. The cost is **2,800¥, plus rigging the vehicle for remote control.**
+* **Remote Control Deck:** This portable control deck allows the remote control of a vehicle through a radio link. This control link is subject to disruption by jammers and atmospheric conditions. The deck has a video screen to display the output from a vehicle-mounted camera. It also has a keyboard and a set of switches, dials, and joysticks to manipulate the vehicle's function. Each slave port allows the control of one drone or remote vehicle. Variant decks allow the control of building systems and other devices. Such systems are often hardwired, rather than broadcast.

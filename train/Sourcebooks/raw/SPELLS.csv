@@ -1,0 +1,110 @@
+Book-Page,Name,Drain,Type,Duration,Class
+SR2-???,Death Touch,[(F/2)-1]S,M,I,C
+SR2-???,Fire Bolt,[(F/2)+1]D,P,I,C
+SR2-???,Fire Cloud,[(F/2)+1]D,P,I,C
+SR2-???,Fire Dart,[(F/2)+1]M,P,I,C
+SR2-???,Fire Missle,[(F/2)+1]S,P,I,C
+SR2-???,Fireball,[(F/2)+3]D,P,I,C
+SR2-???,Flame Arrows,[(F/2)+1]D,P,I,C
+SR2-???,Force Drain,(F/2)S,M,I,C
+SR2-???,Hellblast,[(F/2)+6]D,P,I,C
+SR2-???,Inferno,[(F/2)-1]D,P,I,C
+SR2-???,Mana Bolt,(F/2)S,M,I,C
+SR2-???,Mana Cloud,(F/2)S,M,I,C
+SR2-???,Mana Dart,(F/2)L,M,I,C
+SR2-???,Mana Missile,(F/2)M,M,I,C
+SR2-???,Manaball,(F/2)S,P,I,C
+SR2-???,Manablast,(F/2)D,M,I,C
+SR2-???,Power Bolt,[(F/2)+1]S,P,I,C
+SR2-???,Power Dart,[(F/2)+1]L,P,I,C
+SR2-???,Power Missile,[(F/2)+1]M,P,I,C
+SR2-???,Powerball,[(F/2)+1]S,P,I,C
+SR2-???,Powerblast,[(F/2)+1]D,P,I,C
+SR2-???,Ram,[(F/2)+1]S,P,I,C
+SR2-???,Ram Touch,[(F/2)-1]M,P,I,C
+SR2-???,Redirect,[special],P,I,C
+SR2-???,Rot,[(F/2)+1]M,P,I,C
+SR2-???,Shattershield,(F/2)S,M,I,C
+SR2-???,Slay (Race/species),[(F/2)-1]S,M,I,C
+SR2-???,Sleep,[(F/2)-1]S,M,I,C
+SR2-???,Spirit Bolt,[(F/2)-1]S,M,I,C
+SR2-???,Sterilize,[(F/2)+1]D,P,I,C
+SR2-???,Stun Bolt,[(F/2)-1]D,M,I,C
+SR2-???,Stun Cloud,[(F/2)-1]S,M,I,C
+SR2-???,Stun Missile,[(F/2)-1]M,M,I,C
+SR2-???,Stun Touch,[(F/2)-2]M,M,I,C
+SR2-???,Stunball,[(F/2)-1]D,M,I,C
+SR2-???,Stunblast,[(F/2)+1]D,M,I,C
+SR2-???,Tire Wrecker,[(F/2)+1]M,P,I,C
+SR2-???,Urban Renewal,(F/2)D,P,I,C
+SR2-???,Wrecker,(F/2)S,P,I,C
+SR2-???,Analyze Device,[(F/2)+1]M,P,S,D
+SR2-???,Analyze Magic,(F/2)M,M,S,D
+SR2-???,Analyze Truth,(F/2)S,M,S,D
+SR2-???,Animal Spy,(F/2)L,M,S,D
+SR2-???,Astral Perception,(F/2)S,M,S,D
+SR2-???,Astral Sense,(F/2)M,M,S,D
+SR2-???,Catalogue,[(F/2)-1]L,P,I,D
+SR2-???,Clairaudience,(F/2)M,M,S,D
+SR2-???,Clairaudience (Extended),[(F/2)-1]S,M,S,D
+SR2-???,Clair Spell,[(F/2)+2]M,M,S,D
+SR2-???,Clair Spell (Extended),[(F/2)+1]S,M,S,D
+SR2-???,Clairvoyance,(F/2)M,M,S,D
+SR2-???,Clairvoyance (Extended),[(F/2)-1]S,M,S,D
+SR2-???,Combat Sense,[(F/2)+1]S,P,S,D
+SR2-???,Detect Credstick Protection,(F/2)D,M,S,D
+SR2-???,Detect Damage Level,[(F/2)-1]S,P,I,D
+SR2-???,Detect Enemies,[(F/2)+1]M,M,S,D
+SR2-???,Detect Enemies (Extended),(F/2)S,M,S,D
+SR2-???,Detect Individual,(F/2)L,M,S,D
+SR2-???,Detect Life,(F/2)L,M,S,D
+SR2-???,Detect (Life Form),[(F/2)-1]L,M,S,D
+SR2-???,Detect Magic,(F/2)L,M,S,D
+SR2-???,Detect Magical Sites (Ext),[(F/2)-1]M,M,S,D
+SR2-???,Detect (Object),[(F/2)+1]M,P,S,D
+SR2-???,Detect Sentients,[(F/2)-1]M,M,S,D
+SR2-???,Detect Traps,[(F/2)-1]M,P,I,D
+SR2-???,Detect Traps (Extended),[(F/2)-2]S,P,I,D
+SR2-???,Detect Wound Level,(F/2)M,M,I,D
+SR2-???,Diagnose,[(F/2)-1]M,M,I,D
+SR2-???,Enhance Aim,(F/2)S,M,S,D
+SR2-???,Enhanced (Sense),[(F/2)+2]M,P,S,D
+SR2-???,Enhanced Sight,[(F/2)+4]D,P,S,D
+SR2-???,Foresight,(F/2)D,M,S,D
+SR2-???,Foretelling,(F/2)D,M,I,D
+SR2-???,Know Exit,[(F/2)+3]S,P,S,D
+SR2-???,Low-Light Vision,(F/2)L,P,S,D
+SR2-???,Memory Probe,[(F/2)+3]D,P,S,D
+SR2-???,Mindlink (Individual),[(F/2)+2]M,M,S,D
+SR2-???,Mind Probe,[(F/2)+2]D,M,S,D
+SR2-???,Night Vision,(F/2)L,P,S,D
+SR2-???,Personal Combat Sense,[(F/2)+1]M,P,S,D
+SR2-???,Sound Selection,(F/2)L,M,S,D
+SR2-???,Telepathic Chat,[(F/2)-2]S,M,S,D
+SR2-???,Thermographic Vision,(F/2)L,P,S,D
+SR2-???,Translate,[(F/2)+1]L,M,S,D
+SR2-???,Truth Glow,[(F/2)+2]S,M,S,D
+SR2-???,X-Ray Vision,[(F/2)+2]S,P,S,D
+SR2-???,Air Breathing,[(F/2)+2]L,P,S,H
+SR2-???,Allergy,[(F/2)+2]S,P,S,H
+SR2-???,Alleviate Nuissance Allergy,(F/2)L,P,S,H
+SR2-???,Alleviate Mild Allergy,(F/2)M,P,S,H
+SR2-???,Alleviate Moderate Allergy,(F/2)S,P,S,H
+SR2-???,Alleviate Severe Allergy,(F/2)D,P,S,H
+SR2-???,Antidote L Toxin,(F/2)L,P,P,H
+SR2-???,Antidote M Toxin,(F/2)M,P,P,H
+SR2-???,Antidote S Toxin,(F/2)S,P,P,H
+SR2-???,Antidote D Toxin,(F/2)D,P,P,H
+SR2-???,Awaken,[(F/2)-1]L,M,I,H
+SR2-???,Blindness,[(F/2)+1]D,M,S,H
+SR2-???,Buzz,(F/2)S,P,P,H
+SR2-???,Cause Nuissance Allergy,[(F/2)+1]L,M,S,H
+SR2-???,Cause Mild Allergy,[(F/2)+1]M,M,S,H
+SR2-???,Cause Moderate Allergy,[(F/2)+1]S,M,S,H
+SR2-???,Cause Severe Allergy,[(F/2)+1]D,M,S,H
+SR2-???,Cripple Limb,(F/2)S,M,S,H
+SR2-???,Cure L Disease,(F/2)L,P,P,H
+SR2-???,Cure M Disease,(F/2)M,P,P,H
+SR2-???,Cure S Disease,(F/2)S,P,P,H
+SR2-???,Cure D Disease,(F/2)D,P,P,H
+SR2-???,Decrease -1 Attribute,

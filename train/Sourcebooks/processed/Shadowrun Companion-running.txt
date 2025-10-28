@@ -1,0 +1,521 @@
+### AFTERMATH
+
+Once the characters achieve the adventure goal or give up trying, it's time to wrap up the adventure. Consider a variety of endings for the adventure. Try not to fall in love with one particular ending or climatic scene. The decisions of your player characters are likely to change your plot early in the adventure, and an ending that doesn't flow naturally from earlier events will seem contrived. Simply keep the scene in mind in case an opportunity to use it arises in another adventure. The consequences, or aftermath, of different endings may also affect which ending you choose to present. Events that happen in one adventure can be used in future games to provide continuity and richness to your campaign. Jotting down answers to the following questions is an excellent way to determine likely directions for the aftermath of an adventure:
+
+- Did the players leave any loose ends hanging? If so, would any of them be fun to pursue in later adventures?
+    
+- Did the runner's actions hurt or anger any NPCs, corporations, or other groups (specifically, anyone who might want revenge)?
+    
+- Which NPCs and player characters were the major "actors" in the story? Which ones acted memorably?
+    
+- Did the runners' actions attract any media attention? If so, would this attention mark the runners as targets?
+    
+- Did the runners create any Enemies for themselves?
+    
+- Did other parties notice the runners' actions?
+    
+- Did the runners leave evidence behind? If so, how much? (Runners may be SINless, but if corporate security forces and cops repeatedly find the same unidentified fingerprints and lots of shell casings at specific break-ins, they're going to start a file on the people who left those prints and casings.)
+    
+- What's the real identity of the Johnson? Have the runners worked for him or her before? If so, are the two runs connected somehow? Why is the Johnson interested in the runners? Is there anyone who might pay for a run against this Johnson?
+    
+- Is it time to let a player character achieve the personal goal that she's always dreamed of—and will it happen in the way she expected?
+    
+
+### PAYMENT AND REWARD
+
+The end of a successful run means it's time to count the nuyen. How much money is an appropriate fee for a team of runners? The gamemaster ultimately decides, based on the risk of the run, the employer's ability and willingness to pay and the runners reputations, but the following guidelines may help set appropriate fees. First, keep in mind that player characters will average about one shadowrun per month. A good starting point for an individual runner's payment is one month's living expenses, plus the cost of gear needed for the run. If the player characters on the team have different lifestyles, use an average of the characters lifestyle costs to determine their living expenses. An occasional big windfall serves as a great campaign tease. Windfalls make excellent pay-offs after hard-fought campaigns or excellent stepping stones for new campaigns. Keep windfalls rare—they should reflect the difficulty of the campaign that's just finished or the difficulties likely to afflict the upcoming campaign. As a rule of thumb, a windfall should equal roughly 6 months of the character's lifestyle cost. Windfalls always come from unexpected sources.
+
+Runner fees and windfalls need not be briefcases filled with credisticks. In fact, alternate payment methods are a great way to enable player characters to survive and continue to perform runs without accumulating fortunes. Instead of nuyen, payment may take the form of valuable data, individuals, equipment, paid expenses, time in a magic-research facility or special Matrix access. SIN numbers also make good alternate payment, as do Doc Wagon contracts and cyberware implants. For more ideas, look in the Equipment Tables at the end of the **Shadowrun** rulebook or other **Shadowrun** books. These sections contain numerous items that most characters can't afford but would willingly accept from a grateful Johnson.
+
+Double all base fees and windfalls if you're running an amoral campaign in which the player characters are more concerned with making money than doing the right or honorable thing (see Karma and the Amoral Campaign, p. 78). Adjust fees and windfalls to match the needs of your game.
+
+---
+
+### ARCHETYPAL ADVENTURE PLOTS
+
+Experienced **Shadowrun** players may find their characters caught up in certain "classic" adventure plots again and again, each time struggling against a different variation on a theme. This section describes several of these archetypal adventure plots and provides ideas for using them as models for your own unique adventures. Remember that variety is the spice of life—and of **Shadowrun** adventures. Every new plot or twist on a familiar story creates fond memories and keeps players coming back to the table. Keep your players' interest by mixing things up. Change the specifics, or "variables," of an adventure to keep the mood, tone and focus of adventures fresh. Sure, a dragon or powerful elf that's pulling the strings during an adventure is fine—once. Maybe even twice, but your players are going to get bored if they continually see the same old face.
+
+- **ASSASSINATION**
+    
+    - The employer wants someone dead.
+        
+    - **Variables** include:
+        
+        - Level and types of security around the target (magic, Matrix and physical security measures).
+            
+        - The events triggered by the target's death.
+            
+        - The conditions for the assassination. Trying to make someone's death look like an accident or a specific type of accident (run over with a garbage truck, heart attack, electrocuted by a power line, random violence) is a lot tougher than simply blowing the target away.
+            
+- **BLACKMAIL**
+    
+    - The employer wants evidence that the target is doing something wrong. Not only that, he wants the runners to let the target know that someone's on to him and to collect hush money from the target. Generally, blackmail jobs require long-term employment and extra levels of secrecy on the part of the runners.
+        
+- **BODYGUARD**
+    
+    - The player characters are hired to keep a subject alive or undamaged.
+        
+    - **Variables** include:
+        
+        - The subject's lifestyle and health.
+            
+        - The resources, intentions, knowledge and expertise of his would-be killers.
+            
+- **COURIER/SMUGGLING**
+    
+    - The team must pick up a message or transport cargo from one location to another.
+        
+    - **Variables** include:
+        
+        - The point of origin and destination—Redmond, Tir Tairngire, a remote spot in the desert, a crippled submarine, Maria Mercurial's penthouse, a restricted military base and so on.
+            
+        - The number of borders that must be crossed.
+            
+        - The mode of transport—foot, train, car, boat, panzer, ultra-light and so on.
+            
+        - The nature of the cargo—a person, chip, suitcase, 500 underfed security dogs, communications suite, nuclear bomb, magical focus, red rose and so on.
+            
+        - The legality of the cargo.
+            
+- **DATASTEAL**
+    
+    - The shadowrunners have to snatch data from a highly secured location.
+        
+    - **Variables** include:
+        
+        - The target location—for example, CIA headquarters, a remote experimental lab in the Amazonian rain forest, the Zurich-Orbital bank, a flophouse in downtown Seattle.
+            
+        - The form of the target data—for example, computer data hooked up to the Matrix, off-line computer data, hard copy, ideas in someone's head.
+            
+        - The nature of the target data—for example, research plans, names and locations of undercover cops, Things Man Was Not Meant to Know, kiss-and-tell info on the president.
+            
+        - What happens if the runners scan the data—for example, they discover their employer is betraying them, an ancient curse boils their brains, Mr. Johnson sends goons to silence them, they find out they should give it to someone worthier, they find out the identity of their father.
+            
+- **DISTRACTION**
+    
+    - A duplicitous Johnson hires the runners to perform a mission. Unknown to them, they are really serving to distract attention from some other nefarious activity.
+        
+    - **Variables** include:
+        
+        - Who the runners are impersonating—shadowrunners, uniformed Lone Star cops, eco-terrorists, Johnny Whocker and the Guitar Trogs and so on.
+            
+        - The goal of their mission—break into an embassy, beat protesters senseless on camera, attract media attention by blowing up an oil refinery, play a concert and attract an assassin's bullet and so on.
+            
+        - The real story—another shadowrun across town, interrupting the first five minutes of a TV sitcom to prove a point, giving the Mr. Johnson time to escape, Johnny wants out of the music business and so on.
+            
+        - Whether or not the characters know they are only a distraction for a larger plot.
+            
+- **DESTRUCTION**
+    
+    - The employer hires the team to erase, wipe out, or otherwise destroy a target.
+        
+    - **Variables** include:
+        
+        - The target itself—for example, a datafile, North Sea oil rig, ritual sample, biohazard, "indestructible" magical focus, graveyard, a centimeter of a summoning circle.
+            
+        - How many targets exist—for example, ten copies, two linked rigs with a narrow bridge, seventeen hairs.
+            
+        - Whether or not the job endangers innocent bystanders.
+            
+- **ENCRYPTION/DECRYPTION**
+    
+    - The employer wants something decoded or secured. The job can serve as a quick shadowrun in itself, be tacked onto another shadowrun, or serve as a complication.
+        
+- **ENFORCEMENT**
+    
+    - The runners are hired to "send a message" to someone.
+        
+    - **Variables** include:
+        
+        - How the message is delivered—for example, a stern warning, nailing a dead cat to the target's door, planting a bomb in the target's refrigerator, tattooing the message on the foreheads of the target's kids.
+            
+        - How publicly the message is delivered—switching the simsense chips on the target's bedside table, kicking down the target's front door, broadcasting a ten-minute death threat over every major network and so on.
+            
+        - The size and power of the target—for example, a single person, family, a group of protesters, rowdy folks at a bar, Ares Macrotechnology.
+            
+- **HOAX/COUNTERFEIT**
+    
+    - The runners must use their creative talents and connections to stage a hoax or create a counterfeit item. Examples include faking a death, creating a false charity or bank that will attract deposits from a target, falsifying records or "framing" someone for a crime.
+        
+- **INVESTIGATION**
+    
+    - The runners are hired to gather information on an event or person.
+        
+    - **Variables** include:
+        
+        - The nature of the information. "Low-stakes" information includes evidence for messy divorce cases, missing persons, who was present when a robbery took place and so on. "High-stakes" information includes photo reconnaissance for a military strike, political secrets, enough evidence for the police to bust a drug ring.
+            
+        - The means of gathering the information—for example, interviewing witnesses, Infiltrating a weapons-smuggling ring, matrix searches, "test-driving" an experimental combat vehicle or weapon system.
+            
+- **EXTRACTION (KIDNAPPING)**
+    
+    - The employer wants someone bodily picked up and taken somewhere. This is usually known as an "extraction," because the target can be willing or unwilling.
+        
+    - **Variables** include:
+        
+        - The target—for example, a dangerous parole violator, simsense starlet, researcher who wants to defect from his corporation, ornery elephants.
+            
+        - How long the target must be held—1 day, 3 months and so on.
+            
+        - How the target should be treated—like a queen, don't break more than two bones and so on.
+            
+        - The size of the target—for example, one individual, a group of six people, all the passengers on an airplane.
+            
+        - Additional Instructions—keep the target captive on his private cruise liner, deliver him to another team, brainwash her, execute him, write the ransom note, escort the target to the personnel department at Corporation X and so on.
+            
+- **PLANT**
+    
+    - The runners are hired to plant an object somewhere. Objects might include electronic listening devices (bugs), remotely controlled or timed bombs, microfilm or datafiles for later pick-up, and restricted milspec weapons.
+        
+- **RETRIEVAL OF OBJECT**
+    
+    - This is the classic "go get the secret prototype" mission. Gamemasters can vary it by substituting different items for the prototype—a powerful focus or magical weapon, a symbolically significant item such as the Holy Grail or the sword of the employer's grandfather, and so on. Other variables include the security around the object and other people intent on "retrieving" it for themselves.
+        
+- **SECURITY**
+    
+    - The employer needs someone to provide security.
+        
+    - **Variables** include:
+        
+        - Item/subject to be protected—for example, a ritual magic circle, vacuum-sealed vampire, entire rock concert, your fixer during a BTL deal, a corporate facility, a storehouse of food.
+            
+        - Whether or not the runners know the true nature of the item or the real identity of the subject.
+            
+        - Type of security to be provided—physical, magical, Matrix, any combination of those and so on.
+            
+        - Restrictions on the level of force the runners can use. Remember, drunk bar patrons sue, black-ops teams don't.
+            
+        - The threat from which the team is protecting the item/person—for example, petty criminals, other shadowrunners, heavily armed mercenaries, corporate hit teams.
+            
+- **TAILCHASER**
+    
+    - This adventure plot creates a specialized sort of double-cross. The employer has two or more goals that the runners may fulfill either by succeeding in their task, failing in their task, being captured by the opposition, dying in the attempt or participating in any number of other outcomes. Whatever the runners accomplish or fail to accomplish provides the employer with a certain amount of desired information, and he, she or it walks away from the run satisfied with the results. The primary effect of this type of run is to demoralize the player characters—no matter how well or how poorly they perform their task, the employer is equally pleased with the outcome, forcing the characters to accept that their actions just didn't matter. This type of adventure can be particularly devastating if the team loses a member or two in the course of the run.
+        
+- **WAR**
+    
+    - The employer wants a lot of people hurt, Intimidated, ruined or killed so they can no longer harm his interests or hinder his plans. The runners may start slowly and gradually escalate their tactics or simply begin with a full-scale conflict.
+        
+- **WILD THINGS**
+    
+    - The runners are hired to observe, track, capture and tame, or hunt and kill a particular critter or critters.
+        
+    - **Variables** include:
+        
+        - The target critter(s) Itself—for example, wolf pack, troglodyte, nomad, wraith, dragon.
+            
+        - The innate intelligence of the target critter.
+            
+        - The critter's natural habitat.
+            
+
+---
+
+### CAMPAIGN CONSIDERATIONS
+
+A campaign is a linked series of adventures that form a larger overall story, like individual episodes of a television show or the chapters of a novel. Characters develop and change over the course of a campaign, just as they do in other stories. A campaign also allows a gaming group to tell many different stories with the same set of characters. A successful campaign, like a successful adventure, requires some planning. This section describes the various considerations a gamemaster should take into account while planning a campaign and includes suggestions for creating fun and interesting story lines.
+
+### PLAYER CHARACTERS
+
+The player characters themselves are probably the most Important consideration of creating a campaign, because the player characters' interests and abilities will determine the most satisfying type of campaign for the group to play. For example, if all the players want to play magician characters, the gamemaster should create a campaign specially tailored to provide plenty of opportunities for them to use magic. If the players want to run a team of cyber-solider mercenaries, the gamemaster can go for an over-the-top action-oriented campaign. Gamemasters may even wish to use one of the specialized alternate campaign types provided in Alternate Campaign Concepts (pp. 110-30) to create a challenging campaign tailored to their players. In addition to selecting an appropriate campaign type for the player group, the gamemaster should try to devise a campaign that provides each individual player character with opportunities to use his or her unique abilities and "grab the spotlight".
+
+#### Creating the Team's Characters
+
+Players have two options when creating a team. They may develop their characters as a group, or each player may develop his or her character without any input from the other players. Designing characters as a group helps ensure that they will fit well together as a team. Players can provide their characters with common Enemies, give them previous adventures together or connect them to each other with ties of friendship or blood. By working together, players can ensure that their characters represent a variety of different specialties and abilities, enhancing the versatility of the group as a whole and reducing the number of characters possessing similar skills and abilities. Designing characters as a group also enables the gamemaster to tailor his adventures and campaigns to the skills of the characters more easily and provide enough situations for all of the characters to get in on the action. Creating characters as a group, however, also takes away the element of surprise that adds to the fun of discovering things about your teammates. By designing their characters without input from the rest of the group, players can give their characters background, contacts, Edges and Flaws and abilities that they keep secret from their teammates. Such secrets can serve as jumping-off points for unexpected events and opportunities for roleplaying. The drawback to individual character generation is that it may produce ill-matched or unevenly balanced teams. When team members have little in common, simply getting along with one another can become an adventure in itself for the player characters.
+
+#### Assembling the Team
+
+The gamemaster can assemble the individual player characters into a team in a variety of ways. Providing the player characters with a common contact (fixer, Mr. Johnson, Mob boss and so on) is probably the easiest way. In this case, the contact has a job that requires the specific skills of each character. Giving the team members a common purpose may produce the most cohesive group. The common interest may be as simple as staying alive and making a fast nuyen on the mean streets of the Sixth World or something more involved. Generally, the more invested each character is in the common purpose, the more likely the runners are to work together, though that doesn't mean that the characters have to like one another. The **Shadowrun** universe contains plenty of individuals who don't like each other but are willing to put aside their mutual dislike to achieve a common goal. Defending against a common Enemy or opponent offers one example of a common purpose. In this example, if time allows, the gamemaster can even run a few preliminary mini-adventures with one or two player characters at a time to introduce or foreshadow the Enemy's interest in each character.
+
+#### Fostering Team Spirit
+
+Assembling a team is only one of the challenges facing a gamemaster and his or her players. Keeping a team together can prove even more difficult. Both players and gamemasters share a responsibility to tolerate one another and find ways for their characters to work together as teams, but gamemasters have the greatest stake in keeping things together—simply because gamemasters spend so much time preparing adventures and campaigns. Assembling a group of players who get along in real life is a simple way to increase the chances that the player's characters will get along in the fictional universe. However, the power to roll dice and tell someone you've killed their character can produce tensions between even the best friends. Gamemasters can promote "team spirit" among characters by emphasizing the characters' non-business relationships. Characters that hang out and relax with one another are more likely to work out their disagreements peacefully than characters who are mere business acquaintances. This is because roleplaying non-business time gives characters chances to learn about one another. For example, the appearance of a new troll teammate who went berserk and killed every single person in the Aztechnology building might prompt characters to call the cyber-psycho squad. However, those same characters might have a different view of their new teammate when they learn that Azzie goons killed the troll's sister first—and in a particularly unpleasant fashion. Isolating a team of characters from the rest of the world can also help foster team spirit. Isolating a team forces the members to depend on and trust one another. For example, if you dump a Seattle-based team in the middle of the Mojave Desert or drop a team of human runners into the Ork Underground, they will need to rely on each other simply because they won't be able to trust anyone else. Even the simple act of putting street runners into unfamiliar corporate territory can encourage them to work together. A common Enemy or opponent—an individual, group or entity that the characters can defeat only by banding together—may also force characters to work together and foster team spirit. Running a game session only when all the players are present may also promote team spirit. If characters are always hired as a unit, they are likely to feel like a team. Conversely, If new characters are constantly coming and going, the player characters may view themselves more as individuals than as a team. Finally, listen to your players and try to give them what they want. Players who are happy with the game and their characters are more tolerant of their fellow players' idiosyncrasies and mistakes than players who are unhappy with a game. Similarly, everyone enjoys a chance to play the hero every now and then, so give each player character opportunities to do so. This will reduce jealousy and rivalries among player characters and make player characters more supportive of one another.
+
+#### Team Tensions
+
+While playing together as a cohesive, trusting team offers many advantages, occasional tensions and suspicions among teammates can provide great roleplaying opportunities. Team tensions can inspire impassioned arguments and conversations among characters and memorable nights of roleplaying for players. For the sake of enjoyable gaming, however, it's probably best to develop players' team spirit and group cohesion before introducing team tensions. A group consisting of five ork street sams and a Humanis decker is likely to lead to a quick fight and a dead character. But characters who learn that the new teammate who saved their lives last night is a former terrorist may be willing to get along despite deeply felt, contrasting beliefs. Keep in mind that some issues are more volatile than others. Characters who might forgive a new teammate's questionable past may not be willing to accept a racist character or one who acts specifically against them.
+
+### THEMES
+
+The overall themes of a campaign may determine the direction and tone of the campaign as well as specific adventure plots. For example, adventures for a campaign based on themes of revenge will be quite different than adventures for a campaign based on themes of greed. Other themes include heroism, redemption, fighting the good fight, and simply making as much money as possible without getting caught, improving the living conditions of a neighborhood, protecting children, wiping out prejudice, wiping out another race, saving or destroying the earth and so on. Certain themes may also provide common purposes for groups of player characters. For example, characters in a revenge-themed campaign may want to settle a score with a common enemy. Characters in a redemption-themed campaign might join together to perform a mission to redeem themselves or others.
+
+### MORALITY
+
+Players and gamemasters should also consider the moral tone of their campaigns. Are the player characters heartless mercenarles who would do anything for nuyen, or are they knights in shining chrome and leather? Most characters fall somewhere in between, but gamemasters and their players may still want to establish some campaign ground rules beforehand. These types of ground rules will let players know what is expected of their characters and prevent unpleasant surprises later in the game. Some groups prefer principled characters who avoid unnecessary violence and killing. Other groups prefer plenty of combat and have no problem with geeking any opponents who come along, as long as the money is right. The **Shadowrun** universe has room for both types of players and everyone in between. Each player group must decide for itself what kind of team it wants to play.
+
+### SCOPE
+
+In a roleplaying adventure, the player characters are always at the center of the story. The scope of a campaign is simply how far out from that center the characters' story extends. How much impact will the characters' actions have on the rest of the world? Are they just cogs in the big machine of the metroplex, unable to really change the way things are, or are they visionaries with the power and influence to shape the fate of nations? The scope of the campaign can determine its stability and direction, as well as how it will change and grow over time.
+
+Campaigns with limited scopes are usually best for beginners, because attempting to comprehend and react to all of the events of the **Shadowrun** universe can be quite daunting. A small scale also allows the gamemaster to control the campaign more easily, though it limits the players' options a bit as well. More experienced players may find small-scale campaigns too confining, while others find them very comfortable. The players of an individual group should decide if they prefer to move on to larger-scale adventures. Players should also consider their relative skill, ability and power levels when selecting the scope of their campaign. Characters who aren't capable of tackling world-class threats may want to stick to small-scale campaigns lest they find themselves hopelessly outclassed. On the other hand, a global-scale campaign may present the ideal challenge for experienced runners who want to topple or protect governments, megacorps or other powerful and influential figures—and are ready to take on very powerful opponents.
+
+### LOCATION, LOCATION, LOCATION
+
+The Sixth World offers a broad range of adventure settings, from urban sprawls to Awakened wilderness areas. Gamemasters should consider the settings that will be used in a campaign while planning the campaign, because the choice of settings can have a great impact on the story. Gamemasters should ask themselves questions such as: Will a campaign's adventures take place in a specific metroplex or nation? Which locales will the characters frequent? Which corporations have the most influence in those places? What is the local shadow-community like? What are the local laws?
+
+When planning campaign settings, gamemasters should avoid the common temptation to send their players bouncing all over the globe during a single campaign (unless, of course, the players' group is a jet-setting, globe-hopping team of high-priced runners). In many cases, players in globe-hopping campaigns start feeling that nothing in the campaign is permanent or important.
+
+### THE FIRST RUN
+
+The first run of any campaign is very important, because it sets the tone of the campaign to follow and establishes the overall themes and premises of the campaign. Like the first line in a short story or the first scene in a movie, the first run of a campaign must grab the players' attention or they may soon lose interest in the game. Additionally, it should "hook" the player characters without overwhelming them; it should provide the basis for spinoff adventures and encourage the players to continue pursuing a campaign. It should provide time for the different characters to develop without becoming overly long or boring. It should reveal enough to keep the players involved without giving away too many mysteries. Perhaps the best way to ensure that a first run does all these things is to Incorporate into the first adventure the various elements discussed in this section—opportunities for each player character to shine, an exciting and climactic plot, an external threat that brings the players together as a team, and so on.
+
+### CHARACTER ADVANCEMENT
+
+Gamemasters can control the speed of character advancement in their campaigns by adjusting the size of Karma awards for adventures, providing opportunities for the characters to use their accumulated Karma, controlling payment for runs and adjusting the runners' expenses as necessary. Larger Karma awards enable player characters to advance and gain power quickly, while smaller Karma awards slow character advancement. Similarly, higher fees for runs will generally enable players to buy more equipment, though gamemasters can exert control over player characters' wealth by raising or lowering their expenses. For more information on handling Karma and character advancement, see the Advanced Rules section, p. 76.
+
+### KEEPING IT FRESH
+
+Over time, any extended campaign may become a bit stale. However, inventive gamemasters and creative players can take several steps to revitalize campaigns and keep them fresh and interesting. Simply taking a break from the campaign and setting it aside for a time may be enough to rejuvenate a campaign. A break gives the gamemaster's and the players' creative "batteries" time to recharge and may inspire renewed interest when the gamemaster and players return to the campaign. Every group must determine the appropriate length for a break. Some groups may find that a few weeks is enough, while other groups may want to take a few months off.
+
+Alternatively, an ongoing campaign might need something to shake it up a bit and get things moving again. The gamemaster might want to change the campaign's theme or focus to help breathe new life into the story and the characters. For example, one **Shadowrun** campaign that had been running for several years had reached a point where the player characters were highly capable shadowrunners with extensive backgrounds, resources and abilities. The players no longer found the "typical" shadowruns challenging or interesting, and they had begun to grow tired of their characters. To shake things up, the gamemaster set up a new series of adventures in which the player characters were framed for the murder of an important political figure and sent to a UCAS federal prison. An influential fixer sprang the shadowrunners from prison within a relatively short period, but during their jail time the runners lost most of their contacts and resources, and their reputations took a serious beating. The characters found themselves on the streets with little more than the clothes on their backs, in debt to a mysterious fixer and looking to clear their names and avenge themselves against the people who framed them. The campaign was off and running again.
+
+The **Bug City**, **Super Tuesday**, **Shadows of the Underworld**, **Portfolio of a Dragon**, and **Threats** books all offer plentiful twists that can help change the direction of a campaign and spark new interest among players.
+
+### BLUEBOOKING
+
+"Bluebooking" is an excellent roleplaying and story-development tool for campaigns. Players who use a bluebook simply keep records of their characters in notebooks. A character's bluebook is like a diary—it can include everything from personal recollections to private conversations between characters. They can be used to record character stories and background and between-adventure activities. Using bluebooking to record private conversations between characters or between characters and gamemasters enables characters and gamemasters to keep secrets from other players. This use makes bluebooking an ideal tool to inject paranoia, conspiracies, or simply a bit of mystery into a game. To use bluebooking for secrets, a character simply writes down the secret message or information in his notebook, then shows the notebook to the gamemaster or the character with whom he wants to share the secret.
+
+Gamemasters should carefully control bluebooking in their games, however, because players may begin to conduct nearly all of their interactions by bluebooking (which is not necessarily a bad thing, as long as it's intentional) and abandon active roleplaying.
+
+### ENDING THE CAMPAIGN
+
+Gamemasters can devise dramatic, "blaze-of-glory" endings for campaigns or simply allow their player characters go their separate ways and break up the team. In either case, the events and fallout of the old campaign can be used as source material for a new campaign. Friends and foes alike can resurface in the new campaign, along with unfinished business or other loose ends. If, for any reason, the players are no longer interested in playing their characters at the end of a campaign, that need not spell the end of the player characters. See Retirement, p. 87 for suggestions on using old characters in continuing games.
+
+### SOLUTIONS TO COMMON PROBLEMS
+
+Most experienced gamemasters face the following common challenges when gamemastering **Shadowrun** (and other) games and campaigns:
+
+- controlling "power-gamers," players who create super-characters so powerful that they dominate the game.
+    
+- maintaining overall game balance.
+    
+- satisfactorily involving deckers and other unique character types in games.
+    
+- effectively using the overwhelming amount of **Shadowrun** information available. This section offers advice on dealing with these difficult situations.
+    
+
+### POWER-GAMING
+
+Power-gamers, sometimes (unkindly) referred to as "munchkins" or "Monty Haulers," are players who create "super-characters"—magicians with Initiate grade ratings in the double digits and truckloads of foci and bound spirits, street sammies with so much cyberware they become virtual walking tanks, deckers with Computer Skills of 12 and cyberdecks that make the Fairlight Excalibur look like an abacus and so on. Well, there's nothing wrong with power-gaming. (Despite persistent rumors, FASA does not maintain a cadre of game police ready to kick your door in, confiscate your rulebook and drag you before the game Inquisition for violating the unwritten laws of **Shadowrun**. Well, actually there are game police—but they're too busy checking on **BattleTech** and **Earthdawn** rules violators to bother with **Shadowrun** groups.) Seriously, FASA couldn't be more pleased to hear that you're enjoying **Shadowrun**, no matter how you play it.
+
+However, If power-gaming starts killing the fun in your game, then it's a problem. Generally, such discrepancies can be avoided by meeting with your players and deciding on the general power levels you want in your campaign before you start—a low-powered "street-level" campaign versus a wild and wahoo power-game of super-characters, for example. Even conscientious planning may not prevent a player character from amassing a superhuman power level that begins to spoil the fun for everyone else. Gamemasters may use the strategies described in Obnoxious Characters to control such players.
+
+### OBNOXIOUS CHARACTERS
+
+Sometimes, players and/or their characters simply get out of line and begin spoiling the group's fun. Players can be quite creative when it comes to spoiling a game—some may simply create characters that overpower everyone and everything else in the game, while others may insist on following their characters' own wacky plans or their own interpretations of the rules, regardless of their fellow players' wishes. The simplest way to deal with such a character is to kill him or her—the character, not the player, of course. However, **Shadowrun** provides gamemasters with a variety of other, less-drastic ways to control such players.
+
+- **Reason with the Player**
+    
+    - Take the problem player aside and talk to him. Tell him that he's creating a problem and how you think the problem can be fixed. Reasoning with a problem player is always better than simply punishing the player's character. The player may not understand why his character is catching the drek or may decide that the gamemaster is picking on his character for no reason. If the player is not willing to change his or her behavior for the benefit of the group, then it may be time for the player and the group to part ways. If reasoning with the player fails, most of the other measures described here won't work much better.
+        
+- **Put the Character in Jail**
+    
+    - A stint in one of the prisons run by Lone Star or the government can go a long way toward improving a character's attitude. If the character is SINless and lacks powerful connections, the authorities may even want to try some experimental new "rehabilitation" techniques on the character.
+        
+- **Ruin His/Her Reputation**
+    
+    - Reputation Is everything in the shadows. A character who develops a reputation as a troublemaker and unreliable or uncontrollable on runs will eventually run out of people willing to work with him or her. Such characters must shape up and take a few low-paying, hazardous runs to rebuild their reps—or find themselves sliding right to the bottom of the shadow food-chain to get chewed up.
+        
+- **Give Him/Her Bad Karma**
+    
+    - Karma is a useful gamemaster tool for rewarding characters who have done well in an adventure. Similarly, gamemasters can punish troublesome player characters by penalizing them via Karma Points. Penalized characters will have to shape up if they ever want a chance of advancement in the future.
+        
+- **Take It Out on His/Her Contacts**
+    
+    - Characters who frag off the wrong people may find that those people decide to take out their anger on the character's friends, contacts and even loved ones. Contacts are not going to continue to work with a character who spells such trouble, and any character with a shred of conscience should feel badly about bringing trouble down on their friends and loved ones.
+        
+- **Take Away His/Her Toys**
+    
+    - If a character's main problem is too many toys—cyber or magical—the gamemaster can always take a few away. Gamemasters can relieve characters of excess cyberware or magical gear in a number of ways. For example, certain authorities might confiscate equipment—especially if the character is imprisoned. Alternatively, items can be stolen, disabled or simply suffer system failures. A character's Enemies may also destroy the character's assets to deprive him or her of the advantages they provide.
+        
+- **Give 'em What They Want**
+    
+    - If a character really wants an outlandish advantage or toy, let him or her have it—along with all of the trouble that comes with owning it. Characters with exotic gear and other powerful advantages tend to attract powerful enemies. Additionally, a powerful item or advantage can attract a continual stream of thieves, ambushes and saboteurs, hopefully creating more trouble than the item or advantage is worth.
+        
+
+### MAINTAINING GAME BALANCE
+
+Maintaining a balance between the power of player characters and their NPC opponents is one of the most important tasks of the gamemaster. By keeping the NPC opponents slightly more powerful than the player characters, the gamemaster forces the player characters to rely on their brains and teamwork, rather than simple firepower, to prevail. On the surface, maintaining such balance seems simple enough. However, the whole purpose of maintaining game balance is to keep play as fun as possible. Consequently, the gamemaster must strive to maintain game balance in ways that don't reduce the fun of the game. In other words, the gamemaster shouldn't sacrifice the players' freedom to use all the cool weapons and spells available in **Shadowrun** and also shouldn't simply create overpowering opponents whenever it's convenient. Maintaining game balance and fun in a game requires some thought on the gamemaster's part, but understanding a few basic principles can make it an easier, more rewarding task.
+
+- **Power Is Relative**
+    
+    - The first principle to remember is that game balance is determined by the power of the player characters and the power of their NPC opponents—not the power of one side alone. Instead of denying your players a minigun for their starting characters, simply remind them that their opposition will also have miniguns—and the enemy will probably have a slightly better version. The player characters' opponents need not be so totally overpowering that the runners never have a chance. They just need to be strong enough to keep the player characters from easily defeating them. As long as the opponents always challenge the runners, your players eventually will realize that no matter how strong their characters become, there will always be somebody bigger and badder, someone with a bigger budget, better tech toys, older and more experienced, with greater magical training and experience—someone they can't defeat in a straight-up fight.
+        
+- **Firepower Is Not Everything**
+    
+    - Increasing the strength of NPC opponents is not the only way to maintain game balance against power-hungry player groups whose strength continues to grow. With a little imagination, gamemasters can devise shadowruns and opponents that can't be defeated using little more than firepower and combat spells—situations that force the player characters to use brains and teamwork. For example, a Johnson might hire a team of runners for a run where secrecy is of the utmost importance, a run that no one must ever know about. Obviously, the team can't simply blow away anyone and anything in its path—that would draw too much attention. They'll have to come up with a strategy that gets them to their goal with a minimum of fuss and muss.
+        
+- **Keep "Gamebreakers" Rare**
+    
+    - "Gamebreakers" are pieces of equipment, spells, or other items that can destroy game balance and "break" a game. What constitutes a gamebreaker varies depending on the power levels of a game or campaign. For example, even a submachine gun might be a gamebreaker in a campaign full of gang members armed with light pistols and baseball bats. The same gun would be no big deal in a campaign full of folks packing assault rifles, heavy machine guns and other heavy-duty goodies. Keeping potential gamebreakers rare is the most effective way to prevent such elements from ruining a game. For example, consider the Panther assault cannon. The cannon's basic cost is a mere 7,200 nuyen, so most starting characters can buy a case of them—one for the den, the car, the bedroom and so on. Sounds like a game-balance disaster waiting to happen, neh? But let's just say that the Panther is rare—not just "no-starting-character-can-have-it" rare, but "no-one-has-seen-one-or-really-knows-about-it" rare. Contacts scoff if you mention the "magic gun," the so-called "Holy Grail of the street". Suddenly, the "gamebreaker" no longer threatens game balance. Runners will have a hard time locating one. And if they do, everyone's certainly going to notice them. In fact, people will be screaming and running away or trying to cack them from behind and steal the thing. So by making the Panther rare, rather than forbidding the players from obtaining one, the gamemaster has not restricted their freedom. He hasn't reduced the "coolness" factor of the weapon—it will still blow a hole through that Azzie hitman's heavy body armor (as well as her body, the car parked behind her, and the brick wall behind the car). He hasn't made the weapon commonplace by equipping all the Lone Star cops with Panthers to keep things even. But he's maintained game balance.
+        
+
+### INCORPORATING DECKERS
+
+Every **Shadowrun** group has probably experienced it at some time. The decker goes off to do something in cyberspace and the rest of the players go out for pizza or play a video game or simply sit and chat while the gamemaster and the decker's player do their thing. Though the new Matrix rules in **Virtual Realities 2.0** speed up decking in the game, they do not entirely solve the problem of handling decker characters during the game. The following options suggest ways to better integrate decking with the rest of the action in a game and keep it from slowing things down.
+
+- **NPC Deckers**
+    
+    - NPC deckers enable gamemasters to dole out information for a fee as needed. A gamemaster can quickly determine the results of an NPC decker's Matrix run and report that information back to the player characters. NPC deckers give gamemasters a great deal of control over the information players acquire and greatly speed things up, but they also greatly reduce the game opportunities provided by the Matrix.
+        
+- **Two-Pronged Attack**
+    
+    - In a two-pronged attack, the gamemaster plots two simultaneous shadowruns in which the decker goes online and works "behind the scenes" to disable security measures and monitor the progress of the run itself while the other characters do the physical work of the run. Published **Shadowrun** adventures and fiction contain numerous examples of such runs.
+        
+- **Simultaneous Gamemastering**
+    
+    - Under the simultaneous gamemastering approach, the gamemaster works with the decker to play out the Matrix run and guides the other characters through their own activities at the same time. The gamemaster must switch between scenes quickly enough to keep all the action moving, maintain dramatic tension and keep the players busy, but this difficult task can be accomplished successfully with plenty of advance preparation.
+        
+- **Assistant Gamemaster**
+    
+    - The gamemaster may also choose to appoint a player to be the assistant gamemaster with the primary task of handling Matrix runs with the decker's player. This arrangement frees the gamemaster to devote his full attention to play with the rest of the group. This approach requires some coordination between the gamemaster and his assistant, but it works well for data runs that are not directly connected with the action that the other characters are experiencing.
+        
+- **Solo Matrix Adventures**
+    
+    - Gamemasters can conduct some Matrix runs as short solo adventures for their decker characters before the main game session starts. In this case, the gamemaster simply uses the results from those Matrix runs as they are needed during the main game. This approach greatly speeds up play but may reduce the amount of continuity between Matrix action and the rest of the game. For example, a decker might learn something during the main game session that would have affected his Matrix run that evening.
+        
+- **Computer Skill Test**
+    
+    - In some cases, gamemasters can represent a Matrix run with a single Computer Skill Test, modified by the effects of the decker's applicable programs. Gamemasters should use this option sparingly, if possible. A player may become bored quite quickly if his decker character never does anything other than make Computer Tests.
+        
+
+### AVOIDING INFORMATION OVERLOAD
+
+Each new **Shadowrun** book that hits the shelves adds to the vast amount of **Shadowrun** information already available. Understandably, gamemasters and players often want to incorporate as much of this information as possible into their version of the game, which can lead to "information overload" and bog down play. Gamemasters and players simply may need to find a way to narrow their focus and incorporate only the information important to their campaigns at any given time. The following suggestions are designed to aid this process.
+
+- **Latest-and-Greatest Syndrome**
+    
+    - The Sixth World is an incredibly rich setting that becomes richer with each successive **Shadowrun** book. Naturally, many gamemasters and players want to use every new rule, weapon, spell, opponent, setting or idea that comes along. However, doing so can quickly turn a campaign into a long string of tricks, gimmicks and unconnected plots that don't really hold together. Fortunately, gamemasters can avoid this pitfall and still satisfy their players' and their own appetites for new ideas by simply exercising some patience and doing a little creative gamemastering. Perhaps most important, gamemasters should consider carefully the appropriateness of any new idea based on the scope of their campaign, their players' abilities, and the likely effects of the new idea on their games. Not all options are well-suited for all campaigns. Depending on the current direction, power level and story line of his or her campaign, a gamemaster may want to modify or even prohibit certain options. Remember, just because an option has appeared in a FASA-published book does not mean that the gamemaster has to allow it into his individual campaign. All of the material in **Shadowrun** books, including the **Shadowrun Companion**, are options for gamemasters—not required elements that gamemasters must use. Rather than modifying or prohibiting new options, gamemasters may incorporate new material into their campaigns gradually. For example, revolutions in bioware, cybertechnology or magical research shouldn't happen overnight. Gradually adding innovations from sourcebooks such as the **Grimoire**, **Shadowtech**, **Cybertechnology**, **Virtual Realities 2.0** and **Awakenings** not only mimics the dispersal of technological innovations in the real world—it provides the players and gamemasters time to adjust to the new options. Additionally, gamemasters may prohibit starting characters from using such options. This provides the gamemaster with greater control over the use of a new option.
+        
+- **THE SECRETS OF FASA**
+    
+    - Occasionally, **Shadowrun** players and gamemasters complain that they just aren't getting the whole story behind every new development in the **Shadowrun** universe. Well, it's true FASA does have some secrets. But we have good reasons for keeping those secrets. Our continuing effort to keep the **Shadowrun** universe vital and growing is the main reason for keeping some things to ourselves. To keep things fresh, we need to put out new material all the time. Consequently, we have to hold some ideas back to develop for future products. Additionally, we have to make sure that each new idea fits with the existing universe. And finally, new options—and your reaction to them—have a way of suggesting even more directions for the universe. Given these factors, we simply cannot fully describe every nook and cranny or completely explore every new direction in the game universe. That's why no one will ever know everything about the continuing **Shadowrun** saga. Of course, this situation need not stop gamemasters from creating their own unique twists on elements of the Sixth World. Have a great plot line about the truth behind the Lone Eagle incident or the Crash of '29? Feel free to elaborate on it and use it in your campaign. If it clashes with something published by FASA at a later date, simply adjust the campaign or ignore the FASA concept or find a way to make the two stories meet somewhere in between. We feel fairly confident, however, that FASA's story lines and the story lines of **Shadowrun** gaming groups will rarely overlap in an inconvenient way. For example, sourcebooks such as **Portfolio of a Dragon** provide a multitude of adventure and campaign plot hooks, and only a few of them will be explored in future **Shadowrun** books—leaving plenty of room for gamemasters to play with the possibilities of the universe without worrying about FASA stepping on their toes. Don't limit the possibilities of your **Shadowrun** world by hedging your bets against FASA's version of the universe.
+        
+
+---
+
+The world of **Shadowrun** is rich and varied, but most players never get to see more than its grimy underbelly. Spending all their time doing the corps' dirty work and trying to survive on the mean streets, typical shadowrunners never get more than a glimpse of the larger world they inhabit. Gamemasters who want to explore other aspects of the **Shadowrun** universe, or players who simply want a change of pace, might consider running game sessions or even campaigns in which the characters are something other than shadowrunners. These alternate campaigns follow pretty much the same rules as the **Shadowrun** you know and love, with a few changes that reflect the different situations player characters will face as cops, gang members and so on. This section briefly describes several non-runner campaign concepts, each outlined in the terms given in **Keys to a Good Adventure**, p. 96. This material offers the gamemaster springboards for building new campaigns based on any one of these themes, using the techniques outlined in this book. Though many of these concepts take the campaign beyond the "shadowrunner team" and into other areas of the Sixth World, all of them still focus on the unique blend of science fiction and fantasy elements that make **Shadowrun** exciting.
+
+### WHERE DOES IT HURT?
+
+Altruistic-minded players might want to try playing a DocWagon High Threat Response team. Just think: all the dangers of shadowrunning, a regular salary and your own VTOL! This type of campaign may appeal to players who want loads of action without a lot of setup—HTR teams only get called in when the action is hot and heavy. Of course, there's a lot more to being a DocWagon tech than pulling people out of dangerous situations—just watch any TV hospital drama for a whole host of ideas.
+
+#### CHARACTER CREATION
+
+Create DocWagon PCs using standard **Shadowrun** rules, plus the following guidelines as appropriate. The team should consist of a rigger (to drive the ambulance, MedEvac chopper or other appropriate vehicle); a mage or shaman for magical healing and fire support (note that HTR shamans tend to be followers of Bear and Snake because of the healing bonuses conferred by those totems); one or two medical specialists who do most of the actual patching-up of victims; and additional fire support personnel (anything from physical adepts to troll muscle to heavily cybered combat specialists). Deckers don't usually come along for the ride; they stay at the local headquarters and keep track of all the tactical information, as well as notifying local police, governments, businesses and other services of what's going down. Other types of characters with no knack for medicine or defensive combat will have little place in this kind of campaign.
+
+The gamemaster may rule that no DocWagon characters can take Tech as Priority A or B during character creation, as DocWagon will supply most of the team's non-Implanted equipment. (Besides, anyone who can afford that kind of gear must be making a lot more than DocWagon pays!) Each character should have a minimum Biotech Skill Rating of 3; medical specialists should also have some biology and/or cybertechnology skills. Because HTR teams respond to high-threat situations, combat skills will also be useful, though the team should be concerned about saving the custom—um, patient first and kicking hoop second. For more details about DocWagon HTR teams and their equipment, see pp. 95-101 of **The Neo-Anarchist's Guide to Real Life**.
+
+#### ADVENTURE IDEAS
+
+The daily duties of a DocWagon HTR team involve rescuing badly Injured DocWagon customers from situations too dangerous for normal medical teams. One obvious example is a firefight, wherein an innocent bystander or even a participant with a DocWagon contract gets hit and needs attention. Charging into a gun battle is a dangerous proposition, particularly when Lone Star or heavily armed shadowrunners get involved, or when participants in the fight might not want to see a particular victim survive. In addition, the gamemaster has numerous ways of making things even more interesting for the players. What if the DocWagon customer is a shadowrunner, and the rest of his team carries him along as they flee the scene or continue with their run? The HTR team is contractually obligated to help their customer, and so may follow along and get mixed up in all kinds of shadowrunning mayhem.
+
+Gun battles are not the only source of serious injury. Natural disasters, terrorist activity, paranormal animal attacks—all of these situations are prime candidates for an HTR team, and may put the medics in as much danger as the patient. These types of scenarlos, where numerous lives are endangered, can also be used to tweak the characters' consciences. If a terrorist bomb wounds fifty people and only three are DocWagon customers, will the characters be able to make themselves ignore the other wounded while performing their duties? Where does an employment contract give way to conscience?
+
+The HTR team's job will be complicated by the fact that they are carrying huge amounts of drugs and extremely expensive medical equipment, not to mention firearms, all of which makes them prime targets for thieves. Particularly daring thieves have been known to injure a DocWagon customer and then lay an ambush for the HTR team. Though HTR teams are better equipped to deal with such situations than the average paramedic squad, they are by no means immune to disaster. Finally, DocWagon player characters may well have to deal with the problem of competing medical organizations. DocWagon is the largest company of its kind, but by no means the only one, and many smaller medical companies will try just about anything to preserve their market share—including attacking DocWagon teams if both companies respond to calls in the same area. Theoretically, the first priority of DocWagon personnel is to insure their customers' safety and health. But many DocWagon teams—especially HTR teams—are more than willing to engage in "active defense" against rival companies. As the legendary DocWagon HTR pilot Jim "Doc Croc" Crocker once put it, "The Hippocratic oath don't apply to the competition".
+
+### CAMPAIGNING WITH DOCWAGON
+This section complements the Archetypal Adventure Plots section on p. 101 of **Running the Game** by fleshing out some of the concepts presented there.
+
+* **The Premise**
+    * Most DocWagon campaigns are limited to a single city or district, although characters can be temporarily "loaned out" to other branches for training or demonstrations. A gamemaster can create interesting variations by setting the campaign in a location with different challenges, such as a MediCarro campaign in war-torn Aztlan or a DocWagon adventure in a tense border town like Denver.
+    * DocWagon medics are generally not physical or magical powerhouses. Characters should have some combat and self-defense skills, but their primary goal is to save lives, not to fight. A player can put the skill points and resources that might have been used for a combat character into medical and social skills that are more useful for the job.
+
+* **The Goal**
+    * Player characters are part of an ambulance or search-and-rescue team that helps people in dangerous situations. Their first job is to ensure the safety and health of their patients, so the campaign should have a moral tone focused on saving lives. Characters are doing difficult and dangerous work for little reward, so they must be devoted to their jobs.
+    * While DocWagon characters might encounter the shadier side of medicine, such as organlegging or drug smuggling, it makes for a better campaign if they try to maintain the moral high ground. They might work to root out corruption within their own organization. The patient's life is the most important thing. Characters risk themselves because it is their job, sometimes breaking rules to get it done. If a victim cannot be saved, the characters should try harder next time.
+
+* **Opposition**
+    * Much of the opposition characters face will be natural, impersonal forces like disaster, fire, disease, and street warfare. They may also have trouble with groups that target medical organizations, such as eco-terrorists, ghouls, organ-smugglers, rival companies, and shadowrunners trying to heist a vehicle for cover.
+    * While some violence may be acceptable when a DocWagon crew is trying to reach a client, characters cannot indiscriminately fight without legal consequences. Most of the violence in a DocWagon campaign will be "after the fact," giving players an opportunity to see the gory results of a "simple" shadowrun. For example, an HTR team might be called to a corporate site after shadowrunners have mowed through the guards and defenses, and they would have to treat the surviving guards. They might find a clue to nail the shadowrunners and feel inclined to use it.
+
+* **Complications**
+    * A search-and-rescue campaign allows characters to go into dangerous situations with plenty of backup. It also provides opportunities for high-speed vehicle action and last-minute saves, adding a refreshing sense of heroism to the Sixth World. The gamemaster should make each mission feel like a TV action drama.
+    * However, heroic do-gooding may not be for every player, especially those not interested in medicine. Adventures can become routine, and it can be difficult to maintain variety compared to a standard shadowrunning game. Players might be frustrated by a lack of combat, a lower power level, or a lack of financial reward, although they should get a fair amount of Karma.
+    * Other important characters in the campaign include doctors and medical personnel at headquarters who can offer assistance via the Matrix. Player characters might also have to deal with company administrators, local authorities, and street docs.
+    * A final complication is the person being rescued. For example, did DocWagon stop an extraction team, or did the patient want to go with them? Has the patient become an employee without a corporation? Did the DocWagon team prevent a spectacular suicide? Did someone set the patient up to be murdered? The patient alone can lead to multiple adventures for the rescuers.
+
+---
+
+### SMILE, YOU'RE ON CAMERA!
+In the 2050s, information is a pure form of power, and corporations and governments spend a lot of time and money to keep it to themselves. The news media is dedicated to taking that information from the powerful and giving it to the public. Like today, the media in the 2050s dig up secrets that megacorps don't want anyone to know. It's a dirty job, and your players can do it.
+
+Most major media outlets in **Shadowrun** are secretly or openly controlled by megacorps, so characters will likely work for smaller players. They might work for a pirate trid station, stealing bandwidth and fleeing from security. They could be stringers selling newsworthy content to the highest bidder. Or they might work for a small local station with a limited budget, fighting hostile takeovers while broadcasting news that major studios won't touch.
+
+#### CHARACTER CREATION
+Newshound characters can be created using the standard **Shadowrun** rules or the optional rules in Character Creation (p. 10). A pirate trid station needs a decker or electronics expert to override legitimate media traffic. A decker's ability to track down data and uncover hidden information makes them especially useful in media campaigns. A team that doesn't work exclusively for datafaxes needs a high-Charisma "face" to make broadcasts. The rest of the team can be camera operators, technicians, and security, all with other talents to keep the team effective. Combat skills are a must, as uncovering corruption can lead to death if you can't defend yourself. Mages with "stealth" spells and a good rigger are also valuable assets.
+
+Anyone who might be on camera or deal with sources should have high Charisma. Good Etiquette and Negotiation skills are crucial for tracking leads. Stealth is useful for recording secret meetings, and Interrogation is great for questioning corporate mouthpieces. The most important part of a newshound is their contacts, and they should have many from different walks of life for quick leads.
+
+#### ADVENTURE IDEAS
+Media adventures can start from an overheard conversation, an anonymous tip, or a reporter's "gut feeling". Any corporate cruelty, government cover-ups, or shadowrunning activity will attract reporters. The characters' main goal is to get incriminating evidence on film and broadcast it. This requires excellent investigative skills, subtlety, and stealth, as well as the ability to flee at high speed if discovered.
+
+Broadcasting the story doesn't end the adventure. The characters must either maintain a high profile, hoping their targets won't act against them, or drop out of sight until things calm down. If they have a large public following, an unscrupulous corporation might use them to frame a victim. The corp could use an "anonymous tip" and illusion magic or high-tech trickery to provide "proof" that the target is shady. The characters take the bait, and if the frame-up is exposed, they have to prove they were dupes, which comes at a price.
+
+Characters may also be hired by shadowrunners who want proof for an investigation. An interesting way to use this is to have the runners alert the news team, then get slaughtered, leaving the newsies as the only people who know the secret. A gamemaster can also use the scenario from **Threats** (p. 45) where an unknown source gives the characters clues to major news events, which can lead to a high-action campaign.
+
+### CAMPAIGNING WITH MEDIA TEAMS
+This section complements the Archetypal Adventure Plots section on p. 101 of **Running the Game** by fleshing out some of its concepts.
+
+* **The Premise**
+    * Player characters are part of a team working for a major or pirate media network, or they are freelance news hounds. They specialize in hot stories that put them in the line of fire and uncover dirt on megacorps and governments. The pirate news station KSAF, described in the **Threats** sourcebook, is a good basis for this campaign, and information from the **Shadowbeat** sourcebook is also appropriate.
+    * The campaign's scale can vary based on the players' desires. A news team might stay in one metroplex or travel worldwide. Generally, the larger the news organization, the more influence their stories have and the greater the risks they must take. The campaign can take place in a variety of settings, from corporate boardrooms to the back alleys of the Barrens.
+
+* **The Goal**
+    * The goal is to uncover the truth and inform the public, because information must be free in the Sixth World. Reporters must be objective and struggle with the powers that be to get their stories out. The moral questions can go beyond simple violence and mercenary work, and characters must decide what stories to cover and how.
+    * Because much of the media is censored, characters will have to deal with the consequences by either working with a pirate network or within a "legit" one. A media campaign gives players a chance to influence events, providing an entirely different tone from a typical shadowrunning game. It's a great opportunity for conspiracy and investigation enthusiasts, and the gamemaster can give characters a chance to interact with major players in the universe.
+    * Media characters are not physical or magical powerhouses; their power comes from information and influence. While they need some combat skills, a media campaign is likely to be less combat-oriented than other **Shadowrun** campaigns.
+
+* **Opposition**
+    * The main antagonists are rival news organizations and people who don't want their affairs exposed. Characters can easily find themselves in a situation where they know too much to be allowed to live or report what they know. **The Dragon's Last Dance** (pp. 11-20 of **Portfolio of a Dragon**) highlights some of these dangers.
+    * Reporters rarely engage in violence themselves, even though they cover violent incidents. Most media teams use violence only in self-defense and must answer to authorities for any violent acts. Media characters must carefully consider their actions, as in a media campaign, the pen is often mightier than the sword.
+
+* **Complications**
+    * An investigative, media-based campaign can be frustrating for players who want combat. The restrictions on a media team are very different from those on shadowrunners, and some players might find working within the law a "serious cramp in their style". There is also a danger of the reporter character overshadowing others.
+    * To avoid this, the gamemaster should flesh out the NPCs the players work with, such as the editor and other members of the news network. They should also flesh out the newshounds' contacts, informants, and the important people they might investigate. A media campaign requires a proactive gamemaster willing to let the mystery unfold over time.
+
+---
+
+### TRAINED TO BE GHOSTS
+Most countries have an elite military group that takes on top-secret, dangerous, and controversial missions. These special forces spy, steal data, blow things up, and assassinate leaders. They are essentially the government's top shadowrunners, performing similar functions for similar reasons as a street runner does for a corp. They are officially employed and not as deniable as average runners, but their training makes up for it in talent and loyalty.
+
+#### CHARACTER CREATION
+Create special-forces characters using standard rules, but do not use the optional rules for Enemies (p. 71) or the Availability rule for weapons and armor. Although they can create many enemies during play, having a lot of money or cyberware isn't enough to get you killed automatically. The government pays for their gear, so if a mission requires a Panther assault cannon, the taxpayers ensure they have one. Getting BTLs on a military base can be tough.
+
+Characters automatically get their commanding officer and quartermaster as two free contacts. Any additional contacts must be purchased. They receive an annual wage of 75,000 nuyen, enough for a Medium Lifestyle and some extras. Governments need all types of shadowrunners, and most will hire all types of metahumanity. Exceptions might be governments of a specific race, such as Tir Tairngire, whose members prefer to hire fellow elves.
+
+#### ADVENTURE IDEAS
+Military campaigns can involve regular soldiers, but special forces are the closest to shadowrunners. They work in small, well-equipped units, and the government will spend a million nuyen to make an operative a cybered machine, unlike a regular soldier who gets a smartgun link and an armored jacket. Their operations are classified.
+
+A UCAS Delta Force "A-Team" is a typical example: a 12-man team commanded by a captain that changes every three years, while the rest of the team stays together for life. The second-in-command is a Chief Warrant Officer (CWO) who was a non-commissioned officer (NCO) with a specialty like Operations and Intelligence, Medical Technician, or Communications Technician. Magic is a subset of these specialties. The rest of the team are NCOs.
+
+Each team has a senior NCO, a Master Sergeant (MSG-E-8), who is the Operations and Intelligence specialist. The Sergeants-First Class (SFC E-7) are a medic and a demolitions expert. The medic can perform some surgeries and carry controlled narcotics, and the demolitions expert can use all known forms of explosives. Staff Sergeants (SSG E-6) include a communications officer who can operate and create communications equipment and a weapons specialist who is trained in almost all light and medium weapons. The remaining members are Staff Sergeants and Sergeants (SGT E-5). Before a mission, special-forces personnel are isolated for at least three days.
+
+Missions often involve traveling to hostile nations to carry out assassinations or help freedom fighters. Characters can also perform intelligence-gathering missions, datasteals, interrogations, and spy missions against foreign governments. They can function as an elite unit for the most dangerous jobs during a war or handle a situation where something went wrong with the previous group sent in.
+
+### CAMPAIGNING WITH SPECIAL FORCES
+This section complements the Archetypal Adventure Plots section on p. 101 of **Running the Game** by fleshing out some concepts.
+
+* **The Premise**
+    * A special-forces campaign is similar to a regular shadowrun but with important differences. Legwork is less important because special forces are trained for decisive action. Contacts are also less important, and the characters will have the same "Mr. Johnson"—their commanding officer—every time. Players must cultivate his trust and respect to stay on the team, and roleplaying boot camp and training can intensify this relationship.
+
+* **The Goal**
+    * When playing, emphasize the characters' loyalty to their country, whether it's the UCAS, Tir Tairngire, or the Sioux Wildcats. They are not freelancers; they get paid, but their work should be primarily for patriotism and loyalty. They must succeed at all costs, and they rarely have input into their orders. The job is an honor, and the goal is to succeed for the country's glory. If a character doesn't want to play this way, they should leave for a shadowrunner's life.
+
+* **Opposition**
+    * Opposition is likely to be another special-forces team, an opposing government's hit squad, or corporate security. Terrorists also make excellent villains. For spy missions, the main opposition can be the sheer difficulty of infiltrating the target and getting out alive. These missions are dangerous, long-term, and can result in an agent joining the other side or disappearing.
+
+* **Complications**
+    * Special-forces characters must learn to work together and cannot kill a teammate they dislike, which can be good for group harmony. They must also work together to keep missions secret. If they mess up, they can't just run away like a shadowrunner; they must answer to their unit and government.
+    * These characters are also more likely to have normal lives with family and friends. Gamemasters should take this into account for a change of pace. For example, if a character is used to getting orders and equipment from the President, they might have to think hard when an old friend needs help with the Mob. They have the skills, but operating outside their orders could force them to re-evaluate their dedication to their country versus their family. They would also have to decide whether to operate outside government sanctions or ask their superior for help.
+
+---
+
+### I AM THE LAW
+Playing corporate security or police officers offers a different view of the Sixth World. These characters are similar to shadowrunners in their skills, interests, and functions. Both types of teams include varied characters like deckers, magicians, and combat specialists, and they live with a similar level of danger as they are the ones the runners come after. However, corporate guards and cops spend more time on intra-corp competition, bragging, and soliciting interesting jobs to improve their reputations.
+
+#### CHARACTER CREATION
+Creating cop and corporate-security characters is different from creating runners. To reflect discrimination, metahuman characters should be rare, with no more than one per group. Elves and dwarfs are more common than trolls and orks. Skills must be at least Priority C to reflect training, and each character must have at least two Knowledge Skills to show they have some education. If using the point-based system (pp. 20-21), you must allocate 24 points to Skills.
+
+These characters also automatically receive one of these Edges at standard cost: Technical School, High School, or College Education. As CorpSec or Lone Star personnel, they should earn a high enough salary to maintain a Medium Lifestyle. Unlike shadowrunners, who need varied specialties, cops and corp security are more likely to work in one field. For example, a team might all be deckers who are Fuchi's front line of defense in the Matrix, or all magical characters who are the "point team" for astral defense.
+
+Cop and corporate-security characters must have at least two Enemies at creation: one Rank 1 and one Rank 2. Their two free contacts must be employees of their corporation or fellow cops at their precinct, but purchased contacts can be any type.

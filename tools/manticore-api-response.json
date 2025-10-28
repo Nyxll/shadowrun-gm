@@ -1,0 +1,295 @@
+{
+  "id": "146abfcd-af30-4aab-9f98-f5348d1aa470",
+  "name": "Edom Pentathor",
+  "street_name": "Manticore",
+  "character_type": null,
+  "archetype": "Decker",
+  "metatype": null,
+  "sex": null,
+  "age": null,
+  "height": null,
+  "weight": null,
+  "hair": null,
+  "eyes": null,
+  "skin": null,
+  "nuyen": 608688,
+  "karma_pool": 9,
+  "karma_total": 145,
+  "karma_available": 0,
+  "lifestyle": null,
+  "lifestyle_cost": null,
+  "lifestyle_months_prepaid": null,
+  "essence_hole": null,
+  "initiative": "$7 + 1D6$",
+  "combat_pool": 2,
+  "magic_pool": null,
+  "body_index_current": null,
+  "body_index_max": null,
+  "attributes": {
+    "body": 5,
+    "body_base": 5,
+    "quickness": 4,
+    "quickness_base": 4,
+    "strength": 6,
+    "strength_base": 6,
+    "charisma": 10,
+    "charisma_base": 10,
+    "intelligence": 9,
+    "intelligence_base": 6,
+    "willpower": 6,
+    "willpower_base": 6,
+    "essence": 6.0,
+    "essence_base": 6.0,
+    "magic": 0,
+    "magic_base": 0,
+    "reaction": 7,
+    "reaction_base": 7
+  },
+  "skills": {
+    "active": [
+      {
+        "skill_name": "Computer",
+        "base_rating": 10,
+        "current_rating": 10,
+        "specialization": null
+      },
+      {
+        "skill_name": "Electronics",
+        "base_rating": 6,
+        "current_rating": 6,
+        "specialization": null
+      },
+      {
+        "skill_name": "Firearms",
+        "base_rating": 3,
+        "current_rating": 3,
+        "specialization": null
+      },
+      {
+        "skill_name": "Negotiation",
+        "base_rating": 8,
+        "current_rating": 8,
+        "specialization": null
+      },
+      {
+        "skill_name": "Stealth",
+        "base_rating": 4,
+        "current_rating": 4,
+        "specialization": null
+      }
+    ],
+    "knowledge": [],
+    "language": []
+  },
+  "cyberware": [
+    {
+      "name": "Datajack (Delta-Grade)",
+      "essence_cost": 0.1,
+      "effects": []
+    },
+    {
+      "name": "Encephalon 4",
+      "essence_cost": 1.75,
+      "effects": []
+    },
+    {
+      "name": "Math SPU 4",
+      "essence_cost": 0.25,
+      "effects": []
+    },
+    {
+      "name": "NeuroSync Processor",
+      "essence_cost": 0.5,
+      "effects": []
+    },
+    {
+      "name": "Smartlink-3 Prototype",
+      "essence_cost": 0.5,
+      "effects": [
+        "-3 TN"
+      ]
+    }
+  ],
+  "bioware": [
+    {
+      "name": "Cerebral Booster 3",
+      "body_index_cost": 0.6,
+      "effects": [
+        "+3 INTELLIGENCE"
+      ]
+    },
+    {
+      "name": "NeuroSync Processor",
+      "body_index_cost": 0.5,
+      "effects": []
+    },
+    {
+      "name": "Tailored Pheromones 2 (cultured)",
+      "body_index_cost": 0.45,
+      "effects": []
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Smartgun Prototype",
+      "stats": null,
+      "modifications": {
+        "smartlink": {
+          "rating": 1,
+          "tn_modifier": -2
+        },
+        "customization": {
+          "skill_bonus": 1
+        }
+      },
+      "notes": "**Smartgun Prototype**\n  - Type: Heavy Pistol\n  - Damage: 9M\n  - Concealability: 5\n  - Ammo: N/A\n  - Modifications: Customized grip (+1 die to Firearms for customization and prototype enhancement)"
+    },
+    {
+      "name": "Walther MA-2100 Sniper Rifle",
+      "stats": null,
+      "modifications": null,
+      "notes": "**Walther MA-2100 Sniper Rifle**\n  - Type: Sniper Rifle\n  - Damage: 14S\n  - Concealability: N/A\n  - Ammo: N/A\n  - Modifications: N/A\n  - Ammo Carried: 20 APDS rounds, 200 EX rounds (16S)"
+    }
+  ],
+  "armor": [
+    {
+      "name": "Boomer Suit",
+      "modifications": null,
+      "notes": "**Boomer Suit**\n  - Rating: 6 (Armor 6)\n  - Concealability: N/A\n  - Modifications: Body +8, Wired 2, Gunnery +1, non-rigged +2 TN"
+    },
+    {
+      "name": "Forearm Guards",
+      "modifications": null,
+      "notes": "**Forearm Guards**\n  - Rating: +1 Impact\n  - Concealability: N/A"
+    },
+    {
+      "name": "Form-Fitting Body Armor 4",
+      "modifications": null,
+      "notes": "**Form-Fitting Body Armor 4**\n  - Rating: 4/2 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Hardened Military-Grade Armor",
+      "modifications": null,
+      "notes": "**Hardened Military-Grade Armor**\n  - Rating: 8/6 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Secure Clothing",
+      "modifications": null,
+      "notes": "**Secure Clothing**\n  - Rating: 3/0 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Secure Helmet",
+      "modifications": null,
+      "notes": "**Secure Helmet**\n  - Rating: +2/+2 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Secure Jacket",
+      "modifications": null,
+      "notes": "**Secure Jacket**\n  - Rating: 5/3 (Ballistic/Impact)\n  - Concealability: N/A"
+    }
+  ],
+  "equipment": [
+    {
+      "name": "6x Ares Predator APDS clips",
+      "quantity": 1,
+      "notes": "**6x Ares Predator APDS clips**"
+    },
+    {
+      "name": "Assorted components",
+      "quantity": 1,
+      "notes": "**Assorted components**"
+    },
+    {
+      "name": "BattleTac Matrixlink",
+      "quantity": 1,
+      "notes": "**BattleTac Matrixlink**"
+    },
+    {
+      "name": "Commlink II",
+      "quantity": 1,
+      "notes": "**Commlink II**\n  - Encrypted communication"
+    },
+    {
+      "name": "Custom Cyberdeck \"Manticore Special\"",
+      "quantity": 1,
+      "notes": "**Custom Cyberdeck \"Manticore Special\"**\n  - MPCP: 8\n  - Hardening: 4\n  - Memory: 1000 MP\n  - Storage: 2000 MP\n  - I/O Speed: 500\n  - Response Increase: +3\n  - Persona Programs: Bod 6, Evasion 6, Masking 6 (effective 8), Sensor 6\n  - Utilities: Masking Boost 4 dice (persistent), Utility Creation 5 dice"
+    },
+    {
+      "name": "Cyberdeck Parts",
+      "quantity": 1,
+      "notes": "**Cyberdeck Parts**"
+    },
+    {
+      "name": "Cyberware Parts",
+      "quantity": 1,
+      "notes": "**Cyberware Parts**"
+    },
+    {
+      "name": "Delta Encephalon 4 prototype",
+      "quantity": 1,
+      "notes": "**Delta Encephalon 4 prototype**"
+    },
+    {
+      "name": "Electronics Kit",
+      "quantity": 1,
+      "notes": "**Electronics Kit**\n  - For hacking maglocks and electronic devices"
+    },
+    {
+      "name": "Electronics Kit Rating 6",
+      "quantity": 1,
+      "notes": "**Electronics Kit Rating 6**"
+    },
+    {
+      "name": "Environmental Suits",
+      "quantity": 1,
+      "notes": "**Environmental Suits**"
+    },
+    {
+      "name": "High-End Toolkit Rating 6",
+      "quantity": 1,
+      "notes": "**High-End Toolkit Rating 6**"
+    },
+    {
+      "name": "Jammer Rating 7",
+      "quantity": 1,
+      "notes": "**Jammer Rating 7**"
+    },
+    {
+      "name": "Maglock Passkey Rating 6",
+      "quantity": 1,
+      "notes": "**Maglock Passkey Rating 6**"
+    },
+    {
+      "name": "Medkit",
+      "quantity": 1,
+      "notes": "**Medkit**\n  - Rating 3"
+    },
+    {
+      "name": "Mutant Serum Vial",
+      "quantity": 1,
+      "notes": "**Mutant Serum Vial**\n  - +1 Body, risk mutation"
+    },
+    {
+      "name": "Nuyen",
+      "quantity": 1,
+      "notes": "**Nuyen**"
+    },
+    {
+      "name": "Partially assembled Veils",
+      "quantity": 1,
+      "notes": "**Partially assembled Veils**"
+    },
+    {
+      "name": "Prototype Cyberdeck \u201cAres Nova\u201d",
+      "quantity": 1,
+      "notes": "**Prototype Cyberdeck \u201cAres Nova\u201d**\n  - MPCP: 9\n  - Hardening: N/A\n  - Memory: 1500 MP (1000 base + 500 upgrade)\n  - Storage: N/A\n  - I/O Speed: N/A\n  - Response Increase: N/A\n  - Persona Programs: ARESIA AI (excels at decryption/IC countermeasures)\n  - Utilities: Virtual sandbox Rating 8\n  - AI Companions: ARESIA"
+    }
+  ],
+  "vehicles": [],
+  "contacts": [],
+  "edges": [],
+  "flaws": [],
+  "spells": [],
+  "background": null,
+  "notes": null
+}

@@ -1,0 +1,441 @@
+# CHARACTER GENERATION
+## METAHUMANITY
+
+Orks are people too, don't ya know? And if you ever forget again, I'll snap yer neck like a twig.
+-John Wetland, ork
+
+Since the Awakening, five major subspecies of *Homo sapiens* have appeared throughout the world. They are evenly distributed geographically, racially, and ethnically, though variants do appear.
+
+The following information is available courtesy of *Studies in Awakened Biology*, by Doctors Eileen Van Buren and Peter Carmine, published in 2048 by Modern Information Services, Atlanta (CAS). The biases are the authors' own, in particular, their view of *Homo sapiens* more as interesting creatures than sentient beings. The authors also tend to view personal or cultural traits as genetic predispositions.
+
+Elves and dwarfs are nearly always born to parents of the same race. Elves beget elves, dwarfs beget dwarfs, and so on. In the instances of attempts at natural crossbreeding the child is always of the same race as either the elf or dwarf parent. There appears to be an almost exact 50 percent chance of either expression. No true half-breeds or crossbreeds are known to exist. By 2050 dual human parentage almost never results in elf or dwarf offspring.
+
+The same holds true for orks and trolls, who are nearly always born to parents of the same race. Unlike the early days of goblinization, it is now rare for a human child (dual human parentage) to express into ork or troll form, but it does occur. Crossbreed attempts between the elf/dwarf group and the ork/troll group nearly always result in a goblinized expression.
+
+---
+
+### DWARF
+***Homo sapiens pumilionis***
+
+* **Identification**: The average dwarf is 1.2 meters tall and weighs 54 kilograms. His coloration is usually pinkish-white or light tan, but may be as dark as ebony. Female dwarfs have 2 mammae, and all dwarfs have 32 teeth. Dwarf legs are disproportionately short, making them poor runners. Their torsos are wide, with great breadth at the shoulders, endowing the subspecies with increased arm strength. Their body hair is well-developed and head hair profuse; males have extensive facial hair. The dwarf nose tends to be large and long, and the ears slightly pointed.
+* **Habitat**: This subspecies prefers artificial or natural caverns in wilderness areas. In urban environments, dwarfs show a preference for dwelling in basements or subbasements.
+* **Habits**: Dwarfs may be active by day or night. Their diet is omnivorous. Populations form small family groups, and though they show isolationist tendencies, small enclaves are found in communities all over the world. Their life span is unverified, but predictions based on metabolic rates run to more than a hundred years. Their breeding season is unrestricted. The gestation period is 284 days.
+* **Young**: One. Birth weight is 5.6 percent of mother's weight. Suckling time is more than 15 months.
+* **Commentary**: With eyes sensitive to the infrared spectrum, a dwarf's activity is as unrestricted underground as above. Dwarf phenotypes also show an increased resistance to pathogens.
+
+---
+
+### ELF
+***Homo sapiens nobilis***
+
+* **Identification**: The height of the typical elf is 1.9 meters, and his weight is 72 kilograms. Coloration is pale pink to white or ebony. The females have 2 mammae, and all elves have 32 teeth. *Nobilis* is more slender than *sapiens* and has a lighter build, though the bone structure and musculature are equally strong. The slenderness is exaggerated in nobilis of Polynesian and Australian aboriginal origin. Elven body hair is sparse, but head hair is usually luxuriant and extremely fine. Elven hair is usually straight or slightly wavy, and is almost always worn long. There are also several populations showing tightly curled head hair, however. The eyes are almond shaped; in darker-skinned *nobilis* they are often slightly protuberant. The ears come to a definite point.
+* **Habitat**: In urban areas, elves inhabit standard human structures. In wilderness areas, they prefer to live in structures built of natural materials or living plants.
+* **Habits**: Elves are nocturnal beings. Their diet is vegetarian. They tend to live in small groups, preferably apart from the rest of humanity. The elf life-expectancy is unverified, with possible life spans of several hundred years, but metabolic studies are inconclusive. The elven breeding season is unrestricted. Gestation is 360 days.
+* **Young**: Usually one, though twins are common. In such cases, only one is *nobilis*, with the other usually nonviable. Birth weight is 5.2 percent of mother's weight. Suckling time is more than 25 months.
+* **Commentary**: Elven eyes are heavily endowed with rod structures. This allows them to see in dim light far better than *sapiens*.
+
+---
+
+### HUMAN
+***Homo sapiens sapiens***
+
+* **Identification**: Humans stand about 1.7 meters high and weigh about 70 kilograms. Coloration is variable, from pinkish-white to ebony. There are three major ethnic groups, each of which varies considerably in size, coloration, and hair distribution and quality, but the ears are always rounded, the skull has 32 teeth, and the women have 2 mammae.
+* **Habitat**: Humans prefer to dwell in roofed structures.
+* **Habits**: Most humans prefer daytime activity. Their diet is omnivorous. Human populations live in small family groups, pairs of adults, or alone. The worldwide average human life span is 55 years. The breeding season is unrestricted. Gestation is 266.5 days.
+* **Young**: Usually one. Twins are uncommon and higher multiples even rarer. Birth weight is 5.5 percent of mother's weight. Suckling time is more than twelve months. An individual offspring may be of subspecies *robustus* or *ingentis* and may express (undergo Unexplained Genetic Expression) at puberty.
+* **Commentary**: As the form of *Homo sapiens* present throughout recorded history, *Homo sapiens sapiens* is sometimes called "normal," as distinguished from other subspecies. This is not a scientific term, as any subspecies is just as normal as another. In common usage, the term differentiates *sapiens* from the groups of "metahumans" whose existence has been recorded since 2011.
+
+---
+
+### ORK
+***Homo sapiens robustus***
+
+* **Identification**: Orks are 1.9 meters tall and weigh 95 kilograms. Their skin coloration varies from pale pink to ebony. Ork bodies are proportioned similarly to that of *sapiens*, but *robustus* is more heavily built. Head hair is usually more prominent than the *sapiens* ethnic group from which the individual *robustus* was derived. The ork nose tends to be broad and the lips thin. The ears show definite points and are sometimes elongated as well. The ork skull has 32 teeth, with greatly enlarged lower canines. Ork females have 2 mammae.
+* **Similar Species**: *Robustus*, like *ingentis*, is highly variable in appearance, leading investigators to theorize that certain individuals or small communities are, in fact, other subspecies or other species entirely. This variety of types continues to mislead unwary researchers.
+* **Habitat**: Usually in roofed buildings.
+* **Habits**: Orks are active day and night, but seem to prefer the night. Their diet is omnivorous, but with a distinct preference for meat. Populations form large groups, often with a tribal structure. The typical life span appears to be between 35 and 40 years. Their breeding season is unrestricted. Gestation is 187 days.
+* **Young**: Ork mothers usually bear four children, but births of six or eight are not uncommon. Birth weight is 4.2 percent of mother's weight. Suckling time is more than seven months. Most newborns are obviously *robustus*, but may appear as *sapiens*; 95 percent of the latter will express at puberty, which occurs around age ten.
+* **Commentary**: The higher proportion of rod over cone structures in the ork's eyes allows enhanced low-light vision. Individuals expressing into *robustus* usually evidence negative psychological effects, with severe psychoses and aberrant behavioral patterns common. Individuals born *robustus* usually socialize normally.
+
+---
+
+### TROLL
+***Homo sapiens ingentis***
+
+* **Identification**: Trolls measure 2.8 meters and weigh 225 kilograms. Skin color varies from pinkish-white to mahogany brown, and usually remains unchanged after *ingentisization*, or transformation into troll form. *Ingentis* body proportions differ from those of *sapiens*, with the ratio of arm-to-leg length significantly higher in *ingentis*. Trolls are very heavily built and occasionally exhibit dermal bone deposition, resulting in spines, rough surface texture, or an armor-plated effect. Body hair is usually well-developed, but may be absent altogether. Head hair is usually more prominent than among the *sapiens* ethnic group from which the individual *ingentis* was derived. The nose tends to be broad. The ears show definite points and are sometimes elongated. The sloped skull has 34 teeth; lower canines are enlarged and molars display extreme convolutions, which researchers interpret to mean that *ingentis* teeth are constantly regenerating. Troll females have 2 mammae.
+* **Similar Species**: Some investigators believe that individuals or small communities of this subspecies are, in fact, other species entirely. Further investigation, including breeding studies, are required to confirm such hypotheses, as trolls are highly variable in appearance.
+* **Habitat**: Trolls who live in wilderness areas use caverns and converted structures such as bridges for their dwelling places. In urban areas, they prefer areas shunned by "normals," such as sewers or derelict buildings.
+* **Habits**: Trolls prefer nighttime activity. Their diet is omnivorous. Populations usually congregate in small groups, which often cohabit with subspecies *robustus*. Metabolic studies and direct observation indicate a life expectancy of about 50 years. The breeding season is unrestricted. Gestation is 259 days.
+* **Young**: Usually one. Birth weight is 2.5 percent of mother's weight. Suckling time is more than 15 months.
+* **Commentary**: The sensitivity of trolls' eyes to the infrared portion of the spectrum allows a troll almost unrestricted activity after dark. Expression from *sapiens* to *ingentis* adversely affects an individual's mental condition, often resulting in psychosis and aberrant behavioral patterns. Individuals born as *ingentis* do not experience this trauma and usually socialize normally.
+
+---
+
+## CREATING A CHARACTER
+
+Character? Sorry chummer, titanium is what I'm made of.
+-Jackal, street samurai
+
+A character in Shadowrun is much like a character in a novel or film, except that the player controls his or her actions. Composed of a collection of attributes and skills, the character has the personality that the player injects into it. Without that personality, the character remains an it. Only when fleshed out can a character become minimally he or she, and, with good characterization, someone memorable.
+
+### CHARACTER INFORMATION
+
+Characters in Shadowrun possess various Physical, Mental, and Magical Attribute and Skill Ratings, and may also use cyberware, spells, gear, and extras. Though these features are important, defining the character in a way that permits the use of the Shadowrun game system to judge his actions, they are still just numbers on a page. Character, chummer, is what you make it.
+
+For the most satisfactory results when creating a character, players and gamemasters should first familiarize themselves with the rest of the rules in this book. It's better to have all the facts going in than to regret a decision later.
+
+### RACE
+
+Characters in Shadowrun may be of one of the four subgroups of *Homo sapiens*: the predominant human (*Homo sapiens sapiens*), elf (*Homo sapiens nobilis*), dwarf (*Homo sapiens pumilionis*), ork (*Homo sapiens robustus*), and troll (*Homo sapiens ingentis*). As described on pp. 34-38, all are human beings, at least according to the geneticists. Racists say differently.
+
+In the early 2050s, humans are still the most numerous race populating the planet. Each of the other races, grouped collectively as **metahumans**, are represented about equally, but are scattered unevenly across the globe. In some places, humans form an extreme minority, but those tend to be areas where metahumans have gathered for safety, protection, and isolation.
+
+Humans make up the standard. As characters, they receive no special attribute or ability modifications.
+
+* **Dwarfs** are hardier (slightly higher Body), less agile (lower Quickness), stronger (higher Strength), and more willful (higher Willpower) than humans. They also have thermographic vision, which allows them to see radiated infrared (heat) energy as well as the normal light spectrum. They are also more resistant to disease. And yes, they are short.
+* **Elves** are more agile (higher Quickness) and more charismatic (higher Charisma) than humans. They also have low-light vision, which enables them to see clearly in near-total darkness.
+* **Orks** are much tougher (much higher Body), stronger (higher Strength), less charismatic (lower Charisma), and less acute (lower Intelligence) than humans. They too have low-light vision.
+* **Trolls** are big and nasty. They are a lot tougher (much higher Body), slower (lower Quickness), much stronger (higher Strength), less charismatic (lower Charisma), less acute (lower Intelligence), and less willful (lower Willpower) than humans. They have thermographic vision, really long arms that give them advantages in melee combat, and extremely tough skin that makes them resistant to damage.
+
+A player does not have to pay extra to create a human character. Players who want to play a metahuman (dwarf, elf, ork, or troll) must pay a little extra for the privilege.
+
+### ATTRIBUTES
+
+In Shadowrun, each character has eight **Attributes**, or nine, if the character is a magician. There are three Physical Attributes, three Mental Attributes, and two (or three) Special Attributes.
+
+#### ATTRIBUTE TABLE
+
+| Physical Attributes | Mental Attributes | Special Attributes |
+| :--- | :--- | :--- |
+| Body | Intelligence | Essence |
+| Quickness | Willpower | (Magic) |
+| Strength | Charisma | Reaction |
+
+* **Body** represents general health and resistance to injury and pain.
+* **Quickness** represents overall dexterity and agility. It also sets movement, walking, and running speeds.
+* **Strength** represents the ability to lift, carry, and cause physical damage.
+* **Intelligence** represents overall quickness of mind, aptitude, and the ability to perceive surroundings. Knowledge Is represented by skills, so a stupid character would have low Skill Ratings, and not necessarily low Intelligence.
+* **Willpower** represents determination, mental stability, and the will to resist certain kinds of mental and fatigue damage.
+* **Charisma** represents attractiveness (not necessarily physical beauty), persuasiveness, personal aura, and general likability.
+* **Essence** is a measure of the soundness of the central nervous system and spirit. Invasive things, such as cyberware, reduce Essence. When Essence declines, Magic declines by the same amount.
+* **Magic** is a measure of magical energy. Serious damage to the body and invasive additions such as cyberware reduce magical energy.
+* **Reaction** determines how quickly and how often a character can act under pressure. The Reaction Rating is the average of Quickness and Intelligence, rounded down.
+
+#### Attribute Ratings
+
+A normal human character's Physical and Mental Attributes are rated from 1 to 6. Humans with cyberware, as well as metahumans (elves, dwarfs, and such), can have higher scores in one or more Attributes. Each racial type has its own maximums.
+
+When a character's Attributes are listed, the first number is always the natural, unmodified Attribute. Modifications due to cyberware and magic create a modified Attribute Rating listed in parenthesis following the base number, in this manner: 4 (6). Players can spend **Karma** during character advancement (p. 190) to improve an Attribute, which increases both the natural and modified ratings. Sometimes the rules refer to natural, as opposed to augmented, Attribute Ratings. The natural rating is the Attribute Rating minus any modifications for cyberware or magic. The augmented rating includes cyberware. The increases a physical adept receives from some special abilities are considered to be natural Attributes, though they come from a magical source.
+
+All characters have a starting Essence Rating of 6. Cyberware implants and improperly healed damage reduce this rating. No character may start with an Essence greater than 6. Characters can never have an Essence less than 0. If they do, they die.
+
+If the character can use magic, his Magic Rating starts at 6, but is equal to the Essence Rating, rounded down. So, a magician with an Essence Rating of 4.5 has a Magic Rating of 4. A character who cannot use magic has no Magic Rating.
+
+Newly created characters beginning the game cannot have any Attribute Rating greater than those indicated on the Racial Maximum Table. Attribute Ratings may, however, increase (to a point) through character advancement during the game. Average citizens (non-player characters) never have Attributes higher than the racial maximum. Specific non-player characters might exceed the racial maximums, however, and so the players should not take anything for granted. (After all, the NPCs do have to be tough enough to take on the player characters.)
+
+| Rating | Description |
+| :--- | :--- |
+| 1 | Weak |
+| 2 | Underdeveloped |
+| 3 | Typical |
+| 4 | Improved |
+| 5 | Superior |
+| 6 | Maximum unmodified human |
+
+#### RACIAL MAXIMUM TABLE
+
+| | Human | Elf | Dwarf | Ork | Troll |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Body | 6 | 6 | 7 | 9 | 11 |
+| Quickness | 6 | 7 | 5 | 6 | 5 |
+| Strength | 6 | 6 | 8 | 8 | 10 |
+| Charisma | 6 | 8 | 6 | 5 | 4 |
+| Intelligence | 6 | 6 | 6 | 5 | 4 |
+| Willpower | 6 | 6 | 6 | 6 | 5 |
+| Essence | 6 | 6 | 6 | 6 | 6 |
+| Magic | 6 | 6 | 6 | 5 | 4 |
+| Reaction | 6 | 6 | 5 | 5 | 4 |
+
+### SKILLS
+
+**Skills** define what a character knows and can do. They range from physical abilities such as Unarmed Combat, to certain sets of knowledge such as Biology. Skills are rated on a scale similar to the attributes, where a Rating of 3 is the (mythical) average rating. Beginning characters cannot have a Skill Rating higher than 6, unless the character has a **Concentration** or **Specialization**.
+
+Concentrations and Specializations mean that a character has honed or narrowed his or her scope of knowledge. Within that narrower focus, however, the character is more skilled. See Concentrations and Specializations in the Skills chapter, p. 70, for more information.
+
+### CYBERWARE
+
+Technological additions to the human body known as **cyberware** can improve a character's Attributes and abilities. Certain cyberware makes it possible for a character to carry out extraordinary actions, such as datarunning in the global computer Matrix, or using a vehicle control rig to control a vehicle by thought alone.
+
+A player who wishes to give cyberware to a character that he is creating must purchase it with funds made available during character creation. Each piece of cyberware also costs Essence, and reduces the character's Essence Rating by a certain amount. Characters can never have an Essence Rating less than O.
+
+Characters can acquire more cyberware once the game has begun. Additional cyberware costs money, but the character can now use money earned in the game. Additional cyberware also costs Essence. Unfortunately, new cyberware does not simply materialize in a character's mailbox. The character must find someone who has the part available, at a reasonable price, and then must find someone to install it surgically. Players do not have to find parts or undergo surgery to obtain cyberware during character generation.
+
+### SPELLS
+
+Magical spells are only available to magicians capable of **sorcery**. Certain types of limited-ability mages (see Adepts, p. 45, under Building A Character, and the Magic chapter, p. 124) cannot use the Sorcery Skill for spellcasting and so do not have spells.
+
+A new character's first spells are acquired during character creation. Additional spells can be learned during the game, but the character must find a teacher and the money to pay for the lessons. See Learning A New Spell, p. 132.
+
+Spells have a **Force Rating** that begins at 1 and increases as the spell's power increases. Starting spells cannot have a Force greater than 6. There is no such limitation once the game begins.
+
+### GEAR
+
+**Gear** is stuff the character owns. Gear includes weapons, clothes, a radio, a car, magical foci, and so on. The list of available gear appears (oddly enough) in the Gear chapter, p. 236. Beginning characters purchase gear with a pool of money available only during character creation. Once the game starts, anything a character wants to buy he'll have to buy with money he earns. Welcome to real life, chummer.
+
+Some gear have ratings, beginning at 1 and increasing with the capability and sophistication of the item. Starting gear cannot have a rating greater than 6, even though a particular type of gear may be available with higher ratings. There is no such limitation after the game begins.
+
+### EXTRAS
+
+**Extras** is a catchall category that covers aspects of a character's life that are more general than a spell or piece of gear. Some of these "advantages" are only available during character generation, so give them careful consideration.
+
+#### Contacts
+
+**Contacts** are vital in Shadowrun. These are the people a character knows who can reveal information important to the character's work, legitimate or not. Contacts are the purveyors of perhaps the most vital commodity of the 2050s: information. Need to know who's doing what to whom? Ask a contact.
+
+Contacts acquired during character creation are "paid" for with money available only at that time. Money spent at this stage represents the footwork normally required to hunt down a contact, establish a working relationship, and develop some degree of trust. Contacts acquired in this manner are dependable within reason. Treat them well, play them straight, and they can be trusted. A character will not get anywhere in the dicey world of Shadowrun if he doesn't trust anyone, and so a starting character is assumed to have developed a working relationship with a contact.
+
+All characters start with two free contacts. It is also possible to acquire contacts during the game, but only through roleplaying. Characters cannot "buy" contacts once the game begins; they have to earn them the hard way.
+
+#### Buddy
+
+A **buddy** is one step up from a contact. Contacts trust the character, but biz is biz. Push a contact too far, and who knows what might happen. A buddy, however, is exactly what the name implies. A buddy is a friend willing to go out on a limb for the character, to take personal risks a contact would not take. A buddy can be a source of information, but will also watch a character's back, deliver messages, and do things that only friends can be trusted to do.
+
+A character can only "buy" one buddy during character creation. The buddy must be one of the published or gamemaster-approved Archetypes, and must have Attribute, Skill, Spell, and other Ratings of 4.
+
+Actually, a character could gain another buddy once the game begins, but that will require some heavy-duty roleplaying.
+
+#### Gang or Tribe
+
+The character may be a member of, or have close ties to, a local gang or tribe. There are 2D6 members of the gang or tribe available at any time. They come when called (arriving in 1D6 x 10 minutes) and are very loyal. All gang or tribe members have Skill and Attribute Ratings of 3.
+
+#### Followers
+
+Followers are even more loyal than buddies. They will do anything for the character, including dying if necessary (hey, they knew the risks). Followers are also "purchased" during character creation, making a group of non-player characters available to the character. Followers can also provide information as contacts. Followers from any five different Archetypes the player chooses are available, but only 1D6 + 1 come at any one time. (All five followers must be from different Archetypes. Five followers of the same type would be a gang!) They have the standard Archetype statistics, but the player character must supply their gear.
+
+Acquiring followers once the game begins is the stuff of which urban legends are made.
+
+#### Lifestyle
+
+During character creation, the player must "purchase" the character's starting **lifestyle**. Lifestyle determines how well the character lives and it eliminates the worry of daily expenses like food, laundry, phone bills, and so on. To maintain a lifestyle once the game begins, the character must pay a certain amount of money (based on the lifestyle) per month. If the character fails to pay up, he finds himself living at the next lowest lifestyle. Lifestyles are covered in detail on p. 189, but the following list sums them up:
+
+* **Street**: Literally, living on the street, few or no expenses.
+* **Squatter**: One step up from the street; a synthaboard box, abandoned building, or the like.
+* **Low**: An apartment, but nothing to brag about. Just the character and the masses.
+* **Middle**: Nice house or condo, maybe even real food.
+* **High**: A high-rise luxury flat, building security, and good food on demand.
+* **Luxury**: Imagine it, chummer, just imagine it.
+
+### BUILDING A CHARACTER
+
+Players who want to jump right into Shadowrun can simply choose one of the **Archetypes**, pregenerated, typical characters, provided on pp. 49-64. These characters were built using the character creation rules from this chapter. They should be used as is. It is simpler to build a new character than to alter an Archetype. The Archetypes are good examples of what typical characters look like on paper. They are not meant to be the definitive version of a character, or even the best. They are simply characters. The gamemaster often uses Archetypes as non-player characters, while players use them as potential contacts, buddies, or followers.
+
+Building a character from scratch in Shadowrun is relatively simple. The first step is to think about the character to be created and answer a basic question. What does the character do, and why? The answers to those questions will determine the character's **priorities**. For example, if the character is a magician, magic will be a high priority. The player should also decide whether the character will be a hermetic or shamanic magician; if shamanic, what totem he will follow? The totem choice is important because it will guide other choices of character creation. On the other hand, if the character is to be a samurai, decker, or rigger, then the attributes, skills, and gear important to those characters should be favored.
+
+### ALLOCATING PRIORITIES
+
+Shadowrun uses a priority system for character generation, and it breaks down into five levels ranging from A (the most important) to E (the least important). There are also five categories of ability: Race, Magic, Attributes, Skills, and Resources. By assigning priorities to the categories, the player indicates which of the character's abilities are most important and which are less so. In other words, a player who assigns Priority A to the Magic category is saying that magic is the most important aspect of that character. If Priority A was assigned to Skills, then the character's skills would be his most important aspect.
+
+Each of the five priorities (A, B, C, D, E) must be assigned to one of the five categories. They can be assigned in any manner, with a few restrictions. The following description of each category also describes the results of assigning various priorities to that category.
+
+#### Race
+
+Race simply determines the character's race. This category carries only one restriction, but it is a fairly big one: if the player wishes the character to be a metahuman (elf, dwarf, ork, or troll), Priority A must be assigned to the Race category. If Priority B, C, D, or E is assigned to the Race category, the character is human.
+
+Human characters receive no special modifications or abilities, so if a player wants to create a human character, he should assign the "least important" priority, E, to the Race category.
+
+If the player assigns Priority A to the Race category, the character can be any of the four metahuman types. The player simply chooses dwarf, elf, ork, or troll. The metahuman type chosen does matter, however, because each metahuman type has different attribute modifications and special abilities, as shown in the Racial Modifications Table. (See Attributes below for how to use these modifiers.)
+
+#### RACIAL MODIFICATIONS TABLE
+
+| Race | Modifications |
+| :--- | :--- |
+| Dwarf | +1 Body, -1 Quickness, +2 Strength, +1 Willpower, Thermographic Vision, Resistance (+2 Body) to disease only |
+| Elf | +1 Quickness, +2 Charisma, Low-Light Vision |
+| Ork | +3 Body, +2 Strength, -1 Charisma, -1 Intelligence, Low-Light Vision |
+| Troll | +5 Body, -1 Quickness, +4 Strength, -2 Intelligence, -1 Willpower, -2 Charisma, Thermographic Vision, +1 Reach for Armed/Unarmed Combat, Dermal Armor (+1 Body) |
+
+#### Magic
+
+The priority assigned to the Magic category determines if the character is a magician. If the character is human and is to be a full magician, he must assign Priority A to Magic. If the character is metahuman and is to be a magician, he assigns Priority B to Magic. Therefore, a human magician would have Priority A assigned to Magic and (most likely) Priority E assigned to the Race category. A metahuman magician would have Priority A assigned to Race and Priority B assigned to Magic.
+
+How the priorities are assigned does not determine whether the character is a hermetic or shamanic magician. That is the player's choice.
+
+#### Adepts
+
+**Adepts**, magicians with limited abilities, assign priorities differently. Human adepts must assign Priority B to Magic, and metahuman adepts must assign Priority C to Magic. A human adept would assign Priority B to Magic and E to Race (note that Priority A is still available). A metahuman adept would assign priority A to Race and Priority C to Magic (B is still available).
+
+As with regular magicians, assigning priorities does not determine what type of adept the character becomes; that is the player's decision.
+
+#### Attributes
+
+After assigning the character's race and deciding whether or not he will be magically active, assign a priority to the Attributes category. The priority assigned determines how many **Attribute Points** the player may distribute to the character's six Physical and Mental Attributes (Body, Quickness, Strength, Intelligence, Willpower, and Charisma). The higher the priority assigned, the greater the number of points available. Priority A provides 30 points, B provides 24 points, C gives 20 points, D gives 17 points, and E has only 15 points.
+
+The player now divides the Attribute Points among the six Physical and Mental Attributes. Special Attributes (Essence, Magic, Reaction) are handled differently (see below).
+
+These points are assigned as the player wishes, keeping in mind two limitations: no character can start with an Attribute Rating higher than that listed on the Racial Maximum Table, p. 43, for that racial type, and all Attributes must have a minimum Rating of 1.
+
+Once the Attribute Points have been assigned, apply any Attribute modifiers available based on the character's Race by adding or subtracting the modifier from the allocated Attribute Points. Remember, this final Attribute Rating cannot exceed the racial maximum or be less than 1.
+
+All characters begin with an Essence of 6. That value may decrease if the character purchases cyberware. If the character is a magician (determined by the priority assigned to the Magic category), he has a starting Magic Rating of 6. However, the Magic Rating is equal to the character's Essence, rounded down. A magician with an Essence of 3.75 would have a Magic Rating of 3.
+
+A character's Reaction Rating is equal to the sum of his Quickness and Intelligence Ratings divided by 2 and rounded down. Attribute Points cannot be assigned to Essence, Magic, or Reaction.
+
+#### Skills
+
+The player may allocate a number of **Skill Points**, based on the assigned priority, to the skills of his choice. Priority A provides 40 points, B provides 30 points, C gives 24 points, D has 20 points, and E has 17 points.
+
+The player can choose any skills from the Skills chapter, p. 66, with the following limitation: only characters with a Magic Rating (those that received an appropriate priority for Magic) may use the Sorcery and Conjuring Skills. In this case, it often works best for the player to make a list of the skills that he or she wants the character to have, and then assign the Skill Points to the skills. There are no restrictions on the distribution of Skill Points except that no starting character may have a Skill Rating of more than 6, unless Concentrations and Specializations are assigned (see Concentrations and Specializations, p. 70, Skills).
+
+If using Concentrations and Specializations, apply the following rules:
+
+* Any one general skill may only have one Concentration or Specialization. Each general skill can only be acquired once.
+* If using a Concentration, add +1 to the general Skill Rating to determine the Concentration Rating, then reduce the general Skill Rating by-1. For example, a character with 5 points allocated to the general skill of Firearms that has a Concentration in Pistols (a category of Firearms) would end up with a Firearms Skill of 4 (5 - 1) and a Pistols Concentration of 6 (5 + 1).
+* If specializing, add +2 general Skill Rating to determine the Specialization Rating, then reduce the general Skill Rating by -2. A character with a Specialization also uses the appropriate Concentration at a rating equal to the original Skill Rating. Using the same example as above, if the character had Specialization in Ares Predator (a type of pistol), he would have an Ares Predator Skill Rating of 7 (5 + 2), the Pistols Concentration of 5 (the original Skill Rating), but all other Firearms (the Skill) at 3 (5 - 2).
+
+Special Skills may also be purchased during character generation (see p. 74), but are subject to gamemaster approval. One important Special Skill is Language. All characters know their native language at a rating equal to their Intelligence plus 2 (the total may exceed 6). Characters with a Street lifestyle (see Money below) also have a local dialect language like City Speak or Tunnel Talk at one-half their Intelligence Rating (round down). Other languages may be purchased in the same way as skills, but refer to the Languages section, p. 74, for more information.
+
+A starting skill must have a minimum Rating of 1.
+
+#### Resources
+
+The Resources category provides two things: money to purchase cyberware, gear, and extras, and Force Points to acquire magic spells and focuses. Only magicians receive Force Points, but all characters get the money. Priority A provides 1,000,000¥ and 50 Force Points, B provides 400,000¥ and 35 Force Points, C gives 90,000¥ and 25 Force Points, D has 5,000¥ and 15 Force Points, and E provides a staggering 500¥ and 5 Force Points. (What do you expect for the lowest priority?)
+
+#### Money
+
+In the world of the 2050s, all money conforms to an international unit of exchange, the **nuyen** (¥). Nuyen is used to purchase cyberware, gear, extras, and to pay the monetary cost of foci.
+
+To purchase cyberware, the player selects the item from the list on p. 254, pays the cost listed, and reduces the character's Essence by the indicated amount. Remember, Essence can never fall below 0, and Magic is directly connected to Essence (see Magic, p. 116).
+
+During character generation, ignore Availability, Street Price (p. 184), and any surgery or installation costs associated with cyberware. Once the game begins, however, the player must pay these costs and take availability into consideration.
+
+To purchase gear, simply pay the cost listed in the Gear section (pp. 254-265). Remember, however, that characters cannot start the game with any gear whose rating is higher than 6. A magician purchasing foci must pay the monetary cost of the item (p. 254), and the Bonding cost in Force Points (see below). Remember the incidentals—ammunition, body armor, cyberdecks, programs, conjuring materials, magical libraries, and so on.
+
+To buy extras, pay the costs listed on the table below. A lifestyle must be purchased during character generation. If the player chooses not to purchase a lifestyle, that character is living on the street, like it or not. Characters can buy several months' worth of any lifestyle by paying a lump sum up front during character generation. Also remember, characters start with two free contacts.
+
+**COST OF EXTRAS**
+
+| Extra | Cost |
+| :--- | :--- |
+| Contact | 5,000¥ |
+| Buddy | 10,000¥ |
+| Gang/Tribe | 50,000¥ |
+| Followers | 200,000¥ |
+| **Lifestyle** | **Cost** |
+| Street | 0¥ |
+| Squatter | 100¥ per month |
+| Low | 1,000¥ per month |
+| Middle | 5,000¥ per month |
+| High | 10,000¥ per month |
+| Luxury | 100,000¥ per month |
+
+#### Force Points
+
+The second type of Resource available is **Force Points**. Force Points are used to purchase magic spells and to acquire foci, items of magical power used by magicians. Spells are chosen in a manner similar to Skills. The player should look through the Spell Directory on pp. 151-158, choose the spells he wants his magician to know, write them down, and assign points to each spell from the Force Points total. Remember, no starting spell can have a Force greater than 6. It is also important to keep the totem modifiers (p. 119) in mind when choosing spells, because they will affect how the character is roleplayed.
+
+Characters purchasing a focus must pay the **Bonding cost** (p. 137) for the item from their available Force Points. For example, if the focus costs 8 Karma to bond, the player must spend 8 Force Points, plus the monetary cost, to acquire the focus.
+
+#### More Metahumans (Optional)
+
+In the Shadowrun universe, metahumans are the minority. The character creation system reflects this by making the Metahuman Race priority very expensive compared to other priorities at the same level. This design keeps the number of metahuman shadowrunners down to something near the actual human-to-metahuman ratio within the game universe.
+
+**ALLERGY AND SEVERITY TABLE**
+
+| Allergy | Attributes | Skills | Force | Nuyen |
+| :--- | :--- | :--- | :--- | :--- |
+| **Uncommon** | | | | |
+| Iron, silver | +1 | +1 | +1 | +200¥ |
+| **Common** | | | | |
+| Plastic, pollutants, sunlight | +2 | +2 | +2 | +400¥ |
+| **Severity** | | | | |
+| Nuisance | — | — | — | — |
+| Mild | +1 | +2 | +1 | +100¥ |
+| Moderate | +2 | +3 | +2 | +200¥ |
+| Severe | +3 | +4 | +3 | +300¥ |
+
+**MASTER CHARACTER CREATION TABLE**
+
+| Priority | Race | Magic | Attributes | Skills | Resources |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| A | Metahuman | Human Magician | 30 points | 40 points | 1,000,000¥ / 50 |
+| B | Human | Human Adept / Metahuman Magician | 24 points | 30 points | 400,000¥ / 35 |
+| C | Human | Metahuman Adept | 20 points | 24 points | 90,000¥ / 25 |
+| D | Human | — | 17 points | 20 points | 5,000¥ / 15 |
+| E | Human | — | 15 points | 17 points | 500¥ / 5 |
+
+### COMPLETING THE CHARACTER
+
+So far, the character is just numbers. Now it's time to build on those statistics. First, make sure the character creation process is complete.
+
+* If the character is a magician, what kind? If a shaman, what is its totem? (Adepts have similar requirements.)
+* Are the proper priorities for Race and Magic assigned?
+* Have all Attribute Points been allocated and attribute modifiers from Race applied?
+* Have all Skill Points been allocated, and the adjustments for Concentrations and Specializations made (if used)?
+* Does the character have the necessary equipment, cyberware, spells, contacts, foci, and so on?
+* Has a lifestyle been chosen?
+
+#### Starting Money
+
+Any unspent Resource nuyen translates to money available during the game at a 10:1 ratio. If, after character generation, a character had 15,000¥ left, that character would start the game with 1,500¥(15,000+10). All characters also start with 3D6 x 1,000¥, which can be in whatever form the player chooses.
+
+#### Starting Karma
+
+Human characters begin the game with 1 point in their Karma Pool (p. 191). Metahumans begin the game with 2 points in their Karma Pool, unless the More Metahumans optional rule (above) is in use, in which case they only get the standard 1 point. (What? You want everything?)
+
+A new shadowrunning team starts the game with 2 points in its team Karma Pool (p. 191). Starting characters may contribute some of their starting Karma Points to team Karma if they wish.
+
+Now, move on to the fun part.
+
+### FLESHING OUT THE CHARACTER
+
+To really get the most enjoyment from the game, players should flesh out their character and bring it to life. Again, a character without a background is just numbers on paper.
+
+What follows parallels the approach many authors, playwrights, and screenwriters use to flesh out a character. The responses to these questions will help players build a fuller character background, which they can continue to expand upon later.
+
+#### TWENTY QUESTIONS
+
+Each player should jot these questions down on a piece of paper and answer them, as fully as possible, for their character. Points to take into consideration and possible repercussions of a decision follow each question.
+
+* **What is the character's sex?**
+    The choice is simple; male or female, but the choice may make a difference. Biological, sociological, and, some say, psychological perspectives and needs are different in men and women. Sexism in corporate management and advancement is pretty much a thing of the past in the 2050s era, but may still exist on the streets, where attitudes are personal. What happens when the next street samurai a male character meets is female, and frighteningly sexist?
+* **What Is the character's physical size?**
+    Is the character a tall, skinny dwarf? Or a short, stout elf? Or just average?
+* **What is the color of the character's hair, eyes, and skin?**
+    There's natural color, and then there's augmented color. Modern cosmetics are amazing, and used by almost everyone (both sexes) to one degree or another. What color or colors is the character's hair? How is it worn? Why? What about eye color? Is it natural? (Cybereyes can look like almost anything.) Does the character need glasses, wear contacts, or has he already had corrective surgery? What about skin color? Metahumans come from all racial types, so yes, there are Asiatic dwarfs, negro elves, and almost every other possible race/race combination. And remember, racism in 2053 is rooted in race (human, dwarf, elf, ork, or troll) rather than skin color. (Why worry about the tanned-looking guy standing next to you on the subway when that thing over there has hands the size of your head?)
+* **What Is the character's general appearance?**
+    Does the character stand erect or stooped? Dress anachronistically, stylishly, or inauspiciously? Look intimidating or casual? Is the character attractive? Is there something distinctive in the shape of its head, face, or limbs? What might someone seeing the character for the first time think?
+* **Where was the character born?**
+    A child growing up in Seattle will have different childhood experiences than one growing up on NAN tribal lands. Heck, a child growing up in a rich neighborhood will have different experiences than one growing up a few blocks away in a poorer neighborhood. Decide into what country, state, province, city, and, if possible, neighborhood (or at least poverty level) the character was born. Many psychologists argue that what we are as adults is influenced primarily by who we were as children. Think about the character's childhood, neighborhood, friends, and family.
+* **What is the character's age?**
+    When a character was born is as important as where. Was the character alive before the Awakening in 2011? How about the Treaty of Denver in 2018? Or the Computer Crash of 2029? Or the Night of Rage in 2039? Or even the secession of the elven nation of Tir Tairngire from NAN four years earlier? Each of these events, and many others described in And So It Came To Pass, p. 20, changed the world. Was the character in the vicinity of any of these events, and did the event affect him or her? How did those events affect the character's family or friends?
+* **What was the character's family?**
+    What did the character's parents do? What was the family's means of support? Were the parents married, separated, divorced? What was family life like? Does the character have any siblings? Where are they now? What do they do? Does the character keep in contact with them? Did the character even know his birth family? If not, who or what was his surrogate family?
+* **Has the character begun his own family?**
+    Is the character married? Divorced? Separated? Does he have children? If not, does he want to have children?
+* **Where or how was the character educated?**
+    Where did the character learn his skills? Did he go to high school? Did he continue into higher education? Where? Was his schooling public, private, or corporate-sponsored? Was the character privately tutored, or did he get his lessons from the school of hard knocks?
+* **Has the character ever done anything else for a living?**
+    Sure, the character is shadowrunning now, but what about before? Did the character ever earn money or make a living doing something "legitimate"? Did he enjoy it? Why did the character stop doing it? Would he go back?
+* **What about the character's political and religious beliefs?**
+    These are sure-fire argument-starters, but what about it? Does the character have any defined political beliefs? What are those beliefs? Is the character religious? Was his family religious? Are they still? Did the character change religions, and if so, why?
+* **What is the character's moral code?**
+    Will the character kill? Why? When did the character decide that he could? Does he think killing is acceptable? Under what circumstances? Where does the character stand on related issues like capital punishment, abortion, and euthanasia? Does the character adhere to a personal sexual ethics code, or even think about it?
+* **Does the character have any goals?**
+    Is this all the character ever wants to do? Does he have any ambitions beyond the here and now? Is he satisfied with the way things are? If not, why not, and does he plan to change things? How? How long will that take, and is the character willing to wait that long?
+* **Why does the character run the shadows?**
+    What path led him here? Does the character run for the thrill? The money? To tweak the noses of the powers that be? As one step of a personal plan? As a political statement? Would any event or circumstance make the character stop running the shadows?
+* **What is the character's personality?**
+    Is the character pessimistic? Idealistic? Radical? Conservative? Resigned? Easy-going? Militant? Aloof? Intense? Bombastic? Obsessive? Superstitious? Extroverted? Introverted? Ambivalent? Rational? Opinionated? Passionate? Questioning?
+* **What special qualities does the character possess?**
+    This does not necessarily refer to skills, but to what the character does well. Does he get along well with people? Is he skilled at taking care of business? Prioritizing tasks? Planning ahead?
+* **Are there certain things the character just cannot do?**
+    Get close to people? Perceive himself realistically? Work well with others? Think clearly under stress? Handle money well?
+* **What does the character hate?**
+    Corporations? Orks? Shadowrunning? Personal questions? Sentimentality? The media? Her family? Certain people? Society in general?
+* **What does the character love?**
+    The seashore? The view from tall buildings? Quiet times? Loud music? Art? Taking care of business? A specific person? A certain place?
+* **What is the character's name?**
+    What was his or her birth name? What name does he use now? Did the character choose his name, or was it a nickname or joke?
+
+### THE CHARACTER RECORD SHEET
+
+Congratulations! A character is born. Fill out the Character Record Sheet provided in the back of this book. Make photocopies of the blank sheet if needed. The character is ready to run.

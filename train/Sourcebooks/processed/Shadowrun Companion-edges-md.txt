@@ -1,0 +1,563 @@
+### EDGES AND FLAWS
+
+Edges and Flaws help players create more fully realized starting characters and give the gamemaster a few good hooks with which to bring new characters into his campaign. Edges and Flaws enable players to modify and flesh out their characters by providing them with specific advantages (Edges) and disadvantages (Flaws). Unlike the character-creation variations described earlier in this section, Edges and Flaws do not represent an "across-the-board" system of altering player characters ; each individual player selects specific Edges and Flaws for his or her character, or may decline to use this option at all. This allows Edges and Flaws to be used with any of the variant character-creation systems or with the standard system provided in the *Shadowrun* rulebook.
+
+As with any optional rule, gamemasters have the final say over which Edges and Flaws may be used in their campaigns, and may prohibit the use of this option altogether.
+
+### PURCHASING EDGES AND FLAWS
+
+Players purchase Edges and Flaws during character creation. (If desired, gamemasters may allow their players to add Edges and Flaws to their characters at any time during game play. Because many Edges and Flaws actually represent things that might happen to characters over the course of their lives, however, we recommend that gamemasters require such advantages and disadvantages to be incorporated into existing characters through roleplaying.)
+
+Every Edge and Flaw has a point value-Edges have positive ("plus") values and Flaws have negative ("minus") values. When using the standard letter-based priority system, players may select any combinations of Edges and Flaws whose combined point values equal zero. For example, a player might select Ambidexterity (2 points), Color Blind (-1 point), and Combat Monster (-1 point) for his character. Players can purchase Edges and Flaws in the same manner using the point-based character-creation system, or gamemasters may allow their players to use Building Points when selecting Edges and Flaws. In this case, a player can spend Building Points to buy Edges or increase the number of Building Points he has available by the point value of any Flaws he takes. For example, a player who takes the Flaw of Blind (-6 points) can add 6 Building Points to his allowance.
+
+In the following Edge and Flaw descriptions, a positive value indicates an Edge and a negative value Indicates a Flaw. The point values of all Edges and Flaws described in this section also appear in the Edges/Flaws Table on page 35.
+
+#### LIMITATIONS
+
+In all cases, bonuses from Edges cannot raise Attribute, skill or Spell Force ratings beyond the standard rating limits and maximums for new characters except with the gamemaster's approval. In cases where Edges and Flaws modify test target numbers, target numbers can never be reduced below 2. Unless otherwise noted, Edges and Flaws cannot be combined. For example, a player cannot gain the advantages at character creation that would be allowed by taking both the Pacifist and Total Pacifist Flaws for his or her character. The High School Education Edge implies that unless a character has this Edge, he or she may be considered to have only an eighth-grade level of academic achievement. Depending on the type of campaign the gamemaster runs and the desired backgrounds of his players' characters, an assumed lack of formal education might not fit the group's gaming style. The gamemaster can handle this several ways, the easiest of which is simply to not allow education-based Edges and Flaws to be used in the game (Illiterate, Uneducated, High School Education, Technical School Education, College Education). A lack of formal education does not mean that a character is stupid or illiterate, only that he or she does not hold a graduation certificate or other degree. A character may be self-taught: he may have completed all the necessary coursework for a certificate or degree but still owe the educational institution money, allowing them to withhold the graduation paperwork: she may have been tutored at home and lack a certificate from a recognized institution or may have finished her high-school equivalency degree studies but not taken the final exam.
+
+#### ELIMINATING FLAWS
+
+With enough effort, individuals can overcome nearly any bad habit or learn to minimize the effects of innate physical or psychological disorders. To reflect this, gamemasters may give their players the option of eliminating their characters' Flaws during the course of game play. If you use this option, make the characters work hard to overcome a Flaw. Just like in real life, eliminating a Flaw should be a difficult and long-term process. For example, in order to eliminate an addiction, the character must endure a painful withdrawal process.
+
+Many Flaws can be eliminated or otherwise resolved with sufficiently Involved campign setups and convincing, in-character roleplaying. In addition to any requirements the gamemaster sets for permanently getting rid of a Flaw, the character must pay Good Karma equal to 10 x the Flaw's point value. A character trying to kick BTL addiction, for example, must go through the withdrawal process and then pay 30 points of Good Karma (10 x 3-point Flaw) to get the monkey off his back for good. Some Flaws also require medical attention or other radical procedures to eliminate. The gamemaster determines the nuyen cost of these measures, which must be paid by the character in addition to the Karma cost. Players should keep in mind, however, that eliminating one Flaw might just gain the character another: paying Karma and cash for surgery to remove the Night Blindness Flaw might result in an unexpected cortex bomb.
+
+#### DESIGNING EDGES AND FLAWS
+
+Custom-designed Edges and Flaws provide gamemasters and players with even greater opportunities to give characters distinct traits. Use the Edges and Flaws described in this section as models when designing your own. In general, no Edge should be worth more than 6 points and no Flaw should be worth more than -6 points. Base the point value of new Edges and Flaws on each one's benefits or drawbacks. For example, an Edge that provides a character with substantial benefits should have a high point value ; an Edge that provides only minimal benefits should have a low point value. Finally, all Edges and Flaws must be approved by the gamemaster before players may use them in a game.
+
+Stacy wants to create a character who's a drop-dead gorgeous head-turner-a character who gets noticed right away and uses her looks to get her way. The gamemaster, Bryan, likes the idea and suggests a new Edge to reflect the character's use of her stunning looks. He calls the new Edge "Good Looking and Knows It". He decides that the Edge provides a -2 target modifier on all Social and Etiquette Tests made when dealing with members of the opposite sex (-1 target modifier when dealing with members of the same sex). Furthermore, members of the opposite sex greet the character with Friendly attitudes when they first meet her (see the Social Skill Table, p. 182, SRII). Bryan decides that these benefits are worth 2 points.
+
+Stacy feels that the benefits are not worth the 2 points the Edge will cost. She says that the Edge provides a benefit only during initial contacts between her character and others. Her argument convinces Bryan, who reduces Good Looking and Knows It to a 1-point Edge.
+
+Bryan then decides that the flip side of good looks-bad looks-could make an interesting Flaw. He christens the new 1-point Flaw "Ugly and Doesn't Care". The effects of Ugly and Doesn't Care are simply the reverse of Good Looking's benefits. A character with the Flaw receives a +2 target modifier on all Social and Etiquette Tests when dealing with members of the opposite sex (+1 target modifier when dealing with members of the same sex). New acquaintances display Suspicious attitudes when first meeting the character (see the Social Skill Table, p. 182, SRII).
+
+### ATTRIBUTE EDGES
+
+#### Bonus Attribute Point
+* **Value**: 1
+A player can gain 1 bonus Attribute Point for his or her character. The bonus Attribute Point can be added to any Attribute except Essence, Reaction or Magic. Players can take no more than 5 bonus Attribute Points. Unless authorized by the gamemaster, bonus Attribute Points cannot raise the Attribute Ratings of characters beyond the racial maximums for the character. (See Exceptional Attribute.)
+
+#### Exceptional Attribute
+* **Value**: 2
+A player can increase the racial maximum for one of his or her character's Attributes by 1. Note that Exceptional Attribute simply raises the maximum-it does not increase the character's actual Attribute Rating to the new maximum. To do that, players must take bonus Attribute Points per the Bonus Attribute Point Edge. Further, the bonus Attribute Point used to raise the character's rating beyond the original racial maximum has an Edge value of 2. At the gamemaster's discretion, the player character may increase the maximum rating by spending Karma at any time during the game. Player characters can take Exceptional Attribute only once per Attribute.
+
+### SKILL EDGES AND FLAWS
+
+#### Aptitude/Incompetence
+* **Value**: 2/-2
+Aptitude or Incompetence reflect expertise or ineptitude in a particular skill. A character with Aptitude for a skill gains a -1 target modifier to all tests made with the skill. A character with Incompetence receives a +1 target modifier to all tests made with the skill. Characters can have Aptitude or Incompetence only in skills that they can use. The character must know the skill or be able to default to it through the Skill Web.
+
+Characters may take Aptitude or Incompetence only once for any single skill. Gamemasters may also wish to limit characters to 1 Aptitude, but should allow player characters to be incompetent in as many areas as the player wants. Closely monitor the use of Aptitude-enhanced Combat, Magical and Computer skills, as these can easily disrupt the balance of a game. In fact, gamemasters may choose to prohibit players from using the Aptitude Edge with certain skills to prevent such problems. If possible, gamemasters should try to highlight characters' areas of Aptitude and Incompetence at least once per game.
+
+#### Bonus Skill Point
+* **Value**: 1
+For 1 point, the character gains 1 bonus Skill Point, which he can add to any skill. Players may purchase no more than 5 bonus Skill Points for their characters. Bonus Skill Points cannot be used to raise skill ratings above the limits for starting characters.
+
+#### Home Ground
+* **Value**: 2
+Home Ground provides a character with a -1 target modifier for all Skill Tests made within the character's home turf. The character's home turf is a particular location with which the character is intimately familiar. The location must be either a small area-no larger than a single building-or an environment that is encountered infrequently during the campaign. For example, in a Seattle-based campaign, the desert would be an infrequently encountered environment and could be considered home ground for a displaced desert nomad character. The desert would not be a suitable home ground in a campaign based in the magic-soaked Mojave, however. Gamemasters must approve all home grounds in their campaigns.
+
+For a decker character, a home ground might be a particular computer system-a Matrix Host the decker knows extremely well, for example. In this case, the character would receive the +1 target modifier for all tests made while in that system. Favorite data havens, particularly the Denver Nexus, also make suitable home grounds for decker characters. Many corporate deckers have the Home Ground Edge in their corporate systems.
+
+All home grounds must be fixed locations-characters cannot move them around. If a character's home ground is destroyed, the character loses his Home Ground Edge.
+
+### PHYSICAL EDGES AND FLAWS
+
+Physical Edges and Flaws stem from a character's physical body and capabilities. Assume that the physical Flaws presented below cannot be corrected with cybertechnology or existing medical technology.
+
+#### Adrenaline Surge
+* **Value**: 2
+Adrenaline Surge enables a character to react more quickly than normal during combat situations. A player character with this Edge may use it any time in combat. When employing Adrenaline Surge, the character uses the Rule of Six for Initiative (p. 32, SRII) but receives a +1 target modifier on Combat Tests and Perception Tests made in combat situations. Once a character uses Adrenaline Surge, he must use it for the remainder of the combat or until the danger has passed. Characters whose Reaction or Initiative is already enhanced by cyberware, bioware or magic (including shapeshifters and physical adepts) may not purchase Adrenaline Surge.
+
+#### Allergy
+* **Value**: -1 to -4
+A character with the Allergy Flaw is allergic to a substance or condition. To calculate the value of an Allergy, decide whether the substance or condition is Uncommon or Common, then determine the severity of the symptoms-Mild, Moderate, or Severe. Consult the Allergy Table and add together the appropriate point values. For example, the value of an Uncommon Moderate Allergy is -3 points.
+
+##### ALLERGY TABLE
+| Characteristic | Value | Description |
+| :--- | :--- | :--- |
+| Uncommon | -1 point | The substance or condition is rare. Silver and gold are examples of Uncommon substances. |
+| Common | -2 points | The substance or condition is common. Plastic, sunlight and pollutants are examples of Common substances. |
+| Mild | -1 point | Symptoms are discomforting and distracting. Apply a +1 target modifier to all tests made while a character experiences the symptoms. |
+| Moderate | -2 points | Contact with the substance produces intense pain. Add 2 to the Power of weapons made from this substance when they are used against a character with a Moderate Allergy. |
+| Severe | -3 points | The character receives a Light wound for every minute he touches or remains exposed to the substance. Add 2 to the Power of weapons made from this substance when they are used against a character with a Severe Allergy. |
+
+#### Ambidexterity
+* **Value**: 2
+Ambidexterity enables a character to use either hand equally well. The character applies no target modifiers for using his or her "off" hand. However, the +2 target modifier for using two weapons at once still applies. The Ambidexterity Edge may be used to replace the Special Skill: Ambidexterity provided on page 81. Fields of Fire.
+
+#### Bio-Rejection
+* **Value**: -5 (-2 for magically active characters)
+The immune system of a character with Bio-Rejection is especially sensitive to foreign tissue and material, and the bodies of such characters reject all cyberware and bioware implants. Any organ or limb replacements must be cloned from the character's own cells. For magically active characters (magicians and adepts), Bio-Rejection costs only -2 points. Shaman characters whose totems carry cyberware Essence penalties (such as Eagle or Unicorn) cannot take the Flaw of Bio-Rejection. Characters cannot take both Bio-Rejection and Sensitive System.
+
+#### Blind
+* **Value**: -6 (-2 for magically active characters)
+A character with the Blind Flaw receives a +6 target modifier for all visual-based tests. Cyber-replacement eyes cannot correct the Blind Flaw. Magically active characters with the Blind Flaw may still use astral perception as a form of sight. Such characters receive a +2 target modifier for visual tests based solely in the physical world. However, the Blind Flaw costs only -2 points for such characters. Characters with the Blind Flaw cannot take Color Blind or Night Blindness.
+
+#### Borrowed Time
+* **Value**: -6
+A character with the Borrowed Time Flaw may die at any time. The character might have a fatal illness, be infected with a slow-acting poison or have a deadly implant such as a cortex bomb. In any case, the character's life span can be measured in months. Whenever a character takes the Borrowed Time Flaw, the gamemaster secretly rolls 3D6. The result indicates the number of game months before the character dies. When the character's time is up, he dies-nothing can save him. Give the character a dramatic death scene.
+
+If the player changes his mind and wants his character to survive, the gamemaster may allow the player to exchange Borrowed Time for another Flaw(s) worth -6 points. This option should not be made available when the player chooses the Flaw, however, because knowing that Borrowed Time need not be fatal effectively negates any drama created by the character's knowledge of his Impending death. The gamemaster can make his decision if and when the player makes the request.
+
+#### Color Blind
+* **Value**: -1
+A character with the Color Blind Flaw sees the world in black, white and shades of gray. The character receives a +4 target modifier for any tests in which distinguishing between colors is important, such as sifting through the tangle of colored wires in a bomb to find the one that will disarm it. Note that Color Blind results from a neural dysfunction and cannot be cured with cyber-replacement eyes. Characters cannot take both Blind and Color Blind.
+
+#### Deaf
+* **Value**: -3
+A character with the Deaf Flaw cannot hear. The character cannot make Hearing Tests, and receives a +4 target modifier for any tests in which hearing is a factor (such as Surprise Tests). The Hearing Flaw cannot be cured with cyberware.
+
+#### Double Jointed
+* **Value**: 1
+A Double Jointed character has unusually flexible joints and can bend and contort his or her body into extreme positions. The character receives a -1 target modifier for Acrobatic and Escape Artist Tests. At the gamemaster's discretion, the character can squeeze into small, cramped spaces through which less limber characters cannot pass.
+
+#### High Pain Tolerance
+* **Value**: Variable
+High Pain Tolerance enables a character to resist the effects of damage to a limited degree. The number of points the character spends on the High Pain Tolerance Edge determines how many boxes of physical or mental damage the character can resist. In all other respects, High Pain Tolerance uses the same rules as the adept power Pain Resistance (see p. 126, SRII).
+
+#### Infirm
+* **Value**: -1 to -5
+The Infirm Flaw represents a character's deteriorating physical fitness. Infirm characters need not be old or ill-they may simply be individuals who neglect their physical well-being, such as "couch potato" deckers or magicians. The Infirm Flaw may range from -1 to -5 points. For every Infirm point, reduce the racial maximum of the character's Physical Attributes by 1.
+
+#### Lightning Reflexes
+* **Value**: 2, 4 or 6
+For every 2 points spent on Lightning Reflexes, a character receives a +1 bonus to his Reaction Rating. Players cannot purchase more than 6 points of Lightning Reflexes (+3 Reaction bonus). Bonuses from Lightning Reflexes do not affect Initiative dice, but they are cumulative with any Reaction bonuses from cyberware, biotech or magic. Gamemasters should carefully monitor the use of Lightning Reflexes In their games to prevent the creation of characters with superhuman Reaction Ratings.
+
+#### Low Pain Tolerance
+* **Value**: -4
+Characters with Low Pain Tolerance are particularly sensitive to pain. When calculating Wound-related target modifiers for such characters, increase their Wounds by 1 level.
+
+#### Natural Immunity
+* **Value**: 1
+Characters with Natural Immunity have an innate or developed immunity to a single natural disease or toxin. The disease or toxin in question cannot affect the character. However, Natural Immunity provides no protection against man-made toxins and biowarfare agents.
+
+#### Night Blindness
+* **Value**: -2
+Night Blindness makes a character effectively blind at night or in darkness. In Full Darkness or Minimal Light conditions (see p. 89. SRII), the character receives an additional +6 target modifier for visual-based tests. Characters cannot take both Blind and Night Blindness.
+
+#### Night Vision
+* **Value**: 1
+Night Vision provides human characters with improved night vision. Such characters can see normally in light levels as low as starlight. However, total darkness (rare in twenty-first-century cities) still renders the user as blind as an individual with normal vision.
+
+#### Paraplegic
+* **Value**: -3
+Paraplegic characters are paralyzed from the waist down. Such characters can perform physical tasks that do not require the use of their legs and can move around via wheelchair, but the Paraplegic Flaw reduces their Combat Pools by half (round down). Characters with the Paraplegic Flaw can and often do become highly effective deckers, magicians and riggers. The Paraplegic Flaw cannot be treated with cyberware. Characters cannot take both Paraplegic and Quadriplegic.
+
+#### Quadriplegic
+* **Value**: -6
+Quadriplegic characters are paralyzed from the neck down and cannot perform physical tasks of any kind. The Quadriplegic Flaw does not affect a character's Attributes or use of Mental Skills. Use the character's Physical Attributes for calculating abilities such as Reaction per standard rules. If desired, a character with the Quadriplegic Flaw may take the Infirm Flaw as well. Characters with the Quadriplegic Flaw require permanent Hospitalized Lifestyles and the attention of hired medical attendants or programmed robot drones to perform physical tasks for them. The Quadriplegic Flaw cannot be treated or cured with cybertechnology or magic. Characters cannot take both Quadriplegic and Paraplegic. The Quadriplegic Flaw has no effect on a character's abilities within the Matrix or in astral space.
+
+#### Quick Healer
+* **Value**: 2
+A character with the Quick Healer Edge recovers from damage more quickly than other characters. Reduce the target numbers for the character's Healing Tests by 2 after applying all other modifiers. The target number cannot be reduced to less than 2.
+
+#### Resistance to Pathogens
+* **Value**: 1
+A character with Resistance to Pathogens has a vigorous immune system that fights off diseases and infections. The character gains 1 additional Body die when resisting the effects of disease.
+
+#### Resistance to Toxins
+* **Value**: 1
+A character with Resistance to Toxins can fight off toxins and drugs more easily than other characters. The character gains 1 additional Body die when resisting the effects of drugs and toxins.
+
+#### Sensitive System
+* **Value**: -3 (-2 for magically active characters)
+A character with the Sensitive System Flaw has immuno-suppressive problems with implants. However, these effects are less severe than those of the Bio-Rejection Flaw. The character must double all Essence losses caused by cyberware implants, and incurs twice the normal Body Index for bioware. Cultured bioware and replacement parts cloned from the character's own cells are not affected by this Flaw.
+
+If a character with this Flaw is magically active, Sensitive System costs only -2 points. The penalties are the same as for a non-magical character, and the player must also deduct any Essence loss due to this Flaw from the character's Magic Rating. Characters cannot take both Bio-Rejection and Sensitive System.
+
+#### Toughness
+* **Value**: 2
+Characters with the Toughness Edge shrug off damage more easily than others. Such characters gain 1 additional Body die for Damage Resistance Tests only. (This bonus die is cumulative with natural dermal armor, so a troll with Toughness is really tough.)
+
+#### Weak Immune System
+* **Value**: -1
+A character with the Weak Immune System Flaw is more susceptible to infection by disease than his or her Body Attribute suggests. Reduce the character's Body dice by 1 during tests made to resist diseases (the Body dice cannot drop below 1 on Resistance Tests). Weak Immune System is triggered by the immuno-suppression treatments used in cybernetic and bio-genetic procedures-consequently, it most often afflicts characters who have undergone considerable cyberware or bioware modifications.
+
+#### Will to Live
+* **Value**: 1 to 3
+For each point spent on Will to Live, a character gains 1 additional Damage Overflow Box. These additional boxes only allow the character to take additional damage before dying. They do not raise the threshold at which the character becomes unconscious or Incapacitated, nor do they affect target modifiers based on the character's Injuries.
+
+### MENTAL EDGES AND FLAWS
+
+#### Amnesia
+* **Value**: -2 to -5
+A character with Amnesia has lost some or all of his memory. (Such memory loss can be caused by neurological damage, magic, drugs or brainwashing.) The severity of the character's Amnesia is determined by the selected point value of the Flaw (between -2 and -5). A character with -2 Amnesia cannot recall who he is or anything about his past, but he retains the use of his skills and abilities. A character with -5 Amnesia has no memory of his past, including the skills and abilities he has learned. Gamemasters should create character sheets for characters with -5-point Amnesia, so that the player character does not know his character's abilities, Attributes, and so on until he acts.
+
+#### Bravery
+* **Value**: 1
+Characters with the Bravery Edge are not as easily frightened as most people. The character receives a -1 target modifier on tests made to resist fear and intimidation, including Fear caused by spells and critter powers.
+
+#### College Education
+* **Value**: 2
+A character with the College Education Edge has attended college and knows a substantial amount about a diverse group of subjects (choose a major, if you like). Reduce by half the Skill Web penalty when the character uses any Knowledge Skill. This Edge cannot be combined with any other Education Edges.
+
+#### Combat Monster
+* **Value**: -1
+A character with the Combat Monster Flaw becomes irrationally vicious in combat situations. It takes the character at least 3 Combat Rounds to break away from a fight. The character can make a Willpower (6) Test to shorten this time-each success reduces the period by 1 round, to a minimum of 1 round. Otherwise, the character can break away from a fight sooner only if he kills or disables all his opponents. Characters cannot take both Combat Monster and Combat Paralysis.
+
+#### Combat Paralysis
+* **Value**: -4
+A character with Combat Paralysis tends to "freeze up" in combat situations. On the character's first Initiative roll during any combat, assume the result is the minimum the character can roll with his Initiative dice. This applies to all forms of combat-physical, astral or cybercombat. The character also receives a +2 target modifier on Surprise Tests. Characters cannot take both Combat Paralysis and Combat Monster.
+
+#### Common Sense
+* **Value**: 2
+A character with Common Sense has an unusually sharp sense of practicality. Any time such a character is about to do something the gamemaster deems foolish, the gamemaster must warn the player. A remark such as, "You might want to reconsider that," would be appropriate.
+
+#### Compulsive
+* **Value**: Variable
+Compulsive characters possess some compulsive behavior over which they have little or no control. The value of this Flaw depends on how dangerous and troublesome the behavior is for the character. For example, a character who is compulsively organized isn't going to suffer much more than the occasional annoyance of his teammates: his Compulsive Flaw will be worth no more than -1 point. By contrast, a decker who compulsively breaks into high-level corporate Host systems would receive -3 points for his Flaw.
+
+#### Flashbacks
+* **Value**: -4
+The Flashbacks Flaw causes a character to experience vivid memory-based sensory hallucinations, known as flashbacks. These flashbacks are always triggered by specific stimuli. For example, a character who was tortured by the Universal Brotherhood might experience flashbacks of the torture whenever he or she sees an insect. Any time a character with Flashbacks encounters a potential flashback trigger, he or she must make a Willpower (6) Test. If the test fails, a flashback occurs and incapacitates the character for 1D6 minutes. The character cannot take any useful action during that time.
+
+Characters with the Flashback Flaw should confer with their gamemasters to devise an appropriate flashback trigger before beginning play. The trigger condition can be a particular sight, smell, sound, taste, idea and so on. The condition should be something that the character will encounter a few times during a game. If the trigger is too common, the character may end up experiencing flashbacks all the time. If it is too rare, the character may never experience any.
+
+#### High School Education
+* **Value**: 1
+A character with High School Education attended high school and actually paid enough attention to remember a few basic things, such as the table of the chemical elements, long division, and some pre-Awakening history. A character with High School Education can subtract 1 circle on the Skill Web when defaulting to an Attribute for Knowledge Skills. Through roleplaying, this Edge can be replaced by Technical School Education or College Education.
+
+#### Impulsive
+* **Value**: -2
+An Impulsive character tends to jump into dangerous situations without thinking about the possible consequences. When confronted with a dangerous situation, the character must make a successful Willpower (4) Test to avoid blindly jumping into the thick of things.
+
+#### Illiterate
+* **Value**: -1
+An Illiterate character cannot read (any character who grew up on the streets or in an Isolated rural area may never have learned). Such characters cannot take most Technical or Knowledge skills and must rely on other characters to translate written information for them. Illiterate characters can use computer programs that rely on icons rather than written commands and instructions; however, such characters receive a +4 target modifier to all computer-related tests and cannot have a Computer Skill higher than 1.
+
+Characters may not take both the Illiterate Flaw and any Education Edge. Through roleplaying, a character can replace the Illiterate Flaw with the Uneducated Flaw (p. 30).
+
+#### Oblivious
+* **Value**: -2
+An Oblivious character often fails to notice things (this Flaw may result from a short attention span or some other perceptual problem). Such characters receive a +1 target modifier on all Perception Tests, including Astral Perception Tests. The Flaw does not affect combat modifiers for vision or range.
+
+#### Pacifist
+* **Value**: -2
+A Pacifist character is unusually principled for the Sixth World. He cannot take the life of another person except in self-defense, and even then he kills as humanely as possible. Such characters cannot participate in premeditated murders or assassinations and are compelled to dissuade their fellow shadowrunners from killing unnecessarily. Some individuals respect the restraint of Pacifist shadowrunners, while others consider them useless wimps. Characters cannot take both Pacifist and Total Pacifist.
+
+#### Perceptive
+* **Value**: 2
+Perceptive characters are likely to notice small details and clues that others may miss. Characters with this Edge receive a -1 target modifier on all Perception Tests, including Astral Perception Tests. However, the Perceptive Edge has no effect on detection spells or the use of sensors via a neural interface. The Perceptive Edge does not affect vision modifiers in combat.
+
+#### Perfect Time
+* **Value**: 1
+A character with Perfect Time has a split-second sense of timing that enables him or her to always know the current time, to the minute. Prolonged periods of isolation, unconsciousness or the application of mind-benders such as drugs or chips can throw off the character's sense of time, but the character quickly recovers his or her Perfect Time when such conditions are removed.
+
+#### Phobia
+* **Value**: -1 to -3
+A character with a Phobia suffers from deep-seated fear activated by a specific triggering condition. To calculate the value of a Phobia, determine whether the triggering condition is Uncommon or Common, then determine the severity of the character's reaction-Mild , Moderate or Severe. Consult the Phobia Table and add together the appropriate point values. For example, the value of an Uncommon Moderate Phobia is -3 points. Note that Common Severe Phobias (a grave fear of going outside, for example) can seriously impede a character's actions.
+
+#### PHOBIA TABLE
+| Characteristic | Value | Description |
+| :--- | :--- | :--- |
+| Uncommon | -1 point | The triggering condition is relatively rare; for example, specific sounds or smells. |
+| Common | -2 points | The triggering condition is commonly encountered. Examples of such triggers include sunlight, magic, the outdoors and crowds. |
+| Mild | -1 point | The character experiences enough fright to distract him from the task at hand. Apply a +1 target modifier to all tests made while the character experiences the reaction. |
+| Moderate | -2 points | The character's reaction is seriously distracting. Apply a +2 target modifier to all tests made while the character experiences the reaction. Additionally, the character tries to avoid the triggering condition. Directly confronting the condition requires a successful Willpower (4) Test. |
+| Severe | -3 points | The character collapses in terror or runs away any time he encounters the triggering condition , unless he makes a successful Willpower (6) Test. If the test succeeds, the character may act while experiencing the reaction, but he receives a +2 target modifier to all tests. |
+
+#### Photographic Memory
+* **Value**: 3
+A character with the Photographic Memory Edge never forgets anything he or she has experienced. The character can perfectly recall faces, dates, numbers or anything else he or she has seen or heard. If the player forgets something that his or her character knows, the gamemaster must provide the correct information. Photographic Memory is especially useful for decker characters, because it enables them to remember complex security codes and other, equally useful Information without having to write it down.
+
+#### Sense of Direction
+* **Value**: 1
+A character with the Sense of Direction Edge never gets lost. The character always knows where true north lies, and can always retrace his or her path. However, Sense of Direction doesn't help a character orient himself if he has been transported somewhere while unconscious or if he is unable to see or otherwise sense his surroundings.
+
+#### Technical School Education
+* **Value**: 1
+A character with the Technical School Education Edge can push buttons and pull switches with the best of them. Reduce penalties by half when the character uses the Skill Web for Technical or Build and Repair Tests. Through roleplaying, this Edge can be replaced by College Education.
+
+#### Total Pacifist
+* **Value**: -5
+A character with the Total Pacifist Flaw cannot kill any living creature that possesses more intelligence than an insect (this includes insect spirits, which are reasonably intelligent), regardless of the provocation. If the character does so, he suffers from intense regret and depression for 2D6 weeks. During this time, the character refuses to do anything other than eat, sleep and go about his daily routine. Understandably, the Total Pacifist Flaw is rare among shadowrunners. However, a few shamans of the more pacifistic and healing-oriented totems, such as Snake, exhibit this tendency. Characters cannot take both Total Pacifist and Pacifist.
+
+#### Uneducated
+* **Value**: -1
+An Uneducated character possesses only a rudimentary knowledge of reading, writing and arithmetic. The character cannot take any Knowledge or Technical Skills during character creation, and suffers an additional +1 for each dot counted when using the Skill Web. Through roleplaying, this Flaw can be replaced by the High School and Technical School Education Edges.
+
+#### Vindictive
+* **Value**: -2
+Vindictive characters are especially vengeful and go out of their way to correct any slight against them, no matter how small. The retribution varies according to the slight. A simple Insult might call for a coldly delivered threat or punch in the face, while an injury almost always calls for the death or maiming of the offending individual. Vindictive characters carry grudges until they avenge the perceived wrong they have suffered. They can be loyal and capable comrades, but cross them once and you are on their hit lists forever.
+
+### SOCIAL EDGES AND FLAWS
+
+#### Addiction
+* **Value**: -1 or -2
+A character with the Addiction Flaw is addicted to a psychoactive drug, substance or activity such as alcohol or BTL simsense chips. If forced to go without a "fix" for more than a few hours, the character experiences withdrawal symptoms. While under the influence of the substance, the character may be mildly euphoric or totally incapacitated, depending on the substance. The point value of an Addiction Flaw is based on the strength of the substance's addictive qualities or its effects on the character-Strongly Addictive, Debilitating or Incapacitating-as noted in the Addiction Table. An addicted character who wants to "kick the habit" must spend a number of Karma Points equal to ten times the point value of his addiction (see Eliminating Flaws, p. 22).
+
+#### ADDICTION TABLE
+| Characteristic | Value | Description |
+| :--- | :--- | :--- |
+| Strongly Addictive | -1 point | The character must make a successful Willpower (6) Test to overcome his urge for the substance. Increase the target number by 1 for each day the character goes without the substance. |
+| Debilitating | -2 points | The character receives a +2 target modifier on all tests made while under the influence of the addictive substance. |
+| Incapacitating | -3 points | The character is totally helpless while under the influence of the addictive substance. The character cannot perform any real action apart from sitting and staring into space. |
+
+#### Animal Empathy
+* **Value**: 2
+A character with the Animal Empathy Edge has an instinctive feel for handling animals of all kinds. The character receives a -1 target modifier for all tests that involve influencing or controlling an animal (including riding). Additionally, the character becomes reluctant to harm animals. Animal Empathy does not affect a character's interactions with sentient creatures such as dragons.
+
+#### At Ease
+* **Value**: 3
+A character with the At Ease Edge can easily fit in with new situations, new groups, new cities and new jobs. Whenever he or she tries to fit into a new environment-infiltrating a group or trying to meet contacts in a new city-the character may use his or her highest Etiquette Concentration appropriate for interactions. Any non-player character who fails a Perception (4) Test treats the character like a local. Additionally, all non-player characters have a Friendly attitude toward the character on any future tests (see the Social Skill Table, p. 182, SRII).
+
+#### Bad Reputation
+* **Value**: -1 to -4
+A character with the Bad Reputation Flaw has a dark stain on his or her reputation. Whether or not the stain is deserved, it makes everyone react negatively to the character. The character receives a +1 target modifier on all Social Skill Tests. Increase the modifier by 1 for each point of Bad Reputation the character takes, up to a maximum of 4. For example, a character who takes -4 points of Bad Reputation receives a +4 target modifier.
+
+#### Blandness
+* **Value**: 2
+The Blandness Edge enables a character to blend into any crowd. Anyone who attempts to describe the character cannot come up with anything more precise than "he was kinda average". Any individual who attempts to track or physically locate the character receives a +1 target modifier on all tests made during such attempts. The target modifier does not apply to magical or Matrix searches.
+
+#### Day Job
+* **Value**: -1 to -3
+A character with the Day Job Flaw holds down a "real" Job besides shadowrunning. A character's day job burdens him or her with responsibilities and time requirements, but it may provide certain advantages as well. A day job can offer a convenient way to launder money, a "cover" persona that can come in handy if law-enforcement people investigate the character, a network of non-shadow contacts, and a little extra cash. If desired, gamemasters may allow player characters to take up to -3 points of Day Job. The following guidelines provide suggested monthly salaries for day jobs. Feel free to adjust these figures and restrict the characters' spending or choice of jobs.
+
+#### SUGGESTED DAY JOB SALARIES
+| Value | Monthly Salary |
+| :--- | :--- |
+| -1 point | 1,000¥ |
+| -2 points | 2,500¥ |
+| -3 points | 5,000¥+ |
+
+#### Dark Secret
+* **Value**: -2
+A character with the Dark Secret Flaw has some terrible secret whose revelation could have dreadful consequences. Such a character may have committed a horrible crime, may be the missing heir of a murdered crime family, or may have worked for an organization such as the Universal Brotherhood or the Black Lodge , just to name a few possibilities. Every two or three game sessions, the gamemaster must orchestrate an event that threatens to expose the secret and forces the character to work to conceal it.
+
+If a character's dark secret is exposed, the Flaw may be replaced with a corresponding level of Bad Reputation at the gamemaster's discretion. Alternatively, the character may attempt to redeem himself.
+
+#### Dependent
+* **Value**: Variable
+A character with the Dependent Flaw has a loved one who depends on him or her for support and aid from time to time. Dependents may include children, parents, a spouse, a sibling or an old friend. Meeting the needs of a dependent should take up a fair amount of the character's time, as well as some of the character's money. The gamemaster should set the point value of the Flaw, according to the needs of the dependent and the demands those needs place on the character.
+
+#### Distinctive Style
+* **Value**: -1
+A character with Distinctive Style has a flair for the dramatic in dress, behavior and speech, and simply can't stand not being recognized for his or her work. Understandably, this makes the character dangerously memorable at times. A character who takes this Flaw must choose some way to display his or her style. For example, a character might cultivate a distinctive appearance by sporting a fluorescent green mohawk and a Soviet army jacket at all times. Whatever type of flair a character selects, it must enable other individuals to easily remember the character.
+
+#### Elf Poser
+* **Value**: -1
+Elf Posers are human characters who want to be elves. This desire prompts them to associate with elves as much as possible, talk like elves, and alter their appearances so that they resemble elves. An Elf Poser character starts the game with a poor command of Sperethiel ; the character receives a +2 target modifier when trying to understand or speak the language. Sperethiel-speakers will laugh at the character's misspoken phrases ("You want to do what to my dog? ... oh, you're trying to say "let's get something to eat."). Additionally, elves treat the character with suspicion: the character receives a +2 target modifier for Social Skill Tests made against elves.
+
+Characters who undergo cosmetic surgery to get "elf ears and elf eyes" may successfully "pass" as elves and avoid the Social Skill Test target modifier. However, if an elf discovers the character's secret, the elf treats him or her with contempt and Hostility (see the Social Skill Table. p. 182, SRII).
+
+Note that only human characters may take the Elf Poser Flaw.
+
+#### Extra Contact
+* **Value**: 1
+By spending 1 point, a character can receive 1 additional Level 1 contact during character creation.
+
+#### Extra Enemy
+* **Value**: -1
+By spending -1 point, a character can receive 1 additional enemy during character creation (see Enemies, p. 71).
+
+#### Friends Abroad
+* **Value**: 3
+A character with Friends Abroad has a knack for making friends everywhere he or she goes. The character starts the game with an extra contact who must reside in a foreign land. (Because the default setting for *Shadowrun* is Seattle, the extra contact must be from outside UCAS territory, unless the game is based in another country.) Alternatively, gamemasters may allow extra contacts to reside in any major city other than the home city of the campaign.
+
+The character must make an effort to maintain this contact-this may be as simple as sending e-mail messages. The character must Indicate how he or she plans to maintain the contact when he or she takes the Edge, and the gamemaster must approve the method. If the character fails to appropriately maintain the contact, he or she loses the contact permanently.
+
+Additionally, the character can make new contacts in any foreign land he or she visits. To do so, the player chooses the individual contact (most likely someone his or her character worked with) and, as above, describes for the gamemaster how the character will cultivate that contact. The character must communicate with the foreign contact frequently for 1 year, then occasionally after that per the Contact Upkeep rules, p. 62.
+
+#### Friends in High Places
+* **Value**: 2
+Characters with the Friends in High Places Edge have important, influential (Level 2) contacts-such as megacorporate VPs or government officials. From time to time, such contacts can provide considerable help to a character-much more than a regular contact can provide. These contacts will not risk their own positions to help a character, but will do anything short of that. A character who abuses his or her high-ranking contact's trust can quickly lose this Edge, however.
+
+At the gamemaster's discretion, a character can have an even higher-placed contact, such as a megacorporate CEO. However, such individuals rarely have anything to do with lowly shadowrunners. Friendships with such immensely powerful individuals often carry substantial risks as well as benefits.
+
+#### Human-Looking
+* **Value**: 1
+A metahuman character with the Human-Looking Edge can "pass" for human in most circumstances. Human non-player characters respond with Neutral attitudes toward such characters when making Social Skill Tests (p. 182, SRII). Additionally, human non-player characters do not roll on the Racism Table (p. 182. SRII) when interacting with a Human-Looking character, unless they are in close proximity to the character.
+
+Only elves, dwarfs, and orks can take the Human-Looking Edge. Metahuman-variant characters (see Metahuman Variants, p. 38) cannot take this Edge.
+
+#### Hung Out to Dry
+* **Value**: -4
+For a reason chosen by the gamemaster, the character's contacts suddenly dry up-no one will talk to him or her. The character can try to find out what happened, or simply get on with his or her life. Resolve the effects of this Flaw with roleplaying. If desired, the resolution of this Flaw can become the subject of an entire campaign. Such a story line can provide an opportunity for the character to redeem his or her reputation among the character's contacts, or further antagonize them until they become Enemies (see p. 71) and the character ends up with a permanent Bad Reputation Flaw (p. 31).
+
+#### Good Reputation
+* **Value**: 1 to 2
+Deservedly or not, the character with this Edge enjoys a Good Reputation that makes others trust and respect him or her. For each point spent on Good Reputation, the character receives a -1 target modifier for Social Skill Tests.
+
+#### Uncouth
+* **Value**: -2
+An Uncouth character has no social graces. Such characters suffer a +2 target modifier on Social Skill Tests (including Negotiation and Etiquette Tests). This Flaw is common among street muscle-types, and many professional shadowrunners consider it the mark of an amateur.
+
+### MAGICAL EDGES AND FLAWS
+
+#### Bad Karma
+* **Value**: -5
+A character with the Bad Karma Flaw lives under the weight of some black mark on his soul. This bad karma may result from a past transgression or simply the bad luck of being born under the wrong star. A character with the Bad Karma Flaw adds a point to his Karma Pool for every 20 points of Karma he earns, rather than every 10.
+
+#### Bonus Force Point
+* **Value**: 1 to 3
+For a cost of 1 point, a character gains 2 bonus Force Points. The character can use the Force Points however he or she desires. Players can purchase up to 6 bonus Force Points for their characters in this manner.
+
+#### Focused Concentration
+* **Value**: 2
+A magician character with Focused Concentration has naturally sharp concentration and is less easily distracted when sustaining spells. The character receives a +1 target modifier when casting sustained spells. Additionally, the character can simultaneously sustain a number of spells equal to his or her Intelligence Rating +1.
+
+#### Magic Resistance
+* **Value**: 1 to 4
+For each point spent on Magic Resistance, a character with this Edge receives 1 additional die for Spell Resistance Tests. However, the character cannot be magically active, and the Magical Resistance Edge works against even beneficial spells such as Heal.
+
+#### Magical Talent
+* **Value**: Variable
+Only magically active characters with active Magic Ratings of 1 or higher can purchase any of the Magical Talent Edges listed on the table above. A character whose Magic Rating drops below 1 automatically loses all Magical Talent Edges.
+
+#### MAGICAL TALENT EDGE TABLE
+| Edge | Value | Description |
+| :--- | :--- | :--- |
+| Spellcasting Talent | Variable | The character has the innate ability to cast a single spell. The base Force Rating of the spell equals the character's starting Magic Attribute - 1. The character can raise the Force Rating with spell foci or initiation. If the spell can be cast through ritual sorcery, the character may do so if he or she has the Sorcery Skill. Gamemasters may modify the point cost of the Edge for particularly powerful or weak spell abilities. |
+| Combat Spells | 4 pts | |
+| Detection Spells | 2 pts | |
+| Health Spells | 3 pts | |
+| Illusion Spells | 3 pts | |
+| Manipulation Spells | 4 pts | |
+| Summoning Talent | 3/5 pts | The character can summon one type of spirit-either watchers (a 3-point Edge) or a single type of elemental or nature spirit (a 5-point Edge), such as an Earth elemental or a City spirit. The character does not need to have the Conjuring Skill to have this talent. Characters can summon only 1 spirit at a time. |
+| Astral Sight | 3 pts | The character can see into the astral plane through astral perception. However, characters cannot astrally project or make active use of any Magical Skills without the appropriate Magic Priority allocation. Astrally active characters have all the normal abilities of astral perception and can learn the Aura Reading Skill (p. 96, Awakenings). |
+| Poor Link | 2 pts | Any ritual sorcery directed against the character receives a +2 target modifier for the Link Test portion of the ritual. Note that this Edge might work against a character in some circumstances , such as when friendly magicians want to use ritual sorcery to locate or aid the character. |
+
+### MISCELLANEOUS EDGES AND FLAWS
+
+#### Cortex/Cranial Bomb
+* **Value**: -6
+Someone has planted a cortex or cranial bomb in the character's head (see p. 27. Cybertechnology, for bomb variants). The gamemaster decides who planted it and what that person or group wants. The player need not pay for the bomb with the character's starting Resource points-the bomb's a freebie. If the character manages to disarm the bomb, the gamemaster may elect to replace it with Extra Enemies, Bad Reputation, Amnesia, a Phobia, an Addiction or any other Flaw(s) worth an equal number of points.
+
+#### Hunted
+* **Value**: -2, -4 or -6
+The character's Enemies (see p. 71) aggressively hunt down the character. If the Enemy is killed, a new one takes its place, with a starting rank equal to that of the previous Enemy when he, she or it died. The life of the Hunted never gets easier, only harder.
+* 2 point Flaw: A Rank 3 Enemy; or add 1 point to an existing Enemy.
+* 4 point Flaw: A Rank 4 Enemy; or add 2 points to an existing Enemy.
+* 6 point Flaw: A Rank 5 or 6 Enemy (subject to gamemaster's approval); or add 3 points to an existing Enemy.
+
+#### Mysterious Cyberware/Bioware
+* **Value**: -3
+The character has a mysterious piece of cyberware in his body of which he is unaware. The gamemaster chooses the cyberware, and the character does not become aware of its existence until the gamemaster chooses to reveal it-perhaps by having it kick in at an inconvenient time or show up on a detector when the character tries to travel or pass unnoticed into a corporate environment. As soon as the character discovers and eliminates or otherwise neutralizes the cyberware, the gamemaster can replace the Flaw with Extra Enemies, Bad Reputation, Amnesia, a Phobia, an Addiction or any other Flaw(s) worth an equal number of points.
+
+#### Police Record
+* **Value**: -6
+A character with the Police Record Flaw has fought the law and lost. The character's resulting police record has a number of effects. First, all of the character's contacts must be street level (corp types don't hang with ex-jailbirds). Second, most corporate security departments will have a record of the character's face and cyberware, plus a description of his or her modus operandi. Third, Lone Star has copies of the character's records, names, numbers and so on. Lone Star patrolmen recognize the character and harass him or her on sight. Fourth, the character can never obtain a legal SIN, and has to call his or her parole officer every two days and check in with him once a week. The parole officer knows where the character lives, knows his or her usual contacts, and can legally break down the character's door any time he wants. If the character's record is expunged or the character successfully ditches his or her past life, the gamemaster may replace the Police Record Flaw with Hung Out to Dry, Bad Reputation, Extra Enemies or another Flaw(s) of equal point value.
+
+#### Registered Equipment
+* **Value**: 6
+A character with Registered Equipment has all the permits needed to legally possess and carry restricted foci and Class C cyberware within the UCAS (or primary country of his or her campaign). Of course, these permits raise the suspicions of fellow shadowrunners and others who mistrust the authorities. As long as the character carries his or her permits, however, he or she will not be arrested for possessing the illegal item. Of course, that may not stop the authorities from closely watching the character. Furthermore, the authorities can claim that the character has violated the law with the registered equipment and cancel the permits without warning. To purchase the Registered Equipment Edge, a character must have a valid SIN and be registered as a citizen in the country where the campaign takes place.
+
+#### State-of-the-Art Model
+* **Value**: 2, 4 or 6
+The State-of-the-Art Model Edge enables characters to possess state-of-the-art bioware and cyberware unavailable to most runners. This Edge can easily disrupt the balance of a game. Gamemasters should carefully consider its use in their games and prohibit it if they choose. Gamemasters may also find the optional Availability rules (see p. 90) useful for controlling the use of bioware and cyberware in their games.
+
+Players may purchase 2-point, 4-point and 6-point versions of State-of-the-Art Model. A 2-point State-of-the-Art Model Edge provides a character with access to Availability 10 bioware and cyberware and alpha-grade implant technology. A 4-point Edge provides access to Availability 20 cultured bioware and cyberware and beta-grade implant technology. A 6-point Edge provides access to delta-grade cyberware of any Availability. State-of-the-Art does not affect the standard costs of bioware and cyberware. To prevent players from using this Edge to create virtually invincible characters, gamemasters may require any character who possesses State-of-the-Art Model to also have a Flaw such as Extra Enemy, Hung Out to Dry or Cortex Bomb.
+
+### EDGES AND FLAWS TABLE
+
+| EDGES | POINT VALUE |
+| :--- | :--- |
+| **Attributes** | |
+| Bonus Attribute Point | 1 |
+| Exceptional Attribute | 2 |
+| **Skills** | |
+| Aptitude | 2 |
+| Bonus Skill Point | 1 |
+| Home Ground | 2 |
+| **Physical** | |
+| Adrenaline Surge | 2 |
+| Ambidexterity | 2 |
+| Double Jointed | 1 |
+| High Pain Tolerance | Variable |
+| Lightning Reflexes | 2. to 6 |
+| Natural Immunity | 1 |
+| Night Vision | 1 |
+| Quick Healer | 2 |
+| Resistance to Pathogens | 1 |
+| Resistance to Toxins | 1 |
+| Toughness | 2 |
+| Will to Live | 1 to 3 |
+| **Mental** | |
+| Bravery | 1 |
+| College Education | 2 |
+| Common Sense | 2 |
+| High School Education | 1 |
+| Perceptive | 2 |
+| Perfect Time | 1 |
+| Photographic Memory | 3 |
+| Sense of Direction | 1 |
+| Technical School Education | 1 |
+| **Social** | |
+| Animal Empathy | 2 |
+| At Ease | 3 |
+| Blandness | 2 |
+| Day Job | 1 to 3 |
+| Extra Contact | 1 |
+| Friends Abroad | 3 |
+| Friends In High Places | 2 |
+| Human-Looking | 1 |
+| Good Reputation | 1 or 2 |
+| **Magical** | |
+| Bonus Force Point | 1 to 3 |
+| Focused Concentration | 2 |
+| Magic Resistance | 1 to 4 |
+| Magical Talent | |
+| Spellcasting Talent | |
+| Combat Spells | 4 |
+| Detection Spells | 2 |
+| Health Spells | 3 |
+| Illusion Spells | 3 |
+| Manipulation Spells | 4 |
+| Summoning Talent | 3/5 |
+| Astral Sight | 3 |
+| Poor Link | 2 |
+| **Miscellaneous** | |
+| Registered Equipment | 6 |
+| State-of-the-Art Model | 2, 4 or 6 |
+
+| FLAWS | POINT VALUE |
+| :--- | :--- |
+| **Skills** | |
+| Incompetence | -2 |
+| **Physical** | |
+| Allergy | -1 to -4 |
+| Bio-Rejection | -5 (-2 for magically active characters) |
+| Blind | -6 (-2 for magically active characters) |
+| Borrowed Time | -6 |
+| Color Blind | -1 |
+| Deaf | -3 |
+| Infirm | -1 to -5 |
+| Low Pain Tolerance | -4 |
+| Night Blindness | -2 |
+| Paraplegic | -3 |
+| Quadriplegic | -6 |
+| Sensitive System | -3 (-2 for magically active characters) |
+| Weak Immune System | -1 |
+| **Mental** | |
+| Amnesia | -2 to -5 |
+| Combat Monster | -1 |
+| Combat Paralysis | -4 |
+| Compulsive | Variable |
+| Flashbacks | -4 |
+| Impulsive | -2 |
+| Illiterate | -1 |
+| Oblivious | -2 |
+| Pacifist | -2 |
+| Phobia | -1 to -3 |
+| Total Pacifist | -5 |
+| Uneducated | -1 |
+| Vindictive | -2 |
+| **Social** | |
+| Addiction | -1 or -2 |
+| Bad Reputation | -1 to -4 |
+| Dark Secret | -2 |
+| Dependent | Variable |
+| Distinctive Style | -1 |
+| Elf Poser | -1 |
+| Extra Enemy | -1 |
+| Hung Out to Dry | -4 |
+| Uncouth | -2 |
+| **Magical** | |
+| Bad Karma | -5 |
+| **Miscellaneous** | |
+| Cortex Bomb | -6 |
+| Hunted | -2, -4 or -6 |
+| Mysterious Cyberware/Bioware | -3 |
+| Police Record | -6 |

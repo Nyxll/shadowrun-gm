@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadowrun GM - System Diagnostic</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Courier New', monospace;
+            background: #0a0a0a;
+            color: #00ff00;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #00ff00; margin-bottom: 20px; border-bottom: 2px solid #00ff00; padding-bottom: 10px; }
+        h2 { color: #00ff00; margin: 15px 0 10px 0; font-size: 1.2em; }
+        .test-section {
+            background: #1a1a1a;
+            border: 1px solid #00ff00;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .pass { color: #00ff00; }
+        .fail { color: #ff0000; }
+        .warn { color: #ffaa00; }
+        button {
+            background: #00ff00;
+            color: #000;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            border-radius: 3px;
+        }
+        button:hover { background: #00aa00; }
+        button:active { background: #008800; }
+        pre {
+            background: #000;
+            padding: 10px;
+            overflow-x: auto;
+            border-radius: 3px;
+            margin: 10px 0;
+        }
+        .log-entry {
+            padding: 5px;
+            margin: 2px 0;
+            border-left: 3px solid #00ff00;
+            padding-left: 10px;
+        }
+        .log-entry.error { border-left-color: #ff0000; }
+        .log-entry.warn { border-left-color: #ffaa00; }
+        #console-logs {
+            max-height: 300px;
+            overflow-y: auto;
+            background: #000;
+            padding: 10px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔧 Shadowrun GM - System Diagnostic Tool</h1>
+    
+    <div class="test-section">
+        <h2>1. Browser Information</h2>
+        <div id="browser-info"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>2. JavaScript Features</h2>
+        <div id="js-features"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>3. API Connectivity</h2>
+        <button onclick="testAPI()">Test API Connection</button>
+        <div id="api-test"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>4. WebSocket Test</h2>
+        <button onclick="testWebSocket()">Test WebSocket</button>
+        <div id="ws-test"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>5. Character Data Test</h2>
+        <button onclick="testCharacterData()">Load Character Data</button>
+        <div id="char-test"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>6. Cache & Storage</h2>
+        <button onclick="clearAllCache()">Clear All Cache</button>
+        <button onclick="checkStorage()">Check Storage</button>
+        <div id="cache-test"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>7. Console Logs</h2>
+        <button onclick="clearLogs()">Clear Logs</button>
+        <div id="console-logs"></div>
+    </div>
+
+    <script>
+        // Capture console logs
+        const logs = [];
+        const originalLog = console.log;
+        const originalError = console.error;
+        const originalWarn = console.warn;
+        
+        console.log = function(...args) {
+            logs.push({type: 'log', message: args.join(' '), time: new Date().toLocaleTimeString()});
+            updateConsoleLogs();
+            originalLog.apply(console, args);
+        };
+        
+        console.error = function(...args) {
+            logs.push({type: 'error', message: args.join(' '), time: new Date().toLocaleTimeString()});
+            updateConsoleLogs();
+            originalError.apply(console, args);
+        };
+        
+        console.warn = function(...args) {
+            logs.push({type: 'warn', message: args.join(' '), time: new Date().toLocaleTimeString()});
+            updateConsoleLogs();
+            originalWarn.apply(console, args);
+        };
+        
+        function updateConsoleLogs() {
+            const div = document.getElementById('console-logs');
+            div.innerHTML = logs.slice(-20).map(log => {
+                const className = log.type === 'error' ? 'fail' : log.type === 'warn' ? 'warn' : 'pass';
+                return `<div class="log-entry ${log.type}">[${log.time}] ${log.type.toUpperCase()}: ${log.message}</div>`;
+            }).join('');
+        }
+        
+        function clearLogs() {
+            logs.length = 0;
+            updateConsoleLogs();
+        }
+        
+        // 1. Browser Info
+        function checkBrowser() {
+            const info = {
+                userAgent: navigator.userAgent,
+                platform: navigator.platform,
+                language: navigator.language,
+                cookiesEnabled: navigator.cookieEnabled,
+                onLine: navigator.onLine,
+                screenResolution: `${screen.width}x${screen.height}`,
+                windowSize: `${window.innerWidth}x${window.innerHeight}`,
+                colorDepth: screen.colorDepth,
+                pixelRatio: window.devicePixelRatio
+            };
+            
+            let html = '<pre>';
+            for (const [key, value] of Object.entries(info)) {
+                html += `${key}: ${value}\n`;
+            }
+            html += '</pre>';
+            
+            document.getElementById('browser-info').innerHTML = html;
+        }
+        
+        // 2. JS Features
+        function checkJSFeatures() {
+            const features = {
+                'fetch API': typeof fetch !== 'undefined',
+                'WebSocket': typeof WebSocket !== 'undefined',
+                'localStorage': typeof localStorage !== 'undefined',
+                'sessionStorage': typeof sessionStorage !== 'undefined',
+                'crypto.randomUUID': typeof crypto !== 'undefined' && typeof crypto.randomUUID !== 'undefined',
+                'Promise': typeof Promise !== 'undefined',
+                'async/await': (async () => {})().constructor.name === 'Promise',
+                'ES6 Classes': typeof class {} === 'function',
+                'Arrow Functions': (() => {}).constructor.name === 'Function',
+                'Template Literals': true,
+                'Destructuring': true,
+                'Spread Operator': true
+            };
+            
+            let html = '';
+            for (const [feature, supported] of Object.entries(features)) {
+                const className = supported ? 'pass' : 'fail';
+                const icon = supported ? '✓' : '✗';
+                html += `<div class="${className}">${icon} ${feature}</div>`;
+            }
+            
+            document.getElementById('js-features').innerHTML = html;
+        }
+        
+        // 3. API Test
+        async function testAPI() {
+            const div = document.getElementById('api-test');
+            div.innerHTML = '<div class="warn">Testing API...</div>';
+            
+            try {
+                const response = await fetch('/api/characters');
+                const data = await response.json();
+                
+                if (response.ok) {
+                    div.innerHTML = `
+                        <div class="pass">✓ API Connection: OK</div>
+                        <div class="pass">✓ Status: ${response.status}</div>
+                        <div class="pass">✓ Characters loaded: ${data.characters.length}</div>
+                        <div class="pass">✓ Characters: ${data.characters.map(c => c.street_name).join(', ')}</div>
+                    `;
+                } else {
+                    div.innerHTML = `<div class="fail">✗ API Error: ${response.status} ${response.statusText}</div>`;
+                }
+            } catch (error) {
+                div.innerHTML = `<div class="fail">✗ API Error: ${error.message}</div><pre>${error.stack}</pre>`;
+            }
+        }
+        
+        // 4. WebSocket Test
+        function testWebSocket() {
+            const div = document.getElementById('ws-test');
+            div.innerHTML = '<div class="warn">Testing WebSocket...</div>';
+            
+            try {
+                const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+                const wsUrl = `${protocol}//${window.location.host}/game/diagnostic_${Date.now()}`;
+                
+                console.log('Attempting WebSocket connection to:', wsUrl);
+                const ws = new WebSocket(wsUrl);
+                
+                const timeout = setTimeout(() => {
+                    ws.close();
+                    div.innerHTML += '<div class="warn">⚠ WebSocket connection timeout (10s)</div>';
+                }, 10000);
+                
+                ws.onopen = () => {
+                    clearTimeout(timeout);
+                    div.innerHTML = '<div class="pass">✓ WebSocket connected successfully</div>';
+                    ws.send(JSON.stringify({type: 'ping', timestamp: Date.now()}));
+                };
+                
+                ws.onmessage = (event) => {
+                    div.innerHTML += `<div class="pass">✓ Received message: ${event.data}</div>`;
+                };
+                
+                ws.onerror = (error) => {
+                    clearTimeout(timeout);
+                    div.innerHTML += `<div class="fail">✗ WebSocket error occurred</div>`;
+                    console.error('WebSocket error:', error);
+                };
+                
+                ws.onclose = (event) => {
+                    clearTimeout(timeout);
+                    div.innerHTML += `<div class="warn">⚠ WebSocket closed (code: ${event.code}, reason: ${event.reason || 'none'})</div>`;
+                };
+                
+            } catch (error) {
+                div.innerHTML = `<div class="fail">✗ WebSocket Error: ${error.message}</div>`;
+            }
+        }
+        
+        // 5. Character Data Test
+        async function testCharacterData() {
+            const div = document.getElementById('char-test');
+            div.innerHTML = '<div class="warn">Loading character data...</div>';
+            
+            try {
+                const response = await fetch('/api/character/Oak');
+                const data = await response.json();
+                
+                if (response.ok) {
+                    div.innerHTML = `
+                        <div class="pass">✓ Character loaded: ${data.street_name}</div>
+                        <div class="pass">✓ Skills: ${data.skills ? data.skills.length : 0}</div>
+                        <div class="pass">✓ Gear: ${data.gear ? data.gear.length : 0}</div>
+                        <div class="pass">✓ Spells: ${data.spells ? data.spells.length : 0}</div>
+                        <details>
+                            <summary>View Full Data</summary>
+                            <pre>${JSON.stringify(data, null, 2)}</pre>
+                        </details>
+                    `;
+                } else {
+                    div.innerHTML = `<div class="fail">✗ Failed to load character: ${response.status}</div>`;
+                }
+            } catch (error) {
+                div.innerHTML = `<div class="fail">✗ Error: ${error.message}</div>`;
+            }
+        }
+        
+        // 6. Cache & Storage
+        function clearAllCache() {
+            const div = document.getElementById('cache-test');
+            
+            try {
+                // Clear localStorage
+                localStorage.clear();
+                
+                // Clear sessionStorage
+                sessionStorage.clear();
+                
+                div.innerHTML = `
+                    <div class="pass">✓ localStorage cleared</div>
+                    <div class="pass">✓ sessionStorage cleared</div>
+                    <div class="warn">⚠ Please hard refresh the page (Ctrl+Shift+R or Cmd+Shift+R)</div>
+                `;
+            } catch (error) {
+                div.innerHTML = `<div class="fail">✗ Error clearing cache: ${error.message}</div>`;
+            }
+        }
+        
+        function checkStorage() {
+            const div = document.getElementById('cache-test');
+            
+            try {
+                const localKeys = Object.keys(localStorage);
+                const sessionKeys = Object.keys(sessionStorage);
+                
+                div.innerHTML = `
+                    <div class="pass">localStorage items: ${localKeys.length}</div>
+                    ${localKeys.length > 0 ? `<pre>${localKeys.join('\n')}</pre>` : ''}
+                    <div class="pass">sessionStorage items: ${sessionKeys.length}</div>
+                    ${sessionKeys.length > 0 ? `<pre>${sessionKeys.join('\n')}</pre>` : ''}
+                `;
+            } catch (error) {
+                div.innerHTML = `<div class="fail">✗ Error checking storage: ${error.message}</div>`;
+            }
+        }
+        
+        // Run initial checks on load
+        window.addEventListener('DOMContentLoaded', () => {
+            console.log('Diagnostic tool loaded');
+            checkBrowser();
+            checkJSFeatures();
+        });
+    </script>
+</body>
+</html>

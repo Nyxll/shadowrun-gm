@@ -1,0 +1,117 @@
+!BIOWARE.DAT - Bioware data file - JW 960202 (Update of PM 940520)
+!-----------------------------------------------------------------
+!Shadowtech
+!----------
+!Book-Pag  Name                        B.I. Cost     Index MODIFIERS
+!-------- ---------------------------- ---- --------- ---- ---------
+ST-???    Adrenal Pump 1               1.25 60000     3.00 +1QCK,+1STR,+1WIL,+2RCT
+ST-???    Adrenal Pump 2               2.5  100000    3.00 +2QCK,+2STR,+2WIL,+4RCT
+ST-???    Cerebral Booster 1           0.4  50000     2.00 +1INT
+ST-???    Cerebral Booster 2           0.8  110000    2.00 +2INT
+ST-???    Damage Comp. 1               0.2  25000     2.50
+ST-???    Damage Comp. 2               0.4  50000     2.50
+ST-???    Damage Comp. 3               0.6  150000    2.00
+ST-???    Damage Comp. 4               0.8  200000    2.00
+ST-???    Damage Comp. 5               1.0  250000    2.00
+ST-???    Damage Comp. 6               1.2  600000    2.50
+ST-???    Damage Comp. 7               1.4  700000    2.50
+ST-???    Damage Comp. 8               1.6  800000    2.50
+ST-???    Damage Comp. 9               1.8  900000    2.50
+ST-???    Enh. Articulation            0.6  40000     1.50 +1RCT
+ST-???    Ext. Volume 1                0.2  8000      1.00
+ST-???    Ext. Volume 2                0.3  15000     1.00
+ST-???    Ext. Volume 3                0.4  25000     1.00
+ST-???    Mnemonic Enhanc. 1           0.2  15000     1.00
+ST-???    Mnemonic Enhanc. 2           0.4  30000     1.00
+ST-???    Mnemonic Enhanc. 3           0.6  45000     1.00
+ST-???    Mnemonic Enhanc. 4           0.8  60000     1.00
+ST-???    Mnemonic Enhanc. 5           1.0  75000     1.00
+ST-???    Mnemonic Enhanc. 6           1.2  90000     1.00
+ST-???    Muscle Augm. 1               0.8  45000     0.90 +1QCK,+1STR
+ST-???    Muscle Augm. 2               1.6  90000     0.90 +2QCK,+2STR
+ST-???    Muscle Augm. 3               2.4  135000    0.90 +3QCK,+3STR
+ST-???    Muscle Augm. 4               3.2  180000    0.90 +4QCK,+4STR
+ST-???    Nephritic Screen             0.4  20000     1.00
+ST-???    Orthoskin 1                  0.5  25000     0.80
+ST-???    Orthoskin 2                  1.0  60000     0.80
+ST-???    Orthoskin 3                  1.5  100000    0.80
+ST-???    Pain Editor                  0.6  60000     1.20
+ST-???    Pathogenic Def. 1            0.2  24000     1.50
+ST-???    Pathogenic Def. 2            0.4  48000     1.50
+ST-???    Pathogenic Def. 3            0.6  72000     1.50
+ST-???    Pathogenic Def. 4            0.8  96000     1.50
+ST-???    Pathogenic Def. 5            1.0  120000    1.50
+ST-???    Pathogenic Def. 6            1.2  144000    1.50
+ST-???    Pathogenic Def. 7            1.4  168000    1.50
+ST-???    Pathogenic Def. 8            1.6  192000    1.50
+ST-???    Pathogenic Def. 9            1.8  216000    1.50
+ST-???    Pathogenic Def. 10           2.0  240000    1.50
+ST-???    Platelet Factory             0.4  30000     1.50
+ST-???    Reflex Rec. (conc)           0.1  10000     1.50
+ST-???    Reflex Rec. (spec)           0.25 25000     1.50
+ST-???    Suprathyroid Gland           1.4  50000     2.50 +1BOD,+1QCK,+1STR,+1RCT
+ST-???    Symbiotes 1                  0.4  15000     1.00
+ST-???    Symbiotes 2                  0.7  35000     1.00
+ST-???    Symbiotes 3                  1.0  60000     1.00
+ST-???    Synaptic Accel. 1            0.3  75000     2.00 +1INI
+ST-???    Synaptic Accel. 2            1.6  200000    2.00 +2INI
+ST-???    Synthacardium 1              0.2  6000      1.50
+ST-???    Synthacardium 2              0.3  15000     1.50
+ST-???    Tailored Pherom. 1           0.4  20000     2.00 +1CHA
+ST-???    Tailored Pherom. 2           0.6  45000     2.00 +2CHA
+ST-???    Toxin Exhaler                0.6  30000     3.00
+ST-???    Toxin Extractor 1            0.2  24000     1.00
+ST-???    Tracheal Filter 1            0.2  30000     1.00
+ST-???    Trauma Damper                0.4  40000     2.00
+!----------------------
+!Plastic Warriors books
+!----------------------
+PW-???    Anti-Plague Nanot.           0.40 17500     1.50
+PW-???    Bonespike                    0.30 10000     1.50
+PW-???    Compound Eyes 1              0.30 3000      1.25
+PW-???    Compound Eyes 2              0.30 6000      1.25
+PW-???    Compound Eyes 3              0.30 9000      1.25
+PW-???    Compound Eyes 4              0.30 12000     1.25
+PW-???    Compound Eyes 5              0.30 15000     1.25
+PW-???    Compound Eyes 1UV            0.30 7500      1.25
+PW-???    Compound Eyes 2UV            0.30 10500     1.25
+PW-???    Compound Eyes 3UV            0.30 13500     1.25
+PW-???    Compound Eyes 4UV            0.30 16500     1.25
+PW-???    Compound Eyes 5UV            0.30 19500     1.25
+PW-???    Decentral. Heart             2.00 130000    4.00
+PW-???    Cam-O-Skin                   1.50 8500      2.00
+PW-???    Fluid Rerouter 1             0.20 2500      1.00
+PW-???    Fluid Rerouter 2             0.40 5000      1.00
+PW-???    Fluid Rerouter 3             0.60 7500      1.00
+PW-???    Fluid Rerouter 4             0.80 10000     1.00
+PW-???    Fluid Rerouter 5             1.00 12500     1.00
+PW-???    Fluid Rerouter 6             1.20 15000     1.00
+PW-???    Forked Tongue                0.35 12500     2.00
+PW-???    Nano-Groomers                0.10 4000      0.80
+PW-???    Grafted Muscle               1.00 100000    1.25 +1BOD, +1STR,+1QCK
+PW-???    Indep. Air Supply            0.70 50000     1.00
+PW-???    Lifesave Skinweave           2.00 45000     2.00
+PW-???    Low-Light                    0.20 4500      1.25
+PW-???    Nanooptic Upgrade            0.20 7500      1.25
+PW-???    Overdrive Heart              1.60 98500     3.50
+PW-???    Sport Heart                  1.30 90000     3.00
+PW-???    Rebreathers                  0.75 95000     1.00
+PW-???    Skin Weave, Basic            0.50 60000     0.80
+PW-???    Skin Weave 1                 0.50 25000     0.80
+PW-???    Skin Weave 2                 1.00 60000     0.80
+PW-???    Skin Weave 3                 1.50 100000    0.90
+PW-???    Skin Weave 4                 2.00 150000    1.00
+PW-???    Skin Weave 5                 2.50 225000    1.20
+PW-???    Skin Weave 6                 3.00 300000    1.50
+PW-???    Cyberliver 1                 0.20 60000     1.10
+PW-???    Cyberliver 2                 0.30 120000    1.10
+PW-???    Cyberliver 3                 0.40 180000    1.10
+PW-???    Cyberliver 4                 0.50 240000    1.10
+PW-???    Cyberliver 5                 0.60 300000    1.10
+PW-???    Cyberliver 6                 0.70 360000    1.10
+PW-???    Cyberliver II 1              0.25 120000    1.10
+PW-???    Cyberliver II 2              0.40 240000    1.10
+PW-???    Cyberliver II 3              0.55 360000    1.10
+PW-???    Cyberliver II 4              0.70 480000    1.10
+PW-???    Cyberliver II 5              0.85 600000    1.10
+PW-???    Cyberliver II 6              1.00 1080000   1.10

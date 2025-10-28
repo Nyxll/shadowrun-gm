@@ -1,0 +1,1761 @@
+Toxic beings are magical threats represented by two types of non-player character magicians and the spirits they manipulate: toxic spirits/shamans and insect spirits/shamans. These are not "character classes," but fall halfway between Critters and Archetypes/Contacts. Some magical threats have critter-like aspects because they can do things "normal" magicians cannot. For example, they can handle contacts with power that would either kill a sane human or drive him mad. Indeed, some magical threats doubtless start life as perfectly respectable magicians with "normal" powers and abilities, and then ...who knows?. Perhaps the magician suffers a trauma that breaks his mind open to sinister forces, or perhaps he arrogantly attempts a ritual to gain power humans were not meant to touch. Whatever happens somehow leaves the magician no longer entirely human. The special traits of a magical threat are wielded in addition to the formidable powers of a magician. Threats are still magicians capable of casting spells and enchantments,taking initiation, and performing any other activity their player-character counterparts can. Gamemasters should not throw too many of these at the players, however, or the group will end up with a lot of dead characters instead of interesting plot twists.
+
+---
+
+### TOXIC SHAMANS
+
+Toxic shamans may have been created through tragedy, but they are actively hostile and make valuable villains for adventures. The most common type of toxic shaman is the **Avenger**,a shaman who has, for one reason or another, been turned against humanity by the horrible damage that the species has wreaked on the planet. One type of Avenger shaman might say, "I shall track and destroy the poisonous race of man until it is gone. When only 1 am left alive, I shall slay myself happily. Only then can the Mother heal Herself, free of the ravening cancer of mankind". Some toxic shamans revel in the blight, spreading the poison to feed their power. They have little to recommend them except that they make really wiz villains. These shamans are known as **Poisoners**.
+
+Both kinds of toxic shamans are essentially loners,driven by hatred of their species and themselves. Avengers might form temporary alliances with groups such as Greenwar or the government of Amazonia. A Poisoner might be co-opted by a corp, perhaps one trying to undercut some ecological preservation scheme while making a show of"plausible deniability". The corps or groups can give their dirty work to the loony. In either case, however, the toxic shaman is only loosely bound by any group ties. A cabal of Avengers is rumored to be among the more effective border security forces of Amazonia, living in the eroded ecological ruins of the worst areas of slashed-and-­burned rain forest. They operate as terrorists, making ferocious attacks magically and militarily on any who attempt further damage to the fragile ecology on the fringes of the rain forest. Meanwhile, the more balanced magicians ofAmazonia work feverishly to restore and expand the habitat.
+
+Some might say the toxics do not sound so crazy. Remember, however, that a toxic shaman has no compassion. Toxics punish those they perceive as Earth's enemies swiftly and mercilessly, often sentencing groups to death for the crime of the individual. Known incidents include a peasant family trying to scratch out a living from the eroded soil at the fringe of the rain forest found horribly slain by magic, and, after a merchant in a border village secretly dumped waste oil in the forest, the whole village was massacred the next night. For that matter,reports exist of magical attacks on Amazonian tribes themselves for using what the toxic shamans consider "inap­propriate technology" within the country's borders. Avengers are known for their intolerant and vicious response to any perceived threat to nature. Avengers consider humanity to be a parasite upon the Earth. As long as humans remain relatively benign, they may live. Any who threaten their host,however, must be exterminated.
+
+Poisoners may also appear in groups, but are more likely to be loners. Their work is no less subtle: the magical grapevine is rife with rumors that evidence in recent disasters in Pennsylvania-where fires ravaged a half-dozen abandoned coal mines, causing more than 100 deaths from cave-ins and smoke inhalation in the towns built over them-point to the work of a Poisoner.
+
+---
+
+### TOXIC TOTEMS
+
+A toxic shaman chooses a totem just as a normal shaman does. Avengers tend to choose wilderness totems,while Poisoners lean toward urban totems. This does not represent a moral judgment on the relative merits of totems,but reflects the psychologies of the two types of toxic shamans. Toxic shamans receive all the normal benefits of the shamanic tradition, and must abide by the taboos and customs of their totem. These are always interpreted in light of their toxic alignment, however. A toxic Eagle shaman for example, views it as his sacred duty to destroy polluters as supreme examples of evil. Poisoner shamans may reverse the normal mandates of the totem. A toxic Dog shaman would be a rabid thing,literally a ferocious destroyer of humanity, ravening for the lives of those he would normally protect.
+
+---
+
+### TOXIC SPIRITS
+
+Normal shamans cannot conjure nature spirits from badly polluted domains (see Toxic Domains, following). Guess who can summon such spirits?  That's right. Only a toxic shaman can summon or control a toxic spirit. Another magician can banish toxic spirits, but a control contest will only free the spirit if its original summoner loses control (seeControl Contests, p. 143, SRII). Toxic free spirits do exist, and are very, very bad news. In addition to possessing the other powers of free spirits,such a being can grant a bonus to a (non-player character)toxic shaman's Threat Rating equal to the toxic spirit's SpiritEnergy. If this human ally can increase his Threat Rating (see Threat Ratings, p. 107 of this section), the toxic spirit'sSpirit Energy goes up, too. If the magician fails his tasks,losing Threat Rating, the spirit also loses Spirit Energy. Shamans who cost their twisted master too many points are often discarded in some painful manner.
+
+Toxic spirits are twisted and crippled-looking, warped by the pollution of their domain. Their nature is apparent to any astral onlooker. The shaman's tests for summoning and resisting Drain are based on the Force Rating he allocates to the conjuring. However, the spirit's actual Force Rating is increased when summoned by the background count of the area in an amount commensurate with its pollution level (seeBackground Count, p. 89). Facing toxic spirits on their " home turf" is a remarkably bad idea. And that turf can move. A toxic shaman can summon a spirit and send it, in manifest form, outside the domain. If a toxic shaman in a blasted area of the Barrens (a toxic city domain), summons up a street spirit, an opponent cannot escape by running into a house (hearth domain). The thing can follow him there, or anywhere.
+
+---
+
+### TOXIC DOMAINS
+
+A river streaked with a half-dozen poison-bright strands of chemicals; a wood where toxic waste leaches into the soil, killing the trees where they stand; or an abandoned factory, a concrete graveyard of rusting machinery and waste tanks without a single pulse to show that once humans lived and worked here, are all toxic domains. In such places, nature has been twisted, raped, or ground flat and embalmed in plastic and concrete. The nature spirits in these areas, warped by the damage done to their domain, cannot be summoned by any sane shaman. An insane shaman is another matter, as discussed inToxic Shamans,above . straightforward when dealing with natural domains, but Spirits of Man pose a different problem. If it were just a question of pollution, city spirits would all be toxic, but this is not the case. Unlike nature spirits, Spirits of Man are tied not to environmental conditions, but to the human condition . of life, no matter what the level of material comfort. Auschwitz, Kampuchea, or Abilene . with ranks of mindless wage slaves. The powers of the hermetic magician are dispassionate. Elementals neither weep nor rejoice at human misery. Shamanic spirits, however, echo that which creates them, whether the pulse of life in a normal domain or the twisted poison of a toxic one. No sane shaman may safely deal with the world and the source of the insect spirits (perhaps their own metaplane) cannot be penetrated by insect spirits, and they need a denizen of this world to bring them through. The manner in which they come into this world seems to prove this theory.
+
+Insect spirits apparently have difficulty existing in this world in their true form. Most of them need host bodies to anchor them in the physical plane. Only the most powerful insect spirits can transcend the host body and exist in this world in their true form.
+
+---
+
+### Hive Insect Spirits
+
+Hive insect spirits come in two types, each of which has two forms. The **worker spirit**, as its name suggests, performs the grunt work of the hive. The **soldier spirit** protects the hive and the Queen. Both workers and soldiers can be either **true-form** spirits with both astral and manifest forms, or **flesh-form** spirits who merge permanently with the host and become a twisted amalgamation of spirit and flesh.
+
+Prior to summoning the Queen spirit, the insect shaman may only control a number of true-form worker or soldier spirits equal to 10 times his Threat Rating. The maximum total of Force Rating Points they may possess is equal to the sum of the shaman's Magic Rating plus 5 times his ThreatRating. Flesh-form spirits of either type do not count against this total. All these spirits are loyal to the shaman and will act under his direction, unless their Queen directly and explicitly orders otherwise. Once summoned and present, the Queen may boost the shaman's effective Threat Rating to increase the number of spirits he directly controls. If she later uses that same SpiritEnergy to boost her own Force Rating, the shaman loses the bonus to his Threat Rating. The Queen, once summoned,behaves as a free spirit and follows the appropriate rules (see Free Spirits, pp. 76-83). Note, however, that she is not actually free and does not have a free spirit's powers or abilities, with the exception of Spirit Energy, until she gains her freedom (see Free Spirits, p. 76).
+
+Working together, the Queen and the insect shaman can summon a number of Force Rating Points per day in spirits equal to the Queen's Force Rating plus the shaman'sMagic Attribute plus his unmodified Threat Rating. A soldier's spirit is worth twice its Force Rating in points, and a workerspirit is worth a number of points equal to its Force Rating. The maximum number of true-form spirits in a hive is equal to the Queen's Force Rating multiplied by the shaman's Body Attribute for soldiers, and the Queen's Force Rating times the shaman's Willpower times 10 for workers. The Queen and the shaman struggle constantly to balance opposing forces. The Queen demands that the shaman sacrifice points from his own Threat Rating to increase her Spirit Energy at a ratio of 2 Threat Rating Points for every 1 point of Spirit Energy. At the same time, the shaman attempts to increase his Threat Rating in order to maintain the number of insect spirits he directly controls and his own personal power as well.
+
+---
+
+### Summoning Insect Spirits
+
+An insect shaman can summon insect spirits in any domain where insects can survive, which is to say slottin'near everywhere. Regardless of the domain, he may summon a worker, a soldier, or a Queen spirit. (Note that this rule varies somewhat depending on the type of insect spirits in question. Specific differences are addressed in a later section) . To summon a worker or soldier spirit, the gamemaster uses the normal conjuring procedure found on page 139 ofSRII. To summon an insect Queen, use the following rules and the rules for summoning a great-form spirit (SpiritForms, p. 64 of this book). Does this mean that the insect shaman must be an initiate to summon the Queen? Sure does. And because he will most likely be self-initiated. hewill hatch lots of nefarious schemes to acquire the Karma he needs to become initiated. However, because non-playercharacters do not have Karma, the gamemaster can have the insect shaman sacrifice Threat Rating Points to use as the equivalent of Karma. (The gamemaster should feel free to give a non-player character opponent any increases or adjustments necessary to provide a good story) .
+
+When summoned, the insect spirit must be incubated in a human host body. During a period of time in weeks equal to the Force Rating of the spirit, a transformation occurs. The lower the host's Willpower is compared to the Force Rating of the possessing spirit, the greater the transformation. AQueen always manifests as a true-form spirit. A flesh-form worker will always appear as some bizarre compromise between the insect form and the original host. A soldier's form, on the other hand, may vary considerably.
+
+To determine the extent of the transformation for a soldier or worker, make an opposed Success Test (p. 214,SRII) between the host body and the spirit. The host pits itsWillpower Rating against a target number equal to twice theForce Rating of the spirit, and vice versa. If a Queen helped summon the spirit, add +2 to the host's target number (twice the Force Rating of the spirit). Consult the following table for the host.
+
+**Successes Result**
+
+* **0/Queen generates more successes:** The host is destroyed and a true-form insect spirit emerges.
+* **1-2:** The host body acquires primary resemblance to the true form,such as changes in body shape and mass, additional limbs, and so on. A flesh form is created.
+* **3:** The host body acquires some true-form characteristics,including growing chitinous ar­mor, multi-faceted eyes,underdeveloped extra limbs, so on. A flesh form is created.
+* **4:** The host body acquires only one of the physical aspects of the true form. A flesh form is created.
+* **5+:** The host body retains its original form and acquires the free-spirit power of aura masking. It is not,however, a free spirit, remains under the control of theQueen or shaman. Technically it is a flesh form, but the spirit gains access to the host's memories and can mimic the host. If this ability manifests in a hospital occupied by a worker spirit, rehabilitation usually remains unused.
+
+---
+
+### Flesh Form Insect Spirits
+
+A flesh form insect spirit appears as a bizarre cross between the host's human body and the insect appearance of the actual spirit. The extent of the transformation in the flesh-form soldier varies, ranging from barely noticeable to obvious. The flesh-form worker always transforms to a half-human half-insect creature. The will of the insect spirit always consumes that of the original host. All flesh-form spirits are dual beings.
+
+**Flesh Form Worker**
+
+The flesh-form worker's Physical Attributes are I pointless than the host's. Their Mental Attributes are the same as the trueform worker's. Flesh-form workers have the power of skill (see SpecialPowers, following) and the weakness of reduced senses (sight). They do not possess the power of enhanced senses (smell) or have vulnerability to insecticides.
+
+**Flesh Form Soldier**
+
+The Mental Attributes of the flesh-form soldier are the same as those of the true-form soldier. Its Physical AttributeRatings equal the host body's ratings added to the spirit'sForce Rating. Flesh-form soldiers do not possess the powers of enhanced senses (smell), paralyzing touch, or venom. They also lose their weakness of reduced senses (sight) and their vulnerability to insecticides. They have no natural armor,though they may wear manufactured armor if the Queen or shaman orders them to.
+
+---
+
+### True Form Insect Spirits
+
+The true-form insect spirit has the ability to operate in astral space using its astral form and to manifest in the mundane world. All true-form insect spirits have minimumAttribute Ratings of 1. A true-form insect spirit appears as the actual insect, but near man-size and perfect in form.
+
+---
+
+### Queen Spirit
+
+The Queen spirit is the conduit of power for the shaman,Even before being summoned, she acts as the focus of his magic, his personal totem. Once she is in the physical world,the Queen will chafe under the shaman's yoke and almost immediately attempt to become free. In addition to the usual ways that a spirit can go free, the Queen can try to break control in the same way as an ally (see Allies, p. 67), or attempt to go free whenever the shaman increases or decreases his Threat Rating. Because the Queen and the shaman controlling her are non-player characters, the gamemaster can simply set the Queen free when it suits his adventure. The Queen works to make her nest on Earth stronger and safer and to extend its influence. This can be a brutally direct effort to bring more spirits through the barrier, possess more humans, and take over territory, or a more subtle design involving use of compulsive substances, political influence, wealth, and so on. The original shaman (or a more competent replacement)functions as the nest's principal representative in the human world. The Queen is larger than human-sized, usually four to six meters long.
+
+An insect shaman can summon only one Queen. If she is banished or destroyed, all his magic power departs with her,and is gone forever. If she is disrupted, he loses the use of the additional Threat Rating she provides through her SpiritEnergy (and thus all the other insect spirits he controls) until she can return to the world. If the Queen goes free, the shaman retains his power only if the Queen wills it. If a Queen makes a willing alliance with a shaman, she can grant him a bonus to his ThreatRating equal to her SpiritEnergy. As with toxic free spirits (Toxic Spirits, p. 100), if the insect shaman can increase his Threat Rating, it increases the Queen's Spirit Energy. Conversely, if he losesThreat Rating, then the Queen's Spirit Energy also decreases. The insect shaman does not have to summon the Queenspirit, but his powers quickly reach a limit without her active presence on the physical plane.
+
+---
+
+### Special Powers
+
+Insect spirits have access to certain special powers,mostly focused on the Queen. The Queen also possesses the standard spirit powers per the basic SRII rules.
+
+* **Animal Control (insects):** The Queen can send swarms of insects to gather information, attack en masse (deadly in the case of wasp spirits), and so on.
+* **Compulsion:** The Queen can exude a wide variety of pheromones that create overriding compulsions in humans. She can affect anyone smelling these essences, which are effective to a distance of her Force Rating in meters. She can also secrete the pheromones in a form that can be mixed into food or drink, used as a drug, and blended with other substances.
+* **Skill:** When summoned, a worker can be given any nonmagical Build/Repair or other similar skill the summoner wishes. It can use this skill with a rating equal to its Force.
+* **Summoning:** Summoning takes place according to the rules above,requiring both the host and the spirit to make a SuccessTest. If the host is a player character or important non-player character, make an opposed Success Test using the Queen'sForce Rating and the character's Willpower, each against aTarget Number of 6. (Yes, the character can most certainly use Karma) . The Queen receives a target number modifier of+I for every point of Essence up to 6 that the character has lost. If the Queen generates fewer successes, she loses, and the character cannot be possessed by her spirit. If the Queen is destroyed or disrupted, all her worker and soldier spirits, whether summoned by herself or the shaman,are destroyed. Possessed humans also die.
+
+Insect spirits may be banished or dispelled, but any spirits, including the Queen, in true form have their ForceRatings effectively doubled. If the spirit is defeated, the hostbody will die. Once the initial incubation of the spirit has begun, no way exists to save the host (subject, as always, to gamemaster discretion).
+
+---
+
+### Hive Insect Spirits
+
+The following section describes the common forms in which insect spirits appear. All statistics and powerdescriptions are for true form manifestations.
+
+**Ant Spirits**
+
+Highly social beings, ant spirits cooperate exceptionally well within a single hive. Ant hives are comprised of numerous workers and soldiers and one Queen. The territorial instincts of ant spirits often lead to intense rivalry between hives. Ant spirits are builders, constructing complex warrens with multiple levels and no apparent logic visible by human standards. Ant spirits tend to be clean, tidy, and quiet. Antspirits make their hives most often below ground in space they have either tunneled out or heavily modified. Only rarely do ant spirits work alone. The Queen or her shaman usually prefer to send them en masse against an objective. When subtlety is called for (provided the shaman can convince the Queen that rolling out the army will do more harm than good) ant spirits work in small groups of two to four.
+
+**Ant Spirit Soldier**
+
+B Q SC IWE R Attacks
+F + 1 / F(F + 4) x 4 F+4 --F 2 (F)A Fx2*(Str)M or Special*Receives a +20 Initiative bonus in astral space, and +10when physically manifest.
+Powers: Enhanced Senses (Smell), Paralyzing Touch, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (Insecticides)
+
+**Ant Spirit Worker**
+
+B Q SC I W ER Attacks
+F-2 / F-3 F x 3 F+2 --F-2 1 (F)A 3* None
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Skill
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Ant Queen**
+
+B Q S CIW E R Attacks
+F+ 5 / F (F + 6) x 5 F+6 F F F (F)A F x 3* (Str)S or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Animal Control (Ants), Compulsion, Enhanced
+Senses (Smell), Fear, Immunity to Normal Weapons, Paralyzing Touch. Summoning, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Fly Spirits**
+
+Fly spirits have a hive of sorts, but unlike ants or wasps,have no caste system. All members of the hive, except for the Queen, are male. The males serve as both warriors or workers, but prove less skilled and less effective than anti-spirits in either role. Fly hives are chaotic, noisy, ill-kept messes that reek with the overpowering odor of refuse. Fly spirits can settle their hives almost anywhere, but they prefer ramshackle,broken-down spots.
+
+**Male Fly Spirit**
+
+B Q SC IWE R Attacks
+F / F-2 (F+1) x 4 F+2 --F-1 1 (F)A F x 2* (Str)M or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Fly Queen**
+
+B Q S CIW E R Attacks
+F+4 / F (F+4) x 5 F+4 F F F (F)A F x 3* (Str)S or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Animal Control (Fly), Compulsion, Enhanced
+Senses (Smell), Fear, Immunity to Normal Weapons, Summoning, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Termite Spirits**
+
+Termite spirits have a caste system similar to that of ants, composed of workers, soldiers, and a Queen. Adept at burrowing, termite workers build cement-hard "mounds" and"towers" by mixing sand with their saliva to make a fast-hardening, concrete-like material. Though less territorially ambitious than ants, termites fight ferociously in defense of their territory. Termites build their hives above ground, usually inside abandoned human structures to avoid detection, unless they are in an isolated locale. The neat, tidy interior of the termite hive strongly resembles an ant hive. The area outside the hive, however, shows the signs of the termites' presence: discarded materials and random destruction.
+
+**Termite Spirit Soldier**
+
+B Q S CIW E R Attacks
+F+1 / F (F+4) x 4 F+5 --F 2 (F)A F x 2* (Str)M or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Paralyzing Touch, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Termite Spirit Worker**
+
+B Q SC I W E RAttacks
+F-2/F-3 F x 3 F+3 --F-2 1 (F)A 3* None
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Skill
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Termite Queen**
+
+B Q S CIW E R Attacks
+F+5 / F (F+6) x 5 F+6 F F F (F)A F x 3* (Str)S or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Animal Control (Termite), Compulsion, Enhanced
+Senses (Smell), Fear, Immunity to Normal Weapons, Paralyzing Touch, Summoning
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Wasp Spirits**
+
+Wasp spirits have no caste system, and multiple females can live in a single hive. Only the Queen reaches sexual maturity. Males are territorial and not overly intelligent. Females have a malign intelligence, especially prominent in the Queen at egg-laying time. A Queen must lay her eggs in the body of a host creature who has been paralyzed with a toxin she secretes, usually during a spirit summoning. When the eggs hatch, the larvae either merge with the host and become flesh forms, or feed on the host and eat their way to the outside world as true forms. Though complex structures, wasp hives are far smaller than the hives of the other insect spirits. A wasp hive manages to cram far more spirits into the smaller area. Wasphives must be built in high places, open to the air. Waspspirits prefer the upper stories of buildings and other towering structures.
+
+**Male Wasp Spirit**
+
+B Q SC I WE R Attacks
+F / F-1 (F+4) x 4 F+3 --F-1 1 (F)A F x 2* (Str)M or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Paralyzing Touch, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Female Wasp Spirit**
+
+B Q SCIW E R Attacks
+F+1 / F-1 (F+4) x 4 F+4 --F 2 (F)A F x 2* Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Paralyzing Touch, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Wasp Queen**
+
+B Q SC I WE R Attacks
+F+4 / F (F+5) x 5 F+5 F F F (F)A F x 3* (Str)S or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Animal Control (Wasp), Compulsion, Enhanced
+Senses (Smell), Fear, Immunity to Normal Weapons, Paralyzing Touch, Summoning, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+---
+
+### Solitary Insect Spirits
+
+Other forms of insect spirits exist in addition to hivespirits. These solitary spirits, so called because they require no hive, are in many cases more powerful and cunning than their communal counterparts. Some may have nests where they live, but feel no strong connection to that nest and can leave it at any time, subject to the will of the shaman (if one exists). The major difference between hive and solitary insect spirits is the absence of a Queen spirit, and the possible absence of a shaman. A shaman must summon the first female, but thereafter all female spirits are capable of self-perpetuation. The roach and the mantid spirits provide two common examples of solitary insect spirits. All statistics are for true-form manifestations.
+
+**Roach Spirits**
+
+Roach spirits build nests, not because they have to, but because they like to. Male roach spirits cluster around the female that "birthed" them, thereby creating the nest. More than one mother roach spirit can occupy a nest (subject to the group dynamics of the females) but more than three females rarely share any one location. A Roach shaman summons male roach spirits according to the conjuring rules found on page 139 of SRII. The Roachshaman can only have under his control a number of roachspirits of either sex equal to his Magic Attribute Rating plus his Willpower, multiplied by his Threat Rating. Once he has reached that number, he cannot summon any more roach spirits without the aid of at least one mother roach spirit. With the assistance of a mother roach spirit, an unlimited number of roach spirits can be brought into existence.
+
+Mother roach spirits are much harder to summon than male roach spirits. The shaman conjures a mother roach spirit according to the standard conjuring rules, except that when calculating the Drain the magician must resist, add 50percent (round resulting fractions up) to the mother roachspirit's Force Rating. For example, a mother roach spirit summoned at Force 5 would have an effective Force Rating of 7.5 for the conjuror making the Drain Resistance Test. Rounding the fraction up gives a result of 8, meaning that the summoner would have to resist Drain at Force 8. A motherroach spirit has Spirit Energy (see Free Spirits, p. 76), but has no other free spirit powers or abilities unless she gains her freedom. Per day, a mother roach spirit can create male roach spirits by investing host bodies with Force, using up to a number of Force Rating Points equal to the mother roach'sForce Rating plus her Spirit Energy. The maximum ForceRating that the mother roach can invest in a single spirit in one day equals the mother roach spirit's Force Rating. Mother roach spirits cannot create other mother roach spirits in this manner unless the shaman allows it. However, a freemother roach spirit can create other females as well as males in this manner. Producing another female requires a number of days equal to twice the "birthing" spirit's Force Rating, which creates another mother roach spirit at the same Force Rating as the first mother roach spirit. The shaman, if he so desires,can allow any mother roach spirit that he controls to create another of her kind according to the above rules. During the time the female spends bringing forth another female for investment, she can create no other roach spirits. From birth to maturity, investing a spirit into a host takes10 days. To determine whether or not male roach spirits are true form or flesh form, follow the rules for producing soldier spirits found on page 103. Mother roach spirits only manifest in true form. Roach spirit nests can be anywhere, and like physical roach nests, usually appear where players least expect them.
+
+**Male Roach Spirit**
+
+B Q SCI WE R Attacks
+F+2 / F+1 (F+4) x 4 F+2 --F-1 1 (F)A F x 2* (Str)M or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Mother Roach Spirit**
+
+B Q SC IW E R Attacks
+F+3 / F+2 (F+3) x 4 F+1 -F 2 (F)A F x 2* (Str)S or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Animal Control (Roach), Compulsion, Enhanced
+Senses (Smell), Fear, Immunity to Normal Weapons, Summoning, Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Mantid Spirits**
+
+Mantid spirits fly in the face, so to speak, of what humanity knows about insect spirits. Generally considered destructive and malign. mantids differ from other insect spirits in one interesting respect. Though other insects seek single-mindedly to propagate their species, one of the mantid's primary goals is to consume other insects. Singularly powerful, mantid spirits can be difficult for the shaman to keep under control. The male mantid spirit,substantially less intelligent and less powerful than the female, apparently exists primarily to serve and service the female. Male Mantid shamans are nearly unheard of; the stronger and more cunning female mantid spirit chafes under male control. Female Mantid shamans can develop stronger partnership with mantid spirits, though they, too,risk their safety in dealing with these formidable beings. Male mantids serve a female for a short period of time,until the female is ready to create more mantid spirits. At this time the male and female spirits merge, after which the female can produce more spirits. This merging destroys the male spirit. At any one time, a Mantid shaman can only control one female mantid spirit and a number of males equal to his or her Magic Attribute Rating. The shaman summons malemantid spirits according to the conjuring rules on page 139of SRII. To summon a female mantid spirit, use the procedure for summoning a great form spirit in Spirit Forms,p. 64 of this book.
+
+The female mantid spirit can create new mantids every 2D6 weeks. When she is ready to create new spirits, she must merge with and consume at least one male mantidspirit to produce the energy necessary to invest the new mantis spirits. She can consume a number of male mantidspirits whose total Force Ratings equal her Force Rating plus her Spirit Energy. If she exceeds that energy threshold and cannot fully consume the male mantid currently merging with her, the male retains only the Force the female could not consume. The next time the female creates new mantids, she will begin the process by consuming the half-eaten male. Each merging and consumption takes a number of hours equal to the male mantid's Force Rating. Following each merging and consumption cycle, a female can invest a number of new mantid spirits with a total number of Force Rating Points equal to twice theForce she consumed. The investment must be made into a human host body of the same sex as the mantid spirit created. Investing a male mantid costs the female mantidspirit I point of the total number of Force Rating Points available for each point of Force Rating given to the new spirit. Investing a female mantid requires 2 points for each point of Force the newly created spirit will have. The investment process takes 1 hour per Force Rating Point given to the new spirit. Female mantids always manifest in flesh form, showing no signs of the insect form. Each female mantid also gains the free spirit power of aura masking and the memories of her host, who she can mimic. Male mantids always invest as true forms. Despite their different forms,the female mantid can always merge and consume the malemantid. As long as a shaman controls her, a female mantidspirit cannot produce other female mantid spirits, unless the shaman allows it. Mantids tend to live among humanity, becoming as much a part of it as their alien nature permits.
+
+**Male Mantid Spirit**
+
+B Q SC IW E R Attacks
+F+2 / F+1 (F+5) x 4 F+3 -F-1 2 (F)A F x 3* (Str)M or Special
+*Receives a +20 Initiative bonus in astral space, and +10
+when physically manifest.
+Powers: Enhanced Senses (Smell), Venom
+Weaknesses: Reduced Senses (Sight), Vulnerability (
+Insecticides)
+
+**Female Mantid Spirit**
+
+B Q S CIW E R Attacks
+H*+F / F (H+F) x 4 H+F F F F (F)A F x 3** (Str)S or Special*Use the host's Attribute Rating as the base.**Receives a +20 Initiative bonus in astral space, and +10when physically manifest.
+Powers: Animal Control (Mantids), Compulsion, Enhanced
+Senses (Smell), Fear, Summoning
+Weaknesses: Vulnerability (Insecticides)
+
+---
+
+### Threat Ratings
+
+The Threat Rating of a toxic or insect shaman may vary during an adventure. Such magicians must often carry out strange tasks that spell disaster for anyone nearby. When the magician carries out the task successfully, his ThreatRating increases. If he is thwarted, his rating goes down. The magician may try to perform these unsavory tasks on his own or order his nefarious agents to carry them out. Either way, a major part of an adventure involving toxic characters will mean discovering and foiling these activities in order to weaken the enemy. The gamemaster should assign an initial Threat Rating to a magical threat in an adventure, then design a series of tasks the toxic or insect shaman must carry out. Each taskthe shaman accomplishes increases hisThreat Rating by +1, and each one foiled decreases the rating by the same amount. Additionally, each task should have a loophole that allows the player characters to attempt to disrupt the evil scheme.
+
+**Toxic Threat**
+
+A typical toxic shaman is created with a I D6 ThreatRating. During an adventure, he may attempt to complete one or more of the following tasks, or other, similar tasks.
+
+* Destroy a community that is clearing wilderness land (suitable to Avenger shamans).
+* Assassinate executives in an organization that is either polluting the land or trying to repair environmental damage,depending on the type of shaman involved.
+* Foment riots and destruction in an urban area or strike such an area with a plague, fatal levels of toxic waste, or other disaster.
+
+**Insect Threat**
+
+Insect shaman Threat Ratings start at 1D6 / 2 (rounddown). These Threat Ratings change as fulfilled or unfulfilled tasks make the nest stronger or weaker. Keep in mind that these tasks may seem utterly absurd to human "commonsense". Likely insect shaman tasks include:
+
+* The shaman must get a series of articles distributed in the datanets that level serious allegations against a police or other group that threatens the nest. If the articles can be disproved, the task is foiled.
+* A series of antiques of the Neolithic Age must be stolen from several collections, (both public and private). These are to be used as raw materials in preparing a unique enchantment.
+* The nest requires the use of a certain city block for a week, beginning on a specific date. Residents will be cleared out by bribery or extortion, or else captured and possessed.
+* The shaman must get 20 possessed humans working on a given project.
+
+The difficulty we have today. The impossible is over in R&D.
+
+--Unofficial motto of EBM², Division of Thaumaturgy
+
+spells: the constructs of magic. Though many may come from the same formula, each is as unique as a handmade item. The creator's hand is always evident in the spell's form, shape, and texture. The creator must take special care when making something so personal. Short cuts and the path of least resistance always produce less­than-satisfactory results. As with science, there are rules to be followed. As with art, inspiration is everything. A combination of those two disciplines, spell design is a true craft.
+
+---
+
+### Spell Design
+
+Spells are the tools and weapons and toys of sorcery. Magicians spend a lot of time and effort creating spells because spells are what give them power in the Sixth World. The following explanations of spells include clarifications of the spellcasting rules from the basic game.
+
+---
+
+### How Spells Work
+
+When a magician uses his inherent genetic ability to contact astral space, he casts a spell. He opens a channel between the physical and etheric planes, configuring the channel according to his knowledge of spellcasting and the formula of the spell he is casting. The result is a spell construct on the etheric plane. This construct is "programmed" by the spell formula. It moves at blinding speed from its caster to its target. Its basic energy is the Force the magician allocates to the spellcasting process. He can "add on" extra dice from foci, spirits, and so on after the basic construct forms, but these do not increase the spell's Force. These dice will take effect if the spell reaches its target, but do not make it any stronger until that time. All of the above takes place virtually instantaneously when the magician casts his spell. When a spell reaches its target, it creates the effect the magician desires by transferring astral energy into the physical plane. Because this process connects the aura of the casting magician directly to the aura of his target, spellcasting requires line-of-sight targeting. Area spells set up a web of energy that connects the caster and all his targets into a single astral network and affects all viable targets within an area of effect. The effects of this energy transfer depend on the spell's design: it may create or destroy, heal or harm.
+
+Spellcasting is a matter of intention and mental control. For example, brash young sorcerers often attempt to aim an area-effect spell through a pinhole to limit the effect to a single target, and then they wonder why the spell misfires under such circumstances. Might as well ask a painter wearing tinted lenses why the color values in a painting are false. How can a magician capture the universe-embracing exaltation of spirit that is the key to magic when he is playing such mind games with himself?. It has been said that the emotional energy needed to cast a spell must be as strong as that needed to perform the action physically. Casting a death spell requires killing fury. An illusion requires the laughing creativity of Coyote himself. A magician using manipulation must possess the same monomania as an artist working on a masterpiece. One definition of magic is the ability to go mad in a very specific way for a limited time. From the psychological viewpoint, a spell is an induced neurosis or even a psychosis, created for a split second to channel psychic energy in a particular way. Confusing this delicate process with calculating, rational thought may leave the magician unable to do much else.
+
+---
+
+### Spell Force
+
+Some confusion exists over just what constitutes the Force of a spell. A magician learns a spell with a maximum Force Rating. He can cast the spell with a Force Rating ranging from 1 up to this maximum. This figure, and only this figure, is the actual Force of the spell. Additional dice allocated to enhance the caster's Success Test do not count toward increasing the Force Rating of the spell. Only the actual Force Rating is used to determine whether Drain inflicts Physical or Stun damage. Only the actual Force Rating is used as the basis for the target number of the caster'sDrain Resistance Test. The modifiers gained from exclusive spells and fetish-required spells (p. 133, SRII) do not modify the actualForce, but do alter the effective Force Rating for the purposes of determining the spell's effect. On the down side, the actual Force Rating is the one the spell uses for astral combat or to resist dispelling (seeMetamagic, p. 42).
+
+Does this mean a magician with Sorcery/Magic Pool of 6,a Power Focus (3), and a +2 Totem Advantage for a spell can cast it with Force 1, and then roll 11 dice to smack the target? Yes. And then roll against a Target Number of 2 to resistDrain? Yes again. (Remember, 2 is the lowest possible target number in Shadowrun) . In this case, however, the magician has used up all hisMagic Pool and focus dice offensively. If someone tosses a spell at him before his next action, he has nothing to augment a defense. It also means that the target of the spell resists damage using a Target Number of 2. The magician makes a tradeoff by keeping his Drain target number low for his own safety and counting on generating significantly more successes (by rolling more dice) than the target can generate. But gee, doesn't that mean that a team with a magician will clean up against enemies without magical support?  That is exactly what it means. Welcome to the Sixth World, where magic is power.
+
+---
+
+### Combat Spells
+
+Combat spells pump damaging energy directly into the aura(s) of the target(s). The magician's successes (if any)from the Spell Success Test increase the spell's DamageLevel by I for every 2 successes. All combat spells have an initial Damage Level based on the design of the spell. Combat spells can be one of two types, physical or mana. Physical spells do their damage directly to the cellular level and are resisted by the Body Attribute. Mana spells pour their energy into the aura of the target, and are therefore resisted by Willpower. The target still takes Physical damage,however, because the damage done to the aura is immediately transferred to the physical body. The only exception to this rule is when a spell formula is specifically constructed to do Stun damage, and does not inflict physical damage. Either physical or mana spells may be designed as Stun damage spells.
+
+**Area-Effect Spells**
+
+Area-effect combat spells affect all targets equally in the area of effect that the magician can see. It might help players to think of area-effect spells as occurring in a sphere-shaped field of damage, rather than as an explosion radiating from a central point (like a grenade). Damage occurs instantly and simultaneously throughout the area of effect.
+
+The Barrier Ratings of any cover have no effect in resisting combat spells. The only important factor is how well the spellcaster can see the target. This holds true for all types of combat spells. A potential target out of the casting character's sight, but within the area of the spell's effect cannot be affected by the spell. Because the target cannot be seen, it cannot be affected. A magician casting a combat spell designed to affect targets inside a magical barrier cannot affect those targets as long as the magician casting the barrier remains outside the barrier. (The barrier protects those inside it) . If the magician casting the barrier is inside the barrier, it does not protect those inside with him, but does protect targets outside from his spells. (See barrier spell description, p. 158, SRII) .
+
+Physical spells can, theoretically, blast everything in the area, almost like an explosion. The gamemaster need not worry much about this, except for special effects ("The guy in front falls down screaming and the windshield of the car behind him blows out.") or to restrain exuberant magicians from casting powerball spells in elevators ("Floor? Whatfloor?"). Spellcasters cannot simply selectively ignore validtargets -friend, foe, or neutral-within the spell's area of effect. The only way to control the targets affected is to vary the spell's actual area per the rules on p. 130, SRII. SpellDefense dice (p. 132, SRII) or Shielding dice (Metamagic, p.42) allocated by the caster to protect his friends cannot be used if those same people in turn become the targets of an area-effect spell cast by that same magician. Spell Defense or Shielding dice allocated by a magician other than the spellcaster may still be used, however.
+
+**Range Modifiers (Optional Rule)**
+
+Because spellcasting is limited only by line of sight,nothing prevents a magician from hitting a target kilometers away, as long as that target can be seen. Gamemasters wishing to place some limits on long-range spellcasting may apply modifiers for targets at extreme range, per the SpellRange Modifiers Table. This range modifier should be applied in addition to any visibility modifiers (see p. 89, SRII).
+
+**Spell Range Modifiers Table**
+
+Range to Target (in meters) Modifier
+0-150 None
+151-300 -2
+301-600 -4
+601-1,250 -6
+1,251-2,500 -8
+2,501-5,000 -10
+5,001+ Target not visible
+
+The distances given in the above table are for flat,ground-level terrain at sea level under clear skies (little or no atmospheric interference). Gamemasters will have to improvise and adjust the modifiers accordingly for higher altitudes (potentially a greater visible distance, depending on intervening terrain and atmospherics), atmospheric conditions, intervening terrain, target size, and so on. The above range-modifier optional rule should only be used in those extraordinary situations where such a restriction seems practical and necessary. ("Hey! The rules say that if I have line of sight to the guy then I can hit him, right? So what if he's kilometers down range...") .
+
+---
+
+### Detection Spells
+
+Detection spells can be either physical or mana spells. Detection spells are used to enhance the senses or analyze the environment. They allow the magician, or the recipient of the spell, to sense things in a manner normally beyond his or her ability, to see or hear from a great distance, and other such feats. Detection spells can also be used to detect magic or magical presences.
+
+**Range**
+
+Unless a spell description specifically states that the spell can only be cast on the magician himself, all published detection spells can be cast on anyone. They can be sustained on that target as long as the caster wishes. The center of the spell's effect is determined by the subject or target the spell is cast on. If the spell is cast on a person, the information gained from that spell is known by that person,not the spellcaster. If the spell is cast on the caster himself, it is the caster who learns the information.
+
+**Target Numbers**
+
+When making the Success Test for a general detection spell, note the actual results rolled. (For target numbers, seeDetection Spells, p. 152, SRII) . For example, a magician rolling 12, 8, 6, 4, and 3 when casting a detect enemy spell generates successes against a variety of opponents. He has 4 successes against targets he can see (Target Number 4), 3 successes against an invisible enemy or one lurking in hidden ambush (Target Number 6), and 1 success against an enemy stalking him in astral space.
+
+---
+
+### Manipulation Spells
+
+Manipulation spells can be physical or mana spells and are used to transform, transmute, control, or animate matter or energy. They are complex, and difficult to control and master.
+
+**Damaging Manipulations**
+
+Some players and gamemasters have found the explanation of manipulation spells that do damage confusing as presented in the basic rules. In this spell, the magician creates a physical effect that does damage rather than pumping astral energy directly into a target. The effect is aimed and uses the same modifiers as ranged combat. TheBase Target Number for the Sorcery Test is 4. A magician can aim an area-effect spell at a point in space rather than at a specific target. As with physical ranged combat, the successes generated by the casting magician are compared to the successes generated by the target, and each stages any netsuccesses. Having determined the final Damage Level, the target resists the spell's damage normally. Use a number of dice equal to the Body Attribute to make the Damage ResistanceTest, adding any dermal armor modifiers. The Force Rating of the spell is the Power Level of the attack. Impact armor resists damage, but at one-half (round down) its normal rating, reducing the Force Rating of the spell. The target may use dice from his Combat Pool to resist damage.
+
+Unlike against combat spells, hard cover does add its protective effects against damaging manipulation spells (BarrierRatings, p. 98, SRII). In the case of area-effect spells, all characters within the area of effect must resist the damage, similar to the way they would resist damage from grenades. The actual area of effect is calculated per the rules on p. 130, SRII. Unlike with combat spells, the magician need not see the targets of an area-effect spell to affect them, because the damage from a manipulation spell is real, physical damage and affects anyone it can reach. In an odd quirk of metaphysics, theDamage Code for an area-effect manipulation spell is the same throughout the area of effect. It does not get weaker as it radiates from the center of the effect (as with grenades). Barriers do diffuse the spell's energy and reduce thePower (or Force), protecting those beyond. (See BarrierRatings, p. 98, SRII) . Damaging manipulations always involve elemental effects (see below). Elemental effects allow the spell to damage and also may create side effects. The materials and energy created by the spell are still "magical," however. A spell will not leave shrapnel lying around or puddles of acid eating away at everything touches.
+
+---
+
+### Elemental Effects
+
+Damaging manipulation spells and combat spells with physical side effects produce "elemental effects," that is, they use the elements of nature to do damage. They are not connected to elemental spirits, though some spells have effects similar to those of spirits. This section suggests various types of elemental effects, but the gamemaster should feel free to explore additional possibilities. Elemental effects do "primary" and "secondary" damage. Primary damage is determined by the Damage Code of the spell. The primary damage may react to armor and other defenses in various ways, and may also include side effects that always occur with the spell. Elemental effects also do secondary damage, i.e.,special effects that the spell has on the immediate environment. Elemental effects only occur with physical spells, as they damage living things and inanimate objects equally. Thus,most spells producing elemental effects have a high DrainCode, as discussed below.
+
+When dealing with secondary effects during play, the gamemaster will have to be selective and make some judgment calls. For example, if a magician casts a fireball spell, the secondary effects of that spell might start fires,cook off ammo, ignite fuel tanks, and set fire to armor and clothing all over the blast zone. An acid elemental effect could have a secondary effect of melting surrounding material into smoking sludge. It is not necessary or desirable to roll for every possible target in such cases. First, determine which important targets the primary damage of the spell affects. Feel free to embellish the effect with descriptive details. Innocent bystanders (living or not) may suffer as often as the runners. For example, if a magician tosses an ice bomb spell into the midst of a charging pack of bikers, the gamemaster should roll to see which bikes skid out of control, but may simply describe passing motorists who have no direct impact on the story hurtling into a 360-degree turn. If the main spell leaves anyone standing and in some way still vulnerable to the side effects of the attack, roll 2D6to determine the spell's secondary effects on any non-living targets of the gamemaster's choosing. The die roll result for secondary effects must be greater than or equal to the target's Object Resistance Rating, p.130, SRII. Increase the Object Resistance Rating by +4against combat spells, as their elemental effects are less pronounced. Against damaging manipulation spells, the target adds the following modifiers to the Object ResistanceRating:
+
+**Spell does: Modifier**
+
+* Light damage No secondary effects
+* Moderate damage +4
+* Severe damage +2
+* Deadly damage None (use base rating)
+
+GAMEMASTER NOTE: Terms such as "blast" or "fire"sometimes appear as part of the description of spells that mayor may not actually involve an elemental effect. Check the description of the spell if the use of such terms is unclear.
+
+**Acid**
+
+Primary Damage: Impact armor (one-half damage,round down), resists the effects of an acid spell, but not ballistic armor. Anyone in full-body armor treated to resist toxic materials (e.g., a firefighter's suit) takes no damage from this spell. Acid creates a cloud of thick, choking fumes that adds +4 to all target numbers for those in the affected area for the rest of the turn (double the actual calculated area of effect to reflect the size of the fume cloud). The affected area is also considered treacherous ground for the rest of the turn.
+Secondary Effects: Anything touched by the acid spell may melt into sludge, or at least be badly pitted and burned. Vehicle tires flatten. Both ballistic and impact armor ratings may suffer permanent damage of-1. If the acid attacked at aDeadly level, firearms can be corroded into junk.
+
+**Blast**
+
+Primary Damage: A blast spell affects impact armor (one-half damage, round down), not ballistic armor. Blastspell damage increases its Damage Level against/manifested earth elementals by one level, as it strikes them with an impact of rushing air. A blast spell doing Severedamage would be Deadly to an earth elemental. Characters struck with a blast spell effect are subject to the Knockback and Knockdown rules associated with melee combat (p. 103,SRII), and must substitute the Force hating of the spell for the Strength of the attacker.
+Secondary Effects: The usual effects of broken glass,shattered plaster, and so on result from a blast spell. This spell can also badly damage unreinforced walls and structures.
+
+**Fire**
+
+Primary Damage: Characters may resist the primary effects of a fire spell using impact armor (one-half damage,round down). Fire increases its Damage Level by one level against water elementals.
+Secondary Effect: A fire spell can, of course, ignite flammable materials. Highly flammable materials (gasoline,dry wood, paper, explosives, and ammunition) add -1 to theirObject Resistance Rating roll to determine secondary effects. If clothing ignites, the wearer takes damage at the end of every turn until the flames are extinguished. The character suffers 6M damage at the end of the first Combat Turn he is on fire. Increase the Power of the damage by +2 per turn thereafter. Treat exploding ammunition, grenades, and such as weapons hit result, with armor doing nothing to reduce the damage. The Combat Pool may be used to help resist the damage while the singed shadowrunner tries to hurl the exploding material away from him. Vehicle fuel may explode, but the vehicle adds +2 to itsObject Resistance Rating for the Secondary Effects Test,unless its fuel is exposed to the open air.
+
+**Ice**
+
+Primary Damage: Use the full value of impact armor (representing warmth of clothing) to resist the effects of anice spell. Anyone wearing heated armor or clothes takes no damage. Ice increases its Damage Level against manifested fire or water elementals by one level. Treat the area affected by an ice spell as difficult and treacherous terrain until the end of the turn.
+Secondary Effects: Any affected moving vehicles must immediately make a Crash Test to determine whether they retain control of their vehicle. Their vehicle may also stall. Any liquids in the area of effect may freeze solid. Plants wither and die instantly.
+
+**Lightning**
+
+Primary Damage: Lightning produces heat and impact. Impact armor (one-half damage, round down) resists these effects, and a character in insulated armor or clothing is unaffected. Any character who is not grounded (for example, a levitating magician)is also unaffected. Lightning increases its Damage Level by one level against manifested air elementals, ionizing their form and dispersing their energies.
+Secondary Effects: Lightning can short out any electrical or electronic equipment. Modify the equipment's ObjectResistance Rating by -1 against the secondary effects. A lightning spell can destroy metal firearms and touch off their ammo. Vehicle engines may short out, and the fuel be ignited. Against this latter danger, however, vehicles add a +2 modifier when resisting secondary effects damage unless their fuel is exposed to the open air.
+
+**Water**
+
+Primary Damage: Water causes smashing, crushing impact. A water spell does Stun Damage, which impactarmor can resist, but at one-half (round down) its rating. All those affected must make a Strength Test with a target number equal to the Force Rating of the spell, or else be knocked down. Water increases its Damage Level by one level against fire elementals. Exposed electrical wiring is shorted out on contact. Affected areas are treated as treacherous ground for the rest of the turn.
+Secondary Effects: Water may short out any electrical or electronic gear such as laser sights, smartgun adapters,and vehicle engines, but not cyberware.
+
+---
+
+### Spell Formulas
+
+Learning a spell from a spell formula is described on p. 132, SRII. However, that section provides no detail about the spell formula itself. This section fills in the gap. A spell formula is the symbolic theory of a spell. To learn a spell, a magician must either have a teacher who knows the spell or a copy of the spell formula. If the teacher knows the spell, then only the spell-learning rules themselves apply. If the magician is attempting to learn the spell from a copy of the spell formula he possesses, without the benefit of a teacher who knows the spell, the procedure is the same as if there were a teacher present but the magician must use a +2 target number modifier for all relevant Success Tests. If the magician needs to design the spell formula himself, use the following rules.
+
+The magical design contained in a spell formula is always the same for a particular spell, but its representation will differ according to the magical tradition. A shamanicformula, for example, might be a medicine item like a painting or carving, a set of runes, or a specially created medicine bag. A hermetic formula would be a written text or perhaps a complex diagram with many arcane equations and symbols. The formulas say the same things about the magical energy for the spell, but they say it in different ways.
+
+**Inspiration**
+
+Before a magician can design a formula, he must have some inspiration. He has to know what he wants the spell to do and have some idea of how it works. A magician can reverse-engineer the formula for a spell that already exists, that is, any spell published in aShadowrun product. It is assumed that such publicly known spells are documented in the Manual of PracticalThaumaturgy or some other magical "tech manual". These reference works do not publish the formulas per se, but instead give practical descriptions of the energies involved and their effects. A magician with such a description as a guide can deduce enough to get an inspiration about a spell's formula. Designing a formula this way is a copyright violation in many jurisdictions, for the law requires that formulas for copyrighted spells be ordered from the publisher or learned from teachers licensed by them. Most street magicians don't care drek about this, of course.
+
+A magician can get the inspiration to design an unpublished spell if he astrally observes another magician casting it. To do this, the observing magician must be astrally perceiving or projecting and he must concentrate all his attention on observing the spell. He cannot move, fight,do magic, provide spell defense, or any other activity. If he fulfills these conditions, he can figure out the spell formula from what he has assensed. In addition, the magician must make an Intelligence Test against the actual Force Rating of the spell being cast. He may add dice to this test equal to hisMagical Theory Skill to help evaluate what he is seeing. If the spell is of Instant duration (see Duration, p. 118), he may add an additional +2 modifier. If the spell is of Sustained orPermanent duration, this modifier does not apply. Only 1 success is needed to gain enough information for inspiration. If a magician designs a brand-new spell, he can design its spell formula without needing any other inspiration. This applies when the player running a magician comes up with a new spell that he wants to add to the game world. Indeed, in this case, the magician must design the formula as part of the inventing process.
+
+**The Design**
+
+Designing a spell formula requires the Magical TheorySkill. Anyone with Magical Theory Skill can do it, even amundane. Theoretical occultists, experts with high ratings inMagical Theory but no Magic Attribute, are rare, but they do exist, much as pure theoreticians exist in the physical sciences. They can create a working spell formula, but not being magically active themselves, can do nothing with it. A shaman must do the design work in a medicine lodge of a rating at least equal to his Magical Theory Skill. A mage or nonmagician needs a magical theory library with a rating at least equal to his Magical Theory Skill. If the Lodge orLibrary Rating is lower than the character's Skill Rating, he uses its rating instead of his own. In this case, the craftsman is only as good as his tools.
+
+Speaking of tools, the following might help the magician designing a spell:
+
+* Mages can receive aid from a single elemental as a service (add a number of dice equal to its Force Rating to the magician's Skill Rating). (See p. 141 of SRII for more information. Use the rules presented under Aid Study for this purpose as well) .
+* A library or medicine lodge with a rating higher than the character's Magical Theory Skill raises the effective skill. He gets 1 extra die for every 2 points the library or medicinelodge's rating is above his Magical Theory Skill Rating. That is, a shaman with Magical Theory 5 working in a medicine lodge rated at 7 would have an effective Magical Theory Skill of 6. This also increases the base time for designing the spell by +50 percent.
+* Shamans add a number of dice equal to their TotemAdvantage to the roll for any test dealing with spells within their totem. If they are attempting to design a spell which is somehow contrary to their totem, the Totem Advantage dice are subtracted from the total dice to be rolled. See pp. 119 ­22 in SRII for a listing of totems and their advantages/disadvantages.
+
+The test to create the design uses the effective SkillRating in Magical Theory, plus any additional dice gained through the circumstances described above. The magician makes aSuccess Test against a target number equal to twice the intended maximum Force Rating of the spell, minus the magician's Magic Attribute, plus any Drain modifiers acquired during the design of the spell (see the following sections). Remember, the minimum Target Number possible is 2. The base time for the design of the spell is based on the DrainLevel of the spell per the Base Design Time Table.
+
+**Base Design Time Table**
+
+Drain Level Base Time
+L 6 days
+M 18 days
+S 30 days
+D 60 days
+
+To determine the actual time required to design the spell,divide the successes earned from the Magical Theory Test into the base time. If the magician generates no successes,the spell design is a failure, and the magician can begin designing another (or the same spell) after waiting a number of days equal to one-half (round down) the base time. Having determined how long the design will take to complete, the character can do it in chunks: a few days here,a week there, until the design is finished. The gamemaster should keep strict track of how much time is being spent to design the spell. The completed formula is in the character's own magical tradition. A mage will produce a hermetic formula, a shaman comes up with a shamanic equation. Translating a formula a character already possesses from one tradition to another adds a +2 modifier to the target number for the Magic TheoryTest. If the inspiration is based on observation, the character adds a +2 modifier. If reverseengineering the formula from some published source, the character modifies the targetnumber by-2. Remember that the lowest target number possible in Shadowrun is a 2.
+
+**Using the Formula**
+
+Once a character has a spell formula, he can use it to learn the spell himself, sell it to customers, publish it, or sell it to a publisher for profit or as "public domain" magic. A spell formula is so complicated that even its designer is unable to memorize it. Obtaining a spell formula requires a hard copy, or access to the spell via electronic media. Mages have an advantage here, because shamanic formulas do not really lend themselves to computer storage. A shaman must usually have the actual formula-object in his possession,though the gamemaster can rule that a digitized image of the object or a hologram fulfills this requirement for strictly visual formulas. The procedure for learning a new spell appears on p. 132 of Shadowrun, Second Edition. A magician can only learn a spell at a Force Rating up to and including the Force Rating for which the spell formula was created. If a magician wants to upgrade a spell formula to a higher Force Rating, the target number for the Spell Design Test is calculated as for a brand-new spell, except that the character adds a -2 modifier to the target number and halves the base time for design.
+
+---
+
+### Inventing New Spells
+
+Rules in this section will help players to design spells not covered in any Shadowrun book. Whether it is a player who has a neat idea his magician wants to try or a gamemaster who needs that special something for a non-player wizard to toss at the player characters, this section covers how to do it. Spell design is an art; it cannot be reduced to pure numbers. These rules are guidelines, at best, giving the player a feel for the scale of spells, their effects, their Drain,and so on. It is not a hardcore, number-crunching system. No rule can take the place of a sense of balance in designing new spells. For instance, a "hurricane" spell, even with 20DDrain, would let the magician off too easily in return for devastating the countryside. Really tremendous magics, like the Ghost Dance that the native tribes used to attack the oldUnited States, are on another scale entirely from the sorcery one person can do. Though the Ghost Dancers of DanielHowling Coyote remain remarkably close-mouthed about how their rituals worked, researchers have determined that magic on this scale took hundreds of participants and thatDrain was measured in the number of magicians who died during the work. Spell design should be an artistic task, not an exercise in mathematical precision allowing a magician to get a tactical nuclear whammy for 3L Drain (no matter what the hermetics might say...). Even some of the spells in theShadowrun rules had to be written on a "that looks good"basis, because it was almost impossible to make the rules a perfect fit. In the last analysis, the gamemaster decides what new spells to allow in his game. Players and the gamemaster should confer closely on new spells to make sure everyone agrees on the power involved. The gamemaster, however, always has the final say in his or her game.
+
+The process of designing a new spell involves several decisions. First, of course, is to decide what the spell does. Next, the designer chooses a purpose that fits that decision. If it heals damage, it is a health spell. If it kills someone, it is a combat spell, and so on. This can be tricky, as discussed below. Now the player decides on a base Drain for the spell, based on the purpose of the spell and the way he wants it to work. Then he decides what modifiers will apply. Lastly, the designed Force Rating is decided. With the numbers now more or less plugged in, the designer writes up the effects in detail. Because the gamemaster has final say on what spells are allowed in his game, he can require the designer to tweak the numbers or the description if he does not approve the original version for some reason. ("Geez, Dave. just what the drek are you doing ...?") .
+
+Once the player has designed the spell in these terms, the character who is inventing the spell has to design the formula for it. If the gamemaster is inventing the spell, the spell simply becomes available, either publicly or known only to the non-player character who invented it.
+
+---
+
+### Defining a Spell
+
+The following sections expand on the spell information provided in the spell directory, p. 151, SRII, appearing in the same order given there.
+
+**Spell Category**
+
+The first step in designing a new spell is to decide the category into which it falls: combat, detection, health, illusion, or manipulation. The rule of thumb that if it hurts, it's a combat spell, if it heals, it's a health spell, and so on, does not apply. What is a spell that shoots a rock into someone at bullet speed? Is it a combat spell or a manipulation spell?  How about a spell that sharpens senses? Is that a detection spell or a health spell?  Sometimes it helps to ask not only what the spell does, but also how it does it. A spell might be something combat-like ("Zap this scum-bucket...") and do it by way of a manipulation ("...by zinging this .40 caliber fetish into him!").
+
+**Spell Type**
+
+Spells can be one of two types, **mana** or **physical**. Mana spells only affect living things or magical energies (like spell energy) in non-living things. Physical spells affect any material, but increase the Drain target number of the spell, as explained in Factoring the Drain Code, p. 118. It is easier on the spellcaster to throw mana spells. A mana spell is useless, however, when the target is not a living being. A manatype illusion will fool the guards in person, but doesn't do diddly if they are watching the caster via closed-circuit video. Mana illusion spells affect the target and alter its perception. A physical illusion spell twists and sidesteps physical laws to create a real effect. Another interesting difference between the two types of illusions is that a physical illusion spell can be seen by people other than the target, and they know it to be an illusion (unless they are within the spell's area of effect, in which case normal rules apply). A mana illusion spell is only visible to those affected by it.
+
+The line between mana and physical spells is not always so clear-cut. Players often ask why certain mana­type health spells work on heavily cybered charac- ters. The answer is that cyberware, bought and paid for with Essence, is bound so tightly to the organic part of the user that magic can usually be just as effective against a vat-jobstreet samurai as against a pure-flesh fanatic tribesman. So, within these rules, cybernetic senseenhancing systems that were paid for with Essence are considered to be natural and can be affected by mana-type spells. (For example, characters with cybereyes can be affected by mana illusion spells) . This does not hold true for a rigger using a vehicle's sensors. Because the sensors are separate and distinct from the rigger (no Essence paid for access to the electronic advantages) a mana-type spell is useless against those systems. If the rigger himself is within view of the magician, however, then the spell can be cast directly on the person, and a mana illusion spell would have an effect. (Yet another good reason to stay hidden or buttoned down) . Human thoughts, feelings, and so on can never be considered cyber-modified, no matter how much headware a character carries. The brain may be so full of wire that a character picks up radio broadcasts, but the mind is pure life force, and thus on the same "wavelength" as mana magic.
+
+---
+
+**Base Target Number Table**
+
+Spell Type/Condition Base Target Number
+Mana spell Target's Willpower Attribute Rating
+Physical spell Target's Body Attribute Rating
+Physical illusion spell Intelligence
+Manipulation spell 4
+Creating a barrier 6
+Fine manipulation 6
+Spell is:
+Affecting inanimate object Determine composition, see Object Resistance Table, p. 130, SRII
+General (i.e., area-effect detection spell) 4
+Counteracting specific effects (disease, toxin) Equal to Power Rating, Strength Attribute, or equivalent for that effect
+Affecting magic Sorcery Skill Rating of caster
+Benefiting an Attribute 2 x Attribute
+Affecting Attribute adversely 10 - target's Essence Rating
+Affecting target's bodily functions, (adversely or beneficially) 10 - target's Essence Rating
+
+**Range**
+
+Within this spell design system, the range of the spell affects the Drain Code. The designer can decide on a range at this time, but that decision does not take effect until theFactoring the Drain Code step described on p. 118. The possible range choices are:
+
+* **No Range/Touch Required:** The magician must "touch"the target in order to affect it. This does not require physical,flesh-to flesh contact, but refers to aural contact. The casting magician must move his or her own aura into contact with the aura of the target. In many ways, this type of spell is very difficult to defend against because the magician need not actually touch the target, but simply get close. To make aural contact, resolve a Melee Combat Test (see p. 100, SRII), but modify the attacker's target number by -1 because he does not have to actually hit the target. The use of a TouchRequired spell cannot be combined with a damage-causing unarmed attack. Resolve Surprise (see p. 86, SRII) if needed. No test needs to be made to make aural contact with an unconscious or willing target. Regardless of whether or no contact is made, the casting magician must make a DrainResistance Test.
+* **Limited Range:** The spell can be cast at a distance up to a limited range. The actual range limitation varies with the spell being cast. At the time the spell is cast, the magician makes a separate Force Test against a Target Number of 4,adding any applicable injury modifiers. If the magician desires, he or she may augment the test with dice from his or her Magic Pool. These dice, however, must be available in addition to any dice allocated for the actual Spell SuccessTest. Multiply the number of successes from this Force Test by the magician's Magic Rating to get the maximum range in meters at which the spell can operate. Usually only detection spells are created with the limited-range restriction. (Hey,how'd you like to be banking on that power bolt spell to save your character's butt and blow the Force Test so it only has a range of six meters?) . Detection spells tend to be centered on the caster, so the actual casting distance allowed becomes unimportant.
+* **Line-of-Sight (LOS):** If the magician can see the target,up to the limits of his or her own vision, the spell can reach the target. See the Range Modifiers (Optional Rule), p. 111,for an expansion of the line-of-sight and magical targetingrules.
+
+**Target Number**
+
+The spell type and other specific conditions of the spell determine the base target number for the Spell SuccessTest, per the descriptions below. This information also appears in the Base Target Number Table for easy reference.
+
+* If the spell is a mana spell, the base target number is theWillpower Attribute Rating of the target.
+* If the spell is physical, the base target number is the BodyAttribute Rating of the target.
+* If the spell is affecting an inanimate object, find the target number by determining the composition of the object and consulting the Object Resistance Table, p. 130, SRII.
+* If the spell is general and not specific to a single target,such as the area-effect detection spells, use Target Number 4.
+* If the spell is being used to counteract the effects of something specific, such as a disease or toxin, the target number is equal to the Power Rating, Strength Attribute, or equivalent for that specific effect.
+* If the spell affects magic, then the target number is equal to the Sorcery Skill Rating of the magician who cast the spell.
+* If the spell is affecting an Attribute beneficially, the target number is equal to twice the Attribute.
+* If the Attribute is being affected adversely, the target number is equal to 10 minus the target's Essence. This is also the target for spells that affect the inner workings of the body,beneficially or adversely, in an attempt to alter it from its current condition or status quo.
+* If the spell is a physical illusion spell, the target number is based on Intelligence.
+* If the spell is a manipulation spell, use Target Number 4 unless that spell involves the creation of a barrier, in which case use Target Number 6. Additionally, if the spell requires fine manipulation the Target Number is 6.
+
+**Duration**
+
+Shadowrun spells may last for one of three durations,Instant, Sustained, or Permanent (see p. 128, SRII). Instant spells take effect and end in the action during which they are cast. They usually have some permanent effect on reality, but the spell itself only lasts an instant. Spells that create damaging energies are of this type. Sustained spells last only as long as the caster maintains them, and their effects usually end when the spell does. Most noncombat spells fall into this category. Combat spells and damaging manipulation spells, those that channel and focus significant amounts of lethal energy in a split second, cannot be sustained. A spell that creates a damaging barrier or trap, on the other hand, can be ofSustained duration because the release of that energy does not coincide with the casting of the spell. Any spell involving sensing, searching, analysis,defense, transformation, or other changes in the world or the way the target of the spell perceives the world, should beSustained spells. The only way such a spell can become permanent is by using Quickening (see Metamagic, p. 42) or a spell lock (see p. 138, SRII). Permanent spells must be sustained for a time, but when that specified period is over, the effects are lasting. Most healing magics are of this type. Only a few spells should be inherently permanent induration. Spells that heal or repair damage, disease,insanity, the effects of drugs, poisons, and so on are good candidates. They return the target to its natural state, so that the universe will maintain the change once it is established. Minor organic transformations that purify or even create natural compounds from organic sources can also safely become Permanent, for example, a spell that creates simple foodstuff. Physical cosmetic spells for creating make-up, a hairdo,new clothes, even to rearrange the superficial appearance of objects, can be either Sustained or Permanent. This is the basis of the highly profitable use of magic as a status symbol for appearance. As a general rule, if the spell produces some sort of game effect or provides a bonus (other than restorative), the effect should not be Permanent. The gamemaster has the final word on whether it is possible to create a permanent version of a spell in his game. Further, if he approves a spell that turns out to be too powerful, the creator should graciously accept any gamemaster decision to downgrade the spell to Sustained,or even Instant, duration. The base time to maintain a spell to make it of Permanent duration depends on the complexity of the change the spell makes in the world. An example of how this applies to health spells is given on p. 155 of the Shadowrun rules. If the spell is not sustained for the entire period indicates it does not become permanent and its effect is lost. The base time scale for effecting a Permanent spell is:
+
+Minor Change 5 turns
+Moderate Change 10 turns
+Serious Change 15 turns
+Drastic Change 20 turns
+
+To determine the actual time required to make a spell permanent, the magician can divide the base time for creating the spell by the number of successes generated in the Spell Success Test when he cast the spell. The magician must decide before casting the spell whether those successes will be used to reduce the base time or to improve the effect of the spell. They cannot do both. The Drain Code for Permanent spells is increased perFactoring the Drain Code.
+
+**Force**
+
+To determine the Force Rating of the spell he or she is creating, the magician simply decides on the maximumForce of the formula. A spell's Force Rating cannot be greater than his or her own Magical Theory Skill Rating, or the rating of the library or medicine lodge he is working with.
+
+**Spell Resistance Test**
+
+Spells that affect a character adversely, i.e., in a way that operates against that character's purposes and would impose an effect that would be actively opposed if the target knew of the spell, must be resisted. In other words, if a spell works against the target, the target will resist the spell. The target of the spell resists the spell (with a SpellResistance Test) using as its target number the Force Rating of the spell. The Attribute affected by the spell determines the number of dice rolled in the test.
+
+---
+
+**Factoring The Drain Code**
+
+Having decided on a spell's purpose, the player must determine its basic Drain. This varies according to the specifics of each spell. Two things must be determined for the Drain Code: the Drain Target and the Drain Level. The base Drain Target, the target number of the caster's DrainResistance Test, is always equal to one-half the ForceRating of the spell, rounded down. This should be noted as (F / 2), as the actual Force Rating at which the spell is cast may vary. Drain target number modifiers may also apply that will either raise or lower the Drain Target. (For a complete list of Drain modifiers and explanations of each, see DrainModifiers, p. 122) . The Drain Level is based on the nature of the spell, andDrain Level modifiers adjust the Drain Level up or down as appropriate. Special Note: If the Drain Level reaches (D)eadly, and additional Drain Level modifiers remain to be applied, theDrain Target is increased by +2 for each unused Drain Level modifier. Also, if modifiers added to the Drain Level will reduce the level below (L)ight, it remains at (L)ight. Drain Target and Drain Level modifiers are explained in detail on pp. 122-123, following.
+
+**Combat Spells:** As shown in the Combat Spell Drain LevelTable, the Damage Level of a combat spell determines theDrain Level. The Drain Level is also modified by the conditions in the Drain Modifiers Table.
+
+**Combat Spell Drain Table**
+
+Damage Level Base Drain Level
+L L
+M M
+S S
+D D
+
+---
+
+**Drain Modifiers**
+
+Condition Modifier
+
+**Drain Target Modifiers:**
+Physical Spell +1 Drain Target
+Stun Damage -1 Drain Target
+Restricted Target -1 Drain Target
+Touch Required -1 Drain Target*
+
+**Drain Level Modifiers:**
+Area-Effect Spell +1 Drain Level
+Elemental Effect +1 Drain Level
+Limited Range -1 Drain Level
+Touch Required -1 Drain Level*
+Very Restricted Target -1 Drain Level
+Bonus Game Effect See Drain Modifiers
+LOS Range No modifier
+
+*Apply both modifiers.
+
+GAMEMASTER NOTE: Combat spells by their nature ignore armor of all kinds. The ram spell (technically misnamed) affects the vehicle by "cooking" its structure from the inside. (Remember, combat-spell magic grounds into a target from astral space, effectively hitting it from inside) . Because of the special game system used to resolve the effects of physical barriers (necessary to make standard physical combat run smoothly) the designers found it necessary to create the somewhat, well, odd, game system behind the ram spell. In general, gamemasters should be prepared to create other specialized resolution systems as circumstances demand. Such specialized systems are difficult to balance from game to game, so nothing should ever be written in stone. The gamemaster must always reserve the right to go back and retrofit something that isn't working properly. For more on The Craft of Spell Design, see p. 124.
+
+**Detection Spells:** The base Drain Level for a detection spell depends on what is being detected and how much information the spell gathers. (See Detection Spell Drain andDrain Modifiers tables) . Detecting non-living things is tougher than working with living subjects. Spells can simply detect presence. Is the target of the spell there or not?  For example, a detect life spell simply detects the presence of living beings. Spells can also analyze the target, providing the spellcaster with information. For example, the spell detect enemies reveals the general intentions of a living being. As a design, this spell stretches the limits of the spell structure at that Drain Level. Detection spells can provide a caster or target with hypersenses. Hypersense involves the senses at a level that could in no way be considered natural by imparting information that would normally be unknowable to the caster. Hypersenses can allow the target to achieve and acquire benefits on a subconscious level. An example of this kind of hypersense spell is the combat-sense spell, which does not give the recipient any conscious, accessible information concerning the situation, but the target is able to react (through the Combat Pool bonus) to information that he or she somehow instinctively knows. Detection spells can be designed at any range but LOS (LOS range would provide too much information), thoughTouch Required range may make sense for certain types of detection spells.
+
+---
+
+**Detection Spell Drain Table**
+
+Spell Nature Base Drain Level
+Detect living beings or magical energy M
+Analyze living beings or magical energy S
+Sensory enhancement (improves physical sense) M
+Radically new or enhanced physical sense (ESP, Superbalance, and so on) D
+
+**Drain Modifiers**
+
+Condition Modifier
+
+**Drain Target Modifiers:**
+Deep Mind Interaction +2 Drain Target*
+Physical Spell +1 Drain Target
+Superficial Mind Interaction +1 Drain Target
+Sustained Spell +1 Drain Target
+Works on Non-Living Target +1 Drain Target*
+Detection Spell Modifier -1 Drain Target
+Extended Range -1 Drain Target
+Restricted Target -1 Drain Target
+Specific Target -1 Drain Target
+Touch Required -1 Drain Target*
+
+**Drain Level Modifiers:**
+Area-Effect Spell +1 Drain Level
+Deep Mind Interaction +1 Drain Level*
+Works on Non-Living Target +1 Drain Level*
+Limited Range -1 Drain Level
+Personal Spell -3 Drain Levels
+Touch Required -1 Drain Level*
+Very Restricted Target -1 Drain Level
+Voluntary Subject Required -1 Drain Level
+Bonus Game Effect See Drain Modifiers
+
+*Apply both Target and Drain modifiers.
+
+**Health Spells:** Health spells are difficult to quantify because the caster must keep track of so many variables. Spells designed to counter the effects of an agent (or the agent directly) such as disease, poison, and so on are limited to a maximum Damage Level that they can treat successfully. A spell that counters a toxin causing Lightdamage is no help against a toxin causing Moderate damage. The base Drain Level for this type of spell is equal to the maximum Damage Level the spell can affect. Spells that cause afflictions have a Drain Level equal to the level of the affliction to the target, i.e., a spell that causesSerious disease has a Serious Drain Level. Spells that affect Attributes, either negatively or positively, have a base Drain Level depending on the number of Attribute Points added or subtracted, per theAttribute Base Drain Table. Unless otherwise indicated, a health spell has a baseDrain Level of (L)ight.
+
+---
+
+**Attribute Base Drain Table**
+
+Ratings Point Change Base Drain Level
++/ -1 L
++/ -2 M
++/ -3 S
++/ -4 D
+
+**Drain Modifiers**
+
+Condition Modifier
+**Drain Target Modifier:**
+Spell Affects Cybered Attribute +2 Drain Target
+Physical Spell +1 Drain Target
+Sustained Spell +1 Drain Target
+Treats Symptoms Only -2 Drain Target
+Restricted Target -1 Drain Target
+Touch Required -1 Drain Target*
+
+**Drain Level Modifiers:**
+Permanent Effect +1 Drain Level
+Spell Affects Attributes +1 Drain Level
+Spell Affects Initiative +1 Drain Level
+Limited Range -1 Drain Level
+Touch Required -1 Drain Level*
+Very Restricted Target -1 Drain Level
+Voluntary Subject Required -1 Drain Level
+Bonus Game Effect See Drain Modifiers
+LOS Range No modifier
+
+*Apply both modifiers.
+
+**Illusion Spells:** The base Drain for illusion spells depends on the senses affected by the illusion and its overall believability, as shown in the Illusion Base Drain Table.
+
+---
+
+**Illusion Base Drain Table**
+
+Type of Illusion Base Drain Level
+Obvious or Simple Illusion L
+Realistic or Complex Illusion M
+Very Realistic or Very Complex Illusion S
+
+**Drain Modifiers**
+
+Condition Modifier
+**Drain Target Modifier:**
+Physical Spell +1 Drain Target
+Sustained Spell +1 Drain Target
+Restricted Target -1 Drain Target
+Touch Required -1 Drain Target*
+
+**Drain Level Modifiers:**
+Area-Effect Spell +1 Drain Level
+Illusion Spell Modifier -1 Drain Level
+Limited Range -1 Drain Level
+Touch Required -1 Drain Level*
+Very Restricted Target -1 Drain Level
+Voluntary Subject Required -1 Drain Level
+Bonus Game Effect See Drain Modifiers
+LOS Range No modifier
+
+*Apply both modifiers.
+
+**Manipulation Spells:** Base Drain for a manipulation spell depends on an arbitrary measurement of the overall change in reality that the spell creates. The gamemaster is the final arbiter in settling any disputes over this number. The Manipulation Effect Damage Table provides general guidelines for determining how to quantify the change. The base Drain Level for damaging manipulations is derived from the base Damage Level of the spell, just as for combat spells. Note that a damaging manipulation spell that however re­motely involves an elemental effect (see Elemental Effects,p. 112) must also modify Drain using the Elemental EffectModifiers Table.
+
+---
+
+**Manipulation Effect Damage Table**
+
+Spell Damage Effect Level
+Minor Mental Changes (heighten emotion, suggestion) L
+Major Mental Changes (mind control, amnesia) M
+Minor Physical Changes (appearance) M
+Major Physical Changes (change shape or form) S
+Minor Physical Control or Manipulation M
+Major Physical Control or Manipulation S
+Minor Environmental Changes (light, darkness, humidity) S
+Major Environmental Changes (weather, destruction, gravity) D
+
+**Manipulation Base Drain Table**
+
+Damage Level Base Drain Level
+L L
+M M
+S S
+D D
+
+**Elemental Effect Modifiers**
+
+Condition Modifier
+
+**Drain Target Modifier:**
+Deep Mind Interaction +2 Drain Target
+Physical Spell +1 Drain Target
+Superficial Mind Interaction +1 Drain Target
+Sustained Spell +1 Drain Target
+Stun Damage -1 Drain Target
+Touch Required -1 Drain Target*
+
+**Drain Level Modifiers:**
+Area-Effect Spell +1 Drain Level
+Damaging Manipulation Is Sustained +1 Drain Level
+Deep Mind Interaction +1 Drain Level
+Elemental Effect +1 Drain Level
+Permanent Effect** +1 Drain Level
+Spell Affects Attribute +1 Drain Level
+Touch Required +1 Drain Level*
+Limited Range -1 Drain Level
+Bonus Game Effect See Drain Modifiers
+LOS Range No modifier
+
+*Apply both modifiers.
+**For minor, inconsequential transformations only.
+
+---
+
+**Resisted Manipulation Spells:** The target of a manipulation spell that forces a change in shape, form, or behavior must resist the spell. If the manipulation is of a mental nature, involving thoughts or emotions, the target resists using Willpower. If the manipulation is of a physical nature, the target resists with the Body Attribute. If the spellcaster generates the same number of successes or more successes than the target, the spell succeeds. The effect of certain spells may then be calculated from the netsuccesses.
+
+---
+
+**Drain Modifiers**
+
+Drain modifiers can affect either the Drain Target (based on one-half the Force Rating of the spell, rounded down) or the Drain Level (set by the specifics of the spell design). Detailed explanations of each modifier follows the DrainModifiers Master List in alphabetical order.
+
+**Master List Key**
+
+C = Combat Spell
+D = Detection Spell
+H = Health Spell
+I = Illusion Spell
+M = Manipulation Spell
+
+**Bonus Game Effect (Variable):** Casting certain spells results in the need to add special effects (game mechanics,as opposed to other components of spell design and execution) to a situation. For example, these game effects may include creating target number modifiers, variable success-based tests, adding dice to a roll, and so on. These effects are grouped into a catchall modifier called the bonusgame effect. The examples listed below provide Drain Target and Drain Level modifiers for a variety of possible game effects. Gamemasters should feel free to create new effects as players use spells requiring specialized effects. The Bonus Game Effect modifier usually requires the greatest amount of game-balance fudging on the part of the designer and the gamemaster. If the effect of the spell is actually inconsequential, then adjust the modifier accordingly.
+
+**Drain Target / Drain Level Game Effect Modifier**
+
+* Creates Specific Test (i.e., Perception) Target Number
+    * At 2 x successes +2
+    * At 1 x successes +1
+* Creates Variable General Target Number Modifier
+    * At 1 per success +2
+    * At 1 per 2 successes +1
+* Provides Set General Target Number Modifier
+    * +1 +1
+    * +2 +1
+* Adds Additional Dice (to Attribute, etc.)
+    * Per die given +1
+    * 1 per 2 successes +1
+* Forces Target to Make Test (i.e., Quickness to avoid slipping)
+    * Against Target Number of 4 +1
+    * Against Target Number of 1 per 2 successes +1
+* Discretionary Effect (gamemaster determined)
+    * Simple/Inconsequential +1
+    * Involved/Complex +1
+    * Very Involved/Very Complex +2 or more
+
+**Damaging Manipulation Is Sustained (+1 Drain Level):** A magician casting a damaging manipulation spell ofSustained duration must add this modifier and so suffers an additional +1 Drain Level.
+
+**Deep Mind Interaction (+2 Drain Target / +1 Drain Level):** The spellcaster must add this detection and manipulation spell modifier to his or her target number for the SpellSuccess Test if the spell being constructed requires deep,multilayered interaction with the target's mind, particularly if controlling or reading thoughts. For controlling or reading emotions and surface intentions, use the Superficial Mind Interaction modifier.
+
+**Detection Spell Modifier (-1 Drain Target):** This detection spell modifier reflects that certain elements of detection spells make them easier to cast than other spells.
+
+**Elemental Effect (+1 Drain Level):** A spellcaster throwing a combat or manipulation spell that creates an elemental effect (see Elemental Effects, p. 112) must use this modifier. Only physical spells can result in an elemental effect.
+
+**Extended Range (-1 Drain Target):** This detection spellmodifier increases the effective range at which the spell can operate. The same separate Force Success Test used for limited range should be made, and the successes from that test multiplied by a number equal to ten times the magician's Magic Attribute Rating. This modifier applies only to detection spells. See Detection Spells, p. 1 11, for more information.
+
+**Illusion Spell Modifier (-1 Drain Level):** Use this modifier to reflect the fact that illusion spells are easier to cast than other spells.
+
+**Limited Range (-1 Drain Level):** Use this modifier when casting spells at limited range (see Range, p. 117).
+
+**LOS Range (No modifier):** Spells created with line-of­sight range do not use Drain Level/Drain Target modifiers. Remember, detection spells cannot be designed with line-of­sight range.
+
+**Permanent Effect (+1 Drain Level):** In order to cast a sustained spell and make it permanent, the spellcaster must use this modifier. See Duration, p. 118 for more information.
+
+**Personal Spell (-3 Drain Levels):** A spellcaster casting a spell on himself receives this benefit. A magician is always "touching" himself (his aura), and so the Touch Required modifier does not apply. Nor does the Voluntary SubjectRequired modifier apply the magician presumably wants to cast the spell on himself.
+
+**Physical Spell (+1 Drain Target):** Any physical spell in any category requires this modifier. In cases where the spellunder design could sensibly be classified either physical or mana, the player should use the Physical Spell modifier, for example, spells that affect the Reaction Attribute.
+
+**Restricted Target (-1 Drain Target):** If a spell only affects a limited class of target, add the Restricted Target modifier to the spellcaster's target number for the Spell Success Test. Examples include a spell designed to affect a single species (e.g., manaball vs. elves), a physical spell that only affects non-living things (e.g., the ram spell), and so on. This modifier is not cumulative with the Very Restricted Target modifier described below. This modifier cannot be used with manipulation spells.
+
+**Specific Target (-1 Drain Target):** This detection-spellmodifier applies when a single subject is the target of a detection spell.
+
+**Spell Affects Attribute (+1 Drain Level):** If a health or manipulation spell affects an Attribute, the spellcaster must use this modifier. Health spells (but not manipulation spells)that affect Reaction also require the Spell Affects Initiativemodifier, described below.
+
+**Spell Affects Cybered Attribute (+2 Drain Target):** Due to the complex, resistant nature of cyberware, any healthspell (and only health spells) that affects an Attribute already affected by cyberware requires this modifier. Though certain manipulation spells affect Attributes, they do not boost theAttribute directly, but produce an effect that provides a bonus or increase to the Attribute Rating. For example, see the armor spell, p. 158, SRII.
+
+**Spell Affects Initiative (+1 Drain Level):** This health spellmodifier should be used when a spell affects Initiative by increasing or decreasing the available number of Reaction orInitiative dice. This modifier is cumulative with the SpellAffects Attribute modifier.
+
+**Stun Damage (-1 Drain Target):** Damaging spells that do Stun damage, either combat or damaging manipulation spells, receive this modifier.
+
+**Superficial Mind Interaction (+1 Drain Target):** Thisdetection and manipulation spell modifier must be used if thespell being constructed interacts on a superficial level with a target's mind. It is used primarily when attempting to affect emotions or general intentions. No specific information can be gained or imposed using this modifier. Deeper interaction with the mind requires the Deep Mind Interaction modifier.
+
+**Sustained Spell (+1 Drain Target):** Spells of Sustained duration require this modifier.
+
+**Touch Required (-1 Drain Target / -1 Drain Level):** This modifier is used when casting a spell requires direct contact with the target. See Range, p. 117 for resolution information. This modifier is not cumulative with the Personal Spellmodifier. If the spellcaster is using the Voluntary SubjectRequired modifier, add only the-1 Drain Target modifier for the Touch Required aspect of the spell. Normally, however,apply both the -1 Drain Target and the -1 Drain Levelmodifiers.
+
+**Treats Only Symptoms (-2 Drain Target):** Any health spell that treats or causes only symptoms, not the underlying causes, uses this modifier. In other words, the spell cannot actually affect Attribute Ratings, heal boxes of damage, and so on.
+
+**Very Restricted Target (-1 Drain Level):** This modifier applies to spells that affect only a specific type of target. For example, a physical spell designed only to blow open doors and which is ineffective against other inanimate objects would be treated as a very restricted spell. The only way to develop a spell that could use this bonus and affect ' living things' is to designate a specific individual as the target. ("Here's a spell with your name on it. No, really!") . This modifier cannot be used with manipulation spells.
+
+**Voluntary Subject Required (-1 Drain Level):** This modifier affects spells that only work on a voluntary target. The target must know that the spell is being used on him and must accept the magic willingly. The magician must still make a Success Test against the usual target numbers, but the target does riot make a Resistance Test, and so all the magician's successes apply to the spell's effects. This modifier is only partially cumulative with the Touch Required modifier above.
+
+**Works On Non-Living Target (+1 Drain Target / +2 Drain Level):** This detection spell modifier is required if the spellcaster desires information on a non-living target. It is required for all detection spells affecting objects or devices. This modifier is not required for any category of spells other than detection. When using this modifier, apply both the +1Drain Target modifier and the +2 Drain Level modifier.
+
+---
+
+**Examples of Spell Design**
+
+Let's pick a few of these goodies and look at how we arrived at the Drain Codes, applying the rules for FactoringThe Drain Code on pp. 118-121. These examples of how published spells were generated can be helpful to players crafting their own. First, though, a few more thoughts on spelldesign. Happy zapping.
+
+---
+
+**The Craft of Spell Design**
+(or, A Look Behind The Curtain)
+
+We've already spent a few paragraphs talking about how spell design is an art, and not an exercise in numbercrunching. Well, that is still true, but as soon as the process involves a game system, it becomes more of a craft; a combination of art and technical expertise. The Shadowrun spell-design system is a loose one. Like many of Shadowrun's game systems, the spell-design system does not model any one particular view of reality, but instead creates and fosters an atmosphere that contributes tothe roleplaying experience. This game system was never intended to be a static, immutable entity, but unscrupulous players will try to abuse the system. Because it sometimes seems that the systems specifically designed to resist abuse breed it the most, we figured, why bother?  Instead, we'vesimply created a spell-design system that includes enough built-in stopgaps to restrict runaway power design, but provides enough flexibility to allow the players and gamemasters to create the spells they want. The ultimate goal of a spell design, from a systemic point of view, is balance. The spell must do what it was designed to do, do it in a worthwhile manner, and be balanced within the game. The last part is the hardest.
+
+A percentage of the spells in the basic Shadowrun rules,and in this book, break away from the design system and work in ways not built into the system. The reason? The spells were better, and more fun, that way. The spell-design rules should not keep gamemasters and players from creating a spell for a specific effect, or resolving that effect in a manner not presented in the spell-design system. The guidelines for creating spells like ram, heal (or treat),hibernate, shadow, and others do not appear in the rules,but these spells exist. The flexible Shadowrun spell-design system allows players to find solutions to problems unsolvable under other systems. The problem of gamebalance, however, remains. Spell designers must always keep balance in mind. Sure, it's fun to build a spell that always kicks butt, everytime, without fail, but it's not fair. It's not fair to the other players, and it's not fair to the gamemaster. The gamemaster is the final and absolute arbiter of what is fair in his or her game. If the gamemaster says a spell is too powerful, the designer has to fix it or it won't be in the game. That's it, end of story. Even we, the awesomely omniscient (and humble) game designers will not overrule a gamemaster if he or she thinks a spell is too powerful for their game. Even if that spell was designed by the book, right down the line. Remember, balance is the key: without balance, the game will not be much fun, and fun is the name of the game.
+
+---
+
+**Combat Spells**
+
+The mana bolt spell, the magician's standby, is a straightforward, face-stomping combat spell. The magician chooses a Damage Level of (S)erious, so that makes theBase Drain Level (S)erious as well. Because no other modifiers apply, the Drain Code is (F= 2)S. Easy stuff.
+
+Its counterpart, the power bolt spell, also has a DamageLevel of (S)erious, so again the Base Drain Level is (S)erious. This is a Physical Spell, which requires a DrainTarget Modifier of +1, giving the power bolt spell a DrainCode of: [(F/2)+1]S. A bit further down the list of combat spells is powerblast, with a Damage Level of (M)oderate. Its Base DrainLevel is (M)oderate. Because it is a Physical Spell, add a +1Drain Target Modifier. Add another +1 modifier because it is an Area-Effect Spell. The Elemental Effect of blast gives the spell another +1 Drain Level Modifier, for a final Drain Code of: [(F-2)+1]D.
+
+---
+
+**Detection Spells**
+
+We chose a few detection spells at random to explain. The detect enemies spell must detect living things and analyze their mental state and/or actions, which makes itsBase Drain Level S. Limited Range modifies the Drain Level by -1, and it is Sustained, modifying the Drain Target by +1. As a Detection Spell it automatically gets a -1 Drain Targetmodifier, but add in a +1 Drain Target modifier for SuperficialMind Interaction. It is an Area-Effect Spell, and so the DrainLevel is again increased by +1. Finally, the fact that it is cast on a Voluntary Subject modifies the Drain Level by -1. The final result: [(F/2)+1]M. Players must keep in mind that spells to analyze a specific matter or to dig out specific information are considered as cast against the thing or person being analyzed, and so must overcome the target's resistance, for example, the analyze device and mind probe spells. General detection spells and hypersenses, on the other hand, are considered as cast with the target's acceptance. This sometimes requires the gamemaster to make a judgment call.
+
+The mind probe spell warrants a special note. Due to the potentially unbalancing game effect of such a spell, we devised a unique game system to create it. The Drain Code was judged severe enough after standard calculations that it was left unaltered. As a radically new sense it began with aBase Drain Level of (D)eadly. The applicable modifiers were:
+* Touch Required (-1 Drain Target / -1 Drain Level)
+* Sustained (+1 Drain Target)
+* Detection Spell (-1 Drain Target)
+* Specific Spell (-1 Drain Target)
+* Involves the Mind Deeply (+2 Drain Target / +1 Drain Level)
+* Bonus Game Effect (+1 Drain Level)
+
+This all results in a final Drain Code of [(F/2)+2]D.
+
+---
+
+**Health Spells**
+
+Please note that most health-spell formulas adhere rigidly to the rule limiting effective treatment to the "golden" hour following an injury, and to other special-case rules that make health spells expensive. This was an attempt to keep the game balanced, so that wounds from combat do not become so trivial a factor in Shadowrun that a powerful healer can patch up a samurai with the snap of his fingers. Because the increase-and decrease-attribute spells were problematic, the basic rules arbitrarily assigned themBase Drain Levels based on the level of increase or decrease: L for +1, M for +2, and so on. For example, the spell decrease (cybered Attribute) -1 had a base Drain Level of L. The applicable Drain Target modifiers are +2 for Affecting a Cybered Attribute, +1 because it is a Physical Spell, and +1 because it is Sustained. The applicable Drain Level modifier is /1 for Spell Affects Attributes. In addition, TouchRequired applies a-1 Drain Target modifier and a -1 DrainLevel modifier. The final result is: [(F/2)+3]L.
+
+A new spell in this book, resist pain, had a base DrainLevel similar to a healing spell, reflecting the level of damage being affected. So, the resist light pain spell has a (L)ightbase Damage Level. The only modifiers are PermanentEffect (+1 Drain Level), Limited Range (-1 Drain Level), andBonus Game Effect (+1 Drain Level), resulting in a DrainCode of: (F/2)M. Common sense limited the permanency of relief provided by resist pain spells, and limited-length relief applied limits to the way the spells worked. The general rule of thumb said that a spell would only affect damage of the same level, i.e., a Moderate spell would not help alleviateSevere damage. The spell oxygenate had an interesting development. Because this spell does not deal with healing (or hurting), it received the flat (L)ight base Drain Level. Because it affects the blood directly, it is a Physical Spell (+1 Drain Target), and it is Sustained (+1 Drain Target). It Affects the BodyAttributes (+1 Drain Level), has a Limited Range (-1 DrainLevel), and a Bonus Game Effect of 1 extra die per 2successes (/1 Drain Level). The net result: [(F/2)+2]M.
+
+---
+
+**Illusion Spells**
+
+The illusion spells are fairly straightforward. Chaos, for example, is a realistic illusion affecting multiple senses, so its Base Drain Level is M. It is a Physical Spell, as it can affect sensing devices, so add a Drain Target Modifier of +1. Sustained duration gives it another +1 Drain Target Modifier,and the Illusion Spell and Bonus Game Effect modifiers add -1 and +1 Drain Level modifiers, which cancel each other out. Final result: [(F / 2)+2]M. The chaotic world spell is an Area-Effect version of the chaos spell, so its Drain Level is modified by an additional +1, for a Drain Code of: [(F/2)+2]S. The Drain drops rapidly for the more marketable illusionspells, where the Voluntary Subject, Touch Required, and other modifiers reduce the wear and tear on the caster.
+
+---
+
+**Manipulation Spells**
+
+The hardest part of defining a manipulation spell is deciding what level of change the manipulation imposes on the target (or the environment). The barrier spells were interpreted as minor physical manipulations, and so given base Drain Level of (M)oderate, modified by Area Effect, the Physical nature of some of the spells, and the Bonus Game Effects. The physical barrier spell, for example, has a base DrainCode of M (minor physical manipulation), modified by +1Drain Level for being an Area-Effect Spell, -1 Drain Level forLimited Range, and +1 Drain Level for Bonus Game Effect. It also receives a +1 Drain Target modifier as a Physical Spell and +1 Drain Target modifier for Sustained duration, giving it a final Drain Code of [(F/2)+2]S. The mana barrier spell is modified the same way, except as a mana spell it receives one less Drain Target modifier, and so its final Drain Code is:[(F/ 2) + 1 ]S. The anti-bullet and anti-spell versions of the barrier-spells have lower Drain Codes because they use theRestricted Target modifier. The damaging manipulations are also quite straightforward, calculated in much the same way as combatspells.
+
+---
+
+**Spell Directory**
+
+The spell directory provides explanations and mechanics for new and revised spells created using the system described in Spell Design, pp. 110-123, plus a little imagination. The spells are organized according to type: combat, detection,health, illusion, and manipulation. This directory is not intended to serve as an exhaustive list of all the known spells in the Shadowrun universe: players and gamemasters are encouraged to create their own spells, and have fun doing it. Note that the spells listed in Shadowrun, Second Edition,do not appear here, though they are included on the MasterSpell Table, pp. 133-135. Previously published spells appear here only if they require further explanation under the rules published in this book. Each spell listing is accompanied by the following notations:
+
+* **Type** tells the type of spell, whether physical or mana.
+* **Range** tells the range: Touch Required, Limited, or Line­ofSight (LOS).
+* **Target** indicates how to calculate the target number for the Spell Success Test. A notation of (R) means that the spell is Resisted and so the target will roll dice to reduce the casting magician's successes. If no (R) is present, only the casting magician rolls dice.
+* **Damage** indicates the base Damage Level; Light,Moderate, Serious, or Deadly, as well as whether or not the spell does Stun damage.
+* **Duration** tells whether the spell has Instant, Sustained, orPermanent duration. If Permanent duration has an extranotation, such as "Permanent (10 Turns)," that indicates the number of turns the spell must be sustained before it actually becomes permanent.
+* **Drain** indicates the Drain Code of the spell. The (F / 2) or [(F / 2)+X] notation indicates that the Drain Resistance Test is made against one-half the Force Rating of the spell (rounddown), or one-half the Force plus some number. The second notation indicates whether the Drain Level is Light, Moderate,Serious, or Deadly.
+
+---
+
+**Combat Spells**
+
+The following combat spells are new. Players and gamemasters should feel free to add their own spells to this list.
+
+**Death Touch**
+A particularly lethal combat spell that requires the casting magician to touch the target. The spell causes Physical damage to a single target.
+* **Type:** Mana
+* **Range:** Touch
+* **Target:** Willpower (R)
+* **Damage Level:** D
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]S
+
+**Fire Bolt**
+A powerful bolt of energy that causes Physical damage to a single target, using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Fire Cloud**
+An area-effect cloud of magical energy that causes Physical damage, using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Fire Dart**
+An energy dart that causes Physical damage to a single target, using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** L
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]M
+
+**Fire Missile**
+A bolt of magical energy that causes Physical damage to a single target using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]S
+
+**Fireball**
+An area-effect spell that causes Physical damage using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+3]D
+
+**Mana Cloud**
+An area-effect spell that raises a cloud of magical energy that does Physical damage.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** (F / 2)S
+
+**Manablast**
+A powerful blast of magical energy that causes Physical damage. This area-effect spell uses the elemental effect of blast.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** (F / 2)D
+
+**Powerblast**
+A powerful blast of magical energy that causes Physical damage. This area-effect spell uses the elemental effect of blast.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Ram Touch**
+The ram spell damages inanimate objects. The ramtouch spell functions in the same way as the basic ram spell (p. 151, SRII), except that the casting magician must touch the target.
+* **Type:** Physical
+* **Range:** Touch
+* **Target:** Object Resistance Table
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]M
+
+**Slay (Race/Species)**
+Each version of this spell has a different, specific formula. Slay ork, slay normal, slay dog, slay westerndragon, slay cockroach, slay feathered serpent, and so forth are all separate spells. (Restricted Target: Specific Race/Species)
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]S
+
+**Spirit Bolt**
+A bolt of magical energy that causes Physical damage to a single spirit. (Restricted Target: Spirits.)
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Force (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]S
+
+**Sterilize**
+This area-effect spell kills small life forms such as bacteria and other microorganisms. In addition, it also destroys or renders unusable such biomaterial as skinflakes, stray hairs, spilled blood, and so forth that might be left behind at a crime scene. Organic material affected by this spell cannot be used as a material link (see RitualMagic, p. 35, and p. 135, SRII). Because the spell does not affect biomaterial attached to a living being, it does not kill the various helpful and harmful microorganisms living inside a creature. Successful application of the spell requires only 1 success. For game purposes, this spell does not affect organisms classified as bioweapons.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Damage Level:** D
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Stun Bolt**
+A bolt of magical energy that causes Stun damage to a single target.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]S
+
+**Stun Cloud**
+An area-effect spell, instantly producing a cloud of magical energy that causes Stun damage.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]S
+
+**Stun Missile**
+A missile of magical energy that causes Stun damage to a single target.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F-2)-1]M
+
+**Stun Touch**
+A hands-on spell that causes Stun damage to a single target.
+* **Type:** Mana
+* **Range:** Touch
+* **Target:** Willpower (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-2]M
+
+**Stunball**
+An area-effect spell that causes Stun damage to a single target.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)-1]D
+
+**Stunblast**
+An area-effect spell that causes Stun damage using the elemental effect of blast.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Urban Renewal**
+This spell works in a manner similar to the ram spell (p.151, SRII), but affects only parts of buildings. (RestrictedTarget: Buildings.) Also, this version is an area-effect spell. The gamemaster must check for the actual effect only against significant, important objects within the affected area. For other affected objects, the gamemaster may use his or her own discretion.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Object Resistance Table
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** (F / 2)D
+
+**Wrecker**
+This spell works in a manner similar to the ram spell (p.151, SRII), but affects only a single vehicle. (RestrictedTarget: Vehicles.)
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Object Resistance Table
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** (F / 2)S
+
+---
+
+**Detection Spells**
+
+Note that the background count of an area affects all ranged detection spells cast within it (see BackgroundCount, p. 89).
+
+**Analyze Magic**
+This spell allows the casting magician to analyze a magic item as if assensing it. To determine the effect of the spell, make the Spell Force test using the Force Rating of the spell, focus, or other magical phenomena as the target number. To determine the information the caster acquires,consult the Astral Examination table (p. 146, SRII).
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** Force/Rating
+* **Duration:** Sustained
+* **Drain:** (F / 2)M
+
+**Clairaudience (Extended Range)**
+This spell works in a manner similar to the clairaudience spell (p. 153, SRII), but includes the Extended Range option. For a complete explanation of Extended Range, see SpellDesign, p.110.
+* **Type:** Mana
+* **Range:** Extended
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)-1]S
+
+**Clairvoyance (Extended Range)**
+This spell works in a manner similar to the clairvoyance spell (p. 153, SRII), but includes the Extended Range option.
+* **Type:** Mana
+* **Range:** Extended
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)-1]S
+
+**Detect Enemies (Extended Range)**
+This spell works in a manner similar to the detect enemies spell (p. 153, SRII), but includes the Extended Range option.
+* **Type:** Mana
+* **Range:** Extended
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** (F / 2)S
+
+**Detect Magic**
+The detect magic spell is an area-effect, general hypersense spell requiring a voluntary subject. Within limited range, the magician detects the presence of active magic in the form of magical items (foci), sustained, quickened, or anchored spells, and/ or spirits. This spell does not detect magically active characters.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** (F / 2)L
+
+**Mindlink (Individual)**
+This is a hypersense spell requiring a voluntary subject that allows the casting magician to communicate mentally,exchanging conversation, emotions, and mental images with a specific person chosen at the time of the spell's design (presumably a teammate.). The subject must be within both line of sight and the range of the spell at the time of the initialcasting. Once the magician has cast the spell, the target must remain within the limited-range area, but may move out of line of sight. (Restricted Target: Individual).
+The Target Number to determine the mindlink's initial success is 4, and 1 success will establish the link. However,if the target of the spell does not wish to communicate, he or she may resist the spell by rolling a number of dice equal to his Willpower against a target number equal to the ForceRating of the spell. If the resisting player succeeds, reduce the caster's successes accordingly. If the spell fails to establish the link, the magician must recast it and resist corresponding Drain.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+---
+
+**Health Spells**
+
+The following spells represent only a few of the options possible using the spell design system on pp. 118-123 of this book.
+
+**Decrease (Cybered Attribute)**
+This spell works in a manner similar to the decrease (Attribute) spell (p. 154, SRII) except that it affects cyberedAttributes. Increase the Drain Level by +1 for the version of this spell that affects cybered Reaction.
+* **Type:** Physical
+* **Range:** Touch
+* **Target:** 10-Essence
+* **Attribute -1:**
+    * **Drain:** [(F / 2)+3]L
+    * **Duration:** Sustained
+* **Attribute -2:**
+    * **Drain:** [(F / 2)+3]M
+    * **Duration:** Sustained
+* **Attribute -3:**
+    * **Drain:** [(F / 2)+3]S
+    * **Duration:** Sustained
+* **Attribute -4:**
+    * **Drain:** [(F / 2)+3]D
+    * **Duration:** Sustained
+
+**Decrease Reflexes**
+Similar to the increase reflexes spell (p. 155, SRII) this spell reduces the number of Initiative dice available to the target by the number indicated (-1, -2, or-3). This spell will not affect characters with cybernetic Initiative enhancements. Any character who ends up with no, or a negative number of Initiative dice as a result of this spell uses his or her Reaction as Initiative.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** 2 x Reaction
+* **-1 Initiative Die:**
+    * **Drain:** [(F / 2)+1]S
+    * **Duration:** Sustained
+* **-2 Initiative Dice:**
+    * **Drain:** [(F / 2)+1]D
+    * **Duration:** Sustained
+* **-3 Initiative Dice:**
+    * **Drain:** [(F / 2)+3]D
+    * **Duration:** Sustained
+
+**Healthy Glow**
+This spell brightens eyes and hair, sloughs off dead skin cells, improves circulation, and promotes general well-being. A cosmetic spell, the rich use the healthy glow spell as a status symbol and pick-me-up. Though "permanent" in the sense that it does not require magical sustaining, the spell will wear off in time, based on the subject's lifestyle, diet,vices, and so on.
+* **Type:** Physical
+* **Range:** Touch
+* **Target:** 4
+* **Duration:** Permanent (5 turns)
+* **Drain:** (F / 2)L
+
+**Oxygenate**
+This spell, requiring a voluntary subject, oxygenates his or her blood, giving him or her extra Body dice (1 die for every 2 successes) to resist suffocation, strangulation, the effects of inhaled gas, or any other effect of oxygen deprivation. The spell also allows the subject to breathe water.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Preserve**
+This spell prevents dead organic matter from drying out,decaying, or putrefying. The magician must roll a single success to cast the spell. The preserve spell can be used on food, but is most often used by forensic magicians to protect cadavers from decay before autopsy, or to preserve small organic samples taken from a crime scene for later use as a material link (see Ritual Magic, p. 35, and p. 135, SRII). Often, this spell is applied with a spell lock.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** Object Resistance Table
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+1]M
+
+**Prophylaxis**
+This spell, requiring a voluntary subject, gives him or her extra Body dice (1 die for every 2 successes) to resistinfection, drugs, or toxins. The subject also resists beneficialmedicines.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** 4
+* **(L) Pathogen:**
+    * **Drain:** [(F / 2)+2]L
+    * **Duration:** Sustained
+* **(M) Pathogen:**
+    * **Drain:** [(F / 2)+2]M
+    * **Duration:** Sustained
+* **(S) Pathogen:**
+    * **Drain:** [(F / 2)+2]S
+    * **Duration:** Sustained
+* **(D) Pathogen:**
+    * **Drain:** [(F / 2)+2]D
+    * **Duration:** Sustained
+
+**Resist Pain**
+This spell reduces the penalties suffered because ofPhysical damage (not Stun damage). Though this spell does not heal or treat damage, it offsets the injury modifiers (to the target number and Initiative) the character must use to reflect the damage. Magical assistance to resist pain requires a different spell for (L)ight, (M)oderate, and (S)erious Condition Levels. A resist pain spell cannot be used to counteract the pain of Deadly damage, because any character with a (D)eadly injury is unconscious and must be healed. The spell is "permanent" in that the boost to the patient's endorphin levels does not wear off. If the subject's damage rises above the Condition Level at which the patient is resisting pain, or the wounds heal, then the spell dissipates.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** 4
+* **Light:**
+    * **Drain:** (F / 2)M
+    * **Duration:** Permanent (5 turns)
+* **Moderate:**
+    * **Drain:** (F / 2)S
+    * **Duration:** Permanent (10 turns)
+* **Serious:**
+    * **Drain:** (F / 2)D
+    * **Duration:** Permanent (15 turns)
+
+**Stabilize**
+When applied to a character with Deadly Physical damage, this spell stabilizes his condition so that he does not die. The magician must add the number of minutes elapsed since the character took damage to his or her target number for the Spell Success Test.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4 + Minutes Elapsed
+* **Duration:** Permanent (20 turns)
+* **Drain:** (F / 2)S
+
+---
+
+**Illusion Spells**
+
+Note that illusion spells cannot permanently harm a character, mentally or physically.
+
+**Overstimulation**
+This spell stimulates the sensory centers of the target's brain. As long as the spell lasts, the subject suffers penalties to all actions as if a number of boxes equal to the caster's successes were filled in on the target's Stun condition monitor. The penalties do not reflect actual damage, but only represent the spell's effects. If the casting magician rolls 10 or more successes, the victim will be conscious but incapable of action.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+1]M
+
+**Physical Mask**
+Similar to the mask spell (p. 156, SRII), this version works against technological devices.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+1]L
+
+**Spectacle**
+A multi-sensory version of the entertainment spell (p.156, SRII.).
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+1]M
+
+**Trid Entertainment**
+Similar to the entertainment spell (p. 156, SRII), this version can be "seen" by electronic cameras.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]L
+
+**Trid Spectacle**
+This version of the spectacle spell listed above can be "seen" by electronic cameras.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Vehicle Mask**
+This spell works in a manner similar to the physical mask spell listed above, specifically affecting vehicles. The caster can only affect vehicles with a Body Rating equal to or less than one-half of the magician's Magic AttributeRating (round down). To cast the spell, the caster must touch the vehicle.
+* **Type:** Physical
+* **Range:** Touch
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** (F / 2)L
+
+---
+
+**Manipulation Spells**
+
+Potentially the most powerful class of spells inShadowrun, the following list represents only a sampling of the thousands of possible variations.
+
+**Control Manipulations**
+
+**Control Animal**
+Similar to the control thoughts spell (p. 157, SRII), this spell works only on non-sentient animals. Sentience is determined at the gamemaster's discretion. Paranormal animals should resist this spell with either Willpower orEssence, whichever is higher.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** Willpower (R)
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]D
+
+**Influence**
+Similar to the control thoughts spell (p. 157, SRII), this spell permanently implants a single suggestion in the victim's mind. He will act according to this suggestion or carry out this order as if it were his own idea. Proving the falseness of the idea to the victim, or forcing the caster to withdraw it, can overcome the spell.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** Willpower (R)
+* **Duration:** Permanent (10 turns)
+* **Drain:** [(F / 2)+2]S
+
+**Mob Mind**
+This area-effect spell allows the caster to control the thoughts of all within its range. For purposes of making aSuccess Test to gauge the spell's effect, treat the crowd as a single character. Pedestrians are assumed to have aWillpower of 3. Major characters, both player and non-player,should defend against the spell individually, based on the number of successes the caster generates with his or her single Force Success Test.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** Willpower (R)
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+3]S
+
+**Mob Mood**
+Similar to the mob mind spell above, mob mood affects only the crowd's emotions. This spell does not give the caster control of a crowd, but allows him or her to shift a crowd's mood.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** Willpower (R)
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Telekinetic Manipulations**
+
+**Animate**
+This spell allows the caster to make inanimate objects move. The object moves according to its structure (balls can roll, rugs may crawl, humanoid statues can walk, and so on.). The spell imparts a certain amount of flexibility, allowing solid things like statues to move as if they had joints. The caster can only move the whole object, not just one part of it such as computer keys or vehicle weapons. Movement continues for a number of meters per action equal to one-half the caster's Magic Attribute Rating (round down).
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** Object Resistance Table
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Clout**
+This telekinetic punch carries a Damage Code of (Caster's Willpower)M Stun. Normal Ranged Combat modifiers apply(p. 87, SRII). Per the normal Ranged Combat rules,successes from the spell's casting may be used to increase the damage. Impact armor defends against this spell.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Instant
+* **Drain:** (F / 2)M
+
+**Use (Skill)**
+A limited form of the magic fingers spell (p.157, SRII),this spell allows the caster to use a skill telekinetically. The gamemaster determines which skills may be used in this manner. Typical examples include Armed Combat, B/RElectronics, Demolitions, Driving, and so on. Knowledge/skills, requiring no physical action, would not be appropriate for this spell. The spell operates in the same way as the magic fingers spell, except that the caster's actual SkillRating determines the spell's effect.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+3]L
+
+**Transformation Manipulations**
+
+**Acid**
+This spell strikes the target with a spray of acid, using the elemental effect rules. (See Elemental Effects, p. 112.).
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]S
+
+**Acid Bomb**
+This area-effect spell strikes targets with a spray of acid,using the elemental effect rules (Elemental Effects, p. 112).
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Acid Stream**
+This spell strikes the target with a stream of acid, using the elemental effect rules (Elemental Effects, p. 112).
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Astral Static**
+This area-effect spell creates a cloud of crackling,swirling mana in astral space, generating a background count of I for every 2 successes the caster rolls. As with normal background count (see Background Count, p. 89) the rating of the static increases the target numbers of all AstralSuccess Tests within the area of effect, including the caster's target numbers.
+* **Type:** Mana
+* **Range:** Limited
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+1]D
+
+**Bind**
+This spell entraps and holds the target in bands of mystical energy. The magician makes a Spell Success Test using the target's Quickness Attribute Rating as the target number. The target resists by making a Quickness SuccessTest against a target number equal to the Force Rating of the spell. Net successes in the caster's favor provide the effectiveBarrier Rating of the mystic energy. The character can attempt to escape by breaking the bands. In this situation, compare the character's StrengthRating to the Barrier Rating, per those rules (p. 98, SRII). The character must make a Strength Success Test against a target number equal to the Force Rating of the spell in order to exert more pressure against the bonds. Every 2 successes the character rolls allows him to increase his effectiveStrength Rating by 1 for this purpose. Upon breaking free, he must make a Body Success Test to resist (Character'sStrength)L Stun damage, representing the fatigue caused by his efforts.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Quickness(R)
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]S
+
+**Blade Barrier**
+Similar to the physical barrier spell (p. 158, SRII) and the bullet barrier spell following, this spell provides protection against bladed weapons. The barrier's effective BarrierRating equals the spell's Force Rating. The Impact ArmorRating may be added to the Barrier Rating. The personal form of this spell has a Drain Code of [(F / 2)+2]L.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Blast Barrier**
+Similar to the physical barrier spell (p. 158, SRII), this spell provides protection against blast from grenades and similar weapons. The barrier's effective Barrier Ratingequals the spell's Force Rating. The Impact Armor Ratingmay be added to the Barrier Rating. The personal form of this spell has a Drain Code of [(F / 2)+2]L.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Bullet Barrier**
+Similar to the physical barrier spell (p. 158, SRII), the bullet barrier spell provides protection against bullets and other ballistic weapons. The barrier's effective Barrier Rating equals the spell's Force Rating. The Ballistic Armor Rating can be added to the Barrier Rating. The personal form of this spell has a Drain Code of [(F / 2)+2]L.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**(Critter) Form**
+Similar to the shapechange spell listed later in this section, this spell allows the magician to change into a specific, non-paranormal animal. This spell requires a voluntary subject.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** Willpower
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Fashion**
+This spell instantly tailors clothing, transforming the target's garments into any fashion the caster wishes. The fashion spell requires a voluntary subject. The caster's extrasuccesses measure the degree of style in the tailoring. Thespell cannot change the clothing's protective value, only its cut, color, and fit.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Permanent (10 turns)
+* **Drain:** [(F / 2)+2]M
+
+**Fire Strike**
+This area-effect spell blasts flame into an area, using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+3]D
+
+**Flame Burst**
+This spell strikes the target with a burst of flame, using the elemental effect of fire.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** S
+* **Duration:** Instant
+* **Drain:** [(F / 2)+1]D
+
+**Lock**
+This spell holds any door, portal, closure, and other similar barriers magically closed as long as the caster sustains the spell. Because the lock has the same strength as the material of the door, opening it would require breaking or blasting through it.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Object Resistance Table
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Makeover**
+This spell creates a complete makeover on a voluntary subject, including cosmetics, hair, clothes, and so on. It even polishes teeth and eliminates plaque. Changes wrought under this spell are as permanent as those made in a real beauty salon. The number of successes generated by the magician measures the degree of style in the makeover. Note that nothing actually changes; the subject is only cleaned and spruced up.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** 4
+* **Duration:** Permanent (10 turns)
+* **Drain:** [(F / 2)+2]M
+
+**Seal**
+Similar to the lock spell listed above, this spell reinforces a locked doorway. Every 2 successes the caster generates increase the door's Barrier Rating by 1.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Object Resistance Table
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]S
+
+**Shapechange**
+This spell transforms a voluntary subject into a normal critter, though the subject retains human consciousness. To determine the shapechanged critter's Physical Attributes,consult the Critter Statistics Table, p. 233, SRII, adding 1 to the critter's Base Ratings for every 2 successes the caster generates. Also, increase the critter's Reaction Rating by the subject's Intelligence Rating, to reflect the human mind controlling the animal form. Mental Attributes remain the subject's own. This spell does not transform clothing andequipment. Magicians under this spell can cast spells, but cannot fulfill geasa or use Centering Skills requiring activities that the animal shape cannot perform, such as speech.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** Willpower
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]S
+
+**Spell Barrier**
+Similar to the mana barrier spell (p. 158, SRII), the spellbarrier spell provides protection against spells. The personal form of this spell has a Drain Code of [(F / 2)+2]L.
+* **Type:** Mana
+* **Range:** LOS
+* **Target:** 6
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]M
+
+**Thunderclap**
+This spell strikes the target with an explosion of air,making a thunderous noise. In addition to causing Stundamage, the spell deafens the target for 1 Combat Turn for every 2 successes generated by the caster.
+* **Type:** Physical
+* **Range:** LOS
+* **Target:** Body (R)
+* **Damage Level:** M
+* **Duration:** Instant
+* **Drain:** (F / 2)S
+
+**Transform**
+This spell changes the subject into a normal critter. A transformed being has no awareness of its former state, and has only animal intelligence. The spell will not transform clothing and equipment.
+* **Type:** Physical
+* **Range:** Limited
+* **Target:** Willpower
+* **Duration:** Sustained
+* **Drain:** [(F / 2)+2]S
+
+---
+
+**Table of Spells**
+
+**Combat Spells**
+
+| Name | Drain | Type | Duration |
+| :--- | :--- | :--- | :--- |
+| Death Touch | [(F / 2)-1]S | M | I |
+| Fire Bolt | [(F / 2)+1]D | P | I |
+| Fire Cloud | [(F / 2)+1]D | P | I |
+| Fire Dart | [(F / 2)+1]M | P | I |
+| Fire Missile | [(F / 2)+1]S | P | I |
+| Fireball | [(F / 2)+3]D | P | I |
+| Hellblast* | [(F / 2)+6]D | P | I |
+| Mana Bolt* | (F / 2)S | M | I |
+| Mana Cloud | (F / 2)S | M | I |
+| Mana Dart* | (F / 2)L | M | I |
+| Mana Missile* | (F / 2)M | M | I |
+| Manaball* | (F / 2)S | P | I |
+| Manablast | (F / 2)D | M | I |
+| Power Bolt* | [(F / 2)+1]S | P | I |
+| Power Dart* | [(F / 2)+1]L | P | I |
+| Power Missile* | [(F / 2)+1]M | P | I |
+| Powerball* | [(F / 2)+1]S | P | I |
+| Powerblast | [(F / 2)+1]D | P | I |
+| Ram* | [(F / 2)+1]S | P | I |
+| Ram Touch | [(F / 2)-1]M | P | I |
+| Slay (Race/Species) | [(F / 2)-1]S | M | I |
+| Sleep* | [(F / 2)-1]S | M | I |
+| Spirit Bolt | [(F / 2)-1]S | M | I |
+| Sterilize | [(F / 2)+1]D | P | I |
+| Stun Bolt | [(F / 2)-1]D | M | I |
+| Stun Cloud | [(F / 2)-1]S | M | I |
+| Stun Missile | [(F / 2)-1]M | M | I |
+| Stun Touch | [(F / 2)-2]M | M | I |
+| Stunball | [(F / 2)-1]D | M | I |
+| Stunblast | [(F / 2)+1]D | M | I |
+| Urban Renewal | (F / 2)D | P | I |
+| Wrecker | (F / 2)S | P | I |
+
+**Detection Spells**
+
+| Name | Drain | Type | Duration |
+| :--- | :--- | :--- | :--- |
+| Analyze Device* | [(F / 2)+1]M | P | S |
+| Analyze Magic | (F / 2)M | M | S |
+| Analyze Truth* | (F / 2)S | M | S |
+| Clairaudience* | (F / 2)M | M | S |
+| Clairaudience (Extended) | [(F / 2)-1]S | M | S |
+| Clairvoyance* | (F / 2)M | M | S |
+| Clairvoyance (Extended) | [(F / 2)-1]S | M | S |
+| Combat Sense* | [(F / 2)+1]S | P | S |
+| Detect Enemies* | [(F / 2)+1]M | M | S |
+| Detect Enemies (Extended) | (F / 2)S | M | S |
+| Detect Individual* | (F / 2)L | M | S |
+| Detect Life* | (F / 2)L | M | S |
+| Detect (Life Form)* | [(F / 2)-1]L | M | S |
+| Detect Magic | (F / 2)L | M | S |
+| Detect (Object)* | [(F / 2)+1]M | P | S |
+| Mindlink (Individual) | [(F / 2)+2]M | M | S |
+| Mind Probe* | [(F / 2)+2]D | M | S |
+| Personal Combat Sense* | [(F / 2)+1]M | P | S |
+–
+**Illusion Spells**
+
+| Name | Drain | Type | Duration |
+| :--- | :--- | :--- | :--- |
+| Chaos* | [(F / 2)+2]M | P | S |
+| Chaotic World* | [(F / 2)+2]S | P | S |
+| Confusion* | (F / 2)S | M | S |
+| Entertainment* | [(F / 2)+1]L | M | S |
+| Improved Invisibility* | [(F / 2)+1]M | P | S |
+| Invisibility* | (F / 2)M | M | S |
+| Mask* | (F / 2)L | M | S |
+| Overstimulation | [(F / 2)+1]M | M | S |
+| Physical Mask | [(F/ 2)+1]L | P | S |
+| Spectacle | [(F / 2)+1]M | M | S |
+| Stimulation* | [(F / 2)+1]L | M | S |
+| Stink* | [(F / 2)+1]S | M | S |
+| Trid Entertainment | [(F / 2)+2]L | P | S |
+| Trid Spectacle | [(F / 2)+2]M | P | S |
+| Vehicle Mask | (F / 2)L | P | S |
+
+**Health Spells**
+
+| Name | Drain | Type | Duration |
+| :--- | :--- | :--- | :--- |
+| Antidote L Toxin* | (F / 2)L | P | P |
+| Antidote M Toxin* | (F / 2)M | P | P |
+| Antidote S Toxin* | (F / 2)S | P | P |
+| Antidote D Toxin* | (F / 2)D | P | P |
+| Cure L Disease* | (F / 2)L | P | P |
+| Cure M Disease* | (F / 2)M | P | P |
+| Cure S Disease* | (F / 2)S | P | P |
+| Cure D Disease* | (F / 2)D | P | P |
+| Decrease -1 Attribute* | [(F / 2)+1]L | P | S |
+| Decrease -2 Attribute* | [(F / 2)+1]M | P | S |
+| Decrease -3 Attribute* | [(F / 2)+1]S | P | S |
+| Decrease -4 Attribute* | [(F / 2)+1]D | P | S |
+| Decrease -1 Cybered Attribute* | [(F / 2)+3]L | P | S |
+| Decrease -2 Cybered Attribute* | [(F / 2)+3]M | P | S |
+| Decrease -3 Cybered Attribute* | [(F / 2)+3]S | P | S |
+| Decrease -4 Cybered Attribute* | [(F / 2)+3]D | P | S |
+| Decrease Reflexes* | | | |
+| -1 Initiative Die | [(F / 2)+1]S | M | S |
+| -2 Initiative Dice | [(F / 2)+1]D | M | S |
+| -3 Initiative Dice | [(F / 2)+3]D | M | S |
+| Detox L Toxin* | [(F / 2)-2]L | P | P |
+| Detox M Toxin* | [(F / 2)-2]M | P | P |
+| Detox S Toxin* | [(F / 2)-2]S | P | P |
+| Detox D Toxin* | [(F / 2)-2]D | P | P |
+| Heal* | (F / 2)(Wound Level) | M | P |
+| Healthy Glow | (F / 2)L | P | P |
+| Increase +1 Attribute* | [(F/ 2)+1]L | M | S |
+| Increase +2 Attribute* | [(F / 2)+1]M | M | S |
+| Increase +3 Attribute* | [(F / 2)+1]S | M | S |
+| Increase +4 Attribute* | [(F / 2)+1]D | M | S |
+| Increase +1 Cybered Attribute* | [(F / 2)+3]L | P | S |
+| Increase +2 Cybered Attribute* | [(F / 2)+3]M | P | S |
+| Increase +3 Cybered Attribute* | [(F / 2)+3]S | P | S |
+| Increase +4 Cybered Attribute* | [(F / 2)+3]D | P | S |
+| Increase Reflexes* | | | |
+| +1 Initiative Die | (F / 2)M | M | S |
+| +2 Initiative Dice | (F / 2)S | M | S |
+| +3 Initiative Dice | (F / 2)D | M | S |
+| Oxygenate | [(F / 2)+2]M | P | S |
+| Preserve | [(F / 2)+1]M | P | S |
+| Prophylaxis L Pathogen | [(F / 2)+2]L | P | S |
+| Prophylaxis M Pathogen | [(F / 2)+2]M | P | S |
+| Prophylaxis S Pathogen | [(F / 2)+2]S | P | S |
+| Prophylaxis D Pathogen | [(F / 2)+2]D | P | S |
+| Resist Pain (Light) | (F / 2)M | M | P |
+| Resist Pain (Moderate) | (F / 2)S | M | P |
+| Resist Pain (Serious) | (F / 2)D | M | P |
+| Stabilize | (F / 2)S | P | P |
+| Treat* | (F / 2)(Wound Level) | M | P |
+
+**Manipulation Spells**
+
+| Name | Drain | Type | Duration |
+| :--- | :--- | :--- | :--- |
+| Acid | [(F / 2)+1]S | P | I |
+| Acid Bomb | [(F / 2)+1]D | P | I |
+| Acid Stream | [(F / 2)+1]D | P | I |
+| Animate | [(F / 2)+2]M | P | S |
+| Armor* | [(F / 2)+2]M | P | S |
+| Astral Static | [(F / 2)+1]D | M | S |
+| Banter* | [(F / 2)+2]S | P | S |
+| Bind | [(F / 2)+2]S | P | S |
+| Blade Barrier | [(F / 2)+2]M | P | S |
+| Blast Barrier | [(F / 2)+2]M | P | S |
+| Bullet Barrier | [(F / 2)+2]M | P | S |
+| Clout | (F / 2)M | P | I |
+| Control Actions* | [(F / 2)+2]S | M | S |
+| Control Animal | [(F / 2)+2]D | M | S |
+| Control Emotion* | [(F / 2)+2]M | M | S |
+| Control Thoughts* | [(F / 2)+2]D | M | S |
+| (Critter) Form | [(F / 2)+2]M | P | S |
+| Fashion | [(F / 2)+2]M | P | P |
+| Fire Strike | [(F / 2)+3]D | P | I |
+| Flame Bomb* | [(F / 2)+1]D | P | I |
+| Flame Burst | [(F / 2)+1]D | P | I |
+| Flamethrower* | [(F / 2)+1]S | P | I |
+| Hibernate* | (F / 2)S | P | S |
+| Ice Sheet* | [(F / 2)+1]S | P | I |
+| Ignite* | [(F / 2)+2]D | P | P |
+| Influence | [(F / 2)+2]S | M | P |
+| Levitate Item* | [(F / 2)+1]L | P | S |
+| Levitate Person* | [(F / 2)+1]M | P | S |
+| Light* | [(F / 2)+2]M | P | S |
+| Lock | [(F / 2)+2]M | P | S |
+| Magic Fingers* | [(F / 2)+2]M | P | S |
+| Makeover | [(F / 2)+2]M | P | P |
+| Mana Barrier* | [(F + 2)+1]S | M | S |
+| Mob Mind | [(F / 2)+3]S | M | S |
+| Mob Mood | [(F / 2)+2]M | M | S |
+| Poltergeist* | [(F / 2)+1]S | P | S |
+| Shadow* | [(F / 2)+2]M | P | S |
+| Seal | [(F / 2)+2]S | P | S |
+| Shapechange | [(F / 2)+2]S | P | S |
+| Spark* | [(F / 2)+1]M | P | S |
+| Spell Barrier | [(F / 2)+1]M | M | S |
+| Thunderclap | (F / 2)S | P | I |
+| Transform | [(F / 2)+2]S | P | S |
+| Use (Skill) | [(F / 2)+3]L | P | S |

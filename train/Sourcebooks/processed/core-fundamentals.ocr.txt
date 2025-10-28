@@ -1,0 +1,155 @@
+# SHADOWRUN 2ND EDITION INTRODUCTION
+## WELCOME TO THE SHADOWS
+
+You wanna run the shadows? Then listen, chummer, learn everything you can, cuz ignorance will kill ya faster than a fireball.
+-Ess EI EI, Snake shaman
+
+Shadowrun Second Edition (SRII) is a revision of the original Shadowrun rules first published in 1989. Using extensive feedback from players and gamemasters, SRII has been revised and rewritten for greater clarity and to provide cleaner, faster play. Players and gamemasters familiar with the first edition rules will find the heart of the game unchanged and the changes consistent with the game's existing logic. The SRII rules contain new material, some clarifying existing material, and some revising and expanding the rules and information published in sourcebooks like *The Grimoire*, *Virtual Realities*, *Rigger Black Book*, *ShadowTech*, and others. These additions reflect continuing thought and design work on the system. The Sourcebook Updates section provides notes and rules modifications pertaining to each of the published sourcebooks/rules supplements for Shadowrun, bringing the information in those books into line with the SRII rules. SRII does NOT make other Shadowrun products obsolete.
+
+---
+
+## THE YEAR IS 2053
+
+Technology, too, has changed people. No longer only flesh, many have turned to the artificial enhancements of **cyberware** to make themselves more than human. Stronger, smarter, faster is the human of today.
+
+In the world of 2053, the metroplexes are monsters casting long shadows. And it’s in the cracks between the giant corporate structures that shadowrunners find their home. When the megacorps want a job done but they don’t want to dirty their hands, it’s a **shadowrun** they need, and they turn to the runners who are the only ones who can do it. Though a shadowrunner’s existence is not listed in any governmental or corporate database, the demand for his or her services is high. She might be a **decker**, sliding like a whisper through the visualized databases of giant corporations, spiriting away the only thing of real value—information. Or perhaps he is a **street samurai**, an enforcer for hire whose combat skills and reflexes make him the ultimate urban predator. Or perhaps he or she is a **magician**, possessing an ancient gift, the ability to wield and shape the magical energies that now surrounds the Earth. And that’s exactly the kind of firepower you’ll need if you get hired to make a Shadowrun...
+
+---
+
+## THE WORLD OF SHADOWRUN
+
+The world of Shadowrun, known to denizens of the new age as the **Sixth World**, is a place of magic and high technology, a landscape of danger and mystery, a maze of noble sentiments and double-crosses. Those who play stand on the edge, in the shadow of adventure.
+
+Welcome.
+
+**Shadowrun** is a roleplaying game designed for two to eight players. Unlike most such games, however, it is open-ended, with no time limit, specified number of turns to play, or single goal to reach that ends the game. And unlike most games, there is no winner and no loser. The object is to have fun with the exercise of imagination. When this happens, everybody wins.
+
+For those who have roleplaying game experience, some of the following will be familiar. Those readers may want to skip ahead to Game Concepts, p. 30, or turn to *And So It Came To Pass...* and delve into the history and background of the world of Shadowrun.
+
+For those new to roleplaying, the following is an introduction. It may not answer all questions or even provide much enlightenment because the roleplaying game is more easily learned from experienced players than a book. So, absorb what you can, then seek out others who are already familiar with Shadowrun so you can learn from them by experiencing it.
+
+---
+
+## WHAT IS A ROLEPLAYING GAME?
+
+A good question, but not an easy one to answer. Everyone has read a book or seen a movie where the lead character does something that the reader or viewer finds so utterly wrong that he or she wants to yell out and warn them. But whether the reader calls out or not, it makes no difference. No matter what we say, the character will do what the plot demands; we’re just along for the ride.
+
+The situation in a roleplaying game is very different. When roleplaying, the players control their characters’ actions and respond to the events of the plot. If the player does not want the character to go through the door, the character will not. If the player thinks the character can talk him or herself out of a tight situation rather than resorting to that trusty pistol, he can talk away. The script, or plot, of a roleplaying game is flexible, always changing based on the decisions the players make as characters.
+
+The person controlling the story is called the **Gamemaster**. His or her job is to keep track of what is supposed to happen when, describe events as they occur so that the players (as characters) can react to them, keep track of other characters in the game (referred to as **nonplayer characters**), and resolve attempts to take action using the game system. The Gamemaster describes the world as the characters see it, functioning as their eyes, ears, and other senses. Gamemastering is not an easy task, but the thrill of creating an adventure that engages the other players, tests both the players’ gaming skills and the characters’ skills in the game world, and captures the players’ imaginations makes it worthwhile. FASA publishes game supplements and adventures to help this process along, but good Gamemasters always adapt the game universe to suit their own style.
+
+Stories (the **adventures**) provide the overall plot, a general outline for what might happen at certain times in reaction to other events. The story is no more concrete than that until the players become involved, however. Then, the adventure becomes a story as involving and dramatic as that great movie you saw last week, or that great book you stayed up all night to finish. In some ways it’s even better, because you helped create it.
+
+---
+
+## GETTING STARTED
+
+That’s the basic concept. The specifics follow, divided into broad sections covering each aspect of the game. The opening short story, *Musa Ca Change*, provides atmosphere and a taste of the language and style of Shadowrun. The next chapter talks about how the Shadowrun world came to be. The rules for how to play the game begin with Game Concepts, p. 30.
+
+Welcome to the Sixth World, chummer. It’s going to be a heck of a ride.
+
+---
+
+## GAME CONCEPTS
+
+The corps have rules, and so do the streets. Play at your own risk.
+-Wida'maker, combat mage
+
+Following are a few concepts and key terms used in Shadowrun. Some are general roleplaying terms, and others are peculiar to this game system. The rules will make a lot more sense if players become familiar with them. The terms and concepts have been combined into one section for easy reference. The first time a term appears in this orientation section, it is set in bold type.
+
+### MAKING DICE ROLLS
+
+In Shadowrun, characters often encounter situations in which the gamemaster will ask the player to roll dice to determine the outcome. These dice rolls, called **Success Tests**, gauge how well or poorly a character performs a required task, be it shooting a security guard who disapproves of his face, or persuading an employer that one's services are worth a lot more than what was originally offered. Success Tests also determine how well a character resists damage and other unpleasant matters.
+
+Shadowrun uses a number of six-sided dice to resolve any challenge for a character. The gamemaster will not require a test to find out if a character can open the door, but will probably ask the player to roll dice to see if his character can somersault through the office door, land on his feet, and fire his AK-98 at the three assassins standing behind the corporation's chairman of the board—all without splattering himself or the hostage all over the room.
+
+Unlike most games, the results of the dice rolled are not added together, unless the rules specifically direct the player to do so or unless D6 is preceded by a number or a Skill or Attribute name: (**Attribute**)D6.
+
+The gamemaster will provide the player with a **target number** against which he will make the die roll. The player rolls the indicated number of dice and then compares each die result individually to the target number. Each individual die that scores equal to, or greater than, the target number is considered a **success**. The more dice that score successes, the better the result.
+
+> Nik, a Cat shaman, is rolling four dice against a Target Number 4. The four dice come up as a 2. 3, 4, and 6. The 4 and the 6 equal or exceed the target number, which gives Nik 2 successes.
+
+### AUTOMATIC FAILURE OR SUCCESS
+
+Two other rules are important when rolling the dice for a test. These are the **Rule of One** and the **Rule of Six**.
+
+#### Rule Of One
+
+This is the fumble rule, and it has two parts. Any time a die roll result comes up 1 in a test, that die is an automatic failure, no matter what the target number. But the test can still succeed as long as other dice succeed. If ALL the dice rolled for a test come up 1s, it means that the character has made a disastrous mistake. The result may be humorous, embarrassing, or deadly. The gamemaster determines whatever tone is appropriate for the situation, the players, and the dramatic or humorous needs of the moment. Individual rules may also have particular results when the Rule of One is applied.
+
+#### Rule Of Six
+
+The Rule of Six allows tests to succeed against target numbers greater than 6 (since a die only has six sides, it's probably a good thing this rule exists). When making a test against a target number greater than 6, the player may re-roll any dice that comes up a 6 and then add the new result to the 6. Say, for example, that one die result is a 6 in a roll against a target number greater than 6. The player re-rolls the 6, with a result of 5. Adding the two together, the new die roll result is 11 (6 + 5). The player can re-roll additional 6s if the current die result total is still less than the target number. For example, to beat a target number of 14 (really hard) the player would have to roll a 6, then re-roll for another 6, and then re-roll for a 2 or better (6 + 6 + 2 = 14). Remember, though, it does not matter by how much the individual die roll beats the target number, just that it does. Once the target number has been equaled or exceeded, stop rolling.
+
+### SUCCESS TESTS
+
+As stated above, players and gamemaster may have to make Success Tests from time to time during the game. The number of dice used is equal to the appropriate **Attribute or Skill Rating** of the character who must make the test. In other words, that rating indicates how many six-sided dice to roll for the test. For example, to make a Firearms Test, check the character's Firearm Skill Rating and roll that number of six-sided dice for the test. For a Willpower Test, use the character's Willpower Rating to determine the number of dice to roll. The rules give the target number for many tests. For others, the gamemaster determines what is appropriate. Each die result that equals or exceeds the target number is a success. A single success indicates that the character has accomplished the task, but the more successes rolled, the better. In most situations, multiple successes mean that the character will receive more information, or do more damage, or make that bank shot off the troll's head and into the side-corner pocket look so easy a child could do it. In other Shadowrun products, this standard Success Test is often written in an abbreviated form, such as Willpower (5) Test. which is really just a shorthand way of saying "make a Willpower Test using a Target Number 5."
+
+### DICE POOLS
+
+When things are hot, and the character's basic skills and attributes are not enough to get him through to the next morning. he needs help. That's where **Dice Pools** come in. A dice pool is a number of dice that a player can add to those normally allowed for a test. The four possible pools come from different sources, usually skills or attributes. The **Combat Pool**, for instance, is based on various Attributes, and it can be used for nearly any combat-related test. Other dice pools can be used to supplement other tests. The **Magic Pool** helps magic tests, the **Control Pool** helps vehicle tests, and the **Hacking Pool** creates better odds for decking tests. The number of dice in a pool is equal to the character's rating in the Skill or Attribute that is the source of the pool. Each die in a pool may be used once during an action. A player's **Combat Turn** can consist of several actions. Dice Pools can **refresh**, or be restored to their original number of dice available to the player.
+
+### MODIFIERS
+
+The Shadowrun rules often call for a plus or minus **modifier**. Unless otherwise stated, that modifier is applied to the target number. Thus, a -3 modifier to a Target Number 5 produces a modified Target Number of 5 - 3, or 2. If the rules call for +2 dice or -1 dice, the player adds or subtracts that number of dice from the dice for the test. Thus, a shaman who has +2 dice for summoning certain nature spirits adds 2 more dice to the normal number he can roll for that test.
+
+### GAME TERMS
+
+These simplified definitions of common game terms will help acquaint players with the rules. The body of the rules contains complete definitions and examples in the appropriate sections.
+
+**CHARACTERS**
+**Archetypes** are pregenerated characters created from the main classes, races, and character types of Shadowrun. Players can use these with little additional preparation. **Attributes** are part of each character's description and give a general picture of his or her abilities. **Skills** and **spells** refine those abilities. A **Character Record Sheet** keeps track of each character's belongings, abilities, appearance, and status.
+
+An important part of the record sheet is the **Condition Monitor**, consisting of two tracks. The **Physical Damage Track** displays wound damage and shows when the character dies. The **Stun Damage Track** displays fatigue and stun damage and indicates when a character falls unconscious. Equipment like vehicles and cyberdecks also have Condition Monitors to track the amount of damage the object has taken.
+
+Weapons have a **Damage Code** that tells the player how much damage they do. The code consists of a number and a letter. The number is the **Power Level**, which indicates the difficulty of offsetting damage from such a weapon. The letter indicates the **Damage Level** (Light, Moderate, Serious, or Deadly) that the weapon inflicts.
+
+There is one other term Shadowrun uses to describe characters. That term is **Karma**, the numerical representation of a character's accomplishments. Later on, a character can use his or her Karma to improve skills and even attributes. He or she can also use Karma to do better in tests or to get out of trouble.
+
+**CONCENTRATIONS AND SPECIALIZATIONS**
+Areas of knowledge or technique are known as **skills**, which have ratings that are used to carry out tests. A **Concentration** represents a focused field of training or education in one aspect of a general skill. For example, a character with Firearms Skill can concentrate in rifles, improving his ability when firing rifles, but reducing his skill with other types of firearms. **Specialization** is a further narrowing of a focus in a skill that already is a Concentration. This increases a character's expertise in one specific area, but it lowers his ability in related subjects. The character with a Concentration in rifles could then specialize in AK-98s, becoming more proficient with that weapon but less skilled with other weapons. A character need not Concentrate or Specialize.
+
+**MAGIC**
+Magicians, characters who can use magic, come in two types. **Hermetic magicians** believe that magic is a natural force that can be understood and controlled like any other physical force. Their magic comes from rigorously applied rules. **Shamanic magicians** believe in spirits that are a part of all things. Their magic involves making deals with those spirits.
+
+Each type of spell or spirit has a **Force Rating**, chosen by the magician and limited by his abilities, time, and money. The Force acts like a skill or attribute rating in tests.
+
+Spellcasting and Conjuring spirits causes a magician fatigue, called **Drain**. After casting a spell, the magician checks the spell's **Drain Code**, which works much like a weapon's Damage Code, except that it works against the caster of the spell. The Drain Code consists of a letter and a number. The letter stands for the **Drain Level** (Light, Moderate, Serious, Deadly), just as with a weapon. Instead of the weapon's Power Level, the spell's Force Rating indicates the difficulty of avoiding Stun damage from the Drain of casting a spell. The magician makes a test to keep from going down to Drain.
+
+**MATRIX**
+The **Matrix** is the cybernetic analog space inside the **Grid**, the worldwide computer network. Only a character equipped with a **cyberdeck** can enter this "cyberspace," which appears as a huge lattice.
+
+**Jacking in** to the Matrix enhances the character's capabilities in a number of ways, but that character only seems to be inside the Grid. What happens is that he leaves a zombie-like shell in the physical world for his companions to protect while he wanders the Matrix. A character inside the Matrix appears as a **persona**, a stylized image of his personality. **Software**, electronic security systems, electronic addresses, other personas, and everything else the character encounters in the Matrix appear as **constructs**, other stylized images that appear in the same motif.
+
+---
+
+### DEVELOPER'S NOTES
+Q. Why is FASA Corporation producing a second edition of the Shadowrun rules?
+A. To empty the pockets of their customers.
+B. Because everybody's doing it.
+C. It seemed like a good idea at the time.
+D. All of the above.
+E. None of the above.
+A. The answer is E, none of the above.
+
+Actually, FASA decided to revise the Shadowrun rules for several good reasons, all based on feedback from current players. When *Shadowrun* was written in 1989, it was created for a specific audience, one that had at least a few years of experience gaming with more than one system under their belts. Since its release, *Shadowrun* has sold enormously well to a much wider audience than originally intended. Plenty of experienced gamers currently enjoy the game and its supplements, but *Shadowrun* has also attracted a market of players who have no experience using rules dealing with high technology or an organic magic system, much less *Shadowrun's* sometimes bizarre blend of the two.
+
+The newer players needed the rules presented in a clearer, more direct fashion that included more examples. More important, they needed a more indepth explanation of the whys behind some of the game systems, in addition to the hows. And last, but not least, nearly all the players requested a useful, complete index.
+
+We believe this revision of the *Shadowrun* rules lays out the game system in a cleaner, more accessible manner. The new organization and presentation should help players and gamemasters to learn and understand the rules, and to use the rulebook as a reference later on. The combat system follows a simple, clear-cut procedure, so that even gamemasters who have never used any other game combat system can follow the step-by-step sequence given here.
+
+The magic section, especially, benefits from additional explanations of the hows and whys of *Shadowrun*, beyond what dice to be rolled when. Because magic in *Shadowrun* works differently from magic in other gaming systems, knowing the logic behind the spells and the reasons magic works the way it does will help gamemasters resolve those incredible situations-unfailingly beyond the scope of the rules and often the designers' dreams-that players feel driven to create.
+
+The rules also changed to reflect the three additional years of thought and testing put into the system since its release. Originally playtested by 20 to 30 players and gamemasters across the country, *Shadowrun* has since been exposed to more than 100,000 gamers. A great many of those players have taken the time to let us know their reactions to the existing rules, especially in the areas they thought could use some work, and where they thought the game should go. We carefully considered every criticism and comment we received, and we listened.
+
+In response to all those letters (sorry for any delays), phone calls, and face-to-face talks at conventions, we approached the *Shadowrun* revision determined to make it a better game, not just an excuse to sell more books.
+
+The *Shadowrun* combat system has been reworked to run faster and cleaner than in the first-edition rules. Gun combat is now deadly, but the rules also contain a system of balances to allow gamemasters to adjust the feel of the game to suit their style and the style of their group. The Combat Turn sequence has been fleshed out and refined to give players a clearer understanding of what their characters can and cannot do. Both combat and magic were adjusted to create an equitable balance of power in the game, and both provide suggestions allowing the gamemaster to fine-tune that balance to fit his group.
+
+Most sections in *Shadowrun, Second Edition*, reflect the refinements, expansions, revisions, and clarifications that have appeared in the various *Shadowrun* sourcebooks. These changes are also the result of further efforts by the designers and a response to the feedback of the players.
+
+Of all the *Shadowrun* sourcebooks published since the rulebook was originally released, only the first, *The Grimoire*, is being rewritten to conform to the second-edition rules. The following Sourcebook Updates section provides all the information needed to bring the rest of the sourcebooks up to date with *Shadowrun, Second Edition*.
+
+*Shadowrun, Second Edition* contains many of the additional rules, expansions, and clarifications of the magic system that Paul Hume wrote for *The Grimoire*, essentially making that sourcebook redundant. *The Grimoire* is being revised to reflect the second-edition rules, and will also present new rules.
+
+We hope that *Shadowrun, Second Edition* accomplishes everything we intended, and more. But some gamemasters and players may still feel that the changes are not enough, or too much, or send the game in the wrong direction. Those players are free to use what they like and to ignore what they don't, and as always, to change the rules to suit their game. After all, it's really not how you play the game that's important, but that you have fun doing it.

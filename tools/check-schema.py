@@ -1,45 +1,30 @@
 #!/usr/bin/env python3
-import psycopg2
+"""Check database schema for characters table"""
 import os
 from dotenv import load_dotenv
+import psycopg
 
 load_dotenv()
 
-conn = psycopg2.connect(
-    host=os.getenv('POSTGRES_HOST', '127.0.0.1'),
-    port=os.getenv('POSTGRES_PORT', '5434'),
-    database=os.getenv('POSTGRES_DB', 'postgres'),
-    user=os.getenv('POSTGRES_USER', 'postgres'),
-    password=os.getenv('POSTGRES_PASSWORD', 'postgres')
+conn = psycopg.connect(
+    host=os.getenv('POSTGRES_HOST'),
+    port=os.getenv('POSTGRES_PORT'),
+    user=os.getenv('POSTGRES_USER'),
+    password=os.getenv('POSTGRES_PASSWORD'),
+    dbname=os.getenv('POSTGRES_DB')
 )
 
 cur = conn.cursor()
-
-print("rules_content table schema:")
-print("=" * 60)
 cur.execute("""
     SELECT column_name, data_type 
     FROM information_schema.columns 
-    WHERE table_name = 'rules_content' 
+    WHERE table_name = 'characters' 
     ORDER BY ordinal_position
 """)
+
+print("Characters table schema:")
+print("-" * 50)
 for row in cur.fetchall():
-    print(f"{row[0]:30} {row[1]}")
+    print(f"{row[0]}: {row[1]}")
 
-print("\n" + "=" * 60)
-print("\nSample record:")
-cur.execute("SELECT * FROM rules_content LIMIT 1")
-columns = [desc[0] for desc in cur.description]
-row = cur.fetchone()
-if row:
-    for col, val in zip(columns, row):
-        if col == 'embedding':
-            print(f"{col:30} [vector with {len(val) if val else 0} dimensions]")
-        elif col == 'tags':
-            print(f"{col:30} {val}")
-        else:
-            val_str = str(val)[:100] if val else 'NULL'
-            print(f"{col:30} {val_str}")
-
-cur.close()
 conn.close()

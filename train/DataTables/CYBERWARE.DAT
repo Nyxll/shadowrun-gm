@@ -1,0 +1,590 @@
+!CYBER.DAT - Cyberware data file - JW 960202 (Update of Stephen Atkins' 960201 file)
+!-----------------------------------------------------------------------------------
+!Shadowrun II Original
+!---------------------
+!Book-Pag Name               Ess. Cost     Index MODIFIERS
+!-------- ------------------ ---- --------- ---- ---------
+SR2-???   Chipjack           0.20 1000      0.90
+SR2-???   Data Filter        0.30 5000      1.50
+SR2-???   Data Lock          0.20 1000      1.50
+SR2-???   Datajack           0.20 1000      0.90
+SR2-???   Datajack Science   0.35 4500      1.00
+SR2-???   Datajack Archive   0.80 15000     1.00
+SR2-???   Datajack Business  0.40 6500      1.00
+SR2-???   Datasoft Link      0.10 1000      1.00
+SR2-???   Display Link       0.10 1000      1.00
+SR2-???   Radio              0.75 4000      0.80
+SR2-???   Smartcam Link      0.50 2500      1.50
+SR2-???   Smartlink I        0.50 2500      1.00
+SR2-???   Telephone          0.50 3700      0.90
+SR2-???   Radio receiver     0.40 2000      0.80
+SR2-???   Spurs              0.10 7000      1.00
+SR2-???   Ear Cyber replac.  0.30 4000      0.75
+SR2-???   Ear Modification   0.10 2000      1.00
+SR2-???   Ear Cosmetic mod.  0.00 1000      0.80
+SR2-???   Ear Damper         0.10 3500      1.25
+SR2-???   Ear High freq.     0.20 3000      1.25
+SR2-???   Ear Low freq.      0.20 3000      1.25
+SR2-???   Ear Recorder       0.30 7000      2.00
+SR2-???   Eye Cyber replac.  0.20 5000      0.75
+SR2-???   Eye Camera         0.40 5000      2.00
+SR2-???   Eye Cosmetic mod.  0.00 1000      0.80
+SR2-???   Eye Flare comp.    0.10 2000      1.25
+SR2-???   Eye Low-light      0.20 3000      1.25
+SR2-???   Eye Retinal dupl.  0.10 50000     2.00
+SR2-???   Eye Thermographic  0.20 3000      1.25
+SR2-???   Dermal Plating 1   0.50 6000      1.00 +1BOD
+SR2-???   Dermal Plating 2   1.00 15000     1.00 +2BOD
+SR2-???   Dermal Plating 3   1.50 45000     1.00 +3BOD
+SR2-???   Filter: Air 1      0.10 15000     1.00
+SR2-???   Filter: Air 2      0.20 30000     1.00
+SR2-???   Filter: Air 3      0.30 45000     1.00
+SR2-???   Filter: Air 4      0.40 60000     1.00
+SR2-???   Filter: Air 5      0.50 75000     1.00
+SR2-???   Filter: Air 6      0.60 90000     1.00
+SR2-???   Filter: Air 7      0.70 105000    1.00
+SR2-???   Filter: Air 8      0.80 120000    1.00
+SR2-???   Filter: Air 9      0.90 135000    1.00
+SR2-???   Filter: Air 10     1.00 150000    1.00
+SR2-???   Filter: Blood 1    0.20 15000     1.00
+SR2-???   Filter: Blood 2    0.40 30000     1.00
+SR2-???   Filter: Blood 3    0.60 45000     1.00
+SR2-???   Filter: Blood 4    0.80 60000     1.00
+SR2-???   Filter: Blood 5    1.00 75000     1.00
+SR2-???   Filter: Blood 6    1.20 90000     1.00
+SR2-???   Filter: Blood 7    1.40 105000    1.00
+SR2-???   Filter: Blood 8    1.60 120000    1.00
+SR2-???   Filter: Blood 9    1.80 135000    1.00
+SR2-???   Filter: Blood 10   2.00 150000    1.00
+SR2-???   Filter: Toxin 1    0.20 15000     1.00
+SR2-???   Filter: Toxin 2    0.40 30000     1.00
+SR2-???   Filter: Toxin 3    0.60 45000     1.00
+SR2-???   Filter: Toxin 4    0.80 60000     1.00
+SR2-???   Filter: Toxin 5    1.00 75000     1.00
+SR2-???   Filter: Toxin 6    1.20 90000     1.00
+SR2-???   Filter: Toxin 7    1.40 105000    1.00
+SR2-???   Filter: Toxin 8    1.60 120000    1.00
+SR2-???   Filter: Toxin 9    1.80 135000    1.00
+SR2-???   Filter: Toxin 10   2.00 150000    1.00
+SR2-???   Muscle Replac. 1   1.00 20000     1.00 +1QCK,+1STR
+SR2-???   Muscle Replac. 2   2.00 40000     1.00 +2QCK,+2STR
+SR2-???   Muscle Replac. 3   3.00 60000     1.00 +3QCK,+3STR
+SR2-???   Muscle Replac. 4   4.00 80000     1.00 +4QCK,+4STR
+SR2-???   Skillwires 1       0.10 10000     1.00
+SR2-???   Skillwires 2       0.20 20000     1.00
+SR2-???   Skillwires 3       0.30 30000     1.00
+SR2-???   Skillwires 4       0.40 40000     1.00
+SR2-???   Skillwires 5       1.00 500000    1.00
+SR2-???   Skillwires 6       1.20 600000    1.00
+SR2-???   Skillwires 7       2.10 7000000   1.00
+SR2-???   Skillwires 8       2.40 8000000   1.00
+SR2-???   Skillwires 9       2.70 9000000   1.00
+SR2-???   Siemens Rigit!F1   0.50 25000     1.00 +1INI
+SR2-???   Vehicle Ctrl Rig 1 2.00 12000     1.00 +2RCT,+1INI
+SR2-???   Vehicle Ctrl Rig 2 3.00 60000     1.25 +4RCT,+2INI
+SR2-???   Vehicle Ctrl Rig 3 5.00 300000    1.50 +6RCT,+3INI
+SR2-???   Wired Reflexes 1   2.00 55000     1.00 +2RCT,+1INI
+SR2-???   Wired Reflexes 2   3.00 165000    1.00 +4RCT,+2INI
+SR2-???   Wired Reflexes 3   5.00 500000    1.00 +6RCT,+3INI
+SR2-???   Zeiss Cybereyes 1  0.15 31000     1.00
+SR2-???   Zeiss Cybereyes 2  0.15 40000     1.00
+SR2-???   Zeiss Cybereyes 3  0.30 79000     1.00
+SR2-???   Zeiss Cybereyes 4  0.60 98000     1.00
+SR2-???   Zeiss Cybereyes 5  1.00 169000    1.00
+!-------------------------
+!Street Samurai Catalog II
+!-------------------------
+SSC2-???  Boosted Reflexes 1 0.50 15000     1.00 +1INI
+SSC2-???  Boosted Reflexes 2 1.25 40000     1.00 +1RCT,+1INI
+SSC2-???  Boosted Reflexes 3 2.80 90000     1.00 +2RCT,+2INI
+SSC2-???  Commlink 2         0.30 8000      1.00
+SSC2-???  Commlink 4         0.30 18000     1.25
+SSC2-???  Commlink 8         0.30 40000     1.50
+SSC2-???  Commlink 10        0.30 60000     1.75
+SSC2-???  Crypto Circuit  1  0.10 10000     1.00
+SSC2-???  Crypto Circuit  2  0.10 20000     1.00
+SSC2-???  Crypto Circuit  3  0.10 30000     1.00
+SSC2-???  Crypto Circuit  4  0.10 40000     1.00
+SSC2-???  Crypto Circuit  5  0.10 100000    1.25
+SSC2-???  Crypto Circuit  6  0.10 120000    1.25
+SSC2-???  Crypto Circuit  7  0.10 140000    1.25
+SSC2-???  Crypto Circuit  8  0.10 240000    1.50
+SSC2-???  Crypto Circuit  9  0.10 270000    1.50
+SSC2-???  Crypto Circuit 10  0.10 500000    2.00
+SSC2-???  Cybergun Hold-Out  0.00 250       2.00
+SSC2-???  Cybergun Light     0.00 650       2.00
+SSC2-???  Cybergun Mach. Gun 0.00 900       2.00
+SSC2-???  Cybergun SMG       0.00 1800      2.00
+SSC2-???  Cybergun Heavy     0.00 800       2.00
+SSC2-???  Cybergun Shotgun   0.00 1200      2.00
+SSC2-???  Int. Voice Mask    0.10 7000      1.00
+SSC2-???  Ear Hearing Amp    0.20 3500      1.25
+SSC2-???  Ear Sound Filter 1 0.20 10000     1.25
+SSC2-???  Ear Sound Filter 2 0.20 20000     1.25
+SSC2-???  Ear Sound Filter 3 0.20 30000     1.25
+SSC2-???  Ear Sound Filter 4 0.20 40000     1.25
+SSC2-???  Ear Sound Filter 5 0.20 50000     1.25
+SSC2-???  Eye Optical Mag 1  0.20 2500      1.00
+SSC2-???  Eye Optical Mag 2  0.20 4000      1.00
+SSC2-???  Eye Optical Mag 3  0.20 6000      1.00
+SSC2-???  Eye Electric Mag 1 0.10 3500      1.00
+SSC2-???  Eye Electric Mag 2 0.10 7500      1.00
+SSC2-???  Eye Electric Mag 3 0.10 11000     1.00
+SSC2-???  Eye Rangefinder    0.10 2000      1.50
+SSC2-???  Scramble Breaker 1 0.20 20000     1.50
+SSC2-???  Scramble Breaker 2 0.20 40000     1.50
+SSC2-???  Scramble Breaker 3 0.20 60000     1.50
+SSC2-???  Scramble Breaker 4 0.20 80000     1.50
+SSC2-???  Scramble Breaker 5 0.20 200000    1.75
+SSC2-???  Scramble Breaker 6 0.20 240000    1.75
+SSC2-???  Scramble Breaker 7 0.20 280000    1.75
+SSC2-???  Scramble Breaker 8 0.20 600000    1.75
+SSC2-???  Sense Link         2.00 300000    1.00
+SSC2-???  Sense Link (Trans) 0.60 80000     1.50
+SSC2-???  Skill Hardwires  1 0.20 5000      1.00
+SSC2-???  Skill Hardwires  2 0.40 10000     1.00
+SSC2-???  Skill Hardwires  3 0.60 15000     1.00
+SSC2-???  Skill Hardwires  4 0.80 20000     1.00
+SSC2-???  Skill Hardwires  5 1.25 250000    1.50
+SSC2-???  Skill Hardwires  6 1.50 300000    1.50
+SSC2-???  Skill Hardwires  7 1.75 350000    1.50
+SSC2-???  Skill Hardwires  8 2.00 400000    1.50
+SSC2-???  Skill Hardwires  9 2.70 4500000   1.50
+SSC2-???  Skill Hardwires 10 3.00 5000000   1.50
+SSC2-???  Video Link         0.50 22000     1.00
+SSC2-???  Video Link (Trans) 0.40 4500      1.00
+!----------   
+!ShadowTech
+!----------
+ST-???    Bone Lac. Plastic  0.50 7500      1.50 +1BOD
+ST-???    Bone Lac. Aluminum 1.15 25000     1.50 +1BOD
+ST-???    Bone Lac. Titanium 2.25 75000     1.50 +2BOD
+ST-???    Chem. Analyzer 1   0.20 2500      1.00
+ST-???    Chem. Analyzer 2   0.20 5000      1.00
+ST-???    Chem. Analyzer 3   0.20 7500      1.00
+ST-???    Chem. Analyzer 4   0.20 10000     1.00
+ST-???    Chem. Analyzer 5   0.20 12500     1.00
+ST-???    Chem. Analyzer 6   0.20 15000     1.00
+ST-???    Datajack 1         0.10 500       0.90
+ST-???    Datajack 2         0.15 1000      0.90
+ST-???    Datajack 3         0.20 2000      0.90
+ST-???    Datajack 4         0.25 4000      0.90
+ST-???    Encephalon 1       0.50 15000     2.00 +1INT
+ST-???    Encephalon 2       0.75 40000     2.00 +1INT
+ST-???    Encephalon 3       1.50 75000     2.00 +2INT
+ST-???    Encephalon 4       1.75 115000    2.00 +2INT
+ST-???    Gas Spectrometer 1 0.20 2000      1.00
+ST-???    Gas Spectrometer 2 0.20 4000      1.00
+ST-???    Gas Spectrometer 3 0.20 6000      1.00
+ST-???    Gas Spectrometer 4 0.20 8000      1.00
+ST-???    Gas Spectrometer 5 0.20 10000     1.00
+ST-???    Gas Spectrometer 6 0.20 12000     1.00
+ST-???    Hydraulic Jack 1   0.25 5000      1.00
+ST-???    Hydraulic Jack 2   0.25 10000     1.00
+ST-???    Hydraulic Jack 3   0.25 15000     1.00
+ST-???    Hydraulic Jack 4   0.25 20000     1.00
+ST-???    Hydraulic Jack 5   0.25 25000     1.00
+ST-???    Hydraulic Jack 6   0.25 30000     1.00
+ST-???    Olfactory Boost 1  0.20 1000      1.00
+ST-???    Olfactory Boost 2  0.20 2000      1.00
+ST-???    Olfactory Boost 3  0.20 3000      1.00
+ST-???    Olfactory Boost 4  0.20 4000      1.00
+ST-???    Olfactory Boost 5  0.20 5000      1.00
+ST-???    Olfactory Boost 6  0.20 6000      1.00
+ST-???    Orientation System 0.50 15000     1.50
+ST-???    Skillwires+ 1      0.10 15000     1.00
+ST-???    Skillwires+ 2      0.20 30000     1.00
+ST-???    Skillwires+ 3      0.30 45000     1.00
+ST-???    Skillwires+ 4      0.80 500000    1.00
+ST-???    Skillwires+ 5      1.00 625000    1.00
+ST-???    Skillwires+ 6      1.20 750000    1.00
+ST-???    Skillwires+ 7      2.10 7000000   1.00
+ST-???    Skillwires+ 8      2.40 8000000   1.00
+ST-???    Skillwires+ 9      2.70 9000000   1.00
+ST-???    Softlink 1         0.15 1000      0.90
+ST-???    Softlink 2         0.20 2000      0.90
+ST-???    Softlink 3         0.25 4000      0.90
+ST-???    Softlink 4         0.30 8000      0.90
+ST-???    SPU - Data 1       0.10 9500      1.00
+ST-???    SPU - Data 2       0.15 19000     1.00
+ST-???    SPU - Data 3       0.20 28500     1.00
+ST-???    SPU - Data 4       0.25 38000     1.00
+ST-???    SPU - I/O 1        0.10 5000      1.50
+ST-???    SPU - I/O 2        0.15 7500      1.50
+ST-???    SPU - I/O 3        0.20 12500     1.50
+ST-???    SPU - I/O 4        0.25 22500     1.50
+ST-???    SPU - Math 1       0.10 2000      1.00
+ST-???    SPU - Math 2       0.15 5000      1.00
+ST-???    SPU - Math 3       0.20 11000     1.00
+ST-???    SPU - Math 4       0.25 23000     1.00
+ST-???    Tactical Comp 1    3.50 350000    4.00
+ST-???    Tactical Comp 2    4.00 900000    4.00
+!--------------
+!Fields of Fire
+!--------------
+FOF-???   Smartlink II       0.50 3200      2.00
+!---------------
+!CyberTechnology
+!---------------
+CT-???    Subvocal Mic Ext   0.00 500       1.25
+CT-???    Subvocal Mic Int   0.10 850       2.00
+CT-???    Sub Speakers       0.10 650       2.00
+CT-???    Cybercomm Link     0.40 62000     3.00
+CT-???    Retinal Clock      0.10 450       1.00
+CT-???    Image Link         0.20 1600      2.00
+CT-???    Protective Covers  0.00 500       1.50
+CT-???    Eye Dataport       0.25 2200      2.00
+CT-???    Optical Scan DJ    0.30 5500      3.00
+CT-???    Eye Light Systems  0.20 1200      1.50
+CT-???    Eye L BrightLight  0.40 1200      3.00
+CT-???    Eye L /w Flash-pak 0.00 1000      3.00
+CT-???    Eye L one shot FP  0.00 500       3.00
+CT-???    Eye Dart           0.25 4200      2.00
+CT-???    Eye Gun            0.40 6400      3.00
+CT-???    Laser Designator   0.50 12000     3.00
+CT-???    Laser Tracker      0.20 3200      2.00
+CT-???    Tool Laser         0.25 5200      2.00
+CT-???    Spatial Recognizer 0.20 1200      2.00
+CT-???    Balance Augmentor  0.40 14000     2.00
+CT-???    Oral Dart          0.25 3600      2.00
+CT-???    Oral Gun           0.40 5600      3.00
+CT-???    Oral Spur          0.25 8200      2.50
+CT-???    Oral Whip          0.25 10500     2.50
+CT-???    Tooth Compar Break 0.00 700       1.50
+CT-???    Tooth Compar Stor  0.00 1500      1.25
+CT-???    Cranial Bomb Kink  0.00 28000     1.50
+CT-???    Cranial Bomb Micro 0.00 65500     1.25
+CT-???    Cranial Bomb Area  0.00 500000    1.00
+CT-???    Dermal Sheath Lv1  0.70 24000     1.50 +2BOD
+CT-???    Dermal Sheath Lv2  1.40 60000     1.50 +3BOD
+CT-???    Dermal Sheath Lv3  2.10 120000    1.50 +4BOD
+CT-???    DS Coloration Lv1  0.00 30000     1.75 +2BOD           
+CT-???    DS Coloration Lv2  0.00 75000     1.75 +3BOD
+CT-???    DS Coloration Lv3  0.00 150000    1.75 +4BOD
+CT-???    DS Cyber Control   0.10 32000     1.50
+CT-???    Fingertip Picks    0.00 18000     3.00
+CT-???    Fingertip Needle   0.00 800       1.50
+CT-???    Cyberarm/Leg       1.00 100000    1.00         
+CT-???    Cyberhand/Foot     0.35 45000     1.00
+CT-???    Cyber Forearm/Leg  0.65 70000     1.00
+CT-???    Strength Lv1       0.00 150000    1.50
+CT-???    Strength Lv2       0.00 300000    1.50
+CT-???    Strength Lv3       0.00 450000    1.50
+CT-???    Strength Lv4       0.40 175000    1.50
+CT-???    Strength Lv5       0.80 350000    1.50
+CT-???    Strength Lv6       1.20 525000    1.50
+CT-???    Quickness Lv1      0.00 90000     1.50 +1QCK
+CT-???    Quickness Lv2      0.00 180000    1.50 +2QCK
+CT-???    Quickness Lv3      0.00 270000    1.50 +3QCK
+CT-???    Quickness Lv4      0.30 110000    1.50 +4QCK
+CT-???    Quickness Lv5      0.60 220000    1.50 +5QCK
+CT-???    Quickness Lv6      0.90 330000    1.50 +6QCK
+CT-???    Body Enhance Lv1   0.00 75000     1.50 +1BOD
+CT-???    Body Enhance Lv2   0.00 150000    1.50 +2BOD
+CT-???    Body Enhance Lv3   0.00 225000    1.50 +3BOD
+CT-???    Body Enhance Lv4   0.00 300000    1.50 +4BOD
+CT-???    Body Enhance Lv5   0.00 375000    1.50 +5BOD
+CT-???    Body Enhance Lv6   0.00 450000    1.50 +6BOD
+CT-???    Magnetic Cyberlimb 0.00 2800      2.00 
+CT-???    Cyberarm Gyromount 1.50 260000    2.00
+CT-???    Direct NeuralInter 0.10 4500      1.00
+CT-???    Foot Anchor        0.40 14000     2.00
+CT-???    Replacement Hand   0.00 28000     2.00
+CT-???    Tactical Comp Lv1  3.50 350000    4.00
+CT-???    Tactical Comp Lv2  4.00 900000    4.00
+CT-???    Orientation System 0.50 15000     1.50
+CT-???    Hand Blade         0.10 7500      1.50
+CT-???    Hand Blade Retrac  0.25 10000     1.50
+CT-???    Shock Hand         0.00 1300      2.00
+CT-???    Cyberarm Taser     0.00 2000      1.50
+CT-???    CyberSquirt        0.00 1400      2.00
+CT-???    CyberTorso         1.50 120000    1.00 +1BOD
+CT-???    CyberSkull         0.75 75000     1.00 +1BOD
+CT-???    Body Plating S Lv1 0.00 10000     2.00
+CT-???    Body Plating S Lv2 0.00 20000     2.00
+CT-???    Body Plating S Lv3 0.00 30000     2.00
+CT-???    Body Plating S Lv4 0.00 40000     2.00
+CT-???    Body Plating S Lv5 0.00 50000     2.00
+CT-???    Body Plating S Lv6 0.00 60000     2.00
+CT-???    Body Plating H Lv1 0.00 25000     2.00
+CT-???    Body Plating H Lv2 0.00 50000     2.00
+CT-???    Body Plating H Lv3 0.00 75000     2.00
+CT-???    Body Plating H Lv4 0.00 100000    2.00
+CT-???    Body Plating H Lv5 0.00 125000    2.00
+CT-???    Body Plating H Lv6 0.00 150000    2.00
+CT-???    Reaction Enhan Lv1 0.30 60000     2.00 +1RCT
+CT-???    Reaction Enhan Lv2 0.60 120000    2.00 +2RCT
+CT-???    Reaction Enhan Lv3 0.90 180000    2.00 +3RCT
+CT-???    Reaction Enhan Lv4 1.20 240000    2.00 +4RCT
+CT-???    Reaction Enhan Lv5 1.50 300000    2.00 +5RCT
+CT-???    Reaction Enhan Lv6 1.80 360000    2.00 +6RCT
+CT-???    Reflex Trigger     0.20 13000     1.00
+CT-???    Move-by-Wire   Lv1 2.50 250000    2.50 +1QCK,+2RCT
+CT-???    Move-by-Wire   Lv2 3.85 500000    3.00 +2QCK,+4RCT
+CT-???    Move-by-Wire   Lv3 5.20 1250000   3.00 +3QCK,+6RCT
+CT-???    Move-by-Wire   Lv4 6.45 3000000   3.50 +4QCK,+8RCT
+CT-???    External Mount     0.00 3200      2.00
+CT-???    Tracking Mount     0.00 24000     2.00
+CT-???    Articulate Arm     0.25 110000    2.00
+CT-???    Induction DJ       0.30 3000      2.00
+CT-???    Induction Jack Lv1 0.40 1500      2.00
+CT-???    Induction Jack Lv2 0.40 3000      2.00
+CT-???    Induction Jack Lv3 0.40 6000      2.00
+CT-???    Induction Jack Lv4 0.40 12000     2.00
+CT-???    Internal Air Tank  0.25 1200      1.50
+!----------------------
+!Plastic Warriors books
+!----------------------
+PW-???    Anchor Cyberfeet   0.00 4000      2.00
+PW-???    Spectrum Cybraudio 0.30 4500      1.00
+PW-???    Spectrum Omnidir.  0.50 1500      1.00
+PW-???    BigKnucks          0.15 5000      1.00
+PW-???    "Enable" Cyberlimb 1.00 100000    1.00
+PW-???    Biomonitor         0.10 1000      1.00
+PW-???    Biomonitor         0.50 40000     1.00
+PW-???    Autoinjector       0.10 750       0.90
+PW-???    Pacemaker Coproces 0.20 1500      2.00
+PW-???    Bomb Implant       0.00 500000    1.00
+PW-???    Bug Detector Lvl 1 0.10 12500     1.75
+PW-???    Bug Detector Lvl 2 0.15 25000     1.75
+PW-???    Bug Detector Lvl 3 0.20 37500     1.75
+PW-???    Bug Detector Lvl 4 0.25 50000     1.75
+PW-???    Bug Detector Lvl 5 0.30 62500     1.75
+PW-???    Bug Detector Lvl 6 0.35 75000     1.75
+PW-???    Hand, Buzz         0.35 52500     1.00
+PW-???    CyberPillow        0.00 800       0.75
+PW-???    Cyberpillow case   0.00 100       0.75
+PW-???    ChemSkins          0.50 6000      1.10
+PW-???    Clock Radio        0.50 3000      0.80
+PW-???    Color Contrl Gland 0.02 2500      1.00
+PW-???    ColorShift Cbreyes 0.25 6000      0.90
+PW-???    Contracept. Impl.  0.05 1000      1.25
+PW-???    Cutting Torch      0.40 3500      2.00
+PW-???    Bio-Injector       0.00 30000     1.00
+PW-???    Shock Inducer      0.00 2000      1.00
+PW-???    Taser Touch        0.00 2000      2.00
+PW-???    Cyberface Evileye  0.15 15000     1.00
+PW-???    Cyberface Jigsaw   0.25 25000     1.00
+PW-???    Cyberface Twoface  0.50 35000     1.00
+PW-???    Limb cvr: Plastic  0.00 4000      0.80
+PW-???    Limb cvr: RealSkin 0.00 8000      1.50
+PW-???    Limb cvr: Superchr 0.00 8000      1.20
+PW-???    Eye Compass, Log   0.20 3000      0.90
+PW-???    Eye Compass,Normal 0.10 3000      0.90
+PW-???    Eye Teargas Sprayr 0.20 2000      1.00
+PW-???    Eye "Bug Eye"      0.25 7500      1.00
+PW-???    Eye, Remote        0.15 15000     2.00
+PW-???    "Spitting Cobra"   0.10 4000      2.00
+PW-???    Tri-Dart Launcher  0.50 3000      3.00
+PW-???    Cyberhands, Custom 0.00 9000      1.00
+PW-???    Mood Skin (per m2) 0.25 200       0.80
+PW-???    Cybergun Derringer 0.20 220       2.00
+PW-???    Dodgeball          0.30 14500     1.50
+PW-???    Finger: Air Hypo   0.15 600       1.25
+PW-???    Finger: Dartgun    0.15 1000      2.50
+PW-???    Finger: FingerBomb 0.15 1500      3.00
+PW-???    Finger: Flare      0.15 200       1.50
+PW-???    Finger: Flasher    0.15 7500      1.00
+PW-???    Finger: Flashlight 0.15 200       1.00
+PW-???    Finger: Laser      0.15 750       1.25
+PW-???    Finger: Light Pen  0.15 450       0.90
+PW-???    Finger: Lighter    0.15 250       0.90
+PW-???    Finger: Lockpick   0.15 500       1.50
+PW-???    Finger: MaceSprayr 0.15 1500      2.50
+PW-???    Finger: Mini Light 0.15 250       0.90
+PW-???    Finger: Microphone 0.15 3500      1.50
+PW-???    Finger: Probe Link 0.15 1500      1.00
+PW-???    Finger: QuikChange 0.00 150       1.00
+PW-???    Finger: Scissors   0.30 500       1.25
+PW-???    Finger: SP Grenade 0.15 2000      3.50
+PW-???    Finger: Storage    0.15 150       1.00
+PW-???    Finger: Tracker    0.15 1500      2.50
+PW-???    Finger: Vidcam     0.15 8000      1.50
+PW-???    Foot, Web          0.35 50000     1.00
+PW-???    E-Monitor level 1  0.20 2000      1.00
+PW-???    E-Monitor level 2  0.20 4000      1.00
+PW-???    E-Monitor level 3  0.20 6000      1.00
+PW-???    E-Monitor level 4  0.20 8000      1.00
+PW-???    E-Monitor level 5  0.20 10000     1.00
+PW-???    E-Monitor level 6  0.20 12000     1.00
+PW-???    Hand, Extension    0.35 55000     1.00
+PW-???    Cybergun Flamethr. 0.90 1200      2.00
+PW-???    Flashbulb          0.30 2500      2.00
+PW-???    Frequency Changer  0.25 30000     1.35
+PW-???    Gang Jazzler       0.20 6000      1.00
+PW-???    Gas Jet            0.50 3000      2.50
+PW-???    Series-A Exoskel.  2.00 240000    2.00
+PW-???    Series-B Exeskel.  2.50 300000    2.00
+PW-???    Transparent Skin   0.50 1000      0.90
+PW-???    Subdermal Armor 1  0.10 3500      0.90
+PW-???    Subdermal Armor 2  0.30 5000      1.00
+PW-???    Subdermal Armor 3  0.50 6500      1.00 +1BOD
+PW-???    Subdermal Armor 4  0.80 8000      1.10 +1BOD
+PW-???    Subdermal Armor 5  1.00 10000     1.10 +2BOD
+PW-???    Subdermal Armor 6  1.20 11000     1.20 +2BOD
+PW-???    Subdermal Armor 7  1.40 12000     1.30 +2BOD
+PW-???    Subdermal Armor 8  1.60 14500     1.40 +3BOD, -1RCT
+PW-???    Subdermal Armor 9  1.90 17500     1.50 +3BOD, -1RCT
+PW-???    Subdermal Armor 8O 1.60 116000    1.40 +3BOD
+PW-???    Subdermal Armor 9O 1.90 140000    1.50 +3BOD
+PW-???    Hand, Grapple      0.00 55000     1.00
+PW-???    Cybergun GrenLaun. 0.50 2500      2.00
+PW-???    Foot, Grip         0.35 55000     1.00
+PW-???    Gyro-Stabilizer    0.10 10000     1.20
+PW-???    Hand, Hammer       0.35 50000     1.00
+PW-???    Chainripp          0.60 12500     1.50
+PW-???    Hydraulic Ram lvl1 0.25 4500      1.00
+PW-???    Hydraulic Ram lvl2 0.25 9000      1.00
+PW-???    Hydraulic Ram lvl3 0.25 13500     1.00
+PW-???    Hydraulic Ram lvl4 0.25 18000     1.00
+PW-???    Hydraulic Ram lvl5 0.25 22500     1.00
+PW-???    Icer               0.40 2000      1.25
+PW-???    Eye Image Enhance. 0.15 3000      1.50
+PW-???    Kerenzikov Level 1 0.60 15000     1.00 +2RCT
+PW-???    Kerenzikov Level 2 1.15 25000     1.25 +4RCT
+PW-???    Kill Display       0.30 1000      0.90
+PW-???    Eye Laser-Comm     0.30 4250      1.50
+PW-???    n100 Interf. Plugs 0.25 1000      1.00
+PW-???    Interferometry Sys 0.10 3000      1.00
+PW-???    Eye: Third Eye     0.10 5000      0.90
+PW-???    Optishield         0.05 1000      1.00
+PW-???    Optishield IR      0.10 3000      1.25
+PW-???    Optishield Lowlite 0.10 3000      1.25
+PW-???    Optishield Mag (1) 0.10 2500      1.00
+PW-???    Optishield Mag (2) 0.10 4000      1.00
+PW-???    Optishield Mag (3) 0.10 6000      1.00
+PW-???    Optishield Tim/Day 0.05 1000      0.90
+PW-???    Optishield TimesSq 0.05 3000      1.00
+PW-???    Optishield TimeSq+ 0.15 15000     1.50
+PW-???    Nails, Show-Off    0.10 425       0.75
+PW-???    Nails, Turn-On     0.05 200       0.75
+PW-???    Leg Boosters       0.00 5000      1.00
+PW-???    Eye: "Revelation"  0.25 6000      0.80
+PW-???    Light Tattoos      0.05 100       0.60
+PW-???    LimbLink           0.15 1000      1.00
+PW-???    LiveWires          0.35 4000      0.90
+PW-???    Hand, Mace         0.50 10000     3.00
+PW-???    Mag-Duct Spots     0.20 2200      1.00
+PW-???    Feet/Hands, Magnet 0.40 500       1.00
+PW-???    Cellular Phone     0.50 5000      0.90
+PW-???    Micromissile Lnchr 1.10 4500      2.00
+PW-???    Hand, Modular      0.35 48000     1.00
+PW-???    Mr. Studd          0.35 3000      2.00
+PW-???    Midnight Lady      0.35 3000      2.00
+PW-???    Nasal Filters lvl1 0.10 600       1.00
+PW-???    Nasal Filters lvl2 0.20 1200      1.00
+PW-???    Nasal Filters lvl3 0.30 1800      1.00
+PW-???    Nasal Filters lvl4 0.40 2400      1.00
+PW-???    Optical Interface  0.20 6000      1.00
+PW-???    Pain Editor        0.60 60000     1.20
+PW-???    Program Carrier    0.20 25000     1.00
+PW-???    Quickdraw Armhlstr 0.00 400       1.30
+PW-???    Braindance Recordr 2.00 450000    3.00
+PW-???    Teeth: Retr. Vamp. 0.20 500       1.00
+PW-???    Teeth: Ext.Canines 0.10 1000      1.00
+PW-???    Teeth: Sharkgrin   0.10 500       1.00
+PW-???    Teeth: Shark. Spec 0.20 1400      1.00
+PW-???    Hand, Ripper       0.35 52500     1.00
+PW-???    Rippers            0.20 8000      1.00
+PW-???    Scratchers         0.10 5000      1.00
+PW-???    Shift-tacts        0.05 100       0.80
+PW-???    Skate Foot         0.00 10000     1.00
+PW-???    Skinwatch          0.10 500       0.90
+PW-???    Smartball System   0.50 4000      1.00
+PW-???    Speedware          1.70 50000     1.00 +2RCT, +1INI
+PW-???    Hand, Spike        0.35 50000     1.00
+PW-???    Heel, Spike        0.35 50000     1.00
+PW-???    Subdermal Armor    0.50 12000     1.50
+PW-???    Subdermal Viewscrn 0.25 500       1.00
+PW-???    SuperSized Arms    1.00 135000    1.00
+PW-???    FleshWeave         0.00 22000     1.50
+PW-???    Synthskins         0.80 12000     1.20
+PW-???    Tactile Boost lvl1 0.20 1500      1.00
+PW-???    Tactile Boost lvl2 0.20 3000      1.00
+PW-???    Tactile Boost lvl3 0.20 4500      1.00
+PW-???    Tactile Boost lvl4 0.20 6000      1.00
+PW-???    Tactile Boost lvl5 0.20 7500      1.00
+PW-???    Tactile Boost lvl6 0.20 9000      1.00
+PW-???    Foot, Talon        0.35 52500     1.00
+PW-???    Tazer Grip         0.25 3000      2.00
+PW-???    Techhair           0.10 100       0.75
+PW-???    TimeSquare Marquee 0.10 3000      1.00
+PW-???    TimeSquare Plus    0.30 15000     1.50
+PW-???    Foot, Tool         0.35 47000     1.00
+PW-???    Hand, Tool         0.35 47000     1.25
+PW-???    Total Body Plating 3.00 68000     1.10 +3BOD
+PW-???    Ultrasound Vision  0.80 25000     1.50
+PW-???    Eye Ultra Violet   0.20 3000      1.25
+PW-???    Video Cam/Transm.  0.80 33000     1.00
+PW-???    Video Imager       0.25 3500      1.50
+PW-???    Voice Pattern Lvl1 0.25 35000     1.10
+PW-???    Voice Pattern Lvl2 0.30 50000     1.10
+PW-???    Voice Pattern Lvl3 0.35 65000     1.25
+PW-???    Voice Pattern Lvl4 0.45 85000     1.50
+PW-???    Voice Pattern Lvl5 0.60 110000    1.75
+PW-???    Voice Synth Lvl 1  0.15 55000     1.10
+PW-???    Voice Synth Lvl 2  0.30 70000     1.20
+PW-???    Voice Synth Lvl 3  0.45 85000     1.30
+PW-???    Voice Synth Lvl 4  0.60 100000    1.40
+PW-???    Voice Synth Lvl 5  0.75 115000    1.50
+PW-???    Voice Synth Lvl 6  0.90 130000    1.60
+PW-???    Watch-Man          0.00 1800      1.00
+PW-???    Wearman Mark II    0.00 200       0.75
+PW-???    Whip               0.25 4000      2.00
+PW-???    Winch              0.00 5000      1.10
+PW-???    Wolvers            0.30 8000      1.00
+PW-???    Romanova Cyberlegs 2.00 250000    1.00
+PW-???    Verbal Eyes: Basic 0.20 7500      0.90
+PW-???    Verbal Eyes: Custm 0.50 24000     0.90
+PW-???    Verbal Eyes: Video 0.50 22000     1.00
+PW-???    Zetatech Bodycomp  0.80 9000      2.00
+!-----------------
+!NERPS: ShadowLore
+!-----------------
+N/SL-???  Frontline Smartlnk 0.20 1000      1.10
+N/SL-???  Commando Smartlink 0.35 2000      1.10
+N/SL-???  Stealth Smartlink  0.50 10000     1.25
+N/SL-???  Stealth Datajack 1 0.15 2000      1.00
+N/SL-???  Stealth Datajack 2 0.20 4000      1.00
+N/SL-???  Stealth Datajack 3 0.30 16000     1.00
+N/SL-???  Fuchi Bodyjack     0.25 1300      0.90
+N/SL-???  Fuchi Bodyjack 1   0.15 800       0.90
+N/SL-???  Fuchi Bodyjack 2   0.20 1300      0.90
+N/SL-???  Fuchi Bodyjack 3   0.25 2300      0.90
+N/SL-???  Fuchi Bodyjack 4   0.30 4300      0.90
+N/SL-???  Perman. Softlink 1 0.10 3000      1.00
+N/SL-???  Perman. Softlink 2 0.15 6000      1.00
+N/SL-???  Perman. Softlink 3 0.20 12000     1.00
+N/SL-???  Perman. Softlink 4 0.25 24000     1.00
+N/SL-???  Ares React System1 1.20 29000     1.00 +2RCT
+N/SL-???  Ares React System2 2.80 87000     1.25 +4RCT
+N/SL-???  Ares React System3 3.00 153000    1.50 +6RCT
+N/SL-???  Raineer Reflex 1   1.40 27000     1.00 +1INI
+N/SL-???  Raineer Reflex 2   2.10 75000     1.25 +2INI
+N/SL-???  Raineer Reflex 3   3.50 185000    1.50 +3INI
+N/SL-???  Ares Reflex Contr. 0.10 500       0.90
+N/SL-???  Shiawase Booster 1 1.30 29000     3.50
+N/SL-???  Shiawase Booster 2 2.60 87000     4.00
+N/SL-???  Zeiss FullSpectrum 0.20 10000     1.10
+N/SL-???  Colt Scout         0.25 12800     1.00
+N/SL-???  Colt Sniper        0.40 17500     1.00
+N/SL-???  Nikkon Tourister   0.60 22000     1.20
+N/SL-???  Nikkon ProSystem   1.70 55000     1.20
+N/SL-???  RCA Vidpack        0.90 38000     1.00
+N/SL-???  Sony XB5000        1.25 80000     1.00
+N/SL-???  Fuchi VI300        1.90 96000     1.10
+N/SL-???  RCA Tridpack       0.90 36000     1.00
+N/SL-???  Fuchi FullTrid     2.10 103000    1.20
+N/SL-???  Bose Voxx System   0.40 165000    1.00
+N/SL-???  S'wase FilterSuite 2.30 140000    1.10
+N/SL-???  Sony Skillman      0.55 40000     1.00
+N/SL-???  Ares Skillmaster   3.50 720000    1.00
+N/SL-???  Ares Radio Suite   0.80 110000    1.20
+N/SL-???  Ares Secure Phone  0.60 122000    1.20
+N/SL-???  Ares BattleLink    1.00 340000    1.20
+!---------------------------------------
+!Neo-Anarchist Guides To Everything Else
+!---------------------------------------
+NAGEE-??? Ultrasound Eyes #1 0.10 2000      1.00
+NAGEE-??? Ultrasound Eyes #2 0.20 5000      1.00
+NAGEE-??? Ultras. Headlights 0.00 2250      1.00

@@ -279,25 +279,114 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 10: Setting & Lore Database ⏳ FUTURE
+## Phase 10: Campaign Management System ✅ COMPLETED
 
-### 10.1 Schema Design ⏳
+### 10.1 Database Schema ✅
+- [x] Design campaigns table (fluid narrative state)
+- [x] Design campaign_npcs table (dynamic NPC tracking)
+- [x] Design campaign_characters table (character-campaign links)
+- [x] Create migration 016_add_campaign_management.sql
+- [x] Apply migration with UUID support
+
+### 10.2 MCP Tools (Campaign State) ✅
+- [x] Implement register_npc tool
+- [x] Implement update_npc tool
+- [x] Implement get_campaign_npcs tool
+- [x] Implement update_campaign_state tool
+- [x] All campaign management tools tested and working
+
+### 10.3 Testing & Validation ✅
+- [x] Test NPC registration during gameplay
+- [x] Test NPC relevance transitions
+- [x] Test campaign state updates
+- [x] Validate context management
+- [x] Comprehensive test suite passing (100%)
+
+---
+
+## Phase 11: Game Server & UI Integration 🚧 IN PROGRESS
+
+### 11.1 Campaign Integration with Grok-4 ⏳
+- [ ] Add campaign context injection to Grok-4 system prompt
+- [ ] Implement dual-output pattern (narrative + state updates)
+- [ ] Build campaign API endpoints in game-server.py
+  - [ ] POST /api/campaign/create
+  - [ ] GET /api/campaign/:id
+  - [ ] PUT /api/campaign/:id/state
+  - [ ] POST /api/campaign/:id/npc
+  - [ ] PUT /api/campaign/:id/npc/:npc_id
+- [ ] Test campaign state management during gameplay
+- [ ] Validate NPC context in AI responses
+
+### 11.2 UI Components for Campaign Management ⏳
+- [ ] Create campaign creation modal
+- [ ] Add campaign loading/selection interface
+- [ ] Display active NPCs in sidebar
+- [ ] Show current objectives/complications panel
+- [ ] Add milestone tracking display
+- [ ] Implement session linking to campaigns
+- [ ] Add NPC quick-add from chat
+
+### 11.3 Combat System Enhancement ⏳
+- [ ] Expand ranged attack UI
+  - [ ] Visual range calculator
+  - [ ] Modifier breakdown display
+  - [ ] Combat pool allocation interface
+- [ ] Add melee combat support
+  - [ ] Melee attack calculations
+  - [ ] Reach and positioning
+  - [ ] Called shots interface
+- [ ] Implement full initiative tracker
+  - [ ] Initiative order display
+  - [ ] Turn management
+  - [ ] Action tracking
+  - [ ] Wound modifiers
+
+### 11.4 Character Sheet Enhancements ⏳
+- [ ] Complete character sheet renderer
+  - [ ] Add spell list display
+  - [ ] Add bound spirits display
+  - [ ] Add foci display with bonuses
+- [ ] Real-time updates via WebSocket
+  - [ ] Damage tracking
+  - [ ] Pool usage
+  - [ ] Condition changes
+- [ ] Character editing interface
+  - [ ] Inline attribute editing
+  - [ ] Skill improvement
+  - [ ] Gear management
+- [ ] Vehicle/cyberdeck displays
+  - [ ] Vehicle stats and modifications
+  - [ ] Cyberdeck programs and MPCP
+  - [ ] Drone control interface
+
+### 11.5 Testing & Validation ⏳
+- [ ] End-to-end gameplay testing
+- [ ] Campaign state persistence testing
+- [ ] Multi-character combat testing
+- [ ] WebSocket performance testing
+- [ ] UI responsiveness testing
+
+---
+
+## Phase 12: Setting & Lore Database ⏳ FUTURE
+
+### 12.1 Schema Design ⏳
 - [ ] Design lore_content table
   - [ ] Locations
   - [ ] Corporations
-  - [ ] NPCs
   - [ ] Timeline events
   - [ ] Factions
 - [ ] Add relationship mapping
 - [ ] Create cross-reference system
 
-### 10.2 MCP Tools ⏳
+### 12.2 MCP Tools ⏳
 - [ ] Implement query_lore tool (already partially working via chunks)
 - [ ] Implement get_location tool
 - [ ] Implement get_corporation tool
 - [ ] Implement timeline_lookup tool
 
-### 10.3 Content Population ⏳
+### 12.3 Content Population ⏳
 - [ ] Extract lore from source books
 - [ ] Organize by category
 - [ ] Add cross-references
@@ -305,19 +394,29 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 11: Advanced Features ⏳ FUTURE
+## Phase 13: Advanced AI Features ⏳ FUTURE
 
-### 11.1 Campaign Management ⏳
-- [ ] Session notes storage
-- [ ] NPC tracking
-- [ ] Plot thread management
-- [ ] Location/scene tracking
-
-### 11.2 AI Enhancements ⏳
+### 13.1 AI Enhancements ⏳
 - [ ] Add rule interpretation assistance
 - [ ] Implement scenario suggestions
 - [ ] Create encounter generators
-- [ ] Add house rule management
+- [ ] Improve query classification accuracy
+- [ ] Add NPC personality generation
+- [ ] Implement plot twist suggestions
+
+### 13.2 Session Management ⏳
+- [ ] Session notes storage
+- [ ] Plot thread management
+- [ ] Location/scene tracking
+- [ ] Session recap generation
+- [ ] Automatic session summaries
+- [ ] Player action tracking
+
+### 13.3 Advanced Combat AI ⏳
+- [ ] Tactical AI for NPCs
+- [ ] Cover and positioning suggestions
+- [ ] Optimal action recommendations
+- [ ] Threat assessment
 
 ---
 
@@ -333,36 +432,53 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 - **Phase 7:** Complete dice rolling system (15 tools)
 - **Phase 8:** Unified server with 19 total tools
 
-### ✅ Recently Completed (Phase 9)
-- Character management system fully implemented
-- Schema migrated to normalized structure
-- All 3 character tools working (create, get, update)
-- Comprehensive testing completed
-- House rules integration working
+### ✅ Recently Completed (Phase 10)
+- Campaign management system fully implemented
+- All campaign MCP tools working and tested
+- NPC tracking with relevance system operational
+- Campaign state management (objectives, complications, milestones)
+- Comprehensive test suite passing (100%)
 
-### 🎯 Current Priority: Query Router Refinement
+### ✅ Magic System Enhancements (Recent)
+- Totem support fully implemented (migration 015)
+- Spellcasting MCP tool with drain calculation
+- Totem bonus/penalty system with case-insensitive matching
+- Magic fields added to character schema (migration 017)
+- All spellcasting tests passing (7/7)
 
-**Issue Identified:** Query classification needs improvement for spell/power/totem queries
-- AI sometimes misclassifies structured queries as text chunk queries
-- Need better examples in classification prompt
-- See QUERY-SYSTEM-STATUS.md for details
+### 🎯 Current Priorities
 
-**Next Steps:**
-1. Fix query classification prompt with better examples
-2. Add logging to track classification accuracy
-3. Test with various query types
-4. Fine-tune based on results
+**IMMEDIATE: Character Data Quality & Documentation (Phase 11.6)**
+- [x] Migration 019: Audit system with users table
+- [x] Python CRUD API (`lib/character_crud_api.py`) with audit logging
+- [x] Hybrid Search (`lib/hybrid_search.py`) for RAG supplementation
+- [x] Updated MCP-TOOLS-REFERENCE.md (added Python libraries section)
+- [x] Created comprehensive CRUD test suite (`tests/test-crud-api.py`)
+- [ ] **FIX: Character import script to parse spell force correctly**
+- [ ] **FIX: Re-import Oak/Simon Stalman with correct spell forces**
+- [ ] **FIX: Test case - Oak is Oak shaman with Oak totem (not Manticore/Bear)**
+- [ ] **UPDATE: docs/ORCHESTRATOR-REFERENCE.md**
+- [ ] **UPDATE: docs/UI-REFERENCE.md**
+- [ ] **UPDATE: README.md with architecture overview**
 
-### ⏳ Next Major Phase (Phase 9)
-1. **Implement Character Management Tools**
-   - create_character
-   - update_character
-   - get_character
-   - calculate_derived_stats
-2. **Character Import System**
-   - NSRCG file parser
-   - Data validation
-   - Import tool
+**1. Game Server Integration (Phase 11)**
+- Integrate campaign management into game-server.py
+- Add campaign context to Grok-4 AI calls
+- Build UI components for campaign management
+- Test end-to-end gameplay with campaigns
+- **Integrate Python CRUD API and Hybrid Search into game-server.py MCP tools**
+
+**2. Combat System Enhancement**
+- Expand ranged attack calculations
+- Add melee combat support
+- Implement full initiative system
+- Add combat pool management UI
+
+**3. Character Sheet UI Polish**
+- Complete character sheet renderer
+- Add real-time updates via WebSocket
+- Implement character editing interface
+- Add vehicle/cyberdeck displays
 
 ### 🔮 Future Enhancements (Phases 10-11)
 - Dedicated lore database
@@ -403,11 +519,18 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 20. ✅ update_character - Update characters with karma tracking and house rules
 21. ✅ get_character - Retrieve character data with history and modifiers
 
-### Campaign & House Rules Tools (2) ✅
-22. ✅ manage_campaigns - Full campaign management
-23. ✅ manage_house_rules - House rules with campaign support
+### Campaign & House Rules Tools (6) ✅
+22. ✅ create_campaign - Create new campaigns with theme and description
+23. ✅ update_campaign_state - Update situation, location, objectives, complications
+24. ✅ add_campaign_milestone - Record major achievements
+25. ✅ register_npc - Add NPCs with relevance tracking
+26. ✅ update_npc - Update NPC status, location, relevance
+27. ✅ get_campaign_npcs - Retrieve NPCs by relevance or location
 
-**Total Tools:** 23 implemented
+### Magic & Spellcasting Tools (1) ✅
+28. ✅ cast_spell - Full spellcasting with drain, totem bonuses, and foci
+
+**Total Tools:** 28 implemented
 
 ---
 
@@ -429,6 +552,15 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 - [x] House rules system integrated
 - [x] Campaign management working
 - [x] Character data validated
+
+### Phase 10 (Completed): ✅
+- [x] Campaign management schema implemented
+- [x] All 6 campaign MCP tools working
+- [x] NPC tracking with relevance system
+- [x] Campaign state management operational
+- [x] Comprehensive testing (100% pass rate)
+- [x] Magic system with totem support
+- [x] Spellcasting tool with drain calculation
 
 ---
 

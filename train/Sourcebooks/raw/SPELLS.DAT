@@ -1,0 +1,375 @@
+!SPELLS.DAT - Spells data file - JW 960305 (Updated from PM 950220 - additions by Joseph Pettit)
+!-----------------------------------------------------------------------------------------------
+!Book-Pag Name                         Drain               Typ Dur Class
+!-------- ---------------------------- ------------------- --- --- -----
+!23456789012345678901234567890123456789012345678901234567890
+!---------------------------------------------------------
+#Combat spells/C
+!---------------------------------------------------------
+SR2-???   Death Touch                  [(F/2)-1]S          M   I   C
+SR2-???   Fire Bolt                    [(F/2)+1]D          P   I   C
+SR2-???   Fire Cloud                   [(F/2)+1]D          P   I   C
+SR2-???   Fire Dart                    [(F/2)+1]M          P   I   C
+SR2-???   Fire Missle                  [(F/2)+1]S          P   I   C
+SR2-???   Fireball                     [(F/2)+3]D          P   I   C
+SR2-???   Flame Arrows                 [(F/2)+1]D          P   I   C
+SR2-???   Force Drain                  (F/2)S              M   I   C
+SR2-???   Hellblast                    [(F/2)+6]D          P   I   C
+SR2-???   Inferno                      [(F/2)-1]D          P   I   C
+SR2-???   Mana Bolt                    (F/2)S              M   I   C
+SR2-???   Mana Cloud                   (F/2)S              M   I   C
+SR2-???   Mana Dart                    (F/2)L              M   I   C
+SR2-???   Mana Missile                 (F/2)M              M   I   C
+SR2-???   Manaball                     (F/2)S              P   I   C
+SR2-???   Manablast                    (F/2)D              M   I   C
+SR2-???   Power Bolt                   [(F/2)+1]S          P   I   C
+SR2-???   Power Dart                   [(F/2)+1]L          P   I   C
+SR2-???   Power Missile                [(F/2)+1]M          P   I   C
+SR2-???   Powerball                    [(F/2)+1]S          P   I   C
+SR2-???   Powerblast                   [(F/2)+1]D          P   I   C
+SR2-???   Ram                          [(F/2)+1]S          P   I   C
+SR2-???   Ram Touch                    [(F/2)-1]M          P   I   C
+SR2-???   Redirect                     [special]           P   I   C
+SR2-???   Rot                          [(F/2)+1]M          P   I   C
+SR2-???   Shattershield                (F/2)S              M   I   C
+SR2-???   Slay (Race/species)          [(F/2)-1]S          M   I   C
+SR2-???   Sleep                        [(F/2)-1]S          M   I   C
+SR2-???   Spirit Bolt                  [(F/2)-1]S          M   I   C
+SR2-???   Sterilize                    [(F/2)+1]D          P   I   C
+SR2-???   Stun Bolt                    [(F/2)-1]D          M   I   C
+SR2-???   Stun Cloud                   [(F/2)-1]S          M   I   C
+SR2-???   Stun Missile                 [(F/2)-1]M          M   I   C
+SR2-???   Stun Touch                   [(F/2)-2]M          M   I   C
+SR2-???   Stunball                     [(F/2)-1]D          M   I   C
+SR2-???   Stunblast                    [(F/2)+1]D          M   I   C
+SR2-???   Tire Wrecker                 [(F/2)+1]M          P   I   C
+SR2-???   Urban Renewal                (F/2)D              P   I   C
+SR2-???   Wrecker                      (F/2)S              P   I   C
+!---------------------------------------------------------
+#Detection spells/D
+!---------------------------------------------------------
+SR2-???   Analyze Device               [(F/2)+1]M          P   S   D
+SR2-???   Analyze Magic                (F/2)M              M   S   D
+SR2-???   Analyze Truth                (F/2)S              M   S   D
+SR2-???   Animal Spy                   (F/2)L              M   S   D
+SR2-???   Astral Perception            (F/2)S              M   S   D
+SR2-???   Astral Sense                 (F/2)M              M   S   D
+SR2-???   Catalogue                    [(F/2)-1]L          P   I   D
+SR2-???   Clairaudience                (F/2)M              M   S   D
+SR2-???   Clairaudience (Extended)     [(F/2)-1]S          M   S   D
+SR2-???   Clair Spell                  [(F/2)+2]M          M   S   D
+SR2-???   Clair Spell (Extended)       [(F/2)+1]S          M   S   D
+SR2-???   Clairvoyance                 (F/2)M              M   S   D
+SR2-???   Clairvoyance (Extended)      [(F/2)-1]S          M   S   D
+SR2-???   Combat Sense                 [(F/2)+1]S          P   S   D
+SR2-???   Detect Credstick Protection  (F/2)D              M   S   D
+SR2-???   Detect Damage Level          [(F/2)-1]S          P   I   D
+SR2-???   Detect Enemies               [(F/2)+1]M          M   S   D
+SR2-???   Detect Enemies (Extended)    (F/2)S              M   S   D
+SR2-???   Detect Individual            (F/2)L              M   S   D
+SR2-???   Detect Life                  (F/2)L              M   S   D
+SR2-???   Detect (Life Form)           [(F/2)-1]L          M   S   D
+SR2-???   Detect Magic                 (F/2)L              M   S   D
+SR2-???   Detect Magical Sites (Ext)   [(F/2)-1]M          M   S   D
+SR2-???   Detect (Object)              [(F/2)+1]M          P   S   D
+SR2-???   Detect Sentients             [(F/2)-1]M          M   S   D
+SR2-???   Detect Traps                 [(F/2)-1]M          P   I   D
+SR2-???   Detect Traps (Extended)      [(F/2)-2]S          P   I   D
+SR2-???   Detect Wound Level           (F/2)M              M   I   D
+SR2-???   Diagnose                     [(F/2)-1]M          M   I   D
+SR2-???   Enhance Aim                  (F/2)S              M   S   D
+SR2-???   Enhanced (Sense)             [(F/2)+2]M          P   S   D
+SR2-???   Enhanced Sight               [(F/2)+4]D          P   S   D
+SR2-???   Foresight                    (F/2)D              M   S   D
+SR2-???   Foretelling                  (F/2)D              M   I   D
+SR2-???   Know Exit                    [(F/2)+3]S          P   S   D
+SR2-???   Low-Light Vision             (F/2)L              P   S   D
+SR2-???   Memory Probe                 [(F/2)+3]D          P   S   D
+SR2-???   Mindlink (Individual)        [(F/2)+2]M          M   S   D
+SR2-???   Mind Probe                   [(F/2)+2]D          M   S   D
+SR2-???   Night Vision                 (F/2)L              P   S   D
+SR2-???   Personal Combat Sense        [(F/2)+1]M          P   S   D
+SR2-???   Sound Selection              (F/2)L              M   S   D
+SR2-???   Telepathic Chat              [(F/2)-2]S          M   S   D
+SR2-???   Thermographic Vision         (F/2)L              P   S   D
+SR2-???   Translate                    [(F/2)+1]L          M   S   D
+SR2-???   Truth Glow                   [(F/2)+2]S          M   S   D
+SR2-???   X-Ray Vision                 [(F/2)+2]S          P   S   D
+!---------------------------------------------------------
+#Health spells/H
+!---------------------------------------------------------
+SR2-???   Air Breathing                [(F/2)+2]L          P   S   H
+SR2-???   Allergy                      [(F/2)+2]S          P   S   H
+SR2-???   Alleviate Nuissance Allergy  (F/2)L              P   S   H
+SR2-???   Alleviate Mild Allergy       (F/2)M              P   S   H
+SR2-???   Alleviate Moderate Allergy   (F/2)S              P   S   H
+SR2-???   Alleviate Severe Allergy     (F/2)D              P   S   H
+SR2-???   Antidote L Toxin             (F/2)L              P   P   H
+SR2-???   Antidote M Toxin             (F/2)M              P   P   H
+SR2-???   Antidote S Toxin             (F/2)S              P   P   H
+SR2-???   Antidote D Toxin             (F/2)D              P   P   H
+SR2-???   Awaken                       [(F/2)-1]L          M   I   H
+SR2-???   Blindness                    [(F/2)+1]D          M   S   H
+SR2-???   Buzz                         (F/2)S              P   P   H
+SR2-???   Cause Nuissance Allergy      [(F/2)+1]L          M   S   H
+SR2-???   Cause Mild Allergy           [(F/2)+1]M          M   S   H
+SR2-???   Cause Moderate Allergy       [(F/2)+1]S          M   S   H
+SR2-???   Cause Severe Allergy         [(F/2)+1]D          M   S   H
+SR2-???   Cripple Limb                 (F/2)S              M   S   H
+SR2-???   Cure L Disease               (F/2)L              P   P   H
+SR2-???   Cure M Disease               (F/2)M              P   P   H
+SR2-???   Cure S Disease               (F/2)S              P   P   H
+SR2-???   Cure D Disease               (F/2)D              P   P   H
+SR2-???   Decrease -1 Attribute        [(F/2)+1]L          P   S   H
+SR2-???   Decrease -2 Attribute        [(F/2)+1]M          P   S   H
+SR2-???   Decrease -3 Attribute        [(F/2)+1]S          P   S   H
+SR2-???   Decrease -4 Attribute        [(F/2)+1]D          P   S   H
+SR2-???   Decrease -1 Cybered Attribute[(F/2)+3]L          P   S   H
+SR2-???   Decrease -2 Cybered Attribute[(F/2)+3]M          P   S   H
+SR2-???   Decrease -3 Cybered Attribute[(F/2)+3]S          P   S   H
+SR2-???   Decrease -4 Cybered Attribute[(F/2)+3]D          P   S   H
+SR2-???   Decrease Reflexes -1 die     [(F/2)+1]S          M   S   H
+SR2-???   Decrease Reflexes -2 dice    [(F/2)+1]D          M   S   H
+SR2-???   Decrease Reflexes -3 dice    [(F/2)+3]D          M   S   H
+SR2-???   Detox L Toxin                [(F/2)-2]L          P   P   H
+SR2-???   Detox M Toxin                [(F/2)-2]M          P   P   H
+SR2-???   Detox S Toxin                [(F/2)-2]S          P   P   H
+SR2-???   Detox D Toxin                [(F/2)-2]D          P   P   H
+SR2-???   Enhance Willpower            (F/2)S              M   S   H
+SR2-???   Essence Drain                [(F/2)+2]D          P   S   H
+SR2-???   Fast                         (F/2)L              M   P   H
+SR2-???   Hair Growth                  [(F/2)+1]L          P   S   H
+SR2-???   Hair Loss                    (F/2)L              P   S   H
+SR2-???   Heal                         (F/2)(Wound Level)  M   P   H
+SR2-???   Heal L Wounds                [(F/2)-1]L          M   P   H
+SR2-???   Heal M Wounds                [(F/2)-1]M          M   P   H
+SR2-???   Heal S Wounds                [(F/2)-1]S          M   P   H
+SR2-???   Heal D Wounds                [(F/2)-1]D          M   P   H
+SR2-???   Healthy Glow                 (F/2)L              P   P   H
+SR2-???   Increase +1 Attribute        [(F/2)+1]L          M   S   H
+SR2-???   Increase +2 Attribute        [(F/2)+1]M          M   S   H
+SR2-???   Increase +3 Attribute        [(F/2)+1]S          M   S   H
+SR2-???   Increase +4 Attribute        [(F/2)+1]D          M   S   H
+SR2-???   Increase +1 Cybered Attribute[(F/2)+3]L          P   S   H
+SR2-???   Increase +2 Cybered Attribute[(F/2)+3]M          P   S   H
+SR2-???   Increase +3 Cybered Attribute[(F/2)+3]S          P   S   H
+SR2-???   Increase +4 Cybered Attribute[(F/2)+3]D          P   S   H
+SR2-???   Increase Matrix Reaction +1  [(F/2)+1]M          M   S   H
+SR2-???   Increase Matrix Reaction +2  [(F/2)+1]S          M   S   H
+SR2-???   Increase Matrix Reaction +3  [(F/2)+1]D          M   S   H
+SR2-???   Increase Reflexes +1 die     (F/2)M              M   S   H
+SR2-???   Increase Reflexes +2 dice    (F/2)S              M   S   H
+SR2-???   Increase Reflexes +3 dice    (F/2)D              M   S   H
+SR2-???   Intoxication                 [(F/2)+2]M          M   S   H
+SR2-???   Nutrition                    (F/2)L              M   P   H
+SR2-???   Oxygenate                    [(F/2)+2]M          P   S   H
+SR2-???   Paralyze                     [(F/2)+1]D          M   S   H
+SR2-???   Preserve                     [(F/2)+1]M          P   S   H
+SR2-???   Prophylaxis L Pathogen       [(F/2)+2]L          P   S   H
+SR2-???   Prophylaxis M Pathogen       [(F/2)+2]M          P   S   H
+SR2-???   Prophylaxis S Pathogen       [(F/2)+2]S          P   S   H
+SR2-???   Prophylaxis D Pathogen       [(F/2)+2]D          P   S   H
+SR2-???   Resist Nuissance Allergy     [(F/2)+1]L          M   S   H
+SR2-???   Resist Mild Allergy          [(F/2)+1]M          M   S   H
+SR2-???   Resist Moderate Allergy      [(F/2)+1]S          M   S   H
+SR2-???   Resist Severe Allergy        [(F/2)+1]D          M   S   H
+SR2-???   Resist Pain L                (F/2)M              M   P   H
+SR2-???   Resist Pain M                (F/2)S              M   P   H
+SR2-???   Resist Paint S               (F/2)D              M   P   H
+SR2-???   Stabilize                    (F/2)S              P   P   H
+SR2-???   Treat                        (F/2)(Wound Level)  M   P   H
+SR2-???   Treat L Wounds               [(F/2)-1]L          M   P   H
+SR2-???   Treat M Wounds               [(F/2)-1]M          M   P   H
+SR2-???   Treat S Wounds               [(F/2)-1]S          M   P   H
+SR2-???   Treat D Wounds               [(F/2)-1]D          M   P   H
+SR2-???   Water Breathing              [(F/2)+2]L          P   S   H
+!---------------------------------------------------------
+#Illusion spells/I
+!---------------------------------------------------------
+SR2-???   Agonizing Pain               [(F/2)+1]M          M   S   I
+SR2-???   Aural Entertainment          [(F/2)+2]L          P   S   I
+SR2-???   Blackout                     [(F/2)+2]M          P   S   I
+SR2-???   Black Wall                   [(F/2)+1]M          P   S   I
+SR2-???   Camouflage                   [(F/2)+2]L          P   S   I
+SR2-???   Chaff                        [(F/2)-1]S          P   S   I
+SR2-???   Chaos                        [(F/2)+2]M          P   S   I
+SR2-???   Chaotic World                [(F/2)+2]S          P   S   I
+SR2-???   Confusion                    (F/2)S              M   S   I
+SR2-???   Crowd Scene                  [(F/2)+2]M          P   S   I
+SR2-???   Displacement                 [(F/2)+1]S          P   S   I
+SR2-???   Disregard                    (F/2)M              M   S   I
+SR2-???   Distant Invisibility         [(F/2)+1]M          M   S   I
+SR2-???   Dream                        (F/2)L              M   S   I
+SR2-???   Entertainment                [(F/2)+1]L          M   S   I
+SR2-???   Fake Death                   [(F/2)+2]M          P   S   I
+SR2-???   Flare                        [(F/2)+1]M          P   I   I
+SR2-???   Flash                        [(F/2)+1]M          P   I   I
+SR2-???   Hide Vehicle                 (F/2)M              P   S   I
+SR2-???   Holograph                    [(F/2)+2]L          P   P   I
+SR2-???   Illusionary Barrier          [(F/2)+2]L          P   S   I
+SR2-???   Improved Invisibility        [(F/2)+1]M          P   S   I
+SR2-???   Invisibility                 (F/2)M              M   S   I
+SR2-???   Mask                         (F/2)L              M   S   I
+SR2-???   Maya's Flame Burst           [(F/2)+1]L          P   I   I
+SR2-???   Misinformation               [(F/2)+1]S          M   S   I
+SR2-???   Overstimulation              [(F/2)+1]M          M   S   I
+SR2-???   Peregrine's Magnificent Ill. [(F/2)+2]S          P   S   I
+SR2-???   Phantasmal Force             [(F/2)+1]S          M   S   I
+SR2-???   Phantom Bolt                 [(F/2)+1]M          P   I   I
+SR2-???   Physical Mask                [(F/2)+1]L          P   S   I
+SR2-???   Reflections                  [(F/2)+2]S          P   S   I
+SR2-???   Silence                      [(F/2)+2]S          P   S   I
+SR2-???   Spectacle                    [(F/2)+1]M          M   S   I
+SR2-???   Stimulation                  [(F/2)+1]L          M   S   I
+SR2-???   Stink                        [(F/2)+1]S          M   S   I
+SR2-???   Trid Entertainment           [(F/2)+2]L          P   S   I
+SR2-???   Trid Spectacle               [(F/2)+2]M          P   S   I
+SR2-???   Undetectable Lie             [(F/2)+2]M          P   S   I
+SR2-???   Vehicle Mask                 (F/2)L              P   S   I
+SR2-???   Video                        [(F/2)+1]M          P   P   I
+SR2-???   Voicechange                  [(F/2)+2]M          P   S   I
+!---------------------------------------------------------
+#Manipulation spells/M
+!---------------------------------------------------------
+SR2-???   Acid                         [(F/2)+1]S          P   I   M
+SR2-???   Acid Bomb                    [(F/2)+1]D          P   I   M
+SR2-???   Acid Stream                  [(F/2)+1]D          P   I   M
+SR2-???   Alter Temperature            [(F/2)+2]S          P   S   M
+SR2-???   Animate                      [(F/2)+2]M          P   S   M
+SR2-???   Armor                        [(F/2)+2]M          P   S   M
+SR2-???   Arrow Barrier                [(F/2)+2]M          P   S   M
+SR2-???   Astral Static                [(F/2)+1]D          M   S   M
+SR2-???   Barrier                      [(F/2)+2]S          P   S   M
+SR2-???   Bind                         [(F/2)+2]S          P   S   M
+SR2-???   Biophysical Armor            [(F/2)+1]M          M   S   M
+SR2-???   Blade Barrier                [(F/2)+2]M          P   S   M
+SR2-???   Blast Barrier                [(F/2)+2]M          P   S   M
+SR2-???   Blindness                    [(F/2)+2]M          P   S   M
+SR2-???   Blunder                      (F/2)D              M   I   M
+SR2-???   Bug Barrier                  [(F/2)+2]D          M   S   M
+SR2-???   Bullet Barrier               [(F/2)+2]M          P   S   M
+SR2-???   Calm Animal                  [(F/2)+2]L          M   S   M
+SR2-???   Catfall                      [(F/2)+2]L          P   S   M
+SR2-???   Chained Lightning            [(F/2)+3]D          P   I   M
+SR2-???   Clean Air                    [(F/2)+1]S          P   I   M
+SR2-???   Clean Water                  (F/2)S              P   P   M
+SR2-???   Clout                        (F/2)M              P   I   M
+SR2-???   Compel Truth                 [(F/2)+2]L          M   S   M
+SR2-???   Control Actions              [(F/2)+2]S          M   S   M
+SR2-???   Control Animal               [(F/2)+2]D          M   S   M
+SR2-???   Control Emotion              [(F/2)+2]M          M   S   M
+SR2-???   Control Fire                 [(F/2)+2]S          P   S   M
+SR2-???   Control Thoughts             [(F/2)+2]D          M   S   M
+SR2-???   Corpse Cadavre               [(F/2)+2]S          P   P   M
+SR2-???   (Critter) Form               [(F/2)+2]M          P   S   M
+SR2-???   Deafness                     [(F/2)+2]M          P   S   M
+SR2-???   Deflect                      [(F/2)+1]S          P   S   M
+SR2-???   Existential Blues            [(F/2)+2]M          M   S   I
+SR2-???   Extinguish Fire              [(F/2)+1]S          P   I   M
+SR2-???   False Memory                 [(F/2)+2]S          M   P   M
+SR2-???   Fashion                      [(F/2)+2]M          P   P   M
+SR2-???   FireFlies                    [(F/2)+2]D          P   S   M
+SR2-???   Fire Strike                  [(F/2)+3]D          P   I   M
+SR2-???   Firewall                     [(F/2)+2]D          P   S   M
+SR2-???   Fix                          [(F/2)+1]M          P   P   M
+SR2-???   Flame Aura                   [(F/2)+2]M          P   S   M
+SR2-???   Flame Barrier                [(F/2)+3]M          P   S   M
+SR2-???   Flame Bomb                   [(F/2)+1]D          P   I   M
+SR2-???   Flame Burst                  [(F/2)+1]D          P   I   M
+SR2-???   Flamethrower                 [(F/2)+1]S          P   I   M
+SR2-???   Flight                       [(F/2)+2]M          P   S   M
+SR2-???   Fling                        (F/2)M              P   I   M
+SR2-???   Flying Ball                  [(F/2)+1]S          P   I   M
+SR2-???   Forced Truth                 (F/2)M              M   S   M
+SR2-???   Freeze Water                 [(F/2)+1]S          P   I   M
+SR2-???   Gecko Crawl                  [(F/2)+1]M          P   S   M
+SR2-???   Glue                         [(F/2)+2]S          P   S   M
+SR2-???   Gravity Restriction          [(F/2)+8]D          P   S   M
+SR2-???   Heat Shield                  [(F/2)+2]M          P   S   M
+SR2-???   Hibernate                    (F/2)S              P   S   M
+SR2-???   Ice Sheet                    [(F/2)+1]S          P   I   M
+SR2-???   Ignite                       [(F/2)+2]D          P   P   M
+SR2-???   Improved Mauler v1.2         [(F/2)+4]D          P   I   M
+SR2-???   Influence                    [(F/2)+2]S          M   P   M
+SR2-???   Insect Barrier               [(F/2)+1]M          P   S   M
+SR2-???   Levitate Item                [(F/2)+1]L          P   S   M
+SR2-???   Levitate Person              [(F/2)+1]M          P   S   M
+SR2-???   Lift & Push                  (F/2)M              P   I   M
+SR2-???   Light                        [(F/2)+2]M          P   S   M
+SR2-???   Lightning                    [(F/2)+1]S          P   I   M
+SR2-???   Light Ray                    [(F/2)+1]D          M   I   M
+SR2-???   Limited Fireball             [(F/2)+1]D          P   I   M
+SR2-???   Lock                         [(F/2)+2]M          P   S   M
+SR2-???   Magesword                    [(F/2)+1]S          M   S   M
+SR2-???   Magesword II                 [(F/2)+2]S          P   S   M
+SR2-???   Magic Fingers                [(F/2)+2]M          P   S   M
+SR2-???   Makeover                     [(F/2)+2]M          P   P   M
+SR2-???   Mana Barrier                 [(F/2)+1]S          M   S   M
+SR2-???   Mental Armor                 [(F/2)+1]M          M   S   M
+SR2-???   Mental Shield                [(F/2)+1]M          M   S   M
+SR2-???   Mental Shields               [(F/2)+2]L          M   S   M
+SR2-???   Meteor Strike                [(F/2)+6]D          P   I   M
+SR2-???   Mist                         [(F/2)+2]S          P   S   M
+SR2-???   Mob Mind                     [(F/2)+3]S          M   S   M
+SR2-???   Mob Mood                     [(F/2)+2]M          M   S   M
+SR2-???   Movement                     [(F/2)+2]S          P   S   M
+SR2-???   Net                          [(F/2)+2]D          P   S   M
+SR2-???   One-Way Barrier              [(F/2)+3]M          P   S   M
+SR2-???   Pathkeeper                   [(F/2)+2]M          P   S   M
+SR2-???   Peregrine's Energy Web       (F/2)D              M   S   M
+SR2-???   Personal Barrier             [(F/2)+2]M          P   S   M
+SR2-???   Personal Blade Barrier       [(F/2)+2]L          P   S   M
+SR2-???   Personal Blast Barrier       [(F/2)+2]L          P   S   M
+SR2-???   Personal Bullet Barrier      [(F/2)+2]L          P   S   M
+SR2-???   Personal Heat Shield         [(F/2)+2]L          P   S   M
+SR2-???   Personal Mana Barrier        [(F/2)+1]M          M   S   M
+SR2-???   Personal Spell Barrier       [(F/2)+1]L          M   S   M
+SR2-???   Petrify                      [(F/2)+2]S          P   S   M
+SR2-???   Poltergeist                  [(F/2)+1]S          P   S   M
+SR2-???   Possession                   [(F/2)+3]S          M   S   M
+SR2-???   Protection From Cold         [(F/2)+1]S          P   S   M
+SR2-???   Protection From Electricity  [(F/2)+1]S          P   S   M
+SR2-???   Protection From Fire         [(F/2)+1]S          P   S   M
+SR2-???   Protection From Heat         [(F/2)+1]S          P   S   M
+SR2-???   Quickmove                    [(F/2)+1]S          P   I   M
+SR2-???   Rain: Drizzle                (F/2)L              P   S   M
+SR2-???   Rain: Steady                 (F/2)M              P   S   M
+SR2-???   Rain: Heavy                  (F/2)S              P   S   M
+SR2-???   Rain: Tropical Downpour      (F/2)D              P   S   M
+SR2-???   Rebound Magic                [(F/2)+1]S          M   S   M
+SR2-???   Rebound Melee                [(F/2)+2]S          P   S   M
+SR2-???   Remote Control               [(F/2)+1]M          P   I   M
+SR2-???   Rubber Skin                  [(F/2)+2]M          P   S   M
+SR2-???   Sap Strength                 [(F/2)+2]S          P   S   M
+SR2-???   Seal                         [(F/2)+2]S          P   S   M
+SR2-???   Shadow                       [(F/2)+2]M          P   S   M
+SR2-???   Shapechange                  [(F/2)+2]S          P   S   M
+SR2-???   Shape Earth                  [(F/2)+2]D          P   S   M
+SR2-???   Shape Water                  [(F/2)+2]D          P   S   M
+SR2-???   Small Meteors                [(F/2)+2]S          P   S   M
+SR2-???   Smoke Cloud                  [(F/2)+3]D          P   S   M
+SR2-???   Sound Barrier                [(F/2)+2]S          P   S   M
+SR2-???   Spark                        [(F/2)+1]M          P   I   M
+SR2-???   Spell Barrier                [(F/2)+1]M          M   S   M
+SR2-???   Spirit Barrier               [(F/2)+2]M          M   S   M
+SR2-???   Steel Skin                   [(F/2)+2]S          P   S   M
+SR2-???   Stoplight Control            [(F/2)+2]L          P   S   M
+SR2-???   Suffer                       [(F/2)+2]D          P   S   M
+SR2-???   Teleportation                (F/2)S              P   I   M
+SR2-???   Temper                       [(F/2)+1]M          P   S   M
+SR2-???   Temporary L Insanity         [(F/2)+3]L          M   S   M
+SR2-???   Temporary M Insanity         [(F/2)+3]M          M   S   M
+SR2-???   Temporary S Insanity         [(F/2)+3]S          M   S   M
+SR2-???   Temporary D Insanity         [(F/2)+3]D          M   S   M
+SR2-???   Terrorize                    [(F/2)+2]S          M   S   M
+SR2-???   Thunderclap                  (F/2)S              P   I   M
+SR2-???   Toxic Wave                   [(F/2)+3]D          P   I   M
+SR2-???   Transform                    [(F/2)+2]S          P   S   M
+SR2-???   Turn Marble To Bat           [(F/2)+2]L          P   S   M
+SR2-???   Turn To Goo                  [(F/2)+1]S          P   P   M
+SR2-???   Use (Skill)                  [(F/2)+3]L          P   S   M
+SR2-???   Wall Of Fire                 [(F/2)+2]S          P   S   M
+SR2-???   Warplight                    [(F/2)+3]M          P   S   M
+SR2-???   Weather Guard                [(F/2)+2]S          P   S   M
+SR2-???   Wind                         [(F/2)+1]S          P   I   M
+SR2-???   X-Ray Specs                  [(F/2)+2]M          P   S   M

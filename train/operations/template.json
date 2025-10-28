@@ -1,0 +1,27 @@
+{
+  "name": "Operation Template",
+  "description": "Template for creating custom operations",
+  "type": "interactive",
+  "query": {
+    "select": "SELECT * FROM table_name WHERE condition ORDER BY id",
+    "limit": 10
+  },
+  "steps": [
+    {
+      "type": "input",
+      "prompt": "Enter value",
+      "field": "field_name",
+      "optional": false,
+      "multiline": false
+    },
+    {
+      "type": "confirm",
+      "prompt": "Confirm action?",
+      "default": "y"
+    }
+  ],
+  "update": {
+    "query": "UPDATE table_name SET field=$1 WHERE id=$2",
+    "fields": ["field_name", "id"]
+  }
+}

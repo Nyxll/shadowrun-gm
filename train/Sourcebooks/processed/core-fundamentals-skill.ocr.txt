@@ -1,0 +1,437 @@
+# SKILLS
+
+> If you did it and lived, then you probably did it right.
+> -JKW, Freelancer
+
+When trying to accomplish something more refined than lifting a load, spotting an ambush, or running for cover, a character will normally use a **skill**. Shadowrun skills are groups of closely related techniques and knowledge, not narrow, limiting areas of function. The game takes this approach in an attempt to keep down the number of statistics. If a character uses **Concentrations** and **Specializations**, he or she has increased capability in that specialized area, but at the cost of reduced ability in the rest of the functions covered by the general skill.
+
+## SKILL RATINGS
+
+Skill ratings begin at a level of 1. There is no maximum rating, but players will find it increasingly difficult to raise their character’s skill ratings as the character improves in a particular skill. Beginning characters may not start with any skill at a rating higher than 6. Characters with no rating in a skill are considered untrained, but they may still attempt to perform a function covered by a skill in one of two ways: by using a related skill or by defaulting to an attribute. To do so, they must use the **Skill Web**, on p. 69.
+
+## SUCCESS TESTS
+
+The rules make frequent reference to **Success Tests**. To make a Success Test for a skill, use the numerical rating of the skill named for the test as the number of six-sided dice to roll. Each individual die result that equals or exceeds the specified target number is a **success**. Usually one success is enough to indicate that the character has passed the test.
+
+There are two kinds of tests. In a **success test**, the character is attempting to accomplish something without any interference. Roll the dice as described above; successes determine the effect of the skill’s use. Often, when one character is attempting to attack another character (or object), the target also makes a standard test and uses his or her successes to offset those the attacker rolled. Exactly how those successes are offset varies with the type of attack.
+
+In an **opposed test**, two characters use the same skill, or an opposing skill, against one another, with only one of them able to actually succeed in the effort. Usually, the character generating the greater number of successes achieves his goal. Negotiation is a typical situation for this type of test.
+
+Using the **Skill Success Table** as a guide, the Gamemaster determines the target number necessary for success. The rules usually specify a target number for specific skill uses. Circumstances and conditions (bad weather, stress, and so on) can change the target number.
+
+Tests for Attributes are handled in the exact same manner as for skills, where the number of dice rolled is based on the Attribute Rating.
+
+---
+
+## SKILL SUCCESS TABLE
+
+| Difficulty | Target Number |
+| :--- | :--- |
+| Simple | 2 |
+| Routine | 3 |
+| Average | 4 |
+| Challenging | 5 |
+| Difficult | 6–7 |
+| Strenuous | 8 |
+| Extreme | 9 |
+| Nearly Impossible | 10+ |
+
+---
+
+## TAKING THE TIME
+
+Characters sometimes use skills and Attributes for activities that do not have immediate results, such as fixing a car, building something, and so on. The Gamemaster determines how long such a task should take. This number is known as the **base time**. The total successes rolled in the Skill Test (each die that equals or exceeds the target number) are divided into the base time, with fractions rounded to the nearest whole time unit (2.66 hours counts as 3 hours). Thus, if a job typically takes 10 hours (the base time), and the character rolls 3 successes (10 ÷ 3 = 3.3), the task would take three hours.
+
+> Fastjack slipped the chip-puller back into its slot in his microtronics tool kit, gave it a pat, and smiled. He had just finished repairing the telecom for Sally Tsung in record time.
+> Fastjack, the legendary decker, has just finished a task using his Electronics (Build/Repair) Skill, which has a Rating of 7. The Gamemaster had assigned a base time of 10 hours for the job, based on his assessment of the modifications Fastjack wanted to include and a Target Number of 4. The decker rolled successes with 4 of his 7 dice (10 ÷ 4 = 2.5, which rounds up to 3). He finishes the job in three hours.
+
+## THE SKILL WEB
+
+Almost every skill is related to one or more other skills by a network of relationships called the **Skill Web**. Using the web allows characters with one skill to better perform functions properly belonging to another skill. They will, of course, not be as likely to succeed at their task as someone who has the proper skill.
+
+There are two ways to use the Skill Web: by using a related skill or defaulting to an Attribute.
+
+When using a **related skill**, trace a path from the desired skill to one in which the character has a rating. It is not necessary to trace the shortest path. Count the number of circles passed, with each circle increasing the target number by +2.
+
+When **defaulting to an Attribute**, go to the desired Attribute’s position on the web and trace a path from it to the listing for the desired skill. Again, each circle passed in tracing the path adds an additional +2 to the target number. (No one ever said it would be easy.)
+
+It is only possible to trace a path in the direction of the arrows. If a player encounters an arrow pointing in a direction opposite to the path he or she is tracing when moving from skill to skill, or Attribute to skill, that path is blocked. He must find another way. Some skills simply do not connect to other skills or to some Attributes.
+
+## CONCENTRATIONS AND SPECIALIZATIONS
+
+Players have the option of giving their character a Concentration in a particular form of a skill, i.e., the character has spent most of his or her study and practice time on mastering that form of the skill. By narrowing his focus this way, the character obviously cannot give as much attention to related forms. For example, two characters who have the same ratings in Stealth will have different effective ratings if one of them Concentrates in Stealth (Urban). The urban fellow will be better than the other guy on the city streets, but worse in the wilderness.
+
+Characters who have Concentrated in a skill have that skill at one point higher than the general skill that normally governs it. At the same time, the rating of the general skill is reduced by 1. For example, a character with a Firearms (the general skill) Rating of 5, who has Concentrated in Submachine Guns (SMG) (one of the possible Concentrations) ends up with an SMG Rating of 6 (5 + 1) and a Firearms Rating of 4 (5 - 1). Thus, any time the character uses an SMG, the player rolls 6 dice. If the character uses another type of firearm (rifle, pistol, and so on), he would only roll four dice.
+
+Specialization takes the process one step further, narrowing the character’s skill to a particular item or activity. Use of a Specialized skill adds +2 to the original general skill rating (which, in turn, is reduced by 2 points). At the same time, the character gains a Concentration governing the Specialization at a rating equal to the original general skill rating. If the character in the above example Specialized in Uzi III (a type of SMG), he would have ended up with a Uzi III Rating of 7, an SMG Rating of 5 (the Concentration equal to the original rating), and Firearms Skill Rating of 3.
+
+A Specialization is usually listed in parentheses after the skill name. All these numerical gymnastics are relevant only during character creation, when players are determining their characters’ starting skills (see p. 45). Once the game has begun, skill advancement is handled according to the Karma rules on p. 190. Starting characters are allowed only one Concentration and one Specialization per skill. When referring to the Skill Web, use only the general skill rating, never a Concentration or Specialization rating.
+
+## SKILL CATEGORIES
+
+Shadowrun groups skills into five broad categories: Active, Build and Repair, Knowledge, Languages, and Special Skills. All have ratings that improve as the character becomes more experienced. The description of each skill includes a list of suggested Concentrations. Players can create others subject to Gamemaster approval. Possible Specializations appear in parentheses after the Concentration name. Other Specializations can also be created with the Gamemaster’s approval.
+
+### Active Skills
+
+Active Skills usually apply toward achieving a specific, short-term result such as hitting a target with a weapon, performing a difficult maneuver in a vehicle, climbing a wall, casting a spell, and so forth. These skills also involve some form of active, physical activity. An Active Skill includes maintenance of equipment commonly needed to use the skill and includes the user’s understanding of the skill’s application. An Active Skill does not include the ability to design new equipment. To simplify the use of the Skill Web, active skills are arranged into groups, which makes it easier to see which skills are related.
+
+### Combat Skills
+
+Most Combat Skills have the designation “SW” in parenthesis. This means that the character can choose to Specialize in any specific weapon (SW) from the Concentration group.
+
+* **Armed Combat**: Armed Combat Skill governs the use of hand-held melee weapons.
+    * **Concentrations**: Edged Weapons (SW), Pole Arms/Staff (SW), Whips/Flails (SW), Clubs (SW)
+* **Unarmed Combat**: Unarmed Combat Skill governs the use of martial arts techniques and implant weapons. A Concentration for Martial Arts Style (with a Specialization for specific techniques) is listed below. This Concentration (e.g., tae kwon do) and Specialization (hand strikes) is only appropriate for use in the game when both the player and Gamemaster understand the specifics of the desired style, including its forms and limitations.
+    * **Concentrations**: Subduing Combat, Cyber-Implant Weaponry (SW), Martial Arts Style (Specific Technique)
+* **Demolition**: Demolition Skill governs the preparation, measuring, and setting of chemical explosives.
+    * **Concentrations**: Commercial Explosives, Plastic Explosives
+* **Firearms**: Firearms Skill governs the use of all types of firearms, from pistols to grenade launchers.
+    * **Concentrations**: Pistols (SW), Rifles (SW), Submachine Guns (SW), Light Machine Guns (SW), Grenade Launchers (SW), Tasers (SW)
+* **Gunnery**: Gunnery Skill governs the use of heavy weapons, whether on tripods, vehicle mounts, pintles, or in fixed emplacements.
+    * **Concentrations**: Machine Guns (SW), Missile/Rocket Launchers (SW), Assault Cannon (SW), Vehicle-Mounted Cannon (SW)
+* **Projectile Weapons**: Projectile Weapons govern the use of muscle-powered projectile weapons.
+    * **Concentrations**: Bows (SW), Crossbows (SW)
+* **Throwing Weapons**: Throwing Weapons govern the use of weapons thrown by the user.
+    * **Concentrations**: Shafted (SW), Non-Aerodynamic (Grenades, Knives), Aerodynamic (Shuriken, Airfoil Grenades)
+
+### Physical Skills
+
+Physical Skills require agility and general body control, strength, and stamina. A character’s load has a large effect on his Physical Skills. See Behind the Scenes, p. 185, for more details.
+
+* **Athletics**: Athletics Skill governs exceptional training in a particular aspect of physical endeavor. Specialization involves increasing one’s Concentration, rather than working in a specific form. Thus, a character Specializing in Climbing applies +2 to his Athletics Rating when climbing and -2 when using a different Athletics Concentration.
+    * **Concentrations**: Running, Climbing, Lifting, Jumping, Swimming
+* **Stealth**: Stealth Skill governs sneaking around, moving quietly, tracking (and covering one’s tracks), secretly trailing another character, or giving a tail the shake. Each aspect of the skill may become a Specialization for any environmental Concentration.
+    * **Concentrations**: Urban (by aspect), Wilderness (by aspect), Farmland (by aspect)
+
+### Technical Skills
+
+Technical Skills deal with all types of machines, including electronics and those implanted into the body.
+
+* **Biotech**: Biotech Skill governs basic medicine, first aid, and implant operations. A character with this skill understands basic medicine in a hands-on sense, as a paramedic rather than a physician. Though familiar with the techniques and materials of cyberware, a character with this skill would still need a computer expert to collaborate on the interface systems.
+    * **Concentrations**: Transimplant Surgery (Headware, Bodyware, Organic Replacements), Organ Culture (by organ or limb), Replacement Construction (by organ or limb), Extended Care, First Aid
+* **Computer**: Computer Skill governs the use and understanding of computer technology and programming. This skill is absolutely essential to anyone who wishes to jack into cyberspace and run the Matrix.
+    * **Concentrations**: Hardware (Mainframes, Micros, Interface Tech, Implant Tech), Software (Decking, Matrix Programming, Non-Matrix Programming, Interface Programming, Implant Programming)
+* **Electronics**: Electronics Skill governs the use and understanding of electronic devices, which, in the 2050s, is most everything in common use in a city. Specialization involves increasing the depth of Concentration, as in Athletics. Thus, Specializing in Maglocks applies a +2 to that Concentration but a -2 to all other Electronics Concentrations.
+    * **Concentrations**: Control Systems, Electronic Warfare, Maglocks, Linking between Devices, Diagnostics
+
+### Magical Skills
+
+Anyone may study Magical Skills for the inherent knowledge, but only a Magician can use these skills to manipulate magical energy. See the Magic Chapter, p. 116, for full details.
+
+* **Conjuring**: Conjuring Skill governs the calling and banishing of spirit powers. Only Mages can call elementals, and only Shamans can call nature spirits.
+    * **Concentrations**: Elemental (Type), Nature Spirit (Type)
+* **Sorcery**: Sorcery Skill governs the control of magical energy in the form of spells.
+    * **Concentrations**: Spellcasting (by Spell Category), Ritual Sorcery (by Spell Category)
+
+### Social Skills
+
+Social Skills concern the interaction of the player characters and non-player characters. For interaction among player characters, the players should rely on their real social skills, though they can request, or the Gamemaster insist, that the actual interaction be backed up with a skill test.
+
+* **Etiquette**: Etiquette is a special kind of skill that requires a Concentration. Each Concentration represents a particular subculture. Etiquette Skill allows a character to function within the subculture without appearing out of place. It also allows the character to recognize prominent figures within the subculture and to have a general idea of their strengths, weaknesses, likes, and dislikes. Attempting to manipulate someone within a subculture by using Etiquette Skill uses the subject’s Charisma Rating as a target number. Specializations of Etiquette differ with the subcultures. A Concentration of Etiquette (Street) would have Specializations in each gang, criminal elements, and so on. Particular tribes, specific tribal interests, or inter-tribal politics would be appropriate Specializations for Etiquette (Tribal). Particular corporations, corporate hirelings, and inter-corporate relations apply to Etiquette (Corporate).
+    * **Concentrations**: Corporate, Matrix, Media, Street, Tribal
+* **Interrogation**: Interrogation Skill governs the extraction of information from an unwilling subject. It uses the subject’s Willpower Rating as a target number. It is usually ineffective when applied against more than a single subject at a time.
+    * **Concentrations**: Verbal, Machine-Aided (Lie Detectors, Voice-Stress Analysis)
+* **Leadership**: Leadership Skill governs a character’s ability to get others to do his bidding through the exercise of example and authority. It includes an aspect of problem-solving, but is not intended to substitute for clear thinking and good planning on the part of the players. Leadership skill uses the subject’s Intelligence Rating as a target number.
+    * **Concentrations**: Political, Military, Commercial (Specializations for each Concentration include Strategy (general plans), Tactics (topical plans), and Morale)
+* **Negotiation**: Negotiation Skill governs any interactions in which each side seeks to come out ahead, either through careful and deliberate bartering or through fast talk. It uses the adversary’s Willpower Rating as a target number.
+    * **Concentrations**: Bargain, Bribe, Fast Talk
+
+### Vehicle Skills
+
+The type of vehicle in use and the driver’s familiarity with it affect the chance of success when a character attempts a difficult maneuver or takes the vehicle through difficult terrain and conditions. Ordinary operation of the vehicle requires no die roll. In fact, many 21st-century vehicles can operate almost on their own. Most Vehicle Skills have a Concentration of Remote Operation. This refers to vehicles whose operator is not present during the vehicle’s operation. The vehicle responds to transmitted orders. Specialization in a Remote Operation Concentration specifies a Concentration category, not a specific vehicle (SV).
+
+* **Bike**: Bike Skill governs the use of all motorcycles, motortrikes, and bikes with sidecars.
+    * **Concentrations**: Two-wheeler (SV), Three-wheeler (SV), Racing (SV)
+* **Car**: Car Skill refers to a motor vehicle with four or more wheels.
+    * **Concentrations**: Passenger Vehicle (SV), Truck (SV), Racing (SV), Remote Operation (Category)
+* **Hovercraft**: Hovercraft Skill governs all hover vehicles, regardless of their purpose.
+    * **Concentrations**: Passenger Craft (SV), Transport Craft (SV), Racing (SV), Remote Operation (Category)
+* **Motorboat**: Motorboat Skill refers to any motorized watercraft.
+    * **Concentrations**: Pleasure Craft (SV), Transport (SV), Racing (SV), Remote Operation (Category)
+* **Rotor Craft**: Rotor Craft Skill refers to fixed- and tilt-rotor aircraft.
+    * **Concentrations**: Tilt-Rotor (SV), Fixed-Rotor (SV), Remote Operation (Category)
+* **Sailboat**: Sailboat Skill governs the control of sail-powered watercraft.
+    * **Concentrations**: Pleasure Craft (SV), Transport (SV), Racing (SV)
+* **Vectored Thrust**: Vectored Thrust Skill encompasses aircraft relying on vectored thrust for lift and propulsion. This includes low-altitude vehicles (known colloquially as thunderbirds), military craft that use this motive power but do not normally operate at altitude because of their heavy loads or armor and armament.
+    * **Concentrations**: Vertical Take-Off and Landing (SV), LAV Craft (SV), Remote Operation (Category)
+* **Winged Plane**: Winged Plane Skill governs the control of fixed- or swing-wing aircraft (jet, prop, or turbo prop) and unpowered aircraft.
+    * **Concentrations**: Gliders (SV), Jets (SV), Propellers (SV), Racing (SV), Remote Operation (Category)
+
+---
+
+## BUILD AND REPAIR SKILLS
+
+There is a corresponding **Build/Repair (B/R) Skill** for many of the Active Skills. The B/R counterpart implies the character’s access to the tools and/or equipment commonly used in that skill area. Thus, Armed Combat (B/R) allows a character to make or repair swords and other melee weapons. Ground Vehicles (B/R) allows him to repair a car, a bike, or a hovercraft equally well.
+
+The character still needs time, tools, and materials to build something from scratch. Even a character with superb levels of skill can do little without the proper equipment. If the character is trying to build something new, he or she also needs theoretical knowledge to design the item, unless someone else provides a detailed blueprint for its construction. See Behind the Scenes for details on how to use Build and Repair Skills.
+
+Concentrations for Build/Repair Skills refer to types of equipment when they relate to named skills, and to the category of equipment when they apply to groups of skills. Thus, a Concentration in Armed Combat (B/R) works for Edged Weapons but not for other melee weapons, and a Concentration in Ground Vehicles (B/R) might be Bikes, but not include Car and Hovercraft.
+
+If a Build/Repair Skill is available, it will be to the general skill, and separated by only one circle on the Skill Web.
+
+---
+
+## KNOWLEDGE SKILLS
+
+**Knowledge Skills** give a character access to specific information. This is especially useful when the character is an expert in a field in which the player is ignorant. Many Knowledge Skills also provide the character with the theoretical basis of actions related to the field of study and the basis for new designs in an area.
+
+* **Biology**: Biology Skill covers the general life sciences. Specializations include all the specific branches of each discipline, which are too numerous to list here.
+    * **Concentrations**: Zoology, Botany, Medicine, Parazoology, Parabotany
+* **Computer Theory**: Computer Theory Skill governs computer design and architecture.
+    * **Concentrations**: Hardware (Mainframes, Micros, Interface Tech, Implant Tech), Software (Decking, Matrix Programming, Non-Matrix Programming, Interface Programming, Implant Programming), Matrix Theory
+* **Cybertechnology**: Cybertechnology Skill covers the design of implant and cybernetic control technology. Specializations are available for specific devices (SD).
+    * **Concentrations**: Headware (SD), Bodyware (SD)
+* **Magical Theory**: Magical Theory includes a general understanding of the functions and functioning of magic. It is vital in the design of new spells.
+    * **Concentrations**: Design (Shamanic, Hermetic), History (by Continent)
+* **Military Theory**: Military Theory covers theoretical studies of men in combat and military organizations.
+    * **Concentrations**: Military History (by continent or period), Tactics (Air, Land, Sea)
+* **Physical Sciences**: This skill includes engineering as well as the physical sciences. Specializations are the various branches of each discipline, which are too numerous to list here.
+    * **Concentrations**: Engineering, Physics, Chemistry, Geology
+* **Psychology**: Psychology includes the behavioral science in its analytical and predictive forms. Specializations are for specific types of behavior and personality types.
+    * **Concentrations**: Individual Behavior, Group Behavior, Deviant Behavior
+* **Sociology**: Sociology covers historical and observational sciences concerning humans and human interactions. Specializations are by continent or culture.
+    * **Concentrations**: History, Anthropology, Archaeology
+
+---
+
+## LANGUAGE SKILLS
+
+**Language Skills** are an exception to the basic skills rule because each specific language is a Specialization of a family of languages. Thus, a character will have some facility with languages related to his specific language, but will not be fluent in additional languages within that family unless he or she also acquires Specializations in those languages. Different language families are not considered to be related.
+
+When language Specializations are taken as part of character generation, the Specialization Ratings automatically increase by +2. The language family, as the equivalent of the general skill, would have a skill rating of 4 less than the Language Rating itself. Any modified rating less than 1 is treated as a 1.
+
+Players should note that there are no formal troll, dwarf, or ork languages. These characters use the languages of their mothers and fathers, most of whom are human. These groups may often speak a kind of patois, however.
+
+Each language family is listed in bold type, followed by the specific languages.
+
+* **Algonkian**: Algonkin, Arapaho, Blackfoot, Cheyenne, Cree, Micmac, Mohican, Ojibwa, Shawnee, Wiyot, Yurok
+* **Armenian**
+* **Athabascan**: Apache, Chipewyan, Navaho
+* **Baltic**: Estonian, Latvian (Lettish), Lithuanian
+* **Basque**
+* **Caddoan**: Caddo, Pawnee, Wichita
+* **Celtic**: Breton, Irish Gaelic, Scottish Gaelic, Welsh
+* **Chukchi**
+* **Common Tongues and Hybrids**: City Speak (see Special Languages, below), Esperanto, Interlingua
+* **Dravidian**: Gondi, Kannada, Kurukh, Malayalam, Tamil, Telugu, Tulu
+* **Elvish**: See Special Languages, below
+* **Eskimo**
+* **Finnic**: Cheremis, Finnish, Karelian, Lapp, Livonian, Mordvin, Veps, Votyak, Zyrian
+* **Germanic**: Afrikaans, Danish, Dutch, English, Flemish, German, Icelandic, Norwegian, Swedish, Yiddish
+* **Greek**
+* **Hamitic**: Beja, Berber, Galla, Hausa (Chadic), Somali, Tuareg
+* **Indic**: Assamese, Bengali, Bhili, Gujarati, Hindi, Konkani, Marathi, Oriya, Punjabi, Rajasthani, Sindhi, Sinhalese, Urdu
+* **Indo-Iranian**: Baluchi, Kurdish, Persian (Farsi), Pushtu
+* **Iroquoian**: Cayuga, Cherokee, Erie, Huron, Iroquois, Mohawk, Onandago, Oneida, Seneca, Tuscarora
+* **Japanese**
+* **Khoisan**: Bushman, Hadza, Hottentot, Nama, Sandawe
+* **Korean**
+* **Malayo-Polynesian**: Bahasa, Cebuano, Ilocano, Javanese, Kiriwina, Madurese, Malayan, Maori, Melanesian, Micronesian, Misima, Panay-Hilgaynon, Polynesian, Samar-Leyte, Samoan, Sundanese, Tagalog, Taluga
+* **Mayan**: Guatemala, Kekchi, Mam, Quiché-Tzutujil-Cakchique, Yucatan
+* **Mon-Khmer (Annamite)**: Cambodian (Khmer), Mon, Vietnamese (Annamese)
+* **Mongolic**: Khalkha (Mongolian)
+* **Muskhogean**: Chickasaw, Choctaw, Creek, Seminole
+* **Niger-Kordofanian (Bantu)**: Anyi, Ashanti, Azande, Bassa, Baule, Bemba, Birom, Bulu, Efik, Ewe, Fang, Fante, Fula, Ganda, Ibo, Igbo, Kikuyu, Kituba, Kongo, Kpele, Kru, Luba, Lunda, Makua, Mande, Mbundu, Mende, More, Mossi, Ngala, Nghaudi, Nyamwezi-Sukuma, Nyanja, Rundi, Rwanda, Shona, Sotho, Sukuma, Swahili, Temne, Tiv, Tswana, Twi, Wolof, Xhosa, Yao, Yoruba, Zande, Zulu
+* **Nilotic**: Bagirmi, Dinka, Fur, Kanembu, Kanuri, Koman, Luo, Maban, Masai, Nuer, Sango, Shilluk, Songhai, Wadai
+* **Oto-Manguan**: Mixtec, Otomi, Zapotec
+* **Papuan**: Dayak, Negrito, Papu
+* **Romance**: Catalan, French, Galician, Italian, Portuguese, Provençal, Rumanian, Spanish
+* **Salish**: Chehalis, Okanagon, Salish
+* **Semitic**: Amharic, Arabic, Harari, Hebrew, Neo-Aramaic, Tigré, Tigrinya
+* **Sino-Tibetan**: Burmese, Cantonese, Hakka, Kashmiri, Lao, Mandarin, Min, Nepali, Shan, Thai, Tibetan, Wu, Yueh
+* **Siouan**: Catawba, Crow, Dakota, Hidatsa, Omaha, Osage
+* **Slavic**: Bulgarian, Belorussian, Czech, Georgian, Macedonian, Polish, Russian, Serbo-Croatian, Slovak, Slovene, Ukrainian
+* **South American Indian**: Arowakan, Cariban, Quechua, Tupi-Guarani, many others
+* **Tlingit**
+* **Tsimshian**
+* **Tungus**
+* **Turkic**: Azerbaijani, Chuvash, Kazakh, Kirghiz, Tatar, Turki, Turkish, Uzbek, Yakut
+* **Ugric**: Magyar (Hungarian), Ostyak, Vogul
+* **Uto-Aztecan**: Aztec, Comanche, Hopi, Paiute, Papago, Pima, Shoshoni, Ute
+* **Zuni**
+
+### SPECIAL LANGUAGES
+
+**City Speak** is one of several languages that are not part of any formal language group. **Elvish**, known more formally as **Sperethiel**, has been gaining popularity in recent years. Linguists who have studied the language’s form and content can find no direct connections to existing language groups, though apparent derivations exist in Sperethiel’s structure and style. The language apparently first came into use shortly after the founding of Tir Tairngire. As stated above, orks, trolls, dwarfs, and other groups that commonly live together in certain neighborhoods may frequently develop their own informal patois.
+
+---
+
+## SPECIAL SKILLS
+
+**Special Skills** is a catch-all category of skills intended to round out a character as an individual. These include hobbies, interests, artistic endeavors, and other unique skills. Be creative.
+
+---
+
+## SKILL TABLE
+
+### Combat Skills
+
+* **Armed Combat**
+    * Clubs (SW)
+    * Edged Weapons (SW)
+    * Pole Arms/Staff (SW)
+    * Whips/Flails (SW)
+* **Demolitions**
+    * Commercial Explosives
+    * Plastic Explosives
+* **Firearms**
+    * Grenade Launchers (SW)
+    * Light Machine Guns (SW)
+    * Pistols (SW)
+    * Rifles (SW)
+    * Submachine Guns (SW)
+    * Tasers (SW)
+* **Gunnery**
+    * Assault Cannon (SW)
+    * Machine Guns (SW)
+    * Missile/Rocket Launchers (SW)
+    * Vehicle-Mounted Cannon (SW)
+* **Projectile Weapons**
+    * Bows (SW)
+    * Crossbows (SW)
+* **Throwing Weapons**
+    * Aerodynamic (Shuriken, Airfoil Grenades)
+    * Non-Aerodynamic (Grenades, Knives)
+    * Shafted (SW)
+* **Unarmed Combat**
+    * Cyber-Implant Weaponry (SW)
+    * Martial Arts Style (Specific Technique)
+    * Subduing Combat
+
+### Physical Skills
+
+* **Athletics**
+    * Climbing
+    * Jumping
+    * Lifting
+    * Running
+    * Swimming
+* **Stealth**
+    * Farmland (by aspect)
+    * Urban (by aspect)
+    * Wilderness (by aspect)
+
+### Magical Skills
+
+* **Conjuring**
+    * Elemental (Type)
+    * Nature Spirit (Type)
+* **Sorcery**
+    * Ritual Sorcery (by Spell Category)
+    * Spellcasting (by Spell Category)
+
+### Technical Skills
+
+* **Biotech**
+    * Extended Care
+    * First Aid
+    * Organ Culture (by Organ or Limb)
+    * Replacement Construction (by Organ or Limb)
+    * Transimplant Surgery (Headware, Bodyware, Organic Replacements)
+* **Computer**
+    * Hardware (Mainframes, Micros, Interface Tech, Implant Tech)
+    * Software (Decking, Matrix Programming, Non-Matrix Programming, Interface Programming, Implant Programming)
+* **Electronics**
+    * Control Systems
+    * Diagnostics
+    * Electronic Warfare
+    * Linking between Devices
+    * Maglocks
+
+### Social Skills
+
+* **Etiquette**
+    * Corporate
+    * Matrix
+    * Media
+    * Street
+    * Tribal
+* **Interrogation**
+    * Machine-Aided (Lie Detectors, Voice-Stress Analysis)
+    * Verbal
+* **Leadership**
+    * Commercial (Specializations for each concentration include Strategy (general plans), Tactics (topical plans), and Morale)
+    * Military
+    * Political
+* **Negotiation**
+    * Bargain
+    * Bribe
+    * Fast Talk
+
+### Vehicle Skills
+
+* **Bike**
+    * Racing (SV)
+    * Two-wheeler (SV)
+    * Three-wheeler (SV)
+* **Car**
+    * Passenger Vehicle (SV)
+    * Racing (SV)
+    * Remote Operation (Category)
+    * Truck (SV)
+* **Hovercraft**
+    * Passenger Craft (SV)
+    * Racing (SV)
+    * Remote Operation (Category)
+    * Transport Craft (SV)
+* **Motorboat**
+    * Pleasure Craft (SV)
+    * Racing (SV)
+    * Remote Operation (Category)
+    * Transport (SV)
+* **Rotor Craft**
+    * Fixed-Rotor (SV)
+    * Remote Operation (Category)
+    * Tilt-Rotor (SV)
+* **Sailboat**
+    * Pleasure Craft (SV)
+    * Racing (SV)
+    * Transport (SV)
+* **Vectored Thrust**
+    * LAV Craft (SV)
+    * Remote Operation (Category)
+    * Vertical Take-Off and Landing (SV)
+* **Winged Planes**
+    * Gliders (SV)
+    * Jets (SV)
+    * Propellers (SV)
+    * Racing (SV)
+    * Remote Operation (Category)
+
+---
+
+### Knowledge Skills
+
+* **Biology**
+    * Botany
+    * Medicine
+    * Parabotany
+    * Parazoology
+    * Zoology
+* **Computer Theory**
+    * Hardware (Mainframes, Micros, Interface Tech, Implant Tech)
+    * Matrix Theory
+    * Software (Decking, Matrix Programming, Non-Matrix Programming, Interface Programming, Implant Programming)
+* **Cybertechnology**
+    * Bodyware (SD)
+    * Headware (SD)
+* **Magical Theory**
+    * Design (Shamanic, Hermetic)
+    * History (by Continent)
+* **Military Theory**
+    * Military History (by Continent or Period)
+    * Tactics (Air, Land, Sea)
+* **Physical Sciences**
+    * Chemistry
+    * Engineering
+    * Geology
+    * Physics
+* **Psychology**
+    * Deviant Behavior
+    * Group Behavior
+    * Individual Behavior
+* **Sociology**
+    * Anthropology
+    * Archaeology
+    * History
+

@@ -28,6 +28,7 @@ pids/
 # OCR source files (large files)
 ocr-sources/*.txt
 ocr-sources/*.pdf
+train/*.*
 
 # Processed chunks (can be regenerated)
 processed-chunks.json
@@ -72,3 +73,19 @@ coverage/
 
 # Archive folder (one-time scripts and backups)
 archive/
+
+# Documentation archive
+docs/archive/
+
+# Test artifacts
+test-failure-*.png
+playwright-report/
+test-results/
+
+# Database exports (may contain sensitive data)
+supabase-schema.sql
+supabase-data.sql
+
+# Character sheets (generated from database)
+characters/*.md
+!characters/README.md

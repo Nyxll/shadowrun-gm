@@ -1,0 +1,424 @@
+### HOW TO HIRE A SHADOWRUNNER
+
+Just about everyone on this board thinks he or she knows everything there is to know about shadowrunning. You take a job from Mr. Johnson, do your homework, go on the run and get paid when you're finished (assuming you live). You blow your hard-earned nuyen on some nifty toys that extend your lifespan while shortening your opposition's, and as you're buying them through your fixer, you let her know you're available again. She puts out feelers and sets up a meet when she finds something promising. Repeat cycle until further notice.
+
+It's true that shadowrunning tends to follow this pattern. So it's important to recognize the biggest link in this circular chain-the Johnson. Without those shady characters to give runners an income and something to do at 02:38 on a Wednesday night, the cycle stops. Joe Runner, desperate and credless, knocks over a Stuffer Shack for groceries and "rent" money to pay the local gangers. At 02:40 Joe Runner gets capped by the overly nervous clerk with the Mossberg behind the counter, or by a random customer with Shiawase's May 2055 batch of wired flexes who never paid attention to the recall, Joe-boy ends up cremated and dumped into a nearby lake, to become an integral part of the hard rain that eats away layers of paint on our cars and homes.
+
+Okay, maybe I'm going a bit overboard-but clearly, without Mr. Johnsons there is no shadowrunning biz. Like it or not, we depend on these people for our livelihoods. So, as the latest in a long line of public services (for which I rarely get the thanks I deserve), I offer this post-snagged by my ever-helpful friend J.J.-as an example of the kind of drek to expect from the average Johnson. This E-pamphlet crawled out of the brain of William Ager, veep hopeful to Kenneth Brackhaven (may they both burn in Hell). Before his fifteen seconds of fame, Mr. Ager worked for Fuchi America's New York office as Head Resources Adjuster (read: "professional Johnson"). My personal experience has given me every reason to see this inspiring piece of work as typical of Johnsons in general, even though the details may differ from Johnson to Johnson or corp to corp-so everybody read to the end of the paragraph, 'kay? Stuff like this could save your hoop, or at least get you an extra five percent in advance. And if you ever deal with Mr. Ager, you'll know exactly what to expect.
+
+  * Captain Chaos Transmitted: 18 September 2057 at 20:33:13 (EST)
+
+  * Headzup, folks- I'm only going to post this once. Within three hours of putting this thing online, it had garnered nearly 800 comments. The file expanded to 14,000% of its original size because so many people had so much to add. That made for a fragging BIG post, and we just can't spare the room right now. So I did some judicious editing. All the comments that appeared within the first thirty minutes of posting I've left untouched, as word hadn't spread to every fragging bithead in the world until after an hour or so went by. The rest, I moved to a new SIG under Ager E-Pamphlet: Open Forum. If you want to say anything, say it there. But don't try to edit this file, unless you're dying to experience some bleeding-edge IC that our SS friends like to call "Cascade Ork." You've been warned.
+
+  * Captain Chaos Transmitted: 19 September 2057 at 02:50:21 (EST)
+    FUCHI INDUSTRIAL ELECTRONICS E-MAIL SYSTEM v6.011
+    FUCHI AMERICA BRANCH ... "We Love America\!"
+
+TO: \<\< NULL FIELD\>\>
+FROM: William T. Ager
+OF: \<\< NULL FIELD\>\>
+OF: Resource Adjustment Division
+SUBJECT: Resources Adjustment Division information
+DATE: \<\< NULL FIELD\>\>
+THOUGHT FOR THE DAY: "Gyo kan o yomu"-Read between the lines
+
+Congratulations on your recent achievements for Fuchi America\! Because you have exhibited exceptional loyalty to Fuchi America and Fuchi Industrial Electronics, \>\>RETRIEVE\_subject-advance-type: \<\< (PROMOTION | SEC\_LEVEL\_RAISE | REFERRAL)? REFERRAL\>\> you are now qualified to use the Resources Adjustment Department, courtesy of \>\>RETRIEVE\_subject-referral-REFERRED-BY: \<\< NULL FIELD\>\> : \<\< INSERTING DEFAULT\>\> your superiors. This E-pamphlet describes the workings of the Resources Adjustment Department (RAD) and will answer any questions you may have about this important department.
+
+IMPORTANT\! The RAD falls under Security Level OME49-AA, Subheading 3G. If you divulge the RAD's existence to anyone not cleared for Security Level OME49 or greater, \>\>RETRIEVE\_subject-standing :\<\< [AVERAGE | EXCELLENT | SUPERIOR]? AVERAGE\>\> you will be summarily executed, your SIN purged from all company records, and your family deported from and permanently barred entry to all property or properties owned by Fuchi Industrial Electronics and/or any subsidiaries of Fuchi Industrial Electronics.
+
+As part of our mandate to help our clients as far as our budget and department charter permit, we have included a list of "Frequently Asked Questions" about the Resources Adjustment Department. To refer to these questions in the future, and for a detailed discription of the RAD's inner workings, connect to NA/[UCAS-NE.fuchi.com/pub/faq/restricted/RAD.doc](https://www.google.com/search?q=https://UCAS-NE.fuchi.com/pub/faq/restricted/RAD.doc). Supply your password for access.
+
+  * Incidentally, the programmer left a backdoor. Only the drek-hot need apply, but if you can pick your way through the subsystems, you'll find a unidirectional dataline that appears at 01:40:34 for exactly three seconds on the ninth and twenty-fourth of each month. If you dive through it, the line'll dump you into a Green-4 datastore with four more unidirectionals leading into it. The datastore connects to nothing. The data is protected by Tar Baby-8, but the IC will let you pass if you give the password, "Nadja Daviar has luscious gams." Other than the Probe-3 in the node, it should be smooth decking.
+
+  * Webster Was A Patsy
+
+  * "Luscious gams"? Those corp programmers don't get out much.
+
+  * Marabellum@pip.cc.brandeis.edu
+
+  * And us non-corp deckers do?\>\>DISPLAY\_big-cheesy-grin
+
+  * DarkElf@NA/CAS-SB.watt.seas,virginia.edu
+
+### WHY SHOULD I USE THE RAD?
+
+The Resources Adjustment Department exists to provide outside personnel who can perform various specilized services for our clients. Supplemental resources-"shadowrunners," to use the vulgar term-are available through the RAD to accomplish tasks that Fuchi America's official assets cannot perform because of questionable legality, lack of departmental funds, insufficient border clearance to enter other sovereign nations or corporate nation-states, and other such inconveniences. Our goal is to provide you with non-Fuchi personnel who can assist you as needed to help you maximize Fuchi America's profits with a minimum of exposure or personal danger to yourself and other Fuchi employees.
+
+  * Minimum risk for Fuchi's pet people, maximum risk for us. How d'ya like them soycakes?
+  * KOSs@NA/UCAS-MW.heartland.org
+  * What-you got into this business not knowing that maiming or death are the most likely ends to your career? What chip are you slotting, and where can I avoid it?
+  * Chelle@NA/UCAS-NE.rime.swith.hell.com
+
+### WHOM DO I HIRE?
+
+Whenever you need outside help, the RAD makes hiring easy for you\! We search our databases for unofficial assets whose track records most closely match your stated needs. The RAD then contacts these assets through intermediaries and informs them of your job offer. Finally, RAD staffers arrange a suitable meeting time and place. Then the RAD steps out of the picture unless directed otherwise. If you feel that attending the meeting in person constitutes an unacceptable risk to your or your department's security, a RAD representative will attend the meeting in your stead.
+
+  * This means that if the actual Johnson is afraid to meet because he thinks somebody'Il geek him, they'll send one of their "officially unofficial" slots in lieu of the paranoid J. Or the Johnson thinks he can't show his face because someone is tracking his movements, so he uses the anonymous stooge to do his dirty work while he camps out in his fancy doss. Or the Johnson can't make the meet because he's indulging in a little "late-night account balancing" with his secretary or the tea lady, but he needs the deal to go down RIGHT FRAGGING NOW. Whatever the reason, keep in mind that any J. hiring you may be one of these RAD people. If so, then for fragging sure everything isn't os it seems. Come to think of it, that's how it works most times (in my experience).
+
+  * Kotick
+
+  * I did some digging to check if this e-pamph was legit, and even in the blackest of Fuchi's black heart there's NO MENTION of the RAD. Maybe Cap's friend J.J. is just yankin' his crank or something.
+
+  * Todd@NA/UCAS-NE.rime.swith.god.com
+
+  * Sorry to disappoint you, Todd, but it's a straight-arrow doc. The security clearance on this file is OME49-AA. The prefix OME stands for "Omega," which is the highest-rated security level Fuchi uses (that we know of). Anything with Omega clearance is kept on-site in a closed system. It cannot be transferred to a system that doesn't have Omega status. If anyone attempts to do so, the internal code destroys the file and tries to take down the non-Omega system (your cyberdeck). Omega systems have special circuitry hardwired into all optical chips, datalines, etc. that integrate with all files. So attempting to copy the RAD.doc file to a local system will only result in much fuss and lost nuyen. Don't bother trying.
+
+  * Webster Was A Patsy
+
+  * How much would it cost to outfit my deck with this "Omega" circuitry? If things work out, I may be going on-site in the next month or so.
+
+  * Mcleod@NA/UCAS-MW.tmo.com
+    More than you could afford. I ended up "borrowing" a Fuchi-7 from a very surprised secretary after the Omega circuitry slagged my deck. I didn't realize until after the run why the wageslave's out-of-date, off-the-shelf, poor-excuse-for-a-real-cyberdeck could snag the files I wanted when my half-million-in-accessories, homecooked, state-of-the-fragging-art deck-from-hell literally fried in my hands. At least the nuyen we pulled will more than make up for a replacement.
+
+  * J.J. Flash
+
+  * If Omega stuff can only be transferred to other Omega stuff, how'd you get this file onto the board without it crashing Shadowland?
+
+  * Rathceet
+
+  * Simple. I ran the E-pamphlet once on the Fuchi-7 and then typed up the output Into a document on my handy Backup System (an ancient machine that's slower than the average tortoise). If you notice, none of Fuchi's usual bells and whistles (and I mean that literally) are turning up in this post: no "FuchiFuchiFuchi for your Computer Needs\!" jingle, not even a Full Multimedia Demo of the newest spreadsheet application. I put in some of the graphics because it looked so damn bare without them, but aside from that, it's just a glorified text file.
+
+  * J.J. Flash
+
+  * All non-Fuchi "supplemental resources" employed by the Resources Adjustment Department are designated one of the following: long-term, short-term and expendable.
+
+  * I always knew we were cannon fodder to these slags ... but to see it in cold text like that ... (shudder).
+
+  * Bung
+
+  * Yeah, and I bet you cried when you found out there ain't no Santa Claus neither.
+
+  * Jingo
+
+  * There's NO SANTA CLAUS ??\!\!\! Oh, now I'm really depressed.
+
+  * Bung
+
+LONG-TERM SRs have proved their ability to work well for Fuchi America in past assignments or excel in three or more "focus categories" that the RAD looks for in prospective supplemental-resource employees. They are generally dependable, reasonably loyal to Fuchi as a source of steady income, and tend to approach contract negotiations amiably. A long-term supplemental resource may only be used with the approval of this department's Head Resources Adjuster. As a matter of policy, Fuchi personnel who have recently gained access to the Resources Adjustment Department are restricted to working with short-term or expendable supplemental resources until the Head Resources Adjuster deems the client experienced enough in working with SRs to have developed the proper attitude toward them. On occasion, long-term SRs may be assigned indefinitely to a single client.
+
+  * We have our word for these wastes of air-"sell-outs."
+  * Yegah@nowhere.com
+
+SHORT-TERM SRs, the most numerous category, have shown a certain indifference to Fuchi America's interests in past assignments (short of an outright breach of contract) or are new to working for Fuchi America. In either case, they are considered possible security breaches and must be watched closely for any sign of disloyalty. A short-term SR who demonstrates willingness to work at a high professional standard for Fuchi America will be evaluated by RAD staffers and may be raised to long-term status. As long-term assignments pay considerably more than short-term assignments, many new short-termers are strongly motivated to perform well on the job.
+
+  * Where do I sign up?
+  * BCP@NA/UCAS-NE.datastorm.com
+    Mail Ager at "AgerW@NA/UCAS-NE.fuchi.com" and ask him for a job.
+  * Sidekick
+  * Hey, Sidekick, there's something dripping off of your chin ... you might want to clean it up. Oh wait, that's just sarcasm.\>\>DISPLAY\_wink-grin
+  * Yegah@nowhere.com
+
+EXPENDABLE SRs have failed to further Fuchi's goals or have breached their contracts. They are reserved for "black-flagged" assignments, in which Fuchi America's Interests are served by the termination of the SRs. Only the Head Resources Adjuster may earmark an SR as expendable.
+
+  * Bet your hoop Ager slides metahumans more often than humans into this category.
+  * Ma Ork from Peoria
+  * And that he "earmarks" elves most of all.
+  * Makkanagee
+
+### WHAT SHOULD I EXPECT?
+
+Regarding the initial meeting with your designated SRs, the RAD strongly recommends following certain procedures. Most clients will deal with short-term SRs, who are not known for treating potential employers with respect. To compensate for this treatment, the RAD offers the following guidelines for business success:
+
+TREAT THE SRS AS HOSTILE. Even if they appear wholesome (a statistically improbable occurrence), assume that they are willing to kill you for any trivial reason should the opportunity present itself. These people are hardened criminals who commit heinous crimes for nuyen. They are mercenaries, living merely for the next payment, and they will try to squeeze you for all they can get. Remember that every nuyen you pay them is one less nuyen for Fuchi America. They are tools, no more: your job is to get as much work out of them as possible while compensating them as little as possible. No matter how well they may present themselves, these are not honorable, decent people. As criminals, they have no claim to fair treatment or respect. Treat them like the beasts they are: toss them their dinner from a safe distance and make sure that Fuchi America does not get bitten. If you think of them as being "just like us" even for a moment, you have already failed.
+
+  * The Ager paranoia surfaces again. Nice to see some things never change\!
+  * Makkanagee
+  * Of course, we won't say a word about the honor or decency of the fine folks who hire us "hardened criminals" to "commit heinous crimes for nuyen."
+  * Miz Liz
+  * Scareda gettin' their nice clean hands all dirty, thass what.
+  * Lark
+  * Come on. They're not all this dreadful. I've worked with a Johnson or two who was pretty much on the level, and who didn't look at me like she smelled something bad. This Ager slot is just feeding into a stereotype.
+    La Marquise
+    Every stereotype has a grain of truth in it, Marq-that's why they endure. I agree, Ager's a little over-the-top, but the same general attitude is more common than not among Johnsons in my experience. Get as much as you can for as little as you can, and remember the street grunts are expendable. Ager's just being a little more blatantly venomous about it. Given his history, I'm not surprised.
+  * Miz Liz
+  * As to getting a lot for a little, are most of us any different?
+  * StreetWyze
+
+CONCEAL YOUR IDENTITY. If the SRs recognize you or your affiliation, they may attempt to blackmail you at a later date. Such a development would be harmful to you and to Fuchi America. Departmental research indicates that SRs are prone to make snap judgements about clients based on observations they make at the initial meeting. The RAD therefore supplies "plainclothes" for these meetings-generic suits of a conservative cut that cannot be easily identified as contemporary corporate fashion. If the situation calls for a greater degree of misdirection, RAD staffers can suggest various ensembles and accoutrements that incorprate the hallmarks of other corporations or organizations, Cosmetic changes can also be made at a client's request, including wigs, contact lenses, melanin pills to change skin tone, and so on. Using these, a client may conceal his own identity or temporarily adopt someone else's.
+
+  * "Hey, Mr. Johnson is really Richard Villiers\!" " ... And I would have gotten away with it, if it hadn't been for you pesky shadowrunners\!"
+  * Reaches-for-the-Stars
+  * Do they got pointy-ear kits an' fake horns, too?
+  * Lark
+
+NEVER OFFER MORE THAN 80 PERCENT OF THE PAYMENT INITIALLY. These people invariably attempt to negotiate higher fees, sometimes even presuming to double your opening bid. If you offer 80 percent or less of the approved payment to begin with, you can "bargain" with them up to the total sum authorized, leaving them convinced that they have "won" without cutting any deeper into Fuchi America's profits than your superiors have deemed acceptable. Beginning your bid below the 80-percent threshold may even allow you to pay the SRs less than the maximum authorized amount. Fuchi America appreciates such efforts to save the corporation nuyen, and is likely to reward the conscientious employee accordingly.
+
+On those occasions when it is not possible to hold the SRs to the approved payment, a certain "overhead" is authorized-generally 20-25 percent of the approved payment. When bargained down within this overhead, the SRs will believe they are receiving 150 percent of the initial offer, which should be sufficient to satisfy even the greediest of these criminals. DO NOT UNDER ANY CIRCUMSTANCES EXCEED THIS 25 PERCENT OVERHEAD. There are always more SRs than there are assignments available, and Fuchi America's profits must always be the prime consideration. If the asking price of any given group of SRs exceeds the overhead, walk away from the meeting. Notify the RAD, and our staffers will contact another group of SRs ASAP.
+
+  * Does everybody understand that? If you get greedy, you'll get drek\!
+  * Death Angel
+
+### HOW CAN I GUARANTEE SUCCESS?
+
+Strictly speaking, you cannot guarantee success. You can, however, maximize the opportunity for success to occur by following the guidelines we've put together and keeping a few facts in mind. First of all, no SR can be fully trusted. Even long-term SRs with excellent track records are not Fuchi employees, and should not be afforded the trust given to members of the Fuchi Community™.
+
+  * Oh man, I think I'm gonna Yarf™\!
+    Bung
+  * Me too. "Maximize the opportunity for success to occur" \<\< THROWUP-NOISE WAVE\>\>
+  * WyrdNyrd
+
+Statistically, 98 percent of all short-term SRs have satisfactorily completed their assignments for our clients. The RAD has achieved this excellent success rate with our Keep An Eye Out surveillance program, founded in 2037 to prevent breaches of contract. (This program should not be confused with the Put An Eye Out campaign, established in 2054 to combat unauthorized trid broadcasts from Fuchi facilities by non-Fuchi employees.) The KAEO program uses sophisticated surveillance gear and techniques to keep track of SR teams, including (but not limited to) the following:
+
+Credsticks with Active On Demand™ locator bugs. When the credstick logs a transaction, the signal activates a trace program that heads for the nearest Fuchi domain. The trace program lets KAEO personnel instantly ascertain the whereabouts of any SR using an AOD credstick.
+
+High-altitude surveillance drones. Most frequently used in conjunction with AOD credsticks, the drones acquire their targets at the initial meeting. The credsticks serve as target beacons for the drones, allowing them to patch into the Global Positioning System and track the movements of the SRs within 1.25 meters.
+
+Watcher spirits. These spirits report any and all unusual activity of an SR directly to RAD mages. If weather permits (and the situation calls for it), RAD mages may also dispatch storm spirits to remind recalcitrant SRs where their interests lie.
+
+  * Bill Ager-Master of the Euphemism.
+  * WyrdNyrd
+
+Tissue samples for use as material links. Tissue samples are more useful as a psychological than a physical threat; Fuchi America does not have the time, manpower, or inclination to employ full-fledged ritual sorcery to track down every SR who breaks a contract. Extreme cases, however, warrant extreme responses, and Fuchi America will not hesitate to mete out the appropriate punishment when necessary. For most SRs, the simple threat of such punishment suffices to keep them in line.
+
+Observation of the companions and relatives of SRs. If necessary, the RAD will use strong-arm tactics upon these close associates to ensure adequate job performance on the part of the SRs. As a matter of policy, Fuchi prefers not to resort to such measures unless absolutely necessary, as they frequently elicit a counterproductive level of resentment in those SRs subjected to them, In most such cases, the RAD must make arrangements for the SRs' termination at the end of the assignment.
+
+  * Pre-emptive geeking. About what I'd expect from a megacorp.
+
+  * Cynik
+
+  * Yikes. Bugs in the credsticks? GPS tracking? Material fragging LINKS ?\!? I shoulda stayed in prison.
+
+  * John Spade
+
+  * Scary, neh? It gets worse. Think for a moment ... these are the tactics employed by Fuchi. As megacorps go, Fuchi's a bit tamer than Aztechnology or Soeder-Krupp. Kinda makes you wonder how far the others will go to keep us on our best behavior ...
+
+  * Tomtom
+
+  * Thanks, Tom. I'm already anticipating the years in therapy it'll take to make the nightmares stop.
+
+  * Soylent Grin
+
+  * Once again, congratulations on achieving access to the RAD. Please\>\>RETRIEVE\_subject-standing: \<\< DEFAULT\>\> do not contact us unless absolutely necessary. Sincerely, William T. Ager
+
+  * William T. Ager
+
+  * I'd like to emphasize something Tomtom touched on. This screed is a Fuchi America document, shown only to Fuchi employees with Omega-level security clearance. Johnsons from other companies may follow similar precepts, but the specific procedures described above may only be valid when you're dealing with Omega-level Fuchi employees. In other words, just about anything else may go.
+
+  * Argent
+
+  * Assuming you can tell at the meet that they are Omega-level Fuchi employees. The first rule of dealing with Johnsons is, you never know who's really on the other side of the table.
+
+  * Valmont
+
+  * And even a Fuchi skag might not be hiring you for Fuchi's best interests. Some of these corpboys are so twisted, they meet themselves coming around corners. So even all the drek about how their RAD works may not apply.
+    JackPalanceSh@biggerthan.you
+
+  * How do you figure?
+
+  * Rathceet
+    I'll type slowly so you can understand. Fuchi Exec A and Fuchi Exec B are both up for promotion. Fuchi Exec A has slightly better standing, so he looks like the winner. So Fuchi Exec B hires Shadowrunning Team C to break into Fuchi Exec A's doss and "steal" compromising balance sheets that "prove" Fuchi Exec A has been skimming from the company. Fuchi Exec B makes the tradeoff with Team C on the property of a Fuchi subsidiary, and as they're leaving he informs Fuchi Corp Strike Team D that site security's been breached. Fuchi Corp Strike Team D blows the drek out of Shadowrunning Team C, leaving crispy chunks with which to feed Security Paranimal E. Endgame: Fuchi Exec B is a hero for exposing Exec A's perfidy, and for preventing a serious on-site security breach. Exec A gets canned, most likely followed by a bullet to the back of the head. The runners who could crack the whole thing open if they put two and two together are safely fried. Exec B gets his promotion and sits pretty, even though he's cost Fuchi a valuable fellow employee. To make sure his little scheme comes off, of course, he's most likely going to subtly frag up the RAD's SOP whenever it threatens to get in his way. Scan me?
+
+  * JackPalanceSh@bigger.than.you
+
+  * Folks with access to the RAD who hire us on their own initiative will most likely end up in deep drek. Which means, so will we.
+
+  * Johnny Demonic
+
+  * How so?
+
+  * IHateC@s.named.striper
+
+  * Let's just say I'm now "Actively Unemployed" by Fuchi and leave it at that.
+
+  * Johnny Demonic
+
+-----
+
+Contacts and Enemies are non-player characters (NPCs) that gamemasters can use to make Shadowrun games richer, more unpredictable and more exciting for players. The following section offers new contacts rules that gamemasters and players can use to expand the use of contacts In their games, as well as rules for creating and using Enemies-NPCs that hold grudges, personal and otherwise, against player characters.
+
+### MAXIMIZING CONTACTS
+
+Contacts are often the best, and occasionally the only way a runner can find out just what kind of drek he's gotten into. Furthermore, gamemasters can use contacts to make the Shadowrun world a fuller, more colorful place to play. Despite those advantages, many Shadowrun groups don't exploit the full potential of contacts. Too many gamemasters don't take the time to flesh out their players' contacts, and too many players never even consider exploring the roleplaying opportunities contacts provide. Character Interactions with contacts remain nothing more than Etiquette Tests and the expenditure of a few nuyen. Making contacts into fully realized characters-"fleshing them out," in other words-is the key to getting the most from contacts. To achieve this, gamemasters must spend a little time creating a background for each of their players' contacts. Deciding what a contact does when he's not providing information to curious runners is a good place to start. Giving each contact a few Edges or Flaws from the Character Creation section (p. 21) or giving a contact a catch-phrase archetype title-such as Former Wage Slave, Company Man, Street Doc, Combat Mage, Mercenary, Detective, or Bodyguard-can help make the contact a distinct personality, With a little more effort, a contact can become a unique person. Obviously, Joe the Bartender contact spends his evenings tending bar, but what does he do in his spare time? Maybe he's an avid Urban Brawl fan and he's always got a game on the trid when a runner calls. Maybe he's having trouble with his wife or his business isn't going too well. Maybe his daughter is getting mixed up in the wrong kind of crowd-gangs, BTLs and the like. All of these things will affect how Joe reacts to a runner's inquiries and might even serve as a springboard for a shadowrun. A contact might also turn the tables and ask a runner for a favor. Find a way to make it clear that contacts have lives of their own. They don't just sit around and wait for runners to call.
+
+### CONTACT LEVELS
+
+The basic Shadowrun rules classify contacts into three groups-standard "contacts," "buddies" and "followers." These classifications provide a way to broadly reflect the relationship between a runner and a contact. Unfortunately, these classifications do not always provide an adequate reflection of runner/contact relationships. A contact may be an old friend, but according to the standard rules, a poor result on an Etiquette Test may keep that old friend from revealing what he or she knows. The following contact levels are designed to address this shortcoming by better reflecting the relationships between runners and contacts. Each level provides a runner with distinct advantages and disadvantages when dealing with his contact. The "upkeep" figure represents the amount of nuyen a runner must spend maintaining the contact each year (see Contact Upkeep, below).
+
+#### LEVEL 1 CONTACT
+
+The Level 1 contact is basically the standard Shadowrun contact (p. 43, SRII). Level 1 contacts function like real-life "acquaintances." A Level 1 contact may know information that a character needs and will probably reveal it-but he may keep it to himself just because he doesn't feel any particular loyalty to the character. On the other hand, a Level 1 contact is less likely to remember a runner's identity or even existence when the "bad guys" come a-callin'. And if the contact does remember the runner, he is very unlikely to have any idea where the runner can be found.
+
+  * **Advantages**: The gamemaster may make an opposed Intelligence (6) Test for the contact to determine if the contact can recall information about the runner when asked. The gamemaster may modify the target number as he sees fit.
+  * **Upkeep**: 500 nuyen
+
+#### LEVEL 2 CONTACT
+
+A Level 2 contact knows the runner and sees him on a semi-regular basis. The runner and contact have developed a certain level of trust, and the contact will remain loyal as long as he does not have to stick his neck out too far on the runner's behalf. A Level 2 contact will always provide the information a runner is looking for and may even "keep his ear to the ground" for a runner if he has the time. Level 2 contacts are considered "buddies" for purposes of character creation.
+
+  * **Advantages**: A runner receives 1 extra die for any Etiquette Tests made to acquire information from Level 2 contacts. In addition, the gamemaster may make an opposed Willpower (5) Test for the contact to determine if the contact can successfully refuse to answer questions about the runner.
+  * **Upkeep**: 3,000 nuyen
+
+#### LEVEL 3 CONTACT
+
+A Level 3 contact is more than a buddy-she's a friend for life. A runner may have grown up with her Level 3 contact in the Seattle sprawl, or the runner may have pulled the contact's nearly fried hoop out of a Lone Star fire fight. A Level 3 contact knows the runner well and interacts with him or her on a regular basis. The character may not even think of his or her friend as a contact, but what that person does or knows will surely be useful to the runner at some point.
+
+  * **Advantages**: A runner receives 2 extra dice for Etiquette Tests made to acquire information from his or her Level 3 contacts. In addition, the gamemaster may make an opposed Willpower (6) Test for the contact to determine if the contact can successfully refuse to answer questions about the runner.
+  * **Upkeep**: 7,000 nuyen
+
+### CONTACT CREATION COST
+
+Under the standard Shadowrun rules, every player can choose 2 free contacts for his or her character during character creation. These free contacts are considered Level 1 contacts, as are all other contacts purchased during character creation (see p. 46, SRII). All "buddies" obtained during character creation are considered Level 2 contacts. ("Followers," including tribe and gang members, are not considered contacts.)
+
+As stated in the rules, player characters may not purchase contacts after character creation. Any contacts gained during the course of a game or campaign must be acquired through roleplaying. Individual gamemasters and players should determine the details of meeting contacts in this manner. As a rule of thumb, however, new contacts should be Level 1 contacts. Only rarely should circumstances permit characters to gain new contacts at Level 2. Under no circumstances should new contacts start as Level 3 contacts.
+
+Players must pay the appropriate upkeep costs for all contacts gained during character creation from their starting nuyen. For example, a player who wishes to raise a free Level 1 contact to a Level 3 contact must pay a total of 10,000 nuyen (combined Level 2 and Level 3 upkeep costs = 10,000).
+
+### CONTACT UPKEEP
+
+Contacts are people too, and characters must treat them as such. Contacts are not simply handy sources of information that can be ignored until the character needs to learn the identity of the new sales VP at the Big Pyramid or the latest scuttlebutt at the local Lone Star station. If a character treats her contact as nothing more than a convenient reference to be consulted like a book, that contact will eventually become disillusioned and uncooperative.
+
+Keeping a contact happy is known as "contact upkeep." Contact upkeep is a two-part process. Part 1 consists of roleplaying. The gamemaster decides what constitutes adequate contact upkeep in terms of a player's portrayal of his or her character's rapport with, concern for and relationship to a contact. Generally, characters simply need to treat their contacts with the respect they deserve in order to maintain them. Characters need not shower their contacts with gifts or visit them every day of the week. But they should treat the contact to a soykaf every once in a while or slide him a loan when he needs one.
+
+Part 2 consists of spending the required annual upkeep cost to maintain the contact. Characters can pay a contact's required upkeep cost over the course of a game year. Characters can use upkeep nuyen to buy their contacts drinks or dinner, do the occasional favor, or simply give the contact an occasional credstick. Basically, anything that's worth hard nuyen can be considered part of the upkeep payment for a contact. For example, the value of letting your buddy know that he should sell his Ares stock because you expect it to take a major dive now that the corp's hot new drone prototype happens to be sitting in your bedroom closet may be equal to an entire year's upkeep cost. Gamemasters determine the value of such favors, advice, services and so on.
+
+A contact's level drops if a character fails to spend the required upkeep nuyen on him, or if the gamemaster determines that the character has failed to adequately maintain the contact with roleplaying. Gamemasters should feel free to create additional, unique requirements for maintaining contacts in their campaigns. If a Level 2 or Level 3 contact drops a level, a character can regain the contact's previous level by using the rules in Improving Contact Levels.
+
+A gamemaster has at least three options when a character fails to maintain a Level 1 contact, and may use any one or all three options at his discretion. The character may simply never hear from the contact again; in that case, the character cannot use the contact or any of the contact's contacts for information (see Friends of a Friend, below). The contact can become the character's Enemy (see p. 71). The character may also earn him- or herself the Bad Reputation Flaw (see p. 31).
+
+If a character loses all his or her contacts by failing to fulfill upkeep requirements, the character receives the Flaws Hung Out to Dry and Bad Reputation (pp. 32, 31). Increase by 1 the Priority levels of all the character's Enemies as well (see Enemies, p. 71).
+
+Billy Boy, just your average mercenary looking to make a name for himself, starts the game with 2 contacts. Joe is the bartender down at Droogies, where Billy Boy likes to spend his extra nuyen. Timmons is a Lone Star beat cop, who's actually a Level 2 buddy. (Billy Boy once dated Timmons's sister. Billy Boy and Timmons got along real well, and remained friends even after Billy Boy and the sister broke up.)
+
+Billy Boy spends plenty of time and nuyen at Droogies, and he tips well. Consequently, the gamemaster decides that Billy doesn't have to spend additional nuyen or go out of his way to maintain Joe as a Level 1 contact. Timmons, however, is a Level 2 contact, so Billy has to make more of an effort to maintain him. Besides taking Timmons out on the town and buying his drinks on a semi-regular basis, Billy tips him off to small-time criminals like the "no-good ganger kids" who harass the elderly and occasionally rob the mom-and-pop diners where Billy Boy gets his cheap eats. When Billy's gamemaster decides these things may not be enough to maintain a Level 2 contact, Billy decides to fix up Timmons with a nice chica he knows down Tacoma way. The gamemaster thinks this is a creative idea and decides that as long as Timmons and the girl continue to see each other, Billy need only spend half the usual upkeep cost buying drinks for Timmons.
+
+### IMPROVING CONTACT LEVELS
+
+To improve a contact's level during the course of play, a character must pay the upkeep cost of the contact's current level, as well as the cost of the contact's new level. For example, a character who wants to raise his Level 2 buddy to a Level 3 contact must pay a total of 10,000 nuyen (Level 2 cost of 3,000 + Level 3 cost of 7,000). The character then must also pay the standard upkeep cost to maintain the contact.
+
+Alternatively, gamemasters may allow characters to improve the level of their contacts by spending Karma. When using this option, the character must spend a number of Karma Points equal to twice the new level. For example, a character using Karma to improve a Level 1 contact to a Level 2 contact would have to spend 4 Karma Points. Improving a contact to Level 3 would cost 6 Karma Points. Contacts cannot be improved more than 1 level in this manner. The character then must also pay the standard upkeep cost to maintain the contact.
+
+Gamemasters must approve all contact level improvements, based on the fictional relationship between character and contact. A contact who only occasionally sees a character and who does not have a particularly friendly relationship with that character is not an appropriate choice for a Level 3 contact.
+
+### FRIENDS OF A FRIEND
+
+Because contacts have lives of their own, they have contacts of their own as well. These secondary contacts, one step removed from the characters, are known as Friends of a Friend (FOFs). Thus, Billy Boy from the preceding example not only has access to any help Joe and Timmons can give him, he also has access to the people that joe and Timmons know. These people are Billy's FOFs.
+
+FOFs provide more options to characters, more color and background to games, and more realism. For example, Joe the bartender wouldn't realistically have a stockpile of Ares' finest weapons organized next to the synth-alcohol on the shelf. However, he could very plausibly know a guy who has a warehouse full of such goodies.
+
+Generally, every character contact starts the game with a Level 1, a Level 2 and a Level 3 contact. Fixers and Mr. Johnson contacts are exceptions to this rule-because of the line of work they pursue, these contacts know 2 other contacts at each level. Gamemasters may adjust these numbers to fit their campaigns (see Special Contacts, p. 66), though giving non-fixer and non-Johnson primary contacts more than 3 secondary contacts might make it too easy for player characters to acquire both equipment and information. On the other hand, allowing primary contacts to know a greater variety of secondary contacts can provide a needed jump-start to a campaign that may have gotten bogged down or reached a dead end.
+
+Additionally, because FOFs come from "outside" the characters' sphere of knowledge, gamemasters can use FOFs to generate adventures outside the expected parameters of a campaign.
+
+### USING FOFS
+
+To acquire information, equipment or other help from FOFs, characters must make the appropriate tests. Any bonus dice a character receives for making tests in interactions with his contact apply when the character interacts with the contact's FOFs as well. Test target modifiers appear in the Friend of a Friend Modifiers Table. These modifiers represent a FOF's willingness to help a character-a FOF who's a mere acquaintance of a character's contact won't be as ready to help a relative stranger as will a contact's good friend.
+
+Like all contacts, FOFs expect a little nuyen in exchange for their help. To calculate the fee a FOF expects, first determine the basic contact fee (see p. 202, SRII), then multiply the basic fee by the appropriate cost/time multiplier from the Friend of a Friend Modifiers Table. Gamemasters may choose to increase the cost modifier if the character has to go through multiple FOFs to get what he wants. At the gamemaster's discretion, a Level 3 FOF may reduce or even waive his fee as a favor to the contact.
+
+The cost/time multiplier is also used to calculate the time a character must wait for a FOF to deliver information or goods (see Waiting for the Goods, p. 65). The Wrong Party modifiers are used when making Wrong Party Tests (see The Walls Have Ears, p. 65).
+
+Billy Boy's had a run of good luck lately and has some nuyen in his pocket, so he decides to pick up a less-than-legal Ares Alpha Combatgun with the optional grenade launcher. Billy starts out by making a standard Etiquette Test with Joe the bartender. The test generates only 1 success, so Joe gives Billy an odd look and says he "might know someone." (The gamemaster has decided that Joe's 3 secondary contacts are a Mafia foot soldier (Level 1), a decker whom Joe's known for years (Level 2), and Joe's brother (Level 3), who's a bouncer at a swanky downtown club.)
+
+Billy approaches Timmons, his Lone Star officer contact. He uses the bonus dice for his Etiquette Test and generates 5 successes. Consequently, Timmons is more than willing to help Billy. He tells Billy he'd be happy to introduce him to any of his own secondary contacts-a Renraku security officer (Level 1), a former Lone Star employee who now operates his own private sec firm (Level 2), and a reformed fixer who happens to have been Timmons's first arrest (Level 3).
+
+#### FRIEND OF A FRIEND MODIFIERS TABLE
+
+| FOF Level | Target Number Modifier | Cost/Time Multiplier | Wrong Party Target Modifier |
+| :--- | :--- | :--- | :--- |
+| 1 | +6 | 3 | -2 |
+| 2 | +4 | 2 | -1 |
+| 3 | +2 | (see text) | 0 |
+| Each FOF after the first | +2 | (see text) | -2 |
+| "Asking around" | | | -3 |
+
+Billy decides that joe's mob foot-soldier friend and Timmons's ex-fixer chum are his best bets. Billy first approaches Joe, who tells him to come back after midnight and he'll introduce him to Tony the Snake. When Billy returns, Joe directs him to a private booth, where Tony's waiting. At this point, Billy Boy makes his Etiquette Test. The standard base target number receives a +6 modifier because Tony's a Level 1 contact. The test fails, and Tony says he can't help him. Tony says he deals only in olive oil, not guns.
+
+Billy then turns to Timmons's ex-fixer friend, Sexy Sioux. Sioux is a Level 3 contact of Timmons, so Billy makes his Etiquette Test against a Target Number 6. (Billy adds 1 extra die for the test, because Timmons is a Level 2 contact.) The test generates 2 successes, and Sioux says she knows someone who can help Billy get his new toy. Instead of a cash fee, though, Sioux wants a favor from Billy. She needs some runners to help with a hit on a Humanis Policlub training camp, and she wants Billy to help. Billy Boy accepts the offer-he figures it'll give him a chance to field test his new gun.
+
+If Billy rejects Sioux's offer, he must pay her a fee for her help, which the gamemaster calculates according to the following formula. Sioux's a fixer with Etiquette 5, Charisma 3, and Intelligence 5. Using the basic contact fee formula, the gamemaster calculates the basic fee at 800 nuyen:
+
+Contact's Etiquette Skill Rating x Number of successes on character's Etiquette Test x (Contact's Charisma + Intelligence) × 10 = basic contact fee
+5 x 2 x (5 + 3) × 10 = 800
+
+Because Sioux is a Level 3 contact for Timmons, the gamemaster decides what she'll charge Billy Boy. As it turns out, she's willing to help out her friend's friend. Sioux can reasonably be expected to charge Billy Boy any amount from nothing ("Hey-I don't charge nuyen to help my buddy Timmons' friends.") to her usual fee of 800 nuyen ("I like your looks, so I'm giving you my services at cost today."). Billy will have to pay the cost of the gun, regardless of Sioux's fee. If appropriate, Billy can make a standard Negotiation Test to lower Sioux's fee.
+
+### WAITING FOR THE GOODS
+
+To calculate the time a FOF needs to locate information or equipment for a character, the gamemaster rolls 2D6, then applies the appropriate cost/time multiplier from the Friend of a Friend Multipliers Table to the result. The final result is the waiting period in days. Characters may reduce the waiting period by spending any number of their Etiquette Test successes or by paying the contact additional money. For each success or for each additional 10 percent of the contact's fee the character chooses to pay, the period is reduced by 1 day.
+
+Note that this waiting period only reflects the time that a FOF needs to track down the requested information and/or goods. The gamemaster should also apply all standard Availability rules.
+
+Billy Boy now knows his new Ares Alpha Combatgun is on the way, and he wants to know how long he'll have to wait. The gamemaster rolls 2D6 and gets a result of 7. Because Sioux's a Level 3 FOF, the gamemaster determines her cost/time multiplier. That means Billy may have to wait 7 days, or he may get the gun immediately.
+
+Sioux tells Billy Boy she can have the gun for him in a few hours if he agrees to hit the Humanis camp. If he refuses to help with the hit, Sioux says she'll need 7 days to locate and obtain the Ares Alpha. Billy can't help with the Humanis hit, but he doesn't want to wait 7 days for his gun, either. He decides to slip Sioux some extra nuyen to speed things along. Ten percent of Sioux's 800-nuyen fee is 80 nuyen; Billy decides he can afford to pay some extra nuyen if it means getting his new toy faster, and so he pays Sioux an extra 400 nuyen (80¥ x 50 percent) and cuts 5 days from the waiting period.
+
+### THE WALLS HAVE EARS
+
+Any time a character discusses biz with a contact or FOF-whether it's a personal buddy or a FOF who agrees to meet the character at the docks in the middle of a rainstorm at 4 a.m.-other parties may hear about the character's interest in information, equipment or any other commodity potentially worth nuyen. These other parties-appropriately designated "wrong parties"-can be any individuals, groups or organizations that might feel threatened by the character's inquiries, have an interest in grabbing a piece of the character's action, or simply dislike the character enough to mess with his or her plans.
+
+To reflect the chances of wrong parties learning of a character's inquiries, the gamemaster makes a Wrong Party Test every time a character uses a contact or FOF. The number of dice for the test equals the number of individuals involved in the inquiry. For example, if a character talks biz to one contact, the gamemaster uses 2D6 for the test. If the inquiry is made by an 8-man team speaking to a contact who must enlist the help of another contact, the gamemaster uses 10 dice. (The more people involved in an inquiry, the greater the chance that someone, somewhere will slip up.)
+
+The base target number for the Wrong Party Test is 6, but gamemasters may increase it for especially careful or paranoid characters, or decrease it for particularly careless characters. If a Wrong Party Test generates successes, the gamemaster determines the consequences based on the suggestions provided in the Wrong Party Table (p. 66). All successes are cumulative-add together the successes of all Wrong Party Tests made during a single line of inquiry.
+
+When characters use FOFs, apply the appropriate Wrong Party modifier from the Friend of a Friend Modifiers Table (note that these are negative modifiers-they reduce the target number, making it more likely that word will leak out). The number of dice for the test equals the number of individuals involved in the inquiry-all characters, FOFs, and the contacts who introduced the characters and FOFs. If a character asks a contact to "ask around" about a particular subject (see p. 202, SRII), add the appropriate modifier from the Friend of a Friend Modifiers Table.
+
+Individual gamemasters determine the exact consequences of Wrong Party Test successes, based on the campaign, the nature of the character's inquiries, and the nature of the wrong party. For example, Ares is accustomed to runners trying to steal its latest weapons prototypes, so it might not act until a line of inquiry generates 10 or more Wrong Party Test successes. On the other hand, even 2 or 3 successes might prompt a paranoid paramilitary policlub group to go code red.
+
+If several successes are generated during first-stage inquiries, a gamemaster may decide that the wrong party begins a disinformation operation that sends the characters wrong or planted information via their contacts and FOFs.
+
+The Ares Alpha Combatgun is a new, highly illegal weapon. In fact, only Ares possesses the gun. Even the manufacturer's corporate and military clients are waiting for it. Consequently, Billy Boy's attempts to obtain a Combatgun are potentially a sensitive matter, so the gamemaster makes Wrong Party Tests to determine If Ares takes notice and action.
+
+Billy's first level of inquiries consists of his meetings with joe the bartender and Timmons the cop. For each of these meetings, the gamemasters uses 2D6 to make a Wrong Party (6) Test. The test for the meet with Joe generates no successes. The test for Timmons yields 1 success. Billy's not the first runner to try to acquire a secret Ares weapon, and he prob-
+
+#### WRONG PARTY TABLE
+
+| Successes | Potential Consequences |
+| :--- | :--- |
+| 1-4 | Word has hit the street that you or your team is on a job. Your enemies prick up their ears, hoping to hear something they can use against you. Other runners start watching you, looking for the chance to horn in on your action. Corporate flunkies at all levels talk to their contacts, trying to pinpoint your target. |
+| 5-8 | Somebody used the wrong words to the wrong people, and now the street knows what you're up to. Your competition, your enemies and every potential target has a theory about your biz, but no one knows the particulars of the assignment. If you work fast, you can keep ahead of the game. |
+| 9-12 | It was inevitable-only under the rarest circumstances can you plan, execute, and get paid for a job without some outside party somehow jeopardizing the run. Your competition is workin' the other side of the street; your enemies now know enough to figure out how to screw it up for you in the most dramatic way; your target is 99 percent confident that you're coming for them. Fortunately, you're professionals-you knew this would happen, and you've got a plan to cover all the bases. |
+| 13+ | You're running a disinformation campaign of epic proportions, but it seems that the only detail that hasn't hit the streets is the color of underwear you'll be wearing when you pull the job. You know you're now up against the best your target, your enemies and your competition has to offer, and all you can do is trust that Plan B will get you in and out with a minimum of bloodshed. And you already know your next piece of biz-finding the loose lips that complicated your life this way and stapling them shut (assuming you survive the trap/death squad/Matrix warfare/private detective/general harassment campaign that someone is sure to throw at you). |
+
+ably won't be the last. Consequently, Ares doesn't even note his inquiry.
+
+Billy' second level of inquiries consists of his meetings with Tony the Snake and Sexy Sioux. For the meeting with Tony, the gamemaster rolls 3D6 (1 die for Billy, 1 for Tony and 1 for Joe the bartender). Tony is a Level 2 FOF, so the base Target Number 6 receives a -2 Wrong Party Modifier, as noted on the Friend of a Friend Modifiers Table. For the meeting with Sioux, the gamemaster again uses 3D6 (1 die for Billy, 1 for Sioux and I for Timmons the cop). The test receives no wrong party modifier (Sioux is a Level 3 FOF), so the Target Number is 6.
+
+The test for the meet with Tony generates 1 success; the test for the meet with Sioux also generates 1. That produces a total of 3 successes for both levels of inquiry. That's still a relatively low level of successes, and Ares is a big corporation, so the gamemaster decides that Ares still takes no notice of Billy Boy's inquiries.
+
+### SPECIAL CONTACTS
+
+Special contacts provide characters with access to greater resources than standard contacts. Special contacts fall into four categories: members of clubs and organizations, fixers, International contacts and Shadowland.
+
+#### MEMBERS OF CLUBS AND ORGANIZATIONS
+
+By acquiring a contact who is a member of a club or organization such as the Humanis Policlub, Ork Rights Committee or other metahuman-rights groups, a character can gain FOFs who may be able to provide inside information about the group's activities or members. Nearly any contact can be a member of a club or organization. Clubs and organizations that espouse causes with broad appeal are especially likely to Include a wide range of members. Wide appeal, however, also means that the chances of a contact knowing anyone in the group privy to the real secrets are slim.
+
+To determine the number of group members a character must wade through to get inside information, the gamemaster rolls ZD6 and divides the result by 2 (rounding up). The final result equals the number of people the character must talk to before reaching a knowledgeable FOF. Consider each FOF to be a contact of the previous FOF, and apply all appropriate cost/time multipliers and wrong party modifiers from the Friend of a Friend Modifiers Table.
+
+#### FIXERS
+
+The fixer is a combination pawn shop, Hollywood agent, politician, arms dealer, drug smuggler, underworld crime boss, con man, used-car salesman, and, in rare cases, normal person, all rolled into one. The fixer knows a wide range of individuals of diverse talents, and he makes his money using these contacts to supply a client with whatever the client needs or wants-for a fee, of course. To reflect this, all fixers possess 6 secondary contacts, usually including another fixer and, occasionally, a Mr. Johnson.
+
+#### INTERNATIONAL CONTACTS TABLE
+
+| Contact | Target Number Modifier |
+| :--- | :--- |
+| Contact is a member of international group | -2 |
+| Contact is out of favor with locals | +2 |
+| Character has Enemies looking for him | \* Rating of each Enemy (penalty waived at the cost of alerting Enemies) |
+| Contact is customs agent/border patrol | -2 |
+| Contact is in law enforcement | -1 |
+| Main contact is a fixer | -1 |
+| Racism of FOF | As appropriate (see p. 182, SRII) |
+| **Services** | |
+| More than 2 weeks to arrange travel | -1 |
+| More than 2 months to arrange travel | -3 |
+| Less than 72 hours to arrange travel | +1 |
+| Less than 24 hours to arrange travel | +2 |
+| Less than 6 hours to arrange travel | +4 |
+| **Character wants to smuggle in:** | |
+| Class A equipment (sporting rifle) | +1 |
+| Class B equipment (smart SMG, silencers) | +3 |
+| Class C equipment (cannons/biowarfare agents) | +5 |
+
+While many fixers maintain their edge by serving as Jacks-of-all-trades, some fixers specialize in a particular field-such as supplying high-tech goods and services, magical goods and services, or corporate connections. A specialist fixer's secondary contacts should reflect his specialty. For example a magical middleman might know a talismonger, a former wage mage, a magical research specialist at Aztechnology, a member of the Illuminates of the New Dawn, a street shaman and so on. (Gamemasters should determine the fields of specialized fixers based on their campaign needs.)
+
+Basically, fixers earn their livelihoods by "doing favors" for clients. Therefore, most prefer to maintain only "professional" relationships with their runner contacts rather than developing personal ones-it just makes matters far less complicated in the long run. And they almost never provide information or services for free. Typically, fixers demand payment in nuyen or a return favor down the road.
+
+#### INTERNATIONAL CONTACTS
+
+An employee of a multinational megacorporation, a member of a multinational organized-crime or political group, a soldier formerly stationed overseas-these are just a few examples of individuals who may serve as international contacts. In addition to receiving information and/or assistance directly from an international contact, a character can solicit help from FOFs gained through that contact. To determine the number of people the character must talk to before reaching a knowledgeable and helpful FOF, the gamemaster rolls 2D6 and divides the result by 2 (rounding up). Consider each FOF to be a contact of the previous FOF, and apply all appropriate cost/time multipliers and wrong party modifiers from the Friend of a Friend Modifiers Table.
+
+Any time contacts meet international FOFs, gamemasters can apply appropriate modifiers from the International Contacts Table to the FOF Etiquette (4) Test. As always, money opens more doors than anything else in Shadowrun (see Using FOFs, p. 64). For each additional 10 percent of the total fee the character pays, decrease the target numbers for tests with the contact or FOF by 1 (to a minimum of 2).
+
+Players can also acquire foreign contacts by purchasing the Friends Abroad Edge during character creation.

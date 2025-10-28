@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+"""Check characters table schema"""
+import os
+from dotenv import load_dotenv
+import psycopg2
+
+load_dotenv()
+
+conn = psycopg2.connect(
+    host=os.getenv('POSTGRES_HOST'),
+    port=os.getenv('POSTGRES_PORT'),
+    user=os.getenv('POSTGRES_USER'),
+    password=os.getenv('POSTGRES_PASSWORD'),
+    dbname=os.getenv('POSTGRES_DB')
+)
+
+cur = conn.cursor()
+cur.execute("""
+    SELECT column_name, data_type 
+    FROM information_schema.columns 
+    WHERE table_name = 'characters' 
+    ORDER BY ordinal_position
+""")
+
+print("Characters table columns:")
+print("=" * 50)
+for row in cur.fetchall():
+    print(f"  {row[0]}: {row[1]}")
+
+conn.close()

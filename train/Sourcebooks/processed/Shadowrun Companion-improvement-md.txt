@@ -1,0 +1,369 @@
+### NEW CHARACTER TYPES
+
+Practically since the introduction of _Shadowrun_ to the gaming world, players have requested rules for playing shapeshifter characters—Awakened animals with the magical ability to assume human form—and other metatypes. The following rules allow players and gamemasters to create shapeshifter characters and provide guidelines and examples for creating additional metatypes. As always, gamemasters have the final say on whether or not to include these new character types in their games.
+
+### SHAPESHIFTER CHARACTER CREATION TABLE
+
+| Priority | Race         | Magic    | Attribute Points | Skill Points | Resources (Nuyen/Force Points) |
+| -------- | ------------ | -------- | ---------------- | ------------ | ------------------------------ |
+| A        | Shapeshifter |          |                  |              |                                |
+| B        |              | Magician | Adept            | 24           | 30                             |
+| C        |              |          | 20               | 24           | 90,000¥/25                     |
+| D        |              |          | 17               | 20           | 5,000¥/15                      |
+| E        |              |          | 15               | 17           | 500¥/5                         |
+### SHAPESHIFTER ADVANTAGES
+
+Shapeshifter player characters enjoy three innate advantages over other characters: the ability to shift between animal and human forms, a dual nature and superior regenerative powers.
+
+#### Animal/Human Form
+
+The ability to shift between animal and human forms is the primary advantage and distinguishing characteristic of shapeshifters. As noted in the preceding section, shapeshifters receive various Attribute bonuses in both animal and human forms. To switch between forms, a shapeshifter must spend a Complex Action. The transformation from human to animal does not include any of the shapeshifter's equipment or clothing; clothing will be ripped and equipment may be damaged during the transformation if the character does not remove it first.
+
+When in animal form, a shapeshifter resembles a mundane member of its species; only its astral presence distinguishes it from a mundane animal. A shapeshifter in animal form can communicate with other members of its species, but cannot speak or use Social skills. Shapeshifter magicians in animal form can cast spells, but cannot use Centering skills or fulfill geasa that their beast-forms cannot perform. In animal form a shapechanger cannot use his or her physical adept powers. They are only usable in human form.
+
+### SHAPESHIFTER ATTRIBUTE MODIFIERS TABLE
+
+| Species | Modifier                                                                                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bear    | Human Form: +1 Body, +1 Strength Animal Form: +5 Body, -1 Quickness, +5 Strength, -2 Willpower, +1 Reach, Dermal Armor (+2 Body)                      |
+| Fox     | Human Form: +1 Intelligence, +2 Charisma, +1 Willpower Animal Form: +1 Intelligence, +2 Charisma, +1 Willpower, -2 Body, -2 Strength, +1D6 Initiative |
+| Leopard | Human Form: No modifiers Animal Form: +1 Body, +1 Strength, +2D6 Initiative                                                                           |
+| Seal    | Human Form: +1 Charisma Animal Form: +1 Charisma, +2 Body, +1 Quickness, +1D6 Initiative                                                              |
+| Tiger   | Human Form: +1 Strength Animal Form: +4 Body, +1 Quickness, +4 Strength, -1 Intelligence, -2 Willpower, +1 Reach, +2D6 Initiative                     |
+| Wolf    | Human Form: No modifiers Animal Form: +1 Body, +1 Quickness, +1D6 Initiative                                                                          |
+### CREATING A SHAPESHIFTER
+
+In general, though some shapeshifters mingle with metahuman society and even work as shadowrunners, most shapeshifters prefer to live in wilderness areas, apart from civilization. The Shapeshifter Character Creation Table illustrates the priority options available to shapeshifter characters. Note that all shapeshifter characters must assign Priority A to Race.
+
+Shapeshifter characters purchase their base Attributes and skills per standard rules. Base Attribute Ratings may not exceed 6. Next, consult the Shapeshifter Attribute Modifiers Table and calculate the character's final Attribute ratings. Apply the Human Form modifiers to the base Attribute ratings to determine the Attributes of the character in human form. Use the Animal Form modifiers to calculate the Attributes of the character in animal form. These final Attribute ratings are not subject to any racial maximums or other limits. The table provides modifiers for the six shapeshifter species described in SRII: Bear, Fox, Leopard, Seal, Tiger and Wolf. All of these species are suitable for shapeshifter player characters.
+
+A shapeshifter in human form possesses all the characteristics of a normal human. Typically, a few of a shapeshifter's features vaguely resemble the equivalent features of its animal form (the shape of its eyes, the color of its hair), but the shapeshifter otherwise appears human.
+
+#### Dual Nature
+
+Shapeshifters are dual-natured creatures—they exist on the physical and astral planes simultaneously. Consequently, they can use astral perception at any time as a Simple Action. They also suffer all the disadvantages of having a dual nature: because they cannot shut off their astral presence, shapeshifters are vulnerable to detection and attack on the astral; magical barriers such as wards block the movement of shapeshifters' astral forms; and the movement of their astral form is limited by the movement of their physical bodies. A shapeshifter's astral form always appears as an idealized image of its animal form, regardless of the shapeshifter's current form. This means that a shapeshifter in human form can be detected by astral perception unless he is an initiate capable of Masking. Shapeshifter magicians with the appropriate Magic Priority can also use astral projection when in human form. Their astral statistics are equal to their Physical Attributes.
+
+#### Regeneration Rules
+
+The following rules apply to shapeshifter player characters only. For shapeshifter gamemaster characters, use the regeneration rules provided in SRII. Note that shapeshifter player characters lose all special regenerative powers when in human form. A shapeshifter who takes damage in human form and remains in human form heals according to the standard Shadowrun rules. A shapeshifter who takes damage in human form can shift to animal form (spending a Complex Action) and heal a number of Damage boxes equal to half the animal form's Essence Rating, rounded down, at the end of each turn. A shapeshifter who takes damage in animal form and remains in animal form heals a number of Damage boxes equal to his animal form's Essence Rating, rounded down, at the end of each turn. A shapeshifter is virtually immune to death from injury when in animal form, unless an injury damages its brain or spinal cord. Whenever a shapeshifter takes Deadly damage, roll 1D6. On a result of 1, the shapeshifter dies. If the damage results from massive tissue injury (burns, trauma and such), the shapeshifter dies on a result of 1 or 2. If the character does not die, he or she can heal a number of Damage boxes at a rate equal to his or her Essence Rating, rounded down, at the end of each turn.
+
+Despite these impressive regenerative powers, shapeshifter characters are not indestructible. If a shapeshifter takes damage equal to or greater than his or her Body Rating + 10, the character dies, regardless of his or her form. A shapeshifter magician who survives Deadly damage must still check for magic loss per standard rules. Additionally, shapeshifter magicians regenerate the Physical damage caused by spellcasting Drain at a rate of 1 Damage box per minute. If a shapeshifter takes Deadly Physical damage from Drain, the player character rolls 1D6; the character dies on a result of 1 or 2.
+
+Note that these rules do not apply to damage from silver weapons (see Silver Allergy/Vulnerability, below).
+
+### SHAPESHIFTER DISADVANTAGES
+
+Shapeshifter player characters are hampered by three disadvantages: their bestial natures, silver allergies and the inability to receive cyberware implants.
+
+#### Bestial Nature
+
+Though shapeshifters can assume human form, they are animals at heart. Consequently, powerful animal instincts and emotions drive all shapeshifter characters. Even those who have learned to speak metahuman languages and have assimilated into civilized culture remain beasts at their core, and occasionally act in ways that may horrify even the most hardened shadowrunner.
+
+Understandably, most governments—including the UCAS, CAS and California administrations—do not grant shapeshifters metahuman status. These governments consider shapeshifters no more than wild animals. The NAN government accords more rights to shapeshifters, but does not recognize them as full citizens because of their inability to adhere to metahuman rules and social mores. In nearly all cases, government authorities do not hesitate to destroy criminal shapeshifters as they would a rabid dog.
+
+Because of their bestial nature, shapeshifter player characters do not receive the standard free contacts during character creation. Instead, they must purchase any starting contacts with their allocated Resource Points. However, few metahumans entirely trust a shapeshifter.
+
+#### Silver Allergy/Vulnerability
+
+Every shapeshifter has both a Severe Allergy and Vulnerability to silver. The mere touch of the metal causes a shapeshifter pain and burn-like welts. To withstand the urge to retreat from contact with silver, a shapeshifter must make a successful Willpower (6) Test. Weapons made from silver or coated with it receive a +2 Power bonus and a +1 Wound Level bonus against shapeshifters. For example, a 4L knife made of silver would do 6M damage to a shapeshifter. Additionally, shapeshifters recover damage caused by silver weapons at a rate of 1 Damage box per minute. Damage from silver weapons accumulates and kills a shapeshifter per standard rules. If a shapeshifter takes Deadly damage from a combination of silver and non-silver weapons, roll 1D6; the character dies on a result of 1 or 2.
+
+#### Cyberware Rejection
+
+Shapeshifters cannot willingly accept any type of cyberware implants. Their regenerative powers cause shapeshifters' bodies to reject all cyberware as soon as they shift to animal form. Particularly sadistic rumor-mongers occasionally suggest that un-named governments have found a way to restrict criminal shapeshifters to their human forms by implanting cyberware into their human bodies in especially damaging ways.
+
+### METAHUMAN VARIANTS
+
+Like their human counterparts, metahumans come in a broad range of colors, creeds and ethnic backgrounds. Nearly all possess the basic metahuman qualities described in SRII, but members of metahuman-variant subgroups may also possess unique characteristics. The following entries describe a few metahuman-variant subgroups. Players and gamemasters can use these descriptions as guidelines for introducing different types of metahuman characters into their Shadowrun games.
+
+Because they possess such unique physical characteristics, even other metahumans consider the metahuman variants described in this book to be, well, freaks. These characters receive a Hostile reaction (Social Skill Table, p. 182, SRII) in all initial social contacts with other metahumans. Players and gamemasters also must find creative ways for these characters to manage everyday life—just where does a giant sleep, how does he hold a fork, how does he travel—heck, he can't even fit through most doors!
+
+#### METAHUMAN ALBINISM
+
+The condition of albinism continues to exist in the world of _Shadowrun_, and all races manifest albino members. The typical manifestations of an albino remain essentially the same: a deficiency in skin and hair pigmentation, usually appearing as white hair or skin, and eyes showing a pink or blue iris with a bright red pupil. In _Shadowrun_, albinos' skin, eyes, and hair can also take on a silvery hue, they are often noticeably thinner and taller than average for their race, and they suffer a Mild allergy to sunlight.
+
+There is no character creation priority change for albinism, though an albino character must have at least one of the following Flaws (see p. 25-27) without gaining the value of the Flaw in Build Points or in an equal Edge: Bio-rejection, Color Blind, Low Pain Tolerance, Night Blindness or Sensitive System. The player can take more than one of the above Flaws for an albino character. Each additional Flaw beyond the required one provides the appropriate number of Build Points or can be balanced with an Edge. Albino characters have responded positively to the increase in mana and gain +1 to Willpower in addition to any other Willpower increase they receive at character creation.
+
+#### VARIANTS
+
+**Cyclops (Troll)** Greek and Mediterranean trolls, known as cyclops, are often larger and more heavily muscled than other trolls. They lack most of the dermal bone deposits common among trolls, but are most easily distinguished by the fact that they have only a single eye located in the middle of their foreheads. All cyclops either have only one horn or, in rare instances, no horns. Cyclops receive the standard troll racial modifications with the following exceptions: +6 Strength (Attribute maximum 10) and no Dermal Armor. Cyclops also receive a +2 target modifier for ranged attacks because they lack depth perception.
+
+**Koborokuru (Dwarf)** Japanese dwarfs, called koborokuru, are slightly smaller than their Western counterparts and possess extensive body hair. Like other metahumans, koborokuru are not looked upon kindly in Japanese society. In fact, Japanese anti-metahuman prejudice has saddled koborokuru with an undeserved reputation as rude and primitive individuals. Like gnomes, koborokuru prefer rural and wilderness areas over urban environments. Koborokuru receive the standard dwarf racial modifications, with the following exception: no Quickness penalty.
+
+**Fomori (Troll)** Fomori are Irish/Celtic trolls. They lack dermal bone deposits, but are more powerful than most other trolls and are generally considered comparatively attractive by other races. Like many metahumans of Celtic descent, fomori possess a higher-than-average propensity for magical ability. Fomori receive the standard troll racial modifications with the following exceptions: +4 Body, +3 Strength, no Dermal Armor and no Charisma penalty.
+
+**Menehune (Dwarf)** The menehune, or Children of the Land, are named for the original "little people" of Hawai'i. Menehune are shorter than most dwarfs and possess luxuriant body hair, thick muscles, large noses, bushy eyebrows and stringy hair. According to local legends, the menehune's ancestors came from the lost continent of Mu, or Atlantis, but modern biologists and anthropologists place little stock in such fables. Menehune receive the standard dwarf racial modifications, with the following exception: +2 Body.
+
+**Hobgoblin (Ork)** The hobgoblins of the Middle East are smaller and slighter than most ork variants. Hobgoblins' greenish skin tones, sharp teeth and dark, beady eyes give them a fierce appearance, which has contributed to general anti-metahuman prejudice in the Middle East, especially among Fundamentalist sects. Hobgoblins are also distinguished by their vicious tempers and strong sense of personal honor, which demands that hobgoblins avenge any slight or disrespect directed toward them. Hobgoblins receive the standard ork racial modifications, with the following exceptions: +2 Body and no Intelligence penalty.
+
+**Giants (Troll)** Nordic trolls, or giants, are fairer and taller than other trolls. The average giant stands 3.5 meters tall, and most lack horns and the dermal bone deposits common to their race. For as-yet-unknown reasons, giants seem to have a greater than average tendency toward genetic reversions—one out of every four female infants born to giant mothers is human (_homo sapiens sapiens_). Giants possess the standard troll racial modifications with the following exceptions: +5 Strength and no Dermal Armor.
+
+**Gnomes (Dwarf)** Members of the gnome subgroup inhabit Central Europe and Asia Minor. Gnomes are distinguished from common dwarfs by longer noses and a shorter, more childlike physique. Gnomes tend to favor rural environments over urban settings. Most cling to the behaviors traditionally attributed to their race by mythology and seem unnerved by modern technology. All known magical gnomes are shamans. Gnomes receive the standard dwarf racial modifications, with the following exception: +2 Willpower.
+
+**Oni (Ork)** Japanese orks, or oni, have bright red, blue or orange skin. Less apparent physical characteristics include slightly protuberant eyes; enlarged, pointed ears; and horns. Additionally, oni display a higher than average propensity for magical ability. Oni are reputedly treacherous and hostile, but this view seems more a product of Japanese anti-metahuman prejudice than of any inherent oni characteristics. At the gamemaster's discretion, players creating magical oni characters may select Resources as Priority A, Race as Priority B and Magic as Priority C. All non-magical oni use the regular metahuman Priority assignments.
+
+**Wakyambi (Elf)** The wakyambi are an extremely rare elven subgroup native to Africa. The wakyambi often lack pointed ears and are noticeably thinner and taller than other elves, many growing as tall as trolls and a rare few even taller. Wakyambi almost always possess black or brown skin, though rare albino wakyambi are known to exist, characterized by white skin, no body hair and red eyes. All known albino wakyambi shun the modern world and live deep within the jungles of the African heartland. Numerous African legends refer to a group known as the Heaven People that has given many gifts to humans over the millennia, for their own mysterious reasons. Those legends describe the Heaven People as closely resembling the wakyambi. Seeking to gain the prestige, reverence and other benefits accorded to the wakyambi, some nonwakyambi African elves claim to be members of the Heaven People—but no true wakyambi ever makes such a claim. The wakyambi receive the standard elf racial modifications, with the following exceptions: increase Willpower by +1, no Quickness bonus.
+
+**Ogre (Ork)** Members of the European ogre subgroup are shorter and stockier than most orks. They possess smoother skin and less body and head hair than other orks, as well as pronounced jaw lines. Ogres receive the standard ork racial modifications, but do not suffer a Charisma penalty.
+
+**Minotaurs (Troll)** Minotaurs are an unusual Mediterranean mutation of the troll metatype, distinguished by pronounced snouts in place of noses, wide-set eyes, long horns and extensive body hair. They possess the standard troll racial modifications, except adjust the following Attributes by 1: Body (+4), Strength (+3), Charisma and Intelligence (-1).
+
+**Satyr (Ork)** Members of the Mediterranean satyr subgroup often possess relatively small physical builds, furry lower bodies, cloven hooves and small, curly horns. Popular myth to the contrary, satyrs are not all musicians or "party animals." Nearly all satyrs possess magical abilities and follow the way of the shaman. Most follow the totem of Bacchus (use the Coyote totem statistics, p. 120, SRII). This totem resembles the Greek god of the same name. Though metahuman satyrs are often confused with wild satyrs (p. 86, Paranormal Animals of Europe), members of the ork-satyr subgroup are fully sentient metahumans. Satyrs have -1 Quickness due to their hooves and a +1 bonus to Willpower.
+
+**The Night Ones (Elf)** A mostly European metavariant of elves, known by their own choice as the Night Ones, possesses the distinguishing physical characteristic of fine fur covering their bodies. This layer of fur is love indistinguishable from skin at a distance, but the fact that the fur ranges in color from black to violet to blue, with some rare examples of green and very deep orange, makes this metavariant quickly apparent at close range. The Night Ones' hair and eyes are usually a tint of their skin color, though a few rare Night Ones have silver hair and eyes. Because the most common colors of fur are the dark shades, the general public almost immediately dubbed these elves the Dark Elves. Despite popular urban myth, however, the Night Ones are not a cult or an "evil" elven subgroup. Found mainly in Europe, an increasing number of Night Ones have been appearing in the Tir nations. Night Ones have a mild allergy to sunlight and so prefer to live and work at night, but otherwise they resemble other elves. The Night Ones receive the standard elf racial modifications, with the following exceptions: Mild allergy to sunlight, +2 Quickness.
+
+**Dryads (Elf)** Dryads are an all-female metavariant of elves characterized by an average height of just more than 1 meter and hair color that appears to change with the seasons of the areas in which they live (for example, brown or white in winter months, bright green in the summer and various oranges, reds and yellows in the autumn months). All dryads have dark brown eyes with no visible pupils. No matter where they are born, all dryads migrate to forested or wooded areas as soon as they are capable of traveling on their own—the further away from the urban sprawl, the better. The longer they live in these isolated areas, the more feral they become, in a voluntary separation from society that includes speaking a language only other dryads understand. While scientific studies cannot pinpoint any specific medical reason for it, dryads exhibit a Mild allergy to urban areas, displaying all the physical and mental strains common to any allergy sufferer whenever they travel away from their home. All known dryads are shamans who follow a variation of the Great Mother totem (see p. 152, Awakenings; p. 149, Germany Sourcebook). The dryads call their totem Father Tree, but the game stats are the same. Dryads receive the standard elf racial modifications, with the following exceptions: Mild allergy to urban areas, -1 Strength, -1 Body, +3 Charisma bonus, and a limited version of the Edge Animal Empathy (this Edge does not need to be balanced by a Flaw; see p. 30). For dryads, the Animal Empathy Edge only affects birds and small tree-living animals like squirrels and chipmunks.
+
+In _Shadowrun_, a character's various skills largely define his or her overall abilities. Consequently, the use and improvement of skills is one of the most important aspects of character development in _Shadowrun_. This section presents material designed to fine-tune and expand the basic skill system to provide more satisfying play. The section includes a revised version of the basic Skill Web, clarification of the Skill Web default rules and Dice Pool rules, and optional training rules that enable players to improve their characters' skills and Attributes during the course of play.
+
+### REVISED SKILL WEB
+
+The Skill Web (p. 69, SRII) is probably the most used—and abused—component of the _Shadowrun_ game system. The following revised Skill Web has been designed to correct a few of the most common problems associated with the Skill Web, and reflects additions made to the game since the original Skill Web was first published. The revised Skill Web exchanges the positions of the Biotech and Cybertechnology skills. This change reflects the fact that Biotech is used to provide first aid as well as basic medical treatment, while Cybertechnology represents knowledge of advanced cybermedical procedures. This change makes Biotech relatively easier to default to, and makes defaulting to Cybertechnology as difficult as defaulting to the Computer and Electronic Build and Repair (B/R) skills.
+
+The revised Skill Web includes the new Psychometry and Enchanting Skills introduced in the _Awakenings_ sourcebook. It also includes an extra dot between the Vehicle B/R Skills and the Reaction Attribute. This revision reflects the difficulty of building and repairing a vehicle compared to the relative ease of driving one. The revised Skill Web also contains the new skill Instruction, used when teaching or training a player character in a new skill (see Training with an Instructor, p. 51). Finally, the new Skill Web enables characters to default to Intelligence for any B/R Skill Test.
+
+### REVISED DEFAULT RULES
+
+Long ago, many _Shadowrun_ players discovered they could use the Skill Web rules to substitute other abilities for their characters' skills and enable their characters to accomplish feats that they would otherwise be incapable of performing. Such use of the Skill Web violates the basic idea behind it, however, and negates the challenge of succeeding within a character's limitations. The following rules and guidelines are designed to close the loopholes that allowed such abuses and provide more challenging and rewarding play.
+
+#### DEFAULT SKILL/ATTRIBUTE LIMITS
+
+Limiting the feats that characters can perform with default skills or Attributes is one way that gamemasters can discourage players from misusing the Skill Web. Remember, a character uses a default skill or Attribute in place of a specific skill suited to a particular task. However, the default skill/Attribute will never be suited to the task as well as the original skill. Therefore, the character should not be able to accomplish the task as well as someone who uses the skill itself.
+
+For example, just because a character can default to Intelligence from the Cybertechnology Skill does not mean that Intelligence alone should enable the average runner to sit down and design a delta-grade move-by-wire system. Or take the case of a street samurai who's riding shotgun in his friend Zippy's LAV. When a lucky shot geeks Zippy, the street samurai must control the LAV himself. He doesn't have the Vectored Thrust Skill, so he defaults to Reaction to make the Vectored Thrust Test. With some luck, his high Reaction might enable him to keep the craft in the air and maybe even land it safely. But without the Vectored Thrust Skill, he would not know how to read the LAV's control panel, use the LAN to plot way-points, or perform other advanced piloting tasks.
+
+#### TASK-APPROPRIATE DEFAULT SKILLS
+
+The Skill Web is simply a guide to linking loosely related skills. Most related skills share only a few similar aspects, and so every gamemaster should use his or her own judgment to decide whether any proposed default skill/Attribute is appropriate for a given task. If a player wants to default to a skill that is totally unrelated to the task, the gamemaster may simply forbid it.
+
+Charlie wants to program the micro-control circuitry on a new set of wired reflexes. Normally, this would require a Cybertechnology Test, but Charlie lacks Cybertechnology, so he asks the gamemaster if he can default to his Computer Skill for the task. The gamemaster approves. The two skills are connected on the Skill Web, but more important, a character with Computer Skill would plausibly have the knowledge needed to program such circuitry. So Charlie's Computer Skill would be appropriate for the task.
+
+Later in the game, Diana decides she wants to implant some cyberware into one of her fellow runners, a task that normally requires a Cybertechnology Test. Diana doesn't have the Cybertechnology Skill either, so she asks the gamemaster if she can default to her Computer Theory Skill. The gamemaster rejects this request, because the Computer Theory Skill would not plausibly give a character the knowledge required to perform surgery.
+
+#### Task-Appropriate Modifiers
+
+In cases where the appropriateness of a proposed default skill/Attribute is not as clear cut, gamemasters may allow the character to use the default skill/Attribute but add a +1 task-appropriate target modifier to the test. The task-appropriate modifier is added to any other default modifiers for the test.
+
+Oak needs to make an Etiquette (Street) Test to enlist the aid of some local gangers on a run. Oak doesn't have that skill, so he asks the gamemaster if he can default to his Leadership Skill. The gamemaster okays the request. The two skills are not quite the same, but he figures that a runner could use either skill to persuade some gangers to help him. However, the gamemaster also considers that the gangers may not like being given orders (part of the reason why the task calls for an Etiquette Test). Therefore, he adds a +1 target modifier to the test. Along with the +2 target modifier for defaulting from Etiquette to Leadership, that produces a final +3 target modifier for the test. For roleplaying purposes, gamemasters should also consider how the use of individual default skills/Attributes affects characters' actions. In the preceding example, Oak would be likely to bark orders at the gangers, rather than persuade them to help. Oak's approach, of course, will partially determine how the gangers react.
+
+#### PARTIAL DEFAULTING
+
+Under the old Skill Web rules, a character with a low-level skill had two options when a test required using that ability. He or she could simply use the skill against the test's base target number, or the character could use the Skill Web and default to a nearby skill or Attribute, accepting a higher target number in exchange for more dice on the test.
+
+The partial default rule provides a compromise between these two choices. When partially defaulting to a skill or Attribute, calculate the average of the original skill rating and the default skill/Attribute rating. The character then uses that average rating for the test. The test target modifier equals half of the target modifier incurred for a standard default.
+
+Fenris has Athletics 2 and Quickness 10, so he decides to partially default to his Quickness when he's faced with an Athletics (4) Test. He calculates the average of his Quickness and Athletics ratings (10 + 2 = 12, 12 ÷ 2 = 6) to determine his rating for the test: 6. One dot lies between Athletics and Quickness on the Skill Web, which yields a +2 target modifier on a standard default between the two. Because Fenris is using the partial default rule, however, the target modifier is only +1. Fenris's partial default enables him to roll 6 dice against a Target Number 5 for the test.
+
+### DEFAULTING FROM CONCENTRATIONS/SPECIALIZATIONS
+
+Normally, a character attempting a task that falls outside of his Concentration or Specialization would simply use his general skill for the task. In some cases, however, the difference between the ratings of the character's general skill and his Concentration or Specialization is quite large. In these cases, the character may want to use the Skill Web to default to the general skill.
+
+To default from a Concentration or Specialization to the general skill, use the following rules. One dot separates each Concentration from its general skill on the Skill Web. Therefore, a character who defaults to a general skill from a Concentration receives a +2 target modifier for his or her test. Each Specialization is half a dot (+1 target modifier) away from its corresponding Concentration; thus, defaulting to a general skill from a Specialization adds a +3 target modifier.
+
+Keep in mind that a character incurs no default modifier if he uses his own general skill rating for tasks that require one of the skill's Concentrations or Specializations. Similarly, a character incurs no default modifier if he or she uses a Concentration for tasks that require one of a skill's Specializations.
+
+---
+
+### FIREARMS
+- **GUNNERY**
+- **PISTOLS**
+- **RIFLE**
+- **O**
+= +2 TO TARGET NUMBER
+= +1 TO TARGET NUMBER
+
+Iceman has Firearms 3, Firearms (Pistols) 5, and Firearms (Colt Manhunter) 7. On one particular run, he finds himself facing an armored troll. He needs a bit more firepower than his trusty Colt can provide, so he picks up a nearby Ares HVAR rifle. The test has a Target Number 4.
+
+Iceman's Concentration doesn't cover rifles, so he has two options for the test. He can use his general Firearms 3, or he can use the Skill Web and default from his Firearms (Colt Manhunter) Specialization to Firearms. One and a half dots separate the two skills, so the test receives a +3 target modifier for a final Target Number 7. That's higher than the original target number, but Iceman's Firearms (Colt Manhunter) 7 gives him more dice to roll as well.
+
+When Iceman sees that the HVAR is having little effect on the troll, he picks up a Panther assault cannon from a nearby corpse and takes aim. Again, the test begins at a base Target Number 4. Because the Panther is a heavy weapon, Iceman must default to the Gunnery Skill in order to use this gun, beginning with either his general Firearms Skill (3 dice) or Firearms (Colt Manhunter) Specialization (7 dice). Defaulting from Firearms adds a +2 target modifier to the target number (1 dot separates Gunnery and Firearms on the Skill Web). Defaulting from Firearms (Colt Manhunter) adds a +5 target modifier (2-1/2 dots separate Gunnery and the specialization). Because Iceman's general Firearms rating is only 3, he decides to use his Specialization and make a Firearms (Colt Manhunter) (9) Test.
+
+---
+
+### OPTIONAL DICE POOLS
+
+Dice Pools reflect the effects of Attribute or skill ratings on a character's ability to perform a task. As experienced players know, a Dice Pool provides extra dice that a player can add to those normally allotted for a test. The basic Shadowrun rules offer four types of Dice Pools: the Combat Pool, the Magic Pool, the Control Pool and the Hacking Pool. Each pool can be used to supplement a specific type of test. (See p. 32, SRII, for more details.)
+
+Some players feel that their characters are at a disadvantage in Shadowrun games because those characters lack a Dice Pool to supplement their most important and most frequently used skills. The following three Dice Pools provide examples of optional pools that gamemasters may wish to add to their games to accommodate those characters. Feel free to create additional Dice Pools to suit the specific conditions of your campaign.
+
+#### ATHLETICS POOL
+
+Player characters can use dice from the Athletics Pool on any Athletic Skill Tests, such as Climbing and Lifting Tests.
+
+To determine a character's Athletic Pool dice, add his or her Quickness and Strength Ratings, divide by 2 and round down. The number of Athletic Pool dice cannot exceed the character's base Athletics Skill Rating.
+
+#### SOCIAL POOL
+
+Characters can use Social Pool dice on any Social Skill Tests, such as Etiquette or Negotiation Tests.
+
+To determine a character's Social Pool Dice, add his or her Charisma and Intelligence Ratings, divide by 2 and round down.
+
+#### SKILL IMPROVEMENT TABLE
+
+|Skill Type|Base Training Time Required to Improve Skill (In days)|
+|---|---|
+|Active, B/R or Social|Required Karma Points spent x 7|
+|Knowledge or Language|Required Karma Points spent x 15|
+|*See Training Days, page 53, for an explanation of training days.||
+
+The number of Social Pool dice cannot exceed the rating of the skill used for the test.
+
+#### DODGE POOL
+
+Characters can use Dodge Pool dice on any Resistance Tests made to resist damage taken from firearms, projectile or throwing weapons. To create the Dodge Pool, "transfer" half the Combat Pool dice to the Dodge Pool. Use the remaining Combat Pool dice for offensive actions, and the Dodge Pool dice for defensive actions.
+
+---
+
+### OPTIONAL TRAINING RULES
+
+Technically, player characters can simply purchase skill and Attribute improvements with Good Karma points (see p. 190, SRII). However, gamemasters can more accurately simulate the time and dedication needed to improve a skill by requiring player characters to spend time training when they want to improve skills or Attributes.
+
+#### SKILL-IMPROVEMENT TRAINING
+
+Under the training rules, the time a character must spend to improve a skill depends on the type of skill being learned, as shown on the Skill Improvement Table.
+
+The training time requirements apply to Concentrations and Specializations in the skills as well. Every Concentration and Specialization must be improved separately.
+
+Characters can reduce the base training time by making a Skill Test using the skill they are improving (this test represents how quickly the character comprehends new topics and relates them to his existing ability in the skill). The base target number is equal to the new skill rating being trained for plus 2. If the character has used the skill often in game play, especially in stressful situations, the gamemaster can apply a -1 target modifier to the Skill Test. (Gamemasters may adjust this modifier to suit the character and game situation, if desired.) Characters may also reduce their training time by enlisting the aid of a live or virtual instructor (see Training with an Instructor, p. 51).
+
+Characters may also use the Skill Web to default to another skill or Attribute for the above test, per standard rules.
+
+To calculate the final training time, divide the base time by the number of successes achieved on the Skill Test. If the character achieves no successes, multiply the base training time by 1.5 and round up.
+
+Generally, training time must be uninterrupted-otherwise the required time period increases. If the character does not train for a number of days equal to his or her Intelligence Rating plus the new skill rating, he must allow for extra training time. The extra time equals the number of days remaining in the required training time, multiplied by 2. This extra training time reflects how long the character must spend "getting back up to speed." Characters may incur extra training time an unlimited number of times.
+
+Sasser wants to raise her Medicine Skill from 2 to 3. Medicine is a Concentration of Biology, a knowledge skill, so the improvement will cost 4 Karma Points. That means a required training time of 60 days (required Karma Points 4 × 15 for knowledge skills). That seems like a long time, so Sasser decides to make a Medicine Test to reduce the required time. The Target Number is 5 (new skill rating + 2). Sasser rarely uses her Medicine Skill, so the gamemaster declines to reduce the target number with a modifier.
+
+The test yields 2 successes, which produces a final training time of 30 days (base training time of 60 days + 2). So, after training for 30 days, Sasser can spend 4 Good Karma Points to raise her Medicine Rating to 3.
+
+After training for 25 days, however, Sasser needs to go on a run. The run goes poorly, and Sasser doesn't make it back to Seattle until 14 days have passed. That's a problem. Sasser has Intelligence 5, and the new Skill Rating is 3-so any time she misses 8 or more days of training for the improvement, she must add extra training time. She had only 5 days left in the original training time when she stopped, so she must now train for 10 days to improve the skill (remaining days x 2 = extra training time).
+
+---
+
+### LEARNING A NEW SKILL
+
+Though the Shadowrun rules have always allowed player characters to learn new skills during the course of the game (postcharacter creation), no guidelines existed to indicate what characters needed to do in order to gain new skills (see pp. 190-91, SRII). Characters can learn new skills through self-directed study (the do-it-yourself method), or by training with a live or virtual instructor. Generally, characters can use the do-it-yourself method to learn only skills related to those the character already possesses (see the revised Skill Web, p. 47). At their discretion, however, individual gamemasters may drop this restriction, limit it to certain specific skills, or even expand the restriction.
+
+#### DO-IT-YOURSELF METHOD
+
+The do-it-yourself method enables characters to learn new skills without the aid of an instructor. This method often makes learning more difficult, and even dangerous at times (especially when learning skills such as Demolitions, Biotech or Vectored Thrust Piloting, to name a few). In addition to these common-sense examples, the gamemaster may otherwise restrict the choice of skills that a character can learn on his own.
+
+The base training time to learn a new skill is 30 days. A player can reduce this time for his characters by making a Skill (4) Test for the new skill. Because the character does not yet possess the skill, the player must make the test with a related skill that the character already possesses. (At the gamemaster's discretion, characters may default to an Attribute for the test). All standard default rules and target modifiers apply.
+
+To determine the final training time required to learn the new skill, divide the base training time (30 days) by the number of successes from the test. If the test yields no successes, multiply the base training time by 1.5 to calculate the final training time. At the end of the training period, the character possesses the new skill. (Characters who interrupt their training may incur extra training time, as noted in Skill-Improvement Training, p. 50).
+
+Characters always learn new skills at Skill Rating 1.
+
+Phantom wants to learn Demolitions-in game terms, he wants Demolitions 1. The gamemaster is allowing characters to default to Attributes when learning new skills, so the player running Phantom decides to default to his character's Intelligence for the test he makes to reduce the standard 30-day training period. On the Skill Web, 3 dots separate Intelligence and the Demolitions Skill, so the test target number is 10 (base Target Number 4 + default modifier of 6). The test yields 2 successes, and so Phantom's final training time is 15 days (30 days + 2).
+
+---
+
+#### TRAINING WITH AN INSTRUCTOR
+
+Instructors can aid characters in two ways. First, they may enable characters to learn new skills they cannot learn on their own. Second, they can help reduce the training time required to improve an existing skill or learn a new one.
+
+Any qualified character can serve as an instructor. The student character can try to convince a friend to teach him or her a skill, enlist the aid of a contact, or seek out a professional Instructor. Friends and contacts may accept favors in return for instruction, but professional instructors usually demand nuyen for their services (see Instructor Fees, p. 52).
+
+##### Instructor Qualifications
+
+An instructor must possess two basic qualifications. First, the instructor must know the skill the student wishes to learn. If the student wants to improve a skill, the instructor must have a skill rating that equals or exceeds the rating the student wishes to achieve.
+
+Second, the Instructor should possess the Instruction Skill (see the Revised Skill Web, p. 47). An individual without the Instruction Skill can attempt to teach a skill, but the would-be instructor must possess a Skill Rating 3 or higher in the skill he or she is teaching. When training a student who wants to improve a skill, the instructor must possess a skill rating at least 2 levels higher than the skill rating he or she is attempting to teach.
+
+##### Teaching
+
+When teaching a new skill or helping a character improve an existing skill rating, an instructor makes an Instruction (4) Test. If the instructor does not possess the Instruction Skill, he or she makes a test using the skill being taught with a +4 target modifier. For every 2 successes that either test generates, add 1 to the student's Skill Test success total, for purposes of reducing the student's required training time.
+
+If the Instruction Test or Skill Test generates no successes, the instructor simply cannot teach the student. To simulate this failure in the game universe, the student must compensate the Instructor for his or her efforts by forfeiting 1 day's worth of pay to the instructor, and must also add 1.5 days to his training time for the skill-this represents the character's disappointment at failing with one instructor and the need to shift gears to find another teacher, not to mention the nuyen spent on the first instructor. The gamemaster can use any number of reasons to explain the failure in roleplaying terms-the Instructor and student may have philosophical differences, the instructor's methods may clash with the material, or the two characters may distrust one another or simply be incompatible.
+
+Characters who are learning a new skill with the aid of an instructor also receive a -1 target modifier on their Skill Tests for learning new skills.
+
+An instructor must train with the student for the student's entire training time. If the instructor leaves before the student has completed the training, double the remaining training time. This increase represents the greater difficulty of learning on one's own.
+
+##### Instructor Fees
+
+Instructor fees present a convenient way for gamemasters to curb characters that may threaten game balance by accumulating massive skill sets. The Suggested Instructor Fees Table provides suggested daily instructor fees, but gamemasters should modify fees as they see fit. After all, better instructors will command higher fees than mediocre instructors, and instruction in rare or highly prized skills will cost more than instruction in common skills.
+
+Scarecrow wants to improve his Armed Combat Skill Rating from 3 to 4. Armed Combat is a general skill, so the increase costs 8 Karma Points. That means the base training time is 56 days (8 x 7 = 56). Scarecrow makes an Armed Combat (6) Test to reduce the time and achieves 2 successes. That brings the training time down to 28 days (56 + 2).
+
+However, Scarecrow has arranged for Oak, a fellow runner, to teach him Armed Combat. (Oak has Armed Combat 6, so he's qualified to teach Scarecrow at Armed Combat 4.) Oak achieves 2 successes on his Instruction Test, so Scarecrow adds an extra success to his Armed Combat Test result. That brings the training time down to 18 days (56 + 3).
+
+Scarecrow is pretty happy-and so is Oak as he calculates his fee. (Oak's not that good of a friend. And besides, the streets are the streets-if you have something of value, you need to cash in on it.) Professional instructors with Instruction 4 usually charge about 100 nuyen per day, so Oak figures his services are worth 1,800 nuyen. (Teaching Armed
+
+##### SUGGESTED INSTRUCTOR FEES TABLE
+
+|Instruction Skill Rating|Daily Fee (in nuyen)|
+|---|---|
+|1|40|
+|2|50|
+|3|75|
+|4|100|
+|5|200|
+|6|400|
+|7+|+100 per skill level over 6|
+
+| Fee Modifiers                               |                    |
+|:------------------------------------------- | ------------------ |
+| Skill at Rating 2 or 3                      | -25¥ per day       |
+| Skill at Rating 4 or 5                      | No modifier        |
+| Skill at Rating 6 or 7                      | +25¥ per day       |
+| Skill at Rating 8 or higher                 | +50¥ per day       |
+| Concentration                               | +50% of total fee  |
+| Specialization                              | +100% of total fee |
+| Instruction provided in a classroom setting | -50% of total fee  |
+| More than 4 hours of instruction per day    | +50% of daily fee  |
+
+Combat 4 doesn't take any advanced knowledge or special expertise.)
+
+Oak knows Scarecrow doesn't have that kind of cred, so he makes Scarecrow a deal. In lieu of the fee, Scarecrow agrees to introduce Oak to Scarecrow's contact, the one with all the cool advanced weaponry. Oak figures a contact like that is worth a thousand or so nuyen-plus, Scarecrow has agreed to buy him dinner every day this month.
+
+##### Virtual Instructors
+
+If a character cannot find a live instructor or does not want to use one, he or she can purchase a "virtual instructor." Virtual instructors may take the form of simsense chips, optical computer disks or trideo tapes.
+
+As with living instructors, every virtual-instructor program has an effective skill rating in the skill it teaches and an Instruction Skill rating. The program cannot make an Instruction Test to reduce the student's base training time, but all other standard instructor rules apply. Perhaps the most important advantage a virtual instructor offers is that a character can purchase a chip with a very high skill rating and then use that same program when training for multiple advanced ratings in a single skill.
+
+To determine the cost of a virtual-instructor program, combine the program's effective skill rating and Instruction rating and divide the sum by 2 (round up) for the average rating, then consult the Skill Memory Table (p. 248, SRII) to determine the Mp size of the program. Calculate the cost in nuyen by multiplying the program's Mp by 5.
+
+To reflect the difficulty of obtaining virtual-instructor programs for skills that are inherently illegal or restricted (such as Demolitions, Military Vehicle Skills, or high-level Firearms and Weapons Skills), treat such programs as if they have Street Indexes of 2 and Availability Ratings of 10.
+
+Similarly, skill chips are not readily available for general skills rated at 6 or higher, Concentrations of 7 or higher, and Specializations of 8 or higher. Treat such skills as if they have Availability Ratings of 10 or higher and Street Indexes of 1.5 (such chips may not be illegal, but they are hard to acquire).
+
+Wraith decides he wants to raise his Biology (Zoology) Rating from 1 to 2. He goes to the local Chips 'R' Us. He finds the best Zoology virtual-instructor program on the market; the gamemaster decides it has an Instruction Rating 6. The chip contains enough data to bring a character up to Zoology 3, so it has an effective Skill Rating of 3.
+
+The two ratings produce an average of 4.5, rounded up to 5. The gamemaster then consults the Skillsoft Memory Table. A Rating 5 General Skill/Concentration chip contains 150 Mp, so the training chip costs 750¥ (5 x 150). That's a pretty good deal, because Wraith can re-use the chip later if he wants to raise his Zoology Rating to 3, and he won't have to spend more nuyen.
+
+---
+
+### TRAINING DAYS
+
+A standard training-time "day" is 4 hours. Thus, a training time of 30 days equals 120 hours of study.
+
+A character who is particularly eager to learn or improve a skill can train for more than 4 hours a day, though no metahuman can train 24 hours a day. A character's daily training limit equals half of his or her Willpower (rounded up) + 4.
+
+Characters can train beyond their daily training limit, but such training may prove ineffective. A character who wants to train in this manner must declare how many hours beyond his limit he intends to train. To determine how many of these hours will pay off, the character makes a Willpower (10) Test. The result is the number of extra hours of effective practice the character can put in beyond his or her daily training limit. No matter what the test result, the character may not exceed his declared extra practice time.
+
+To determine the number of days the character will need to complete his training at the new pace, simply divide the total number of hours in the training time by the character's total daily training period.
+
+Remember Scarecrow? He needed 18 days to Improve his Firearms Skill (that comes out to 72 hours). Scarecrow is impatient, however, and he has lots of time on his hands. Consequently, he decides to spend 10 hours a day training. He has Willpower 6, so his maximum daily training limit is 7 hours ([6 + 2] + 4).
+
+To determine how many of the extra 3 hours will be effective, Scarecrow makes a Willpower (10) Test. The test yields 1 success. That means each day's training session will yield 8 hours of effective training (even though Scarecrow slogs away for 10 hours).
+
+However, the extended daily training sessions reduce Scarecrow's training time to 9 days (72 + 8).
+
+---
+
+### IMPROVING ATTRIBUTES
+
+If desired, gamemasters may allow player characters to improve their Attributes in the same manner they improve skills. (For roleplaying purposes, the player character will need to devise some way to "work out" using the Attribute. For example, a character might lift weights for several hours each day to improve his or her Strength. In all cases, the gamemaster determines if a proposed training regimen is appropriate.)
+
+The base training time to improve an Attribute is the same as the base training time for an active (non-knowledge) skill (7 days times the number of Karma Points required for the improvement). See p. 190, SRII, for Karma costs of Attribute increases. To reduce the training time, a player character can make an Attribute (6) Test, using the Attribute he or she is improving.
+
+Generally, player characters can raise their Attributes without the help of instructors. However, gamemasters may require that characters use an instructor if they want to raise an Attribute to its racial maximum or beyond. Gamemasters may also require that characters use instructors when increasing their Willpower, Intelligence or Charisma Ratings.
+
+Instructor rules and fees for Attribute training are generally the same as for skill training. However, the instructor skill qualifications do not apply. Instead, the instructor must possess an Instruction Skill Rating that exceeds the Attribute Rating the student wants to achieve. (The instructor's ability to motivate the student is much more important than his own skill during Attribute training.)
+
+Golden Eyes wants to raise her Charisma Rating from 5 to 6. The increase costs 6 Karma Points, which gives her a base training time of 42 days (6 x 7 = 42). Golden Eyes is human, so her racial maximum for Charisma is Rating 6. Because she's going for the maximum, the gamemaster insists that she train with an Instructor.
+
+After a little asking around, Golden Eyes finds Mizz Manners, a troll who "can take a ghoul and make it Miss Universe." Mizz Manners puts Golden Eyes on a regimen of hard-core socializing. Golden Eyes spends her nights hopping between the hippest gallery openings, the trendiest clubs and the most exclusive parties. During her days, Golden Eye rigorously trains to polish her manners, speech and dress, and reads up on sophisticated conversational topics.
+
+To reduce the length of her training period, Golden Eyes makes a Charisma (6) Test. The test yields 2 successes. Meanwhile, Mizz Manners achieves 2 successes on her Instruction (4) Test. She can contribute 1 success to Golden Eye's Attribute Test success total-which brings it up to 3. That means Golden Eyes' training time drops to 14 days (42 + 3).

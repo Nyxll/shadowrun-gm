@@ -1,0 +1,32 @@
+{
+  "name": "Classify Training Queries",
+  "description": "Process unclassified queries with intent classifier",
+  "type": "interactive",
+  "query": {
+    "select": "SELECT id, query_text, expected_intent FROM query_logs WHERE is_training_data = TRUE AND gm_response IS NULL ORDER BY id",
+    "limit": null
+  },
+  "steps": [
+    {
+      "type": "classify",
+      "prompt": "Classifying query...",
+      "save_field": "intent"
+    },
+    {
+      "type": "input",
+      "prompt": "Enter GM response",
+      "field": "gm_response",
+      "optional": false,
+      "multiline": true
+    },
+    {
+      "type": "dice_rolls",
+      "prompt": "Add dice rolls?",
+      "optional": true
+    }
+  ],
+  "update": {
+    "query": "UPDATE query_logs SET intent=$1, confidence=$2, classification_method=$3, classification=$4, gm_response=$5, dice_rolls=$6 WHERE id=$7",
+    "fields": ["intent", "confidence", "classification_method", "classification", "gm_response", "dice_rolls", "id"]
+  }
+}

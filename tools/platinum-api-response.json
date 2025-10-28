@@ -1,0 +1,567 @@
+{
+  "id": "b6f3635e-b977-4414-b87f-7bb208723dd8",
+  "name": "Kent Jefferies",
+  "street_name": "Platinum",
+  "character_type": null,
+  "archetype": "Street Samurai",
+  "metatype": null,
+  "sex": null,
+  "age": null,
+  "height": null,
+  "weight": null,
+  "hair": null,
+  "eyes": null,
+  "skin": null,
+  "nuyen": 498148,
+  "karma_pool": 45,
+  "karma_total": 445,
+  "karma_available": 0,
+  "lifestyle": null,
+  "lifestyle_cost": null,
+  "lifestyle_months_prepaid": null,
+  "essence_hole": null,
+  "initiative": "27 +4D6",
+  "combat_pool": 7,
+  "magic_pool": null,
+  "body_index_current": null,
+  "body_index_max": null,
+  "attributes": {
+    "body": 10,
+    "body_base": 9,
+    "quickness": 15,
+    "quickness_base": 10,
+    "strength": 14,
+    "strength_base": 9,
+    "charisma": 4,
+    "charisma_base": 4,
+    "intelligence": 12,
+    "intelligence_base": 9,
+    "willpower": 9,
+    "willpower_base": 9,
+    "essence": 6.0,
+    "essence_base": 6.0,
+    "magic": 0,
+    "magic_base": 0,
+    "reaction": 27,
+    "reaction_base": 27
+  },
+  "skills": {
+    "active": [
+      {
+        "skill_name": "Athletics",
+        "base_rating": 6,
+        "current_rating": 7,
+        "specialization": null
+      },
+      {
+        "skill_name": "Cars",
+        "base_rating": 2,
+        "current_rating": 2,
+        "specialization": null
+      },
+      {
+        "skill_name": "Computers",
+        "base_rating": 7,
+        "current_rating": 7,
+        "specialization": null
+      },
+      {
+        "skill_name": "Demolitions",
+        "base_rating": 3,
+        "current_rating": 5,
+        "specialization": null
+      },
+      {
+        "skill_name": "Firearms",
+        "base_rating": 7,
+        "current_rating": 9,
+        "specialization": null
+      },
+      {
+        "skill_name": "Gunnery",
+        "base_rating": 5,
+        "current_rating": 7,
+        "specialization": null
+      },
+      {
+        "skill_name": "Monowhip",
+        "base_rating": 6,
+        "current_rating": 7,
+        "specialization": null
+      },
+      {
+        "skill_name": "Negotiation",
+        "base_rating": 3,
+        "current_rating": 3,
+        "specialization": null
+      },
+      {
+        "skill_name": "Stealth",
+        "base_rating": 6,
+        "current_rating": 7,
+        "specialization": null
+      },
+      {
+        "skill_name": "Whips",
+        "base_rating": 2,
+        "current_rating": 3,
+        "specialization": null
+      }
+    ],
+    "knowledge": [],
+    "language": []
+  },
+  "cyberware": [
+    {
+      "name": "Cybereyes",
+      "essence_cost": 0.2,
+      "effects": [
+        "Lowlight",
+        "Magnification x3",
+        "Thermographic"
+      ]
+    },
+    {
+      "name": "Datajack (Delta-Grade Prototype)",
+      "essence_cost": 0.1,
+      "effects": []
+    },
+    {
+      "name": "Reaction Enhancers 6 (Delta-Grade)",
+      "essence_cost": 1.2,
+      "effects": [
+        "+6 REACTION"
+      ]
+    },
+    {
+      "name": "Smartlink 2 AEGIS",
+      "essence_cost": 0.5,
+      "effects": [
+        "-3 TN"
+      ]
+    },
+    {
+      "name": "Wired Reflexes 3 (Beta-Grade)",
+      "essence_cost": 2.4,
+      "effects": [
+        "+6 REACTION",
+        "+3D6 Initiative"
+      ]
+    }
+  ],
+  "bioware": [
+    {
+      "name": "Cerebral Booster 3",
+      "body_index_cost": 0.4,
+      "effects": [
+        "+3 INTELLIGENCE"
+      ]
+    },
+    {
+      "name": "Damage Compensator 3",
+      "body_index_cost": 0.75,
+      "effects": []
+    },
+    {
+      "name": "Enhanced Articulation",
+      "body_index_cost": 0.3,
+      "effects": [
+        "+1 REACTION",
+        "+1 athletics",
+        "+1 stealth",
+        "+1 firearms",
+        "+1 whips",
+        "+1 monowhip",
+        "+1 gunnery"
+      ]
+    },
+    {
+      "name": "Mnemonic Enhancer 4",
+      "body_index_cost": 1.2,
+      "effects": [
+        "+2 knowledge/language skills"
+      ]
+    },
+    {
+      "name": "Muscle Augmentation 4",
+      "body_index_cost": 4.0,
+      "effects": [
+        "+4 STRENGTH",
+        "+4 QUICKNESS"
+      ]
+    },
+    {
+      "name": "Reflex Recorder (Firearms)",
+      "body_index_cost": 0.3,
+      "effects": [
+        "+1 firearms"
+      ]
+    },
+    {
+      "name": "Supra-Thyroid Gland",
+      "body_index_cost": 1.4,
+      "effects": [
+        "+1 BODY",
+        "+1 STRENGTH",
+        "+1 REACTION",
+        "+1 QUICKNESS"
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Ares Alpha with Grenade Launcher",
+      "stats": null,
+      "modifications": {
+        "sound_suppressor": {
+          "conceal_bonus": 2
+        }
+      },
+      "notes": "**Ares Alpha with Grenade Launcher**\n  - Type: Assault Rifle/Grenade Launcher\n  - Damage: 7M (Rifle), by grenade type (Launcher)\n  - Concealability: 2\n  - Ammo: 42(c) (Rifle), 6(c) (Launcher)\n  - Modifications: Sound Suppressor\n  - Ammo Carried: 2 clips APDS (24 rounds)"
+    },
+    {
+      "name": "Armtech MGL-12 mini",
+      "stats": null,
+      "modifications": null,
+      "notes": "**Armtech MGL-12 mini**\n  - Type: Grenade Launcher\n  - Damage: By grenade type\n  - Concealability: N/A\n  - Ammo: N/A\n  - Modifications: N/A\n  - Ammo Carried: 6 launcher IPE concussion grenades"
+    },
+    {
+      "name": "Monowhip",
+      "stats": null,
+      "modifications": null,
+      "notes": "**Monowhip**\n  - Type: Melee (Whip)\n  - Damage: 10S\n  - Concealability: 10\n  - Ammo: N/A\n  - Reach: 2"
+    },
+    {
+      "name": "Morrissey Alta",
+      "stats": null,
+      "modifications": {
+        "smartlink": {
+          "rating": 1,
+          "tn_modifier": -2
+        },
+        "customization": {
+          "skill_bonus": 1
+        }
+      },
+      "notes": "**Morrissey Alta**\n  - Type: Heavy Pistol\n  - Damage: 12(c)\n  - Concealability: 6\n  - Ammo: 12(c)\n  - Modifications: Integrated Smartgun System, +1 dice for firearms (customized)\n  - Ammo Carried: Silver APDS Ammo (1 magazine - 80 rounds), 3 clips gel ammo"
+    },
+    {
+      "name": "MP Laser 3",
+      "stats": null,
+      "modifications": null,
+      "notes": "**MP Laser 3**\n  - Type: Laser Weapon\n  - Damage: 15M\n  - Concealability: N/A\n  - Ammo: 20 rounds\n  - Modifications: N/A"
+    },
+    {
+      "name": "Panther Assault Cannon",
+      "stats": null,
+      "modifications": {
+        "smartlink": {
+          "rating": 1,
+          "tn_modifier": -2
+        }
+      },
+      "notes": "**Panther Assault Cannon**\n  - Type: Assault Cannon\n  - Damage: 18D\n  - Concealability: N/A\n  - Ammo: N/A\n  - Modifications: Smartlinked\n  - Ammo Carried: 98 rounds"
+    },
+    {
+      "name": "Prototype Panther Assault Cannon",
+      "stats": null,
+      "modifications": {
+        "smartlink": {
+          "rating": 1,
+          "tn_modifier": -2
+        }
+      },
+      "notes": "**Prototype Panther Assault Cannon**\n  - Type: Assault Cannon\n  - Damage: 18D\n  - Concealability: N/A\n  - Ammo: N/A\n  - Modifications: Smartlinked\n  - Ammo Carried: 200 rounds APDS"
+    },
+    {
+      "name": "Walther MA-2100 Sniper Rifle",
+      "stats": null,
+      "modifications": null,
+      "notes": "**Walther MA-2100 Sniper Rifle**\n  - Type: Sniper Rifle\n  - Damage: 14S\n  - Concealability: N/A\n  - Ammo: 20 APDS rounds, 200 EX rounds (16S)\n  - Modifications: N/A"
+    }
+  ],
+  "armor": [
+    {
+      "name": "Armored Jacket (London Fog)",
+      "modifications": null,
+      "notes": "**Armored Jacket (London Fog)**\n  - Rating: 5/3 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Boomer Suit",
+      "modifications": null,
+      "notes": "**Boomer Suit**\n  - Rating: 8/6 (Body +8/Armor 6)\n  - Concealability: N/A\n  - Modifications: Wired 2, Gunnery +1, non-rigged +2 TN"
+    },
+    {
+      "name": "Forearm Guards",
+      "modifications": null,
+      "notes": "**Forearm Guards**\n  - Rating: +1 Impact\n  - Concealability: N/A"
+    },
+    {
+      "name": "Form-Fitting Body Armor 4",
+      "modifications": null,
+      "notes": "**Form-Fitting Body Armor 4**\n  - Rating: 4/2 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Hardened Military-Grade Armor",
+      "modifications": null,
+      "notes": "**Hardened Military-Grade Armor**\n  - Rating: 8/6 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Secure Helmet",
+      "modifications": null,
+      "notes": "**Secure Helmet**\n  - Rating: +2/+2 (Ballistic/Impact)\n  - Concealability: N/A"
+    },
+    {
+      "name": "Secure Jacket",
+      "modifications": null,
+      "notes": "**Secure Jacket**\n  - Rating: 5/3 (Ballistic/Impact)\n  - Concealability: N/A"
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Ammo",
+      "quantity": 1,
+      "notes": "**Ammo**\n  - APDS Ammo: 300 rounds\n  - Gel Ammo: 50 rounds\n  - Silver APDS Rounds: 20 heavy pistol, 20 sniper\n  - EX Rounds (16S): 200 rounds (for Walther MA-2100)"
+    },
+    {
+      "name": "astral projector (prototype helmet)",
+      "quantity": 1,
+      "notes": "**astral projector (prototype helmet)**\n  - Syncs mundanes to astral \"echo\" view (per *Awakenings* adapt)\n  - Allows Perception tests astral TN 4\n  - No projection/full assense\n  - Risk Stun Drain Will vs. 4 on prolonged use"
+    },
+    {
+      "name": "BattleTac Matrixlink",
+      "quantity": 1,
+      "notes": "**BattleTac Matrixlink**"
+    },
+    {
+      "name": "Bioware Container",
+      "quantity": 1,
+      "notes": "**Bioware Container**\n  - Orthoskin/Cerebral Booster"
+    },
+    {
+      "name": "Concealable Quickdraw Holster",
+      "quantity": 1,
+      "notes": "**Concealable Quickdraw Holster**\n  - Conceal +2"
+    },
+    {
+      "name": "Concussion Grenades",
+      "quantity": 1,
+      "notes": "**Concussion Grenades**\n  - Damage: 10M Stun, standard scatter 2D6 meters\n  - Concealability: 6 (worn/go bag)"
+    },
+    {
+      "name": "Ear Plugs",
+      "quantity": 1,
+      "notes": "**Ear Plugs**\n  - Radio Encryption 6, Subvocal, Hearing Amplification, Sound Damper 5, High/Low Frequency"
+    },
+    {
+      "name": "Electronics Kit",
+      "quantity": 1,
+      "notes": "**Electronics Kit**"
+    },
+    {
+      "name": "Electronics Toolkit",
+      "quantity": 1,
+      "notes": "**Electronics Toolkit**"
+    },
+    {
+      "name": "Encrypted Commlink",
+      "quantity": 1,
+      "notes": "**Encrypted Commlink**"
+    },
+    {
+      "name": "Flashpack",
+      "quantity": 1,
+      "notes": "**Flashpack**"
+    },
+    {
+      "name": "Go Bags",
+      "quantity": 1,
+      "notes": "**Go Bags**\n  - Contents include: Morrissey Alta with Integrated Smartgun System, Monowhip, Shower in a Can x4, Window Trembler R6, White Noise Generator R6, Maglock Keypass R6, Tranq Patches R6 x10, Trauma Patches x2, Sleep Inducers x3, IPE Defensive Grenades x3, Concussion Grenades x3, Hermetically Sealing Boxes x2."
+    },
+    {
+      "name": "Grapple Gun",
+      "quantity": 1,
+      "notes": "**Grapple Gun**"
+    },
+    {
+      "name": "IPE Defensive Grenades",
+      "quantity": 1,
+      "notes": "**IPE Defensive Grenades**\n  - Damage: 15S Physical, -2 per meter\n  - Concealability: 6 (worn/go bag)"
+    },
+    {
+      "name": "Jammer Rating 10",
+      "quantity": 1,
+      "notes": "**Jammer Rating 10**"
+    },
+    {
+      "name": "Legit ID Level 10",
+      "quantity": 1,
+      "notes": "**Legit ID Level 10**"
+    },
+    {
+      "name": "Maglock Passkey Rating 8",
+      "quantity": 1,
+      "notes": "**Maglock Passkey Rating 8**\n  - Conceal 10, opposed test: 8 dice vs. maglock Rating"
+    },
+    {
+      "name": "Medkit",
+      "quantity": 1,
+      "notes": "**Medkit**"
+    },
+    {
+      "name": "Non-Cyber BattleTac",
+      "quantity": 1,
+      "notes": "**Non-Cyber BattleTac**"
+    },
+    {
+      "name": "Note: House Rule Item",
+      "quantity": 1,
+      "notes": "**Note: House Rule Item**"
+    },
+    {
+      "name": "Pocket Secretary",
+      "quantity": 1,
+      "notes": "**Pocket Secretary**"
+    },
+    {
+      "name": "Prosthetic Skin Printer",
+      "quantity": 1,
+      "notes": "**Prosthetic Skin Printer**"
+    },
+    {
+      "name": "Remote Control Deck",
+      "quantity": 1,
+      "notes": "**Remote Control Deck**\n  - Looted, GM-Nissan Doberman compatible"
+    },
+    {
+      "name": "Riot Shield Large",
+      "quantity": 1,
+      "notes": "**Riot Shield Large**\n  - Conceal 2, Impact +2"
+    },
+    {
+      "name": "Sentry Guns \u00d72",
+      "quantity": 1,
+      "notes": "**Sentry Guns \u00d72**\n  - Ultrasound, Low-Light, Audio, Initiative 20+2D6, Remote, 200 rounds Alpha Gun, Sound Suppressors\n  - Enhanced with Project Aegis software, +1 die to Gunnery"
+    },
+    {
+      "name": "Sleep Inducers",
+      "quantity": 1,
+      "notes": "**Sleep Inducers**\n  - Damage: 6S Stun (Go Bag)\n  - Concealability: 10 (Go Bag)"
+    },
+    {
+      "name": "Stealth Grapple Line",
+      "quantity": 1,
+      "notes": "**Stealth Grapple Line**"
+    },
+    {
+      "name": "Tranq Patches Rating 6",
+      "quantity": 1,
+      "notes": "**Tranq Patches Rating 6**\n  - Damage: 6S Stun\n  - Concealability: 10"
+    },
+    {
+      "name": "Trauma Patches",
+      "quantity": 1,
+      "notes": "**Trauma Patches**"
+    },
+    {
+      "name": "Tres Chic Suit (London Fog)",
+      "quantity": 1,
+      "notes": "**Tres Chic Suit (London Fog)**"
+    },
+    {
+      "name": "Ultrasound Glasses with UV",
+      "quantity": 1,
+      "notes": "**Ultrasound Glasses with UV**"
+    }
+  ],
+  "vehicles": [
+    {
+      "name": "Eurocar Westwind",
+      "vehicle_type": "ground",
+      "handling": null,
+      "speed": null,
+      "body": null,
+      "armor": null,
+      "notes": "Type: Car\nHandling: 3/8\nSpeed: 210\nBody: 8\nArmor: 2\nSignature: N/A\nPilot: N/A\nModifications: N/A"
+    },
+    {
+      "name": "GMC Bulldog Stepvan",
+      "vehicle_type": "ground",
+      "handling": null,
+      "speed": null,
+      "body": null,
+      "armor": null,
+      "notes": "Type: Stepvan\nHandling: 4/8\nSpeed: 90\nBody: 8\nArmor: 4\nSignature: N/A\nPilot: N/A\nModifications: N/A"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Colonel Tanner",
+      "archetype": "Military Fixer",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Military Fixer"
+    },
+    {
+      "name": "Fuzzy Eddy",
+      "archetype": "Fixer",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Fixer"
+    },
+    {
+      "name": "Leroy/Gord",
+      "archetype": "Mage",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Mage"
+    },
+    {
+      "name": "Loretta",
+      "archetype": "Vampiric Mage",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Vampiric Mage"
+    },
+    {
+      "name": "Manticore",
+      "archetype": "Dwarf Decker",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Dwarf Decker"
+    },
+    {
+      "name": "Mattias",
+      "archetype": "Priest",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Priest"
+    },
+    {
+      "name": "Puppetmaster",
+      "archetype": "Fixer/Gun Runner/Nosferatu Mage",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Fixer/Gun Runner/Nosferatu Mage"
+    },
+    {
+      "name": "Tanis Driscol",
+      "archetype": "DocWagon Manager",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "DocWagon Manager"
+    },
+    {
+      "name": "Volaren",
+      "archetype": "Mr. Johnson",
+      "connection": 1,
+      "loyalty": 1,
+      "notes": "Mr. Johnson"
+    }
+  ],
+  "edges": [],
+  "flaws": [],
+  "spells": [],
+  "background": null,
+  "notes": null
+}

@@ -1,0 +1,319 @@
+!SKILLS.DAT - Skills data file - JW 960204 (Update from PM 940520)
+!-----------------------------------------------------------------
+!Shadowrun II Original
+!---------------------
+!#Skill class
+!Skill name
+! Concentration
+!  Specialization ( * = enter weapon/vehicle/etc... )
+!--------------
+#Combat skills
+!--------------
+Armed combat
+ Clubs
+  *weapon
+ Edged weapons
+  *weapon
+ Pole arms/staff
+  *weapon
+ Whips/Flails
+  *weapon
+Demolitions
+ Conventional explosives
+ Plastic explosives
+Firearms
+ Grenade launchers
+  *weapon
+ LMG
+  *weapon
+ Pistols
+  *weapon
+ Rifles
+  *weapon
+ SMG
+  *weapon
+ Tasers
+  *weapon
+Gunnery
+ Assault cannon
+  *weapon
+ Machine guns
+  *weapon
+ Missile launchers
+  *weapon
+ Vehicle cannons
+  *weapon
+Projectile weapons
+ Bows
+  *weapon
+ Crossbows
+  *weapon
+Throwing weapons
+ Aerodynamic
+  Shuriken
+  Airfoil grenades
+ Non-aerodynamic
+  Grenades
+  Knives
+ Shafted
+  *weapon
+Unarmed combat
+ Cyber implant weaponry
+  *weapon
+ Martial arts style
+  *Specific technique
+ Subduing combat
+!----------------
+#Physical skills
+!----------------
+Atlethics
+ Climbing
+ Jumping
+ Lifting
+ Running
+ Swimming
+Stealth
+ Farmland
+  *aspect
+ Urban
+  *aspect
+ Wilderness
+  *aspect
+!---------------
+#Magical skills
+!---------------
+Conjuring
+ Banishing
+  *type
+ Controlling
+  *type
+ Elemental
+  *type
+ Nature spirit
+  *type
+ Summoning 
+  *type
+Enchanting
+ Alchemy
+ Talismongering
+  *type
+Sorcery
+ Astral sorcery
+  *aspect
+ Combat spells
+  *technique
+ Detection spells
+  *technique
+ Forensic magic
+ Health spells
+  *technique
+ Illusion spells
+  *technique
+ Manipulation spells
+  *technique
+ Ritual sorcery
+  *spell category
+ Spellcasting
+  *spell category
+ Spell defense
+  *spell category
+!-----------------
+#Technical skills
+!-----------------
+Biotech
+ Extended care
+ First aid
+ Organ culture
+  *organ/limb
+ Replacement construction
+  *organ/limb
+ Transimplant surgery
+  Headware
+  Bodyware
+  Organic replacements
+Computer
+ Hardware
+  Mainframes
+  Micros
+  Interface tech
+  Implant tech
+ Software
+  Decking
+  Matrix programming
+  Non-matrix programming
+  Interface programming
+  Implant programming
+Electronics
+ Control systems
+ Diagnostic
+ Electronic warfare
+ Linking between devices
+ Maglocks
+!--------------
+#Social skills
+!--------------
+Etiquette
+ Corporate
+ Magical
+ Matrix
+ Media
+ Street
+ Tribal
+Interrogation
+ Machine-aided
+  Lie detectors
+  Voice stress analysis
+ Verbal
+Leadership
+ Commercial
+  Strategy
+  Tactics
+  Morale
+ Military
+  Strategy
+  Tactics
+  Morale
+ Political
+  Strategy
+  Tactics
+  Morale
+Negotiation
+ Bargain
+ Bribe
+ Fast talk
+!---------------
+#Vehicle skills
+!---------------
+Bike
+ Racing
+  *vehicle
+ Two-wheeler
+  *vehicle
+ Three-wheeler
+  *vehicle
+Car
+ Passenger vehicle
+  *vehicle
+ Racing
+  *vehicle
+ Remote operation
+  *category
+ Truck
+  *vehicle
+Hovecraft
+ Passenger craft
+  *vehicle
+ Racing
+  *vehicle
+ Remote operation
+  *category
+ Transport craft
+  *vehicle
+Motorboat
+ Pleasure craft
+  *vehicle
+ Racing
+  *vehicle
+ Remote operation
+  *category
+ Transport
+  *vehicle
+Rotor craft
+ Fixed-rotor
+  *vehicle
+ Remote operation
+  *category
+ Tilt-rotor
+  *vehicle
+Sailboat
+ Pleasure craft
+  *vehicle
+ Racing
+  *vehicle
+ Transport
+  *vehicle
+Vectored thrust
+ LAV craft
+  *vehicle
+ Remote operation
+  *category
+ VTOL
+  *vehicle
+Winged planes
+ Gliders
+  *vehicle
+ Jets
+  *vehicle
+ Propellers
+  *vehicle
+ Racing
+  *vehicle
+ Remote operation
+  *category
+!-----------------
+#Knowledge skills
+!-----------------
+Biology
+ Botany
+ Medicine
+ Parabotany
+ Parazoology
+ Zoology
+Computer theory
+ Hardware
+  Mainframes
+  Micros
+  Interface tech
+  Implant tech
+ Matrix Theory
+ Software
+  Decking
+  Matrix programming
+  Non-matrix programming
+  Interface programming
+  Implant programming
+Cybertechnology
+ Bodyware
+  *device
+ Headware
+  *device
+Magical theory
+ Design
+  Shamanic
+  Hermetic
+ History
+  *continent
+Military theory
+ Military history
+  *continent/period
+ Tactics
+  Air
+  Land
+  Sea
+Physical sciences
+ Chemistry
+ Engineering
+ Geology
+ Physics
+Psychology
+ Deviant behavior
+ Group behavior
+ Individual behavior
+Sociology
+ Anthropology
+ Archaelogy
+ History
+!-------------------
+#Build/Repair skills
+!-------------------
+Aircraft B/R
+Armed combat B/R
+Boats B/R
+Biotech B/R
+Computer B/R
+Electronics B/R
+Firearms B/R
+Ground vehicles B/R
+Gunnery B/R
+Projectile B/R
+Throwing B/R

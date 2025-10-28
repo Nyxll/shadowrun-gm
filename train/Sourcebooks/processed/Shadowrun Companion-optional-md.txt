@@ -1,0 +1,297 @@
+### OPTIONAL RULES
+
+The following rules offer options for certain facets of the game that many players already tweak using house rules1. As with all the rules and systems in this book, players and gamemasters should agree on which optional rules will be incorporated into their game before using any optional rules2.
+
+### AVAILABILITY
+
+According to the standard rules, players may not purchase any gear for their characters during character creation that has a Rating higher than 63. While this effectively serves to prevent characters from beginning the game with high-end government- and corporate-level gear, it fails to account for the fact that certain legally available items are also very difficult to obtain4. To reflect the concept of limited-edition or hard-to-get items (and to keep characters a little less powerful at character creation), use the following rule5. No character may start the game with a piece of gear with an Availability of greater than 66. (Think of it in terms of a Ferrari Testarossa7. You may have seen one on TV, and if you live in a large city you actually may have seen one on the street or at an auto show8. But owning one is out of the question—heck, you might even have to do research to find out where to buy one.)  The gamemaster must use this rule if he or she is using the State-of-the-Art Model Edge, p. 3410.
+
+### FACEDOWN TESTS
+
+Occasionally, a character will try to make an opponent back down from a confrontation on the strength of his presence and reputation alone11. Facing down an opponent in this manner requires a successful Facedown Test12. For the test, a character can use his Willpower or Charisma Attribute (whichever is higher) plus a number of dice equal to his Karma Pool (NPCs use a number of dice equal to their Threat Ratings)13. Karma Points are not actually spent for the test—the Karma Pool is simply used as a measure of the character's reputation14. The Facedown Test target number equals the opponent's Willpower15. In turn, the target of the facedown makes an opposing Willpower Test to resist16. The test target number equals the rating of the Attribute the character is using for his or her test17. The character who scores the most successes wins the test and forces his opponent to back down18.
+
+A character who loses a Facedown Test and decides to attack the winner suffers a +1 target number penalty for every 2 points in his Margin of Failure.
+
+### INTIMIDATION CONCENTRATION
+
+Sometimes it's not how you say it—it's how LOUD you say it20. Intimidation, a new Concentration of the Negotiation Skill, represents this principle21. By making a successful Intimidation Test(s), a character can make a subject answer questions he wouldn't answer otherwise or give in to other demands22. The Intimidation Test Modifiers Table provides target modifiers for Intimidation Tests23. (The modifiers may also be used for any tests of Negotiation or its Concentrations, including Interrogation.) 24
+
+If desired, gamemasters may allow subjects of intimidation attempts to make opposing Willpower Tests to resist25. Such a test uses a target number equal to the Skill Rating of the intimidator26. If the intimidator generates more successes, the subject spills the proverbial beans27. Gamemasters can use the Contact Knowledge Table (p. 69) to determine how much a subject knows and reveals28. If appropriate, the subject does the intimidator's bidding29. If the target of the intimidation generates more successes, he resists attempts to coerce him and does not reveal information30. In fact, the subject may deliberately feed his would-be intimidator false information to set up his tormentor31.
+
+Individual gamemasters can allow roleplaying to dictate the exact details of an intimidation attempt or interrogation32. Such interactions have no time limits; a gamemaster can decide that a single opposed Intimidation Test will decide the outcome of a interrogation session or instruct players to make tests for every question or at specific time intervals33. Specializations of Intimidation include Browbeating, Death Threats, Business Ruining, Threatening Family, and Long-Term Hassle.
+
+INTIMIDATION TEST MODIFIERS TABLE
+
+| Condition                                                         |   Target Modifier |
+| ----------------------------------------------------------------- | -----------------:|
+| Intimidator's Charisma Rating is 5-6                              |                -1 |
+| Intimidator's Charisma Rating is 7 or higher                      |                -2 |
+| Control Thoughts/Emotions spell cast on subject                   | +/- 1 per success |
+| Intimidator is larger/taller than subject                         |                -1 |
+| Intimidator's Strength more than twice subject's                  |                -1 |
+| Numbers Advantage                                                 |             +/- 2 |
+| Intimidator is wearing visible armor, cyberware, or weapon        |                -1 |
+| Intimidator performs visible magic or superhuman feat             |                -2 |
+| Subject's death imminent (gun to head, and so on)                 |                -2 |
+| Subject has Professional Rating                                   |          + Rating |
+| Subject has "ace in the hole"                                     |                +2 |
+| Subject is oblivious to danger                                    |                +2 |
+| Subject is intoxicated                                            |                +1 |
+| Subject doesn't think intimidator "would try something so stupid" |                +1 |
+| Subject has superhuman advantages                                 |    Negate bonuses |
+| Subject's Charisma Rating is 5-6                                  |                +1 |
+| Subject's Charisma Rating is 7 or higher                          |                +2 |
+
+### PERCEPTION AND STEALTH
+
+Very often, a shadowrunner's best course of action is to remain undetected35. However, anyone listening or watching for a runner need only make a successful Perception (4) Test to notice someone sneaking around (see p. 185, SRII)36. Even though different conditions add target modifiers to the Perception Test, it generally remains a fairly easy task37. To make sneaking about a bit easier, gamemasters may allow characters to make opposing Stealth (4) Tests whenever someone attempts to detect them38. Every success generated on the Stealth Test increases the Perception Test target number by 139. Gamemasters may also apply target modifiers to the Stealth Test to reflect any conditions that affect the character's ability to remain concealed, such as running, wounds and moving over broken glass40. Gamemasters determine when opposing Stealth Tests are appropriate41. Note that the Stealth Skill does not make characters invisible42. If a character is walking through the middle of an empty room, even 10 successes on a Stealth Test should not hide him from a guard who's looking for him43.
+
+### COMBAT
+
+#### Deadlier Over-Damage
+
+Under the standard rules, killing a character (especially a character with a high Body Attribute) with a single shot takes a lot of doing44. In fact, it's nearly impossible45. Indeed, the standard rules make it possible for a troll to survive for more than an hour even after taking a shot from a Panther assault cannon square in the head! 46Ideally, this rule prevents characters from certain death as a result of single, unexpected attacks and thus improves game play47. But as the example of the troll shows, it also can create some ridiculous situations48. To remedy this problem, gamemasters can apply the Deadlier Over-Damage rule (based on the over-damage rule from p. 79, **Fields of Fire**)49.
+
+Under the Deadlier Over-Damage rule, over-damage applies whenever the Power of an attack is greater than the target's Body multiplied by 1.550. (For an even deadlier game, apply over-damage whenever the Power of an attack is greater than the target's Body.) 51Over-damage is simply damage created by extra successes after a weapon's Damage Level has been staged up to "D"52. Every extra successes translate into 1 additional Damage Point, which is applied against the target's Physical Condition Monitor (if the attack caused Deadly Stun damage) or Body Overflow (if the attack caused Deadly Physical damage)53.
+
+#### Fatigue
+
+No one can run forever—figuratively or literally54. The big bad megacorp will eventually track down the shadowrunner who extracted its most valuable exec, and after a period of sprinting even the most conditioned athlete begins to slow down55. The Fatigue rule simulates the latter phenomenon56.
+
+Under the Fatigue rule, a character can sprint for a number of turns equal to half her Body (rounding up) before she begins to lose steam57. If the character continues to run beyond this base period, she begins taking Fatigue damage58. The base damage is 4L (Stun), and can be staged down with an Athletics Test or an Athletics (Running) Test59. (If a character is not sprinting, but is merely running or jogging, the gamemaster may increase the base period.) 60Each time the character repeats the Skill Test (successfully or not) she can run for an additional number of turns equal to half her Body, suffering Fatigue damage at the end of each base period61. The character may attempt to stage down the Fatigue damage using an Athletics Test or an Athletics (Running) Test, but the Power of the Fatigue damage doubles for each subsequent test62. For example, if a character has a Body of 4, he may sprint for 2 turns, then must take 4L damage or make a successful Athletics Test or Athletics (Running) Test to stage down the damage63. He can then sprint for another 2 turns, then must take 8L damage or make a successful Athletics Test or Athletics (Running) Test to stage down the damage64. Eventually, the runner will take enough Stun damage to convince her to stop running, or she will reach Deadly on the Stun Condition Monitor and will collapse from exhaustion65. A character who collapses from exhaustion is not unconscious—she is simply unable to continue any sort of strenuous activity66. Generally, Fatigue damage has the same game effects as Stun damage67. However, Fatigue damage reflects exhaustion and aching muscles more than actual injury, and so it does not contribute to a character falling unconsciousness due to other Stun damage and/or to a character's death from accumulated damage68. Characters may heal Fatigue damage as if it were standard Stun damage69.
+
+#### Grenade/Explosives Damage
+
+Under standard rules, the destructive force of grenades and other explosives is dependent on the Throwing or Demolitions Skill of the attacking character70. This arrangement reflects the fact that a better throw or cleaner detonation will improve the destructive force of an explosion71. Under the optional grenade/explosives damage rule, the gamemaster uses the Power of a grenade/explosive to stage the damage it causes72. In other words, the gamemaster rolls a number of dice equal to half the grenade/explosive's Power (round up) against a Target Number 473. Then, the gamemaster uses the successes from this test to stage up the grenade/explosive's Damage Level74. This rule can be especially useful when determining the effects of exploding grenades set as booby traps75.
+
+Fenris has left 6 kilos of C-6 plastic explosive laying around (careless of him, isn't it?)76. Fenris's chummer, O. B. Stein, is standing a few feet away from the C-6 when it unexpectedly detonates77. Using the formula for determining the Damage of explosives (p. 242, SRII), the gamemaster determines that the C-6's Power is 15 and its Damage Level is Deadly78. (Because Fenris did not detonate the C-6 intentionally, the gamemaster decides that Fenris's Demolitions Skill does not affect the C-6's Power.) 79
+
+To determine the final damage that O. B. suffers, the gamemaster rolls 8 dice (half the C-6 Power, rounded up) against a Target Number 480. The roll generates 4 successes81. The C-6's original Damage Level was Deadly, so these successes add 2 points of over-damage (see Deadlier Over-Damage)82. Unsurprisingly, O. B. generates no successes on his Damage Resistance Test, and he dies instantly83.
+
+#### Movement Option
+
+Under the standard movement rules, during a Combat Phase a character can run a number of meters equal to his Quickness Rating multiplied by his running modifier (p. 83, SRII)84. This is an adequate, but sometimes too imprecise, measure of how far a character can move and how quickly85. Some gamemasters and players want a more rigorous breakdown in order to determine exactly what is happening during each moment of a turn, especially during combat, when each movement may have repercussions based on the timing of events86. To use the movement option, players calculate a character's running movement during a Combat Phase according to the standard rules, then divide the result by 10 (rounding up)87. This allows the player and gamemaster to determine exactly how far the character can move during each moment of the Combat Phase, from the highest Initiative to the end of the initial set of actions88. For example, if a player character has a running movement of 18, he may move 2 meters (18 ÷ 10 = 1.8 rounded up to 2) during each division of time between actions in a Combat Phase89. In other words, if the character has an Initiative of 20, he may take his action at Initiative 20, then move 2 meters on Initiative 19, 18, 17 and so on90. At Initiative 10, the character may take another action, and move 2 meters on Initiative 9, 8, 7, 6 and so on91. This level of micro-management requires a substantial amount of bookkeeping and will not suit every group's style of play, but it may keep a character alive if his movement allows him to reach cover before his opponent's Initiative to fire92.
+
+#### Reach Bonus
+
+When using the Reach bonus rule, calculate the difference between the Reach Ratings of opponents93. Apply the difference as a negative target modifier to the attack tests of the opponent with the higher (longer) Reach94. For example, an opponent with a sword (Reach 1) would apply a -1 target modifier to his attack tests against an unarmed opponent95. Unlike the standard Reach rule, the Reach bonus provides no target modifier for the opponent with the lower Reach Rating96.
+
+### MAGIC
+**Exclusive-Sustained Spell**
+The exclusive-sustained spell rule enables a magician to take Free Actions while sustaining a spell, without incurring the standard +2 modifier for sustaining a spell. If he chooses to use this rule, a magician may take no other magical actions while the exclusive-sustained spell is in effect, and make take only 1 Free Action per turn. If the magician performs more than 1 Free Action per turn, he must apply the standard +2 modifier to all tests for those actions. The exclusive-sustained spell rule can be quite useful when sustaining spells such as Barrier and Shapechange.
+
+**Spirit Combat**
+If gamemasters feel that their player characters are defeating manifest spirits too easily, they may give all manifest spirits the paranormal animal power of Immunity to Normal Weapons.
+
+A **Shadowrun** gamemaster acts as a referee, host, actor, director, and storyteller—all at the same time. Consequently, becoming a skilled gamemaster takes experience and practice. This section provides ideas and guidelines to help gamemasters develop their skills. Much of the information applies to gamemastering any roleplaying game, and some information applies to running **Shadowrun** in particular. Gamemastering can be one of the most enjoyable aspects of playing roleplaying games, and everyone should try it at least once—if only to gain a better appreciation of the work that their gamemaster puts in! If you're a gamemaster, encourage your players to try their hand at gamemastering. If you're a player, give gamemastering a try—you might like it.
+
+---
+
+### THE ROLE OF THE GAMEMASTER
+The gamemaster's job is to oversee a game or campaign—in other words, to get the ball rolling and then keep it moving along. The gamemaster must act as a moderator and guide. He or she is the final authority on rules in his or her game, and he or she must provide all of the "extras" in a game or campaign. The gamemaster must keep the game together and on track. Players often get caught up in the roles of their characters and may forget where the story is supposed to be going. The gamemaster must keep an eye on the progress of the story and give things a little nudge when needed to keep the story moving and fun for everyone.
+
+Though gamemasters wield enormous power in their games, gamemasters are not gods (despite what some of them may believe!). No gamemaster can create a truly interesting game without the cooperation of his or her players. The gamemaster's job is not to lord his or her power over the players and put them in situations where they have no chance of succeeding. The gamemaster's job is to work with the players to create the most satisfying game play for everyone.
+
+The secret of successful gamemastering is actually quite simple—keep the game fun for everyone involved. Everything else is secondary. The best gamemasters have fun while gamemastering and do their best to make sure their players enjoy themselves, too. Rules and systems and such are intended to help create fun and satisfying games—they are not ends in themselves. Don't get so caught up in game mechanics that you lose sight of the most Important goal—having fun.
+
+---
+
+### BREAKING THE RULES
+If you played cops and robbers as a kid, you probably remember playing pretend as a lot of fun, just like roleplaying. You're also likely to recall at least one argument along the lines of "I shot you!" "Did not, you missed!" "No I didn't!" and on and on. Roleplaying games are just a more sophisticated versions of cops and robbers—the main difference is that roleplaying games provide rules to help determine whether or not your shot really did hit.
+
+All roleplaying rules are simply guidelines to help reduce arguments over what really happened during a game. They help us to visualize and experience events in the story as they unfold. But sometimes the rules can trigger arguments, hinder creative players and gamemasters, and otherwise get in the way of everyone's enjoyment of the game. That's when gamemasters need to fall back on the old adage, "rules are made to be broken". Slavish devotion to the rules of the game is not always the best way to have fun. If a particular rule doesn't work for a particular scene or action, feel free to ignore or modify it. Many groups even develop "house rules" over time, rules that are uniquely tailored to the group's needs and style of play. Stay flexible about the rules—they are designed to serve the game, not the other way around.
+
+---
+
+### KEYS TO GAMEMASTERING SUCCESS
+No matter what type of game or campaign you run or want to run, the following rules of thumb can help you create the best game/campaign possible.
+
+**BE INFORMED!**
+Even the simplest, most straightforward game contains plenty of things the gamemaster must monitor. Players need only keep track of a single character, but the gamemaster must keep track of all of the player characters, as well as non-player characters (NPCs), the major events of the campaign, the flow of the adventure and all of the other little details that make the game world come alive for the players. Consequently, every gamemaster should strive to be informed at all times.
+
+Organizing all of your information for a particular game—and keeping it organized throughout the game—is probably the most important step for keeping track of everything. Maintain a running list of the major characters and a few notes about each character's appearance and personality, as well as a list of the major events in the adventure. For some gamemasters, these lists contain enough information to run an entire adventure. Other gamemasters may want to keep detailed maps, characters' statistics and other references on hand.
+
+Creating detailed notes of the events of each game session can help you keep the important information straight. Review your notes at the beginning of each game session to refresh your memory of what happened during the last session and what is going on in the campaign. Go over your notes after each session, clean up and expand any notes you hastily jotted down during the game and organize your notes for the next game. A few minutes spent reviewing and organizing your notes before and after game sessions can help you keep on top of things.
+
+If your group includes players who like to keep notes about what their characters see and do, ask to read these notes at the end of each game session. Players might note important points that you didn't write down. Players' notes might also offer excellent insight into how your players see events in your game and what they believe is Important—which may be different from what you think is Important. Such information can help you keep your campaign interesting for your players.
+
+If you do forget some detail or get things confused, just say "Oops!", correct the mistake as best you can and move on. Arguing with players or forcing them to accept your word over some small detail can quickly spoil a game session. Remember, your main goal is having fun.
+
+---
+
+**BE KNOWLEDGEABLE!**
+Any gamemaster should be well acquainted with the game he or she is running. That doesn't mean that you have to be able to quote the rules from memory. It simply means that you're at least familiar with the game's basic rules and know where to find explanations of other rules as needed.
+
+**Shadowrun** provides many supplementary rules and rulebooks beyond the main rulebook, and nobody can be expected to memorize them all (even we have to look things up). Focus on learning the basic rules from the main **Shadowrun** rulebook and the rules that are important to the player characters in your group. For example, if your group contains a rigger character, you'll need to be fairly conversant with the vehicle rules. If your group contains a decker character, learn the Matrix rules: if your group contains one or two magician characters, magic rules will be important.
+
+Gamemaster screens and notes are two excellent ways to keep information on often-used rules close at hand and can spare a gamemaster from the need to search through a rulebook during the middle of a game. The **Shadowrun** gamemaster screen outlines the most commonly used procedures and numbers. Similarly, making notes about some of the other major rules likely to come up in an adventure can also save time and keep the game moving. For example, if you know that an upcoming scene contains an ambush, look up the Ambush rules and make some notes you can use when the time comes.
+
+Generally, keeping the game moving is more important than spending a lot of game time looking up rules (unless you are just learning the game, of course). If you don't know the answer to a specific rules question, don't hesitate to make a decision based on your own judgment and tell your players, "This is how we're going to do it for now". You can look up the specific rule after the game session and let everyone know at that time or at the start of the next game session whether your rule will stand or how the situation will be resolved in the future.
+
+On the other hand, no rule says you have to hurry a game. If you have a question about an important rule, don't be afraid to take the time to look up the rule. No gamemaster (or player) is perfect: even the most experienced players have to look up rules every now and then.
+
+---
+
+**BE FAIR!**
+Too many players believe that the gamemaster is their character's enemy in a roleplaying game. Though gamemasters control non-player opponents of their players' characters, the gamemaster and his or her players are, in fact, on the "same side"—both should work together to create a good story. Therefore, gamemasters always should strive to play fair when ruling for or against the players. Don't make things too easy for your player characters, but don't needlessly penalize them, either—especially if their dice rolls seem to be low on a particular night.
+
+Being consistent is probably the most important part of being fair. If you are going to use a variant rule in your game, make sure you apply that rule variation whenever the appropriate situation arises. If you allow your player-characters to have a specific advantage not mentioned in the standard rules, give their enemies the same advantage. Keep "special cases" and exceptions to a minimum. Players can become frustrated quite quickly if a gamemaster continually changes the rules or makes exceptions.
+
+Gamemasters should take care to keep their NPCs from being omniscient; these characters shouldn't know everything that the gamemaster knows. Though gamemasters control NPCs, NPCs should not act on information that would not reasonably be available to them. Avoid the temptation to use NPCs to crush a clever plan from your players simply because they came up with something you did not think of in advance.
+
+---
+
+**BE REALISTIC!**
+Or more precisely, strive for verisimilitude—the appearance of reality—in your games. Granted, a world that contains troll gangsters and corporate dragons can hardly be called "realistic," but all **Shadowrun** products are designed to create a fictional world with the complexity of real life, and such complexity makes for more interesting games.
+
+NPCs are a great place to start fleshing out your campaign world. Give your NPCs personalities, give them motives and desires that drive them—even if those motives are unfathomable to your player characters. Give your NPCs personality quirks, likes and dislikes just like anyone else. Perhaps your heartless corporate Johnson who uses shadowrun teams and tosses them away like snot-soaked tissue has a soft spot for kids because he grew up as an orphan on the hard streets. Maybe the toxic shaman in your adventure has a grudge against a particular person or corporation rather than simply hating all of humanity. Even faceless corporate guards have lives, friends and families. Having a helpless corporate guard beg for his life while showing the runners a hologram of his three-year-old daughter might move even hardened player-characters to mercy.
+
+NPCs with personalities add realism to a game, and their actions can be more unpredictable than one-dimensional "bad guys" who only want to kill the player characters or rule the world. If desired, gamemasters can even use the character-creation system to create non-player characters with full statistics, gear, backgrounds, Edges and Flaws and even their own contacts and Enemies.
+
+Finally, have your NPCs behave consistently, according to their personalities, motives, desires and habits. If the guys at the local Lone Star station don't usually bother the player characters, they shouldn't start hassling the runners unless they have a particular reason to act against their usual habits. Similarly, critters in your game should demonstrate motives. Animals don't simply attack for no reason—they usually strike out of hunger, pain, fear or provocation. And they don't usually fight to the death unless they have no choice. Guard animals are trained and placed in a specific area for a purpose, but wild animals live where they can find food and shelter—so your player characters shouldn't run into a pack of Gabriel hounds in the Barrens unless someone put those hounds there.
+
+---
+
+**BE FLEXIBLE!**
+Players almost never do what you expect them to do—that's the one sure thing that gamemasters can rely on when dealing with players. Most players are very clever at coming up with new and innovative ways to wreck a gamemaster's carefully laid-out adventure plans. When that happens (and it will, sooner or later) the gamemaster has two choices: resisting the players' direction or going along with it.
+
+Resisting the players' direction usually entails forcing the players into situations they are trying their best to avoid. Players tend to be a stubborn lot, however, and so trying to force them into a specific direction will probably make them fight it even harder.
+
+Going along with the direction in which the players seem headed is probably the better choice. That doesn't mean a gamemaster has to give up his plans. It simply means he adjusts his plans, allows the player characters to play out the events their actions lead to, and gradually guides the game back to the direction he originally planned. By going in unexpected directions, players often provide suggestions that a gamemaster can use for future events and plot lines. Pay attention to their speculations and ideas during the game and use them later on. Discovering that "they were right all along" gives the players a nice ego boost.
+
+---
+
+**BE TOUGH!**
+Providing challenges for the player characters is an important part of any gamemaster's job. Don't give into the temptation to make every shadowrun a cakewalk for your player characters, and don't let them walk all over your NPCs. If the players don't work and sweat to earn every Karma Point and every nuyen they receive, then you're not pushing them hard enough. **Shadowrun** is an adventure game and the players are the "stars" of the adventure, so they should have to face some dangerous opponents and survive some harrowing escapes before they achieve their goals. Challenge your player characters in every game, and your players will enjoy their rewards all the more because they worked for them.
+
+The Threat Rating system is a good way to fine tune the threat that an opponent poses to player characters (see Threat Ratings, p. 187, SRII). At times, gamemasters may also want to change or ignore the result of dice rolls to maintain a threat to player characters. For example, if your major NPC throws a grenade into the midst of the player characters and rolls all 1s on his Attack Test, feel free to ignore the result rather than have the main villain blow himself up during an early encounter.
+
+---
+
+**BE KIND!**
+Always keep in mind that the gamemaster and the players should work together to create an exciting story. Consequently, gamemasters may have to "fudge" dice rolls for player characters. For example, a gamemaster doesn't have to kill a player character simply because the player happened to roll badly on a Resistance Test or because an NPC got off a lucky shot. Quite frankly, gamemasters who measure their success in terms of killed characters will quickly find themselves without a group.
+
+Being kind also means listening to what your players want out of the game and trying to include their interests in the story. A gamemaster who insists on running military/special forces adventures for a group of players who really want to explore the metaplanes or play a gang in the Barrens is simply not doing his or her job.
+
+---
+
+### KEYS TO A GOOD ADVENTURE
+**Shadowrun** is an adventure roleplaying game and the player characters, whether they are shadowrunners or not, take the roles of active figures in the Sixth World. They go out and have the kind of adventures that would make for a good action novel or movie. (The point of roleplaying is to step outside the roles we play in real life. There's not much point in playing a librarian, lab technician, mechanic or retail clerk in **Shadowrun**.) 
+
+This section provides suggestions for creating satisfying adventures. Each subsection—The Premise, The Goal, The Opposition and Complications—focuses on a single component of a well-designed adventure. Note that Keys to a Good Adventure and the section that follows, Plotting a Shadowrun Adventure, do not present a step-by-step adventure creation system. Gamemasters and players may create and assemble the various components of their adventures in any order they like.
+
+---
+
+**THE PREMISE**
+The premise is the "story behind the story" of the adventure, the basic plot that gets things going before the player characters get involved. It describes the scale of the adventure, creates the setting of the adventure and hints at the adventure's theme.
+
+The scale of the adventure is the size of the story. A large-scale adventure might consist of the runners taking on a worldwide-conspiracy, while a small-scale adventure might involve taking on a single individual based in one city. The scale of an adventure is important because taking on Lofwyr and Saeder-Krupp will be very different than taking on a mid- or small-level corp.
+
+The setting is simply where the main action will take place. The setting consists of one or more locations—such as Seattle, or perhaps various locations around the world—and a milieu. The milieu of a setting is simply the surroundings and environment. For example, the milieu of an adventure centered around efforts to steal or protect a new prototype cyberdeck might be filled with deckers, techno fixers, computer designers, lots of Matrix hardware, plenty of decking and so on. The milieu of a search-and-rescue mission in Bug City might be filled with insect spirits and shamans, ex-military personnel, loads of big guns, vicious fire fights, narrow escapes and other action-packed events.
+
+Once the premise has been set, an NPC may hire the players to involve them in the story, or the players' own personal goals or contacts may prompt them to become involved on their own initiative. Gamemasters can make adventure premises as specific or as general as they like. For example, a gamemaster designing a specific premise may decide that a certain corporation (Corporation A) has developed some breakthrough technology for cybereyes. A rival corporation (Corporation B) wants to steal the research on the new discovery so that it can complete the design and sell it first. The runners will become involved when an NPC from Corporation B hires the players to break into and steal the new technology from Corporation A.
+
+By using a general premise, a gamemaster can give players more control over the direction of the game or campaign. For example, a gamemaster might decide that the players' attempts to destroy a particular corporation (preferably a corp they already have reason to hate) will be the general premise of a campaign. The gamemaster will have to create some events to get the players involved—perhaps the corp geeks some of their friends—and provide the players with information about the corporation and its major characters. From there, the players themselves are free to decide how they go about their task: the gamemaster simply fills in the details as events unfold.
+
+For examples of premises and how they work within adventures, look at any **Shadowrun** adventure. Sourcebooks and supplements such as **Bug City**, **Threats** and **Portfolio of a Dragon** provide plenty of information for creating general premises for adventures and campaigns.
+
+---
+
+**THE GOAL**
+Stealing some important data, staying one step ahead of the corporate hit team—every adventure needs a goal for the player characters. Clear-cut goals give the players something to shoot for and help keep an adventure on track.
+
+Gamemasters can set adventure goals themselves, let players set goals, or work with their players when creating goals. In any case, the adventure goal should always reflect the personalities and personal goals of the player characters. In fact, the personal goals of player characters are an excellent basis for the overall premise of an adventure. In the corporate-downfall premise, for example, each player should clearly define why his or her character wants to see the corporation destroyed. Personal vendettas, a desire for profit, a hatred of corporations in general, a sense of moral outrage at the corporation's activities—any of these represent valid personal goals.
+
+Player characters' personal goals and motives provide a good indication of what kind of actions the characters are inclined to take. By noting these motives, the gamemaster can create adventure or campaign opportunities for the players to successfully roleplay their characters' personalities and lifestyles.
+
+After determining the adventure goal, the gamemaster must provide some possible ways the players can achieve the goal. Players often lose interest in an adventure that offers no clear paths to reach the goal. At the same time, don't try to force the players into a particular plan. Offer them a few alternate avenues so that they can decide themselves how to achieve the goal. And don't spell things out for them. The players don't need to know exactly how they might accomplish their task—they simply need to be aware of the possibilities. Prepare for the unexpected—players sometimes devise very strange strategies to achieve a goal.
+
+---
+
+**THE OPPOSITION**
+Every story needs one or more antagonists, or "bad guys," and **Shadowrun** contains a broad range from which gamemasters can choose. The antagonist is simply the main obstacle between the player characters and their goal. An adventure antagonist can consist of one or more Individuals, a group or organization, a great dragon, and so on.
+
+Don't settle for one-dimensional, "cardboard" villains—the antagonist is the main source of conflict and drama in an adventure, and so make your NPC antagonists full-fledged characters, with distinct personalities and motivations. Be thorough and careful when creating the antagonist's abilities and goals. Complex personalities and motives allow antagonists to act in unpredictable and unexpected ways. Additionally, player characters might be able to exploit an antagonist's personality or motives during their attempts to overcome the opponent.
+
+Creating a personality and goals for an antagonist will also help the gamemaster decide how powerful the opponent is and what types of methods the opponent will use to achieve his, her or its goals. Some opponents may use subtle plots and tricks, even brainwashing others to use as tools against the runners. Other opponents may try to kill the runners outright. An antagonist such as Lofwyr might "befriend" runners and spare their lives—so that he can call in his favor in the future when he needs someone to perform a suicidal mission or take the rap for a failed operation.
+
+Finally, keep in mind that NPCs represent only the "traditional" **Shadowrun** opponents. Anything that acts as an obstacle to the players or threatens them can serve as an antagonist—non-metahuman, even non-sentient beings, creatures, systems and so on. A highly sophisticated security system, a hostile and Awakened wilderness, paranormal critters, even normal animals can be used as antagonists. Using non-traditional opponents provides both players and gamemasters with opportunities to stretch their skills, abilities and imaginations.
+
+---
+
+**COMPLICATIONS**
+If all shadowruns were as simple as gathering allies and blasting through the opposition, they wouldn't be very exciting for long. Heck, if it were that easy, adventures would take an hour and **Shadowrun** would have gone the way of the dodo. Complications are unexpected twists and turns that help keep things interesting and force the players and characters to stay alert.
+
+Throw in one, perhaps two, three, or more complications in every adventure. A complication can be as simple as a piece of equipment failing or as complex as the adventure's goal turning out to be something other than what the players originally believed. For example, a team performing a run in a Trans-Polar Aleut nation with all the stealth technology and secrecy they can muster might be attacked by a marauding gang—a "gang" that just happens to have the standard-issue weaponry of a corporation the runner's fixer works with on a regular basis. The runners should realize that something's rotten, and they'll have to change their plans accordingly. Or perhaps halfway through a corporate extraction, the targeted research scientist starts mumbling a mysterious name. Just as the runners are about to deliver him to the Johnson, the scientist—who was supposed to be a willing extraction—pops something into his mouth and dies moments later. Time to investigate him, the job, and their employer. Maybe the runners perform a simple burglary, only to discover that the item they've stolen belongs to a dragon's treasure hoard.
+
+Finally, gamemasters can always rely on that old stand-by, the double-crossing Mr. Johnson, who might lie about what corp he's from (if he's from one at all), set the runners up to be killed, not pay them, decide they know too much, pay them in traceable "screamer" credsticks that transmit their locations to the cops, or otherwise use them and "screw them over".
+
+Complications are the main way to inject the unpredictability of "real life" into adventures, keep them interesting for players, and provide the "intrigue" that is one of **Shadowrun's** distinguishing characteristics. Like everything else in **Shadowrun**, however, use complications judiciously. If you throw too many complications at players, they'll begin to feel like they have less and less control over their characters' lives, and your game may become frustrating and boring rather than enjoyably complex.
+
+---
+
+### PLOTTING A SHADOWRUN ADVENTURE
+When plotting a conventional story, a writer looks at the goals of the main characters and then provides obstacles to those goals to create dramatic tension. **Shadowrun** adventures are plotted in basically the same manner, except that the player characters serve as the protagonists.
+
+For this reason, custom-designed adventures can often be more fun than published **Shadowrun** adventures. A gamemaster knows his player characters better than anyone else, and that knowledge can enable him to accurately tailor adventures to those player characters and their goals.
+
+---
+
+**GETTING STARTED**
+Every adventure starts with an idea—a seed from which the story grows. Fortunately, there's no lack of sources for adventure ideas. Any **Shadowrun** book—adventure books, sourcebooks and even rulebooks—can provide ideas. In fact, certain sourcebooks, such as **Threats** and **Portfolio of a Dragon**, contain adventure hooks specifically designed to help gamemasters create adventures from the material provided in the book. The "black information" posted by shadowrunners in the various books is especially rich with adventure Ideas. This black info, posted by members of the shadow community, often describes various hooks, clues, vendettas and prior runs that can be converted into usable adventures. If a published adventure does not suit your group, it might contain useful plot elements, NPCs and other ideas that can be used in custom-designed adventures.
+
+Even a group's own past games or campaigns can provide adventure ideas. Loose ends and unresolved plot lines from old adventures can serve as ideas for new adventures. Bring back an old adversary that everyone thought was dead or introduce a "successor" intent on carrying on the adversary's schemes. Call in some of the old favors that the player characters owe their contacts and allies or have one of them ask for a favor from one of the characters.
+
+With a little imagination, nearly anything can provide suitable adventure ideas—films, novels, other roleplaying games, TV, video games, news media and magazines, even events at work or school. Try keeping a notebook or a journal handy and jotting down anything you see or read that sounds like it might have potential use in an adventure story. When you're looking for ideas for a game session or campaign, you can review your notes and choose a single event or concept, or combine several related Items into a complex, intriguing story line.
+
+---
+
+**CHOOSING THE CAST**
+Choosing a cast for the adventure—the NPCs, organizations, groups and opponents involved in the story—provides yet another way to shape the adventure. Different "actors" have different motives, goals and operating methods. Using characters that play a part in published **Shadowrun** books helps tie an adventure to the larger **Shadowrun** world.
+
+A gamemaster can choose the cast of an adventure at any point while creating an adventure. Some may prefer to do so after deciding on a premise. Others may want to start by casting the major "actors" in the adventure, then establishing a premise based on the interests and previous actions of the people and organizations to be involved in the story.
+
+The actors in an adventure can be individuals, small or large groups or organizations, or any combination of the "players" of the **Shadowrun** universe. An actor may play his part on the stage or behind the scenes. Generally, big actors and big adventures go hand in hand. For example, a war between local gangs can seem fairly routine to some runners. But If the Triads are backing one gang and the Mafia is backing the other, a bigger and potentially more dangerous scenario begins to take shape. Now, if that same war takes place near a secret Saeder-Krupp research facility, Lofwyr himself might take notice and really heat things up.
+
+The following entries offer a few suggestions for potential actors based on descriptions of various individuals, groups and organizations in published **Shadowrun** books, though this list is by no means exhaustive. Many **Shadowrun** sourcebooks also include descriptions of specific NPCs and organizations, and suggestions for using them in adventures and campaigns.
+
+* **Corporations**: Big megacorporations such as Ares and Mitsuhama have been fiercely competing with one another for decades. With the recent rise of mid- and small-sized corps in the **Shadowrun** universe, business has become more cutthroat than ever.
+* **Organized Crime**: The Mafia and yakuza come to mind immediately, but don't forget the Triads, Seoulpa Rings, T-bird smugglers and pirates. All of these organized crime groups prey on innocent people, not-so-innocent people and on one another. Deadly power struggles are common between and even within these groups. Any community that would be reluctant to take its problems to law enforcement makes a tempting target for organized-crime protection rackets, and mobsters continue to control a cornucopia of crime industries, ranging from smuggling to BTL production to sexual slavery.
+* **Cops**: Lone Star, Knight Errant, Hard Corps, Wolverine, Eagle, Thugs with Guns—who and what do the law-enforcement organizations in the **Shadowrun** universe really serve and protect?  Are they clean or corrupt? Where do their jurisdictions end?  Law-enforcement types share a natural, mutual hostility with shadowrunners, and there's no better cover for a racket than a police badge.
+* **Gangs**: **Shadowrun** gangs run the gamut from mutual-protection clubs of friends to groups of street punks who joytoy for money to RV-equipped go-gangs that roam the interstate highways to syndicates of hardened criminais with drugs, guns and connections. There's also the old-fashioned biker gangs that hang in heavy-metal bars and provide security for concerts just to make ends meet, and a hundred other specialty gangs.
+* **Military/Para-Military Groups**: The land, sea and air forces of any country possess military resources that most corps can't match, including submarine fleets, entire divisions of soldiers, novahot tech toys and major mojo. Nearly every modern military contains air, armor and recon branches, as well as those nifty Special Forces. The GI Joes and Janes of the Sixth World are usually called in to handle seriously weird magic situations or unexplained phenomena (such as **Bug City**), but the militaries of nearly any combination of countries (the Ute Nation and Tir na nOg, CAS and ... another faction of the CAS) might face off over matters of "vital national interest" in the world of **Shadowrun**. Conflict might also come in the form of the Seattle Metroplex Guardsmen and other civil policing groups sworn to control riots and otherwise keep order in Seattle.
+* **Politicians and Policlubs**: The UCAS presidential election of 2057 may be over, but congressmen are elected every other year. Politics is a dirty business, so it's not surprising that shadowruns can become particularly messy when they're politically motivated. City councilmen, mayors, governors, senators, even folks no one thinks about, such as Supreme Court justices and the Surgeon General, may hire shadowrunners to act as bodyguards, gather information on their opponents or conduct "dirty tricks" campaigns. Policlubs also present a wide range of roleplaying possibilities. Metahuman and human rights, secessionists, abortion, the death penalty, gun control—name any cause or prejudice you can think of, and the odds are there's a policlub espousing or condemning it.
+* **International Opponents**: Megacorporations may have usurped much of the power once wielded by national governments, but that hasn't lowered the stakes of international geopolitics and it hasn't reduced the number of international spies, wheeler-dealers and terrorists running around. The CIA, Interpol, the successors of the KGB, the Tir Paladins, international fixers, arms dealers and general troublemaking terrorists are just a few potential international actors that can play a role in an adventure.
+* **Media Types**: Media types can add a dash of glamour, danger and good old-fashioned sex appeal to an adventure. Trid networks, radio, simsense, music, sports and flatscreen movie theaters remain big business in the Sixth World. From simple radio interviews to Desert Wars, from pirate trideo broadcasts to desperate rockers faking their own deaths, the media types of the **Shadowrun** world will go to any lengths to boost their ratings and sales. Muckraking investigative reporting shows, daytime talk shows, combat-game shows, professional wrestling, simporn, music trideos—they all generate billions of nuyen each year, and the assorted stars, has-beens, producers, media conglomerates and organized-crime types involved in the business fight tooth-and-nail for their share.
+* **Shadowrunners and Other Shady Characters**: Player characters need not be the only shadowrunners involved in an adventure. Shadowrunning teams operate more loosely than organized-crime groups and corporations and generally consist of individuals with greater skills and more highly developed talents than those that make up gangs. By definition, shadowrunners do the work that no one else can or will do. The profession generally attracts the marginal types who just don't fit in with twenty-first-century militaries, corporations, organized crime groups and other "acceptable" societal norms. Consequently, NPC shadowrunners provide an excellent way for gamemasters to introduce wild, outlandish and colorful characters into adventures. Furthermore, runners are a notoriously competitive bunch, and no one makes a better match for a shadowrunner than another runner.
+* **Ordinary People**: Ordinary people are the folks you deal with during your "normal" daily life—bank employees, the clerks at the Department of Motor Vehicles, insurance adjusters, temporary employee services, caterers, janitors, garbage men, telephone solicitors, college professors, lawyers, squatters, girlfriends, boyfriends and so on. All these people have a place in the **Shadowrun** universe, too. Watch television for two hours. Design a run that involves a member of a profession portrayed on a program or commercial, or a scene that requires runners to put on the hat of an ordinary person for a little while. Interaction with ordinary people might not create great drama, but it might generate some light comic relief, remind the runners who gets hurt when they act carelessly, develop new contacts or add a little metahuman interest to an otherwise corp-focused story line.
+* **Odds and Ends**: The **Shadowrun** world offers a mix of science fiction and fantasy that generates a wide range of individual beings and organizations unique to the universe (or distinct from similar groups in other mythos), such as ancient elves, free spirits, dragons, Things Man Was Not Meant to Know, ghosts, vampires, werejaguars and initiatory groups, not to mention whatever's bouncing around in the Matrix. A member of any of these species or groups can serve as an actor in a campaign, or gamemasters can create their own unique life forms based on these types.
+
+---
+
+### THE DECISION TREE
+Published **Shadowrun** adventures use a "decision tree" format. Unlike a single, linear plot line, the decision-tree format describes several courses of action player characters may take. The players' decisions, in turn, determine the adventure's outcome. By using the decision-tree format in your own adventures, you can provide player characters with the same flexibility and decision-making power.
+
+Start by thinking of your adventure plot as a flow chart with two points. Point A represents the beginning of the adventure, the point at which the players become involved. Point B represents the end of the adventure, at which the player characters achieve the adventure goal. A linear plot would have a single path from Point A to Point B. In the decision-tree format, however, multiple paths, or "branches," connect the beginning and end of the adventure.
+
+To create each different path, simply start at Point A and write down the possible courses of action the characters might take at that point. For example, if they are meeting with a Mr. Johnson who offers them a job, they have two obvious choices—accept the job or reject it. Depending on the player characters, they might also take other actions, such as starting a fight with the Johnson. Once you've determined the character's likely choices, start a plot line for each choice. The next point on Plot Line 1 will cover what happens if the runners accept the job offer. The next point on Plot Line 2 will cover what happens if they reject the offer. Plot Line 3 would cover what happens if they attack the Johnson.
+
+Continue this process at each event in the different plot lines. Simply ask yourself, what are the characters likely to do, and what will happen next because of their choice?  Make notes about the NPC opponents the characters are likely to encounter along each plot line, important locations where the action will take place, and so on. These notes prepare you to run each encounter as it occurs, regardless of the path the characters follow. Be sure to note any complications you intend to throw at the players (see Complications, p. 97, and When the Drek Hits the Fan, below, for more Information).
+
+Keep in mind that different plot lines can merge and intersect. The characters' decision at one point may lead them back to another plot line, or various plot lines may lead back to one main line. Additionally, some scenes in an adventure can be arranged so that they can take place in a variety of orders without affecting the overall plot of the adventure. For example, some scenes may simply describe different locations characters can visit while doing legwork; the characters can visit the locations in whatever order they choose without changing the effect of the information they discover.
+
+No matter how many different "branches" you plan for your decision tree, players tend to surprise you with unexpected plans that take them along paths you didn't predict. In these cases, simply stay flexible and modify your planned material to suit the new direction. For examples of the decision-tree format, look at a few published **Shadowrun** adventures and outline the various plots. You'll quickly recognize the different branches of the decision tree used in each adventure.
+
+---
+
+**WHEN THE DREK HITS THE FAN**
+Besides injecting the unpredictability of real life into adventures, complications make convenient turning points to change the direction of an adventure and keep the player characters from proceeding directly to the adventure goal.
+
+Usually two or three major complications are enough to get the adventure off and running. After that, keep an eye out for the complications that the players themselves will provide for you and learn to use them to your advantage. For example, if one character badly fails a Stealth Test and is captured by corp security while the other runners escape, weave that complication into the story. Will the corporation get information from the captured runner? What will it do with that information?  Will the captive runner's companions try to rescue him or hang him out to dry?  If they abandon him, how will the captured runner react?  Even one or two complications can spawn numerous new plots and subplots. See Complications, p. 97, for more information.
+
+**Allies**
+Allies are contacts and NPCs who can help player characters achieve their adventure goal. Though they need not function as a deus ex machina, the fact remains that allies are often most helpful as tools to get the runners out of an impossible situation and back on track in the adventure.
+
+Like antagonists, allies should possess their own personalities and motives. They shouldn't simply wait around to offer help when the player characters need it. Every ally should have his, her or its own reasons for helping the player characters. Some might help the runners out of mutual respect or friendship. Others may offer to help for their own selfish reasons—usually because they are opposed to the antagonist as well. Still others may help because the player characters' success will further their own plots. Consequently, characters may want to keep a close eye on their allies as well as their enemies—because an ally who is helpful one day may abandon or even turn on the players the next day.
+
+The most fickle ally of any shadowrunner is Fate—also known as Lady Luck, Fortune, Chance, kismet and many other names. Fate provides gamemasters with a convenient way to give player characters lucky breaks when needed to keep an adventure moving along. Unfortunately, what Fate giveth, Fate also taketh away—runners who benefit from sudden good fortune may run into unexpected complications later on (when such complications suit the gamemaster's plans, of course).

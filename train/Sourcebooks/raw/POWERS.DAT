@@ -1,0 +1,138 @@
+!POWERS.DAT - Physical Adepts powers data file - Stephen Atkins 960201
+!---------------------------------------------------------------------
+!Shadowrun II Original
+!---------------------
+!Book-Pag Description                  Cost      MODIFIERS
+!-------- ---------------------------- --------- --------------------
+SR2-???   Astral Perception            2.00
+!
+SR2-???   Combat Sense +1              2.00      +1CPL
+SR2-???   Combat Sense +2              3.00      +2CPL
+SR2-???   Combat Sense +3              4.00      +3CPL
+!
+SR2-???   Improved Athletic Skills +1  0.25
+SR2-???   Improved Stealth +1          0.25
+SR2-???   Improved Armed Combat +1     0.50
+SR2-???   Improved Unarmed Combat +1   0.50
+SR2-???   Improved Throwing +1         0.50
+SR2-???   Improved Project. weapons +1 0.50
+SR2-???   Improved Firearms +1         1.00
+SR2-???   Improved Gunnery +1          1.00
+!
+SR2-???   Improved Body +1             1.00      +1BOD*
+SR2-???   Improved Strength +1         1.00      +1STR*
+SR2-???   Improved Quickness +1        1.00      +1QCK*
+!
+SR2-???   Low-light vision             0.25
+SR2-???   Thermographic vision         0.25
+SR2-???   Magnification Vision 1       0.25
+SR2-???   Magnification Vision 2       0.50
+SR2-???   Magnification Vision 3       0.75
+SR2-???   High frequency hearing       0.25
+SR2-???   Low frequency hearing        0.25
+SR2-???   Enhanced smell               0.25
+SR2-???   Enhanced taste               0.25
+!
+SR2-???   Increased Reaction +1        1.00      +1RCT*
+!
+SR2-???   Increased Reflexes +1D6      1.00      +1INI
+SR2-???   Increased Reflexes +2D6      4.00      +2INI
+SR2-???   Increased Reflexes +3D6      6.00      +3INI
+!
+SR2-???   Killing Hands (Str)L         0.50
+SR2-???   Killing Hands (Str)M         1.00
+SR2-???   Killing Hands (Str)S         2.00
+SR2-???   Killing Hands (Str)D         4.00
+!
+SR2-???   Pain Resistance +1 level     0.50
+!---------------------
+!The Grimoire 2nd ed.
+!---------------------
+GR2-???   Attribute Boost (BOD) +1     0.50
+GR2-???   Attribute Boost (STR) +1     0.50
+GR2-???   Attribute Boost (QCK) +1     0.50
+GR2-???   Body control +1 level        0.50
+GR2-???   Enhanced Centering (x skill) 2.00
+GR2-???   Missile Parry                1.00
+GR2-???   Mystic Armor +1 rating       1.00
+GR2-???   Suspended State              1.00
+!--------------
+!Awakening 2057
+!--------------
+AW-???    Blind Fighting               0.50
+AW-???    Counterstrike Lv1            0.50
+AW-???    Counterstrike Lv2            1.00
+AW-???    Counterstrike Lv3            1.50
+AW-???    Counterstrike Lv4            2.00
+AW-???    Counterstrike Lv5            2.50
+AW-???    Counterstrike Lv6            3.00
+AW-???    Delay Damage                 2.50
+AW-???    Distance Strike              2.00
+AW-???    Empathic Sense               0.50
+AW-???    Enhanced Coordination Lv1    0.25
+AW-???    Enhanced Coordination Lv2    0.50
+AW-???    Enhanced Coordination Lv3    0.75
+AW-???    Enhanced Coordination Lv4    1.00
+AW-???    Enhanced Coordination Lv5    1.25
+AW-???    Enhanced Coordination Lv6    1.50
+AW-???    Flexibility Lv1              0.25
+AW-???    Flexibility Lv2              0.50
+AW-???    Flexibility Lv3              0.75
+AW-???    Flexibility Lv4              1.00
+AW-???    Flexibility Lv5              1.25
+AW-???    Flexibility Lv6              1.50
+AW-???    FreeFall Lv1                 0.25
+AW-???    FreeFall Lv2                 0.50   
+AW-???    FreeFall Lv3                 0.75
+AW-???    FreeFall Lv4                 1.00
+AW-???    FreeFall Lv5                 1.25
+AW-???    FreeFall Lv6                 1.50
+AW-???    Iron Will Lv1                0.50
+AW-???    Iron Will Lv2                1.00
+AW-???    Iron Will Lv3                1.50
+AW-???    Iron Will Lv4                2.00
+AW-???    Iron Will Lv5                2.50
+AW-???    Iron Will Lv6                3.00
+AW-???    Magic Resistance Lv1         1.00
+AW-???    Magic Resistance Lv2         2.00
+AW-???    Magic Resistance Lv3         3.00
+AW-???    Magic Resistance Lv4         4.00
+AW-???    Magic Resistance Lv5         5.00
+AW-???    Magic Resistance Lv6         6.00
+AW-???    Magic Sense                  1.00
+AW-???    Missile Mastery              1.00
+AW-???    Nerve Strike                 1.00
+AW-???    Quick Draw                   3.00
+AW-???    Quick Strike Lv1             0.25
+AW-???    Quick Strike Lv2             0.50
+AW-???    Quick Strike Lv3             0.75
+AW-???    Quick Strike Lv4             1.00
+AW-???    Quick Strike Lv5             1.25
+AW-???    Quick Strike Lv6             1.50
+AW-???    Rapid Healing Lv1            0.50
+AW-???    Rapid Healing Lv2            1.00
+AW-???    Rapid Healing Lv3            1.50
+AW-???    Rapid Healing Lv4            2.00
+AW-???    Rapid Healing Lv5            2.50
+AW-???    Rapid Healing Lv6            3.00
+AW-???    Rooting Lv1                  0.25
+AW-???    Rooting Lv2                  0.50
+AW-???    Rooting Lv3                  0.75
+AW-???    Rooting Lv4                  1.00
+AW-???    Rooting Lv5                  1.25
+AW-???    Rooting Lv6                  1.50
+AW-???    Sixth Sense                  3.00
+AW-???    Smashing Blow                1.00
+AW-???    Spell Shroud Lv1             0.25
+AW-???    Spell Shroud Lv2             0.50
+AW-???    Spell Shroud Lv3             0.75
+AW-???    Spell Shroud Lv4             1.00
+AW-???    Spell Shroud Lv5             1.25
+AW-???    Spell Shroud Lv6             1.50
+AW-???    Temperature Tolerance Lv1    0.25
+AW-???    Temperature Tolerance Lv2    0.50
+AW-???    Temperature Tolerance Lv3    0.75
+AW-???    Temperature Tolerance Lv4    1.00
+AW-???    Temperature Tolerance Lv5    1.25
+AW-???    Temperature Tolerance Lv6    1.50
+AW-???    Traceless Walk               0.50

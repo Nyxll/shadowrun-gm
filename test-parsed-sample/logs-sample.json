@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "log.log",
+    "size": 1906256,
+    "lines": 20346,
+    "conversations": 0,
+    "diceRolls": 47,
+    "gmResponses": 4,
+    "preview": "as a game master, how do I teach you the rules to shadowrun second edition so that you can run an adventure for me?  I want to be able to have you scan the full main rules instead of using the shorten"
+  },
+  {
+    "filename": "gemini.log.log",
+    "size": 41965,
+    "lines": 686,
+    "conversations": 0,
+    "diceRolls": 0,
+    "gmResponses": 0,
+    "preview": "as a game master, how do I teach you the rules to shadowrun second edition so that you can run an adventure for me?  I have several books which have been converted to text, and several tables of data."
+  }
+]

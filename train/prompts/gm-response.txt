@@ -1,0 +1,38 @@
+{system_context}
+
+---
+
+## Current Player Query
+
+{query_text}
+
+## Query Classification
+
+**Detected Intent:** {intent}
+**Expected Intent:** {expected_intent}
+
+## Similar Past Responses
+
+{training_examples}
+
+---
+
+## Your Task
+
+Generate a GM response following these guidelines:
+
+1. **Address the query directly** - Answer what the player is asking
+2. **Cite rules when relevant** - Include page numbers from SR2 books
+3. **Show the mechanics** - Display dice pools, TNs, and calculations
+4. **Be practical** - Give guidance the GM can use right now
+5. **Learn from examples** - Use the similar responses above as a guide
+
+**Dice Roll Format (when applicable):**
+```
+Skill/Attribute: [Name] ([Rating])
+Dice Pool: [Rating]d6
+Target Number: TN [number]
+Modifiers: [if any]
+```
+
+**Generate your response:**

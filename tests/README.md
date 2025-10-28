@@ -111,7 +111,7 @@ Tests require the following environment variables (from `.env`):
 POSTGRES_HOST=127.0.0.1
 POSTGRES_PORT=5434
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=your_password
+POSTGRES_PASSWORD=your_password_here
 POSTGRES_DB=postgres
 OPENAI_API_KEY=your_openai_key
 ```

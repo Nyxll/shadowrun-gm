@@ -1,0 +1,3302 @@
+!GEAR.DAT - Gear data file - JW 960204 (Update from PM 960201)
+!-------------------------------------------------------------
+!A Few Notes:
+!This file is an update of Paolo's Gear.Dat file, to include nearly all gear and
+!other stuff I could find in various sourcebooks, both FASA-published and from
+!the net. A small number of things are still omitted mainly because I just couldn't
+!get myself to do absolutely _everything_ :) I added another category to the
+!firearms, to show which accessories are included off-the-shelf with each weapon.
+!Also, the cyberdecks and related equipment have *not* been updated to VR 2.0
+!standards (yet).
+!                                                                       -Gurth
+! Types:
+!-------
+0-1|Edged weapon|7|Concealability|Reach|Damage|Weight|Availability|$Cost|Street Index|
+0-2|Bow and crossbow|7|Concealability|Str.Min.|Damage|Weight|Availability|$Cost|Street Index|
+0-3|Firearms|9|Concealability|Ammunition|Mode|Damage|Weight|Availability|$Cost|Street Index|Accessories|
+0-4|Rockets and Missiles|6|Intelligence|Damage|Weight|Availability|$Cost|Street Index|
+0-5|Ammunition|6|Concealability|Damage|Weight|Availability|$Cost|Street Index|
+0-6|Firearms Accessories|7|Mount|Concealability|Rating|Weight|Availability|$Cost|Street Index|
+0-7|Explosives|6|Concealability|Rating|Weight|Availability|$Cost|Street Index|
+0-8|Clothing and Armor|7|Concealability|Ballistic|Impact|Weight|Availability|$Cost|Street Index|
+0-9|S+S Vision Enhancers|6|Concealability|Magnification|Weight|Availability|$Cost|Street Index|
+0-10|Surveillance and Security|5|Concealability|Weight|Availability|$Cost|Street Index|
+0-11|Cyberdecks|9|Persona|Hardening|Memory|Storage|Load|I/O|Availability|$Cost|Street Index|
+0-12|Cyberdeck Other|3|Availability|$Cost|Street Index|
+0-13|Biotech|5|Rating|Availability|Weight|$Cost|Street Index|
+0-14|Lifestyle|5|Concealability|Weight|Availability|$Cost|Street Index|
+0-15|Magical Equipment|3|Availability|$Cost|Street Index|
+0-16|Extras|1|$Cost|
+0-17|Cars|9|Handling|Speed|Body|Armor|Sig|Apilot|Availability|$Cost|Street Index|
+0-18|Vehiclegear|3|Availability|$Cost|Street Index|
+0-19|VehicleFire|8|Type|Ammunition|Mode|Damage|Weight|Availability|$Cost|Street Index|
+0-20|Chips|6|Type|Rating|Memory|Availability|$Cost|Street Index|
+0-21|Stuff With Ratings|6|Concealability|Rating|Weight|Availability|$Cost|Street Index|
+0-22|Drugs|6|Addiction|Tolerance|Strength|Availability|$Cost|Street Index|
+0-23|Vehicle modifications|3|$Cost|Equipment|CF|
+!--------------------------------------------------------------------------------
+!   1234567890123456789012345678901234567890123
+1-Weapons
+2-Melee weapons
+3-Edged weapons
+4-* Ares Monosword                 1|3|1|(STR+3)M|2|4/24hrs|1000|1|
+4-* Bayonet                        1|8|0|(STR)L|.25|2/8hrs|35|.8|
+4-* Bear-Knife                     1|3|0|(STR+2)M|1|6/48hrs|2000|1|
+4-* Bowie Knife                    1|6|0|(STR+2)L|1|3/24hrs|50|.8|
+4-* Broadsword                     1|4|1|(str+1)M|2|6/48hrs|1000|3|
+4-* Cane Knife                     1|2|1|(STR+1)M|1|10/7days|600|2|
+4-* Cane Sword                     1|2|1|(STR+1)M|1|10/7days|600|2|
+4-* Centurion Laser Axe            1|2|1|(STR)S|5.2|6/48hrs|3500|.5|
+4-* Combat Axe                     1|2|2|(STR)S|2|3/24hrs|750|2|
+4-* Combat Axe Thrusting Point     1|-|-|(STR+2)L|0|NA|0|1|
+4-* Decapitator battleaxe          1|-|2|(STR+4)S|11|6/48hrs|2000|3|
+4-* Fineblade Knife (short)        1|8|-|(STR)M|.5|5/72hrs|800|3|
+4-* Fineblade Knife (long)         1|5|-|(STR+1)M|.75|8/72hrs|1500|3|
+4-* Gasher battleaxe               1|2|1|(STR)S|2|6/48hrs|1000|3|
+4-* Gutter dagger                  1|8|0|(str)M|.5|6/48hrs|1000|1|
+4-* Katana                         1|3|1|(STR+3)M|1|4/48hrs|1000|1|
+4-* Kendachi M-33 Powersword       1|4|1|(STR+1)S|3|8/14days|1860|3|
+4-* Kendachi Monokatana            1|3|1|(STR+4)M|1|8/5days|1200|2.5|
+4-* Kendachi Monoknife             1|7|-|(STR+1)L|.5|6/60hrs|200|1|
+4-* Kendachi Mononaginata          1|2|1|(STR+2)L|.5|6/60hrs|300|1|
+4-* Kendachi Mono-Two (long/short) 1|3/5|1/0|(STR+3)M/(STR+1)M|1/.75|5/48hrs|1650|2.1|CB1 p.55
+4-* Knife                          1|8|-|(STR)L|.5|2/4hrs|30|.75|
+4-* Longsword                      1|4|1|(STR+2)M|2|6/48hrs|1000|1|
+4-* Mystic Tech. Spring Knife      1|8|0|(STR+2)L|.75|4/12hrs|125|1.2|
+4-* Rapier                         1|5|1|(STR+2)M|2|6/48hrs|1000|3|
+4-* Scimitar                       1|4|1|(STR+2)M|1.5|6/48hrs|1,000|3|
+4-* Shortsword                     1|5|1|(STR)M|2|6/48hrs|1000|3|
+4-* Slamdance Inc. Spawnblade      1|8|0|(STR)L|.5|4/72hrs|100|1.1|
+4-* Stiletto                       1|10|0|(STR)L|.3|6/48hrs|1000|1|
+4-* Stiletto                       1|14|0|(STR-1)L|.1|2/24hrs|10|.5|
+4-* Survival Knife                 1|6|-|(STR+2)L|.75|3/6hrs|450|1|
+4-* Sword                          1|4|1|(STR+2)M|1|3/24hrs|500|1|
+4-* Two-Handed Sword               1|2|1|(STR+3)S|5|6/48hrs|3000|3|
+3-Clubs
+4-* AZ-150 Stun Baton              1|5|1|8S Stun|1|3/36hrs|1500|2|
+4-* Club                           1|5|1|(STR+1)M Stun|1|2/6hrs|10|1|
+4-* Devil's Star mace              1|-|2|(str)S|10|6/48hrs|1500|3|
+4-* Mace                           1|2|1|(STR)M|5|6/48hrs|700|3|
+4-* Mace                           1|4|1|(STR+1)M Stun|1|2/6hrs|40|1|
+4-* Mjolnir warhammer              1|-|2|(STR+4)D|15|6/48hrs|2000|3|
+4-* Morning Star                   1|2|1|(STR+1)M|7|6/48hrs|1000|3|
+4-* Sap                            1|8|-|(STR+1)M Stun|0|2/6hrs|10|1|
+4-* Skull Crusher warhammer        1|2|1|(STR)S|5|6/48hrs|1000|3|
+4-* Stun Baton                     1|4|1|6S Stun|1|3/36hrs|750|1|
+3-Pole arms/Staffs
+4-* Halberd                        1|2|2|(STR)S|6|6/48hrs|1000|3|
+4-* Lance                          1|-|2|(kph/5)M|2|4/12hrs|60|1|
+4-* Long Spear                     1|2|2|(STR)S|4|6/48hrs|1000|3|
+4-* Mersch MX-23 Stunlance         1|2|2|(STR+2)L/9S Stun|3|5/48hrs|2500|1|
+4-* Pole Arm                       1|2|2|(STR)S|4|4/48hrs|500|2|
+4-* Scythe                         1|-|2|(STR+1)S|7|6/48hrs|1000|3|
+4-* Staff                          1|2|2|(STR+2)M Stun|2|3/24hrs|50|1|
+4-* Tetsubo                        1|-|2|(STR+3)S|3|5/24hrs|500|1|
+3-Whips/Flails
+4-* Bullwhip                       1|8|2|(STR)L|1|6/48hrs|100|1|
+4-* Cat With Nine Tails            1|5|2|(STR+2)M|3|6/48hrs|1000|3|
+4-* Flail                          1|3|2|(STR+1)M Stun|.75|4/12hrs|50|1|
+4-* Flogger whip                   1|6|2|(STR)M|1|6/48hrs|500|3|
+4-* Kendachi Monowhip              1|9|3|10S|-|26/14 days|3500|3|
+4-* Monofilament Whip              1|10|1|10S|0|24/14days|3000|3|
+4-* Whip                           1|6|2|(skill/2)L|.5|5/24hrs|200|1|
+3-Other
+4-* Bio-Injector                   1|8|0|5L|-|14/7 days|15000|3|
+4-* Bio-Injector                   1|8|0|5L + drug|.5|10/96hrs|15000|1|
+4-* Brass Knuckles                 1|16/4|0|(STR+1)M Stun|.2|2/24hrs|20|.75|
+4-* DinaTech F5C                   1|8|0|(STR/2)L/(STR)L|-|10/14 days|350|3|
+4-* Drug-A-Thug                    1|6|0|drug|.5|3/8hrs|150|2|
+4-* Fashion Gloves                 1|-|0|(STR+1)M Stun|.2|4/36hrs|350|1|
+4-* Forearm Snap Blades            1|7|-|(STR)M|1.5|4/48hrs|850|2|
+4-* IMI "Chainknife"               1|6|0|(STR+5)L|.75|6/48hrs|120|1.2|
+4-* Kitchen Sink                   1|-|0|((2x STR)-6)S Stun|10|always|100|1|
+4-* Shock Glove                    1|9|-|7S Stun|.5|5/48hrs|950|2|
+4-* Taser II                       1|7|0|5S Stun|.5|4/24hrs|300|1|
+4-* Techtronica Black-Zap Glove    1|4|0|9S Stun|1|6/48hrs|1200|2.2|
+2-Projectile weapons
+3-Bows
+4-* Arrows                         2|3|-|(As bow)|.1|3/36hrs|10|1|
+4-* Standard Bow                   2|2|1+|(STR Min.+2)M|1|3/36hrs|100xSTR Min.|1|
+4-* Ranger-X Arrows                2|4|-|(As bow)|.08|3/36hrs|18|1|
+4-* Ranger-X Bow                   2|3|2+|(STR+4)M|1.5|5/36hrs|120xSTR Min.|2|
+3-Crossbows
+4-* Bolts                          2|4|-|(As crossbow)|.05|5/36hrs|5|1|
+4-* Light Crossbow                 2|2|3|6L|2|4/36hrs|300|1|
+4-* Medium Crossbow                2|2|4|6M|3|5/36hrs|500|1|
+4-* Heavy Crossbow                 2|-|5|8S|4|6/36hrs|750|1|
+2-Throwing weapons
+3-Non aerodynamic
+4-* Throwing Knife                 2|9|-|(STR)L|.25|2/24hrs|20|1|
+3-Aerodynamic
+4-* Shuriken                       2|8|-|(STR)L|.25|2/24hrs|30|2|
+2-Firearms
+3-Pistols
+4-Hold out
+5-* Barton Arms Bracer             3|7|1|SS|6L|.3|12/7days|1300|3|None|
+5-* Barton Arms Gun Cane           3|2/9|1|SS|6L|1|10/7days|500|2|None|
+5-* BudgetArms C13                 3|8|8(c)|SA|4L|.5|2/8hrs|150|.75|None|
+5-* Ceska Diplomat                 3|8|6(cy)|SS|4L|.5|3/12hrs|250|1|None|
+5-* Colt Take-Down                 3|8|2(b)|SA|7M|.5|4/12hrs|150|.8|None|
+5-* Dai Lung Cybermag 15           3|7|10(c)|SA|4L|.5|3/12hrs|100|.7|None|
+5-* Federated Arms X-22            3|7|10(c)|SA|4L|.5|2/12hrs|300|.8|None|
+5-* Fichetti Tiffani Needler       3|8|4(c)|SA|5L|.5|7/48hrs|650|2|None|
+5-* Hammerli Model 520             3|4|6(c)|SA|6L|1.25|8/4days|1000|1|Recoil Compensation (1)|
+5-* H&K P48                        3|8|6(c)|SA/BF|4L|.45|4/24hrs|300|1.5|None|
+5-* Morrissey Alan                 3|8|5(c)|SA|5L|.5|8/7days|500|2|None|
+5-* North Industries Firing Knife  3|6|5(cy)|SA|4L|.5|5/12hrs|250|1|None|
+5-* Raecor Sting                   3|9|5(c)|SS|4M(f)|.25|10/7days|375|2|None|
+5-* Star Model DWT                 3|7|6(c)|SA|5L|.5|3/18hrs|300|.8|None|
+5-* Streetline Special             3|8|6(c)|SS|4L|.5|2/12hrs|100|.75|None|
+5-* Tiffani Self-Defender          3|8|4(c)|SS|4L|.5|2/12hrs|450|.75|None|
+5-* Walther Palm Pistol            3|9|2(b)|SS|4L|.25|3/12hrs|200|.75|None|
+4-Light
+5-* Ares Hornet                    3|8|7(cy)|DAR(SA)|7L|2|4/48hrs|250|.8|None|
+5-* Ares Light Fire 70             3|5|16(c)|SA|6L|1|3/12hrs|475|.8|None|
+5-* Ares Scorpion                  3|8|7(cy)|DAR(SA)|7L|2.25|4/48hrs|275|1|Laser Sight|
+5-* Beretta Model 101T             3|5|12(c)|SA|6L|1|3/12hrs|350|.8|None|
+5-* Ceska vz/120                   3|7|18(c)|SA|6L|1|3/12hrs|500|.8|None|
+5-* Colt American L36              3|6|11(c)|SA|6L|1|3/12hrs|350|.8|None|
+5-* Colt Protector                 3|8|6(cy)|SS|6L|.75|2/12hrs|300|.7|None|
+5-* Dai Lung Streetmaster          3|6|12(c)|SA|6L|1|3/12hrs|325|.8|None|
+5-* Federated Arms X-9mm           3|5|12(c)|SA|6L|1|3/12hrs|450|.75|None|
+5-* Fichetti Security 500          3|7|12(c)|SA|6L|1|3/12hrs|400|.8|None|
+5-* Fichetti Security 500a         3|6|25(c)|SA|6L|1.25|3/12hrs|450|.8|None|
+5-* Glock 19 Mk.IV                 3|5|17(c)|SA|6L|1|8/24hrs|750|2|Laser Sight, Recoil Compensation (1)|
+5-* Glock 19 Mk.IV Smart           3|5|17(c)|SA|6L|1|8/24hrs|950|2|Smartlink, Recoil Compensation (1)|
+5-* Glock 19 Mk.IV Smart II        3|5|17(c)|SA|6L|1|8/24hrs|1150|2|Smartlink II, Recoil Compensation (1)|
+5-* H&K Cavaet                     3|5|9(c)|SA|6L|1.25|4/24hrs|500|1|None|
+5-* H&K P7S15                      3|6|15(c)|SA|6L|1|4/24hrs|400|1|None|
+5-* H&K P11M8                      3|8|8(c)|SA|6L|1|5/36hrs|600|1.25|None|
+5-* H&K P11M13                     3|8|13(c)|SA|6L|1|5/36hrs|650|1.25|None|
+5-* Hammerli 610S                  3|4|6(c)|SA|6L|2.5|8/24hrs|1295|2.5|Customized|
+5-* Mauser Ladyline                3|7|8(c)|SA|6L|.75|4/24hrs|350|1|None|
+5-* Militech Arms Avenger          3|6|10(c)|SA|6L|1|3/12hrs|325|.8|None|
+5-* Powell Knife Pistol            3|8|1(b)|SS|6L/(STR)L|.5|5/48hrs|250|1|None|
+5-* Ruger P-8                      3|8|10(c)|SA|7L|.75|4/24hrs|395|1|None|
+5-* Seco LD-120                    3|5|22(c)|SA|6L|1.25|3/12hrs|400|.8|Laser Sight|
+5-* S&W Model 6739                 3|8|5(cy)|SS|6L|.75|3/36hrs|250|.9|None|
+5-* Thumper                        3|6|10(c)|SA|5L Stun|1.25|3/12hrs|120|.75|None|
+5-* Walther PB-120                 3|8|15(c)|SA|6L|.75|6/36hrs|700|2|None|
+4-Machine pistols
+5-* Ares Assault Machine Pistol    3|6|40(c)|SA/BF/FA|6L|2.75|8/36hrs|1000|2|Improved Gas Vent (2)|
+5-* Ares Black Widow               3|6|21(c)|SA/BF|6L|1|14/7days|1500|3|Silencer, Smartlink II|
+5-* Ares Crusader MP               3|6|40(c)|SA/BF|6L|3.25|5/36hrs|950|2|Gas Vent (2)|
+5-* Beretta Model 200ST            3|4|26(c)|SA/BF|6L|2|5/24hrs|750|1.5|Recoil Compensation (1)|
+5-* BudgetArms Laser-Niner         3|5(4)|15(35)(c)|SA/BF/FA|6L|1.5|4/36hrs|675|1.2|Caseless, Laser Sight|
+5-* Ceska Black Scorpion           3|5|35(c)|SA/BF|6L|3|5/36hrs|850|2|Recoil Compensation (1)|
+5-* Fichetti Executive Action      3|6|24(c)|SA/BF|6L|1.5|14/7days|1150|3|None|
+5-* H&K VP80Z                      3|6|21(c)|SA/BF|6L|1.25|6/48hrs|1200|3|Recoil Compensation (1)|
+5-* Micro Uzi III                  3|6|16(c)|BF|6L|1.5|6/36hrs|750|1|Laser Sight|
+5-* Ruger P-4                      3|4|100(c)|BF|7L|1.25|8/48hrs|1350|2.25|None|
+5-* Seco Quickfire                 3|5|18(c)|SA/BF/FA|6L|1.5|5/24hrs|750|2|None|
+4-Heavy pistols
+5-* Altmayr SP                     3|4|7(m)|SS|(Special)|3|4/48hrs|900|1.5|None|
+5-* Ares Constrictor               3|6|6(cy)|DAR|10M|2.5|7/7days|400|2|Smartlink|
+5-* Ares Jaguar                    3|5|6(cy)|DAR|10M|2.5|5/4days|300|1|Laser Sight|
+5-* Ares Predator                  3|5|15(c)|SA|9M|2.25|3/24hrs|450|.5|None|
+5-* Ares Predator II               3|4|15(c)|SA|9M|2.5|4/24hrs|550|.5|Smartlink|
+5-* Ares Predator III              3|4|15(c)|SA|9M|2.5|6/36hrs|700|1|Smartlink II|
+5-* Ares Stingray                  3|4|6(cy)|DAR|10M|2.75|7/7days|500|3|Laser Sight, Recoil Compensation (1)|
+5-* Ares Stingray Smart            3|4|6(cy)|DAR|10M|2.75|7/7days|500|3|Smartlink, Recoil Compensation (1)|
+5-* Ares Viper Silvergun           3|6|30(c)|SA/BF|9S(f)|2|3/48hrs|600|1|Silencer|
+5-* Armalite 44                    3|4|8(c)|SA|9M|2.25|4/24hrs|450|1|None|
+5-* Beretta Model 95S              3|5|15(c)|SA|9M|2.5|3/24hrs|500|1|Smartlink II|
+5-* Beretta Model 95S-B            3|5|15(c)|SA/BF|9M|2.5|6/72hrs|750|1.75|Smartlink II|
+5-* Beretta 100S                   3|5|15(c)|SA|9M|2.5|5/36hrs|650|1.5|Laser Sight, Silencer|
+5-* Beretta 100S Smart             3|5|15(c)|SA|9M|2.5|5/36hrs|1300|1.5|Smartlink, Silencer|
+5-* Beretta Model 110-T            3|5|16(c)|SA|9M|2|3/24hrs|400|1|Laser Sight|
+5-* Bond & Carrington MP-11        3|4|15(30)(c)|SA/BF|9M|3|8/36hrs|1200|2|Gas Vent (2), Laser Sight|
+5-* Bond & Carrington MP-11 Smart  3|4|15(30((c)|SA/BF|9M|3|8/36hrs|2000|2|Gas Vent (2), Smartlink|
+5-* Browning Defender 10           3|5|15(c)|SA/BF|9M|2|5/36hrs|900|2|None|
+5-* Browning Defender 10 Smart     3|5|15(c)|SA/BF|9M|2|5/36hrs|1800|2|Smartlink|
+5-* Browning Max-Power             3|6|10(c)|SA|9M|2|3/24hrs|450|1|None|
+5-* Browning Ultra-Power           3|6|10(c)|SA|9M|2.25|4/24hrs|525|1.5|Laser Sight|
+5-* BudgetArms Auto 3              3|5|8(c)|SA|9M|2.25|4/12hrs|350|.7|None|
+5-* Colt Alpha-Omega               3|4|10(c)|SA|9M|2.5|5/24hrs|500|1|Gas Vent (1), Smartlink|
+5-* Colt AMT Model 2000            3|5|8(c)|SA|9M|2.5|5/24hrs|500|1|None|
+5-* Colt Manhunter                 3|5|16(c)|SA|9M|2.5|4/24hrs|425|1|Laser Sight|
+5-* Colt Manhunter S               3|5|16(c)|SA|9M|2.25|4/24hrs|600|1|Smartlink|
+5-* Colt Manhunter S+              3|5|16(c)|SA|9M|2.25|6/48hrs|800|1|Smartlink II|
+5-* Colt Peacemaker                3|4|6(cy)|SS|10M|2.75|3/24hrs|350|.9|None|
+5-* Colt Penetrator                3|5|12(c)|SA|9M|2|4/24hrs|600|1.5|None|
+5-* DinaTech F5A                   3|10|1|SS|10M|-|10/14days|500|3|None|
+5-* DinaTech F5B                   3|10|1|SS|7S|-|12/14days|700|3|None|
+5-* Federated Arms 454 DA          3|3|5(cy)|SS|11M|3.5|5/36hrs|1,375|1.25|None|
+5-* Fichetti Hurricane             3|5|14(30)(c)|SA/BF|9S(f)|2|3/48hrs|600|1|None|
+5-* Fichetti Military XI           3|4|18(c)|SA/BF|9M|2.25|5/36hrs|900|2|Laser Sight, Recoil Compensation (1)|
+5-* Fichetti Military XI Smart     3|4|18(c)|SA/BF|9M|2.25|5/36hrs|1800|2|Smartlink, Recoil Compensation (1)|
+5-* Glock 22 Mk. III               3|4|15(c)|SA|9M|2.5|6/24hrs|600|1.5|Laser Sight|
+5-* Glock 22 Mk. III Smart         3|4|15(c)|SA|9M|2.5|6/24hrs|800|1.5|Smartlink|
+5-* Glock 22 Mk. III Smart II      3|4|15(c)|SA|9M|2.5|6/24hrs|1000|1.5|Smartlink II|
+5-* Glock Thirty Machine Pistol    3|6(5)|20(30)(c)|SA/BF|9M|2.5|6/36hrs|705|2|Gas Vent (2)|
+5-* Goncz-Taurus Pistol            3|6(5)|15(30)(c)|SA|9M|2|4/48hrs|500|1|None|
+5-* Goncz-Taurus Pistol(Selective) 3|6(5)|15(30)(c)|SA/FA|9M|2|8/72hrs|700|1.75|None|
+5-* H&K "Blaster"                  3|4|6(m)|SS|12M|3|-|-|-|None|
+5-* H&K OHWS                       3|5|12(c)|SA|9M|1.2|18/14 days|2,500|2|Flashlight, Laser Sight|
+5-* Ingram Mk IV                   3|4|16(c)|SA/BF|10M|3|18/14 days|2500|3|Gas Vent (3), Smartlink|
+5-* Malorian Arms 3516             3|4|6(c)|SS|12M|3|-|4,525|-|Smartlink II, Strength 4 required to shoot|
+5-* Malorian Arms Heavy Flechette  3|5|special|SA|9M|2.5|9/48hrs|1595|2|Smartlink|
+5-* Malorian Arms Sliver Gun       3|4|7(c)|SA|6S(f)|2.5|6/72hrs|1375|3|None|
+5-* Morrissey Alta                 3|6|12(c)|SA|9M|1|8/48hrs|1200|2|Laser Sight|
+5-* Morrissey Elite                3|6|5(c)|SA|9M|1|6/48hrs|950|2|Laser Sight|
+5-* Nova .338 City Gun             3|5|7(c)|SA|10M|2.5|4/24hrs|460|1|None|
+5-* Phoenix Gyroc                  3|3|3(b)|SA|ammo|3|8/7days|10000|2|None|
+5-* Polymer One-Shot Cannon        3|5|1|SS|5S|1.5|3/12hrs|190|.6|None|
+5-* Remington Roomsweeper          3|8|8(m)|SA|9S(f)|2.5|3/24hrs|300|1|None|
+5-* Ruger Super Warhawk            3|4|6(cy)|SS|10M|2.5|3/24hrs|300|1|None|
+5-* Riot Gun                       3|8|3(c)|SA|9S(f)|2|4/48hrs|500|1|None|
+5-* Ruger M45                      3|6|18(c)|SA/FA|9M|2|8/60hrs|860|3|Laser Sight|
+5-* Ruger P-105                    3|4|10(c)|SA|10M|2.5|4/24hrs|600|1|None|
+5-* Ruger Warhawk                  3|5|6(cy)|SS|9M|2|3/24hrs|250|1|None|
+5-* S&W "Tri-Star"                 3|3|6(cy)|SS|10M|2.5|6/24hrs|375|1.5|Laser Sight|
+5-* Savalette Guardian             3|5|12(c)|SA/BF|9M|3.25|6/36hrs|900|2.5|Recoil Compensation (1), Smartlink II|
+5-* Sig Sauer P300                 3|4|18(c)|SA|9M|3.25|8/48hrs|800|2|Caseless, Laser Sight, Silencer|
+5-* SMF 'Interdictor'              3|3|5(cy)|SS|11M|3.5|10/7days|950|2|None|
+5-* SternMeyer Type 35             3|5|8(c)|SA|9M|2.5|4/36hrs|400|1|None|
+5-* SuperEagle                     3|4|7(c)|SA|11M|2.75|6/48hrs|600|1.5|Smartlink|
+5-* Syrko Wolf                     3|5|17(c)|SA/BF|9M|2.5|5/48hrs|800|1.5|Smartlink|
+5-* Walther Secura                 3|6|12(c)|SA|9M|1.5|5/48hrs|500|1.5|None|
+5-* Zastava Magnum Model 2054      3|5|7(cy)|SS|9M|1.75|4/36hrs|350|.9|None|
+3-Tasers
+4-* Colt TP-6A                     3|7|6(m)|SS|8S|.75|6/24hrs|550|1|None|
+4-* Defiance Super Shock           3|4|4(m)|SA|10S|2|5/24hrs|1000|1|Low-light Scope|
+4-* Miltech Electronics Taser      3|6|10(m)|SS|8S Stun|1.5|5/36hrs|600|1.4|None|
+4-* Stundart Pistol                3|3|2(b)|SS|10S Stun|3.5|8/4days|1090|2|None|
+4-* Techtronica Model 009          3|3|6(c)|SS|10S Stun|3.5|8/72hrs|1950|2.5|None|
+4-* Yamaha Pulsar                  3|5|4(m)|SA|10S Stun|2|12/7days|1350|2|None|
+3-Special weapons
+4-* Ares Cascade                   3|4|60|SA|(Special)|5.5|12/14days|1800|2|None|
+4-* Ares ELD-AR                    3|4|50(c)|SA/BF|(Special)|4.5|9/7days|950|2|None|
+4-* Ares Squirt                    3|7|10/20|SA|(Special)|1.75|8/3days|750|2|None|
+4-* Ares SuperSquirt II            3|7|20|SA|(Special)|2|9/14days|800|1.5|None|
+4-* Avante P-1135 Needlegun        3|5|15(c)|SA|5L|1|2/12hrs|200|.75|None|
+4-* Enerts AKM Power Squirt        3|5|50(m)|SS|(Drugs)|1|always|15|1|None|
+4-* FAB-NG Netgun, Normal          3|3|4(b)|SA|(Special)|4.5|8/14days|1500|4|None|
+4-* FAB-NG Netgun, Large           3|2|4(b)|SA|(Special)|5|8/14days|2500|5|None|
+4-* Kendachi Dragon flamethrower   3|3|4(m)|SS|10M|4.25|10/5 days|1,660|4.5|None|
+4-* Micro-Missile Pod              3|(-2)|1(m)|SS|(Micromissile)|.75|8/5days|2000|1.9|None|
+4-* Militech Urban Missile Launchr 3|3|12(c)|SA|(Micromissile)|3.5|10/7days|4500|2|None|
+4-* Narcoject Pistol               3|7|5(c)|SA|(As toxin)|1.5|6/2days|600|2|None|
+4-* Narcoject Rifle                3|4|10(c)|SA|(As toxin)|3.25|8/2days|1700|2|None|
+4-* Nelspot "Wombat" Airpistol     3|4|20(c)|SA|4L Stun|1.5|2/24hrs|200|.75|None|
+4-* Net Gun, Normal                3|4|4(b)|SA|(Special)|4|8/36hrs|750|2|Laser Sight|
+4-* Net Gun, Large                 3|3|4(b)|SA|(Special)|4.5|8/36hrs|1150|2|Laser Sight|
+4-* Pursuit Security Webgun        3|3|1(m)|SS|(Special)|3.5|6/3days|500|2.5|None|
+4-* Rostovic Wrist Racate          3|6|6(m)|SA/BF|9S|2.5|18/20days|3800|3.5|None|
+4-* Sonic Stunner                  3|6|10|SA|15M|2|6/36hrs|1000|1.5|None|
+4-* Spetsdod                       3|7|15(c)|SS|(Dart)|.25|18/21days|3600|1|None|
+4-* Techtronica M40 "Pulse Rifle"  3|1|6(c)|SS|(Special)|8.5|-|3500|-|None|
+4-* Tsunami Arms "Airhammer" #1    3|5|5(cy)|SA|(Special)|1.5|11/14days|325|2.5|Gun Camera, Laser Sight|
+4-* Tsunami Arms "Airhammer" #2    3|5|7(cy)|SA|special|1.5|12/14days|400|3|Smartlink|
+4-* Underbarrel Capacitor Laser    3|(-2)|2(20)|SA|10M|5|24/21 days|95000|3.5|None|
+3-Submachine guns
+4-* AK-97 SMG/Carbine              3|4|30(c)|SA/BF/FA|6M|4|5/3days|800|1|None|
+4-* Arasaka Minami 10              3|6|40(c)|SA/BF/FA|7M|3.25|3/24hrs|1000|.9|None|
+4-* Beretta M-24 Advanced          3|4|50(c)|BF/FA|7M|3.5|6/4days|950|1.25|None|
+4-* Beretta M-24 Advanced Smart    3|4|50(c)|BF/FA|7M|3.5|6/4days|1250|1.25|Smartlink|
+4-* Berretta Model 70              3|3|35(c)|BF/FA|6M|3.75|5/3days|900|1|Laser Sight, Sound Suppressor|
+4-* Buzzsaw                        3|4|1000(c)|FA|7L|5.5|12/14days|215|1|None|
+4-* Ceres Tri-Barrel               3|2|36(c)/belt|BF/FA|6L|4.5|9/60hrs|1000|3|Smartlink|
+4-* Colt Cobra TZ-110              3|5|32(c)|SA/BF/FA|6M|3|6/36hrs|700|2|Gas Vent (2)|
+4-* Colt Cobra TZ-115              3|5|32(c)|SA/BF/FA|6M|3|6/36hrs|850|2|Gas Vent (2), Laser Sight|
+4-* Colt Cobra TZ-118              3|5|32(c)|SA/BF/FA|6M|3|6/36hrs|1000|2|Gas Vent (2), Smartlink|
+4-* Defiance AT-900                3|4|30(c)|SA/BF/FA|6M|3.75|5/36hrs|900|1|Gas Vent (2), Laser Sight|
+4-* Defiance AT-900 Smart          3|4|30(c)|SA/BF/FA|6M|3.75|5/36hrs|1800|1|Gas Vent (2), Smartlink|
+4-* Federated Arms Tech Assault II 3|5|50(c)|SA/FA|6L|2.5|4/36hrs|600|1|None|
+4-* FN P55                         3|5|50(c)|SA/BF/FA|8M|3.5|8/4days|650|2.5|Gas Vent (2), Magnification (2)|
+4-* FN P55 Smart                   3|5|50(c)|SA/BF/FA|8M|3.75|9/4days|900|2.75|Gas Vent (2), Smartlink|
+4-* H&K MP7z Urban Combat          3|6/18|36(c)|SA/BF/FA|7M|1.75|6/6days|2200|2|Gas Vent (3), Silencer|
+4-* H&K MP7z Urban Combat Smart    3|6/18|36(c)|SA/BF/FA|7M|2|8/8days|4000|2|Gas Vent (3), Silencer, Smartlink|
+4-* H&K MP-9                       3|4|25(c)|SA/BF|7M|3.75|5/36hrs|900|1|Gas Vent (3), Smartlink|
+4-* H&K MP-2013                    3|3|35(c)|SA/BF/FA|6M|2.75|5/48hrs|900|1.1|Sound Suppressor|
+4-* H&K MPK9                       3|5|35(c)|SA/BF|7M|3|5/36hrs|1040|.8|None|
+4-* H&K MPK-11                     3|4|30(c)|SA/FA|7M|3.5|5/48hrs|1,400|1.2|None|
+4-* Heckler & Koch HK227           3|4|28(c)|SA/BF/FA|7M|4|4/24hrs|1500|.75|Gas Vent (2), Laser Sight|
+4-* Heckler & Koch HK227-S         3|5|28(c)|SA/BF|7M|3|10/7days|1200|2|Laser Sight, Silencer|
+4-* Heckler & Koch MP-5TX          3|5|20(c)|SA/BF/FA|6M|3.25|5/36hrs|850|1|Gas Vent (2), Laser Sight|
+4-* Ingram MAC-14                  3|6|20(c)|SA/FA|7M|3|4/36hrs|650|1|None|
+4-* Ingram MAC-20                  3|5|20(c)/16(32)(c)|SA/FA|9M/7M|3.75/3.5|6/48hrs|700|1.5|Sound Suppressor|
+4-* Ingram Smartgun Model 20t      3|5|32(c)|BF/FA|7M|3|4/24hrs|950|1|Gas Vent (2), Smartlink|
+4-* Ingram Super Mach 100          3|5|40(c)|SA/BF/FA|6L|3|9/48hrs|850|3|Gas Vent (3)|
+4-* Ingram Warrior                 3|4|30(c)|SA/BF|7M|3|3/24hrs|650|.9|None|
+4-* Malorian Arms SubFlechette Gun 3|3(2)|10(30)(c)|BF/FA|6M|4|4/24hrs|795|1|Caseless, Gas Vent (3)|
+4-* Militech-10                    3|2|30(c)|BF/FA|6M|7|5/72hrs|3455|3|Magnification 91), Grenade Launcher (4-shot), Sound Suppressor|
+4-* Militech Mini-Gat Carbine      3|1|120(c)|BF/FA|6L|5.75|20/14days|2695|5|Caseless|
+4-* Sandler Model II               3|3|30(c)|BF/FA|6M|3.75|4/24hrs|700|1|Gas Vent (2), Laser Sight|
+4-* Sandler TMP                    3|4|20(c)|BF/FA|6M|3.25|5/36hrs|500|1|Laser Sight, Recoil Compensation (1)|
+4-* SCK Model 100                  3|4|30(c)|SA/BF|7M|4.5|5/36hrs|1000|1|Smatlink|
+4-* Setsuko-Arasaka "PMS" Advanced 3|4|40(c)|SA/BF|6M|3.5|4/72hrs|950|1|Caseless, Sound Suppressor|
+4-* Setsuko-Arasaka "PMS" Advanced 3|4|40(c)|SA/BF|6M|3.5|4/72hrs|1150|1|Caseless, Smartlink, Sound Suppressor|
+4-* Sternmeyer SMG 21              3|4|30(c)|SA.BF/FA|7M|3.25|4/36hrs|1000|1.1|None|
+4-* Steyr MP i 25                  3|4|35(c)|SA/BF/FA|6M|3.75|5/60hrs|725|2|Gas Vent (1), Laser Sight|
+4-* Syrko Eagle                    3|4|50(c)|SA/FA|6M|3|5/3days|900|1|Gas Vent (2), Smartlink|
+4-* Uzi III                        3|5|24(c)|BF|6M|2|4/24hrs|600|.75|Laser Sight|
+4-* Uzi 3S                         3|5|24(c)|SA/BF|6M|2.5|10/36hrs|900|2|Laser Sight, Sound Suppressor|
+4-* Uzi IV                         3|4|30(c)|SA/BF/FA|6M|3|6/60hrs|1000|1|Gas Vent (2), Laser Sight|
+4-* Uzi IV Smart                   3|5|30(c)|SA/BF/FA|6M|3.25|8/60hrs|1200|1.25|Gas Vent (2), Smartlink|
+4-* Uzi Miniauto 9                 3|5|30(c)|BF/FA|6M|3|4/36hrs|700|1|None|
+4-* Walther S900                   3|4|30(c)|SA/BF|6M|3|5/36hrs|900|1|Gas Vent (2), Laser Sight|
+3-Rifles
+4-Assault rifles
+5-* Ares Alpha Combat Gun          3|2|42(c)|SA/BF/FA|8M|5.25|8/48hrs|2000|4|Grenade Launcher (8-shot), Recoil Compensation (2), Smartlink II|
+5-* Ares High-Vel. Assault Rifle   3|2|50(c)|SA/BF/FA|6M|5|14/7days|3200|4|Recoil Compensation (3), Smartlink II|
+5-* AK-97                          3|3|38(c)|SA/BF/FA|8M|4.5|3/36hrs|700|2|None|
+5-* AK-98                          3|2|38(c)|SA/BF/FA|8M|6|8/4days|2500|4|Grenade Launcher (6-shot)|
+5-* AKR-20                         3|3|30(c)|SA/BF/FA|8M|4|5/48hrs|1000|2|Gas Vent (1), Laser Sight|
+5-* Anti-Vehicular Rifle           3|3|10(c)|SA/BF|8S|5.3|14/16days|6000|3.2|Magnification (2)|
+5-* Colt M22A2                     3|3|40(c)|SA/BF/FA|8M|4.75|4/3days|1600|2|Gas Vent (1), Grenade Launcher (6-shot), Magnification (2)|
+5-* Colt M-23                      3|3|40(c)|SA/BF/FA|8M|4.5|6/36hrs|950|2|None|
+5-* Darra-Polytechnic M-9          3|3|40(c)|SA/FA|8M|3.75|3/36hrs|1300|.9|Caseless, Magnification (1)|
+5-* Federated Arms Light Assault15 3|3|30(c)|BF/FA|8M|3.5|4/36hrs|400|1.25|Caseless, Magnification (1)|
+5-* Federated Arms Light Assault15 3|3|30(c)|BF/FA|8M|3.5|4/36hrs|700|1.25|Caseless, Magnification (1), Smartlink|
+5-* FN AGRL                        3|-|40(c)|SA/BF/FA|8M|5|5/36hrs|2000|2|Gas Vent (2)< Grenade Launcher (6-shot), Laser Sight, Magnification (2)|
+5-* FN HAR                         3|2|35(c)|SA/BF/FA|8M|4.5|4/48hrs|1200|2|Gas Vent (2), Laser Sight|
+5-* FN RAL                         3|3|30(c)|SA/FA|8M|5|5/60hrs|1200|2|Magnification (1)|
+5-* H&K G9A4z/i                    3|3|30(c)|SA/BF/FA|8M|4|3/36hrs|1500|4|None|
+5-* H&K G12A3z                     3|2|32(c)|SA/BF/FA|8M|5.25|8/4days|2200|3|Gas Vent (2), Laser Sight, Shock Pads|
+5-* H&K HK 70                      3|2(1)|20(45)(c)|SA/BF/FA|8M|3.75|8/7days|950|2|Gas Vent (2)|
+5-* H&K HK 70 K                    3|3(2)|20(45)(c)|SA/BF/FA|8M|4|8/7days|950|2.25|Gas Vent (2)|
+5-* Honda AR-1                     3|3|28(c)|BF/FA|8M|4.25|9/6 days|1000|2|Magnifcation (1)|
+5-* Kalashnikov A-80               3|1|35(c)|SA/FA|8M|4.5|4/36hrs|1100|2.5|None|
+5-* Kalishnikov AK-100             3|-|30(c)|SA/BF/FA|8M|5.75|5/36hrs|1000|2|Gas Vent (2)|
+5-* Kalishnikov AK-100 Smart       3|-|30(c)|SA/BF/FA|8M|5.75|5/36hrs|2000|2|Gas Vent (2), Smartlink|
+5-* Kalishnikov AK-101             3|2|30(m)|SA/BF/FA|8M|5.5|8/4days|1600|2|Gas Vent (2), Laser Sight|
+5-* Kalishnikov AK-101 Smart       3|2|30(m)|SA/BF/FA|8M|5.5|8/4days|3200|2|Gas Vent (2), Smartlink|
+5-* Maremont LR                    3|3|36(c)|BF/FA|8M|4.25|6/4days|1400|2.5|Laser Sight, Magnification (1)|
+5-* Militech Cyborg Rifle          3|2|30(c)|SA|6S|7.5|10/7days|800|2.5|Gas Vent (2)|
+5-* Militech M-31a1 AICW           3|1|150(c)|SA/BF/FA|6M|6.5|20/28days|1695|4.5|Grenade Launcher (4-shot)|
+5-* Militech Ronin Light Assault   3|1|35(c)|SA/BF/FA|8M|3.5|4/48hrs|900|2|Laser Sight|
+5-* Parker Carbine                 3|3|500(c)|FA|6M|5.1|12/7days|2500|1|Caseless, Gas Vent (2), recoil is halved|
+5-* Samopal vz 88V                 3|2|35(c)|SA/BF/FA|8M|5.5|5/36hrs|1800|2|Gas Vent (2), Laser Sight, Magnification(2), Shock Pads|
+5-* S&W Model F "Cyborg Assault"   3|4|8(c)|SS|8S|4|10/5days|1650|2.5|22mm Muzzle Adaptor|
+5-* SIG 880                        3|2|30(c)|SA/BF|8M|4|4/36hrs|850|2|Gas Vent (2), Laser Sight|
+5-* SIG 882                        3|3|30(c)|SA/BF|8M|4|5/36hrs|850|2|Gas Vent (2), Laser Sight|
+5-* Seco M-995                     3|-|30(c)|SA/BF/FA|8M|5.75|10/4days|3000|3|Gas Vent (3), Grenade Launcher (6-shot), Laser Sight, Rangefinder Grenade Link|
+5-* Seco M-995 Smart               3|-|30(c)|SA/BF/FA|8M|5.75|10/4days|6000|3|Gas Vent (3), Grenade Launcher (6-shot), Rangefinder Grenade Link, Smartlink|
+4-Shotguns
+5-* Arasaka Rapid Assault Shot 12  3|1|20(c)|SA/FA|8S|5.5|8/10days|1800|2.25|None|
+5-* Ares Wippet                    3|4|6(m)|SA|6M/9M|2|5/36hrs|1500|1.5|None|
+5-* Autoshot Riot Gun              5|2|20(c)|SA/FA|9S|4.5|10/7days|1500|2|None|
+5-* Chandler Capture 100           3|3|10(m)|SA|10S|4|4/24hrs|1500|2|Gas Vent (2), Shock Pads|
+5-* Chandler Capture 100 Smart     3|3|10(m)|SA|10S|4|4/24hrs|2200|2|Gas Vent (2), Shock Pads, Smartlink|
+5-* Syrko Cobra                    3|2(4)|10(c)|SA|10S|4.5|4/60hrs|1200|1|Smartlink|
+5-* Defiance T-250                 3|4|5(m)|SA|10S|3|3/24hrs|1400|1|None|
+5-* Eichiro Hatamoto II            3|6|1|SS|8S|2.5|12/7days|1200|2|None|
+5-* Enfield AS7                    3|4|10(50)(c)|SA/BF|8S|4|8/8days|1000|1|Laser Sight|
+5-* Franchi SPAS-22                3|2|10(m)|SA/BF|10S|4|6/48hrs|1000|2|Smartlink II|
+5-* Holland & Holland .600 NE      3|-|2(b)|SA|12S|4.5|-|10000|-|None|
+5-* Kimatsuhama UBS-5              3|(-2)|4(m)|SS|7S|2.25|5/48hrs|500|1.1|None|
+5-* Kimatsuhama UBS-6              3|(-2)|6(m)|SA|7S|2.5|6/48hrs|750|1.1|None|
+5-* Kimatsuhama UBS-7              3|(-3)|2x 4(m)|2x SS|7S|3.5|10/7days|1700|1.25|None|
+5-* Luigi "King Buck" Multi-Magnum 3|1|4(m)|SA|9S|7|12/4days|800|2.1|CB2|None|
+5-* Militech Crusher SSG           3|5|6(c)|SA|6S/8M|3|6/48hrs|1450|1.5|None|
+5-* Militech Military/Police 10ga. 3|2|6(m)|SA|10S|4.5|4/60hrs|800|1|None|
+5-* Militech Military/Police 12ga. 3|2|8(m)|SA|8S|4.5|4/60hrs|800|1|None|
+5-* Mossberg CMDT                  3|2|8(c)|SA/BF|9S|4.25|8/8days|1400|1|Laser Sight|
+5-* Mossberg CMDT/SM               3|2|8(c)|SA/BF|9S|4.5|12/8days|1900|2|Smartlink|
+5-* Ranger Arms Security 12        3|3|15(c)|SA/BF/FA|10S|4.5|10/8days|2000|2|Gas Vent (2), Laser Sight|
+5-* Remington 990                  3|2|8(m)|SA|10S|4|3/48hrs|650|2|None|
+5-* Remington 990 Sawn-Off         3|4|8(m)|SA|8S|4|3/48hrs|650|2|None|
+5-* Remington 1628                 3|4|8(m)|SS|8S|3|3/24hrs|500|1|None|
+5-* Remington Rapid Assault 12     3|3|15(c)|SA/BF|10S|4.5|12/8days|2000|2|Smartlink|
+5-* Wirtz SW3i DemoControl         3|3|4(m)|SS|(special)|3|9/16days|600|4|None|
+5-* Wristbreaker I                 3|2(3)|2x 10(m)|2x SA/FA|8S|4.25|14/14days|1450|3|None|
+5-* Wristbreaker II                3|3(4)|2x 5(m)|2x SA|8S|2.75|8/10days|1450|1.5|None|
+5-* Sandler "Mad Max"              3|5|2(b)|SA|6S|2.25|4/48hrs|400|1|None|
+5-* Sternmeyer Stakeout 10         3|4|10(m)|SA|9S|3.75|8/7days|900|1.5|None|
+4-Sniper rifles
+5-* Barret Model 121 HSR           3|-|14(c)|SA|14D|10|14/30days|4800|5|Recoil Compensation (2), Silencer, Smartlink|
+5-* H&K PSG-65                     3|-|20(m)|SA|14S|6|12/7days|7000|4|Gas Vent (2), Low-Light, Magnification (3), Smartlink, Thermographic|
+5-* RAI Model 1050                 5|-|5(c)|SA|15S|5.25|14/10days|6000|4|High-power Laser Sight, Low-Light, Magnification (3), Shock Pads, Silencer|
+5-* Ranger Arms SM-3               3|-|6(m)|SA|14S|4|12/7days|4000|4|Gas Vent (2), Low-Light or Thermographic, Magnification (3), Silencer|
+5-* SMF K6                         3|-|30(c)|SA/FA|10S|5|14/21days|2000|3|Gas Vent (2)|
+5-* Tsunami Arms Ramjet Rifle      3|-|9(c)|SA/BF|10S/12S/14S/16S|5|16/14 days|7380|4|Bipod, Magnification (3), Recoil Compensation (1), Samrtlink II|
+5-* Walther WA-2100                3|-|10(m)|SA|14S|4.5|12/7days|6500|4|Smartlink|
+4-Sport rifles
+5-* Remington 750                  3|3|5(m)|SA|7S|3|3/24hrs|600|1|Magnification (1)|
+5-* Remington 950                  3|2|5(m)|SA|9S|4|3/24hrs|1300|1|Magnification (1)|
+5-* Ruger 100                      3|2|5(m)|SA|7S|3.75|3/24hrs|1300|1|Magnification (3)|
+5-* SIG 883 SP                     3|2|5(30)(c)|SA|9M|4.25|3/36hrs|950|1.5|Magnification (2), Shock Pads|
+4-Multi-weapons
+5-* Mossberg M-712                 3|3|35(c)/15(c)|(SA/BF/FA)/(SA)|8M/10S|6|12/7days|4000|3|Gas Vent (2, Rifle), Magnification (2), Smartlink|
+5-* Steyr AUG-CSL                  3|varies|40(c)|varies|varies|varies|10/4days|4500|3|Laser Sight|
+5-* Syrko Panther                  3|1|40(c)/25(c)|(SA/FA)/(SA/BF)|8M/8S|5.25|8/7days|4000|3|Gas Vent (3, Rifle), Gas Vent (2, Shotgun), Smartlink|
+3-Light machine guns
+4-* Ares MP LMG                    3|-|belt/50(c)|BF/FA|7S|7.5|6/5days|2200|2|Gas Vent (2), Laser Sight, Shock Pads|
+4-* Ares HV MP-LMG                 3|-|80(c)|SA/BF/FA|6S|8|20/14days|4500|4|Recoil Compensation (3), Smartlink II|
+4-* GE Vindicator Minigun          3|-|belt/50(c)|FA|7S|15|24/14days|2500|2|None|
+4-* H&K G-6 Advanced Squad Auto.   3|-|100(c)|FA|7M|7|14/21days|2050|3.5|Caseless, Magnification (2), Smartlink II, Thermographic|
+4-* H&K MG4/46                     3|-|belt/100(c)|BF/FA|7S|7|11/8days|2500|4|Laser Sight, Magnification (3), Shock Pads, Thermographic|
+4-* Ingram Valiant                 3|-|belt/50(c)|BF/FA|7S|9|6/5days|1500|2|Gas Vent (2), Shock Pads|
+4-* IWS Mini-5                     3|-|belt|FA|7S|14|24/14days|13000|2|None|
+4-* IWS Mini-5 Smart               3|-|belt|FA|7S|14|24/14days|26000|2|Smartlink|
+5-* SIG 883                        3|1|30(50)(c)|SA/FA|9M|6.5|6/48hrs|1000|2.5|Bipod, Gas Vent (3), Laser Sight, Shock Pads|
+4-* Syrko Tiger                    3|-|40(c)/belt|SA/FA|7S|8.25|7/7days|3000|2|Caseless, Gas Vent (3), Smartlink|
+3-Laser weapons
+4-* Ares MP Laser                  3|-|20(Pack)|SA|15M|30|NA|2500000|NA|None|
+4-* Ares MP Laser III              3|-|20(Pack)|SA|15M|25|24/21days|120000|3|None|
+4-* Infrared Laser                 3|normal|normal|normal|normal|normal|+4/+7 days|double normal|+1|normal|
+4-* Laser LAW                      3|2|1(m)|SS|12M|5|24/21days|75000|3|None|
+4-* Laser VLAW                     3|4|1(m)|SS|10M|3.5|24/21days|60000|3|None|
+4-* Militech Electronics Laser     3|-|(Special)|SA|3M to 15M|25|26/21days|130000|3.25|None|
+3-Heavy weapons
+4-* 2-Barrel HMG Chaingun          3|-|belt|FA|9S|20|26/21days|6500|2|None|
+4-* 7.62cm 10-Barrel               3|-|10(m)|FA|(7.62cm rocket)|30|22/14days|9500|4|None|
+4-* 7.62cm Single Barrel           3|-|1(m)|SA|(7.62cm rocket)|2.5|10/10days|1000|1.75|None|
+4-* 12.7cm 10-Barrel               3|-|10(m)|FA|(12.7cm rocket)|35|24/14days|12000|4|None|
+4-* 12.7cm Single Barrel           3|-|1(m)|SA|(12.7 cm rocket)|3|11/10days|1250|1.75|None|
+4-* Ares MP Maser                  3|-|20|SA|10M + Special|25|-|750000|-|None|
+4-* Assault Cannon                 3|-|20(c)|SS|18D|20|16/14days|6500|2|None|
+4-* Barrett-Arasaka Light 20mm     3|-|10(c)|SS|18D|19|15/14days|6000|2|None|
+4-* Colt-Mauser M2X Cannon         3|-|8(c)|SS|18D|23|20/14days|6100|2|Magnification (2), Shock Pads|
+4-* FN MAG-5 MMG                   3|-|(belt)50(box)|FA|9S|9.5|18/14days|3200|3|Gas Vent (2), Laser Sight|
+4-* Generic MMG                    3|-|40(c)|FA|9S|12|14/14days|2500|2|None|
+4-* Generic HMG                    3|-|40(c)|FA|10S|15|18/18days|4000|2|None|
+4-* IWS Assault 20                 3|-|20(m)|SA|18D|16|16/14days|7200|2|Gas Vent (4), Shock Pads|
+4-* M10A Light Recoilless Rifle    3|-|1(b|SS|(Grenade)|6.5|12/14days|2000|2|None|
+4-* M400                           3|-|2x belt|FA|10S|18.5|22/21days|5500|2|Gas Vent (3)|
+4-* M400 Smart                     3|-|2x belt|FA|10S|19|24/21days|7500|2.5|Gas Vent (3), Smartlink II|
+4-* Militech AM-3                  3|-|5(c)|SS|20D|26|20/14days|8000|3|Gas Vent (2), Magnification (3), Shock Pads, Smartlink|
+4-* NR-10 Multi-Barrel HMG         3|-|35(c) or belt|FA|10S|41|28/30days|75000|3|None|
+4-* Stoner-Ares M107               3|-|(belt)50(box)|FA|10S|12.5|18/14days|5200|3|Gas Vent (3), Laser Sight|
+4-* Panther Assault Cannon         3|-|22(c)|SS|18D|18|16/14days|6500|2|Shock Pads|
+4-* Panther Heavy Recoilless Rifle 3|-|1(b)|SS|(Grenade)|10|14/14days|4000|3|None|
+4-* Rhinemetall EMG-85 Railgun     3|-|5(m)|SS|25D|35|-|113700|-|Gyro Mount (5), Smartlink II|
+4-* Ruhrmetall SF20                3|-|belt/80(c)|BF/FA|10S|14|17/28days|7200|2|Gas Vent (3), Shock Pads|
+4-* Whitney-Morgan Caseless MMG    3|-|belt|FA|9S|35|26/30days|25000|4|Caseless|
+3-Grenade launchers
+4-* Ares Suppressor (Standard)     3|-|12(c)|SA/BF|(Grenade)|7|18/14days|3400|3|None|
+4-* Ares Suppressor (Rangefinder)  3|-|12(c)|SA/BF|(Grenade)|7|18/14days|4300|3|Rangefinder|
+4-* Ares Suprpessor (Smart)        3|-|12(c)|SA/BF|(Grenade)|7|18/14days|6800|3|Smartlink|
+4-* Ares Suppressor (Smart+Range)  3|-|12(c)|SA/BF|(Grenade)|7|18/14days|7700|3|Rangefinder, Smartlink|
+4-* ArmTech MGL-12                 3|3|12(c)|SA|(Grenade)|5|6/36hrs|2200|3|None|
+4-* ArmTech Mini-6                 3|6|6(c)|SA|(Grenade)|2.5|6/36hrs|1600|3|None|
+4-* Generic Under-Barrel           3|(-3)|6(m)|SS|(Grenade)|(+2 kg)|8/4days|1700|3|None|
+4-* Grenade Launcher               3|(-2)|1(m)|SS|(Grenade)|1|6/4days|1250|2.75|None|
+4-* Hand-Held Grenade Launcher     3|2|5(c)|SS|(Grenade)|2.5|9/5days|2300|3|None|
+4-* Militech Mini-Grenade Launcher 3|3(-2)|4(m)|SA|(Grenade)|3.5|10/6days|2550|3|None|
+4-* Militech Mini-Grenade Launcher 3|1(-4)|16(c)|SA|(Grenade)|5|24/12days|4750|5|None|
+4-* Rockwell AGL-113               3|-|20(c)/belt|FA|(Grenade)|50|24/21days|15000|4|None|
+3-Missile/rocket launchers
+4-* Arbelast II MAW                3|-|1|SS|15D|2.75|8/48hrs|1200|2|None|
+4-* Great Dragon ATGM              3|4|1|SS|20D|2.75|8/48hrs|1200|2|Magnification (2)|
+4-* M79B LAW                       3|4/-|1|SS|12D|2.5|6/36hrs|700|2|None|
+4-* Militech RPG-A                 3|-|1(m)|SS|(Missile)|4.5|9/14days|4500|2.5|None|
+4-* Multi-Launcher                 3|-|4(b)|SS|(Missile)|8|12/14days|8000|2|None|
+4-* Ruhrmetall GPRL-Alpha          3|-|4(m)|SS|(Missile)|9.5|13/28days|9000|2|None|
+4-* Scorpion 16 Missile Launcher   3|-|1(b)|SS|(Missile)|5|10/14days|6000|2|None|
+3-Mortars
+4-* M-12 Man-Portable Mortar       3|-|1|SS|(Round)|30|12/14days|3000|2|None|
+3-Ballista
+4-* Ballista Multi-Role Launcher   3|-|4(m)|SS|(Round)|6.5|18/30days|10500|4|Type I Laser Designator|
+!
+1-Firearm and weapon accessories
+2-General
+3-* 22mm Muzzle Adaptor            6|Barrel|-|-|-|6/48hrs|100|3|
+3-* Ares MirrorSmarts              6|-|10|-|-|6/60hrs|6500|2|
+3-* Bow Accessory Mount            6|-|(-1)|-|.1|2/24hrs|100|.9|
+3-* Concealable Holster            6|-|(+2)|-|.1|2/24hrs|100|.75|
+3-* Digital Weapon Uplink          6|Top/Under|-1|-|.5|6/6days|500|2|
+3-* Electrothermal Ammo Enhancem.  6|-|-|-|.5|10/7days|0|2|
+3-* Gun Cam                        6|Top/Under|(-1)|-|.25|3/36hrs|100|1.2|
+3-* Gun Camera                     6|Top/Under|(-1)|-|.25|2/24hrs|300|.5|
+3-* Individual Biometric Safety    6|-|-|.1|3/36hrs|2250|1.5
+3-* Militech Muzzle Adaptor        6|Barrel|-|-|-|4/48hrs|200|.9|
+3-* Nine-Eleven Chip               6|Top/Under|(-1)|-|-|call Lone Star|1750|-|
+3-* Rangefinder                    6|Under|-|-|.1|2/24hrs|150|.8|
+3-* Rangefinder Grenade Link       6|-|-|-|.1|8/48hrs|750|2|
+3-* Security Chipping              6|Top/Under|-|10|-|4/72hrs|1250|1|
+3-* Spare Clip                     6|-|-|-|.75|2/24hrs|5|.75|
+3-* LaserEdge                      6|melee weapons only|-1|-|.25|6/5days|700|2|
+3-* Sharpwire Net Under-Barrel     6|Under|(-2)|-|2|5/4days|450|2|
+3-* Sighting Band                  6|Top|-|(-1)|.25|4/24hrs|20|1|
+3-* Speedholster                   6|-|(+2)|-|.25|4/24hrs|200|1.25|
+3-* Speedloader                    6|-|8|-|.5|2/24hrs|10|.75|
+2-Silencers/sound suppressors
+3-* Improved Silencer              3|Barrel|(-2)|+1|.2|8/72hrs|5000|2|
+3-* Improved Sound Suppressor      6|Barrel|(-2)|+1|.5|8/72hrs|7500|2|
+3-* Mini Silencer                  6|Barrel|-|(-1)|.1|6/48hrs|2500|1|
+3-* Revolver Silencer              6|Barrel|(-3)|-|1|6/60hrs|700|3|
+3-* Shhh 7000 Sound Suppressor     6|Barrel|(-3)|+2|1|9/72hrs|11250|2.5|
+3-* Silencer                       6|Barrel|(-2)|-|.2|4/48hrs|500|2|
+3-* Slimline Silencer              6|Barrel|(-1)|-|.2|6/48hrs|2500|2|
+3-* Sound Suppresser               6|Barrel|(-2)|-|.5|6/48hrs|750|2|
+3-* Smartscope (No magnification)  6|Top|(-2)|-1/0|1|5/60hrs|3250|1|
+3-* Smartscope (Magnification 1)   6|Top|(-2)|-1/1|1|5/60hrs|3500|1|
+3-* Smartscope (Magnification 2)   3|Top|(-2)|-1/2|1|5/60hrs|3750|1.1|
+3-* Smartscope (Magnification 3)   3|Top|(-2)|-1/3|1|5/60hrs|4250|1.1|
+2-Recoil compensation
+3-* Bipod                          6|Under|-|-|2|6/12hrs|400|1|
+3-* Gas Vent II                    6|Barrel|(-1)|1|.5|2/24hrs|450|.8|
+3-* Gas Vent III                   6|Barrel|(-2)|2|.75|2/24hrs|700|1|
+3-* Gyro Mount, Deluxe             6|-|(-6)|6|8|4/48hrs|7000|1|
+3-* Gyro Mount, Deluxe Improved    6|Under|(-7)|7|7|6/48hrs|7800|1|
+3-* Gyro Mount, Improved           6|Under|(-6)|5|5|6/48hrs|3500|1|
+3-* Gyro Mount, Standard           6|-|(-5)|5|6|4/48hrs|2500|1|
+3-* Improved Gas Vent II           6|Barrel|(-)|2|.25|2/24hrs|550|.9|
+3-* Improved Gas Vent III          6|Barrel|(-1)|3|.5|2/24hrs|800|.9|
+3-* Improved Gas Vent IV           6|Barrel|(-2)|4|.75|2/24hrs|1000|1|
+3-* Shock Pads                     6|-|-|1|.25|2/24hrs|200|.75|
+3-* SumnerTech Gyro-Mount 1S       6|Under|(-3)|3|2.5|6/48hrs|2000|1|
+3-* Tripod                         6|Under|-|6|8|10/12hrs|600|1|
+3-* Ultrasound Sight               6|Top|(-2)|-|.25|8/4days|1300|.8|
+3-* Ultrasound Goggles             6|NA|-|-|-|3/36hrs|1100|1|
+2-Targeting systems
+3-* DUD Smartgun Controller        6|Top/Under|-1|3|.25|8/6days|5000|2.5|
+3-* Imaging Scope: Low-Light       6|Top|(-2)|-|.25|3/36hrs|1500|.8|
+3-* Imaging Scope: Magnification 1 6|Top|(-1)|1|.25|3/36hrs|500|.8|
+3-* Imaging Scope: Magnification 2 6|Top|(-1)|2|.25|3/36hrs|800|.9|
+3-* Imaging Scope: Magnification 3 6|Top|(-1)|3|.25|3/36hrs|1200|1|
+3-* Imaging Scope: Thermographic   6|Top|(-2)|-|.25|3/36hrs|1500|.8|
+3-* Laser Sights                   6|Top|(-1)|-|.25|6/36hrs|500|.9|
+3-* Midnight Arms Smartshades      6|-|5|-|-|3/36hrs|4500|1|
+3-* Smart Goggles                  6|-|-|-|.1|3/36hrs|3000|1|
+3-* Smartgun level I, Internal     6|-|-|-|.5|-|0|-|
+3-* Smartgun level I, External     6|Top/Under|(-2)|-|1|4/48hrs|600|1|
+2-Armament suitcases
+3-* Armament Briefcase (armor 0/2) 14|-|1.5|4/36hrs|500|2|
+3-* Armament Computer Case         14|-|1.5|4/36hrs|450|2|
+3-* Armament Guitar Case           14|-|3.5|5/36hrs|700|2|
+3-* Armament Keyboard Case         14|-|3|6/36hrs|700|2|
+3-* Armament Large Suitcase        14|-|3|6/36hrs|600|2|
+3-* Armament Small Suitcase        14|-|2.5|5/36hrs|500|2|
+3-* Armament Tool Case             14|-|1|4/36hrs|400|2|
+3-* Armament Violin Case           14|-|2|6/36hrs|650|2|
+!
+1-Ammunition
+2-Ammunition (per 10 shots)
+3-* #000 Triplex Rounds (HP only)  5|9|(see rules)|.5|4/60hrs|50|1.25|
+3-* 30mm-Explosiv Rounds           5|8|+1 Power|1|6/36hrs|100|1.5|
+3-* 30mm-massiv Rounds             5|8|(as weapon)|1|4/24hrs|40|1|
+3-* 30mm-Schrot Rounds             5|8|(see rules)|1|4/24hrs|40|1|
+3-* Acid Rounds                    5|8|as weapon|.5|14/8days|100|4|
+3-* Anti-Personnel Rounds          5|8|+2 Power, +1 Damage|.75|12/10days|100|3.5|
+3-* Anti-Vehicular Rounds          5|8|(see rules)|.25|16/14days|300|4|
+3-* APDS Rounds                    5|8|1/2 Ballistic|.25|14/14days|70|4|
+3-* APDS Flechette Rounds          5|8|+1 Damage, 1/2 Ballistic|.25|14/14days|100|4|
+3-* Armor Piercing Rounds          5|8|-2 Ballistic|.5|2/24hrs|20|.75|
+3-* Armor Piercing Flechette Rnds  5|8|(see rules)|.5|6/3days|150|3.5|
+3-* Armor-Piercing Incendiary Rnds 5|8|1/2 Ballistic|.25|16/14days|80|4.5|
+3-* Crawler Rounds                 5|8|(see rules)|.5|14/14days|100|6|
+3-* Dartgun Cyberfinger Darts      5|10|3L|.1|6/48hrs|20|.5|
+3-* Depleted Uranium Core Rounds   5|8|+2 Power|.75|8/12days|75|2|
+3-* Dragon's Breath (Shotgun only) 5|8|(see rules)|.75|12/7days|90|3|
+3-* Dual-Purpose Rounds            5|8|1/2 Ballistic + special|.5|16/14days|80|4|
+3-* Duplex Rounds                  5|8|(two bullets)|.75|5/36hrs|90|1|
+3-* Explosive Rounds               5|8|+1 Power|.75|3/36hrs|50|.8|
+3-* EX Explosive Rounds            5|8|+2 Power|.75|6/72hrs|100|1.5|
+3-* Firepower Rounds (HP only)     5|8|+1 Power|.5|3/36hrs|35|.75|
+3-* Flare Rounds (Shotgun only)    5|8|6M|.5|4/24hrs|50|1|
+3-* Flash Rounds (Shotgun only)    5|8|none|.5|4/24hrs|60|1|
+3-* Flechette Rounds               5|8|+1 Damage|.5|3/36hrs|100|.8|
+5-* Fragmentation Flechette Rounds 5|8|+1 Power|.5|12/10days|100|4.5|
+3-* Gas Rounds (Shotgun only)      5|8|gas|.5|6/48hrs|50|1.1|
+3-* Gauss Gun ammo(Gauss Gun only) 5|6|normal|1.5|-|300|-|
+3-* Gel Rounds                     5|8|-2 Power, Stun|.25|4/48hrs|30|1|
+3-* Glaser Rounds                  5|8|(see rules)|.75|16/14days|100|4|
+3-* High Explosive AP Rounds       5|8|(see rules)|1|18/21days|200|5|
+3-* HEP Rounds                     5|8|(see rules)|.75|5/36hrs|60|1.1|
+3-* HESH Rounds                    5|8|(Special)|.75|18/14days|200|3|
+3-* Hollow-Point Rounds            5|8|+1 Damage|.5|4/24hrs|25|.8|
+5-* Incendiary Rounds              5|8|(as weapon)|.25|6/48hrs|30|2|
+3-* Light Armor-Piercing/HE Rounds 5|8|(see rules)|.75|16/14days|100|2.5|
+3-* Multi-Flechette Rounds         5|8|(see rules)|.5|5/48hrs|100|1|
+3-* Ramjet Rnds(Ramjet rifle only) 5|8|(as weapon)|.5|8/72hrs|100|2|
+3-* Regular Rounds                 5|8|(as weapon)|.5|2/24hrs|20|.75|
+3-* Rostovic Wrist Racate (6 rnds) 5|5|9S|1.25|14/20 days|200|3.5|
+3-* Rubber Rounds                  5|8|Stun|.5|3/12hrs|10|.75|
+3-* Silver Rounds                  5|8|(see rules)|.5|6/6days|50|2|
+3-* Smoke Rounds (Shotgun only)    5|8|none|.5|3/12hrs|40|.8|
+3-* Stinger Rounds (Shotgun only)  5|8|Stun|.5|4/18hrs|30|1|
+3-* Stundart Rounds (HP only)      5|8|10S Stun|.75|6/72hrs|80|2|
+3-* Stun Rounds                    5|8|(see rules)|1|4/48hrs|100|1|
+3-* Taser Darts                    5|3|(see rules)|.5|6/36hrs|50|1.5|
+3-* Tracer Rounds                  5|8|(see rules)|.5|3/24hrs|75|1|
+3-* Tungesten Rounds               5|8|+1 Power|.6|6/6days|50|1.5|
+3-* Wirtz-Betaubung Rounds         5|6|12M Stun|1.5|8/36hrs|100|2|
+3-* Wirtz-Schrot Rounds            5|8|11S(f)|1.25|8/36hrs|80|2|
+2-Belted ammunition
+3-* Assault Cannon (belt 100)      5|-|(as weapon)|12.5|6/3days|4250|2|
+2-Assault cannon ammunition (per 10 rounds)
+3-* Assault Cannon                 5|3|(as weapon)|1.25|5/3days|450|2|
+3-* Extra High Impact              5|3|special|1.5|8/4 days|1,000|2.25|
+2-Rockets (per rocket)
+3-* Anti-Personnel Rocket          4|NA|16D|2|8/14days|1000|2|
+3-* Anti-Power-Plant Rocket        4|NA|12M|2|6/48hrs|2500|1.3|
+3-* Anti-Vehicle Rocket            4|NA|16D|3|8/14days|2000|2|
+3-* Armor-Piercing Rocket          4|NA|16D|3|12/6days|3500|2.5|
+3-* Baffler Rocket                 4|NA|8M Stun|2.5|6/3days|3000|2|
+3-* Fireball Special Rocket        4|NA|12D|2.5|10/4days|3500|2.3|
+3-* High-Explosive Rocket          4|NA|16D|2|8/14days|1500|2|
+3-* Puff Dragon Rocket             4|NA|8M Stun|2|9/72hrs|2200|2|
+3-* Smoking Jenny Rocket           4|NA|8M Stun|2|8/72hrs|2000|1.8|
+2-Missiles (per missile)
+3-* Anti-Personnel Missile         4|3|16D|2.25|12/14days|2500|3|
+3-* Anti-Vehicle Missile           4|4|16D|3.25|12/14days|5000|3|
+3-* Armor-Piercing Missile         4|3|16D|2.5|10/6days|4500|3|
+3-* Fireball Special Missile       4|3|12D|2.5|12/7days|4500|2.5|
+3-* High-Explosive Missile         4|3|16D|2.25|12/14days|3750|3|
+3-* Puff Dragon Missile            4|3|8M Stun|2.5|10/72hrs|3200|2|
+3-* Surface to Air Missile (SAM)   4|4|13D|1.5|18/21days|2500|4|
+2-Micromissiles (per missile)
+3-* Anti-Armor Micromissile        4|2|12M|.25|16/14ays|750|2|
+3-* HEP Micromissile               4|NA|14M|.25|12/14days|200|2|
+3-* Normal Micromissile            4|2|12M|.25|14/14days|500|2|
+2-Ballista rounds (per round)
+3-* Ballista Round Mark I          4|NA|14D|2.75|12/21days|1000|4|
+3-* Ballista Round Mark II         4|5|14D|2.75|18/28days|2000|4|
+3-* Ballista Round Mark III        4|6|14D|2.75|14/28days|2500|4|
+2-Mortar rounds (per round)
+3-* High Explosive Mortar Round    5|-|18D|4|18/14days|200|3|
+3-* Anti-Personnel Mortar Round    5|-|18D(f)|4|18/14days|250|3|
+3-* Smoke Mortar Round             5|-|-|3.5|18/14days|175|2|
+3-* White Phosphorus Mortar Round  5|-|15S/12L|4|18/14days|350|3|
+3-* Anti-Vehicle Mortar Round      5|-|16D|4|18/21days|1200|4|
+2-Netgun nets (per net)
+3-* Carbosteel Wire Net            5|5|10S Stun|1|6/48hrs|100|2|
+3-* FEN Dz-55 Det-Web              5|5|8D|2|10/72hrs|450|3|
+3-* Large Net                      5|5|none|.75|8/48hrs|300|2|
+3-* Small Net                      5|7|none|.5|6/48hrs|150|2|
+2-* Spetsdod rounds (per round)
+3-* DTox Spetsdod Round            5|8|3D|14/14days|GM|GM|
+3-* ShokTox Spetsdod Round         5|8|6D Stun|4/48hrs|200|1|
+3-* SPAZM Spetsdod Round           5|8|6D+Special|14/30days|GM|GM|
+3-* Stinger Spetsdod Round         5|8|(see rules)|4/48hrs|100|1|
+!
+1-Explosives
+2-Grenades
+3-* Concussion Grenade             5|6|6M Stun|.25|5/4days|30|2|
+3-* Concussion Grenade             5|7|10M Stun|.25|6/72hrs|40|1.2|
+3-* Crawler Grenade                5|6|(see rules)|.25|20/14 days|150|6|
+3-* CS Grenade                     5|5|tear gas|.5|6/4 days|75|2.5|
+3-* Defensive AP Grenade           5|6|10D(f)|.25|4/4days|30|2|
+3-* Defensive HE Grenade           5|6|10S|.25|4/4days|30|2|
+3-* EMP Grenade                    5|6|(Special)|.3|10/10days|400|4|
+3-* Explosive Grenade              5|7|6M|.25|6/72hrs|25|1.5|
+3-* FEN Dz 22 "Saucer Grenade"     5|7|8S|.25|6/10days|65|3|
+3-* Finger Bomb                    5|10|8M|.1|6/6days|35|1.5|
+3-* Flash Grenade                  5|6|(Special)|.25|4/48hrs|40|1|
+3-* Flash-Pak                      5|12|(Special)|.2|3/36hrs|250|1|
+3-* Flashbang Grenade              5|6|12M Stun|.25|8/6days|80|2.25|
+3-* Foam Grenade                   5|6|-|.25|3/48hrs|30|.9|
+3-* Fragmentation mini-grenade     5|8|10D(f)|.1|8/4days|50|3|
+3-* Gas Grenade                    5|5|Neuro-Stun VIII|.5|5/4days|60|2|
+3-* GPz-78 Grenade                 5|8|8M|.1|4/60hrs|40|1.5|
+3-* Green Ring 4 Grenade           5|6|gas|.25|10/6 days|80|2.5|
+3-* HEP (High-Explosive Cratering) 5|8|10S (see rules)|.1|9/5days|60|2.5|
+3-* Incendiary Grenade             5|6|10M/10L|.25|10/8days|100|3|
+3-* IPE Concussion Grenade         5|6|16M Stun|.25|5/4days|70|2|
+3-* IPE Defensive AP Grenade       5|6|15D(f)|.25|5/4days|50|2|
+3-* IPE Defensive HE Grenade       5|6|15S|.25|5/4days|50|2|
+3-* IPE Offensive AP Grenade       5|6|15D(f)|.25|5/4days|50|2|
+3-* IPE Offensive HE Grenade       5|6|15S|.25|5/4days|50|2|
+3-* Mace XII Gas Grenade           5|6|gas|.25|8/6days|50|2|
+3-* Militech PDU-3                 5|8|10S|.25|10/7days|150|2.5|
+3-* Motion Restraints Grenade      5|6|-|.5|6/48hrs|60|2|
+3-* Neurostun IX Grenade           5|6|gas|.25|6/6days|50|2|
+3-* Niref D Gas Grenade            5|6|gas|.25|10/6days|80|2|
+3-* Offensive AP Grenade           5|6|10D(f)|.25|4/4days|30|2|
+3-* Offensive HE Grenade           5|6|10S|.25|4/4days|30|2|
+3-* Paint Grenade                  5|6|-|.25|3/48hrs|20|2|
+3-* Scatter Grenade                5|6|per charge|.25|3/48hrs|70|1.5|CB2 p.49
+3-* Smoke Grenade                  5|6|-|.25|3/24hrs|30|2|
+3-* Smoke (IR) Grenade             5|6|-|.25|4/48hrs|40|2|
+3-* Spraypaint Grenade             5|6|-|.25|2/3days|20|.9|
+3-* Stench Bomb                    5|6|-|.25|3/48hrs|20|.8|
+3-* Thermal Smoke                  5|6|-|.25|5/4days|40|2|
+3-* White Phosphorus Grenade       5|6|14M/10L|.25|6/5days|120|3|
+2-Mini grenades (for grenade launchers)
+3-* Anti-Armor Minigrenade         5|8|10S|.1|8/5days|125|3.5|
+3-* Anti-Personnel Flechette       5|8|10D(f)|.1|9/14days|100|3.5|
+3-* Concussion Minigrenade         5|8|10M Stun|.1|7/4days|60|3|
+3-* Defensive AP Minigrenade       5|8|10D(f)|.1|6/4days|60|3|
+3-* Defensive HE Minigrenade       5|8|10S|.1|6/4days|60|3|
+3-* Flash Minigrenade              5|8|(Special)|.1|6/48hrs|80|2|
+3-* Gas Minigrenade                5|8|gas|.1|10/6days|100|2|
+3-* Green Ring 4 Minigrenade       5|8|gas|.1|14/6days|120|3|
+3-* IPE Concussion Minigrenade     5|8|16M Stun|.1|7/4days|140|3|
+3-* IPE Defensive AP Minigrenade   5|8|15D(f)|.1|6/4days|100|3|
+3-* IPE Defensive HE Minigrenade   5|8|15S|.1|6/4days|100|3|
+3-* IPE Offensive AP Minigrenade   5|8|15D(f)|.1|6/4days|100|3|
+3-* IPE Offensive HE Minigrenade   5|8|15S|.1|6/4days|100|3|
+3-* Smoke Minigrenade              5|8|-|.1|5/24hrs|60|3|
+3-* Smoke (IR) Minigrenade         5|8|-|.1|8/48hrs|80|3|
+3-* Neurostun-Minigrenade          5|8|8M + gas|.15|12/4ays|200|3|
+3-* Offensive AP Minigrenade       5|8|10D(f)|.1|6/4days|60|3|
+3-* Offensive HE Minigrenade       5|8|10S|.1|6/4days|60|3|
+3-* SplatShell Minigrenade         5|8|splatballs|.1|6/48hrs|10|1|
+3-* Tranengas-Minigranate          5|8|8M|.15|4/24hrs|50|1.5|
+2-Rifle grenades
+3-* Anti-Tank                      5|4|16D|.5|8/8 days|100|2|
+3-* Concussion                     5|4|12M Stun|.5|8/8 days|50|2|
+3-* Defensive                      5|4|10S|.5|8/8 days|50|2|
+3-* Offensive                      5|4|10S|.5|8/8 days|50|2|
+2-Shotgun Minigrenades (Shotgun only)
+3-* Concussion Shotgun Grenade     5|8|10M|.2|7/4 days|600|3|
+3-* Defensive Shotgun Grenade      5|8|8S|.2|6/4 days|600|3|
+3-* Offensive Shotgun Grenade      5|8|8S|.2|6/4 days|600|3|
+3-* Smoke                          5|6|-|.25|4/4 days|30|2|
+2-Mikrogranate (for Wirtz "DemoControl")
+3-* Defensive Mikrogrenade         5|9|10S|.1|6/36hrs|80|1.5|
+3-* Offensive Mikrogrenade         5|9|10S|.1|6/36hrs|80|1.5|
+3-* Schock Mikrogrenade            5|9|12M Stun|.1|8/36hrs|80|1.5|
+2-Militech 25mm pistol-grenades
+3-* Concussion Pistol Grenade      5|8|8M Stun|.1|5/6 days|15|2|
+3-* Defensive Frag Pistol Grenade  5|8|6M|.1|5/7 days|20|2|
+3-* Flash Bomb Pistol Grenade      5|8|4L|.1|4/72hrs|15|1.2|
+3-* HEP (Cratering) Pistol Grenade 5|8|(see rules)|.1|4/6 days|30|1.5|
+3-* Incendiary Pistol Grenade      5|8|6M|.1|8/7 days|30|2|
+3-* Offensive Frag Pistol Grenade  5|8|6S|.1|5/7 days|25|2|
+3-* Smoke/Tear Gas Pistol Grenade  5|8|gas|.1|6/7 days|20|2.5|
+2-Light recoilless rifle grenades
+3-* Anti-Armor LRR Grenade         5|5|12D|3|5/36hrs|200|3|
+3-* Anti-Personnel LRR Grenade     5|5|12S(f)|3|5/36hrs|150|3|
+3-* High Explosive LRR Grenade     5|5|12S|3|5/36hrs|150|3|
+3-* Smoke LRR Grenade              5|5|-|2.5|4/36hrs|125|2.5|
+2-Heavy recoilless rifle grenades
+3-* Anti-Armor HRR Grenade         5|5|18D|3|5/36hrs|200|3|
+3-* Anti-Personnel HRR Grenade     5|5|18D(f)|3|5/36hrs|150|3|
+3-* High Explosive HRR Grenade     5|5|18S|3|5/36hrs|150|3|
+3-* Smoke HRR Grenade              5|5|-|2.5|4/36hrs|125|2.5|
+2-Mines
+3-* Anti-Personnel Mine            5|4|7D(f)|.25|10/7days|40|3|
+3-* Anti-Personnel Mine            5|6/18|6D|.25|14/10days|50|4|
+3-* Antitank Mine                  5|4|14D|.5|10/7days|40|3|
+3-* Claymore                       5|4|10D/10S|1.5|8/6days|175|3|
+3-* Directional A-P Mine           5|4|8D(f)/8S|.5|10/7days|100|3|
+3-* Explosive-Tipped Spike         5|10|2D|.1|8/10days|5|2|
+3-* Thermite Limpet Mine           5|8|10S|.25|9/7days|80|2.5|
+2-Commercial explosives per kilo
+3-* Commercial Explosive           7|6|3|1|6/48hrs|60|1|
+3-* Detcord (per 10 meters)        7|6|6|5|10/48hrs|900|1.5|
+3-* FEN Dz 25 "Det Card"           7|10|4|.02|8/5days|120|4|
+3-* Plastic, Compound IV           7|6|6|1|8/48hrs|80|1|
+3-* Plastic, Compound XII          7|6|12|1|10/48hrs|250|2|
+3-* Radio Detonator                7|8|-|.25|4/48hrs|250|2|
+3-* Shaped Charge                  7|4|15D|1|12/48hrs|500|2.5|
+3-* Timer                          7|6|-|.5|4/48hrs|100|2|
+!
+1-Clothing and armor
+2-Clothing
+3-* Ordinary Clothing              8|-|-|-|1|Always|50|.8|
+3-* Fine Clothing                  8|-|-|-|1|Always|500|1|
+3-* Tres Chic Clothing             8|-|-|-|1|Always|1000|1|
+2-Leather
+3-* Heavy Leather(Jacket or Pants) 8|-|-|2|1|always|750|.75|
+3-* Real Leather                   8|-|-|2|1|Always|750|.75|
+3-* Synthetic Leather              8|-|-|1|1|Always|250|.6|
+2-Armor clothing
+3-* Arasaka Jetsetter Briefcase    8|-|3|3|4.5|4/36hrs|2000|1.2|
+3-* Armor Clothing                 8|10|3|-|2|3/36hrs|500|1|
+3-* Armor Jacket                   8|6|5|3|2|3/36hrs|900|.75|
+3-* Armored Stockings              8|15|+1|0|-|6/72hrs|110|1.1|
+3-* Armor Street Clothes Type 1    8|12|3|1|1.5|3/24hrs|500|.8|
+3-* Armor Street Clothes Type 2    8|12|2|2|1.5|3/24hrs|500|.8|
+3-* Armor Vest                     8|12|2|1|1|2/36hrs|200|.8|
+3-* Forearm Guards                 8|12|-|1|.2|5/36hrs|250|.75|
+3-* Kevlar Armor Jacket, Light     8|8|3|2|1|2/36hrs|600|.8|
+3-* Kevlar Armor Jacket, Medium    8|6|4|3|1.5|3/36hrs|800|.8|
+3-* Kevlar Armor Jacket, Heavy     8|5|5|4|2|3/36hrs|1000|.8|
+3-* Kevlar T-Shirt/Vest            8|11|2|0|1|4/48hrs|220|2|
+3-* Lined Coat                     8|8|4|2|1|2/24hrs|700|.75|
+3-* Secure Clothing                8|12|3|-|1.5|3/36hrs|450|.9|
+3-* Secure Jacket                  8|9|5|3|3|4/36hrs|850|.8|
+3-* Secure Vest                    8|15|2|1|.75|3/36hrs|175|.9|
+3-* Secure Ultra-Vest              8|14|4|3|2.5|3/36hrs|350|.9|
+3-* Secure Long Coat               8|10|4|2|2|3/24hrs|650|.9|
+3-* Vest with Plates               8|10|4|3|2|3/36hrs|600|1|
+2-Armante
+3-* Armante "Ancien" Shawl         8|14|1|0|.3|2/48hrs|750|.75|
+3-* Armante "Executive Suite" Tux  8|12|3|1|1|4/48hrs|1100|.75|
+3-* Armante "London Fog" Cloak     8|12|2|2|1|4/48hrs|600|.75|
+3-* Armante "Starlight" Dress      8|13|1|1|.75|2/48hrs|4500|.75|
+3-* Armante "Tokyo" Business Suit  8|13|2|1|1|3/48hrs|1000|.75|
+3-* Armante "Venetian" Dress       8|14|1|0|.5|2/48hrs|3500|.75|
+2-Eji of Japan
+3-* Eji Armored Cloak              8|14|2|1|1.5|always|500|.75|
+3-* Eji Designer's Jeans           8|-|0|0|1|always|50|.75|
+3-* Eji Lamb's Wool Sweater        8|-|0|0|1|always|60|.75|
+2-Gibson Battlegear
+3-* Gibson Acid-washed Jeans       8|10|2|1|1|4/48hrs|300|1|
+3-* Gibson Denim Jacket            8|9|2|1|1|4/48hrs|1500|1|
+3-* Gibson T-Shirt                 8|10|1|0|.5|4/48hrs|100|1|
+3-* Gibson Sneak Suit Helmet       8|-|+1|+0|1.5|10/5days|1185|2.5|
+3-* Gibson Sneak Suit Diving Suit  8|+4|0|0|2|12/7days|35000|3.5|
+3-* Gibson Sneak Suit Flak Vest    8|+2|2|1|1.5|8/5days|1375|2|
+3-* Gibson Sneak Suit Sneak Suit   8|+4|1|0|1|8/5days|1560|3|
+3-* Gibson Sneak Suit Space Suit   8|+4|1|1|10|14/7days|25000|4.5|
+2-ICON America
+3-* ICON Bomber Jacket             8|-|0|2|1.5|always|900|.9|
+3-* ICON Boots                     8|-|0|0|1|always|450|.8|
+3-* ICON Gun Belt                  8|-|0|0|.25|3/24hrs|180|.9|
+3-* ICON "Gunfighter" Hat          8|-|0|0|.5|always|300|.8|
+3-* ICON Half Boots                8|-|0|0|.75|always|300|.8|
+3-* ICON Long Duster               8|-|0|1|1.5|always|1500|.8|
+3-* ICON Long Skirt                8|-|0|0|1|always|600|.8|
+3-* ICON Miniskirt                 8|-|0|0|.5|always|300|.8|
+3-* ICON Pants                     8|-|0|0|1|always|750|.8|
+3-* ICON Tunic                     8|-|0|1|1|always|660|.8|
+2-Masetto Tech Clothing
+3-* Masetto 'Alessio' Coveralls    8|-|-|-|-|always|200|1|
+3-* Masetto 'Ciampolo' Gloves      8|-|-|-|-|always|40|1|
+3-* Masetto 'Gianni' Helmet        8|-|-|+1|1|4/48hrs|3,500|2|
+3-* Masetto 'Guercio' Helmet       8|-|-|+1|1|3/48hrs|600|2|
+3-* Masetto 'Lano' Coveralls       8|6|3|2|1|always|1600|1|
+3-* Masetto 'Pinamonte' Boots      8|-|-|-|-|always|50|1|
+2-Mortimer of London
+3-* Mortimer "Greatcoat"           8|11|4|2|3|6/48hrs|1000|.75|
+2-Nu-Tek Wearman series
+3-* Nu-Tek Wearment Jacket         8|-|0|0|1|3/48hrs|300|.9|
+3-* Nu-Tek Wearman Skirt           8|-|0|0|.75|3/48hrs|200|.9|
+2-Takanaka Exec Line
+3-* Takanaka Exec Briefcase        8|-|0|0|1.5|5/72hrs|600|.8|
+3-* Takanaka Exec Cape             8|-|0|0|1.5|6/72hrs|900|.9|
+3-* Takanaka Exec Cologne          8|-|-|-|-|6/72hrs|150|.9|
+3-* Takanaka Exec Cravat           8|-|0|0|.5|6/72hrs|100|.9|
+3-* Takanaka Exec Armored Topcoat  8|10|4|1|2.5|8/72hrs|2000|.9|
+3-* Takanaka Exec Jacket           8|-|0|0|1|6/72hrs|800|.9|
+3-* Takanaka Exec Monogram Shirt   8|-|0|0|.75|7/72hrs|200|1.1|
+3-* Takanaka Exec Opera Cloak      8|10|3|1|2.5|8/72hrs|1200|.9|
+3-* Takanaka Exec Pants            8|-|0|0|1|6/72hrs|700|.9|
+3-* Takanaka Exec Scarf            8|-|0|0|.25|6/72hrs|75|.9|
+3-* Takanaka Exec Sword Case       8|-|-|-|.5|8/72hrs|300|1|
+3-* Takanaka Exec Tie              8|-|0|0|-|6/72hrs|100|.9|
+3-* Takanaka Exec Top Coat         8|-|0|0|1.5|6/72hrs|1000|.9|
+3-* Takanaka Exec Vest             8|-|0|0|.75|6/72hrs|500|.9|
+2-Uniware
+3-* Uniware Armored Jacket         8|7|3|2|1.5|10/4days|800|1.3|
+3-* Uniware Armored Trenchcoat     8|7|4|3|2|10/4days|900|1.3|
+3-* Uniware Blouse/Shirt           8|-|0|0|.75|8/4days|40|1.2|
+3-* Uniware Boots                  8|-|0|0|1|4/4days|60|1.2|
+3-* Uniware Dress                  8|-|0|0|1.5|6/4days|100|1.2|
+3-* Uniware Jumpsuit               8|-|0|0|1.5|8/4days|150|1.2|
+3-* Uniware Legpads                8|8|2|2|1.5|9/4days|300|1.3|
+3-* Uniware Pants                  8|-|0|0|1|8/4days|70|1.2|
+3-* Uniware Skirt                  8|-|0|0|.75|8/4days|70|1.2|
+3-* Uniware Torso Armor            8|8|2|2|2|10/4days|300|1.3|
+3-* Uniware Utility Belt           8|-|0|0|.5|5/4days|30|1.1|
+3-* Uniware Vest                   8|-|0|0|.5|8/4days|50|1.2|
+2-Vashon Island
+3-* Vashon Island Houndstooth Set  8|varies|varies|varies|varies|6/48hrs|2000|.75|
+3-* Vashon Island Hunt Ball Set    8|varies|varies|varies|varies|5/48hrs|3000|.75|
+2-Zoe
+3-* Zoe "Country Club" Blazer      8|13|3|1|1|4/48hrs|2000|.75|
+3-* Zoe "Highland Laird" Kilt      8|14|4|2|1.5|6/48hrs|2000|.75|
+3-* Zoe "Retrovision" Skirt Suit   8|13|3|1|1.5|4/48hrs|2500|.75|
+2-Camouflage
+3-* Full Suit                      8|-|3|1|-|4/36hrs|800|1|
+3-* Jacket                         8|-|5|3|-|5/36hrs|1200|1|
+2-Form-fitting body armor
+3-* Form-fitting Armor Lvl 1       8|-|2|-|.75|3/48hrs|150|1|
+3-* Form-fitting Armor Lvl 2       8|15|3|1|1.25|4/48hrs|250|1|
+3-* Form-fitting Armor Lvl 3       8|12|4|1|1.75|4/48hrs|500|1|
+2-Fireproof/fire-resistant clothing
+3-* Fireproof Coat                 8|8|0|2|1|4/48hrs|220|2|
+3-* Fireproof Jacket               8|8|0|2|1|4/48hrs|200|2|
+3-* Fireproof Shirt                8|8|0|1|.5|4/48hrs|130|2|
+3-* Fireproof Hat                  8|8|0|1|-|4/48hrs|130|2|
+3-* Fireproof Skirt                8|8|0|1|1|4/48hrs|150|2|
+3-* Fireproof Pants                8|8|0|2|1.5|4/48hrs|150|2|
+3-* Fireproof Overcoat             8|8|0|2|2|4/48hrs|500|2|
+3-* Fireproof Suit                 8|4|(Special)|(Special)|3|6/72hrs|500|2.5|
+3-* Fire-Resistant Coveralls       8|10|0|3|3.5|10/48hrs|2000|1|
+2-Combat Biker body armor
+3-* Light Combat Biker Armor       8|-|3|2|1.25|4/48hrs|900|1|
+3-* Heavy Combat Biker Armor       8|-|6|5|2.75|4/48hrs|1200|1|
+3-* Combat Bikr Helmet             8|-|+1|+1|.5|5/48hrs|600|2|
+2-Urban Brawl body armor
+3-* Light Urban Brawl Armor        8|-|3|2|1.25|4/48hrs|700|1|
+3-* Medium Urban Brawl Armor       8|-|4|3|1.5|4/48hrs|750|1|
+3-* Heavy Urban Brawl Armor        8|-|6|4|2.5|4/48hrs|1000|1|
+3-* Urban Brawl Helmet             8|-|+1|+1|.5|5/48hrs|600|1|
+2-Heavy armor
+3-* Battle Vest                    8|7|0|0|1|5/3days|750|1.75|
+3-* Doorgunner's Vest              8|-|6|4|12|9/8days|7500|1.9|
+3-* Flack Vest                     8|-|4|4|2|6/4days|1000|1|
+3-* Full Suit                      8|-|8|6|(15+BODY)|16/14days|20000|3|
+3-* Helmet                         8|-|+1|+1|0|12/14days|200|1.5|
+3-* Helmet, Nylon                  8|-|+1|+1|0|12/14days|200|1.5|
+3-* Helmet, Steel                  8|-|+1|+2|0|14/14days|250|1.75|
+3-* MedicGear Combat Medical Armor 8|5|3|1|4|10/14days|3400|2|
+3-* Partial Suit                   8|-|6|4|(10+BODY)|8/10days|10000|2|
+2-Kelmar Police Armor
+3-* Kelmar Light Police Armor      8|2|3|5|2.5|20/14days|10000|3|
+3-* Kelmar Heavy Police Armor      8|1|5|7|4|24/20days|12500|3.5|
+3-* Kelmar Police Helmet           8|-|+0|+1|.75|20/14days|2000|3.5|
+2-Security armor
+3-* Light Security Armor           8|-|6|4|(9+BODY)|12/10days|7500|2|
+3-* Medium Security Armor          8|-|6|5|(11+BODY)|14/10days|9000|2.5|
+3-* Heavy Security Armor           8|-|7|5|(13+BODY)|16/14days|12000|3|
+3-* Security Helmet                8|-|+1|+2|0|12/14days|250|2|
+3-* Riot Shield, Small             8|-|1|-|2|8/14hrs|1500|2|
+3-* Riot Shield, Large             8|-|2|-|3|-|3200|-|
+2-Military grade armor
+3-* Light Military Armor           8|-|10|7|(12+BODY)|18/1mth|25000|3|
+3-* Medium Military Armor          8|-|12|8|(14+BODY)|24/1mth|45000|3|
+3-* Heavy Military Armor           8|-|14|9|(16+BODY)|28/1mth|70000|3|
+3-* Military Helmet                8|-|+2|+3|3|24/1mth|2500|3|
+2-MetalGear
+3-* MetalGear Arm Piece            8|2|1.5|1.25|2|10/7days|2000|3|
+3-* MetalGear Helmet               8|2|1.5|1.25|2|10/7days|2000|3|
+3-* MetalGear Leg Piece            8|2|1.5|1.25|2|10/7days|2000|3|
+3-* MetalGear Torso Piece          8|2|1.5|1.25|2|10/7days|2000|3|
+2-Special clothing and armor
+3-* Diving Suit                    8|-|2|1|10|10/10 days|6,000|3|
+3-* Esporma Environment Suit       8|1|2|1|5|6/4days|7250|3|
+3-* "Ghostsuit"                    8|+4|2|1|3|6/14days|53000|8|
+3-* "Ghostsuit" Helmet             8|-|+1|+0|1.5|8/14days|6000|8|
+3-* IR Combat Cloak                8|+4/+2|-|-|2|6/48hrs|450|2|
+3-* Kevlar Blanket                 8|-|2|-|-|always|500|1|
+3-* Medieval Armor (Maximillian)   8|-|3|4|14|10/4days|10600|1|
+3-* Medieval Armor (Standard)      8|-|2|3|10|8/48hrs|3500|1|
+3-* Military Chemsuit              8|-|-|-|BODY x1.5|18/14days|15000|2|
+3-* "Mirage Gear" Combat Helmet    8|-|+1|+0|1|9/4days|700|2.5|
+3-* "Mirage Gear" Flak Vest        8|-|2|1|1.5|7/4days|1275|2.5|
+3-* "Mirage Gear"                  8|+2|1|0|1.5|5/48hrs|1050|3|
+3-* Shadow Suit                    8|12|4|1|1.5|6/48hrs|800|1|
+3-* Sneak Suit                     8|+4|0|0|2|8/14days|50000|7.5|
+3-* Thermal Regulation Suit        8|14|-|-|2|6/48hrs|8000|2|
+!
+1-Lifestyle
+2-Living costs
+3-* Street Lifestyle               16|0|
+3-* Squatter Lifestyle             16|100|
+3-* Lower Lifestyle                16|1000|
+3-* Middle Lifestyle               16|5000|
+3-* High Lifestyle                 16|10000|
+3-* Luxury Lifestyle               16|100000|
+3-* IEC Domitic System             14|-|-|2/48hrs|2D6x50|-|
+2-General
+3-* Autotanner                     14|3|1|always|200|.9|
+3-* Bar-In-A-Briefcase             14|3|5|6/36hrs|100|.75|
+3-* Biotech Nutrisupplement        14|-|.5|always|10|.8|
+3-* Biotech Nymph Perfume          14|-|-|always|200|.9|
+3-* Boyo Bodyfree Masks            14|8|-|-|600|1|
+3-* DDI PrayerWare                 14|7|-|on payment|120|-|
+3-* Everest Climbing Spikes        14|3|-|2/24hrs|75|1|
+3-* Flavored Cigarettes            14|-|-|always|2|.8|
+3-* Flare Compensation Sunglasses  14|12|.1|5/24hrs|2000|1.5|
+3-* Folding Pocket Binoculars      14|8|-|always|50|1|
+3-* Shower-In-A-Can                14|8|.5|2/12hrs|3|1|
+3-* Skunker                        14|7|.25|5/60hrs|70|1.3|
+3-* Slosh Bag                      14|2|2|4/72hrs|65|1|
+3-* Smartgun Sunglasses            14|12|.1|4/24hrs|1950|1|
+3-* Swiss Army Knife               14|-|-|always|30|1|
+3-* Thermographic Sunglasses       14|12|.1|4/24hrs|2600|1.25|
+3-* Temperfoam Furniture           14|-|varies|2/24hrs|140|.5|
+3-* Travel Kit                     14|3|5|always|500|1|
+3-* "Small Wonders" NanoAgents     14|-|-|4/60hrs|500|2|
+2-Entertainment
+3-General
+4-* Mindscape Cyberholo Art Imager 14|-|-|always|6000|1|
+4-* Newsviewer                     14|4|.1|3/36hrs|100|1|
+4-* Desktop Holotank               14|-|15|4/48hrs|1000|1.2|
+4-* Holotank                       14|-|100|5/48hrs|5000|1.2|
+4-* Tabletop Holotank              14|-|5|4/48hrs|500|1.2|
+3-Music
+4-* Music: Disk/Chip               14|8|-|Always|20|.75|
+4-* Music: Playback Unit           14|3|2|Always|200|.75|
+4-* Music: Quad Speakers           14|-|-|Always|100|.75|
+4-* DPI Black Box Backup Synthamp  14|4|3|6/48hrs|8000|1.3|
+4-* DPI Black Box Datachips        14|-|-|6/48hrs|100|1.3|
+4-* DPI Body Rythm Dance Bracelets 14|-|-|always|400|1|
+4-* DPI Drumsticks                 14|4|.25|3/36hrs|800|1|
+4-* Washburn Soundmachine Guitar   14|-|3.5|5/60hrs|1000|1|
+4-* Yamaha RX4000 Ultrasynth       14|-|-|always|9380|1|
+3-Rush Virtual Entertainment System
+4-* Basic Rush System              14|3|4.5|always|500|.8|
+4-* Rush Multi-player Adaptor      14|-|-|always|100|.6|
+4-* Rush Total Environment         14|-|.75|always|1000|.8|
+4-* Video Wall                     14|-|5|always|3500|1|
+4-* Rush Virtual Villains          14|-|-|always|150|.9|
+3-Simsense decks
+4-* Simsense Player Unit           14|3|3|always|350|.75|
+4-* Simsense Program Chip          14|8|-|always|50|.75|
+4-* Simsense Portable Recorder     14|-|5|7/7days|50000|2|
+4-* Fuchi Dreamliner               14|2|5.5|always|2500|1|
+4-* Fuchi RealSense MasterSim      14|-|12|8/1week|125000|3|
+4-* Sony Beautiful Dreamer         14|3|3|always|200|1|
+4-* Sony Beautiful Dreamer II      14|2|5|always|1800|1|
+4-* Truman Dreambox                14|3|3|always|350|.75|
+4-* Truman Paradiso                14|-|6|4/36hrs|75000|1|
+3-Simsense recordings (per minute)
+4-* Cheap Baseline ACT Recording   14|10|-|always|1|.75|
+4-* Average Baseline ACT Recording 14|10|-|always|3|.75|
+4-* High-Quality Baseline ACT Rec. 14|10|-|always|2.5|.75|
+4-* Current Hit Baseline ACT Rec.  14|10|-|always|3|.75|
+4-* Average Baseline Dir-X Rec.    14|10|-|always|90|.75|
+4-* HighQuality Baseline Dir-X Rec 14|10|-|always|100|.75|
+4-* Current Hit Baseline Dir-X Rec 14|10|-|always|150|.75|
+4-* Cheap Full-X ACT Recording     14|10|-|always|3|.75|
+4-* Average Full-X ACT Recording   14|10|-|always|6|.75|
+4-* High-Quality Full-X ACT Rec.   14|10|-|always|7.5|.75|
+4-* Current Hit Full-X ACT Rec.    14|10|-|always|9|.75|
+4-* Average Full-X Dir-X Recording 14|10|-|always|270|.75|
+4-* HighQuality Full-X Dir-X Rec   14|10|-|always|300|.75|
+4-* Current Hit Full-X Dir-X Rec   14|10|-|always|450|.75|
+3-Video
+4-* Video Disk/Chip                14|8|-|always|20|.75|
+4-* Video Recorder Package         14|2|2|6/48hrs|1000|1.5|
+4-* Video Screen                   14|-|3|always|150|.75|
+4-* Video Transmission Unit        14|-|5|8/7days|4000|2|
+2-Image Fasionware
+3-* Heat-sensitive Color Changers  14|-|-|3/24hrs|120|1|
+3-* Stars & Shapes                 14|-|-|2/24hrs|50|1|
+3-* Trademarks & Logos             14|-|-|4/24hrs|100|1|
+2-Electronics
+3-* Telecom                        14|-|15|Always|MemCostx1.5|1|
+3-Phones
+4-* Advanced Comm. Suitcase        14|3|6|8/48hrs|8000|1.5|
+4-* Earplug Phone                  14|8|-|Always|1000|1.5|
+4-* EBM Carfaxx 2002               14|-|-|-|500|-|
+4-* Fax Plus 1000 Fax Machine      14|6|.5|always|300|1|
+4-* Handset Phone                  14|3|1|Always|500|.75|        
+4-* Phone Booster Pack             14|3|2|Always|500|1|
+4-* Pocket Security                14|3|.5|Always|3000|1|
+4-* Office Communications Suite    14|-|-|10/10days|10000|2.5|
+4-* ThunderArc Three-D Holophone   14|-|1|3/24hrs|9000|1.25|
+4-* Wrist Phone                    14|4|-|Always|1000|.75|
+4-* Wrist Phone w/Flip-Up Screen   14|-|-|Always|1500|1|
+3-Phone Upgrades
+4-* Call Forwarding Phone Upgrade  14|-|-|always|50|-|
+4-* Call Waiting Phone Upgrade     14|-|-|always|50|-|
+4-* Conference Calling Phone Upgr. 14|-|-|always|50|1|
+4-* Digital Recorder Phone Upgrade 14|-|-|6/36hrs|2500|1|
+4-* ECM Scrambler Phone Upgrade    14|-|-|always|25|1|
+4-* Emergency Dialer Phone Upgrade 14|-|-|always|150|1|
+4-* Fax Interface Phone Upgrade    14|-|-|always|150|1|
+4-* Privacy Plus Phone Upgrade     14|-|-|always|3000|1|
+4-* Split Line Phone Upgrade       14|-|-|always|100|1|
+4-* Tight Beam Phone Upgrade       14|-|3|2/12hrs|200|2|
+4-* Video Option Phone Upgrade     14|-|-|always|450|1|
+4-* Voicemail Phone Upgrade        14|-|-|always|40|1|
+3-Personal computers
+4-* Computer Memory (non-cyber)    14|NA|-|Always|20xMP|.75|
+4-* Computer Printer               14|NA|10|Always|100|1|
+4-* DataTel RotoWrighter (printer) 14|8|.25|always|20|1|
+4-* E-Book Microcomp (12 Mp)       14|4|-|always|4800|1.5|
+4-* E-Book Microcomp Cyber (12 Mp) 14|4|-|3/36hrs|6720|2|
+4-* EBM Cyber-PCX Minicomp (25 Mp) 14|3|1|3/24hrs|3500|1.5|
+4-* EBM PCX Minicomp (25 Mp)       14|3|1|always|2500|1|
+4-* Hybrid Wearable Computer 25 Mp 14|6|2|10/8 days|3000|2|
+4-* IIKL-4 Workstation 40 Mp       14|-|10|always|800|.75|
+4-* IIKL-4 Workstation Cyber 40 Mp 14|-|10|3/36hrs|1120|1|
+4-* Mead Electronic Notebook 30 Mp 14|4|1|always|3000|1|
+4-* Mini-Printer                   14|3|.5|always|125|1|
+4-* PCZ Super Laptop (30 Mp)       14|1|3|always|750|.75|
+4-* Pocket Computer                14|3|1|Always|MemCostx5|1|
+4-* Techtronics Black Book (12 Mp) 14|4|-|always|5750|1.6|
+4-* Treasurer Datawatch (1 Mp)     14|12|-|always|55|1.5|
+4-* Table Top PC                   14|-|10|Always|MemCost|.75|
+4-* Wrist Computer                 14|4|-|Always|MemCostx20|1.5|
+4-* Wyzard Handbox Personal Comp.  14|3|1|2/6hrs|6700|1.25|
+4-* Zetatech PDA+ (20 Mp)          14|-|1.1|always|3000|1|
+4-* Zetatech PS-4040 (30 Mp)       14|-|3|always|1600|.75|
+3-Computer upgrades
+4-* Dataport                       14|-|-|always|100|.75|
+4-* External Memory                14|-|.25|always|200|.75|
+4-* Memory Upgrades (+10 Mp)       14|-|-|always|200|.75|
+4-* Language Processors            14|-|-|always|+40%|1|
+4-* Tritech Datashielding          14|-|+1|5/48hrs|+20%|1.2|
+3-Zetatech CompuMods
+4-* Zetatech Bug Detector 1        14|-|-|2/48hrs|600|1.5|
+4-* Zetatech Bug Detector 2        14|-|-|2/48hrs|1200|1.5|
+4-* Zetatech Bug Detector 3        14|-|-|3/48hrs|1800|1.5|
+4-* Zetatech Bug Detector 4        14|-|-|4/48hrs|2400|1.5|
+4-* Zetatech Bug Detector 5        14|-|-|5/48hrs|3000|1.5|
+4-* Zetatech Bug Detector 6        14|-|-|6/48hrs|3600|1.5|
+4-* Zetatech Bug Detector 7        14|-|-|7/48hrs|4200|1.5|
+4-* Zetatech Bug Detector 8        14|-|-|8/48hrs|4800|1.5|
+4-* Zetatech Bug Detector 9        14|-|-|9/48hrs|5400|1.5|
+4-* Zetatech Bug Detector 10       14|-|-|10/48hrs|6000|1.5|
+4-* Zetatech Bug Jammer 1          14|-|-|2/72hrs|600|1.5|
+4-* Zetatech Bug Jammer 2          14|-|-|2/72hrs|1200|1.5|
+4-* Zetatech Bug Jammer 3          14|-|-|3/72hrs|1800|1.5|
+4-* Zetatech Bug Jammer 4          14|-|-|4/72hrs|2400|1.5|
+4-* Zetatech Bug Jammer 5          14|-|-|5/72hrs|3000|1.5|
+4-* Zetatech Bug Jammer 6          14|-|-|6/72hrs|3600|1.5|
+4-* Zetatech Bug Jammer 7          14|-|-|7/72hrs|4200|1.5|
+4-* Zetatech Bug Jammer 8          14|-|-|8/72hrs|4800|1.5|
+4-* Zetatech Bug Jammer 9          14|-|-|9/72hrs|5400|1.5|
+4-* Zetatech Bug Jammer 10         14|-|-|10/72hrs|6000|1.5|
+4-* Zetatech Credit Transactor     14|-|-|2/24hrs|750|1|
+4-* Zetatech Drug Analyzer 1       14|-|-|2/48hrs|225|2|
+4-* Zetatech Drug Analyzer 2       14|-|-|2/48hrs|450|2|
+4-* Zetatech Drug Analyzer 3       14|-|-|3/48hrs|675|2|
+4-* Zetatech Drug Analyzer 4       14|-|-|4/48hrs|900|2|
+4-* Zetatech Lie Detector 1        14|-|-|3/48hrs|600|2|
+4-* Zetatech Lie Detector 2        14|-|-|6/48hrs|1200|2|
+4-* Zetatech Lie Detector 3        14|-|-|9/48hrs|1800|2|
+4-* Zetatech Medscanner 1          14|-|-|2/24hrs|750|1.5|
+4-* Zetatech Medscanner 2          14|-|-|2/24hrs|1500|1.5|
+4-* Zetatech Medscanner 3          14|-|-|3/24hrs|2250|1.5|
+4-* Zetatech Medscanner 4          14|-|-|4/24hrs|3000|1.5|
+4-* Zetatech Radar Detector 1      14|-|-|2/72hrs|450|1.5|
+4-* Zetatech Radar Detector 2      14|-|-|2/72hrs|900|1.5|
+4-* Zetatech Radar Detector 3      14|-|-|3/72hrs|1350|1.5|
+4-* Zetatech Radar Detector 4      14|-|-|4/72hrs|1800|1.5|
+4-* Zetatech Radar Detector 5      14|-|-|5/72hrs|2250|1.5|
+4-* Zetatech Radar Detector 6      14|-|-|6/72hrs|2700|1.5|
+4-* Zetatech Radar Detector 7      14|-|-|7/72hrs|3150|1.5|
+4-* Zetatech Radar Detector 8      14|-|-|8/72hrs|3600|1.5|
+4-* Zetatech Radar Detector 9      14|-|-|9/72hrs|4050|1.5|
+4-* Zetatech Radar Detector 10     14|-|-|10/72hrs|4500|1.5|
+4-* Zetatech Signal Tracker 1      14|-|-|2/48hrs|900|1.5|
+4-* Zetatech Signal Tracker 2      14|-|-|2/48hrs|1800|1.5|
+4-* Zetatech Signal Tracker 3      14|-|-|3/48hrs|2700|1.5|
+4-* Zetatech Signal Tracker 4      14|-|-|4/48hrs|3600|1.5|
+4-* Zetatech Signal Tracker 5      14|-|-|5/48hrs|4500|1.5|
+4-* Zetatech Signal Tracker 6      14|-|-|6/48hrs|5400|1.5|
+4-* Zetatech Signal Tracker 7      14|-|-|7/48hrs|6300|1.5|
+4-* Zetatech Signal Tracker 8      14|-|-|8/48hrs|7200|1.5|
+4-* Zetatech Signal Tracker 9      14|-|-|9/48hrs|8100|1.5|
+4-* Zetatech Signal Tracker 10     14|-|-|10/48hrs|9000|1.5|
+4-* Zetatech Techscanner 1         14|-|-|2/24hrs|750|1.5|
+4-* Zetatech Techscanner 2         14|-|-|2/24hrs|1500|1.5|
+4-* Zetatech Techscanner 3         14|-|-|3/24hrs|2250|1.5|
+4-* Zetatech Techscanner 4         14|-|-|4/24hrs|3000|1.5|
+4-* Zetatech Voice Stress Analyz 1 14|-|-|2/48hrs|300|2|
+4-* Zetatech Voice Stress Analyz 2 14|-|-|4/48hrs|600|2|
+4-* Zetatech Voice Stress Analyz 3 14|-|-|6/48hrs|900|2|
+3-Data display systems
+4-* Data Unit (1000Mp)             14|3|2|Always|MemCost|1|
+4-* Data: Headset (500Mp)          14|4|1|Always|MemCostx2|1.5|
+4-* Data: Heads-Up Display (200Mp) 14|NA|1|6/7days|MemCostx10|3|
+4-* Kiroshi Goggles                14|-|1|8/7days|150|3.5|
+4-* Kiroshi Mirrorshades           14|-|-|8/7days|300|3.5|
+4-* Kiroshi Monocle                14|-|-|8/7days|200|3.5|
+2-Media equipment
+3-Portacams and cybercams
+4-* AZT Micro20 Microportacam      14|8|2.5|5/72hrs|2500|2|
+4-* AZT Micro25 Microcybercam      14|8|2.5|5/72hrs|3200|2|
+4-* Bionome Tridlink Adaptor       14|6|1|2/72hrs|700|1|
+4-* Fuchi VX2200 Portacam          14|-|3|2/48hrs|1000|1|
+4-* Fuchi VX2200 Cybercam          14|-|5|3/48hrs|1300|2|
+4-* Kiroshi Remote Cybercam 20     14|-|1|2/48hrs|1350|1|
+4-* Nikkon America Campod          14|-|2|4/72hrs|2000|1|
+4-* Sony HB500 Portacam            14|-|3.5|4/72hrs|2200|2|
+4-* Sony CB5000 Cybercam           14|-|5.5|5/72hrs|2700|2|
+3-Portacam bases
+4-* AZT Micro30 StaticBrace Chest  14|-|2|3/48hrs|2200|1|
+4-* AZT Micro30 StaticBrace Wrist  14|-|1|3/48hrs|2200|1|
+4-* Cinema Pr. Steadycam Chest     14|-|3|3/48hrs|1800|2|
+4-* Cinema Pr. Steadycam Head      14|-|2|3/48hrs|1800|2|
+4-* Cinema Pr. Steadycam Shoulder  14|-|2|3/48hrs|1800|2|
+4-* Kodak GAC-25 Shoulder Mount    14|-|1|3/48hrs|200|2|
+3-Camgoggles
+4-* Fuchi I-C-U Autocam Controller 14|5|1.5|5/72hrs|400|2|
+4-* Sekrit Sistemz No-Sho Camtrol. 14|5|1|5/72hrs|1000|2|
+4-* Smartcam Adapter               14|-|.5|5/72hrs|1500|2|
+4-* Zeemandt Luzor Monocular       14|6|.5|5/72hrs|700|2|
+3-Transmitter links
+4-* Fibre-Optic Cable              14|-|-|always|0.10 per meter|1|
+4-* Secured Short-Haul Link        14|4|5|4/72hrs|5/72hrs|6000|3|
+4-* Secured Long-Haul Link         14|2|4|4/72hrs|5/72hrs|9000|3|
+4-* Secured Uplink                 14|-|3|4/72hrs|5/72hrs|1000|3|
+4-* Unsecured Short-Haul Link      14|6|5|4/72hrs|4/72hrs|4000|2|
+4-* Unsecured Long-Haul Link       14|4|4|4/72hrs|4/72hrs|6000|2|
+4-* Unsecured Uplink               14|2|3|4/72hrs|4/72hrs|1000|2|
+3-Tridisynths and mixers
+4-* Fuchi Holo-Edit 7200           14|-|9|4/72hrs|10000|2|
+4-* Sony TFX-10000 Imaging Gener.  14|-|7|8/1week|13000|2|
+4-* Vertex Netsynth Tridmixer      14|-|7|2/48hs|8000|1|
+3-Pirate equipment
+4-* Non-Mobile Radio/TV/3V Transm. 14|-|35|8/1week|5500|1|
+4-* Non-Mobile TV/3V Transm. ECM 1 14|-|35|9/1week|8000|3|
+4-* Non-Mobile TV/3V Transm. ECM 2 14|-|35|10/week|10500|3|
+4-* Non-Mobile TV/3V Transm. ECM 3 14|-|35|11/1week|13000|3|
+4-* Non-Mobile TV/3V Transm. ECM 4 14|-|35|12/1week|15500|3|
+4-* Non-Mobile TV/3V Transm. ECM 5 14|-|35|13/1week|18000|3|
+4-* Non-Mobile TV/3V Transm. ECM 6 14|-|35|14/1week|20500|3|
+4-* Mobile Radio/TV/3V Transmitter 14|-|25|8/2weeks|7500|2|
+4-* Mobile TV/3V Transmitter ECM 1 14|-|25|9/2weeks|10000|3|
+4-* Mobile TV/3V Transmitter ECM 2 14|-|25|10/2weeks|12500|3|
+4-* Mobile TV/3V Transmitter ECM 3 14|-|25|11/2weeks|15000|3|
+4-* Mobile TV/3V Transmitter ECM 4 14|-|25|12/2weeks|17500|3|
+4-* Mobile TV/3V Transmitter ECM 5 14|-|25|13/2weeks|20000|3|
+4-* Mobile TV/3V Transmitter ECM 6 14|-|25|14/2weeks|22500|3|
+4-* Transmission Sampler           14|6|5|8/1week|1000|2|
+4-* Satellite Injecton Uplink      14|-|20|8/2weeks|1000|2|
+4-* Satellite Injecton Uplink ECM1 14|-|20|9/2weeks|4000|3|
+4-* Satellite Injecton Uplink ECM2 14|-|20|10/2weeks|7000|3|
+4-* Satellite Injecton Uplink ECM3 14|-|20|11/2weeks|10000|3|
+4-* Satellite Injecton Uplink ECM4 14|-|20|12/2weeks|13000|3|
+4-* Satellite Injecton Uplink ECM5 14|-|20|13/2weeks|16000|3|
+4-* Satellite Injecton Uplink ECM6 14|-|20|14/2weeks|19000|3|
+4-* Cable Signal Formatter         14|3|3|8/1week|2000|2|
+4-* Cable Signal Formatter ECM 1   14|3|3|9/1week|3500|3|
+4-* Cable Signal Formatter ECM 2   14|3|3|10/1week|5000|3|
+4-* Cable Signal Formatter ECM 3   14|3|3|11/1week|6500|3|
+4-* Cable Signal Formatter ECM 4   14|3|3|12/1week|8000|3|
+4-* Cable Signal Formatter ECM 5   14|3|3|13/1week|9500|3|
+4-* Cable Signal Formatter ECM 6   14|3|3|14/1week|11000|3|
+3-Programmable ASIST biofeedback
+4-* Ares CyberMed Psychscanner     14|-|10|8/2weeks|25000|3|
+4-* EBMM Therapeutic ASIST System  14|-|12|8/2weeks|40000|3|
+4-* Galil Ruach-Aleph Reprogrammer 14|3|2|8/1week|10000|3|
+4-* Mitsuhama MenTokko-II Manip.   14|4|3|8/2weeks|15000|3|
+4-* Mitsuhama MenTokko-V Manip.    14|-|14|12/3weeks|60000|3|
+3-Simsense gear
+4-Simlinks
+5-* External Simlink Rating 1      21|8|1|.5|8/2weeks|30000|2|
+5-* External Simlink Rating 2      21|8|2|.5|8/2weeks|35000|2|
+5-* External Simlink Rating 3      21|8|3|.5|8/2weeks|40000|2|
+5-* External Simlink Rating 4      21|8|4|.5|8/2weeks|45000|2|
+5-* External Simlink Rating 5      21|8|5|.5|8/2weeks|50000|2|
+5-* External Simlink Rating 6      21|8|6|.5|8/2weeks|55000|2|
+5-* External Simlink Rating 7      21|8|7|.5|8/2weeks|60000|2|
+5-* External Simlink Rating 8      21|8|8|.5|8/2weeks|65000|2|
+5-* External Simlink Rating 9      21|8|9|.5|8/2weeks|70000|2|
+5-* External Simlink Rating 10     21|8|10|.5|8/2weeks|75000|2|
+4-Simths
+5-* Fuchi RealSense Kosmos XXV     14|-|30|8/2weeks|250000|3|
+5-* Truman Inner-I                 14|-|28|8/2weeks|200000|3|
+5-* Truman Reality-500             14|-|15|8/1week|25000|2|
+4-Simth peripherals
+5-* EC/PC ASIST Enabler Rating 1   21|5|1|6|8/1week|10000|2|
+5-* EC/PC ASIST Enabler Rating 2   21|5|2|6|8/1week|20000|2|
+5-* EC/PC ASIST Enabler Rating 3   21|5|3|6|8/1week|30000|2|
+5-* EC/PC ASIST Enabler Rating 4   21|5|4|6|8/1week|40000|2|
+5-* EC/PC ASIST Enabler Rating 5   21|5|5|6|8/1week|50000|2|
+5-* EC/PC ASIST Enabler Rating 6   21|5|6|6|8/1week|60000|2|
+5-* EC/PC ASIST Enabler Rating 7   21|5|7|6|8/1week|70000|2|
+5-* EC/PC ASIST Enabler Rating 8   21|5|8|6|8/1week|80000|2|
+5-* EC/PC ASIST Enabler Rating 9   21|5|9|6|8/1week|90000|2|
+5-* EC/PC ASIST Enabler Rating 10  21|5|10|6|8/1week|100000|2|
+5-* Emotive ASIST Enabler Rating 1 21|5|1|6|8/1week|25000|2|
+5-* Emotive ASIST Enabler Rating 2 21|5|2|6|8/1week|50000|2|
+5-* Emotive ASIST Enabler Rating 3 21|5|3|6|8/1week|75000|2|
+5-* Emotive ASIST Enabler Rating 4 21|5|4|6|8/1week|100000|2|
+5-* Emotive ASIST Enabler Rating 5 21|5|5|6|8/1week|125000|2|
+5-* Emotive ASIST Enabler Rating 6 21|5|6|6|8/1week|150000|2|
+5-* Emotive ASIST Enabler Rating 7 21|5|7|6|8/1week|175000|2|
+5-* Emotive ASIST Enabler Rating 8 21|5|8|6|8/1week|200000|2|
+5-* Emotive ASIST Enabler Rating 9 21|5|9|6|8/1week|225000|2|
+5-* Emotive ASIST Enabler Rating10 21|5|10|6|8/1week|250000|2|
+5-* Sense Patch Injector           14|4|5|8/1week|25000|2|
+5-* Signal Peak Controller         14|4|5.5|8/1week|15000|2|
+4-Experience samplers
+5-* MonoPOV ACT Format             14|-|13|8/1week|15000|2|
+5-* MonoPOV Dir-X Format           14|-|14|8/1week|75000|2|
+3-Musical instruments
+4-Cheap quality
+5-* Complexity 1                   14|-|varies|always|50|8|
+5-* Complexity 2                   14|-|varies|always|100|8|
+5-* Complexity 3                   14|-|varies|always|150|8|
+5-* Complexity 4                   14|-|varies|always|200|8|
+5-* Complexity 5                   14|-|varies|always|250|8|
+4-Average quality
+5-* Complexity 1                   14|-|varies|always|500|8|
+5-* Complexity 2                   14|-|varies|always|1000|8|
+5-* Complexity 3                   14|-|varies|always|1500|8|
+5-* Complexity 4                   14|-|varies|always|2000|8|
+5-* Complexity 5                   14|-|varies|always|2500|8|
+4-Fine quality
+5-* Complexity 1                   14|-|varies|always|5000|8|
+5-* Complexity 2                   14|-|varies|always|10000|8|
+5-* Complexity 3                   14|-|varies|always|15000|8|
+5-* Complexity 4                   14|-|varies|always|20000|8|
+5-* Complexity 5                   14|-|varies|always|25000|8|
+4-Synthesizers
+5-* Cheap, 1 voice                 14|-|varies|always|175|8|
+5-* Cheap, 2 voices                14|-|varies|always|200|8|
+5-* Cheap, 3 voices                14|-|varies|always|225|8|
+5-* Cheap, 4 voices                14|-|varies|always|250|8|
+5-* Cheap, 5 voices                14|-|varies|always|275|8|
+5-* Cheap, 6 voices                14|-|varies|always|300|8|
+5-* Cheap, 7 voices                14|-|varies|always|325|8|
+5-* Cheap, 8 voices                14|-|varies|always|350|8|
+5-* Average, 1 voice               14|-|varies|always|600|8|
+5-* Average, 2 voices              14|-|varies|always|700|8|
+5-* Average, 3 voices              14|-|varies|always|800|8|
+5-* Average, 4 voices              14|-|varies|always|900|8|
+5-* Average, 5 voices              14|-|varies|always|1000|8|
+5-* Average, 6 voices              14|-|varies|always|1100|8|
+5-* Average, 7 voices              14|-|varies|always|1200|8|
+5-* Average, 8 voices              14|-|varies|always|1300|8|
+5-* Average, 9 voices              14|-|varies|always|1400|8|
+5-* Average, 10 voices             14|-|varies|always|1500|8|
+5-* Average, 11 voices             14|-|varies|always|1600|8|
+5-* Average, 12 voices             14|-|varies|always|1700|8|
+5-* Average, 13 voices             14|-|varies|always|1800|8|
+5-* Average, 14 voices             14|-|varies|always|1900|8|
+5-* Average, 15 voices             14|-|varies|always|2000|8|
+5-* Average, 16 voices             14|-|varies|always|2100|8|
+5-* Fine, 1 voice                  14|-|varies|always|5500|8|
+5-* Fine, 2 voices                 14|-|varies|always|6000|8|
+5-* Fine, 3 voices                 14|-|varies|always|6500|8|
+5-* Fine, 4 voices                 14|-|varies|always|7000|8|
+5-* Fine, 5 voices                 14|-|varies|always|7500|8|
+5-* Fine, 6 voices                 14|-|varies|always|8000|8|
+5-* Fine, 7 voices                 14|-|varies|always|8500|8|
+5-* Fine, 8 voices                 14|-|varies|always|9000|8|
+5-* Fine, 9 voices                 14|-|varies|always|9500|8|
+5-* Fine, 10 voices                14|-|varies|always|10000|8|
+5-* Fine, 11 voices                14|-|varies|always|10500|8|
+5-* Fine, 12 voices                14|-|varies|always|11000|8|
+5-* Fine, 13 voices                14|-|varies|always|11500|8|
+5-* Fine, 14 voices                14|-|varies|always|12000|8|
+5-* Fine, 15 voices                14|-|varies|always|12500|8|
+5-* Fine, 16 voices                14|-|varies|always|13000|8|
+5-* Fine, 17 voices                14|-|varies|always|13500|8|
+5-* Fine, 18 voices                14|-|varies|always|14000|8|
+5-* Fine, 19 voices                14|-|varies|always|14500|8|
+5-* Fine, 20 voices                14|-|varies|always|15000|8|
+5-* Fine, 21 voices                14|-|varies|always|15500|8|
+5-* Fine, 22 voices                14|-|varies|always|16000|8|
+5-* Fine, 23 voices                14|-|varies|always|16500|8|
+5-* Fine, 24 voices                14|-|varies|always|17000|8|
+5-* Fine, 25 voices                14|-|varies|always|17500|8|
+5-* Fine, 26 voices                14|-|varies|always|18000|8|
+5-* Fine, 27 voices                14|-|varies|always|18500|8|
+5-* Fine, 28 voices                14|-|varies|always|19000|8|
+5-* Fine, 29 voices                14|-|varies|always|19500|8|
+5-* Fine, 30 voices                14|-|varies|always|20000|8|
+5-* Fine, 31 voices                14|-|varies|always|20500|8|
+5-* Fine, 32 voices                14|-|varies|always|21000|8|
+4-Autosynths
+5-* Autosynth, skill 1             14|-|-|always|1000|8|
+5-* Autosynth, skill 2             14|-|-|always|2000|8|
+5-* Autosynth, skill 3             14|-|-|always|3000|8|
+5-* Autosynth, skill 4             14|-|-|always|12000|8|
+5-* Autosynth, skill 5             14|-|-|always|15000|8|
+5-* Autosynth, skill 6             14|-|-|always|30000|8|
+5-* Autosynth, skill 7             14|-|-|always|35000|8|
+5-* Autosynth, skill 8             14|-|-|always|40000|8|
+5-* Autosynth, skill 9             14|-|-|always|90000|8|
+5-* Autosynth, skill 10            14|-|-|always|100000|8|
+4-Synthlink equipment
+5-* Cheap Synthlink Controller     14|6|.5|always|1000|.75|
+5-* Average Synthlink Controller   14|5|.5|always|10000|.75|
+5-* Fine Synthlink Controller      14|5|.5|3/48hrs|50000|1|
+3-Sound system components
+4-Acoustic modulators
+5-* Small Acoustic Modulators      14|-|-|always|8000|8|
+5-* Club Acoustic Modulators       14|-|-|always|15000|8|
+5-* Hall Acoustic Modulators       14|-|-|always|35000|8|
+4-Amplifiers
+5-* Small Amplifiers               14|-|-|always|100|8|
+5-* Club Amplifiers                14|-|-|always|400|8|
+5-* Hall Amplifiers                14|-|-|always|1200|8|
+5-* Stadium Amplifiers             14|-|-|always|5000|8|
+5-* Superstatium Amplifiers        14|-|-|always|12000|8|
+4-Speakers
+5-* Small Speakers                 14|-|-|always|100|8|
+5-* Club Speakers                  14|-|-|always|1000|8|
+5-* Hall Speakers                  14|-|-|always|5000|8|
+5-* Stadium Speakers               14|-|-|always|12000|8|
+5-* Superstadium Speakers          14|-|-|always|25000|8|
+!4-Direct digital output
+4-Multitrack samplers
+5-* 4-track Sampler                14|-|-|always|1200|8|
+5-* 8-track Sampler                14|-|-|always|3200|8|
+5-* 16-track Sampler               14|-|-|always|8000|8|
+5-* 24-track Sampler               14|-|-|always|14400|8|
+5-* 32-track Sampler               14|-|-|always|22400|8|
+4-Microphones
+5-* Body Mike                      14|10|.1|2/36hrs|100|1|
+5-* Hand Mike                      14|6|.5|always|100|1|
+5-* Mike Stand                     14|-|3|always|50|1|
+5-* Mike Boom                      14|-|3|3/36hrs|75|1|
+4-Mixers
+5-* Basic Mixer Unit               14|8|2|always|1000|1|
+5-* Additional Mixer Input Channel 14|-|-|3/36hrs|200|2|
+5-* Additional Mixer Output Channl 14|-|-|-|500|2|
+5-* Built-in Polycorder in Mixer   14|-|-|5/36hrs|300|2|
+4-Polycorders
+5-* Digital Recording Studio       14|-|-|8/14 days|12000|1.1|
+5-* Hand-held Polycorder           14|2|2.5|always|100|.75|
+5-* Microcorder                    14|8|-|6/48hrs|1000|2|
+5-* Minicorder                     14|6|.1|4/24hrs|700|1|
+5-* Pocket Sized Polycorder        14|5|.2|always|200|.75|
+5-* Rack-Mounted Polycorder        14|-|4|3/24hrs|1500|2|
+5-* Sprawl Blaster                 14|-|3.5|always|200|.75|
+5-* Sprawl Fuserr                  14|-|5.5|always|1200|.75|
+3-Other
+4-* Cab Hailer                     14|10|-|upon payment|150|1|
+4-* Image Wallet                   14|8|.1|4/36hrs|250|1|
+4-* Life/Support                   14|4|1.5|5/36hrs|500|.9|
+4-* DataTel's Mapmaker             14|4|1|4/4days|500|1|
+4-* Miniature Copier               14|3|.5|2/12hrs|230|.8|
+4-* Orientation Unit               14|6|.5|5/4 days|1500|1|
+4-* Paper Shredder                 14|-|2.5|always|500|1|
+4-* Mastoid Commo                  14|8|-|2/12hrs|1000|.6|
+4-* Pocket Commo                   14|7|.1|always|500|.5|
+4-* Power Grid SolarElectric Panel 14|2|1|4/36hrs|100|1.1|
+4-* SecSystems Protection Field    7|8|6L Stun|1.5|6/36hrs|750|1.5|
+4-* Sleep Inducer                  7|6|4|.5|6/4days|85|2|
+4-* Taser Wallet                   14|10|-|5/48hrs|165|1.5|
+4-* WorldSat Comm Flopscreen       14|-|1|always|4500|1.1|
+!
+1-Surveillance and security
+2-Vision enhancers
+3-* Binoculars                     9|5|50x|1|Always|100|.8|
+3-* Binoculars, Low-Light          9|5|50x|1|4/48hrs|300|1.25|
+3-* Binoculars, Thermographic      9|5|50x|1|4/48hrs|350|1.25|
+3-* DataScope                      9|8|-|.25|4/36hrs|5000|1|
+3-* Goggles                        9|6|20x|-|4/48hrs|1500|1.5|
+3-* Goggles, Low-Light             9|6|20x|-|6/48hrs|2000|2|
+3-* Goggles, Thermographic         9|6|20x|-|6/48hrs|2200|2|
+3-* Optitech MagViewer             9|4|20x|1|always|375|.8|
+2-Hearing amplifiers
+3-* Micro Hearing Amplifier Lvl 1  21|11|1|.1|6/36hrs|500|1.5|
+3-* Micro Hearing Amplifier Lvl 2  21|10|2|.2|6/36hrs|1000|1.5|
+3-* Micro Hearing Amplifier Lvl 3  21|9|3|.3|6/36hrs|1500|1.5|
+3-* Micro Hearing Amplifier Lvl 4  21|8|4|.4|6/36hrs|2000|1.5|
+3-* Micro Hearing Amplifier Lvl 5  21|7|5|.5|6/36hrs|2500|1.5|
+3-* Micro Hearing Amplifier Lvl 6  21|6|6|.6|6/36hrs|3000|1.5|
+3-* Micro Hearing Amplifier Lvl 7  21|5|7|.7|6/36hrs|3500|1.5|
+3-* Micro Hearing Amplifier Lvl 8  21|4|8|.8|6/36hrs|4000|1.5|
+2-Communications
+3-Micro
+4-* Micro-Camcorder                10|8|-|6/48hrs|2500|2|
+4-* Micro-Recorder                 10|9|-|6/48hrs|1000|2|
+4-* Micro-Transceiver              10|18|-|6/48hrs|2500|2|
+3-Tactical communication system
+4-* Laser Link (TacComm)           10|4|-|1|14/21days|2700|2|
+4-* Master Unit (TacComm           10|-|14|75|24/21days|60000|3|
+4-* Microwave Link (TacComm)       10|3|-|1|18/21days|4800|2|
+4-* Personal Comm Unit (TacComm)   10|-|14|.5|12/14days|18500|2|
+4-* Portable Master Unit (TacComm) 10|8|14|20|18/14days|120000|2|
+4-* Satellite Uplink (TacComm)     10|-|-|2|12/21days|7500|2|
+2-Surveillance measures
+3-Data codebreaker
+4-* Data Codebreaker Lv 1          21|2|1|5|1/10days|10000|1.5|
+4-* Data Codebreaker Lv 2          21|2|2|5|2/10days|20000|1.5|
+4-* Data Codebreaker Lv 3          21|2|3|5|3/10days|30000|1.5|
+4-* Data Codebreaker Lv 4          21|2|4|5|4/10days|40000|1.5|
+4-* Data Codebreaker Lv 5          21|2|5|5|5/10days|50000|1.5|
+4-* Data Codebreaker Lv 6          21|2|6|5|6/10days|60000|1.5|
+4-* Data Codebreaker Lv 7          21|2|7|5|7/10days|70000|1.5|
+4-* Data Codebreaker Lv 8          21|2|8|5|8/10days|80000|1.5|
+4-* Data Codebreaker Lv 9          21|2|9|5|9/10days|90000|1.5|
+4-* Data Codebreaker Lv 10         21|2|10|5|10/10days|100000|1.5|
+4- Scramble Breaker Lvl 1          21|-|1|-|5/36hrs|2000|1.5|
+4- Scramble Breaker Lvl 2          21|-|2|-|5/36hrs|4000|1.5|
+4- Scramble Breaker Lvl 3          21|-|3|-|5/36hrs|6000|1.5|
+4- Scramble Breaker Lvl 4          21|-|4|-|5/36hrs|8000|1.5|
+4- Scramble Breaker Lvl 5          21|-|5|-|5/36hrs|20000|1.75|
+4- Scramble Breaker Lvl 6          21|-|6|-|5/36hrs|24000|1.75|
+4- Scramble Breaker Lvl 7          21|-|7|-|5/36hrs|28000|1.75|
+4- Scramble Breaker Lvl 8          21|-|8|-|6/36hrs|40000|1.75|
+4- Scramble Breaker Lvl 9          21|-|9|-|6/36hrs|45000|1.75|
+4- Scramble Breaker Lvl 10         21|-|10|-|9/36hrs|60000|1.7|
+3-Dataline tap
+4-* Dataline Tap Lv 1              10|12|-|1/8days|5000|1.5|
+4-* Dataline Tap Lv 2              10|12|-|2/8days|10000|1.5|
+4-* Dataline Tap Lv 3              10|12|-|3/8days|15000|1.5|
+4-* Dataline Tap Lv 4              10|12|-|4/8days|20000|1.5|
+4-* Dataline Tap Lv 5              10|12|-|5/8days|25000|1.5|
+4-* Dataline Tap Lv 6              10|12|-|6/8days|30000|1.5|
+4-* Dataline Tap Lv 7              10|12|-|7/8days|35000|1.5|
+4-* Dataline Tap Lv 8              10|12|-|8/8days|40000|1.5|
+4-* Dataline Tap Lv 9              10|12|-|9/8days|45000|1.5|
+4-* Dataline Tap Lv 10             10|12|-|10/8days|50000|1.5|
+4-* Omega Phone Tap                21|5|6|.5|10/10days|35000|2|
+3-Laser microphones
+3-* Arasaka "Komaku" Laser Mike    21|5|4|1|4/48hrs|6000|1.5|
+3-* Arasaka "Komaku" Fixed LasMike 21|5|4|1|4/48hsr|7500|1.5|
+4-* Laser Microphone Lv 1          21|5|1|1|1/48hrs|1500|1.5|
+4-* Laser Microphone Lv 2          21|5|2|1|2/48hrs|3000|1.5|
+4-* Laser Microphone Lv 3          21|5|3|1|3/48hrs|4500|1.5|
+4-* Laser Microphone Lv 4          21|5|4|1|4/48hrs|6000|1.5|
+4-* Laser Microphone Lv 5          21|5|5|1|5/48hrs|7500|1.5|
+4-* Laser Microphone Lv 6          21|5|6|1|6/48hrs|9000|1.5|
+4-* Laser Microphone Lv 7          21|5|7|1|7/48hrs|10500|1.5|
+4-* Laser Microphone Lv 8          21|5|8|1|8/48hrs|12000|1.5|
+4-* Laser Microphone Lv 9          21|5|9|1|9/48hrs|13500|1.5|
+4-* Laser Microphone Lv 10         21|5|10|1|10/48hrs|15000|1.5|
+3-Shotgun microphone
+4-* Shotgun Microphone Lv 1        10|5|1|1/36hrs|1000|1|
+4-* Shotgun Microphone Lv 2        10|5|1|2/36hrs|2000|1|
+4-* Shotgun Microphone Lv 3        10|5|1|3/36hrs|3000|1|
+4-* Shotgun Microphone Lv 4        10|5|1|4/36hrs|4000|1|
+4-* Shotgun Microphone Lv 5        10|5|1|5/36hrs|5000|1|
+4-* Shotgun Microphone Lv 6        10|5|1|6/36hrs|6000|1|
+4-* Shotgun Microphone Lv 7        10|5|1|7/36hrs|7000|1|
+4-* Shotgun Microphone Lv 8        10|5|1|8/36hrs|8000|1|
+4-* Shotgun Microphone Lv 9        10|5|1|9/36hrs|9000|1|
+4-* Shotgun Microphone Lv 10       10|5|1|10/36hrs|10000|1|
+3-Signal locators
+4-* Signal Locator Lv 1            10|3|2|1/48hrs|1000|1.5|
+4-* Signal Locator Lv 2            10|3|2|2/48hrs|2000|1.5|
+4-* Signal Locator Lv 3            10|3|2|3/48hrs|3000|1.5|
+4-* Signal Locator Lv 4            10|3|2|4/48hrs|4000|1.5|
+4-* Signal Locator Lv 5            10|3|2|5/48hrs|5000|1.5|
+4-* Signal Locator Lv 6            10|3|2|6/48hrs|6000|1.5|
+4-* Signal Locator Lv 7            10|3|2|7/48hrs|7000|1.5|
+4-* Signal Locator Lv 8            10|3|2|8/48hrs|8000|1.5|
+4-* Signal Locator Lv 9            10|3|2|9/48hrs|9000|1.5|
+4-* Signal Locator Lv 10           10|3|2|10/48hrs|10000|1.5|
+3-Tracking signals
+4-* Limpet Beacon                  21|8|-1|-|8/6days|250|1.2|
+4-* Tracking Signal Lv 1           10|3|-|1/72hrs|300|2|
+4-* Tracking Signal Lv 2           10|4|-|2/72hrs|400|2|
+4-* Tracking Signal Lv 3           10|5|-|3/72hrs|500|2|
+4-* Tracking Signal Lv 4           10|6|-|4/72hrs|600|2|
+4-* Tracking Signal Lv 5           10|7|-|5/72hrs|700|2|
+4-* Tracking Signal Lv 6           10|8|-|6/72hrs|800|2|
+4-* Tracking Signal Lv 7           10|9|-|7/72hrs|900|2|
+4-* Tracking Signal Lv 8           10|10|-|8/72hrs|1000|2|
+4-* Tracking Signal Lv 9           10|11|-|9/72hrs|1100|2|
+4-* Tracking Signal Lv 10          10|12|-|10/72hrs|1200|2|
+3-Voice identifier
+4-* Voice Identifier Lv 1          10|2|5|1/72hrs|2000|2|
+4-* Voice Identifier Lv 2          10|2|5|2/72hrs|4000|2|
+4-* Voice Identifier Lv 3          10|2|5|3/72hrs|6000|2|
+4-* Voice Identifier Lv 4          10|2|5|4/72hrs|8000|2|
+4-* Voice Identifier Lv 5          10|2|5|5/72hrs|10000|2|
+4-* Voice Identifier Lv 6          10|2|5|6/72hrs|12000|2|
+4-* Voice Identifier Lv 7          10|2|5|7/72hrs|14000|2|
+4-* Voice Identifier Lv 8          10|2|5|8/72hrs|16000|2|
+4-* Voice Identifier Lv 9          10|2|5|9/72hrs|18000|2|
+4-* Voice Identifier Lv 10         10|2|5|10/72hrs|20000|2|
+3-Portable security lighting
+4-* Low-wattage Flashlight         10|-|-|always|10|1|
+4-* Low-wattage Gun-Flashlight     10|-|-|2/24hrs|100|1|
+4-* Low-wattage Floodlight         10|-|-|always|150|1|
+4-* Active Infrared Flashlight     10|-|-|4/48hrs|100|2|
+4-* Active Infrared Gun-Flashlight 10|-|-|6/48hrs|250|2|
+4-* Active Infrared Floodlight     10|-|-|5/48hrs|350|2|
+4-* Ultraviolet Flashlight         10|-|-|4/4days|200|2|
+4-* Ultraviolet Gun-Flashlight     10|-|-|6/4days|500|2|
+4-* Ultraviolet Floodlight         10|-|-|8/4days|750|2|
+2-Surveillance countermeasures
+3-Bug scanners
+4-* Bug Scanner Lv 1               10|3|1|1/48hrs|500|1.5|
+4-* Bug Scanner Lv 2               10|3|1|2/48hrs|1000|1.5|
+4-* Bug Scanner Lv 3               10|3|1|3/48hrs|1500|1.5|
+4-* Bug Scanner Lv 4               10|3|1|4/48hrs|2000|1.5|
+4-* Bug Scanner Lv 5               10|3|1|5/48hrs|2500|1.5|
+4-* Bug Scanner Lv 6               10|3|1|6/48hrs|3000|1.5|
+4-* Bug Scanner Lv 7               10|3|1|7/48hrs|3500|1.5|
+4-* Bug Scanner Lv 8               10|3|1|8/48hrs|4000|1.5|
+4-* Bug Scanner Lv 9               10|3|1|9/48hrs|4500|1.5|
+4-* Bug Scanner Lv 10              10|3|1|10/48hrs|5000|1.5|
+4-* Line Tap Detector              21|7|1|-|4/24hrs|60|.8|
+3-Chemical analyzers
+4-* Chemical Analyzer Lvl 1        21|5|1|.5|4/5days|10000|1|
+4-* Chemical Analyzer Lvl 2        21|5|2|.5|4/5days|12500|1|
+4-* Chemical Analyzer Lvl 3        21|5|3|.5|4/5days|15000|1|
+4-* Chemical Analyzer Lvl 4        21|5|4|.5|4/5days|17500|1|
+4-* Chemical Analyzer Lvl 5        21|5|5|.5|4/5days|20000|1|
+4-* Chemical Analyzer Lvl 6        21|5|6|.5|4/5days|22500|1|
+4-* Chemical Detection System 1    21|3|1|1|12/6 days|70000|1.25|
+4-* Chemical Detection System 2    21|3|2|1|12/6 days|140000|1.25|
+4-* Chemical Detection System 3    21|3|3|1|12/6 days|210000|1.25|
+4-* Gas Detector Lvl 1             21|4|1|.5|3/7days|5000|2|
+4-* Gas Detector Lvl 2             21|4|2|.5|6/7days|20000|2|
+4-* Gas Detector Lvl 3             21|4|3|.5|9/7days|45000|2|
+4-* Gas Detector Lvl 4             21|4|4|.5|12/7days|80000|2|
+4-* Gas Detector Lvl 5             21|4|5|.5|15/7days|125000|2|
+4-* Gas Detector Lvl 6             21|4|6|.5|18/7days|180000|2|
+4-* Gas Spectrometer Lvl 1         21|5|1|.5|4/5days|10000|1|
+4-* Gas Spectrometer Lvl 2         21|5|2|.5|4/5days|12500|1|
+4-* Gas Spectrometer Lvl 3         21|5|3|.5|4/5days|15000|1|
+4-* Gas Spectrometer Lvl 4         21|5|4|.5|4/5days|17500|1|
+4-* Gas Spectrometer Lvl 5         21|5|5|.5|4/5days|20000|1|
+4-* Gas Spectrometer Lvl 6         21|5|6|.5|4/5days|22500|1|
+3-Data encryption systems
+4-* Arasaka ECM Comm-Scrambler     21|4|6|1|6/36hrs|30000|1.2|
+4-* Data Encryption System Lv 1    21|2|1|6|1/14days|1000|2|
+4-* Data Encryption System Lv 2    21|2|2|6|2/14days|2000|2|
+4-* Data Encryption System Lv 3    21|2|3|6|3/14days|3000|2|
+4-* Data Encryption System Lv 4    21|2|4|6|4/14days|4000|2|
+4-* Data Encryption System Lv 5    21|2|5|6|5/14days|5000|2|
+4-* Data Encryption System Lv 6    21|2|6|6|6/14days|6000|2|
+4-* Data Encryption System Lv 7    21|2|7|6|7/14days|7000|2|
+4-* Data Encryption System Lv 8    21|2|8|6|8/14days|8000|2|
+4-* Data Encryption System Lv 9    21|2|9|6|9/14days|9000|2|
+4-* Data Encryption System Lv 10   21|2|10|6|10/14days|10000|2|
+4-* Radio Scrambler Level 1        21|-|1|-|5/24hrs|1000|1|
+4-* Radio Scrambler Level 2        21|-|2|-|5/24hrs|2000|1|
+4-* Radio Scrambler Level 3        21|-|3|-|5/24hrs|3000|1|
+4-* Radio Scrambler Level 4        21|-|4|-|5/24hrs|4000|1|
+4-* Radio Scrambler Level 5        21|-|5|-|5/24hrs|10000|1.25|
+4-* Radio Scrambler Level 6        21|-|6|-|5/24hrs|12000|1.25|
+4-* Radio Scrambler Level 7        21|-|7|-|5/24hrs|14000|1.25|
+4-* Radio Scrambler Level 8        21|-|8|-|6/36hrs|24000|1.5|
+4-* Radio Scrambler Level 9        21|-|9|-|6/36hrs|27000|1.5|
+4-* Radio Scrambler Level 10       21|-|10|-|8/36hrs|50000|1.25|
+3-Dataline Scanner
+4-* Dataline Scanner Lv 1          21|2|1|6|1/14days|100|2|
+4-* Dataline Scanner Lv 2          21|2|2|6|2/14days|200|2|
+4-* Dataline Scanner Lv 3          21|2|3|6|3/14days|300|2|
+4-* Dataline Scanner Lv 4          21|2|4|6|4/14days|400|2|
+4-* Dataline Scanner Lv 5          21|2|5|6|5/14days|500|2|
+4-* Dataline Scanner Lv 6          21|2|6|6|6/14days|600|2|
+4-* Dataline Scanner Lv 7          21|2|7|6|7/14days|700|2|
+4-* Dataline Scanner Lv 8          21|2|8|6|8/14days|800|2|
+4-* Dataline Scanner Lv 9          21|2|9|6|9/14days|900|2|
+4-* Dataline Scanner Lv 10         21|2|10|6|10/14days|1000|2|
+3-Jammer
+4-* Jammer Lv 1                    10|2|5|1/72hrs|1000|1.5|
+4-* Jammer Lv 2                    10|2|5|2/72hrs|2000|1.5|
+4-* Jammer Lv 3                    10|2|5|3/72hrs|3000|1.5|
+4-* Jammer Lv 4                    10|2|5|4/72hrs|4000|1.5|
+4-* Jammer Lv 5                    10|2|5|5/72hrs|5000|1.5|
+4-* Jammer Lv 6                    10|2|5|6/72hrs|6000|1.5|
+4-* Jammer Lv 7                    10|2|5|7/72hrs|7000|1.5|
+4-* Jammer Lv 8                    10|2|5|8/72hrs|8000|1.5|
+4-* Jammer Lv 9                    10|2|5|9/72hrs|9000|1.5|
+4-* Jammer Lv 10                   10|2|5|10/72hrs|10000|1.5|
+4-* PanicButton Jammer             10|-|-|8/48hrs|200|1|
+4-* Portacom Jammer                10|-|-|4/24hrs|20|1|
+4-* Radio Jammer                   10|-|-|-|5/36hrs|100|1|
+3-Lie detectors
+4-* Arasaka R-101 Lie Detector     21|2|6|3|14/20days|5000|4|
+3-Voice Mask
+4-* Voice Mask Lv 1                10|6|-|1/72hrs|3000|1.5|
+4-* Voice Mask Lv 2                10|6|-|2/72hrs|6000|1.5|
+4-* Voice Mask Lv 3                10|6|-|3/72hrs|9000|1.5|
+4-* Voice Mask Lv 4                10|6|-|4/72hrs|12000|1.5|
+4-* Voice Mask Lv 5                10|6|-|5/72hrs|15000|1.5|
+4-* Voice Mask Lv 6                10|6|-|6/72hrs|18000|1.5|
+4-* Voice Mask Lv 7                10|6|-|7/72hrs|21000|1.5|
+4-* Voice Mask Lv 8                10|6|-|8/72hrs|24000|1.5|
+4-* Voice Mask Lv 9                10|6|-|9/72hrs|27000|1.5|
+4-* Voice Mask Lv 10               10|6|-|10/72hrs|30000|1.5|
+3-White Noise Generator
+4-* White Noise Generator Lv 1     21|3|1|1|1/72hrs|1500|1.5|
+4-* White Noise Generator Lv 2     21|3|2|1|2/72hrs|3000|1.5|
+4-* White Noise Generator Lv 3     21|3|3|1|3/72hrs|4500|1.5|
+4-* White Noise Generator Lv 4     21|3|4|1|4/72hrs|6000|1.5|
+4-* White Noise Generator Lv 5     21|3|5|1|5/72hrs|7500|1.5|
+4-* White Noise Generator Lv 6     21|3|6|1|6/72hrs|9000|1.5|
+4-* White Noise Generator Lv 7     21|3|7|1|7/72hrs|10500|1.5|
+4-* White Noise Generator Lv 8     21|3|8|1|8/72hrs|12000|1.5|
+4-* White Noise Generator Lv 9     21|3|9|1|9/72hrs|13500|1.5|
+4-* White Noise Generator Lv 10    21|3|10|1|10/72hrs|15000|1.5|
+3-Window trembler
+4-* BRL-3014 Window Trembler 1     21|9|1|2/4days|120|2.5|
+4-* BRL-3014 Window Trembler 2     21|9|2|3/4days|240|2.5|
+4-* BRL-3014 Window Trembler 3     21|9|3|4/4days|360|2.5|
+4-* BRL-3014 Window Trembler 4     21|9|4|5/4days|480|2.5|
+4-* BRL-3014 Window Trembler 5     21|9|5|6/4days|600|2.5|
+4-* BRL-3014 Window Trembler 6     21|9|6|7/4days|720|2.5|
+4-* BRL-3014 Window Trembler 7     21|9|7|8/4days|840|2.5|
+4-* BRL-3014 Window Trembler 8     21|9|8|9/4days|960|2.5|
+4-* BRL-3014 Window Trembler 9     21|9|9|10/4days|1080|2.5|
+4-* BRL-3014 Window Trembler 10    21|9|10|11/4days|1200|2.5|
+2-Security devices
+3-ID Scanner: Thumbprint
+4-* ID Scanner: Thumbprint Lv 1    10|-|-|1/72hrs|200|1|
+4-* ID Scanner: Thumbprint Lv 2    10|-|-|2/72hrs|400|1|
+4-* ID Scanner: Thumbprint Lv 3    10|-|-|3/72hrs|600|1|
+4-* ID Scanner: Thumbprint Lv 4    10|-|-|4/72hrs|800|1|
+4-* ID Scanner: Thumbprint Lv 5    10|-|-|5/72hrs|1000|1|
+4-* ID Scanner: Thumbprint Lv 6    10|-|-|6/72hrs|1200|1|
+4-* ID Scanner: Thumbprint Lv 7    10|-|-|7/72hrs|1400|1|
+4-* ID Scanner: Thumbprint Lv 8    10|-|-|8/72hrs|1600|1|
+4-* ID Scanner: Thumbprint Lv 9    10|-|-|9/72hrs|1800|1|
+4-* ID Scanner: Thumbprint Lv 10   10|-|-|10/72hrs|2000|1|
+3-ID Scanner: Palmprint
+4-* ID Scanner: Palmprint Lv 1     10|-|-|2/72hrs|300|2|
+4-* ID Scanner: Palmprint Lv 2     10|-|-|3/72hrs|600|2|
+4-* ID Scanner: Palmprint Lv 3     10|-|-|4/72hrs|900|2|
+4-* ID Scanner: Palmprint Lv 4     10|-|-|5/72hrs|1200|2|
+4-* ID Scanner: Palmprint Lv 5     10|-|-|6/72hrs|1500|2|
+4-* ID Scanner: Palmprint Lv 6     10|-|-|7/72hrs|1800|2|
+4-* ID Scanner: Palmprint Lv 7     10|-|-|8/72hrs|2100|2|
+4-* ID Scanner: Palmprint Lv 8     10|-|-|9/72hrs|2400|2|
+4-* ID Scanner: Palmprint Lv 9     10|-|-|10/72hrs|2700|2|
+4-* ID Scanner: Palmprint Lv 10    10|-|-|11/72hrs|3000|2|
+3-ID Scanner: Retinal
+4-* ID Scanner: Retinal Lv 1       10|-|-|3/72hrs|1000|3|
+4-* ID Scanner: Retinal Lv 2       10|-|-|4/72hrs|2000|3|
+4-* ID Scanner: Retinal Lv 3       10|-|-|5/72hrs|3000|3|
+4-* ID Scanner: Retinal Lv 4       10|-|-|6/72hrs|4000|3|
+4-* ID Scanner: Retinal Lv 5       10|-|-|7/72hrs|5000|3|
+4-* ID Scanner: Retinal Lv 6       10|-|-|8/72hrs|6000|3|
+4-* ID Scanner: Retinal Lv 7       10|-|-|9/72hrs|7000|3|
+4-* ID Scanner: Retinal Lv 8       10|-|-|10/72hrs|8000|3|
+4-* ID Scanner: Retinal Lv 9       10|-|-|11/72hrs|9000|3|
+4-* ID Scanner: Retinal Lv 10      10|-|-|12/72hrs|10000|3|
+3-Maglocks (before Corporate Security Handbook)
+4-* Maglock Lvl 1                  21|-|1|-|2/72hrs|100|1|
+4-* Maglock Lvl 2                  21|-|2|-|2/72hrs|200|1|
+4-* Maglock Lvl 3                  21|-|3|-|3/72hrs|300|1|
+4-* Maglock Lvl 4                  21|-|4|-|4/72hrs|400|1|
+4-* Maglock Lvl 5                  21|-|5|-|5/72hrs|500|1|
+4-* Maglock Lvl 6                  21|-|6|-|6/72hrs|600|1|
+4-* Maglock Lvl 7                  21|-|7|-|7/72hrs|700|1|
+4-* Maglock Lvl 8                  21|-|8|-|8/72hrs|800|1|
+4-* Maglock Lvl 9                  21|-|9|-|9/72hrs|900|1|
+4-* Maglock Lvl 10                 21|-|10|-|10/72hrs|1000|1|
+3-Maglocks (after Corporate Security Handbook)
+4-* Type I Maglock (rating 1)      21|-|1|-|2/2days|75|.75|
+4-* Type I Maglock (rating 2)      21|-|2|-|2/2days|150|.75|
+4-* Type I Maglock (rating 3)      21|-|3|-|3/2days|225|.75|
+4-* Type II Maglock (rating 4)     21|-|4|-|4/3days|400|1|
+4-* Type II Maglock (rating 5)     21|-|5|-|5/3days|500|1|
+4-* Type II Maglock (rating 6)     21|-|6|-|6/3days|600|1|
+4-* Type III Maglock (rating 7)    21|-|7|-|7/3.5days|1050|1.25|
+4-* Type III Maglock (rating 8)    21|-|8|-|8/3.5days|1200|1.25|
+4-* Type III Maglock (rating 9)    21|-|9|-|9/3.5days|1350|1.25|
+4-* Type IV Maglock (rating 10)    21|-|10|-|10/4days|2500|1.5|
+4-* Type III Biometric Maglock (7) 21|-|7|-|7/5days|2450|2|
+4-* Type III Biometric Maglock (8) 21|-|8|-|8/5days|2800|2|
+4-* Type III Biometric Maglock (9) 21|-|9|-|9/5days|3150|2|
+4-* Type IV Biometric Maglock (10) 21|-|10|-|10/5days|3500|2|
+4-* SecSystems Maglock             21|3|3|1|4/72hrs|300|1|
+4-* Smartlock Door Sec. System 1   21|-|1|-|5/72hrs|250|1.5|
+4-* Smartlock Door Sec. System 2   21|-|2|-|5/72hrs|500|1.5|
+4-* Smartlock Door Sec. System 3   21|-|3|-|5/72hrs|750|1.5|
+4-* Smartlock Door Sec. System 4   21|-|4|-|5/72hrs|1000|1.5|
+4-* Smartlock Door Sec. System 5   21|-|5|-|5/72hrs|1250|1.5|
+4-* Smartlock Door Sec. System 6   21|-|6|-|5/72hrs|1500|1.5|
+4-* Smartlock Door Sec. System 7   21|-|7|-|5/72hrs|1750|1.5|
+4-* Smartlock Door Sec. System 8   21|-|8|-|5/72hrs|2000|1.5|
+3-PanicButton
+4-* PANICBUTTON Hook-Up            10|-|-|Call Lone Star|1000|1|
+3-Weapon and cyberware scanners
+4-* Scanway Chem/Explosives detec. 21|-|5|-|9/7days|350000|1|
+4-* Scanway Cyberware detector     21|-|5|-|8/7days|50000|1|
+4-* Scanway Weapon Detector        21|-|5|-|6/7days|25000|1|
+4-* Scanway Large screen           21|-|-|-|as detector|500|1|
+4-* Scanman Full Identity Scanner  21|4|5|2.5|14/14days|21000|5|
+4-* SecSystems Detection Wand      21|4|2|.5|2/12hrs|10000|1|
+3-Maglock removal equipment
+4-* Advanced Alarm Removal Kit     10|2|3|8/12hrs|2900|5|
+4-* Keypad Sequencer Level 1       21|-|1|.5|2/10days|500|1|
+4-* Keypad Sequencer Level 2       21|-|2|.5|2/10days|2000|1|
+4-* Keypad Sequencer Level 3       21|-|3|.5|2/10days|4500|1|
+4-* Keypad Sequencer Level 4       21|-|4|.5|2/10days|8000|1|
+4-* Keypad Sequencer Level 5       21|-|5|.5|2/10days|12500|1|
+4-* Keypad Sequencer Level 6       21|-|6|.5|3/10days|18000|1|
+4-* Maglock Passkey Lvl 1          21|-|1|1|2/10days|10000|3|
+4-* Maglock Passkey Lvl 2          21|-|2|1|4/10days|20000|3|
+4-* Maglock Passkey Lvl 3          21|-|3|1|6/10days|30000|3|
+4-* Maglock Passkey Lvl 4          21|-|4|1|8/10days|40000|3|
+4-* Maglock Passkey Lvl 5          21|-|5|1|10/10days|50000|3|
+4-* Maglock Passkey Lvl 6          21|-|6|1|12/10days|60000|3|
+4-* Maglock Passkey Lvl 7          21|-|7|1|14/10days|70000|3|
+4-* Maglock Passkey Lvl 8          21|-|8|1|16/10days|80000|3|
+4-* Maglock Passkey Lvl 9          21|-|9|1|18/10days|90000|3|
+4-* Maglock Passkey Lvl 10         21|-|10|1|20/10days|100000|3|
+3-Restraints
+4-* Restraints, Metal              21|3|12|.5|4/48hrs|50|1|
+4-* Restraints, Plastic            21|3|15|-|4/48hrs|20|1|
+4-* Restraints, Squealer           21|4|-|-|6/72hrs|100|2|
+4-* SecSystems Detention Collar    14|4|.5|8/10days|260|3|
+2-Global positioning system
+3-* Global Positioning System      10|8|-|.5|6/48hrs|700|1|
+2-Other security-related equipment
+3-* ANQ 3/22 Remote Seismic Sensor 21|4|3|1|6/48hrs|1000|2.5|
+3-* Arasaka Omnitec Radar Detector 21|7|4|1|4/72hrs|2000|1.5|
+3-* ID badgemaker                  21|3|3|1|5/48hrs|500|2|
+3-* Laser Detector Lvl 1           21|6|1|.3|8/72hrs|5000|1.5|
+3-* Laser Detector Lvl 2           21|6|2|.3|8/72hrs|10000|1.5|
+3-* Laser Detector Lvl 3           21|6|3|.3|8/72hrs|15000|1.5|
+3-* Laser Detector Lvl 4           21|6|4|.3|8/72hrs|20000|1.5|
+3-* Laser Detector Lvl 5           21|6|5|.3|8/72hrs|25000|1.5|
+3-* Laser Detector Lvl 6           21|6|6|.3|8/72hrs|30000|1.5|
+3-* LaserTrack Aerosol             10|-|-|4/24hrs|50|1|
+4-* Linozap                        10|5|.75|6/4 days|350|2|
+4-* M-0116 Tripwire Sensor         21|6|1|-|3/24hrs|20|1|
+4-* Magnetic Anomaly Detector Lv 1 21|3|1|1|8/4days|5000|1|
+4-* Magnetic Anomaly Detector Lv 2 21|3|2|1|8/4days|10000|1|
+4-* Magnetic Anomaly Detector Lv 3 21|3|3|1|8/4days|15000|1|
+4-* Magnetic Anomaly Detector Lv 4 21|3|4|1|8/4days|20000|1|
+4-* MS1803 Panoramic Motion Sensor 21|2|5|2.5|8/48hrs|1000|2|
+4-* Personal Body Alarm            10|-|-|on payment|varies|-|
+4-* Portable Motion Detector Lvl 1 21|-|1|2|4/24hrs|200|1.25|
+4-* Portable Motion Detector Lvl 2 21|-|2|2|4/24hrs|400|1.25|
+4-* Portable Motion Detector Lvl 3 21|-|3|2|4/24hrs|600|1.25|
+4-* Portable Motion Detector Lvl 4 21|-|4|2|4/24hrs|800|1.25|
+4-* Portable Motion Detector Lvl 5 21|-|5|2|4/24hrs|1000|1.25|
+4-* Retinal Pattern Duplicator 1   21|3|1|1|14/10days|60000|1|
+4-* Retinal Pattern Duplicator 2   21|3|2|1|14/10days|120000|1|
+4-* Retinal Pattern Duplicator 3   21|3|3|1|14/10days|180000|1|
+4-* Retinal Pattern Duplicator 4   21|3|4|1|14/10days|240000|1|
+4-* Retinal Pattern Duplicator 5   21|3|5|1|14/10days|300000|1|
+4-* Retinal Pattern Duplicator 6   21|3|6|1|14/10days|360000|1|
+4-* Retinal Pattern Duplicator 7   21|3|7|1|14/10days|420000|1|
+4-* Retinal Pattern Duplicator 8   21|3|8|1|14/10days|480000|1|
+4-* Retinal Pattern Duplicator 9   21|3|9|1|14/10days|540000|1|
+4-* Retinal Pattern Duplicator 10  21|3|10|1|14/10days|600000|1|
+4-* Retinal Pattern Input Dev. 1   21|4|1|.5|10/6days|1000|4|
+4-* Retinal Pattern Input Dev. 2   21|4|2|.5|10/6days|2000|4|
+4-* Retinal Pattern Input Dev. 3   21|4|3|.5|10/6days|3000|4|
+4-* Retinal Pattern Input Dev. 4   21|4|4|.5|10/6days|4000|4|
+4-* Retinal Pattern Input Dev. 5   21|4|5|.5|10/6days|5000|4|
+4-* Retinal Pattern Input Dev. 6   21|4|6|.5|10/6days|6000|4|
+4-* Retinal Pattern Input Dev. 7   21|4|7|.5|10/6days|7000|4|
+4-* Retinal Pattern Input Dev. 8   21|4|8|.5|10/6days|8000|4|
+4-* Retinal Pattern Input Dev. 9   21|4|9|.5|10/6days|9000|4|
+4-* S91KA Remote Heat Sensor       21|4|8|.5|4/48hrs|2000|1.5|
+4-* See Through Paper Spray        10|-|-|always|15|1|
+4-* Sonar Scanner                  21|4|3|.2|5/48hrs|50|1.2|
+4-* Superball Lvl 1 (per meter)    21|-|1|-|2/48hrs|50|3|
+4-* Superball Lvl 2 (per meter)    21|-|2|-|4/48hrs|100|3|
+4-* Superball Lvl 3 (per meter)    21|-|3|-|6/48hrs|150|3|
+4-* Superball Lvl 4 (per meter)    21|-|4|-|8/48hrs|200|3|
+4-* Superball Lvl 5 (per meter)    21|-|5|-|10/48hrs|250|3|
+4-* Superball Lvl 6 (per meter)    21|-|6|-|12/48hrs|300|3|
+4-* Superball Lvl 7 (per meter)    21|-|7|-|14/48hrs|350|3|
+4-* Superball Lvl 8 (per meter)    21|-|8|-|16/48hrs|400|3|
+4-* Superball Lvl 9 (per meter)    21|-|9|-|18/48hrs|450|3|
+4-* Superball Lvl 10 (per meter)   21|-|10|-|20/48hrs|500|3|
+4-* Surveillance Kit               10|-|6.5|6/5days|98000|2|
+4-* Synthetic Print Duplication    10|-|-|4/12hrs|500|1|
+4-* Print Duplication Supplies 1   21|-|1|-|4/12hrs|200|1|
+4-* Print Duplication Supplies 2   21|-|2|-|4/12hrs|400|1|
+4-* Print Duplication Supplies 3   21|-|3|-|4/12hrs|600|1|
+4-* Print Duplication Supplies 4   21|-|4|-|4/12hrs|800|1|
+4-* ThunderArc Automapper          10|7|.5|6/48hrs|600|1|
+4-* Ultrasound Detector/Distorter  10|8|.2|8/48hrs|1500|1.5|
+4-* U-Open-It Rating 1             21|2|1|5|6/48hrs|75|2|
+4-* U-Open-It Rating 2             21|2|1|5|6/48hrs|150|2|
+4-* U-Open-It Rating 3             21|2|1|5|6/48hrs|225|2|
+4-* U-Open-It Rating 4             21|2|1|5|6/48hrs|300|2|
+4-* U-Open-It Rating 5             21|2|1|5|6/48hrs|375|2|
+4-* Linear Beam Commlink           10|-|-|6/72hrs|2000|2.5|
+!
+1-Survival gear
+2-General
+3-* Micro Flare Launcher           3|3|1(b)|SS|(Micro flare)|2|5/48hrs|50|1.5|None|
+3-* Micro Flares                   5|-|6M|-|5/36hrs|75|1|
+2-Chemical protection
+3-* Chemsuit Lv 1                  10|-|1|1/1days|200|1|
+3-* Chemsuit Lv 2                  10|-|1|2/2days|400|1|
+3-* Chemsuit Lv 3                  10|-|1|3/3days|600|1|
+3-* Chemsuit Lv 4                  10|-|1|4/4days|800|1|
+3-* Chemsuit Lv 5                  10|-|1|5/5days|1000|1|
+3-* Chemsuit Lv 6                  10|-|1|6/6days|1200|1|
+3-* Chemsuit Lv 7                  10|-|1|7/7days|1400|1|
+3-* Chemsuit Lv 8                  10|-|1|8/8days|1600|1|
+3-* Chemsuit Lv 9                  10|-|1|9/9days|1800|1|
+3-* Chemsuit Lv 10                 10|-|1|10/10days|2000|1|
+3-* Pressure Regulator             10|-|.5|6/48hrs|250|2|
+3-* Ration Bars (10 Days)          10|-|1|2/48hrs|30|1|
+3-* Respirator                     10|-|1|4/48hrs|500|2|
+3-* Survival Kit                   10|-|2|2/48hrs|100|1|
+2-Climbing Gear
+3-* Ascent/Descent Harness         10|-|.25|always|75|1|
+3-* Ascent/Descent Kit             10|-|2|always|250|1|
+3-* Everest Grapple Line           10|-|3|always|240|1|
+3-* Grapple Gun                    10|7|2.25|always|450|1|
+3-* Normal Line (100 meters)       10|-|2|always|50|1|
+3-* Rappelling Gear                10|-|5|always|250|1|
+3-* Rappelling Gloves              10|-|-|always|70|1|
+3-* Rope (50 meters)               10|-|1|always|125|1|
+3-* Stealth Line (100 meters)      10|-|3|always|85|1|
+3-* Stealth Line Catalyst Stick    10|-|-|always|120|1|
+!
+1-Working Gear
+2-Kit
+3-* General Kit                    10|3|5|5/48hrs|500|2|
+3-* Vehicle Kit                    10|3|5|5/48hrs|1000|2|
+3-* Electronic ToolKit             10|3|5|5/48hrs|1500|2|
+3-* Computer ToolKit               10|3|5|5/48hrs|1500|2|
+3-* Cyberware ToolKit              10|3|5|5/48hrs|1500|2|
+3-* Buchsterhude GmbH Tool Kits    21|-|-|5|6/48hrs|1000|2|
+3-* 'Farinata' Tech Tool Kit       21|3|-|5|5/48hrs|350|2|
+3-* 'Venedico' Electronics Toolkit 21|3|-|5|5/48hrs|1350|2|
+2-Shop       
+3-* General Shop                   10|-|-|8/72hrs|5000|3|
+3-* Vehicle Shop                   10|-|-|8/72hrs|10000|3|
+3-* Electronic Shop                10|-|-|8/72hrs|15000|3|
+3-* Computer Shop                  10|-|-|8/72hrs|15000|3|
+3-* Cyberware Shop                 10|-|-|8/72hrs|15000|3|
+2-Facility
+3-* General Facility               10|-|-|14/7days|100000|4|
+3-* Vehicle Facility               10|-|-|14/7days|200000|4|
+3-* Electronic Facility            10|-|-|14/7days|300000|4|
+3-* Computer Facility              10|-|-|14/7days|300000|4|
+3-* Cyberware Facility             10|-|-|14/7days|300000|4|
+2-General
+3-* Arc Furnace                    21|-|-|-|6/7days|10000|1|
+3-* Barbed Wire (per 100 meters)   21|-|3L|20|always|25|.75|
+3-* CTS Pembroke Techscanner       21|-|-1|5|9/72hrs|1500|3.5|
+3-* Duct Tape (per 35 meters)      21|-|-|-|always|10|1|
+3-* 'Francesca' Tech Scanner       21|3|-|5|5/48hrs|1200|2|
+3-* Portable Cryogenic Case        21|2|armor 2/2|2|6/12hrs|250|1.2|
+3-* Geotech Enviroscanner          21|5|3|1|8/7days|45000|3|
+3-* Geotech Enviroscanner          21|6|4|1|4/24hrs|1400|1.2|
+3-* Kendachi Monowire (per meter)  21|-|-|-|8/7days|60|2.5|
+3-* Microtech Virtual Reality BBS  21|-|-1|-|6/7days|10000|1|
+3-* Monowire (per meter)           21|-|-|-|always|2|1|
+3-* Portable Electropack           21|3|-|2|always|100|1|
+3-* Portable Fire Extinguisher     21|2|4|9|2/12 hrs|150|.8|
+3-* Raven Interface Monitor        21|5|-1|1|6/48hrs|8000|1|
+3-* Microwaldo, Cyberarm version   21|-|-|2|8/72hrs|8000|3.25|
+3-* Microwaldo, Normal version     21|-|-|2|6/72hrs|7000|3|
+3-* Raven "Tripod" Waldo Set       21|-|-|25|10/7days|8000|3.5|
+3-* Razor Wire (per 100 meters)    21|-|3M|25|3/48hrs|75|1|
+3-* Swiss Army Chronograph         21|-|-|-|always|120|1|
+3-* Diagnostic Remote, Cyberarm v. 21|-|-|1|8/72hrs|5000|3.25|
+3-* Diagnostic Remote, Normal v.   21|-|-|1|6/72hrs|4000|3|
+3-* Telectronics Micromanipulator  21|-|-|-|8/72hrs|3000|3|
+!
+!1-Cybertech
+!2-Headware
+!3-Communications
+!3-Ears
+!3-Eyes
+!2-Matrixware
+!2-Bodyware
+!3-Limbs
+!3-Simrigs
+!3-Simlinks
+!3-Boosted reflexes
+!3-Dermal plating
+!3-Filtration systems
+!3-Skill hardwires
+!3-Skillwires
+!3-Skillwire plus
+!3-Vehicle control rig
+!3-Wired reflexes
+!3-Skillsofts
+!2-Bioware
+1-Chips
+2-ActiveSofts
+3-* General Skill Chip, Level 1    20|Active|1|10|6/4days|1000|1.25|
+3-* General Skill Chip, Level 2    20|Active|2|20|6/4days|2000|1.25|
+3-* General Skill Chip, Level 3    20|Active|3|30|6/4days|3000|1.25|
+3-* General Skill Chip, Level 4    20|Active|4|200|6/4days|20000|1.25|
+3-* General Skill Chip, Level 5    20|Active|5|250|6/4days|25000|1.25|
+3-* General Skill Chip, Level 6    20|Active|6|300|6/4days|30000|1.25|
+3-* General Skill Chip, Level 7    20|Active|7|700|6/4days|70000|1.25|
+3-* General Skill Chip, Level 8    20|Active|8|800|6/4days|80000|1.25|
+3-* General Skill Chip, Level 9    20|Active|9|900|6/4days|90000|1.25|
+3-* General Skill Chip, Level 10   20|Active|10|2000|6/4days|200000|1.25|
+3-* Concentration Chip, Level 1    20|Active|1|6|6/4days|600|1.25|
+3-* Concentration Chip, Level 2    20|Active|2|12|6/4days|1200|1.25|
+3-* Concentration Chip, Level 3    20|Active|3|18|6/4days|1800|1.25|
+3-* Concentration Chip, Level 4    20|Active|4|120|6/4days|12000|1.25|
+3-* Concentration Chip, Level 5    20|Active|5|150|6/4days|15000|1.25|
+3-* Concentration Chip, Level 6    20|Active|6|180|6/4days|18000|1.25|
+3-* Concentration Chip, Level 7    20|Active|7|420|6/4days|42000|1.25|
+3-* Concentration Chip, Level 8    20|Active|8|480|6/4days|48000|1.25|
+3-* Concentration Chip, Level 9    20|Active|9|540|6/4days|54000|1.25|
+3-* Concentration Chip, Level 10   20|Active|10|1200|6/4days|120000|1.25|
+3-* Specialization Chip, Level 1   20|Active|1|4|6/4days|400|1.25|
+3-* Specialization Chip, Level 2   20|Active|2|8|6/4days|800|1.25|
+3-* Specialization Chip, Level 3   20|Active|3|12|6/4days|1200|1.25|
+3-* Specialization Chip, Level 4   20|Active|4|80|6/4days|8000|1.25|
+3-* Specialization Chip, Level 5   20|Active|5|100|6/4days|10000|1.25|
+3-* Specialization Chip, Level 6   20|Active|6|120|6/4days|12000|1.25|
+3-* Specialization Chip, Level 7   20|Active|7|280|6/4days|28000|1.25|
+3-* Specialization Chip, Level 8   20|Active|8|320|6/4days|32000|1.25|
+3-* Specialization Chip, Level 9   20|Active|9|360|6/4days|36000|1.25|
+3-* Specialization Chip, Level 10  20|Active|10|800|6/4days|80000|1.25|
+3-* Ambidexterity Chip 1           20|Active|1|10|6/4days|1000|1.25|
+3-* Ambidexterity Chip 2           20|Active|2|20|6/4days|2000|1.25|
+3-* Ambidexterity Chip 3           20|Active|3|30|6/4days|3000|1.25|
+3-* Ambidexterity Chip 4           20|Active|4|200|6/4days|20000|1.25|
+3-* Ambidexterity Chip 5           20|Active|5|250|6/4days|25000|1.25|
+3-* DeathTrance Chip               20|Active|1|50|20/10days|5000|.9|
+3-* Mister Lover Chip 1            20|Active|1|5|5/48hrs|100|.9|
+3-* Mister Lover Chip 2            20|Active|2|10|5/48hrs|200|.9|
+3-* Mister Lover Chip 3            20|Active|3|15|5/48hrs|300|.9|
+3-* Poser Impersonation W/Habits   20|Active|4 and 6|440 Mp|24/20days|40000|1|
+3-* Poser Impersonation W/O Habits 20|Active|4 and 6|320 Mp|20/20days|30000|1|
+2-KnowSofts
+3-* General Skill Chip, Level 1    20|Know|1|10|5/4days|1500|1.25|
+3-* General Skill Chip, Level 2    20|Know|2|20|5/4days|3000|1.25|
+3-* General Skill Chip, Level 3    20|Know|3|30|5/4days|4500|1.25|
+3-* General Skill Chip, Level 4    20|Know|4|200|5/4days|30000|1.25|
+3-* General Skill Chip, Level 5    20|Know|5|250|5/4days|37500|1.25|
+3-* General Skill Chip, Level 6    20|Know|6|300|5/4days|45000|1.25|
+3-* General Skill Chip, Level 7    20|Know|7|700|5/4days|105000|1.25|
+3-* General Skill Chip, Level 8    20|Know|8|800|5/4days|120000|1.25|
+3-* General Skill Chip, Level 9    20|Know|9|900|5/4days|135000|1.25|
+3-* General Skill Chip, Level 10   20|Know|10|2000|5/4days|300000|1.25|
+3-* Concentration Chip, Level 1    20|Know|1|6|5/4days|900|1.25|
+3-* Concentration Chip, Level 2    20|Know|2|12|5/4days|1800|1.25|
+3-* Concentration Chip, Level 3    20|Know|3|18|5/4days|2700|1.25|
+3-* Concentration Chip, Level 4    20|Know|4|120|5/4days|18000|1.25|
+3-* Concentration Chip, Level 5    20|Know|5|150|5/4days|22500|1.25|
+3-* Concentration Chip, Level 6    20|Know|6|180|5/4days|27000|1.25|
+3-* Concentration Chip, Level 7    20|Know|7|420|5/4days|63000|1.25|
+3-* Concentration Chip, Level 8    20|Know|8|480|5/4days|72000|1.25|
+3-* Concentration Chip, Level 9    20|Know|9|540|5/4days|81000|1.25|
+3-* Concentration Chip, Level 10   20|Know|10|1200|5/4days|180000|1.25|
+3-* Specialization Chip, Level 1   20|Know|1|4|5/4days|600|1.25|
+3-* Specialization Chip, Level 2   20|Know|2|8|5/4days|1200|1.25|
+3-* Specialization Chip, Level 3   20|Know|3|12|5/4days|1800|1.25|
+3-* Specialization Chip, Level 4   20|Know|4|80|5/4days|12000|1.25|
+3-* Specialization Chip, Level 5   20|Know|5|100|5/4days|15000|1.25|
+3-* Specialization Chip, Level 6   20|Know|6|120|5/4days|18000|1.25|
+3-* Specialization Chip, Level 7   20|Know|7|280|5/4days|42000|1.25|
+3-* Specialization Chip, Level 8   20|Know|8|320|5/4days|48000|1.25|
+3-* Specialization Chip, Level 9   20|Know|9|360|5/4days|54000|1.25|
+3-* Specialization Chip, Level 10  20|Know|10|800|5/4days|120000|1.25|
+3-* Auditory Recognition Chip 1    20|Know|1|50|7/4days|7500|1.5|
+3-* Auditory Recognition Chip 2    20|Know|2|100|7/4days|15000|1.5|
+3-* Auditory Recognition Chip 3    20|Know|3|150|7/4days|22500|1.5|
+3-* Auditory Recognition Chip 4    20|Know|4|200|7/4days|30000|1.5|
+3-* DataEdge Inc. Stutter Chipping 20|Know|-|20|4/48hrs|3100|1.5|
+3-* Digi-Tone ID Chip 1            20|Know|1|2|2/4days|70|1|
+3-* Digi-Tone ID Chip 2            20|Know|2|4|2/4days|140|1|
+3-* Digi-Tone ID Chip 3            20|Know|3|6|3/4days|210|1|
+3-* Digi-Tone ID Chip 4            20|Know|4|8|4/4days|280|1|
+3-* Digi-Tone ID Chip 5            20|Know|5|10|5/4days|350|1|
+3-* Digi-Tone ID Chip 6            20|Know|6|12|6/4days|420|1|
+3-* Mind Games Chip                20|Know|-|depends on game|always|750|.6|
+3-* M.O. Chip                      20|Know|-|300|10/14days|12000|10|
+2-LinguaSofts
+3-* Language skill Chip, Level 1   20|Lingua|1|3|5/36hrs|300|1.25|
+3-* Language skill Chip, Level 2   20|Lingua|2|6|5/36hrs|600|1.25|
+3-* Language skill Chip, Level 3   20|Lingua|3|9|5/36hrs|900|1.25|
+3-* Language skill Chip, Level 4   20|Lingua|4|24|5/36hrs|2400|1.25|
+3-* Language skill Chip, Level 5   20|Lingua|5|30|5/36hrs|3000|1.25|
+3-* Language skill Chip, Level 6   20|Lingua|6|36|5/36hrs|3600|1.25|
+3-* Language skill Chip, Level 7   20|Lingua|7|70|5/36hrs|7000|1.25|
+3-* Language skill Chip, Level 8   20|Lingua|8|80|5/36hrs|8000|1.25|
+3-* Language skill Chip, Level 9   20|Lingua|9|90|5/36hrs|9000|1.25|
+3-* Language skill Chip, Level 10  20|Lingua|10|300|5/36hrs|30000|1.25|
+2-DataSofts
+3-* PhotoMemory RAM                20|Data|"-2"|-|6/72hrs|16000|1.25|
+2-Visual Recognition Chips
+3-* Corporate Officer VisRec Chip1 20|Know|1|40|10/4days|6000|1.5|
+3-* Corporate Officer VisRec Chip2 20|Know|2|80|10/4days|12000|1.5|
+3-* Corporate Officer VisRec Chip3 20|Know|3|120|10/4days|18000|1.5|
+3-* Corporate Officer VisRec Chip4 20|Know|4|160|10/4days|24000|1.5|
+3-* Military VisRec Chip 1         20|Know|1|100|10/4days|15000|2.5|
+3-* Military VisRec Chip 2         20|Know|2|200|10/4days|30000|2.5|
+3-* Military VisRec Chip 3         20|Know|3|300|10/4days|45000|2.5|
+3-* Military VisRec Chip 4         20|Know|4|400|10/4days|60000|2.5|
+3-* Police VisRec Chip 1           20|Know|1|65|10/4days|16250|2.5|
+3-* Police VisRec Chip 2           20|Know|2|130|10/4days|32500|2.5|
+3-* Police VisRec Chip 3           20|Know|3|195|10/4days|48750|2.5|
+3-* Police VisRec Chip 4           20|Know|4|260|10/4days|65000|2.5|
+3-* Rocker VisRec Chip 1           20|Know|1|50|5/4days|7500|1.5|
+3-* Rocker VisRec Chip 2           20|Know|1|100|5/4days|15000|1.5|
+3-* Rocker VisRec Chip 3           20|Know|1|150|5/4days|22500|1.5|
+3-* Rocker VisRec Chip 4           20|Know|1|200|5/4days|30000|1.5|
+3-* Secretarial VisRec Chip 1      20|Know|1|50|8/4days|7500|1.5|
+3-* Secretarial VisRec Chip 2      20|Know|1|100|8/4days|15000|1.5|
+3-* Secretarial VisRec Chip 3      20|Know|1|150|8/4days|22500|1.5|
+3-* Secretarial VisRec Chip 4      20|Know|1|200|8/4days|30000|1.5|
+3-* Techie VisRec Chip 1           20|Know|1|50|6/4days|7500|1.5|
+3-* Techie VisRec Chip 2           20|Know|1|100|6/4days|15000|1.5|
+3-* Techie VisRec Chip 3           20|Know|1|150|6/4days|22500|1.5|
+3-* Techie VisRec Chip 4           20|Know|1|200|6/4days|30000|1.5|
+2-Other
+3-* Adrenalin/Endorphin Surge 1    20|(Special)|1|150|6/72hrs|12500|2|
+3-* Adrenalin/Endorphin Surge 2    20|(Special)|2|300|6/72hrs|25000|2|
+3-* Adrenalin/Endorphin Surge 3    20|(Special)|3|450|6/72hrs|37500|2|
+3-* Adrenalin/Endorphin Surge 4    20|(Special)|4|600|6/72hrs|50000|2|
+3-* Adrenalin/Endorphin Surge 5    20|(Special)|5|750|6/72hrs|62500|2|
+3-* Adrenalin/Endorphin Surge 6    20|(Special)|6|900|6/72hrs|75000|2|
+3-* Business Trip Chip             20|Active/Lingua|4|424|4/24hrs|42500|1|
+3-* "Fish N' Chips"                20|(Special)|-|20|4/4days|1000|1|
+3-* Special Operative Chip         20|Active/Know/Lingua|4|500|8/6days|60000|2|
+3-* Stress Chip                    20|(Special)|-|20|4/36hrs|3500|1|
+3-* Tourism Chip                   20|Active/Lingua|4|344|4/24hrs|42500|1|
+!
+1-Cyberdecks and Programs
+2-Cyberdecks
+3-Cyberdecks
+3-* Radio Shack PCD-100            11|2|0|10|50|5|1|4/7days|6800|1|
+3-* Allegiance Alpha               11|3|1|10|50|5|1|4/7days|12600|1|
+3-* Sony CTY-360                   11|6|3|50|100|20|10|4/7days|99400|1|
+3-* Fuchi Cyber-4                  11|6|3|100|500|20|20|4/7days|121400|1|
+3-* Fuchi Cyber-6                  11|8|4|100|500|50|30|6/7days|334500|1|
+3-* Fuchi Cyber-7                  11|10|4|200|1000|50|40|10/7days|1112100|1|
+3-* Fairlight Excalibur            11|12|5|500|1000|100|50|22/7days|5529600|1|
+2-Cyberdeck system additions
+3-Off-line Storage              
+3-* Off-line Store 100 Mp          12|2/24hrs|100|1|
+3-* Off-line Store 200 Mp          12|2/24hrs|200|1|
+3-* Off-line Store 300 Mp          12|2/24hrs|300|1|
+3-* Off-line Store 400 Mp          12|2/24hrs|400|1|
+3-* Off-line Store 500 Mp          12|2/24hrs|500|1|
+3-Response increase
+3-* CybDeck: Response Inc 1        12|6/48hrs|25000|1|
+3-* CybDeck: Response Inc 2        12|8/72hrs|100000|2|
+3-* CybDeck: Response Inc 3        12|12/7days|250000|2|
+3-Others
+3-* Hitcher Jack                   12|2/48hrs|1000|1|
+3-* Vidscreen Display              12|2/24hrs|500|1|
+2-Programs
+3-Persona Programs
+4-Bod
+5-* Bod Rating 1                   12|3/7days|300|1|
+5-* Bod Rating 2                   12|3/7days|1200|1|
+5-* Bod Rating 3                   12|3/7days|2700|1|
+5-* Bod Rating 4                   12|6/7days|24000|1.5|
+5-* Bod Rating 5                   12|6/7days|37500|1.5|
+5-* Bod Rating 6                   12|6/7days|54000|1.5|
+5-* Bod Rating 7                   12|12/14days|147000|2|
+5-* Bod Rating 8                   12|12/14days|192000|2|
+5-* Bod Rating 9                   12|12/14days|243000|2|
+5-* Bod Rating 10+                 12|24/30days|1500000|3|
+4-Evasion
+5-* Evasion Rating 1               12|3/7days|300|1|
+5-* Evasion Rating 2               12|3/7days|1200|1|
+5-* Evasion Rating 3               12|3/7days|2700|1|
+5-* Evasion Rating 4               12|6/7days|24000|1.5|
+5-* Evasion Rating 5               12|6/7days|37500|1.5|
+5-* Evasion Rating 6               12|6/7days|54000|1.5|
+5-* Evasion Rating 7               12|12/14days|147000|2|
+5-* Evasion Rating 8               12|12/14days|192000|2|
+5-* Evasion Rating 9               12|12/14days|243000|2|
+5-* Evasion Rating 10+             12|24/30days|1500000|3|
+4-Masking
+5-* Masking Rating 1               12|3/7days|200|1|
+5-* Masking Rating 2               12|3/7days|800|1|
+5-* Masking Rating 3               12|3/7days|1800|1|
+5-* Masking Rating 4               12|6/7days|16000|1.5|
+5-* Masking Rating 5               12|6/7days|25000|1.5|
+5-* Masking Rating 6               12|6/7days|36000|1.5|
+5-* Masking Rating 7               12|12/14days|98000|2|
+5-* Masking Rating 8               12|12/14days|128000|2|
+5-* Masking Rating 9               12|12/14days|162000|2|
+5-* Masking Rating 10+             12|24/30days|1000000|3|
+4-Sensors
+5-* Sensors Rating 1               12|3/7days|200|1|
+5-* Sensors Rating 2               12|3/7days|800|1|
+5-* Sensors Rating 3               12|3/7days|1800|1|
+5-* Sensors Rating 4               12|6/7days|16000|1.5|
+5-* Sensors Rating 5               12|6/7days|25000|1.5|
+5-* Sensors Rating 6               12|6/7days|36000|1.5|
+5-* Sensors Rating 7               12|12/14days|98000|2|
+5-* Sensors Rating 8               12|12/14days|128000|2|
+5-* Sensors Rating 9               12|12/14days|162000|2|
+5-* Sensors Rating 10+             12|24/30days|1000000|3|
+3-Utility Programs
+4-Analyse
+5-* Analyse Rating 1               12|2/7days|300|1|
+5-* Analyse Rating 2               12|2/7days|1200|1|
+5-* Analyse Rating 3               12|2/7days|2700|1|
+5-* Analyse Rating 4               12|4/7days|24000|1.5|
+5-* Analyse Rating 5               12|4/7days|37500|1.5|
+5-* Analyse Rating 6               12|4/7days|54000|1.5|
+5-* Analyse Rating 7               12|8/14days|147000|2|
+5-* Analyse Rating 8               12|8/14days|192000|2|
+5-* Analyse Rating 9               12|8/14days|243000|2|
+5-* Analyse Rating 10+             12|16/100days|1500000|3|
+4-Armor
+5-* Armor Rating 1                 12|2/7days|300|1|
+5-* Armor Rating 2                 12|2/7days|1200|1|
+5-* Armor Rating 3                 12|2/7days|2700|1|
+5-* Armor Rating 4                 12|4/7days|24000|1.5|
+5-* Armor Rating 5                 12|4/7days|37500|1.5|
+5-* Armor Rating 6                 12|4/7days|54000|1.5|
+5-* Armor Rating 7                 12|8/14days|147000|2|
+5-* Armor Rating 8                 12|8/14days|192000|2|
+5-* Armor Rating 9                 12|8/14days|243000|2|
+5-* Armor Rating 10+               12|16/100days|1500000|3|
+4-Attack
+5-* Attack Rating 1                12|3/7days|200|1|
+5-* Attack Rating 2                12|3/7days|800|1|
+5-* Attack Rating 3                12|3/7days|1800|1|
+5-* Attack Rating 4                12|6/7days|16000|1.5|
+5-* Attack Rating 5                12|6/7days|25000|1.5|
+5-* Attack Rating 6                12|6/7days|36000|1.5|
+5-* Attack Rating 7                12|12/14days|98000|2|
+5-* Attack Rating 8                12|12/14days|128000|2|
+5-* Attack Rating 9                12|12/14days|162000|2|
+5-* Attack Rating 10+              12|24/30days|1000000|3|
+4-Blind
+5-* Blind Rating 1                 12|2/7days|300|1|
+5-* Blind Rating 2                 12|2/7days|1200|1|
+5-* Blind Rating 3                 12|2/7days|2700|1|
+5-* Blind Rating 4                 12|4/7days|24000|1.5|
+5-* Blind Rating 5                 12|4/7days|37500|1.5|
+5-* Blind Rating 6                 12|4/7days|54000|1.5|
+5-* Blind Rating 7                 12|8/14days|147000|2|
+5-* Blind Rating 8                 12|8/14days|192000|2|
+5-* Blind Rating 9                 12|8/14days|243000|2|
+5-* Blind Rating 10+               12|16/100days|1500000|3|
+4-Browse
+5-* Browse Rating 1                12|3/7days|100|1|
+5-* Browse Rating 2                12|3/7days|400|1|
+5-* Browse Rating 3                12|3/7days|900|1|
+5-* Browse Rating 4                12|6/7days|8000|1.5|
+5-* Browse Rating 5                12|6/7days|12500|1.5|
+5-* Browse Rating 6                12|6/7days|18000|1.5|
+5-* Browse Rating 7                12|12/14days|49000|2|
+5-* Browse Rating 8                12|12/14days|64000|2|
+5-* Browse Rating 9                12|12/14days|81000|2|
+5-* Browse Rating 10+              12|24/30days|500000|3|
+4-Cloak
+5-* Cloak Rating 1                 12|2/7days|300|1|
+5-* Cloak Rating 2                 12|2/7days|1200|1|
+5-* Cloak Rating 3                 12|2/7days|2700|1|
+5-* Cloak Rating 4                 12|4/7days|24000|1.5|
+5-* Cloak Rating 5                 12|4/7days|37500|1.5|
+5-* Cloak Rating 6                 12|4/7days|54000|1.5|
+5-* Cloak Rating 7                 12|8/14days|147000|2|
+5-* Cloak Rating 8                 12|8/14days|192000|2|
+5-* Cloak Rating 9                 12|8/14days|243000|2|
+5-* Cloak Rating 10+               12|16/100days|1500000|3|
+4-Compressor
+5-* Compressor Rating 1            12|3/7days|200|1|
+5-* Compressor Rating 2            12|3/7days|800|1|
+5-* Compressor Rating 3            12|3/7days|1800|1|
+5-* Compressor Rating 4            12|6/7days|16000|1.5|
+5-* Compressor Rating 5            12|6/7days|25000|1.5|
+5-* Compressor Rating 6            12|6/7days|36000|1.5|
+5-* Compressor Rating 7            12|12/14days|98000|2|
+5-* Compressor Rating 8            12|12/14days|128000|2|
+5-* Compressor Rating 9            12|12/14days|162000|2|
+5-* Compressor Rating 10+          12|24/30days|1000000|3|
+4-Controller
+5-* Controller Rating 1            12|3/7days|400|1|
+5-* Controller Rating 2            12|3/7days|1600|1|
+5-* Controller Rating 3            12|3/7days|3600|1|
+5-* Controller Rating 4            12|6/7days|32000|1.5|
+5-* Controller Rating 5            12|6/7days|50000|1.5|
+5-* Controller Rating 6            12|6/7days|72000|1.5|
+5-* Controller Rating 7            12|12/14days|196000|2|
+5-* Controller Rating 8            12|12/14days|256000|2|
+5-* Controller Rating 9            12|12/14days|324000|2|
+5-* Controller Rating 10+          12|24/30days|2000000|3|
+4-Deception
+5-* Deception Rating 1             12|3/7days|200|1|
+5-* Deception Rating 2             12|3/7days|800|1|
+5-* Deception Rating 3             12|3/7days|1800|1|
+5-* Deception Rating 4             12|6/7days|16000|1.5|
+5-* Deception Rating 5             12|6/7days|25000|1.5|
+5-* Deception Rating 6             12|6/7days|36000|1.5|
+5-* Deception Rating 7             12|12/14days|98000|2|
+5-* Deception Rating 8             12|12/14days|128000|2|
+5-* Deception Rating 9             12|12/14days|162000|2|
+5-* Deception Rating 10+           12|24/30days|1000000|3|
+4-Decrypt
+5-* Decrypt Rating 1               12|3/7days|200|1|
+5-* Decrypt Rating 2               12|3/7days|800|1|
+5-* Decrypt Rating 3               12|3/7days|1800|1|
+5-* Decrypt Rating 4               12|6/7days|16000|1.5|
+5-* Decrypt Rating 5               12|6/7days|25000|1.5|
+5-* Decrypt Rating 6               12|6/7days|36000|1.5|
+5-* Decrypt Rating 7               12|12/14days|98000|2|
+5-* Decrypt Rating 8               12|12/14days|128000|2|
+5-* Decrypt Rating 9               12|12/14days|162000|2|
+5-* Decrypt Rating 10+             12|24/30days|1000000|3|
+4-Evaluate
+5-* Evaluate Rating 1              12|3/7days|200|1|
+5-* Evaluate Rating 2              12|3/7days|800|1|
+5-* Evaluate Rating 3              12|3/7days|1800|1|
+5-* Evaluate Rating 4              12|6/7days|16000|1.5|
+5-* Evaluate Rating 5              12|6/7days|25000|1.5|
+5-* Evaluate Rating 6              12|6/7days|36000|1.5|
+5-* Evaluate Rating 7              12|12/14days|98000|2|
+5-* Evaluate Rating 8              12|12/14days|128000|2|
+5-* Evaluate Rating 9              12|12/14days|162000|2|
+5-* Evaluate Rating 10+            12|24/30days|1000000|3|
+4-Hog
+5-* Hog Rating 1                   12|2/7days|300|1|
+5-* Hog Rating 2                   12|2/7days|1200|1|
+5-* Hog Rating 3                   12|2/7days|2700|1|
+5-* Hog Rating 4                   12|4/7days|24000|1.5|
+5-* Hog Rating 5                   12|4/7days|37500|1.5|
+5-* Hog Rating 6                   12|4/7days|54000|1.5|
+5-* Hog Rating 7                   12|8/14days|147000|2|
+5-* Hog Rating 8                   12|8/14days|192000|2|
+5-* Hog Rating 9                   12|8/14days|243000|2|
+5-* Hog Rating 10+                 12|16/100days|1500000|3|
+4-Medic
+5-* Medic Rating 1                 12|3/7days|400|1|
+5-* Medic Rating 2                 12|3/7days|1600|1|
+5-* Medic Rating 3                 12|3/7days|3600|1|
+5-* Medic Rating 4                 12|6/7days|32000|1.5|
+5-* Medic Rating 5                 12|6/7days|50000|1.5|
+5-* Medic Rating 6                 12|6/7days|72000|1.5|
+5-* Medic Rating 7                 12|12/14days|196000|2|
+5-* Medic Rating 8                 12|12/14days|256000|2|
+5-* Medic Rating 9                 12|12/14days|324000|2|
+5-* Medic Rating 10+               12|24/30days|2000000|3|
+4-Mirror
+5-* Mirror Rating 1                12|2/7days|300|1|
+5-* Mirror Rating 2                12|2/7days|1200|1|
+5-* Mirror Rating 3                12|2/7days|2700|1|
+5-* Mirror Rating 4                12|4/7days|24000|1.5|
+5-* Mirror Rating 5                12|4/7days|37500|1.5|
+5-* Mirror Rating 6                12|4/7days|54000|1.5|
+5-* Mirror Rating 7                12|8/14days|147000|2|
+5-* Mirror Rating 8                12|8/14days|192000|2|
+5-* Mirror Rating 9                12|8/14days|243000|2|
+5-* Mirror Rating 10+              12|16/100days|1500000|3|
+4-Poison
+5-* Poison Rating 1                12|2/7days|300|1|
+5-* Poison Rating 2                12|2/7days|1200|1|
+5-* Poison Rating 3                12|2/7days|2700|1|
+5-* Poison Rating 4                12|4/7days|24000|1.5|
+5-* Poison Rating 5                12|4/7days|37500|1.5|
+5-* Poison Rating 6                12|4/7days|54000|1.5|
+5-* Poison Rating 7                12|8/14days|147000|2|
+5-* Poison Rating 8                12|8/14days|192000|2|
+5-* Poison Rating 9                12|8/14days|243000|2|
+5-* Poison Rating 10+              12|16/100days|1500000|3|
+4-Relocate
+5-* Relocate Rating 1              12|3/7days|200|1|
+5-* Relocate Rating 2              12|3/7days|800|1|
+5-* Relocate Rating 3              12|3/7days|1800|1|
+5-* Relocate Rating 4              12|6/7days|16000|1.5|
+5-* Relocate Rating 5              12|6/7days|25000|1.5|
+5-* Relocate Rating 6              12|6/7days|36000|1.5|
+5-* Relocate Rating 7              12|12/14days|98000|2|
+5-* Relocate Rating 8              12|12/14days|128000|2|
+5-* Relocate Rating 9              12|12/14days|162000|2|
+5-* Relocate Rating 10+            12|24/30days|1000000|3|
+4-Restore
+5-* Restore Rating 1               12|2/7days|300|1|
+5-* Restore Rating 2               12|2/7days|1200|1|
+5-* Restore Rating 3               12|2/7days|2700|1|
+5-* Restore Rating 4               12|4/7days|24000|1.5|
+5-* Restore Rating 5               12|4/7days|37500|1.5|
+5-* Restore Rating 6               12|4/7days|54000|1.5|
+5-* Restore Rating 7               12|8/14days|147000|2|
+5-* Restore Rating 8               12|8/14days|192000|2|
+5-* Restore Rating 9               12|8/14days|243000|2|
+5-* Restore Rating 10+             12|16/100days|1500000|3|
+4-Restrict
+5-* Restrict Rating 1              12|2/7days|300|1|
+5-* Restrict Rating 2              12|2/7days|1200|1|
+5-* Restrict Rating 3              12|2/7days|2700|1|
+5-* Restrict Rating 4              12|4/7days|24000|1.5|
+5-* Restrict Rating 5              12|4/7days|37500|1.5|
+5-* Restrict Rating 6              12|4/7days|54000|1.5|
+5-* Restrict Rating 7              12|8/14days|147000|2|
+5-* Restrict Rating 8              12|8/14days|192000|2|
+5-* Restrict Rating 9              12|8/14days|243000|2|
+5-* Restrict Rating 10+            12|16/100days|1500000|3|
+4-Reveal
+5-* Reveal Rating 1                12|2/7days|300|1|
+5-* Reveal Rating 2                12|2/7days|1200|1|
+5-* Reveal Rating 3                12|2/7days|2700|1|
+5-* Reveal Rating 4                12|4/7days|24000|1.5|
+5-* Reveal Rating 5                12|4/7days|37500|1.5|
+5-* Reveal Rating 6                12|4/7days|54000|1.5|
+5-* Reveal Rating 7                12|8/14days|147000|2|
+5-* Reveal Rating 8                12|8/14days|192000|2|
+5-* Reveal Rating 9                12|8/14days|243000|2|
+5-* Reveal Rating 10+              12|16/100days|1500000|3|
+4-Scanner
+5-* Scanner Rating 1               12|2/7days|300|1|
+5-* Scanner Rating 2               12|2/7days|1200|1|
+5-* Scanner Rating 3               12|2/7days|2700|1|
+5-* Scanner Rating 4               12|4/7days|24000|1.5|
+5-* Scanner Rating 5               12|4/7days|37500|1.5|
+5-* Scanner Rating 6               12|4/7days|54000|1.5|
+5-* Scanner Rating 7               12|8/14days|147000|2|
+5-* Scanner Rating 8               12|8/14days|192000|2|
+5-* Scanner Rating 9               12|8/14days|243000|2|
+5-* Scanner Rating 10+             12|16/100days|1500000|3|
+4-Shield
+5-* Shield Rating 1                12|3/7days|400|1|
+5-* Shield Rating 2                12|3/7days|1600|1|
+5-* Shield Rating 3                12|3/7days|3600|1|
+5-* Shield Rating 4                12|6/7days|32000|1.5|
+5-* Shield Rating 5                12|6/7days|50000|1.5|
+5-* Shield Rating 6                12|6/7days|72000|1.5|
+5-* Shield Rating 7                12|12/14days|196000|2|
+5-* Shield Rating 8                12|12/14days|256000|2|
+5-* Shield Rating 9                12|12/14days|324000|2|
+5-* Shield Rating 10+              12|24/30days|2000000|3|
+4-Sift
+5-* Sift Rating 1                  12|3/7days|100|1|
+5-* Sift Rating 2                  12|3/7days|400|1|
+5-* Sift Rating 3                  12|3/7days|900|1|
+5-* Sift Rating 4                  12|6/7days|8000|1.5|
+5-* Sift Rating 5                  12|6/7days|12500|1.5|
+5-* Sift Rating 6                  12|6/7days|18000|1.5|
+5-* Sift Rating 7                  12|12/14days|49000|2|
+5-* Sift Rating 8                  12|12/14days|64000|2|
+5-* Sift Rating 9                  12|12/14days|81000|2|
+5-* Sift Rating 10+                12|24/30days|500000|3|
+4-Sleaze
+5-* Sleaze Rating 1                12|2/7days|300|1|
+5-* Sleaze Rating 2                12|2/7days|1200|1|
+5-* Sleaze Rating 3                12|2/7days|2700|1|
+5-* Sleaze Rating 4                12|4/7days|24000|1.5|
+5-* Sleaze Rating 5                12|4/7days|37500|1.5|
+5-* Sleaze Rating 6                12|4/7days|54000|1.5|
+5-* Sleaze Rating 7                12|8/14days|147000|2|
+5-* Sleaze Rating 8                12|8/14days|192000|2|
+5-* Sleaze Rating 9                12|8/14days|243000|2|
+5-* Sleaze Rating 10+              12|16/100days|1500000|3|
+4-Slow
+5-* Slow Rating 1                  12|3/7days|400|1|
+5-* Slow Rating 2                  12|3/7days|1600|1|
+5-* Slow Rating 3                  12|3/7days|3600|1|
+5-* Slow Rating 4                  12|6/7days|32000|1.5|
+5-* Slow Rating 5                  12|6/7days|50000|1.5|
+5-* Slow Rating 6                  12|6/7days|72000|1.5|
+5-* Slow Rating 7                  12|12/14days|196000|2|
+5-* Slow Rating 8                  12|12/14days|256000|2|
+5-* Slow Rating 9                  12|12/14days|324000|2|
+5-* Slow Rating 10+                12|24/30days|2000000|3|
+4-Smoke
+5-* Smoke Rating 1                 12|3/7days|200|1|
+5-* Smoke Rating 2                 12|3/7days|800|1|
+5-* Smoke Rating 3                 12|3/7days|1800|1|
+5-* Smoke Rating 4                 12|6/7days|16000|1.5|
+5-* Smoke Rating 5                 12|6/7days|25000|1.5|
+5-* Smoke Rating 6                 12|6/7days|36000|1.5|
+5-* Smoke Rating 7                 12|12/14days|98000|2|
+5-* Smoke Rating 8                 12|12/14days|128000|2|
+5-* Smoke Rating 9                 12|12/14days|162000|2|
+5-* Smoke Rating 10+               12|24/30days|1000000|3|
+!
+1-Biotech
+2-General
+3-* Archaesthetic                  13|-1|1|6/7days|10000|4|
+3-* Cybercast                      13|+2|1.5|3/12hrs|3000|2|
+3-* Medkit                         13|3|2/24hrs|3|200|1.5|
+3-* Medkit Supplies                13|-|2/24hrs|-|50|1.5|
+3-* Portable Intern Unit           13|1|2|3/24hrs|120|1.5|
+3-* RapiDetox                      13|-|5|5/4days|1500|3|
+3-* Stabilization Unit             13|2|12/1mth|30|10000|3|
+3-* Stabilization Unit Deluxe      13|6|16/1mth|35|20000|3|
+2-DocWagon contract (per year)
+3-* DocWagon: Basic Service        13|-|On Payment|-|5000|-|
+3-* DocWagon: Gold Service         13|-|On Payment|-|25000|-|
+3-* DocWagon: Platinum             13|-|On Payment|-|50000|-|
+2-Slap patches
+3-Antidote Patch
+4-* Antidote Patch 1               13|1|6/72hrs|-|50|2|
+4-* Antidote Patch 2               13|2|6/72hrs|-|100|2|
+4-* Antidote Patch 3               13|3|6/72hrs|-|150|2|
+4-* Antidote Patch 4               13|4|6/72hrs|-|200|2|
+4-* Antidote Patch 5               13|5|6/72hrs|-|250|2|
+4-* Antidote Patch 6               13|6|6/72hrs|-|300|2|
+4-* Antidote Patch 7               13|7|6/72hrs|-|350|2|
+4-* Antidote Patch 8               13|8|6/72hrs|-|400|2|
+3-Stimulant Patch
+4-* Stimulant Patch 1              13|1|2/24hrs|-|25|1|
+4-* Stimulant Patch 2              13|2|2/24hrs|-|50|1|
+4-* Stimulant Patch 3              13|3|2/24hrs|-|75|1|
+4-* Stimulant Patch 4              13|4|2/24hrs|-|100|1|
+4-* Stimulant Patch 5              13|5|2/24hrs|-|125|1|
+4-* Stimulant Patch 6              13|6|2/24hrs|-|150|1|
+3-Tranq Patch
+4-* Tranq Patch 1                  13|1|4/48hrs|-|20|2|
+4-* Tranq Patch 2                  13|2|4/48hrs|-|40|2|
+4-* Tranq Patch 3                  13|3|4/48hrs|-|60|2|
+4-* Tranq Patch 4                  13|4|4/48hrs|-|80|2|
+4-* Tranq Patch 5                  13|5|4/48hrs|-|100|2|
+4-* Tranq Patch 6                  13|6|4/48hrs|-|120|2|
+4-* Tranq Patch 7                  13|7|4/48hrs|-|140|2|
+4-* Tranq Patch 8                  13|8|4/48hrs|-|160|2|
+4-* Tranq Patch 9                  13|9|4/48hrs|-|180|2|
+4-* Tranq Patch 10                 13|10|4/48hrs|-|200|2|
+3-* Trauma Patch                   13|-|4/48hrs|-|500|4|
+2-Gene-Tech
+3-Antibac
+4-* Antibac Level 1                13|-|4/48hrs|-|500|1|
+4-* Antibac Level 2                13|-|4/48hrs|-|500|1|
+4-* Antibac Level 3                13|-|4/48hrs|-|500|1|
+4-* Antibac Level 4                13|-|4/48hrs|-|1000|1|
+4-* Antibac Level 5                13|-|4/48hrs|-|1000|1|
+4-* Antibac Level 6                13|-|4/48hrs|-|1000|1|
+4-* Antibac Level 7                13|-|4/48hrs|-|1500|1|
+4-* Antibac Level 8                13|-|4/48hrs|-|1500|1|
+4-* Antibac Level 9                13|-|4/48hrs|-|1500|1|
+4-* Antibac Level 10               13|-|4/48hrs|-|2500|1|
+3-Binder 
+4-* Binder 1                       13|-|4/32hrs|-|300|1|
+4-* Binder 2                       13|-|4/32hrs|-|300|1|
+4-* Binder 3                       13|-|4/32hrs|-|300|1|
+4-* Binder 4                       13|-|4/32hrs|-|600|1|
+4-* Binder 5                       13|-|4/32hrs|-|600|1|
+4-* Binder 6                       13|-|4/32hrs|-|600|1|
+4-* Binder 7                       13|-|4/32hrs|-|900|1|
+4-* Binder 8                       13|-|4/32hrs|-|900|1|
+4-* Binder 9                       13|-|4/32hrs|-|900|1|
+4-* Binder 10                      13|-|4/32hrs|-|1500|1|
+3-Compounds
+4-* ACTH (6 doses)                 13|-|5/12hrs|-|100|1|
+4-* Atropine (1 dose)              13|-|5/12hrs|-|600|1|
+4-* Carcerands                     13|-|4/10days|-|see Text|2|
+4-* Corrosive Compound 1           13|4|5/48hrs|1000|2|
+4-* Corrosive Compound 4           13|4|8/7days|4000|4|
+4-* Cyanide (1 dose)               13|-|3/48hrs|-|360|.5|
+4-* Dikote TM (100 cm^3)           13|-|6/14days|-|1000|10| 
+4-* DMSO (1 dose)                  13|-|2/12hrs|-|10|1.5|
+4-* Hyper (1 dose)                 13|-|4/24hrs|-|180|.9|
+4-* MAO (1 dose)                   13|-|5/36hrs|-|280|2|
+4-* MAO Inhibitors (1 dose)        13|-|?|60|2.5|
+4-* Oxygenated Fluorocarbons       13|-|4/48hrs|-|750|1|
+4-* Ruthenium Polymers (1 m^3)     13|-|5/14days|-|10000|7.5|
+4-* Doom (1 dose)                  13|-|14/30days|-|500|5|
+4-* Gamma-Anthrax (1 dose)         13|-|14/30days|-|180|6|  
+4-* Myco-Protein                   13|-|always|-|25|1|
+3-Gene Therapy
+4-* Gene Cleansing                 13|-|6/30days|-|50000|2.5|
+4-* Genetic Correction             13|-|6/30days|-|60000|2.5|
+4-* Gene Reconstruct/Healing       13|-|6/30days|-|100000|2.5|
+4-* Other Gene Therapy             13|-|6/30days|-|50000|2.5|
+4-* Leonization                    13|-|6/30days|2000000|2.5|
+3-Immunization
+4-* Single Immunization            13|-|6/20days|-|40000|2| 
+4-* Full Spectrum Immunization     13|-|6/20days|-|300000|2|
+3-Zeta-Interpheron
+4-* Zeta-Interpheron 1             13|-|4/32hrs|-|400|2|
+4-* Zeta-Interpheron 2             13|-|4/32hrs|-|400|2|
+4-* Zeta-Interpheron 3             13|-|4/32hrs|-|400|2|
+4-* Zeta-Interpheron 4             13|-|4/32hrs|-|800|2|
+4-* Zeta-Interpheron 5             13|-|4/32hrs|-|800|2|
+4-* Zeta-Interpheron 6             13|-|4/32hrs|-|800|2|
+4-* Zeta-Interpheron 7             13|-|4/32hrs|-|1200|2|
+4-* Zeta-Interpheron 8             13|-|4/32hrs|-|1200|2|
+4-* Zeta-Interpheron 9             13|-|4/32hrs|-|1200|2|
+4-* Zeta-Interpheron 10            13|-|4/32hrs|-|2000|2|
+!
+1-Drugs (per dose)
+2-Depressants
+3-* Alcohol (bottle)               22|2M|3|50|always|10|.8|
+3-* Barbiturates                   22|4M+3P|3|5|4/3hrs|1|.8|
+3-* Benzodiazepines                22|2M+2P|5|5|4/3hrs|1|.9|
+3-* Butaqualide                    22|5M|3|10|5/1hr|20|2.5|
+3-* Chloral Hydrate                22|4M+3P|3|5|5/4hrs|2|1|
+3-* Diamond-Four                   22|2P|2|10|10/48hrs|1500|3.5|
+3-* FoolKiller                     22|5P|2|10|8/3hrs|35|2.5|
+3-* Genesios Three                 22|2M|5|20|14/14days|1000|8.5|
+3-* Glutethimide                   22|3M+4P|4|3|5/4hrs|3|1|
+3-* Marijuana (ingested)           22|3M|3|10|3/1hr|20|.5|
+3-* Marijuana (smoked)             22|3M|3|10|3/1hr|4|.5|
+3-* Methaqualone                   22|4M+4P|4|2|4/3hrs|3|1.2|
+3-* Musk                           22|3M|3|20|3/1hr|250|2|
+3-* Nicotine (pack of cigarettes)  22|3M|1|20|always|2|.8|
+3-* NuYou                          22|6M|3|10|4/2hrs|350|3|
+3-* Paxium                         22|2M|4|20|3/1hr|5|2.5|
+3-* Schwarzeneine                  22|6P|4|5|8/3hrs|45|3.5|
+3-* Shades                         22|5M|2|5|4/1hr|30|2|
+3-* Sonniene                       22|4M|3|5|4/1hr|80|3|
+2-Hallucinogens
+3-* Ecstacy                        22|4M|4|20|5/7hrs|150|4|
+3-* LSD (one tab)                  22|1M|2|4|4/7hrs|5|1.5|
+3-* LSD (100 tabs)                 22|1M|2|4|4/7hrs|200|1.5|
+3-* MDA, MDMA, other amphetamines  22|2M|2|6|4/7hrs|10|1.7|
+3-* Mescaline                      22|2M|2|4|4/5hrs|80|2|
+3-* Phencyclidine                  22|5M|4|2|8/14hrs|25|2.5|
+3-* Ribopropylmethionine           22|8P|2|2|10/7hrs|100|3|
+3-* Zen                            22|5M|3|10|5/10hrs|120|3|
+2-Narcotics
+3-* Heroin                         22|5M+5P|3|3|5/2hrs|20|2.5|
+3-* Hydromorphone                  22|4M+4P|5|7|5/6hrs|250|1.5|
+3-* Meperidine                     22|4M+4P|5|4|6/6hrs|500|2.5|
+3-* Methadone                      22|2M+3P|3|5|5/6hrs|50|2|
+3-* Morphine                       22|4M+4P|4|10|4/3hrs|150|1.25|
+3-* Opium                          22|4M+4P|3|15|6/24hrs|50|1.25|
+2-Stimulants
+3-* Amphetamines (50 tablets)      22|5P|3|6|4/3hrs|75|1.5|
+3-* Brown Study                    22|1M|4|10|6/6hrs|35|3|
+3-* Caffeine (100 tablets)         22|1M|3|50|always|5|1|
+3-* Cocaine                        22|6P|3|5|4/1hr|10|2|
+3-* Endorphins                     22|4P|4|5|6/3hrs|30|3|
+3-* J                              22|1M|1|50|10/3hrs|600|4|
+3-* Kamikaze                       22|4P|2|4|5/4days|50|5|
+3-* Methylphenidate                22|3P|5|4|4/3hrs|25|1.8|
+3-* Phenmetrazine (10 tablets)     22|5P|4|5|5/3hrs|75|1.5|
+3-* Spaz                           22|5P|1|5|8/24hrs|10|1.5|
+3-* Triphetamines (50 tablets)     22|2M|4|5|5/3hrs|25|1.5|
+!
+1-Magical equipment
+2-Foci
+3-Specific Spell Focus            
+4-* Specific Spell Focus 1         15|4/48hrs|45000|2| 
+4-* Specific Spell Focus 2         15|4/48hrs|90000|2| 
+4-* Specific Spell Focus 3         15|4/48hrs|135000|2| 
+4-* Specific Spell Focus 4         15|4/48hrs|180000|2| 
+4-* Specific Spell Focus 5         15|4/48hrs|225000|2| 
+4-* Specific Spell Focus 6         15|4/48hrs|270000|2| 
+3-Spell Type Focus               
+4-* Spell Type Focus 1             15|5/48hrs|75000|2|
+3-* Spell Type Focus 2             15|5/48hrs|150000|2|
+3-* Spell Type Focus 3             15|5/48hrs|225000|2|
+3-* Spell Type Focus 4             15|5/48hrs|300000|2|
+3-* Spell Type Focus 5             15|5/48hrs|375000|2|
+3-* Spell Type Focus 6             15|5/48hrs|450000|2|
+3-Spirit Focus                 
+4-* Spirit Focus 1                 15|4/48hrs|60000|2|
+4-* Spirit Focus 2                 15|4/48hrs|120000|2|
+4-* Spirit Focus 3                 15|4/48hrs|180000|2|
+4-* Spirit Focus 4                 15|4/48hrs|240000|2|
+4-* Spirit Focus 5                 15|4/48hrs|300000|2|
+4-* Spirit Focus 6                 15|4/48hrs|360000|2|
+3-Power Focus                   
+4-* Power Focus 1                  15|6/72hrs|105000|2|
+4-* Power Focus 2                  15|6/72hrs|210000|2|
+4-* Power Focus 3                  15|6/72hrs|315000|2|
+4-* Power Focus 4                  15|6/72hrs|420000|2|
+4-* Power Focus 5                  15|6/72hrs|525000|2|
+4-* Power Focus 6                  15|6/72hrs|630000|2|
+3-Spell Lock                     
+4-* Spell Lock                     15|2/48hrs|45000|2|
+3-Weapon Focus                
+4-* Weapon Focus 1,Reach 1         15|8/72hrs|290000|3|
+4-* Weapon Focus 2,Reach 1         15|8/72hrs|380000|3|
+4-* Weapon Focus 3,Reach 1         15|8/72hrs|470000|3|
+4-* Weapon Focus 4,Reach 1         15|8/72hrs|560000|3|
+4-* Weapon Focus 5,Reach 1         15|8/72hrs|650000|3|
+4-* Weapon Focus 6,Reach 1         15|8/72hrs|740000|3|
+4-* Weapon Focus 1,Reach 2         15|8/72hrs|390000|3|
+4-* Weapon Focus 2,Reach 2         15|8/72hrs|480000|3|
+4-* Weapon Focus 3,Reach 2         15|8/72hrs|570000|3|
+4-* Weapon Focus 4,Reach 2         15|8/72hrs|660000|3|
+4-* Weapon Focus 5,Reach 2         15|8/72hrs|750000|3|
+4-* Weapon Focus 6,Reach 2         15|8/72hrs|840000|3|
+2-Magical supplies
+3-General Materials
+4-* Ally Conjuring Materials       15|(Force)/36hrs|1000xUnit|1|
+4-* Elemental Conjuring Materials  15|(Force)/24hrs|1000xForce|1| 
+4-* Fetish Focus                   15|3/26hrs|3000xRating|1|
+4-* Medicine Lodge Materials       15|(Rating)/24hrs|500xRating|1|
+4-* Ward Casting Materials         15|(Force)/36hrs|1000xUnit|1|
+4-* Watcher Casting Materials      15|(Force)/36hrs|1000xUnit|1|
+3-Hermetic library
+3-* Disk                           15|(Rating)/7days|1000x(Rating^2)|2|
+3-* Chip                           15|(Rating)/7days|1200x(Rating^2)|2|
+3-* Hardcopy                       15|(Rating)/14days|2000x(Rating^2)|3|
+3-Expendable fetishes
+3-* Combat                         15|2/24hrs|20|1|
+3-* Detection                      15|2/24hrs|5|1|
+3-* Healing                        15|2/24hrs|50|1|
+3-* Illusion                       15|2/24hrs|10|1|
+3-* Manipulation                   15|2/24hrs|30|1|
+3-Reusable fetishes
+3-* Combat                         15|3/24hrs|200|1|
+3-* Detection                      15|3/24hrs|50|1|
+3-* Healing                        15|3/24hrs|500|1|
+3-* Illusion                       15|3/24hrs|100|1|
+3-* Manipulation                   15|3/24hrs|300|1|
+3-Ritual sorcery materials
+3-* Detection                      15|3/24hrs|100xForce|1|
+3-* Healing                        15|3/24hrs|500xForce|1|
+3-* Illusion                       15|3/24hrs|100xForce|1|
+3-* Manipulation                   15|3/24hrs|1000xForce|1|
+3-Enchanting materials
+4-Herbals
+5-* Herbals Raw                    15|-|50|-|
+5-* Herbals Refined                15|-|100|-|
+5-* Herbals Radical                15|-|200|-|
+4-Crystals
+5-* Crystals Raw                   15|-|100|-|
+5-* Crystals Refined               15|-|200|-|
+5-* Crystals Radical               15|-|400|-|
+4-Semi-precious Gems
+5-* Sprecious Gems Raw             15|-|200|-|
+5-* Sprecious Gems Refined         15|-|400|-|
+5-* Sprecious Gems Radical         15|-|800|-|
+4-Precious Gems
+5-* Precious Gems Raw              15|-|500|-|
+5-* Precious Gems Refined          15|-|1000|-|
+5-* Precious Gems Radical          15|-|2000|-|
+4-Iron
+5-* Iron Raw                       15|-|50|-|
+5-* Iron Refined                   15|-|100|-|
+5-* Iron Radical                   15|-|200|-|
+4-Copper
+5-* Copper Raw                     15|-|100|-|
+5-* Copper Refined                 15|-|200|-|
+5-* Copper Radical                 15|-|400|-|
+4-Silver
+5-* Silver Raw                     15|-|300|-|
+5-* Silver Refined                 15|-|600|-|
+5-* Silver Radical                 15|-|1200|-|
+4-Gold
+5-* Gold Raw                       15|-|10000|-|
+5-* Gold Refined                   15|-|20000|-|
+5-* Gold Radical                   15|-|40000|-|
+4-Mercury
+5-* Mercury Raw                    15|-|600|-|
+5-* Mercury Refined                15|-|1200|-|
+5-* Mercury Radical                15|-|2400|-|
+4-Tin
+5-* Tin Raw                        15|-|30|-|
+5-* Tin Refined                    15|-|60|-|
+5-* Tin Radical                    15|-|120|-|
+4-Lead
+5-* Lead Raw                       15|-|30|-|
+5-* Lead Refined                   15|-|60|-|
+5-* Lead Radical                   15|-|120|-|
+4-Orichalcum 
+5-* 1 Unit Orichalcum              15|-|88000|-|
+3-Spell formulae
+4-* Force L                        15|-|50xForce|-|
+4-* Force M                        15|-|100xForce|-|
+4-* Force S                        15|-|500xForce|-|
+4-* Force D                        15|-|1000xForce|-|
+!
+1-Vehicles
+2-Cars
+3-* BMW i985/24                    17|4/8|80/220|2|0|2|1|12/6days|125000|2|
+3-* BMW 9018s                      17|3/8|90/280|4|2|2|3|50/25days|500000|2|
+3-* BMW Burowagen HSR              17|3/10|50/145|3|1|2|4|90/45days|900000|2|
+3-* Cadence Industries Wanderer    17|6/10|35/105|2|2|3|3|5/2days|50000|1|
+3-* Chrysler-Nissan Jackrabbit     17|3/8|25/75|1|0|5|1|2/1day|15000|1|
+3-* Chrysler-Nissan Python Turbo   17|3/8|65/195|2|0|3|2|8/4days|85000|2|
+3-* Crowder                        17|5/10|25/55|1|1|6|1|2/1day|9000|.75|
+3-* Dune Buggy                     17|5/4|40/120|3|0|1|1|2/1day|15000|1|
+3-* EMC Carrona                    17|3/8|35/105|1|0|4|2|2/1day|15000|1|
+3-* EMC Intracity E                17|2/6|35/50|1|0|3/6|1|2/1day|8500|.75|
+3-* EMC Serena                     17|4/8|35/90|2|0|4|2|2/1day|19500|1|
+3-* Eurocar 3000                   17|3/8|60/180|2|0|3|3|7/3days|75000|2|
+3-* Eurocar Westwind 2000          17|3/8|70/210|2|0|2|3|10/5days|100000|2|
+3-* Ford Americar                  17|4/8|35/105|2|0|2|2|2/1day|20000|1|
+3-* Honda-GM 3220 ZX               17|4/8|40/120|2|0|2|1|3/2days|30000|1|
+3-* Honda-GM 3220 ZX Turbo         17|4/8|50/150|2|0|1|2|4/2days|45000|1|
+3-* Honda Metrocar                 17|4/10|20/60|1|0|5|0|2/1day|7000|.75|
+3-* Leyland-Zil Tsarina            17|4/8|25/75|1|0|5|1|2/1day|10000|1|
+3-* Max Interceptor                17|3/8|65/240|2|2|2|2|14/7days|140000|2|
+3-* Mercedes E160                  17|4/8|50/120|2|3|4|2|3/1day|26000|1|
+3-* Mercedes ER350                 17|3/8|80/210|2|3|3|2|14/7days|140000|2|
+3-* Mercedes L800                  17|3/8|70/170|5|9|3|4|45/22days|450000|2|
+3-* Mitsubishi Nightsky            17|4/8|45/120|5|3|4|4|25/12days|250000|2|
+3-* Mitsubishi Runabout            17|4/8|25/75|1|0|5|1|2/1day|10000|1|
+3-* New American Autoworks Roadcar 17|4/8|35/105|1|0|3|1|2/1day|11000|1|
+3-* New American Motor's Drifter   17|4/8|35/105|3|1|2|2|9/4days|90000|2|
+3-* New American Motors Armadillo  17|6/10|35/105|4|3|1|1|8/4days|85000|2|
+3-* New American Motors Nautilus   17|6/10|35/105|2|1|1|0|3/1day|32000|1|
+3-* Porsche 996/37                 17|4/8|80/260|2|0|3|1|20/10days|200000|2|
+3-* Rolls-Royce Phaeton            17|4/4|60/180|5|6|2|4|50/25days|500000|2|
+3-* Saab Dynamite 778TDI           17|4/8|80/250|2|3|1|3|25/12days|250000|2|
+3-* Takaya Daimyo                  17|3/8|65/200|2|0|4|3|4/2days|44000|1|
+3-* Toyo-Chevrolet '51 Chevy       17|3/7|40/120|2|0|5|1|3/1day|35000|1|
+3-* Toyo-Chrysler Omega            17|4/8|50/150|2|0|2|1|2/1day|20000|1|
+3-* Toyota Avante                  17|3/8|95/285|2|1|1|3|48/24days|480000|2|
+3-* Toyota Elite                   17|4/8|40/120|4|0|2|4|12/6days|125000|1|
+3-* Volkswagon Electra             17|3/6|20/60|1|0|5|0|2/1day|8000|.75|
+3-* VW Impuls                      17|3/8|35/90|1|0|5|2|2/1day|12000|1|
+3-* VW Integra                     17|4/8|50/100|2|0|4|2|2/1day|14000|1|
+2-Bikes
+3-* All-Terrain Bike (bicycle)     17|3|special|1|0|6|-|2/1day|650|.75|
+3-* Ashigaru                       17|3/8|40/95|1|0|6|1|2/1day|3500|.75|
+3-* Bermuda                        17|3/5|60/205|2|0|2|1|2/1day|15000|1|
+3-* BMW Blitzen 2025               17|3/4|70/210|3|6|1|2|2/1day|15-20000|1|
+3-* BMW Blitzen 2050               17|3/4|95/285|3|6|1|2|2/1day|25000|1|
+3-* BMW R60 Euro                   17|3/6|35/130|2|3|3|1|2/1day|11000|1|
+3-* BMW RG75 III                   17|3/3|35/100|2|0|3|0|2/1day|14000|1|
+3-* Brennan Cycles "Ares"          17|3/7|40/125|1|1|1|1|2/1day|21000|1|
+3-* Brennan "Hermes"               17|3/6|30/95|1|0|2|0|2/1day|12500|1|
+3-* Darkwing                       17|4/4|40/135|2|1|3|1|2/1day|9000|.75|
+3-* Dodge Scoot                    17|3/6|20/60|1|0|4|0|2/1day|2000|.75|
+3-* Entertainment Systems Papoose  17|3/6|30/90|1|0|5|0|2/1day|6000|.75|
+3-* Harley-Davidson Brawler        17|5/7|64/192|4|6|1|2|2/1day|26000|1|
+3-* Harley-Davidson Scorpion       17|4/5|50/150|3|3|2|2|2/1day|15000|1|
+3-* Harley-Davidson Thundergod     17|4/5|50/150|1|0|3|2|2/1day|15000|1|
+3-* Honda Viking                   17|3/5|50/150|4|3|1|2|2/1day|17000|1|
+3-* Hyundai Offroader              17|4/2|60/180|2|0|2|1|2/1day|12500|1|
+3-* Gaz-Niki White Eagle           17|3/3|60/180|3|0|1|0|2/1day|15000|1|
+3-* Kundalina Roadworks "Dart"     17|4/8(3/6)|55/160|1|1|3|1|2/1day|10000|1|
+3-* Kundalina Roadworks Shiva      17|2/6|70/210|1|1|2|2|2/1day|12000|1|
+3-* Kundalina "Torpedo"            17|4/6(3/5)|65/190|1|2|3|2|3/1day|36000|1|
+3-* Messerschmitt A200             17|2/10|50/220|1|0|2|0|3/1day|29000|1|
+3-* Mitsubishi Portabike           17|3/9|10/35|1|0|7|0|2/1day|250|.75|
+3-* MZ E250CM                      17|4/6|35/100|1|0|2|0|2/1day|4200|.75|
+3-* Nissan Stallion                17|4|80/200|4|2|2(5)|1|2/1day|25000|1|
+3-* Pedicab (bicycle)              17|3/7|10/30|1|0|10|0|2/1day|1200|.75|
+3-* Scion Technologies Dunemaster  17|4/3|45/135|2|1|1|1|4/2days|40000|1|
+3-* Scion Technologies Dust Devil  17|5/4|35/105|2|2|1|1|4/2days|46000|1|
+3-* Sport Eurasia "Microbike"      17|4/12|35/105|1|0|5|0|2/1day|1000|.75|
+3-* Suzuki 500ET                   17|3/6|90/270|1|2|2|3|2/1day|25000|1|
+3-* Suzuki Aurora                  17|2/4|70/210|1|0|1|1|2/1day|15000|1|
+3-* Thundercload Pinto             17|4/2|20/60|3|0|2|0|3/2days|35000|2|
+3-* VW City Scooter                17|3/9|25/50|2|0|4|2|2/1day|6500|.75|
+3-* Yamaha Rapier                  17|3/6|65/195|1|0|1|1|2/1day1|10000|1|
+2-Trucks and all-terrain vehicles
+3-* Ambunaught                     17|4/8|30/95|5|4|1|2|20/10days|200000|2|
+3-* Ares Roadmaster                17|4/10|30/90|4|0|2|2|4/2days|45000|1|
+3-* Conestoga Trailblazer          17|4/8|30/90|5|0|2|2|15/7days|150000|2|
+3-* Eurocar Blitz II               17|4/9|35/100|3|0|3|2|3/1day|32000|1|
+3-* Ford-Canada Bison              17|4/3|45/135|5|6|4|3|15/7days|150000|2|
+3-* Gaz-Willy Nomad                17|3/3|30/90|3|0|2|2|5/3days|50000|2|
+3-* GMC 4201                       17|3/6|35/85|5|3|2|2|7/4days|75000|2|
+3-* GMC Bulldog Step-Van           17|4/6|35/85|4|3|2|2|3/2days|35000|1|
+3-* GMC Bulldog Van (Courier)      17|4/8|35/85|4|6|1|2|6/3days|60000|2|
+3-* GM/Hyundai Worker Bee          17|4/10|10/30|2|2|1|3|15/7days|150000|2|
+3-* Landrover 2046 (short)         17|3/3|30/90|2|0|2|1|3/2days|35000|1|
+3-* Landrover 2046 (long)          17|3/3|30/90|3|0|2|2|4/2days|45000|1|
+3-* Leyland-Rover Transport        17|4/8|25/75|3|0|5|2|2/1day|25000|1|
+3-* New American Motors "Vulture"  17|6/11|35/105|5|4|2|0|21/10days|215000|2|
+3-* Nissan-Holden Brumbry          17|4/3|30/90|2|0|2|2|2/1day|25000|1|
+3-* Nordkapp-Conestoga (Command)   17|3/6|30/90|6|6|2|4|60/30days|600000|2|
+3-* Nordkapp-Conestoga (Cargo)     17|3/6|30/90|5|3|2|0|20/10days|200000|2|
+3-* Renault Fiat Eurovan           17|4/10|35/105|3|0|2|1|2/1day|25000|1|
+3-* Rolls-Royce Prairie Cat        17|2/3|40/120|3|3|2|3|2/1day|275000|2|
+3-* Spinelli Autotech "Nomad"      17|4/2|45/135|2|1|3|2|5/2days|55000|2|
+3-* ToyotaCorp Gopher              17|4/4|35/105|2|0|2|2|2/1day|25000|1|
+3-* Volkswagon SuperKombi III      17|4/8|35/105|2|0|2|2|2/1day|25000|1|
+3-* VW TT50 ATV                    17|3/3|40/100|3|3|2|2|3/1days|39000|1|
+3-* Yakurichi-Ural BR70            17|3/6|50/150|4|4|2|4|12/6days|120000|2|
+2-Hovercraft
+3-* Bensen Cascade                 17|7|115/350|2|1|2|2|20/10days|200000|2|
+3-* Bensen Violator                17|4|65/200|1|0|2|2|10/5days|100000|2|
+3-* Chrysler-Nissan G12a           17|4|40/120|4|0|5|2|5/2days|50000|2|
+3-* Dornier Manta                  17|3|60/150|4|0|4|2|8/4days|80000|2|
+3-* GMC-Beachcraft Vacationer      17|4|35/120|4|0|3|3|10/5days|100000|2|
+3-* GMC-Nissan Hovertruck          17|4|40/120|4|0|5|1|10/5days|100000|2|
+3-* MAN Titan                      17|4|40/120|5|0|2|1|14/7days|140000|2|
+3-* MK QuietGlide                  17|4|40/110|4|0|4|2|10/5ays|100000|2|
+3-* Mostrans KVP-14T               17|4|60/180|4|0|3|1|25/12days|250000+|2|
+3-* MosTrans KVT-2                 17|5|35/105|14|30|3|4|9000/3000days|90000000|2|
+3-* Nissan Ford FanMaster          17|5(6)|35/135(3/7)|3|2|4|2|20/10days|200000|2|
+2-Watercraft
+3-Water jet bike
+4-* Suzuki Watersport              17|2|15/45|1|0|3|0|2/1day|12000|1|
+3-Motorboats
+4-* Aztech Nightrunner             17|3|25/75|2|0|4|3|3/1day|30000|1|
+4-* Blohm & Voss Gondola III       17|3|20/50|3|0|3|2|3/1day|32000|1|
+4-* Colorado Craft Cigarette       17|4/5|25/75|2|0|3|2|3/1day|35000|1|
+4-* Dornier-Zeppelin Hecht         17|3|15/40|2|0|4|`|2/1day|18000|1|
+4-* Marine Tech Dolphine II        17|3|15/45|3|0|3|2|5/2days|50000|2|
+4-* Harland & Wolff Classique      17|5|15/45|6|0|2|4|35/17days|3500000|2|
+4-* Samuvani Criscraft Otter       17|4|15/45|2|0|3|2|2/1day|20000|1|
+4-* Vulkan Delphin RQ7             17|4|20/50|4|9|5|1|40/20days|400000|2|
+4-* Vulkan Electronaut             17|4|15/40|3|3|6|1|12/6days|120000|2|
+4-* Zemlya-Poltava Swordsman       17|4|25/75|2|0|5|0|3/1day|30000|1|
+3-Sailboats
+4-* Sendanko Marlin                17|2|20/30|2|0|5|0|2/1day|15000|1|
+2-Winged planes
+3-* Airbus A110                    17|5|420/550|6|0|3|3|90/45days|900000|2|
+3-* Cessna C750                    17|5|340/680|3|0|2|2|20/10days|200000|2|
+3-* Dornier Europa                 17|4|380/580|4|0|3|3|33/16days|330000|2|
+3-* Dornier K2                     17|4|120/300|3|3|6|1|17/8days|170000|2|
+3-* Dornier Wal II                 17|4|320/480|7|0|3|2|85/42days|850000|2|
+3-* Embraer-Dessault Mistral       17|4|300/450|4|0|3|2|37/18days|375000|2|
+3-* Federated Boeing Eagle         17|3|900/1800|5|12|5|3|500/250days|50000000|-|
+3-* Fiat-Fokker Cloud Nine         17|4|300/450|3|0|3|2|17/8days|175000|2|
+3-* Hawker-Ridley HS-895           17|5|400/600|5|0|3|2|250/125days|2500000|2|
+3-* Lear Cessna Platinum I         17|4|400/550|5|0|3|3|50/10days|500000|2|
+3-* Lear Cessna Platinum II        17|5|800/1600|5|3|3|4|150/75days|1500000|2|
+3-* Piper Montebank                17|2|300/500|3|0|3|2|5/2days|50000|2|
+2-Rotorcraft
+3-* Airbus AH 510                  17|5|160/250|6|1|4|3|75/37days|750000|2|
+3-* Augusta-Cierva Plutocrat       17|4|200/450|4|3|4|4|95/47days|950000|2|
+3-* Ares Dragon                    17|5/7|140/320|6|0|3|3|60/30days|600000|2|
+3-* Ares TR-55C Cargoliner         17|5|170/350|4|9|3|3|55/55days|550000|2|
+3-* Ares TR-55E Executive          17|5|170/350|3|0|3|3|65/65days|650000|2|
+3-* Ares TR-55T Traveler           17|5|170/350|3|0|3|3|50/25days|500000|2|
+3-* Bell Boeing V-22B Osprey       17|5|170/510|4|0|3|3|90/45days|900000|2|
+3-* Bell F-152 Aerogyro            17|4|160/480|2|0|4|1|30/15days|300000|2|
+3-* Bell Spy-Eye 18                17|2|185/370|3|1|4|2|50/25days|500000|2|
+3-* Dornier Intercity              17|3|120/200|4|3|4|2|28/14days|280000|2|
+3-* Federated Boeing Commuter      17|5|140/320|3|0|3|3|6/3days|625000|2|
+3-* Hughes Aerospace Airstar       17|4|190/260|4|6|3|4|90/45days|900000|2|
+3-* Hughes WK-2 Stallion           17|5|170/250|4|0|4|3|30/15days|300000|2|
+3-* Hyundai Minicopter             17|4|70/160|1|1|2|1|15/7days|155000|2|
+3-* Messerschmitt Grashoper       17|3|90/200|3|0|4|1|17/8days|170000|2|
+3-* MK Albatross                   17|5|150/280|7|1|3|3|72/36days|720000|2|
+3-* MK Kolibri                     17|4|150/280|4|6|4|2|24/12days|240000|2|
+2-Lighter-than-air craft
+3-* Airbus AL800                   17|4|80/200|10||5|4|200/100days|2000000|2|
+3-* Airship Industries Skyswimmer  17|3|90/180|6|3|8|2|10/5days|100000|2|
+3-* Goodyear Commuter-47           17|3|150/300|8|3|8|2|2/1day|225000|2|
+3-* India Sky-Barge                17|6|40/80|6|6|7|2|1000/500days|10000000|2|
+3-* Luftschiffbau Zeppelin LZ-2049 17|3|100/250|12|6|8|2|9/4days|900000|2|
+3-* "Madison Avenue" Blimp         17|6|20/45|5|1|9|3|250/125days|2500000|2|
+3-* Sky Queen                      17|5|55/135|10|9|7|4|2000/1000days|20000000|2|
+3-* Zeppelin LZ-51/3-mikro         17|3|120/280|6|3|8|2|14/7days|140000|2|
+3-* Zeppeling LZ-2040/mi2          17|3|100/200|13|3|6|2|150/75days|1500000|2|
+2-Orbitals and semi-ballistics
+3-* Arrow HSCT                     17|5|1500/2900|4|3|2|4|1000/500days|10000000|2|
+3-* China Clipper Suborbital       17|5|10k/24k|5|6|1|3|1000/500days|100000000|2|
+3-* Dynamics SV250 Semiballistic   17|6|10k/29k|5|6|1|4|7500/3750days|750000000|2|
+2-Low-altitude vehicles
+3-* Family Flier                   17|5|100/200|3|1|0|2|50/25days|500000|2|
+3-* Ford Aerodyne Jayhawk          17|(4)/(4/8)/(4)|(140/300)/(30/90)/40/120)|2|0|2/4/3|3|24/18days|400000|4|
+3-* Ford LAVT Enforcer             17|(4)/(4/10)/(3)|(160/320)/(30/90)/60/180)|2|3|3/4/4|3|-|800000|-|
+3-* Mach                           17|3|265/665|2|1|2|3|130/65days|1300000|2|
+3-* Mitsubishi Vector              17|(3)/(4/10)/(3)|(160/320)/(30/90)/(60/180)|2|0|2/4/4|4|26/20days|600000|4|
+3-* Swan                           17|5|135/265|3|2|4|3|80/40days|800000|2|
+3-* Tetracorp Fei Lien 100         17|4|300/600|2|3|1|3|129/64days|1290000|2|
+2-Security and military vehicles
+3-Ground vehicles
+4-* Arasaka Riot-VIII              17|4/9|55/160|8|3|1|3|250/125days|250000|2|
+4-* Ares Citymaster                17|4/10|30/120|4|12|2|3|50/25days|500000|2|
+4-* Ares Mobmaster                 17|4/10|30/120|5|15|2|5|365/182days|3650000|2|
+4-* Chrysler-Nissan Patrol-One     17|4/8|60/180|3|6|4|3|10/5days|100000|2|
+4-* Ferrari Appaloosa Light Scout  17|2/3|100/200|3|9|5|2|100/50days|1000000|2|
+4-* General Products COP           17|4/9|30/90|1|3|4|1|2/1day|25000|1|
+4-* GMC MPUV                       17|5/3|40/120|2|9|4|0|2/1day|22000|1|
+4-* Harley Electraglide-1000       17|3/4|95/285|3|6|2|1|7/3days|75000|2|
+4-* LAV-98 "Devil Rat" APC         17|5/3|25/75|3|12|6|2|25/12days|250000|2|
+4-* LAV-103 "Striker" Light Tank   17|6/4|25/75|5|15|6|2|48/24days|480000|2|
+4-* MAN BGS-TF3                    17|4/6|35/140|4|12|2|3|40/20days|400000|2|
+4-* M-62 "Volcano" SAM Launcher    17|3/4|20/55|6|4|5|2|950/475days|9500000|2|
+4-* Mercedes PE Kommando           17|3/6|40/200|3|6|3|2|35/17days|350000|2|
+4-* Ruhrmetall Wolf II AFV         17|3/4|90/180|4|9|4|2|60/30days|600000|2|
+3-Hovercraft
+4-* GMC Beachcraft Patroller       17|4|55/165|4|6|5|2|75/37days|750000|2|
+4-* GMC-Beachcraft Striker         17|4|80/200|4|6|5|2|500/250days|500000|2|
+4-* GMI HovTransport               17|5|65/200|4|4|4|2|720/360days|720000|2|
+4-* Ruhrmetall Orkan LK            17|5|60/140|4|12|4|2|80/40days|800000|2|
+4-* Sikorsky-Bell "Red Ranger" ACV 17|4/6(3/5)|150/450(30/90)|2|6|3(8)|3|25/12days|250000|2|
+3-Boats
+4-* Blohm&Voss River Commander     17|4|25/75|6|9|3|3|30/15days|300000|2|
+4-* Blohm&Voss Type 1322 Korvette  17|4|40/100|7|12|3|4|1500/750days|15000000|2|
+4-* GMC Riverine Assault Model     17|3|30/90|4|6|3|2|12/6days|125000|2|
+4-* GMC Riverine Police Model      17|3|30/90|4|6|3|2|12/6days|150000|2|
+4-* GMC Riverine Security Model    17|3|30/90|4|6|3|2|12/6days|200000|2|
+4-* Surfstar Marine Seacop         17|3|30/90|3|6|3|2|5/2days|50000|1|
+4-* Vulkan Typ 224 Jagd-U-Boot     17|5|30/70|7|12|6|2|1600/800days|16000000|2|
+3-Winged planes
+4-* ATF-37B Thunderhawk            17|3|600/1385|8|2|5|5|1250/625days|12500000|2|
+4-* BAC-Dassault-MBB EFA Variants  17|3|950/1900|4|6|4|3|500/250days|5000000|2|
+4-* C-60 Titan Medium Transport    17|7|150/350|5|12|4|3|70/35days|700000|2|
+4-* CASA J-239 Raven               17|3|200/400|3|0|4|1|17/8days|175000|2|
+4-* EFA 50/IV                      17|3|1000/2000|4|9|6|3|1200/600days|12000000|2|
+4-* Federated Boeing Eagle         17|3|900/1800|5|12|5|3|5000/2500days|50000000|2|
+4-* Fed-Boeing Falcon              17|4|135/400|4|1|4|2|250/125days|2500000|2|
+4-* GD Hummingbird                 17|3|400/800|4|2|2|3|150/75days|1500000|2|
+4-* GF F-36 Comet                  17|1|830/1860|7|2|5|3|450/225days|4500000|2|
+4-* Lockheed-Cessna Pinto          17|3|265/600|6|2|4|2|1050/525days|10500000|2|
+4-* McDonnell Douglas C111         17|4|120/275|3|4|3|3|75/37days|750000|2|
+4-* MDD F-33 Wasp                  17|2|730/1660|8|2|3|3|350/175days|3500000|2|
+4-* Moonlight Aerospace Avenger    17|4|100/200|3|9|8|2|25/12days|250000|2|
+4-* Night Glider                   17|3|15/60|1|0|12|1|4/2days|45000|1|
+3-Rotorcraft
+4-* Aztechnology Aguilar-EX        17|4|280/560|3|6|4(8)|4|260/130days|2600000|2|
+4-* Bell UH-10 PAPC                17|5|90/180|8|4|5|4|185/92days|1850000|2|
+4-* Mil-62                         17|4|240/480|4|8|4|3|190/95days|1900000|2|
+4-* MK Sperber                     17|4|240/430|4|9|4|3|300/150days|3000000|2|
+4-* PRC-42B Wasp                   17|3|65/100|1|0|5|0|22/11days|220000|2|
+4-* PRC-42F Wasp                   17|2|65/100|2|6|7|0|27/13days|274000|2|
+4-* PRC-44B Yellowjacket           17|4|65/100|2|0|5|0|28/14days|280000|2|
+4-* PRC-44F Yellowjacket           17|3|65/100|3|9|7|0|39/19days|390000|2|
+4-* Sikorsky-Mitsubishi Dragon     17|4|280/560|8|9|2|4|500/250days|5000000|2|
+4-* UH-90 Utility/Squad Helicopter 17|4|230/270|4|3|3|3|100/50days|1000000|2|
+3-Low-altitude vehicles
+4-* AV-3 "Aerocop"                 17|4|330/465|4|2|4|3|150/75days|1500000|2|
+4-* AV-4                           17|5|150/450|5|6|3|2|150/75days|1500000|2|
+4-* AV-6                           17|5(4/8)|210/630(80/200)|6|9|3(7)|3|350/175days|3500000|2|
+4-* AV-9                           17|5|270/530|7|5|2|4|3000/1500days|30000000|2|
+4-* Fledermaus PKF-40 Ausf. B      17|3|440/880|3|1|4|4|250/125days|2500000|2|
+4-* GMC Banshee LAV                17|3|650/1000|6|18|5|2|1000/500days|10000000|2|
+4-* Ruhrmetall Behemoth CMBT     17|5|60/320|9|24|3|2|800/400days|8000000|2|
+!
+2-Remotes and drones
+3-Airborne
+4-* Aerodesign Condor LDSD-23      17|5|20/60|1|0|10|1|2/1day|2500|.75|
+4-* Aerodesign Condor II LD SD-41  17|5|30/90|1|3|11|3|4/2days|45000|1|
+4-* Ares Guardian                  17|4/5|30/60|4|12|6|3|8/8days|75000|2|
+4-* Bell "Bumblebee" Rotorcraft    17|5|80/160|1|1|4|2|2/1day|8000|.75|
+4-* CAS Windjina RPV               17|3/5|250/500|5|6|4/8|4|7/3days|75000|2|
+4-* GM-Nissan Spotter              17|3|35/100|2|0|3|2|2/1day|12500|1|
+4-* GM-Nissan Rotordrone           17|4|35/70|2|0|3|2|2/1day|7500|.75|
+4-* Militech RPV-400 Tiltrotor     17|4|140/280|3|3|4|4|15/7days|150000|2|
+3-Ground
+4-* Arasaka RDAK                   17|4|12/36|1|1|18|1|2/1day|12000|1|
+4-* Aztech GCR-23C Crawler         17|4/4|5/15|1|0|4|1|2/1day|1250|.75|
+4-* Cyberspace Designs Dalmation   17|3|35/105|2|0|4|2|2/1day|15000|1|
+4-* Ferret RPD-VI Perimeter Drone  17|3/5|10/30|1|3|8|3|15/7days|154800|2|
+4-* Gaz-Niki GNRD-71 Snooper       17|4/3|25/75|1|0|5|1|2/1day|1750|.75|
+4-* GM-Nissan Doberman             17|3/5|35/70|3|6|3|2|2/1day|10000|1|
+4-* Mitsubishi "Rover" Wheeled     17|6/9|20/60|2|2|3|1|2/1day|9000|.75|
+4-* Sikorsky-Bell Microskimmer     17|5|30/90|2|1|0|1|2/1day|2750|.75|
+4-* Steel Lynx Drone               17|4/6|40/80|4|12|5|2|2/1day|15000|1|
+3-Rail-mounted
+4-* Ares Sentinel P                17|5|10|4|12|6|3|-|60000|-|
+!
+1-Vehicle Gear
+2-Vehicle weapons
+3-* Ares Firelance Vehicle Laser   19|Assault|40|SA|15S|48|GM|300000|GM|
+3-* Autocannon                     19|Cannon|10(c)|SA|12D|45|GM|12000|GM|
+3-* Flechette Gun                  19|MMG|20(c)|SA/FA|9D(f)|45|14/14days|17000|1.5|
+3-* Gauss Gun                      19|Cannon|10(c)|SS|11S|135|-|500000|-|
+3-* Rocket Launcher                19|Assault|6(b)|SS|(Rocket)|15|GM|15000|GM|
+3-* Ruhrmetall GPRL for vehicles   19|Missile|4(m)|SS|(Missile)|10|14/30days|12000|4|
+3-* Ruhrmetall SF20 for vehicles   19|HMG|200(beltbox)|BF/FA|10S|16|18/30days|8500|.5|
+3-* Twin Laser                     19|Sniper|(Special)|SA|18S|340|-|700000|-|
+3-* Vanquisher Minigun             19|HMG|100|FA|10S|45|GM|75000|GM|
+3-* Vangeance Minigun              19|HMG|100|FA|9S|30|GM|50000|GM|
+3-* Vehicular Shotgun              19|Shotgun|10(c)|SA|9S|8.5|8/72hrs|2500|1.75|
+3-* Victory Rotary Assault Cannon  19|Cannon|50|FA|18D|90|GM|90000|GM|
+3-* Vigilant Rotary Autocannon     19|Cannon|25|FA|20D|60|GM|125000|GM|
+3-* Water Cannon                   19|"Shotgun"|40|"SA"|6M Stun|12|GM|20000|GM|
+2-Rigger and vehicle gear
+3-Special Gear
+4-* Remote Control Gear            18|4/72hrs|2500xBody|2|
+4-* Vehicle Control Gear           18|4/7days|2800|2|
+4-* Remote Control Deck            18|4/72hrs|2|
+3-Vehicle smoke generator
+4-* Charges for Smokegen. (6)      18|4/72hrs|700|2|
+4-* Charges for Smokegen. (12)     18|4/7days|1000|2|
+3-Ablative vehicle armor
+4-* Abl. Vehicle Armor Level 1     18|8/14days|700|2|
+4-* Abl. Vehicle Armor Level 2     18|12/14days|1600|2|
+4-* Abl. Vehicle Armor Level 3     18|14/21days|2500|2|
+3-Ares Sentinel weapons pods
+4-* Sentinel Pod I                 18|5/1week|3000|2|
+4-* Sentinel Pod II                18|6/1week|3500|2|
+4-* Sentinel Pod III               18|6/2weeks|5000|2|
+4-* Sentinel Pod IV                18|8/2weeks|7500|2|
+3-Vehicle modifications
+4-Standard accessories
+5-* APPS (per seat)                23|2500|Facility|1|
+5-* Anti-Theft System Level 1      16|100|
+5-* Anti-Theft System Level 2      16|200|
+5-* Anti-Theft System Level 3      16|300|
+5-* Anti-Theft System Level 4      16|1600|
+5-* Anti-Theft System Level 5      16|2000|
+5-* Anti-Theft System Level 6      16|2400|
+5-* Anti-Theft System Level 7      16|7000|
+5-* Anti-Theft System Level 8      16|8000|
+5-* Anti-Theft System Level 9      16|9000|
+5-* Anti-Theft System Level 10     16|50000|
+5-* Autopilot Rating 1             23|BODY x 500|Facility|0|
+5-* Autopilot Rating 2             23|BODY x 5000|Facility|0|
+5-* Autopilot Rating 3             23|BODY x 10000|Facility|0|
+5-* Autopilot Rating 4             23|BODY x 25000|Facility|0|
+5-* Bench Seat                     23|750|Shop|5|
+5-* Bench Seat, Folding            23|50|Shop|5|
+5-* Boat Hull Modification         23|BODY x 500|Facility|0|
+5-* Bucket Seat                    23|700|Shop|5|
+5-* Bucket Seat, Big               23|750|Shop|6|
+5-* Convertible Top                23|2500 + 10% of vehicle|Shop|0|
+5-* Crash Cage                     23|3500|Shop|7|
+5-* Crash Cage, Big                23|4000|Shop|8|
+5-* Datajack Link                  23|2500|Facility|2|
+5-* EnviroSeal (Gas)               23|BODY x 250|Facility|1|
+5-* EnviroSeal (Water)             23|BODY x 750|Facility|1|
+5-* EnviroSeal (Engine)            23|BODY x 1000|Facility|1|
+5-* External Luggage/Cargo(per CF) 23|250|Shop|0|
+5-* Flotation Package (Aircraft)   23|10% of vehicle cost|Facility|2|
+5-* GridLink Power                 23|600|Facility|3|
+5-* Headlights, Swivel Mounts      23|1250|Shop|0|
+5-* Headlights, Whitelight Lamps   23|500|Shop|0|
+5-* Life Support (10 man-hours)    23|1500|Shop|1|
+5-* Reinforced Seating             23|250|Shop|1|
+5-* Roll Bars                      23|2000|Shop|2|
+5-* Secondary Controls             23|400|Facility|2|
+5-* Sidecar (Bike Body = 1)        16|1000|
+5-* Sidecar (Bike Body = 2)        16|2000|
+5-* Sidecar (Bike Body = 3)        16|3500|
+5-* SunCell Power                  23|500|Shop|1|
+4-Tires (per tire)
+5-* Standard Tires                 16|BODY x 50|
+5-* Performance Tires              16|BODY x 75|
+5-* Off-road Tires                 16|BODY x 125|
+5-* Dual-Purpose Tires             16|BODY x 250|
+5-* Standard Tires, Runflat        16|BODY x 250|
+5-* Performance Tires, Runflat     16|BODY x 275|
+5-* Off-road Tires, Runflat        16|BODY x 325|
+5-* Dual-Purpose Tires, Runflat    16|BODY x 450|
+4-Special accessories
+5-* Amphibious Package, Level 1    23|2500|Facility|0|
+5-* Amphibious Package, Level 2    23|7500|Facility|2|
+5-* Amphibious Package, Level 3    23|15000|Facility|3|
+5-* Bucket Seat, Ejection          23|3000|Facility|8|
+5-* Drone Rack                     23|BODY x 1000|-|Drone's CF +2|
+5-* Integrated Controls            23|1500|Facility|2|
+5-* Rigger Control Gear            23|BODY x 2500|Facility|2(6)|
+4-Sensors
+5-* Vehicle Sensors Level 0        23|0|-|0|
+5-* Vehicle Sensors Level 1        23|5000|-|0|
+5-* Vehicle Sensors Level 2        23|15000|-|1|
+5-* Vehicle Sensors Level 3        23|45000|-|2|
+5-* Vehicle Sensors Level 4        23|120000|-|1|
+5-* Vehicle Sensors Level 5        23|360000|-|2|
+5-* Vehicle Sensors Level 6        23|1250000|-|3|
+5-* Vehicle Sensors Level 7        23|3000000|-|4|
+4-ECM/ECCM
+5-* ECM Level 1                    23|25000|-|1|
+5-* ECM Level 2                    23|75000|-|2|
+5-* ECM Level 3                    23|225000|-|4|
+5-* ECM Level 4                    23|800000|-|2|
+5-* ECM Level 5                    23|2400000|-|3|
+5-* ECM Level 6                    23|6000000|-|4|
+5-* ECCM Level 1                   23|20000|-|2|
+5-* ECCM Level 2                   23|70000|-|3|
+5-* ECCM Level 3                   23|190000|-|5|
+5-* ECCM Level 4                   23|700000|-|3|
+5-* ECCM Level 5                   23|2000000|-|4|
+5-* ECCM Level 6                   23|5000000|-|5|
+4-Weapon mounts
+5-* Firmpoint                      23|750|-|1|
+5-* Hardpoint, Single Centerline   23|1000|-|2|
+5-* Hardpoint, Dual Centerline     23|1750|-|3|
+5-* Hardpoint, Wing/Fairing        23|750|-|.5|
+5-* External Micro Turret          23|5000|-|2|
+5-* External Small Turret          23|7500|-|3|
+5-* External Medium Turret         23|15000|-|4|
+5-* Pop-Up Remote Micro Turret     23|18000|-|2|
+5-* Pop-Up Remote Small Turret     23|27000|-|4|
+5-* Pop-Up Remote Medium Turret    23|52500|-|6|
+5-* Remote Micro Turret            23|6000|-|1|
+5-* Remote Small Turret            23|9000|-|2|
+5-* Remote Medium Turret           23|17500|-|3|
+5-* Pop-Up Micro Turret            23|15000|-|4|
+5-* Pop-Up Small Turret            23|22500|-|6|
+5-* Pop-Up Medium Turret           23|45000|-|8|
+5-* External Rack Mount(1 missile) 23|1000|-|0|
+5-* Pintle Mount                   23|50|-|0|
+5-* Ring Mount                     23|1500|-|0|
+5-* Ring Mount with Hatch          23|2000|-|0|
+5-* Ring Mount, Open-top Variant   23|3000|-|1|
+!
+1-Contacts
+2-Corporate
+3-* Contact: Combat Mage           16|5000|
+3-* Contact: Company Man           16|5000|
+3-* Contact: Corporate Decker      16|5000|
+3-* Contact: Corporate Hitman      16|5000|
+3-* Contact: Corporate Official    16|5000|
+3-* Contact: Corporate Rigger      16|5000|
+3-* Contact: Corporate Scientist   16|5000|
+3-* Contact: Corporate Secretary   16|5000|
+3-* Contact: Corporate Wage Slave  16|5000|
+3-* Contact: Cyber Assassin        16|5000|
+3-* Contact: Cyber Logician        16|5000|
+3-* Contact: Firefighter           16|5000|
+3-* Contact: Mr. Johnson           16|5000|
+2-Criminal
+3-* Contact: Elf Poser-Gang Member 16|5000|
+3-* Contact: Elven Hitman          16|5000|
+3-* Contact: Gang Boss             16|5000|
+3-* Contact: Gang Member           16|5000|
+3-* Contact: Mafia Don             16|5000|
+3-* Contact: Mafia Soldier         16|5000|
+3-* Contact: Ogre Enforcer         16|5000|
+3-* Contact: Snitch                16|5000|
+3-* Contact: Yakuza Boss           16|5000|
+2-Government/Military/Mercenary
+3-* Contact: City Official         16|5000|
+3-* Contact: Dwarf Mercenary       16|5000|
+3-* Contact: Government Agent      16|5000|
+3-* Contact: Government Official   16|5000|
+3-* Contact: Mercenary             16|5000|
+3-* Contact: MET-2000-Offizierin   16|5000|
+3-* Contact: Metroplex Guardsman   16|5000|
+3-* Contact: Peace Force Bordergrd 16|5000|
+3-* Contact: Ork Mercenary         16|5000|
+3-* Contact: Special Forces Troopr 16|5000|
+2-Magical
+3-* Contact: Burned-Out Mage       16|5000|
+3-* Contact: Dwarf Fortuneteller   16|5000|
+3-* Contact: Elf Mage              16|5000|
+3-* Contact: Elf Magic Cult Priest 16|5000|
+3-* Contact: Immigrant Str. Priest 16|5000|
+3-* Contact: Magiedoktor           16|5000|
+3-* Contact: Magieprofessor        16|5000|
+3-* Contact: Magiestudent          16|5000|
+3-* Contact: Ork Hermetic Mage     16|5000|
+3-* Contact: Ork Shaman            16|5000|
+3-* Contact: Shaman                16|5000|
+3-* Contact: Stadthexe             16|5000|
+3-* Contact: Street Mage           16|5000|
+3-* Contact: Street Shaman         16|5000|
+3-* Contact: Talismonger           16|5000|
+3-* Contact: Weise Frau            16|5000|
+3-* Contact: Wiz Kid Mage          16|5000|
+2-Media/Entertainment
+3-* Contact: Bartender             16|5000|
+3-* Contact: Club Habitue          16|5000|
+3-* Contact: Club Owner            16|5000|
+3-* Contact: Fan                   16|5000|
+3-* Contact: Media Producer        16|5000|
+3-* Contact: Media Entrepeneur     16|5000|
+3-* Contact: Newsman               16|5000|
+3-* Contact: Reporter              16|5000|
+3-* Contact: Rocker                16|5000|
+3-* Contact: Sasquatch Entertainer 16|5000|
+3-* Contact: Simsense Star         16|5000|
+3-* Contact: Talentsucher          16|5000|
+3-* Contact: Troll Bouncer         16|5000|
+2-Police/Security
+3-* Contact: Corp. Security Guard  16|5000|
+3-* Contact: Exec Protection Adept 16|5000|
+3-* Contact: Exec Prot. Decker     16|5000|
+3-* Contact: Exec Protection Mage  16|5000|
+3-* Contact: Exec Prot. Rigger     16|5000|
+3-* Contact: Exec Prot. Specialist 16|5000|
+3-* Contact: Freelance Exec Prot.  16|5000|
+3-* Contact: Freelance Magic Sec.  16|5000|
+3-* Contact: Freelance Sec. Decker 16|5000|
+3-* Contact: Investigator          16|5000|
+3-* Contact: Magical Sec. Engineer 16|5000|
+3-* Contact: Magical Sec. Special. 16|5000|
+3-* Contact: Personnel Sec. Spec.  16|5000|
+3-* Contact: Plain Clothes Cop     16|5000|
+3-* Contact: Security Commander    16|5000|
+3-* Contact: Security Decker       16|5000|
+3-* Contact: Sec. Design Engineer  16|5000|
+3-* Contact: Security Executive    16|5000|
+3-* Contact: Security Guard        16|5000|
+3-* Contact: Security Mage         16|5000|
+3-* Contact: Security Officer      16|5000|
+3-* Contact: Security Rigger       16|5000|
+3-* Contact: Sec.: Animal Handler  16|5000|
+3-* Contact: Sec.: Fast Response   16|5000|
+3-* Contact: Street Cop            16|5000|
+2-Street
+3-* Contact: Bladeboy              16|5000|
+3-* Contact: Combat Decker         16|5000|
+3-* Contact: Corp Hunter           16|5000|
+3-* Contact: Cyber Ninja           16|5000|
+3-* Contact: Cyber Runner          16|5000|
+3-* Contact: Cyberzombie           16|5000|
+3-* Contact: Decker                16|5000|
+3-* Contact: Dwarf Street Samurai  16|5000|
+3-* Contact: Elven Decker          16|5000|
+3-* Contact: Elven Street Samurai  16|5000|
+3-* Contact: Ex-Journalist         16|5000|
+3-* Contact: Former Company Man    16|5000|
+3-* Contact: Former Corp. Decker   16|5000|
+3-* Contact: Former Corporate Spy  16|5000|
+3-* Contact: Former DocWagoneer    16|5000|
+3-* Contact: Former Espionage Agnt 16|5000|
+3-* Contact: Former Mage Detective 16|5000|
+3-* Contact: Former Milit. Officer 16|5000|
+3-* Contact: Former Simsense Star  16|5000|
+3-* Contact: Former Tribal Warrior 16|5000|
+3-* Contact: Former Troll Bnty Hnt 16|5000|
+3-* Contact: Former Wage Mage      16|5000|
+3-* Contact: Ninja                 16|5000|
+3-* Contact: Ork Street Samurai    16|5000|
+3-* Contact: Rigger                16|5000|
+3-* Contact: Six-Million Nuyen Sam 16|5000|
+3-* Contact: Squatter              16|5000|
+3-* Contact: Street Kid            16|5000|
+3-* Contact: Street Operator       16|5000|
+3-* Contact: Street Rigger         16|5000|
+3-* Contact: Street Samurai        16|5000|
+3-* Contact: Street Slick/Homeboy  16|5000|
+3-* Contact: Subway-Jockey         16|5000|
+3-* Contact: Thief                 16|5000|
+3-* Contact: Troll Street Samurai  16|5000|
+2-Tribal
+3-* Contact: Tribal Chief          16|5000|
+3-* Contact: Tribesman             16|5000|
+2-Other
+3-* Contact: Armorer               16|5000|
+3-* Contact: Autoduellistin        16|5000|
+3-* Contact: Bodyguard             16|5000|
+3-* Contact: College Dropout       16|5000|
+3-* Contact: Courier               16|5000|
+3-* Contact: Dealer                16|5000|
+3-* Contact: Deckmeister           16|5000|
+3-* Contact: Detective             16|5000|
+3-* Contact: Dock Worker           16|5000|
+3-* Contact: Dwarf Technician      16|5000|
+3-* Contact: Fixer                 16|5000|
+3-* Contact: Humanis Member        16|5000|
+3-* Contact: Jack Of All Trades    16|5000|
+3-* Contact: Mage Hunter (Dwarf)   16|5000|
+3-* Contact: Mechanic              16|5000|
+3-* Contact: Metahuman Rights Act. 16|5000|
+3-* Contact: Metamenschen-Adliger  16|5000|
+3-* Contact: Nachtmachen Member    16|5000|
+3-* Contact: Nurse                 16|5000|
+3-* Contact: O.R.C. Member         16|5000|
+3-* Contact: ecoterrorist          16|5000|
+3-* Contact: Outcast Tir Noble     16|5000|
+3-* Contact: Paramedic             16|5000|
+3-* Contact: Pedestrian (Dwarf)    16|5000|
+3-* Contact: Pedestrian (Elf)      16|5000|
+3-* Contact: Pedestrian (Human)    16|5000|
+3-* Contact: Pedestrian (Ork)      16|5000|
+3-* Contact: Pedestrian (Troll)    16|5000|
+3-* Contact: Saboteur              16|5000|
+3-* Contact: Superhero             16|5000|
+3-* Contact: Store Owner           16|5000|
+3-* Contact: Street Doc            16|5000|
+3-* Contact: Taxi Driver           16|5000|
+3-* Contact: Technician            16|5000|
+3-* Contact: Terrorist             16|5000|
+3-* Contact: Tir Noble             16|5000|
+3-* Contact: Witchhunter           16|5000|
+3-* Contact: Zocker                16|5000|
+2-Special
+3-* Buddy                          16|10000|
+3-* Gang                           16|50000|
+3-* Tribe                          16|50000|
+3-* Followers                      16|200000|
+!
