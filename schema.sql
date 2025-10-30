@@ -54,7 +54,10 @@ CREATE TABLE IF NOT EXISTS characters (
     -- METADATA
     notes TEXT,
     created_at TIMESTAMP DEFAULT NOW(),
-    updated_at TIMESTAMP DEFAULT NOW()
+    updated_at TIMESTAMP DEFAULT NOW(),
+    
+    -- UI STATE
+    ui_state JSONB DEFAULT '{}'::jsonb
 );
 
 CREATE INDEX IF NOT EXISTS idx_characters_name ON characters(name);
@@ -282,6 +285,7 @@ COMMENT ON TABLE character_active_effects IS 'Temporary/sustained effects (spell
 COMMENT ON TABLE character_gear IS 'Physical equipment with modifications';
 COMMENT ON TABLE house_rules IS 'Custom campaign rules and homebrew content';
 
+COMMENT ON COLUMN characters.ui_state IS 'UI preferences and state for character sheet display';
 COMMENT ON COLUMN character_modifiers.modifier_data IS 'JSONB for complex effects (smartlink abilities, conditional bonuses, etc.)';
 COMMENT ON COLUMN character_modifiers.source_type IS 'Category of modifier source (cyberware, bioware, spell, gear, training)';
 COMMENT ON COLUMN character_modifiers.is_homebrew IS 'Flag for GM-created/house rule content';

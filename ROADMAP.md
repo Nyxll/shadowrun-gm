@@ -306,7 +306,57 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ## Phase 11: Game Server & UI Integration 🚧 IN PROGRESS
 
-### 11.1 Campaign Integration with Grok-4 ⏳
+### 11.1 Spellcasting System Implementation ✅ COMPLETED
+**Status:** Fully Implemented and Tested  
+**Documentation:** `docs/SPELLCASTING-SPEC.md`, `docs/SPELLCASTING-COMPLETE.md`
+
+#### Phase 11.1.1: Core Mechanics (MVP) ✅
+- [x] Implement `cast_spell()` method in `lib/mcp_operations.py`
+- [x] Create master_spells table (migration 021)
+- [x] Import 108 spells from SPELLS.csv
+- [x] Implement DrainFormulaParser (handles all SR2 formulas)
+- [x] Implement SpellcastingEngine with complete casting flow
+- [x] Force validation against learned_force
+- [x] Drain calculation with formula parsing
+- [x] Willpower resistance rolls with Rule of 6
+- [x] Damage calculation (drain - successes)
+- [x] Comprehensive test suite (all tests passing)
+- [x] Link character spells to master_spells database
+
+**Completed:** 2025-10-28
+
+#### Phase 11.1.2: Totem & Foci Support
+- [ ] Implement totem bonus/penalty system (+2/-2 dice)
+- [ ] Power foci integration (adds to Magic Pool)
+- [ ] Spell foci support (specific & category)
+- [ ] Fetish requirements and dice
+- [ ] Enhanced dice pool calculation with all modifiers
+
+**Estimated Effort:** 2 days
+
+#### Phase 11.1.3: Spell Effects & Sustained Spells
+- [ ] Combat spell damage calculation (Force + net successes)
+- [ ] Detection spell information levels
+- [ ] Health spell healing mechanics
+- [ ] Illusion spell resistance
+- [ ] Manipulation spell control
+- [ ] Sustained spell tracking in `character_active_effects`
+- [ ] Active effects creation and management
+
+**Estimated Effort:** 3-4 days
+
+#### Phase 11.1.4: Advanced Features (Future)
+- [ ] Metamagic: Shielding
+- [ ] Metamagic: Reflecting
+- [ ] Metamagic: Centering
+- [ ] Spell stacking (+2 TN per stacked spell)
+- [ ] Multiple targets (split Force dice)
+- [ ] Background count effects
+- [ ] Attuned power sites
+
+**Estimated Effort:** 4-5 days
+
+### 11.2 Campaign Integration with Grok-4 ⏳
 - [ ] Add campaign context injection to Grok-4 system prompt
 - [ ] Implement dual-output pattern (narrative + state updates)
 - [ ] Build campaign API endpoints in game-server.py
@@ -318,7 +368,7 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 - [ ] Test campaign state management during gameplay
 - [ ] Validate NPC context in AI responses
 
-### 11.2 UI Components for Campaign Management ⏳
+### 11.3 UI Components for Campaign Management ⏳
 - [ ] Create campaign creation modal
 - [ ] Add campaign loading/selection interface
 - [ ] Display active NPCs in sidebar
@@ -327,7 +377,7 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 - [ ] Implement session linking to campaigns
 - [ ] Add NPC quick-add from chat
 
-### 11.3 Combat System Enhancement ⏳
+### 11.4 Combat System Enhancement ⏳
 - [ ] Expand ranged attack UI
   - [ ] Visual range calculator
   - [ ] Modifier breakdown display
@@ -342,7 +392,7 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
   - [ ] Action tracking
   - [ ] Wound modifiers
 
-### 11.4 Character Sheet Enhancements ⏳
+### 11.5 Character Sheet Enhancements ⏳
 - [ ] Complete character sheet renderer
   - [ ] Add spell list display
   - [ ] Add bound spirits display
@@ -360,7 +410,7 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
   - [ ] Cyberdeck programs and MPCP
   - [ ] Drone control interface
 
-### 11.5 Testing & Validation ⏳
+### 11.6 Testing & Validation ⏳
 - [ ] End-to-end gameplay testing
 - [ ] Campaign state persistence testing
 - [ ] Multi-character combat testing
@@ -369,7 +419,159 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 12: Setting & Lore Database ⏳ FUTURE
+## Phase 12: Documentation Cleanup 📚 HIGH PRIORITY
+
+### 12.1 Documentation Audit & Consolidation ⏳
+**Goal:** Reduce 50+ markdown files to essential documentation
+
+**ULTRATHINK REQUIRED:** The docs/ directory has become cluttered with:
+- Status reports from every phase (PHASE-1-COMPLETE.md, PHASE-2-COMPLETE.md, etc.)
+- Multiple overlapping guides (SCHEMA-FIX-GUIDE.md, SCHEMA-FIX-PLAN.md, SCHEMA-FIX-STATUS.md)
+- Obsolete implementation plans
+- Duplicate reference documents
+
+#### Documentation Categories
+- [ ] **Core Documentation** (Keep & Update)
+  - README.md - Project overview
+  - SETUP.md - Installation guide
+  - ARCHITECTURE.md - System architecture
+  - ROADMAP.md - Development roadmap
+  - .clinerules - AI assistant rules
+  
+- [ ] **Reference Documentation** (Keep & Update)
+  - docs/MCP-TOOLS-REFERENCE.md - MCP tool documentation
+  - docs/ORCHESTRATOR-REFERENCE-V2.md - Orchestrator guide
+  - docs/UI-REFERENCE.md - UI component reference
+  - schema.sql - Authoritative database schema
+  
+- [ ] **Implementation Guides** (Consolidate)
+  - Merge all SPELLCASTING-*.md → docs/guides/SPELLCASTING-GUIDE.md
+  - Merge all SCHEMA-*.md → docs/guides/SCHEMA-GUIDE.md
+  - Merge all CRUD-*.md → docs/guides/CRUD-API-GUIDE.md
+  - Create docs/guides/TESTING-GUIDE.md
+  - Create docs/guides/TOOL-DEVELOPMENT-GUIDE.md
+
+- [ ] **Archive** (Move to docs/archive/)
+  - All PHASE-*-COMPLETE.md files
+  - All *-STATUS.md files (except FINAL-STATUS-REPORT.md)
+  - All *-PLAN.md files (except CLEANUP-MASTER-PLAN.md)
+  - All obsolete implementation docs
+
+#### Consolidation Strategy
+```
+docs/
+├── README.md (project overview)
+├── MCP-TOOLS-REFERENCE.md (keep)
+├── ORCHESTRATOR-REFERENCE-V2.md (keep)
+├── UI-REFERENCE.md (keep)
+├── FINAL-STATUS-REPORT.md (keep - current state)
+├── CLEANUP-MASTER-PLAN.md (keep - active work)
+├── guides/
+│   ├── SETUP-GUIDE.md (installation & configuration)
+│   ├── SPELLCASTING-GUIDE.md (consolidated)
+│   ├── SCHEMA-GUIDE.md (consolidated)
+│   ├── CRUD-API-GUIDE.md (consolidated)
+│   ├── TESTING-GUIDE.md (new)
+│   └── TOOL-DEVELOPMENT-GUIDE.md (new)
+└── archive/
+    ├── phase-reports/ (all PHASE-*.md)
+    ├── status-reports/ (all *-STATUS.md)
+    ├── implementation-plans/ (all *-PLAN.md)
+    └── obsolete/ (outdated docs)
+```
+
+**Estimated Reduction: 50+ files → 15 files (70% reduction)**
+
+---
+
+## Phase 13: Tool Cleanup & Test Infrastructure 🔧 HIGH PRIORITY
+
+### 13.1 Tool Consolidation & Refactoring ⏳
+**Goal:** Reduce duplication, improve maintainability
+
+#### Audit & Categorization
+- [ ] Audit all Python scripts in `/tools/`
+- [ ] Identify duplicate functionality
+- [ ] Document tool dependencies
+- [ ] Create tool inventory spreadsheet
+
+#### Reorganization
+- [ ] Create `/tools/import/` - Data import scripts
+- [ ] Create `/tools/check/` - Validation/diagnostic scripts
+- [ ] Create `/tools/fix/` - Repair/migration scripts
+- [ ] Create `/tools/test/` - Test utilities
+- [ ] Move scripts to appropriate categories
+- [ ] Update all import paths
+
+#### Consolidation
+- [ ] Merge duplicate database connection patterns
+- [ ] Create shared utilities library (`/tools/lib/`)
+  - [ ] `db_utils.py` - Database connection helpers
+  - [ ] `logging_utils.py` - Standardized logging
+  - [ ] `validation_utils.py` - Common validation patterns
+- [ ] Refactor scripts to use shared utilities
+- [ ] Remove obsolete scripts (archive first)
+
+#### Documentation
+- [ ] Create `/tools/README.md` with tool catalog
+- [ ] Document each tool's purpose and usage
+- [ ] Add examples for common workflows
+- [ ] Create troubleshooting guide
+
+**Estimated Effort:** 3-4 days
+
+### 12.2 Test Suite Infrastructure ⏳
+**Goal:** Prevent database locking, enable parallel testing
+
+#### Test Isolation
+- [ ] Create separate test database configuration
+- [ ] Implement transaction-based test isolation
+  - [ ] Begin transaction before each test
+  - [ ] Rollback after each test
+  - [ ] Prevent permanent data changes
+- [ ] Add test data fixtures
+- [ ] Create test database reset script
+
+#### Test Runner
+- [ ] Create unified test runner (`tests/run_all_tests.py`)
+- [ ] Implement sequential execution (no parallel)
+- [ ] Add test categorization:
+  - [ ] Unit tests (fast, no DB)
+  - [ ] Integration tests (with DB)
+  - [ ] End-to-end tests (full system)
+- [ ] Add test filtering by category
+- [ ] Implement proper cleanup between tests
+- [ ] Add comprehensive reporting
+
+#### Test Organization
+- [ ] Reorganize tests by category
+  - [ ] `/tests/unit/` - Pure logic tests
+  - [ ] `/tests/integration/` - Database tests
+  - [ ] `/tests/e2e/` - Full system tests
+- [ ] Create test base classes with common setup
+- [ ] Add test utilities for common operations
+- [ ] Document testing best practices
+
+#### CI/CD Preparation
+- [ ] Create test database Docker container
+- [ ] Add GitHub Actions workflow (future)
+- [ ] Create test coverage reporting
+- [ ] Add performance benchmarks
+
+**Estimated Effort:** 4-5 days
+
+### 12.3 Code Quality Improvements ⏳
+- [ ] Add type hints to Python code
+- [ ] Implement linting (pylint, flake8)
+- [ ] Add code formatting (black)
+- [ ] Create pre-commit hooks
+- [ ] Document coding standards
+
+**Estimated Effort:** 2-3 days
+
+---
+
+## Phase 13: Setting & Lore Database ⏳ FUTURE
 
 ### 12.1 Schema Design ⏳
 - [ ] Design lore_content table
@@ -394,7 +596,7 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ---
 
-## Phase 13: Advanced AI Features ⏳ FUTURE
+## Phase 14: Advanced AI Features ⏳ FUTURE
 
 ### 13.1 AI Enhancements ⏳
 - [ ] Add rule interpretation assistance
@@ -448,15 +650,24 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 
 ### 🎯 Current Priorities
 
-**IMMEDIATE: Character Data Quality & Documentation (Phase 11.6)**
+**IMMEDIATE: CRUD API & MCP Operations (Phase 11.6)**
 - [x] Migration 019: Audit system with users table
-- [x] Python CRUD API (`lib/character_crud_api.py`) with audit logging
+- [x] Migration 020: Fix character_powers UUID
+- [x] Python CRUD API (`lib/comprehensive_crud.py`) with full schema compliance
+- [x] All schema mismatches fixed (11 tables)
+- [x] Karma & Nuyen management functions added
 - [x] Hybrid Search (`lib/hybrid_search.py`) for RAG supplementation
 - [x] Updated MCP-TOOLS-REFERENCE.md (added Python libraries section)
-- [x] Created comprehensive CRUD test suite (`tests/test-crud-api.py`)
-- [ ] **FIX: Character import script to parse spell force correctly**
-- [ ] **FIX: Re-import Oak/Simon Stalman with correct spell forces**
-- [ ] **FIX: Test case - Oak is Oak shaman with Oak totem (not Manticore/Bear)**
+- [x] Created comprehensive CRUD test suite (45+ operations tested)
+- [ ] **TODO: Split magical items (foci, fetishes, talismans) from gear table**
+  - [ ] Create character_magical_items table
+  - [ ] Migrate foci/fetishes/talismans from gear
+  - [ ] Update CRUD API with magical item operations
+  - [ ] Update UI to display magical items separately
+- [ ] **IN PROGRESS: Update MCP operations to use new CRUD API**
+  - [ ] Update lib/mcp_operations.py to use comprehensive_crud.py
+  - [ ] Add karma/nuyen management MCP tools
+  - [ ] Test all MCP operations with new CRUD backend
 - [ ] **UPDATE: docs/ORCHESTRATOR-REFERENCE.md**
 - [ ] **UPDATE: docs/UI-REFERENCE.md**
 - [ ] **UPDATE: README.md with architecture overview**
@@ -528,9 +739,18 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
 27. ✅ get_campaign_npcs - Retrieve NPCs by relevance or location
 
 ### Magic & Spellcasting Tools (1) ✅
-28. ✅ cast_spell - Full spellcasting with drain, totem bonuses, and foci
+28. ✅ cast_spell - Full spellcasting with drain calculation and resistance
 
 **Total Tools:** 28 implemented
+
+**Latest Addition (2025-10-28):**
+- ✅ cast_spell - Complete Shadowrun 2nd Edition spellcasting mechanics
+  - Drain formula parsing (all SR2 formulas supported)
+  - Force validation and variable-force spell handling
+  - Willpower resistance rolls with Rule of 6
+  - Damage calculation (drain - successes)
+  - Integration with master_spells database (108 spells)
+  - Comprehensive test coverage
 
 ---
 

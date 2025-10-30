@@ -170,9 +170,11 @@ class CharacterSheetRenderer {
                         ${this.statBox('Charisma', formatAttr('charisma'))}
                         ${this.statBox('Intelligence', formatAttr('intelligence'))}
                         ${this.statBox('Willpower', formatAttr('willpower'))}
-                        ${this.statBox('Essence', formatAttr('essence'))}
-                        ${char.current_magic ? this.statBox('Magic', formatAttr('magic')) : ''}
                         ${this.statBox('Reaction', formatAttr('reaction'))}
+                        ${this.statBox('Initiative', char.initiative || 'N/A')}
+                        ${this.statBox('Essence', formatAttr('essence'))}
+                        ${char.body_index_current ? this.statBox('Body Index', `${char.body_index_current}/${char.body_index_max}`) : ''}
+                        ${char.current_magic ? this.statBox('Magic', formatAttr('magic')) : ''}
                     </div>
                 </div>
             </div>
@@ -196,8 +198,6 @@ class CharacterSheetRenderer {
                         ${char.karma_available ? this.statBox('Karma Available', char.karma_available) : ''}
                         ${char.lifestyle ? this.statBox('Lifestyle', this.formatLifestyle(char)) : ''}
                         ${char.essence_hole ? this.statBox('Essence Hole', char.essence_hole) : ''}
-                        ${char.body_index_current ? this.statBox('Body Index', `${char.body_index_current}/${char.body_index_max}`) : ''}
-                        ${this.statBox('Initiative', char.initiative || 'N/A')}
                     </div>
                 </div>
             </div>
@@ -406,37 +406,26 @@ class CharacterSheetRenderer {
     }
     
     renderCyberware() {
-        // CRUD API returns modifiers array - filter for cyberware
-        const modifiers = this.characterData.modifiers || [];
-        const cyberware = modifiers.filter(m => m.source_type === 'cyberware');
+        // Use pre-grouped cyberware array from backend
+        const cyberware = this.characterData.cyberware || [];
         
         const cyberItems = cyberware.map(item => {
-            // Extract effects from modifier_data JSONB
-            const modData = item.modifier_data || {};
-            const effects = modData.special_abilities || [];
-            
             // Format effects as bullet list
+            const effects = item.effects || [];
             const effectsList = effects.length > 0 
-                ? effects.map(effect => `<li>${effect}</li>`).join('')
+                ? `<ul class="item-effects">${effects.map(e => `<li>${e}</li>`).join('')}</ul>`
                 : '';
-            
-            // Build details
-            let details = [];
-            if (item.modifier_value) {
-                details.push(`${item.target_name}: ${item.modifier_value > 0 ? '+' : ''}${item.modifier_value}`);
-            }
             
             return `
                 <div class="list-item">
                     <div>
-                        <div class="item-name">${item.source}</div>
-                        ${details.length > 0 ? `<div class="item-details">${details.join(' • ')}</div>` : ''}
-                        ${effectsList ? `<ul class="item-effects">${effectsList}</ul>` : ''}
+                        <div class="item-name">${item.name}</div>
+                        ${effectsList}
                     </div>
-                    ${modData.essence_cost ? `<span class="item-rating">${modData.essence_cost} ESS</span>` : ''}
+                    ${item.essence_cost ? `<span class="item-rating">${item.essence_cost} ESS</span>` : ''}
                 </div>
             `;
-        }).join('\n');
+        }).join('');
         
         return `
             <div class="sheet-section">
@@ -452,37 +441,26 @@ class CharacterSheetRenderer {
     }
     
     renderBioware() {
-        // CRUD API returns modifiers array - filter for bioware
-        const modifiers = this.characterData.modifiers || [];
-        const bioware = modifiers.filter(m => m.source_type === 'bioware');
+        // Use pre-grouped bioware array from backend
+        const bioware = this.characterData.bioware || [];
         
         const bioItems = bioware.map(item => {
-            // Extract effects from modifier_data JSONB
-            const modData = item.modifier_data || {};
-            const effects = modData.special_abilities || [];
-            
             // Format effects as bullet list
+            const effects = item.effects || [];
             const effectsList = effects.length > 0 
-                ? effects.map(effect => `<li>${effect}</li>`).join('')
+                ? `<ul class="item-effects">${effects.map(e => `<li>${e}</li>`).join('')}</ul>`
                 : '';
-            
-            // Build details
-            let details = [];
-            if (item.modifier_value) {
-                details.push(`${item.target_name}: ${item.modifier_value > 0 ? '+' : ''}${item.modifier_value}`);
-            }
             
             return `
                 <div class="list-item">
                     <div>
-                        <div class="item-name">${item.source}</div>
-                        ${details.length > 0 ? `<div class="item-details">${details.join(' • ')}</div>` : ''}
-                        ${effectsList ? `<ul class="item-effects">${effectsList}</ul>` : ''}
+                        <div class="item-name">${item.name}</div>
+                        ${effectsList}
                     </div>
-                    ${modData.body_index_cost ? `<span class="item-rating">${modData.body_index_cost} B.I.</span>` : ''}
+                    ${item.body_index_cost ? `<span class="item-rating">${item.body_index_cost} B.I.</span>` : ''}
                 </div>
             `;
-        }).join('\n');
+        }).join('');
         
         return `
             <div class="sheet-section">
@@ -609,31 +587,14 @@ class CharacterSheetRenderer {
         const vehicles = this.characterData.vehicles || [];
         
         const vehicleItems = vehicles.map(vehicle => {
-            let details = [];
-            if (vehicle.vehicle_type) details.push(vehicle.vehicle_type);
-            if (vehicle.handling) details.push(`Handling: ${vehicle.handling}`);
-            if (vehicle.speed) details.push(`Speed: ${vehicle.speed}`);
-            if (vehicle.body) details.push(`Body: ${vehicle.body}`);
-            if (vehicle.armor) details.push(`Armor: ${vehicle.armor}`);
-            if (vehicle.signature) details.push(`Signature: ${vehicle.signature}`);
-            if (vehicle.pilot) details.push(`Pilot: ${vehicle.pilot}`);
-            
-            // Extract modifications description from JSONB object
-            let modsText = '';
-            if (vehicle.modifications) {
-                if (typeof vehicle.modifications === 'object' && vehicle.modifications.description) {
-                    modsText = vehicle.modifications.description;
-                } else if (typeof vehicle.modifications === 'string') {
-                    modsText = vehicle.modifications;
-                }
-            }
+            // Parse notes field which contains all the stats
+            const notes = vehicle.notes || '';
             
             return `
                 <div class="list-item">
                     <div>
                         <div class="item-name">${vehicle.vehicle_name}</div>
-                        <div class="item-details">${details.join(' • ')}</div>
-                        ${modsText ? `<div class="item-details">Modifications: ${modsText}</div>` : ''}
+                        ${notes ? `<div class="item-details">${notes.replace(/\n/g, '<br>')}</div>` : ''}
                     </div>
                 </div>
             `;
@@ -869,15 +830,18 @@ class CharacterSheetRenderer {
         
         const contactItems = contacts.map(contact => {
             let details = [];
-            if (contact.role) details.push(contact.role);
-            if (contact.level) details.push(`Level ${contact.level}`);
-            if (contact.notes) details.push(contact.notes);
+            
+            // API returns archetype, loyalty, connection
+            if (contact.archetype) details.push(contact.archetype);
+            if (contact.loyalty !== undefined) details.push(`Loyalty ${contact.loyalty}`);
+            if (contact.connection !== undefined) details.push(`Connection ${contact.connection}`);
             
             return `
                 <div class="list-item">
                     <div>
                         <div class="item-name">${contact.name}</div>
                         ${details.length > 0 ? `<div class="item-details">${details.join(' • ')}</div>` : ''}
+                        ${contact.notes ? `<div class="item-details">${contact.notes}</div>` : ''}
                     </div>
                 </div>
             `;
@@ -966,13 +930,13 @@ class CharacterSheetRenderer {
     }
     
     hasCyberware() {
-        const modifiers = this.characterData.modifiers || [];
-        return modifiers.some(m => m.source_type === 'cyberware');
+        const cyberware = this.characterData.cyberware || [];
+        return cyberware.length > 0;
     }
     
     hasBioware() {
-        const modifiers = this.characterData.modifiers || [];
-        return modifiers.some(m => m.source_type === 'bioware');
+        const bioware = this.characterData.bioware || [];
+        return bioware.length > 0;
     }
     
     hasWeapons() {

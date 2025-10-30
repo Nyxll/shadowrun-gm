@@ -112,17 +112,20 @@
 - ✅ remove_active_effect() - Schema validated
 - ✅ get_character_active_effects() - Tested via get_character()
 
+**Karma Management:**
+- ✅ add_karma() - Adds karma to total and available pool - TESTED
+- ✅ spend_karma() - Spends karma from available pool with validation - TESTED
+- ✅ update_karma_pool() - Updates karma pool for in-game use - TESTED
+- ✅ Error handling for insufficient karma - TESTED
+
+**Nuyen Management:**
+- ✅ add_nuyen() - Adds nuyen to character account - TESTED
+- ✅ spend_nuyen() - Spends nuyen with validation - TESTED
+- ✅ Error handling for insufficient nuyen - TESTED
+
 **Lifestyle:**
-- ✅ update_lifestyle() - Schema validated
-- ✅ get_character_lifestyle() - Tested via get_character()
-
-**Karma:**
-- ✅ add_karma_log() - Schema validated
-- ✅ get_karma_history() - Schema validated
-
-**Nuyen:**
-- ✅ add_nuyen_transaction() - Schema validated
-- ✅ get_nuyen_history() - Schema validated
+- ✅ Lifestyle managed via update_character() - Fields: lifestyle, lifestyle_cost, lifestyle_months_prepaid
+- ✅ get_character() returns all lifestyle data
 
 ## 🎯 NEXT STEPS
 

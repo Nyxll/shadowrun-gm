@@ -163,6 +163,205 @@ class ComprehensiveCRUD:
         logger.info(f"Deleted character {char_id}")
         return result
     
+    # ========== KARMA MANAGEMENT ==========
+    def add_karma(self, char_id: str, amount: int, reason: str = None) -> Dict:
+        """Add karma to character's total and available pool"""
+        self._audit(reason)
+        logger.info(f"Adding {amount} karma to character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET karma_total = karma_total + %s,
+                karma_available = COALESCE(karma_available, 0) + %s
+            WHERE id = %s 
+            RETURNING *
+        """, (amount, amount, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} now has {result['karma_total']} total karma, {result.get('karma_available', 0)} available")
+        return result
+    
+    def spend_karma(self, char_id: str, amount: int, reason: str = None) -> Dict:
+        """Spend karma from character's available pool"""
+        self._audit(reason)
+        logger.info(f"Spending {amount} karma for character {char_id}")
+        
+        cur = self.conn.cursor()
+        # Check if enough karma available
+        cur.execute("SELECT karma_available FROM characters WHERE id = %s", (char_id,))
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        available = result[0] or 0
+        if available < amount:
+            raise ValueError(f"Insufficient karma: has {available}, needs {amount}")
+        
+        cur.execute("""
+            UPDATE characters 
+            SET karma_available = karma_available - %s
+            WHERE id = %s 
+            RETURNING *
+        """, (amount, char_id))
+        
+        result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} spent {amount} karma, {result.get('karma_available', 0)} remaining")
+        return result
+    
+    def update_karma_pool(self, char_id: str, new_pool: int, reason: str = None) -> Dict:
+        """Update character's karma pool (for spending in-game)"""
+        self._audit(reason)
+        logger.info(f"Setting karma pool to {new_pool} for character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET karma_pool = %s
+            WHERE id = %s 
+            RETURNING *
+        """, (new_pool, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} karma pool set to {new_pool}")
+        return result
+    
+    def set_karma_available(self, char_id: str, new_available: int, reason: str = None) -> Dict:
+        """Set character's available karma (for error correction)"""
+        self._audit(reason)
+        logger.info(f"Setting available karma to {new_available} for character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET karma_available = %s
+            WHERE id = %s 
+            RETURNING *
+        """, (new_available, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} available karma set to {new_available}")
+        return result
+    
+    def set_karma_total(self, char_id: str, new_total: int, reason: str = None) -> Dict:
+        """Set character's total karma (for error correction)"""
+        self._audit(reason)
+        logger.info(f"Setting total karma to {new_total} for character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET karma_total = %s
+            WHERE id = %s 
+            RETURNING *
+        """, (new_total, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} total karma set to {new_total}")
+        return result
+    
+    def set_karma(self, char_id: str, total: int, available: int, reason: str = None) -> Dict:
+        """Set both total and available karma (for error correction)"""
+        self._audit(reason)
+        logger.info(f"Setting karma to total={total}, available={available} for character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET karma_total = %s, karma_available = %s
+            WHERE id = %s 
+            RETURNING *
+        """, (total, available, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} karma set to total={total}, available={available}")
+        return result
+    
+    # ========== NUYEN MANAGEMENT ==========
+    def add_nuyen(self, char_id: str, amount: int, reason: str = None) -> Dict:
+        """Add nuyen to character's account"""
+        self._audit(reason)
+        logger.info(f"Adding {amount}¥ to character {char_id}")
+        
+        cur = self.conn.cursor()
+        cur.execute("""
+            UPDATE characters 
+            SET nuyen = nuyen + %s
+            WHERE id = %s 
+            RETURNING *
+        """, (amount, char_id))
+        
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        result = dict(zip([d[0] for d in cur.description], result))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} now has {result['nuyen']}¥")
+        return result
+    
+    def spend_nuyen(self, char_id: str, amount: int, reason: str = None) -> Dict:
+        """Spend nuyen from character's account"""
+        self._audit(reason)
+        logger.info(f"Spending {amount}¥ for character {char_id}")
+        
+        cur = self.conn.cursor()
+        # Check if enough nuyen available
+        cur.execute("SELECT nuyen FROM characters WHERE id = %s", (char_id,))
+        result = cur.fetchone()
+        if not result:
+            raise ValueError(f"Character {char_id} not found")
+        
+        available = result[0] or 0
+        if available < amount:
+            raise ValueError(f"Insufficient nuyen: has {available}¥, needs {amount}¥")
+        
+        cur.execute("""
+            UPDATE characters 
+            SET nuyen = nuyen - %s
+            WHERE id = %s 
+            RETURNING *
+        """, (amount, char_id))
+        
+        result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Character {char_id} spent {amount}¥, {result['nuyen']}¥ remaining")
+        return result
+    
     def _audit(self, reason: str = None):
         """Set audit context"""
         cur = self.conn.cursor()
@@ -502,8 +701,8 @@ class ComprehensiveCRUD:
     def add_vehicle(self, char_id: str, data: Dict, reason: str = None) -> Dict:
         self._audit(reason)
         cur = self.conn.cursor()
-        # Schema has: pilot (not autopilot), modifications JSONB (for sensor data), audit fields
-        pilot = data.get('pilot', data.get('autopilot'))  # Accept both for compatibility
+        # Schema has: pilot (not pilot), modifications JSONB (for sensor data), audit fields
+        pilot = data.get('pilot', data.get('pilot'))  # Accept both for compatibility
         
         # Handle modifications JSONB (sensor data goes here)
         modifications = data.get('modifications', {})
@@ -579,9 +778,9 @@ class ComprehensiveCRUD:
         cur = self.conn.cursor()
         # Schema has: memory, storage, response_increase, persona_programs, utilities, ai_companions
         # Accept old names for compatibility
-        memory = data.get('memory', data.get('active_memory'))
-        storage = data.get('storage', data.get('storage_memory'))
-        response_increase = data.get('response_increase', data.get('reaction_increase'))
+        memory = data.get('memory', data.get('memory'))
+        storage = data.get('storage', data.get('storage'))
+        response_increase = data.get('response_increase', data.get('response_increase'))
         persona_programs = data.get('persona_programs', data.get('programs', []))
         
         cur.execute("""
@@ -814,12 +1013,12 @@ class ComprehensiveCRUD:
             print(f"Auto-populated cost for {data['type']} '{data['name']}': {cost:+d} karma")
         
         cur = self.conn.cursor()
-        # Schema has: id, character_id, name, type, description, cost, created_at
+        # Schema has: id, character_id, name, type, description, created_at
         # Cost convention: negative for edges (cost karma), positive for flaws (gain karma)
         cur.execute("""
-            INSERT INTO character_edges_flaws (character_id, name, type, description, cost)
+            INSERT INTO character_edges_flaws (character_id, name, type, description)
             VALUES (%s, %s, %s, %s, %s) RETURNING *
-        """, (char_id, data['name'], data['type'], data.get('description'), cost))
+        """, (char_id, data['name'], data['type'], data.get('description')))
         result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
         self.conn.commit()
         cur.close()
@@ -838,7 +1037,7 @@ class ComprehensiveCRUD:
         self._audit(reason)  # Keep for future compatibility
         cur = self.conn.cursor()
         cur.execute("""
-            INSERT INTO character_powers (character_id, power_name, level, cost)
+            INSERT INTO character_powers (character_id, power_name, level)
             VALUES (%s, %s, %s, %s) RETURNING *
         """, (char_id, data['power_name'], data.get('level', 1), data.get('cost', 0)))
         result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
@@ -918,13 +1117,20 @@ class ComprehensiveCRUD:
     def add_active_effect(self, char_id: str, data: Dict, reason: str = None) -> Dict:
         """Add active effect (sustained spell, curse, poison, etc.)"""
         self._audit(reason)  # Keep for future compatibility
+        
+        # Validate required fields (NOT NULL in schema)
+        if 'target_type' not in data or data['target_type'] is None:
+            raise ValueError("target_type is required for active effects")
+        if 'target_name' not in data or data['target_name'] is None:
+            raise ValueError("target_name is required for active effects")
+        
         cur = self.conn.cursor()
         # Schema: effect_type, effect_name, target_type, target_name, modifier_value, duration_type, expires_at, is_active, caster_id, force, drain_taken, notes
         cur.execute("""
             INSERT INTO character_active_effects (character_id, effect_type, effect_name, target_type, target_name, 
                 modifier_value, duration_type, expires_at, is_active, caster_id, force, drain_taken, notes)
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s) RETURNING *
-        """, (char_id, data['effect_type'], data['effect_name'], data.get('target_type'), data.get('target_name'),
+        """, (char_id, data['effect_type'], data['effect_name'], data['target_type'], data['target_name'],
               data.get('modifier_value', 0), data.get('duration_type', 'sustained'), data.get('expires_at'),
               data.get('is_active', True), data.get('caster_id'), data.get('force'), data.get('drain_taken'), data.get('notes')))
         result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
@@ -960,7 +1166,7 @@ class ComprehensiveCRUD:
         cur.close()
         return result
     
-    # ========== MODIFIERS (FIXED: source not source_name, is_permanent not is_temporary) ==========
+    # ========== MODIFIERS (FIXED: source not source, is_permanent not is_temporary) ==========
     def get_modifiers(self, char_id: str, modifier_type: str = None) -> List[Dict]:
         sql = "SELECT * FROM character_modifiers WHERE character_id = %s AND deleted_at IS NULL"
         params = [char_id]
@@ -986,18 +1192,23 @@ class ComprehensiveCRUD:
             modifier_data = Jsonb(modifier_data)
         
         # Schema has: source (text), is_permanent (boolean), source_type, source_id
-        # Accept both source/source_name for compatibility
-        source = data.get('source', data.get('source_name'))
+        # Accept both source/source for compatibility
+        source = data.get('source', data.get('source'))
         # Convert is_temporary to is_permanent
         is_permanent = not data.get('is_temporary', False) if 'is_temporary' in data else data.get('is_permanent', True)
         
+        # Handle essence_cost: extract from modifier_data if present, or use direct field
+        essence_cost = data.get('essence_cost')
+        if essence_cost is None and modifier_data and isinstance(modifier_data, dict):
+            essence_cost = modifier_data.get('essence_cost')
+        
         cur.execute("""
             INSERT INTO character_modifiers (character_id, modifier_type, target_name, modifier_value,
-                source, is_permanent, source_type, source_id, modifier_data, created_by)
-            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s) RETURNING *
+                source, is_permanent, source_type, source_id, essence_cost, modifier_data, created_by)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s) RETURNING *
         """, (char_id, data['modifier_type'], data.get('target_name'), data.get('modifier_value', 0),
               source, is_permanent, data.get('source_type'), data.get('source_id'),
-              modifier_data, self.user_id))
+              essence_cost, modifier_data, self.user_id))
         result = dict(zip([d[0] for d in cur.description], cur.fetchone()))
         self.conn.commit()
         cur.close()
@@ -1031,14 +1242,101 @@ class ComprehensiveCRUD:
     
     # ========== CYBERWARE & BIOWARE ==========
     def get_character_cyberware(self, char_id: str) -> List[Dict]:
-        """Get all cyberware for a character"""
+        """Get all cyberware for a character - grouped by source name"""
         logger.info(f"Getting cyberware for character {char_id}")
-        return self.get_modifiers(char_id, modifier_type='cyberware')
+        # Filter by source_type, not modifier_type
+        sql = "SELECT * FROM character_modifiers WHERE character_id = %s AND source_type = 'cyberware' AND deleted_at IS NULL ORDER BY source, modifier_type DESC"
+        cur = self.conn.cursor()
+        cur.execute(sql, (char_id,))
+        cols = [d[0] for d in cur.description]
+        rows = [dict(zip(cols, row)) for row in cur.fetchall()]
+        cur.close()
+        
+        # Group by source name - find parent row (modifier_type='augmentation') for costs
+        grouped = {}
+        for row in rows:
+            source = row['source']
+            if source not in grouped:
+                # Initialize group - we'll find the parent row next
+                grouped[source] = {
+                    'source': source,
+                    'name': source,
+                    'modifier_data': {},
+                    'essence_cost': None,
+                    'effects': []
+                }
+            
+            # If this is the parent augmentation row, get the cost from it
+            if row.get('modifier_type') == 'augmentation':
+                # For cyberware: essence_cost is in BOTH column AND modifier_data
+                essence_cost = row.get('essence_cost')
+                if essence_cost is None:
+                    modifier_data = row.get('modifier_data') or {}
+                    if isinstance(modifier_data, dict):
+                        essence_cost = modifier_data.get('essence_cost')
+                
+                # Convert to float if it's a Decimal string
+                if essence_cost is not None and isinstance(essence_cost, str):
+                    try:
+                        essence_cost = float(essence_cost)
+                    except (ValueError, TypeError):
+                        pass
+                grouped[source]['essence_cost'] = essence_cost
+                grouped[source]['modifier_data'] = row.get('modifier_data') or {}
+            
+            # Add this modifier's effect to the list (if it has a target)
+            if row.get('target_name') and row.get('target_name') not in ['cyberware', 'description_only']:
+                effect_text = f"{row['target_name']}"
+                if row.get('modifier_value'):
+                    effect_text += f" {row['modifier_value']:+d}"
+                grouped[source]['effects'].append(effect_text)
+
+        return list(grouped.values())
     
     def get_character_bioware(self, char_id: str) -> List[Dict]:
-        """Get all bioware for a character"""
+        """Get all bioware for a character - grouped by source name"""
         logger.info(f"Getting bioware for character {char_id}")
-        return self.get_modifiers(char_id, modifier_type='bioware')
+        # Filter by source_type, not modifier_type
+        sql = "SELECT * FROM character_modifiers WHERE character_id = %s AND source_type = 'bioware' AND deleted_at IS NULL ORDER BY source, modifier_type DESC"
+        cur = self.conn.cursor()
+        cur.execute(sql, (char_id,))
+        cols = [d[0] for d in cur.description]
+        rows = [dict(zip(cols, row)) for row in cur.fetchall()]
+        cur.close()
+        
+        # Group by source name - find parent row (modifier_type='augmentation') for costs
+        grouped = {}
+        for row in rows:
+            source = row['source']
+            if source not in grouped:
+                # Initialize group - we'll find the parent row next
+                grouped[source] = {
+                    'source': source,
+                    'name': source,
+                    'modifier_data': {},
+                    'body_index_cost': None,
+                    'effects': []
+                }
+            
+            # If this is the parent augmentation row, get the cost from it
+            if row.get('modifier_type') == 'augmentation':
+                # For bioware: body_index_cost is ONLY in modifier_data JSONB
+                modifier_data = row.get('modifier_data') or {}
+                body_index_cost = None
+                if isinstance(modifier_data, dict):
+                    body_index_cost = modifier_data.get('body_index_cost')
+                
+                grouped[source]['body_index_cost'] = body_index_cost
+                grouped[source]['modifier_data'] = modifier_data
+            
+            # Add this modifier's effect to the list (if it has a target)
+            if row.get('target_name') and row.get('target_name') not in ['bioware', 'description_only']:
+                effect_text = f"{row['target_name']}"
+                if row.get('modifier_value'):
+                    effect_text += f" {row['modifier_value']:+d}"
+                grouped[source]['effects'].append(effect_text)
+        
+        return list(grouped.values())
     
     def add_cyberware(self, char_id: str, data: Dict, reason: str = None) -> Dict:
         """Add cyberware to character"""

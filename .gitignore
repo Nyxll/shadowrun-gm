@@ -87,5 +87,13 @@ supabase-schema.sql
 supabase-data.sql
 
 # Character sheets (generated from database)
-characters/*.md
-!characters/README.md
+characters/
+
+# training 
+train/
+semanatic-chunks-output/
+parsed-roleplay-data/
+parsed-xai-data/
+
+# training 
+train/

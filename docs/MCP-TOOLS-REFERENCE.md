@@ -279,13 +279,13 @@ Each level of magnification moves the effective range category one step closer t
 
 ### 7. cast_spell
 
-Cast a spell in Shadowrun 2nd Edition with complete Magic Pool management, totem bonuses/penalties, spell foci, and automatic drain calculation.
+Cast a spell in Shadowrun 2nd Edition with complete Magic Pool management, totem bonuses/penalties, spell foci, automatic drain calculation, and sustained spell tracking.
 
 **Parameters:**
 - `caster_name` (string, required): Name of character casting the spell
-- `spell_name` (string, required): Name of spell (e.g., 'Levitate', 'Fireball', 'Heal')
+- `spell_name` (string, required): Name of spell (e.g., 'Levitate', 'Fireball', 'Heal', 'Armor')
 - `force` (integer, required): Force level of spell (1-12, determines TN and drain)
-- `target_name` (string, required): Name of target ('self' for self-targeted spells)
+- `target_name` (string, required): Name of target ('self' for self-targeted spells, or another character name)
 - `spell_pool_dice` (integer, required): Magic Pool dice allocated to spellcasting
 - `drain_pool_dice` (integer, required): Magic Pool dice allocated to drain resistance
 
@@ -295,7 +295,27 @@ Cast a spell in Shadowrun 2nd Edition with complete Magic Pool management, totem
 - Spell focus/fetish bonuses (if applicable)
 - Spell roll with successes
 - Drain calculation and resistance
+- Sustained spell tracking (if spell has duration "Sustained")
 - Detailed summary
+
+**Sustained Spells:**
+When a spell with duration "Sustained" is successfully cast, the system automatically:
+1. Creates modifiers in the `character_modifiers` table for spell effects
+2. Tracks the spell as sustained by the caster
+3. Applies a -2 dice pool penalty per sustained spell to ALL actions
+4. Allows the caster to drop sustained spells at any time
+
+**Sustained Spell Examples:**
+- **Armor**: Adds armor rating to target (Impact and Ballistic)
+- **Increase Attribute**: Boosts an attribute temporarily
+- **Levitate**: Allows target to fly
+- **Invisibility**: Makes target invisible
+
+**Sustaining Penalty:**
+- Each sustained spell: -2 dice from ALL dice pools
+- Cumulative: 3 sustained spells = -6 dice penalty
+- Applies to combat, spellcasting, skills, everything
+- Penalty removed when spell is dropped
 
 **IMPORTANT: Magic Pool Split**
 
@@ -553,6 +573,238 @@ This is a MANDATORY mechanic in Shadowrun 2nd Edition. The AI must always ask th
   "magic_rating": 6,
   "requested_total": 8,
   "hint": "Reduce spell_pool_dice an
+
+---
+
+### 8. add_karma
+
+Add karma to a character's total and available pool.
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `amount` (integer, required): Amount of karma to add
+- `reason` (string, optional): Reason for karma award
+
+**Returns:**
+- Updated karma totals
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "amount": 5,
+  "reason": "Completed mission successfully"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "karma_added": 5,
+  "total_karma": 170,
+  "available_karma": 24,
+  "reason": "Completed mission successfully",
+  "message": "Added 5 karma to Oak. Total: 170, Available: 24"
+}
+```
+
+---
+
+### 9. spend_karma
+
+Spend karma from a character's available pool with validation.
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `amount` (integer, required): Amount of karma to spend
+- `reason` (string, optional): Reason for karma expenditure
+
+**Returns:**
+- Updated available karma
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "amount": 2,
+  "reason": "Improved Firearms skill"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "karma_spent": 2,
+  "available_karma": 22,
+  "reason": "Improved Firearms skill",
+  "message": "Spent 2 karma for Oak. Remaining: 22"
+}
+```
+
+**Error Response (Insufficient Karma):**
+```json
+{
+  "error": "Insufficient karma: has 22, needs 100",
+  "character": "Oak",
+  "available": 22,
+  "requested": 100
+}
+```
+
+---
+
+### 10. update_karma_pool
+
+Update a character's karma pool (for in-game spending).
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `new_pool` (integer, required): New karma pool value
+- `reason` (string, optional): Reason for change
+
+**Returns:**
+- Updated karma pool
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "new_pool": 15,
+  "reason": "Start of new encounter"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "karma_pool": 15,
+  "reason": "Start of new encounter",
+  "message": "Set Oak's karma pool to 15"
+}
+```
+
+---
+
+### 11. set_karma
+
+Set both total and available karma (for error correction).
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `total` (integer, required): Total karma earned
+- `available` (integer, required): Available karma to spend
+- `reason` (string, optional): Reason for correction
+
+**Returns:**
+- Updated karma values
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "total": 200,
+  "available": 50,
+  "reason": "Correcting karma tracking error"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "total_karma": 200,
+  "available_karma": 50,
+  "reason": "Correcting karma tracking error",
+  "message": "Set Oak's karma to Total: 200, Available: 50"
+}
+```
+
+---
+
+### 12. add_nuyen
+
+Add nuyen to a character's account.
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `amount` (integer, required): Amount of nuyen to add
+- `reason` (string, optional): Reason for payment
+
+**Returns:**
+- Updated nuyen total
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "amount": 5000,
+  "reason": "Payment for completed run"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "nuyen_added": 5000,
+  "total_nuyen": 580988,
+  "reason": "Payment for completed run",
+  "message": "Added 5,000¥ to Oak. Total: 580,988¥"
+}
+```
+
+---
+
+### 13. spend_nuyen
+
+Spend nuyen from a character's account with validation.
+
+**Parameters:**
+- `character_name` (string, required): Name of the character
+- `amount` (integer, required): Amount of nuyen to spend
+- `reason` (string, optional): Reason for expenditure
+
+**Returns:**
+- Updated nuyen total
+- Confirmation message
+
+**Example:**
+```json
+{
+  "character_name": "Oak",
+  "amount": 1500,
+  "reason": "Purchased new cyberware"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Oak",
+  "nuyen_spent": 1500,
+  "remaining_nuyen": 579488,
+  "reason": "Purchased new cyberware",
+  "message": "Spent 1,500¥ for Oak. Remaining: 579,488¥"
+}
+```
+
+**Error Response (Insufficient Nuyen):**
+```json
+{
+  "error": "Insufficient nuyen: has 579488¥, needs 1000000¥",
+  "character": "Oak",
+  "available": 579488,
+  "requested": 1000000
+}
+```
 
 ---
 

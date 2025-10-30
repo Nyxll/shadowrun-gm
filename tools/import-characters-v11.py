@@ -67,6 +67,10 @@ class CharacterImporterV11:
             if attr not in attrs:
                 attrs[attr] = {'base': 0, 'current': 0}
         
+        # Calculate body index
+        body_index_max = (attrs['body']['base'] + attrs['willpower']['base']) / 2.0
+        body_index_current = sum(bio.get('body_index_cost', 0) for bio in char_data.get('bioware', []))
+        
         # Insert character (direct SQL since CRUD doesn't have create_character yet)
         cursor = self.crud.conn.cursor()
         cursor.execute("""
@@ -80,14 +84,16 @@ class CharacterImporterV11:
                 current_essence, current_magic, current_reaction,
                 nuyen, karma_pool, karma_total, karma_available, initiative,
                 power_points_total, power_points_used, power_points_available,
-                magic_pool, spell_pool, initiate_level, metamagics, magical_group, tradition, totem
+                magic_pool, spell_pool, initiate_level, metamagics, magical_group, tradition, totem,
+                body_index_max, body_index_current
             ) VALUES (
                 %s, %s, %s, %s,
                 %s, %s, %s, %s, %s, %s, %s, %s, %s,
                 %s, %s, %s, %s, %s, %s, %s, %s, %s,
                 %s, %s, %s, %s, %s,
                 %s, %s, %s,
-                %s, %s, %s, %s, %s, %s, %s
+                %s, %s, %s, %s, %s, %s, %s,
+                %s, %s
             ) RETURNING id
         """, (
             char_data['name'], char_data['street_name'], char_data['archetype'], char_data['metatype'],
@@ -103,7 +109,8 @@ class CharacterImporterV11:
             char_data['power_points']['available'],
             char_data.get('magic_pool', 0), char_data.get('spell_pool', 0), 
             char_data.get('initiate_level', 0), char_data.get('metamagics', []),
-            char_data.get('magical_group'), char_data.get('tradition'), char_data.get('totem')
+            char_data.get('magical_group'), char_data.get('tradition'), char_data.get('totem'),
+            body_index_max, body_index_current
         ))
         
         char_id = cursor.fetchone()[0]
@@ -127,7 +134,7 @@ class CharacterImporterV11:
         
         # Insert cyberware modifiers using CRUD API
         for cyber in char_data.get('cyberware', []):
-            # Add parent modifier
+            # Add parent modifier - store essence_cost in BOTH column AND modifier_data
             parent = self.crud.add_modifier(char_id, {
                 'modifier_type': 'augmentation',
                 'target_name': 'cyberware',
@@ -135,7 +142,8 @@ class CharacterImporterV11:
                 'source': cyber['name'],
                 'source_type': 'cyberware',
                 'is_permanent': True,
-                'modifier_data': {'essence_cost': cyber['essence_cost']}
+                'essence_cost': cyber['essence_cost'],  # Store in column
+                'modifier_data': {'essence_cost': cyber['essence_cost']}  # ALSO in JSONB for consistency
             }, reason='Character import')
             
             # Add child modifiers
@@ -161,9 +169,9 @@ class CharacterImporterV11:
         
         print(f"  ✓ Added {len(char_data.get('cyberware', []))} cyberware items with modifiers")
         
-        # Insert bioware modifiers using CRUD API
+        # Insert bioware modifiers using CRUD API  
         for bio in char_data.get('bioware', []):
-            # Add parent modifier
+            # Add parent modifier - store body_index_cost in modifier_data (no column for this)
             parent = self.crud.add_modifier(char_id, {
                 'modifier_type': 'augmentation',
                 'target_name': 'bioware',
@@ -171,7 +179,7 @@ class CharacterImporterV11:
                 'source': bio['name'],
                 'source_type': 'bioware',
                 'is_permanent': True,
-                'modifier_data': {'body_index_cost': bio['body_index_cost']}
+                'modifier_data': {'body_index_cost': bio['body_index_cost']}  # Store in JSONB
             }, reason='Character import')
             
             # Add child modifiers

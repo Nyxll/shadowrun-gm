@@ -187,9 +187,13 @@ function addCharacter() {
         return;
     }
     
+    // Get the street name for display
+    const char = availableCharacters.find(c => c.name === characterName);
+    const displayName = char ? (char.street_name || char.name) : characterName;
+    
     // Check if already added
     if (characters.includes(characterName)) {
-        addMessage('system', `${characterName} is already in the session`);
+        addMessage('system', `${displayName} is already in the session`);
         return;
     }
     
@@ -197,7 +201,7 @@ function addCharacter() {
     addCharacterButton.disabled = true;
     const originalText = addCharacterButton.textContent;
     addCharacterButton.textContent = 'Adding Character...';
-    setStatus(`Adding ${characterName} to session...`);
+    setStatus(`Adding ${displayName} to session...`);
     
     // Send to server (server will validate)
     ws.send(JSON.stringify({
@@ -238,32 +242,48 @@ function removeCharacter(characterName) {
     addMessage('system', `Removed ${characterName} from session`);
 }
 
-// View character sheet
-async function viewCharacterSheet(characterName) {
+// View character sheet - accepts either character name or character object
+async function viewCharacterSheet(characterNameOrObject) {
     const traceId = errorHandler.generateTraceId();
     
     try {
-        setStatus(`Loading character sheet for ${characterName}...`);
-        console.log(`[Trace: ${traceId}] Loading character sheet for: ${characterName}`);
+        let character;
+        let characterName;
         
-        const response = await fetch(`/api/character/${encodeURIComponent(characterName)}`, {
-            headers: {
-                'X-Trace-ID': traceId
+        // Check if we received a character object or just a name
+        if (typeof characterNameOrObject === 'object' && characterNameOrObject !== null) {
+            // We already have the character data
+            character = characterNameOrObject;
+            characterName = character.name || character.street_name || 'Unknown';
+            console.log(`[Trace: ${traceId}] Using pre-loaded character data for: ${characterName}`);
+        } else {
+            // We need to fetch the character data
+            characterName = characterNameOrObject;
+            setStatus(`Loading character sheet for ${characterName}...`);
+            console.log(`[Trace: ${traceId}] Loading character sheet for: ${characterName}`);
+            
+            const response = await fetch(`/api/character/${encodeURIComponent(characterName)}`, {
+                headers: {
+                    'X-Trace-ID': traceId
+                }
+            });
+            
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                const error = errorHandler.handleServerError(errorData, traceId);
+                throw new Error(error.message);
             }
-        });
-        
-        if (!response.ok) {
-            const errorData = await response.json().catch(() => ({}));
-            const error = errorHandler.handleServerError(errorData, traceId);
-            throw new Error(error.message);
+            
+            const responseData = await response.json();
+            console.log(`[Trace: ${traceId}] Character loaded successfully`);
+            // Extract the actual character data from the response
+            character = responseData.data || responseData;
         }
         
-        const character = await response.json();
-        console.log(`[Trace: ${traceId}] Character loaded successfully`);
         displayCharacterSheet(character);
         setStatus('Ready');
     } catch (error) {
-        const err = errorHandler.handleFetchError(error, `/api/character/${characterName}`, traceId);
+        const err = errorHandler.handleFetchError(error, `/api/character/${characterNameOrObject}`, traceId);
         addMessage('system', `❌ Failed to load character sheet: ${err.message} [Trace: ${traceId}]`);
         setStatus('Error');
     }
@@ -312,10 +332,14 @@ function updateCharacterList() {
     characters.forEach(char => {
         const li = document.createElement('li');
         
-        // Character name (clickable)
+        // Get street name for display
+        const charData = availableCharacters.find(c => c.name === char);
+        const displayName = charData ? (charData.street_name || charData.name) : char;
+        
+        // Character name (clickable) - show street name
         const nameSpan = document.createElement('span');
         nameSpan.className = 'character-name';
-        nameSpan.textContent = char;
+        nameSpan.textContent = displayName;
         nameSpan.onclick = () => viewCharacterSheet(char);
         li.appendChild(nameSpan);
         
@@ -364,11 +388,12 @@ async function loadAvailableCharacters() {
         characterSelect.innerHTML = '<option value="">Select a character...</option>';
         availableCharacters.forEach(char => {
             const option = document.createElement('option');
-            // Use the display name (street_name or name) as the value
-            option.value = char.name;  // This is the street_name from the API
+            // Use street_name as the display name (what everyone uses)
+            const displayName = char.street_name || char.name;
+            option.value = char.name;  // Keep using real name as value for API calls
             // Show archetype instead of character_type (which may be null)
             const subtitle = char.archetype || char.character_type || 'Character';
-            option.textContent = `${char.name} (${subtitle})`;
+            option.textContent = `${displayName} (${subtitle})`;
             characterSelect.appendChild(option);
         });
         
