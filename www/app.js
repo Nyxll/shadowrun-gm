@@ -514,16 +514,86 @@ async function preloadCharacters() {
 
 // Telemetry Event Logging
 let telemetryEvents = [];
+let telemetryFilter = 'all'; // all, errors, warnings, info
+let telemetrySearch = '';
+let telemetryAutoScroll = true;
+
+// Complete event color mapping
+const EVENT_COLORS = {
+    // WebSocket Events
+    'websocket_connected': '#00ff00',
+    'websocket_disconnected': '#ff0000',
+    'message_received': '#00ffff',
+    'message_sent': '#00ffff',
+    
+    // Grok AI Events
+    'grok_api_call_start': '#9d4edd',
+    'grok_streaming_start': '#9d4edd',
+    'grok_tool_request': '#ffaa00',
+    'grok_api_error': '#ff0000',
+    
+    // MCP Operation Events
+    'mcp_operation_start': '#ffaa00',
+    'mcp_operation_complete': '#00ff88',
+    
+    // Database Events
+    'database_query': '#4cc9f0',
+    
+    // API Events
+    'api_request': '#7209b7',
+    'api_response': '#7209b7',
+    
+    // UI Events
+    'ui_interaction': '#f72585',
+    'character_added': '#00ff88',
+    'character_removed': '#ff6b6b',
+    
+    // System Events
+    'request_complete': '#00ff88',
+    'error_occurred': '#ff0000',
+    
+    // Legacy events
+    'tool_execution_start': '#ffaa00',
+    'tool_execution_complete': '#00ff88'
+};
+
+// Event level mapping
+function getEventLevel(event, data) {
+    if (event.includes('error') || event === 'error_occurred') return 'ERROR';
+    if (event.includes('warning')) return 'WARNING';
+    if (event.includes('complete') || event.includes('success')) return 'INFO';
+    return 'DEBUG';
+}
+
+// Event component mapping
+function getEventComponent(event) {
+    if (event.startsWith('websocket_')) return 'WebSocket';
+    if (event.startsWith('grok_')) return 'Grok AI';
+    if (event.startsWith('mcp_')) return 'MCP';
+    if (event.startsWith('database_')) return 'Database';
+    if (event.startsWith('api_')) return 'API';
+    if (event.startsWith('ui_')) return 'UI';
+    if (event.startsWith('tool_')) return 'Tools';
+    return 'System';
+}
 
 function logTelemetryEvent(event, data, timestamp) {
     const entry = {
         event: event,
         data: data,
         timestamp: timestamp || new Date().toISOString(),
-        displayTime: new Date().toLocaleTimeString()
+        displayTime: new Date().toLocaleTimeString(),
+        level: getEventLevel(event, data),
+        component: getEventComponent(event)
     };
     
     telemetryEvents.push(entry);
+    
+    // Keep last 500 events to prevent memory issues
+    if (telemetryEvents.length > 500) {
+        telemetryEvents = telemetryEvents.slice(-500);
+    }
+    
     updateToolCallLog(); // Update the display
     
     // Also log to console for debugging
@@ -561,27 +631,40 @@ function updateToolCallLog() {
         return;
     }
     
+    // Filter events
+    let filteredEvents = telemetryEvents;
+    
+    // Apply level filter
+    if (telemetryFilter !== 'all') {
+        filteredEvents = filteredEvents.filter(e => {
+            if (telemetryFilter === 'errors') return e.level === 'ERROR';
+            if (telemetryFilter === 'warnings') return e.level === 'WARNING';
+            if (telemetryFilter === 'info') return e.level === 'INFO';
+            return true;
+        });
+    }
+    
+    // Apply search filter
+    if (telemetrySearch) {
+        const searchLower = telemetrySearch.toLowerCase();
+        filteredEvents = filteredEvents.filter(e => {
+            const eventStr = JSON.stringify(e).toLowerCase();
+            return eventStr.includes(searchLower);
+        });
+    }
+    
     let html = '';
     
     // Display telemetry events
-    telemetryEvents.forEach((event, index) => {
-        const eventColors = {
-            'message_received': 'var(--neon-cyan)',
-            'grok_api_call_start': 'var(--neon-purple)',
-            'grok_streaming_start': 'var(--neon-purple)',
-            'grok_tool_request': 'var(--neon-orange)',
-            'tool_execution_start': 'var(--neon-yellow)',
-            'tool_execution_complete': 'var(--neon-green)',
-            'request_complete': 'var(--neon-green)'
-        };
-        
-        const color = eventColors[event.event] || 'var(--neon-cyan)';
+    filteredEvents.forEach((event, index) => {
+        const color = EVENT_COLORS[event.event] || '#00ffff';
         const eventName = event.event ? String(event.event).replace(/_/g, ' ').toUpperCase() : 'UNKNOWN EVENT';
         
         // Format data for display
         let dataDisplay = '';
         if (event.data) {
-            const importantKeys = ['latency_ms', 'duration_ms', 'tool', 'tools_requested', 'total_duration_ms', 'grok_calls', 'tool_calls'];
+            const importantKeys = ['operation', 'duration_ms', 'success', 'tool', 'tools_requested', 'total_duration_ms', 
+                                   'error', 'error_type', 'action', 'component', 'character', 'query_type', 'table'];
             const filtered = {};
             importantKeys.forEach(key => {
                 if (event.data[key] !== undefined) {
@@ -594,18 +677,32 @@ function updateToolCallLog() {
             }
         }
         
+        // Level badge
+        const levelColors = {
+            'ERROR': '#ff0000',
+            'WARNING': '#ffaa00',
+            'INFO': '#00ff88',
+            'DEBUG': '#888888'
+        };
+        const levelColor = levelColors[event.level] || '#888888';
+        
         html += `
-            <div style="
-                margin-bottom: 0.5rem;
-                padding: 0.5rem;
-                background: var(--panel-bg);
-                border-left: 3px solid ${color};
-            ">
-                <div style="color: ${color}; font-weight: bold; font-size: 0.75rem;">
-                    ${event.displayTime} - ${eventName}
+            <div class="telemetry-entry" data-level="${event.level}" data-event="${event.event}" 
+                 style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--panel-bg); border-left: 3px solid ${color};"
+                 onclick="showEventDetails(${index})">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <div style="color: ${color}; font-weight: bold; font-size: 0.75rem;">
+                        ${event.displayTime} - ${eventName}
+                    </div>
+                    <div style="display: flex; gap: 0.5rem; align-items: center;">
+                        <span style="background: ${levelColor}; color: #000; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.6rem; font-weight: bold;">
+                            ${event.level}
+                        </span>
+                        <span style="color: #888; font-size: 0.6rem;">[${event.component}]</span>
+                    </div>
                 </div>
                 ${dataDisplay ? `
-                <div style="color: #888; font-size: 0.7rem; margin-top: 0.25rem; max-height: 60px; overflow-y: auto;">
+                <div style="color: #888; font-size: 0.7rem; margin-top: 0.25rem; max-height: 60px; overflow-y: auto; font-family: monospace;">
                     ${dataDisplay}
                 </div>
                 ` : ''}
@@ -613,14 +710,110 @@ function updateToolCallLog() {
         `;
     });
     
+    if (filteredEvents.length === 0) {
+        html = '<div style="color: var(--neon-orange); font-style: italic;">No events match the current filter</div>';
+    }
+    
     toolCallLog.innerHTML = html;
-    toolCallLog.scrollTop = toolCallLog.scrollHeight;
+    
+    // Auto-scroll if enabled
+    if (telemetryAutoScroll) {
+        toolCallLog.scrollTop = toolCallLog.scrollHeight;
+    }
 }
 
 function clearToolCallLog() {
     toolCalls = [];
     telemetryEvents = [];
     updateToolCallLog();
+}
+
+// Filter telemetry events
+function filterTelemetryEvents(filter) {
+    telemetryFilter = filter;
+    updateToolCallLog();
+    
+    // Update button states
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    document.querySelector(`[data-filter="${filter}"]`)?.classList.add('active');
+}
+
+// Search telemetry events
+function searchTelemetryEvents(query) {
+    telemetrySearch = query;
+    updateToolCallLog();
+}
+
+// Toggle auto-scroll
+function toggleAutoScroll() {
+    telemetryAutoScroll = !telemetryAutoScroll;
+    const checkbox = document.getElementById('autoscroll-checkbox');
+    if (checkbox) {
+        checkbox.checked = telemetryAutoScroll;
+    }
+}
+
+// Export telemetry logs
+function exportTelemetryLogs() {
+    const data = {
+        exported_at: new Date().toISOString(),
+        session_id: sessionId,
+        event_count: telemetryEvents.length,
+        events: telemetryEvents
+    };
+    
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `shadowrun-telemetry-${Date.now()}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    
+    addMessage('system', `✓ Exported ${telemetryEvents.length} telemetry events`);
+}
+
+// Show event details in modal
+function showEventDetails(index) {
+    const event = telemetryEvents[index];
+    if (!event) return;
+    
+    const modal = document.createElement('div');
+    modal.className = 'modal active';
+    modal.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; z-index: 10000;';
+    
+    const content = document.createElement('div');
+    content.style.cssText = 'background: var(--panel-bg); border: 2px solid var(--neon-cyan); padding: 2rem; max-width: 800px; max-height: 80vh; overflow-y: auto; border-radius: 8px;';
+    
+    const color = EVENT_COLORS[event.event] || '#00ffff';
+    
+    content.innerHTML = `
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+            <h3 style="color: ${color}; margin: 0;">${event.event.replace(/_/g, ' ').toUpperCase()}</h3>
+            <button onclick="this.closest('.modal').remove()" style="background: #ff0000; color: #fff; border: none; padding: 0.5rem 1rem; cursor: pointer; border-radius: 4px;">Close</button>
+        </div>
+        <div style="margin-bottom: 1rem;">
+            <p style="margin: 0.5rem 0;"><strong>Time:</strong> ${event.timestamp}</p>
+            <p style="margin: 0.5rem 0;"><strong>Level:</strong> <span style="color: ${event.level === 'ERROR' ? '#ff0000' : event.level === 'WARNING' ? '#ffaa00' : '#00ff88'}">${event.level}</span></p>
+            <p style="margin: 0.5rem 0;"><strong>Component:</strong> ${event.component}</p>
+        </div>
+        <div style="background: #000; padding: 1rem; border-radius: 4px; overflow-x: auto;">
+            <pre style="margin: 0; color: #00ff88; font-size: 0.9rem;">${JSON.stringify(event.data, null, 2)}</pre>
+        </div>
+    `;
+    
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+    
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            modal.remove();
+        }
+    });
 }
 
 // Wire up clear button

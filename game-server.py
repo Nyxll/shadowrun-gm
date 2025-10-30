@@ -233,6 +233,124 @@ class SessionManager:
             del self.websockets[session_id]
 
 
+
+
+async def send_telemetry(websocket: WebSocket, event: str, data: dict = None, level: str = "INFO"):
+    """
+    Helper function to send telemetry events to the UI
+    
+    Args:
+        websocket: WebSocket connection
+        event: Event type (e.g., 'database_query', 'mcp_operation_start')
+        data: Event-specific data
+        level: Log level (INFO, WARNING, ERROR, DEBUG)
+    """
+    await websocket.send_json({
+        "type": "telemetry",
+        "event": event,
+        "level": level,
+        "data": data or {},
+        "timestamp": datetime.now().isoformat()
+    })
+
+
+async def send_mcp_telemetry(websocket: WebSocket, operation: str, phase: str, data: dict = None):
+    """
+    Send MCP operation telemetry
+    
+    Args:
+        operation: Operation name (e.g., 'get_character', 'cast_spell')
+        phase: 'start' or 'complete'
+        data: Operation-specific data (arguments, results, timing)
+    """
+    event = f"mcp_operation_{phase}"
+    telemetry_data = {"operation": operation}
+    if data:
+        telemetry_data.update(data)
+    
+    await send_telemetry(websocket, event, telemetry_data)
+
+
+async def send_database_telemetry(websocket: WebSocket, query_type: str, table: str = None, duration_ms: float = None):
+    """
+    Send database operation telemetry
+    
+    Args:
+        query_type: Type of query (SELECT, INSERT, UPDATE, DELETE)
+        table: Table name
+        duration_ms: Query duration in milliseconds
+    """
+    data = {"query_type": query_type}
+    if table:
+        data["table"] = table
+    if duration_ms is not None:
+        data["duration_ms"] = round(duration_ms, 2)
+    
+    await send_telemetry(websocket, "database_query", data)
+
+
+async def send_api_telemetry(websocket: WebSocket, endpoint: str, method: str, status_code: int = None, duration_ms: float = None):
+    """
+    Send API operation telemetry
+    
+    Args:
+        endpoint: API endpoint path
+        method: HTTP method (GET, POST, etc.)
+        status_code: Response status code
+        duration_ms: Request duration in milliseconds
+    """
+    data = {
+        "endpoint": endpoint,
+        "method": method
+    }
+    if status_code:
+        data["status_code"] = status_code
+    if duration_ms is not None:
+        data["duration_ms"] = round(duration_ms, 2)
+    
+    event = "api_request" if status_code is None else "api_response"
+    await send_telemetry(websocket, event, data)
+
+
+async def send_error_telemetry(websocket: WebSocket, error: Exception, context: str = None):
+    """
+    Send error telemetry with full context
+    
+    Args:
+        error: Exception object
+        context: Additional context about where the error occurred
+    """
+    import traceback
+    
+    data = {
+        "error_type": type(error).__name__,
+        "error_message": str(error),
+        "stack_trace": traceback.format_exc()
+    }
+    if context:
+        data["context"] = context
+    
+    await send_telemetry(websocket, "error_occurred", data, level="ERROR")
+
+
+async def send_ui_telemetry(websocket: WebSocket, action: str, component: str = None, data: dict = None):
+    """
+    Send UI interaction telemetry
+    
+    Args:
+        action: UI action (e.g., 'character_selected', 'sheet_opened')
+        component: UI component name
+        data: Action-specific data
+    """
+    telemetry_data = {"action": action}
+    if component:
+        telemetry_data["component"] = component
+    if data:
+        telemetry_data.update(data)
+    
+    await send_telemetry(websocket, "ui_interaction", telemetry_data)
+
+
 # Global session manager
 session_manager = SessionManager()
 
@@ -2820,14 +2938,9 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
                 # Handle tool calls
                 if tool_calls:
                     # Send telemetry: tool request
-                    await websocket.send_json({
-                        "type": "telemetry",
-                        "event": "grok_tool_request",
-                        "data": {
-                            "tools_requested": [tc.function.name for tc in tool_calls],
-                            "tool_count": len(tool_calls)
-                        },
-                        "timestamp": datetime.now().isoformat()
+                    await send_telemetry(websocket, "grok_tool_request", {
+                        "tools_requested": [tc.function.name for tc in tool_calls],
+                        "tool_count": len(tool_calls)
                     })
                     
                     for tool_call in tool_calls:
@@ -2836,13 +2949,10 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
                         
                         trace_logger.info(f"Tool call: {tool_name} with {arguments}")
                         
-                        # Send telemetry: tool execution start
+                        # Send MCP telemetry: operation start
                         tool_start = datetime.now()
-                        await websocket.send_json({
-                            "type": "telemetry",
-                            "event": "tool_execution_start",
-                            "data": {"tool": tool_name, "arguments": arguments},
-                            "timestamp": tool_start.isoformat()
+                        await send_mcp_telemetry(websocket, tool_name, "start", {
+                            "arguments": arguments
                         })
                         
                         # Send tool_call message for tracking
@@ -2852,29 +2962,41 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
                             "arguments": arguments
                         })
                         
-                        # Execute tool
-                        result = await mcp_client.call_tool(tool_name, arguments)
-                        result = convert_db_types(result)
-                        
-                        # Optimize result for AI (remove audit fields, nulls) - saves ~50% tokens
-                        optimized_result = optimize_tool_result(result)
-                        
-                        # Calculate tool execution time
-                        tool_end = datetime.now()
-                        tool_duration = (tool_end - tool_start).total_seconds() * 1000
-                        
-                        # Send telemetry: tool execution complete
-                        await websocket.send_json({
-                            "type": "telemetry",
-                            "event": "tool_execution_complete",
-                            "data": {
-                                "tool": tool_name,
+                        # Execute tool with error handling
+                        try:
+                            result = await mcp_client.call_tool(tool_name, arguments)
+                            result = convert_db_types(result)
+                            
+                            # Optimize result for AI (remove audit fields, nulls) - saves ~50% tokens
+                            optimized_result = optimize_tool_result(result)
+                            
+                            # Calculate tool execution time
+                            tool_end = datetime.now()
+                            tool_duration = (tool_end - tool_start).total_seconds() * 1000
+                            
+                            # Send MCP telemetry: operation complete
+                            await send_mcp_telemetry(websocket, tool_name, "complete", {
                                 "duration_ms": round(tool_duration, 2),
                                 "success": True,
                                 "payload_reduction": f"{(1 - len(str(optimized_result)) / len(str(result))) * 100:.1f}%" if result else "0%"
-                            },
-                            "timestamp": tool_end.isoformat()
-                        })
+                            })
+                        except Exception as tool_error:
+                            # Send error telemetry
+                            await send_error_telemetry(websocket, tool_error, f"MCP tool execution: {tool_name}")
+                            
+                            # Calculate error time
+                            tool_end = datetime.now()
+                            tool_duration = (tool_end - tool_start).total_seconds() * 1000
+                            
+                            # Send failed operation telemetry
+                            await send_mcp_telemetry(websocket, tool_name, "complete", {
+                                "duration_ms": round(tool_duration, 2),
+                                "success": False,
+                                "error": str(tool_error)
+                            })
+                            
+                            # Re-raise to handle in outer try/catch
+                            raise
                         
                         # Send optimized tool result to client (for display)
                         await websocket.send_json({
@@ -2912,6 +3034,13 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
                 # Add character to session
                 character_name = data.get('character')
                 session.add_character(character_name)
+                
+                # Send UI telemetry
+                await send_ui_telemetry(websocket, "character_added", "session-manager", {
+                    "character": character_name,
+                    "total_characters": len(session.active_characters)
+                })
+                
                 await websocket.send_json({
                     "type": "system",
                     "content": f"Added {character_name} to session"
@@ -2926,6 +3055,13 @@ async def websocket_endpoint(websocket: WebSocket, session_id: str):
                 character_name = data.get('character')
                 if character_name in session.active_characters:
                     session.active_characters.remove(character_name)
+                    
+                    # Send UI telemetry
+                    await send_ui_telemetry(websocket, "character_removed", "session-manager", {
+                        "character": character_name,
+                        "total_characters": len(session.active_characters)
+                    })
+                    
                     await websocket.send_json({
                         "type": "system",
                         "content": f"Removed {character_name} from session"
