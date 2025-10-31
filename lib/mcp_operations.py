@@ -49,6 +49,90 @@ class MCPOperations:
     def close(self):
         """Close CRUD API connection"""
         self.crud.close()
+    
+    def _lookup_weapon_in_master_table(self, weapon_name: str) -> Optional[Dict]:
+        """
+        Look up weapon in master gear table
+        Returns weapon stats or None if not found
+        """
+        try:
+            conn = psycopg.connect(
+                host=os.getenv('POSTGRES_HOST', '127.0.0.1'),
+                port=int(os.getenv('POSTGRES_PORT', '5434')),
+                user=os.getenv('POSTGRES_USER'),
+                password=os.getenv('POSTGRES_PASSWORD'),
+                dbname=os.getenv('POSTGRES_DB')
+            )
+            
+            with conn.cursor(row_factory=dict_row) as cur:
+                # Try exact match first (case-insensitive)
+                cur.execute("""
+                    SELECT name, subcategory, base_stats
+                    FROM gear
+                    WHERE category = 'weapon'
+                    AND LOWER(name) = LOWER(%s)
+                    LIMIT 1
+                """, (weapon_name,))
+                
+                result = cur.fetchone()
+                
+                # Try fuzzy match if exact fails
+                if not result:
+                    cur.execute("""
+                        SELECT name, subcategory, base_stats
+                        FROM gear
+                        WHERE category = 'weapon'
+                        AND LOWER(name) LIKE LOWER(%s)
+                        ORDER BY similarity(LOWER(name), LOWER(%s)) DESC
+                        LIMIT 1
+                    """, (f'%{weapon_name}%', weapon_name))
+                    
+                    result = cur.fetchone()
+                
+                conn.close()
+                
+                if result:
+                    logger.info(f"Found weapon '{weapon_name}' in master gear table as '{result['name']}'")
+                    # Convert to expected format
+                    return {
+                        'gear_name': result['name'],
+                        'gear_data': {
+                            'weapon_type': result['subcategory'] or 'heavy pistol',
+                            'damage': result['base_stats'].get('damage', '9M'),
+                            'smartlink': False,  # Assume no smartlink unless specified
+                            'recoil_comp': 0
+                        }
+                    }
+                
+                return None
+                
+        except Exception as e:
+            logger.error(f"Error looking up weapon in master table: {e}")
+            return None
+    
+    def _infer_weapon_stats(self, weapon_name: str) -> Dict:
+        """Infer weapon type from name using common patterns"""
+        name_lower = weapon_name.lower()
+        
+        # Common weapon patterns
+        if any(x in name_lower for x in ['predator', 'beretta', 'colt', 'browning', 'manhunter']):
+            return {'weapon_type': 'heavy pistol', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['light pistol', 'holdout']):
+            return {'weapon_type': 'light pistol', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['uzi', 'ingram', 'mp5', 'smg']):
+            return {'weapon_type': 'smg', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['ak-97', 'hk227', 'ares alpha', 'assault rifle']):
+            return {'weapon_type': 'assault rifle', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['rifle', 'sniper', 'walther']):
+            return {'weapon_type': 'sniper rifle', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['shotgun', 'remington']):
+            return {'weapon_type': 'shotgun', 'smartlink': False, 'recoil_comp': 0}
+        elif any(x in name_lower for x in ['cannon', 'panther']):
+            return {'weapon_type': 'assault cannon', 'smartlink': False, 'recoil_comp': 0}
+        else:
+            # Default to heavy pistol
+            logger.warning(f"Unknown weapon type for '{weapon_name}', defaulting to heavy pistol")
+            return {'weapon_type': 'heavy pistol', 'smartlink': False, 'recoil_comp': 0}
 
     async def list_characters(self) -> List[Dict]:
         """List all characters using CRUD API"""
@@ -1696,6 +1780,260 @@ class MCPOperations:
                 "nuyen": result['nuyen'],
                 "summary": f"Spent {amount:,}¥ for {character_name}. Remaining: {result['nuyen']:,}¥"
             }
+        except ValueError as e:
+            return {"error": str(e)}
+    
+    # ========== COMBAT ==========
+    
+    async def ranged_combat(self, character_name: str, weapon_name: str, distance: int,
+                           target_name: str = None, target_size: str = 'normal',
+                           target_moving: bool = False, target_prone: bool = False, 
+                           light_level: str = 'NORMAL', conditions: Optional[Dict] = None, 
+                           magnification: int = 0, called_shot: bool = False, 
+                           combat_pool: int = 0, reason: str = None) -> Dict:
+        """
+        Calculate ranged combat modifiers and roll attack
+        
+        Args:
+            character_name: Character making the attack
+            weapon_name: Name of weapon being used
+            distance: Distance to target in meters
+            target_name: Optional target name
+            target_size: Target size (small, normal, large)
+            target_moving: Is target moving (walking/running)
+            target_prone: Is target prone
+            light_level: Light level (NORMAL, PARTIAL, DIM, DARK)
+            conditions: Environmental conditions (glare, mist, smoke, fog, rain)
+            magnification: Optical magnification rating
+            called_shot: Is this a called shot
+            combat_pool: Combat pool dice to add
+            reason: Optional reason for audit log
+        """
+        logger.info(f"=== RANGED COMBAT: {character_name} attacking with {weapon_name} at {distance}m ===")
+        try:
+            try:
+                character = self.crud.get_character_by_street_name(character_name)
+            except ValueError:
+                character = self.crud.get_character_by_given_name(character_name)
+            
+            # Get character's gear to find weapon
+            gear = self.crud.get_gear(character['id'], 'weapon')
+            
+            # TIER 1: Try exact match (case-insensitive)
+            weapon = next((g for g in gear if g['gear_name'].lower() == weapon_name.lower()), None)
+            
+            # TIER 2: Try fuzzy match - partial name (case-insensitive)
+            if not weapon:
+                weapon = next((g for g in gear if weapon_name.lower() in g['gear_name'].lower()), None)
+                if weapon:
+                    logger.info(f"Fuzzy matched '{weapon_name}' to '{weapon['gear_name']}' in inventory")
+            
+            # TIER 3: Look up in master gear table
+            if not weapon:
+                weapon = self._lookup_weapon_in_master_table(weapon_name)
+            
+            # TIER 4: If still not found, use smart defaults
+            if not weapon:
+                logger.info(f"Weapon '{weapon_name}' not found anywhere, using smart defaults")
+                weapon = {
+                    'gear_name': weapon_name,
+                    'gear_data': self._infer_weapon_stats(weapon_name)
+                }
+            
+            # Get weapon details from gear_data or weapon_stats JSONB
+            weapon_data = weapon.get('gear_data') or weapon.get('weapon_stats', {})
+            weapon_type = weapon_data.get('weapon_type', 'heavy pistol')
+            
+            # Get character's vision enhancements and modifiers from cyberware FIRST
+            # (need to know magnification before determining range)
+            logger.info(f"Fetching cyberware modifiers for character {character['id']}")
+            cyberware = self.crud.get_modifiers(character['id'], source_type='cyberware')
+            logger.info(f"Found {len(cyberware)} cyberware modifiers")
+            
+            vision = {}
+            has_smartlink = False
+            smartlink_bonus = 0
+            auto_magnification = magnification
+            has_flare_comp = False
+            
+            for cyber in cyberware:
+                cyber_source = cyber.get('source', '')
+                target = cyber.get('target_name', '').lower() if cyber.get('target_name') else ''
+                mod_value = cyber.get('modifier_value', 0)
+                
+                logger.info(f"  Cyberware: {cyber_source}, target={target}, value={mod_value}")
+                
+                # Vision enhancements
+                if target == 'thermographic':
+                    vision['thermographic'] = 'cybernetic'
+                    logger.info(f"    -> Thermographic vision detected")
+                elif target == 'lowlight':
+                    vision['lowLight'] = 'cybernetic'
+                    logger.info(f"    -> Low-light vision detected")
+                elif target == 'ultrasound':
+                    vision['ultrasound'] = True
+                    logger.info(f"    -> Ultrasound detected")
+                elif target == 'flare_compensation':
+                    has_flare_comp = True
+                    logger.info(f"    -> Flare compensation detected")
+                elif target == 'magnification':
+                    if mod_value > auto_magnification:
+                        auto_magnification = mod_value
+                        logger.info(f"    -> Magnification {mod_value} detected")
+                
+                # Smartlink - read TN bonus directly from database
+                if target == 'ranged_tn':
+                    has_smartlink = True
+                    smartlink_bonus = mod_value  # Use actual value from database
+                    logger.info(f"    -> Smartlink detected with TN modifier: {smartlink_bonus}")
+            
+            # NOW determine range category with final magnification
+            final_magnification = auto_magnification
+            logger.info(f"=== RANGE CALCULATION ===")
+            logger.info(f"Actual distance: {distance}m")
+            logger.info(f"Magnification: {final_magnification}")
+            logger.info(f"Effective distance: {distance / final_magnification if final_magnification > 0 else distance}m")
+            
+            range_cat = CombatModifiers.determine_range(distance, weapon_type, final_magnification)
+            if not range_cat:
+                return {"error": f"Target at {distance}m is out of range for {weapon_name}"}
+            
+            logger.info(f"Range category: {range_cat}")
+            logger.info(f"=== END RANGE CALCULATION ===")
+            
+            # Build combat parameters
+            if conditions is None:
+                conditions = {}
+            
+            # Add flare compensation to conditions if character has it
+            if has_flare_comp:
+                conditions['flareCompensation'] = True
+                logger.info(f"Added flare compensation to conditions")
+            
+            logger.info(f"Target size: {target_size}")
+            logger.info(f"Target moving: {target_moving}")
+            logger.info(f"Light level: {light_level}")
+            logger.info(f"Conditions: {conditions}")
+            
+            params = {
+                'weapon': {
+                    'smartlink': has_smartlink,
+                    'smartlinkBonus': smartlink_bonus,
+                    'recoilComp': weapon_data.get('recoil_comp', 0)
+                },
+                'range': range_cat,
+                'attacker': {
+                    'hasSmartlink': has_smartlink,
+                    'vision': vision,
+                    'strength': character.get('strength', 1),
+                    'movement': 'stationary'
+                },
+                'defender': {
+                    'size': target_size,
+                    'movement': 'walking' if target_moving else 'stationary',
+                    'prone': target_prone,
+                    'conscious': True
+                },
+                'situation': {
+                    'lightLevel': light_level,
+                    'conditions': conditions,
+                    'calledShot': called_shot,
+                    'recoil': 0,
+                    'magnification': final_magnification
+                }
+            }
+            
+            logger.info(f"Combat params: {params}")
+            
+            # Calculate TN
+            logger.info(f"Calculating ranged TN...")
+            tn_result = CombatModifiers.calculate_ranged_tn(params)
+            logger.info(f"TN calculation result: {tn_result}")
+            
+            # Get character's firearms skill
+            skills = self.crud.get_skills(character['id'])
+            firearms_skill = next((s for s in skills if 'firearm' in s['skill_name'].lower()), None)
+            
+            if not firearms_skill:
+                return {"error": f"{character_name} does not have Firearms skill"}
+            
+            # Add combat pool to dice pool
+            firearms_rating = firearms_skill['current_rating']
+            dice_pool = firearms_rating + combat_pool
+            logger.info(f"Firearms skill: {firearms_rating}, Combat pool: {combat_pool}, Total dice: {dice_pool}")
+            
+            # Roll the dice
+            logger.info(f"Rolling {dice_pool} dice vs TN {tn_result['finalTN']}")
+            roller = DiceRoller()
+            roll_result = roller.roll_with_target_number(dice_pool, tn_result['finalTN'])
+            logger.info(f"Roll result: {roll_result.successes} successes from {roll_result.rolls}")
+            
+            # Convert DiceRoll dataclass to dict
+            roll_dict = {
+                "rolls": roll_result.rolls,
+                "successes": roll_result.successes,
+                "target_number": roll_result.target_number,
+                "pool_size": roll_result.pool_size,
+                "notation": roll_result.notation,
+                "all_ones": roll_result.all_ones,
+                "critical_glitch": roll_result.critical_glitch
+            }
+            
+            logger.info(f"=== RANGED COMBAT COMPLETE ===")
+            
+            # Build result
+            result = {
+                "character": character_name,
+                "weapon": weapon_name,
+                "target": target_name,
+                "distance": distance,
+                "range_category": range_cat,
+                "magnification": final_magnification,
+                "has_smartlink": has_smartlink,
+                "smartlink_bonus": smartlink_bonus if has_smartlink else 0,
+                "vision_enhancements": vision,
+                "base_tn": tn_result['baseTN'],
+                "modifiers": tn_result['modifiers'],
+                "total_modifier": tn_result['totalModifier'],
+                "final_tn": tn_result['finalTN'],
+                "dice_pool": dice_pool,
+                "dice_pool_breakdown": {
+                    "firearms_skill": firearms_rating,
+                    "combat_pool": combat_pool,
+                    "total": dice_pool
+                },
+                "roll": roll_dict,
+                "hit": roll_result.successes > 0,
+                "roll_explanation": f"Rolled {dice_pool} dice (Firearms {firearms_rating}" +
+                                   (f" + {combat_pool} combat pool" if combat_pool > 0 else "") +
+                                   f"). Rolls: {roll_result.rolls}. " +
+                                   f"{roll_result.successes} successes vs TN {tn_result['finalTN']}.",
+                "summary": f"{character_name} fires {weapon_name} at {distance}m ({range_cat} range). " +
+                          f"Firearms {firearms_rating}" +
+                          (f" + {combat_pool} combat pool" if combat_pool > 0 else "") +
+                          f" = {dice_pool} dice vs TN {tn_result['finalTN']}. " +
+                          f"Rolls: {roll_result.rolls}. " +
+                          f"{roll_result.successes} successes. " +
+                          ("HIT!" if roll_result.successes > 0 else "MISS!")
+            }
+            
+            # Log to audit if reason provided
+            if reason:
+                self.crud.log_audit(
+                    character['id'],
+                    'ranged_combat',
+                    {
+                        'weapon': weapon_name,
+                        'distance': distance,
+                        'target': target_name,
+                        'final_tn': tn_result['finalTN'],
+                        'successes': roll_result['successes']
+                    },
+                    reason
+                )
+            
+            return result
+            
         except ValueError as e:
             return {"error": str(e)}
     

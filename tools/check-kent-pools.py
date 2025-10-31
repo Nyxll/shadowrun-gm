@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Check Platinum's combat pool calculation
+Check Kent Jefferies (Platinum) pools in database
 """
 import os
 from dotenv import load_dotenv
@@ -20,23 +20,23 @@ def main():
     try:
         cur = conn.cursor()
         
-        # Get Platinum's stats
+        # Get Kent Jefferies stats
         cur.execute("""
-            SELECT name, combat_pool, current_quickness, current_intelligence, 
-                   current_willpower, karma_pool, magic_pool
+            SELECT name, street_name, combat_pool, current_quickness, 
+                   current_intelligence, current_willpower, karma_pool, magic_pool
             FROM characters 
-            WHERE name='Platinum'
+            WHERE name='Kent Jefferies'
         """)
         
         result = cur.fetchone()
         
         if result:
-            name, combat_pool, quickness, intelligence, willpower, karma_pool, magic_pool = result
+            name, street_name, combat_pool, quickness, intelligence, willpower, karma_pool, magic_pool = result
             
             # SR2 Combat Pool = (Quickness + Intelligence + Willpower) / 2 (round down)
             calculated_combat_pool = (quickness + intelligence + willpower) // 2
             
-            print(f"Character: {name}")
+            print(f"Character: {name} ({street_name})")
             print(f"\nAttributes:")
             print(f"  Quickness: {quickness}")
             print(f"  Intelligence: {intelligence}")
@@ -50,11 +50,11 @@ def main():
             
             if combat_pool != calculated_combat_pool:
                 print(f"\n⚠️  MISMATCH! Stored value ({combat_pool}) != Calculated value ({calculated_combat_pool})")
-                print(f"   The database needs to be updated.")
+                print(f"   Need to update database to {calculated_combat_pool}")
             else:
                 print(f"\n✓ Combat pool is correct!")
         else:
-            print("Platinum character not found!")
+            print("Kent Jefferies character not found!")
         
         cur.close()
     finally:

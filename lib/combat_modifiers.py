@@ -62,14 +62,17 @@ class CombatModifiers:
     FRIENDS_IN_MELEE_PENALTY = 2
     WALKING_PENALTY = 1
     RUNNING_PENALTY = 4
+    DEFENDER_WALKING_PENALTY = 1
     DEFENDER_RUNNING_PENALTY = 2
+    SMALL_TARGET_PENALTY = 2
+    LARGE_TARGET_BONUS = -1
     
     # Light level modifiers (SR2 4-tier system)
     LIGHT_LEVELS = {
         'NORMAL': {'modifier': 0, 'name': 'Normal Light'},
         'PARTIAL': {'modifier': 1, 'name': 'Partial Light'},
         'DIM': {'modifier': 2, 'name': 'Dim Light'},
-        'DARK': {'modifier': 4, 'name': 'Total Darkness'}
+        'DARK': {'modifier': 8, 'name': 'Total Darkness'}
     }
     
     # Range categories
@@ -179,10 +182,13 @@ class CombatModifiers:
                 'Using two weapons'
             )
         elif weapon.get('smartlink') and attacker.get('hasSmartlink'):
+            # Support variable smartlink ratings (default -2, but can be -3 for AEGIS, etc.)
+            smartlink_bonus = weapon.get('smartlinkBonus', cls.SMARTLINK_BONUS)
+            smartlink_rating = weapon.get('smartlinkRating', 2)
             mods.apply(
                 ModifierType.SMARTLINK,
-                cls.SMARTLINK_BONUS,
-                'Smartlink system'
+                smartlink_bonus,
+                f'Smartlink-{smartlink_rating} system'
             )
         
         # 3. Recoil (with optional Strength-based compensation)
@@ -255,11 +261,33 @@ class CombatModifiers:
             )
         
         # 7. Defender movement
-        if defender.get('movement') == 'running':
+        defender_movement = defender.get('movement')
+        if defender_movement == 'walking':
+            mods.apply(
+                ModifierType.DEFENDER_MOVING,
+                cls.DEFENDER_WALKING_PENALTY,
+                'Target walking'
+            )
+        elif defender_movement == 'running':
             mods.apply(
                 ModifierType.DEFENDER_MOVING,
                 cls.DEFENDER_RUNNING_PENALTY,
                 'Target running'
+            )
+        
+        # 7b. Target size
+        target_size = defender.get('size', 'normal').lower()
+        if target_size == 'small':
+            mods.apply(
+                ModifierType.SITUATIONAL,
+                cls.SMALL_TARGET_PENALTY,
+                'Small target'
+            )
+        elif target_size == 'large':
+            mods.apply(
+                ModifierType.SITUATIONAL,
+                cls.LARGE_TARGET_BONUS,
+                'Large target'
             )
         
         # 8. Friends in melee
@@ -425,15 +453,31 @@ class CombatModifiers:
         conditions: Dict[str, Any] = None
     ) -> int:
         """
-        Calculate visibility modifier based on light level and vision enhancements
+        Calculate visibility modifier based on SR2 Visibility Table
+        
+        VISIBILITY TABLE (SR2):
+        Condition                  | Normal | Cyber Low-Light | Natural Low-Light | Cyber Thermo | Natural Thermo
+        Full Darkness              | +8     | +8              | +8                | +4           | +2
+        Minimal Light              | +5     | +4              | +2                | +4           | +2
+        Partial Light              | +2     | +2              | +1                | +2           | +1
+        Glare                      | +2     | +2              | 0                 | 0            | 0
+        Mist                       | +4     | +4              | +2                | 0            | 0
+        Light Smoke/Fog/Rain       | +4     | +4              | +2                | 0            | 0
+        Heavy Smoke/Fog/Rain       | +6     | +6              | +4                | +1           | 0
+        Thermal Smoke              | As smoke | As smoke      | As smoke          | As smoke     | As normal
         
         Args:
-            light_level: Light level (NORMAL, PARTIAL, DIM, DARK)
+            light_level: Light level (NORMAL, PARTIAL, DIM/MINIMAL, DARK/FULL)
             vision: Vision enhancements dict with keys:
-                - thermographic: bool or 'natural'/'cybernetic'
-                - lowLight: bool or 'natural'/'cybernetic'
+                - thermographic: 'natural', 'cybernetic', 'electronic', or bool
+                - lowLight: 'natural', 'cybernetic', or bool
                 - ultrasound: bool
-            conditions: Environmental conditions (smoke, fog)
+            conditions: Environmental conditions dict with keys:
+                - glare: bool
+                - mist: bool
+                - smoke: 'light', 'heavy', or 'thermal'
+                - fog: 'light' or 'heavy'
+                - rain: 'light' or 'heavy'
         
         Returns:
             Total visibility modifier
@@ -443,41 +487,104 @@ class CombatModifiers:
         if conditions is None:
             conditions = {}
         
-        # Get base modifier from light level
-        light_data = CombatModifiers.LIGHT_LEVELS.get(
-            light_level.upper(),
-            CombatModifiers.LIGHT_LEVELS['NORMAL']
-        )
-        modifier = light_data['modifier']
+        # Determine vision type
+        has_natural_thermo = vision.get('thermographic') == 'natural'
+        has_cyber_thermo = vision.get('thermographic') in ['cybernetic', 'electronic', True]
+        has_natural_lowlight = vision.get('lowLight') == 'natural'
+        has_cyber_lowlight = vision.get('lowLight') in ['cybernetic', True]
+        has_ultrasound = vision.get('ultrasound', False)
         
-        # Vision enhancements - natural is better than cybernetic
-        thermo = vision.get('thermographic')
-        if thermo:
-            if thermo == 'natural' or thermo is True:
-                # Natural thermographic: complete darkness becomes +0 or +1
-                modifier = 0 if modifier >= 4 else min(modifier, 1)
-            elif thermo == 'cybernetic':
-                # Cybernetic thermographic: complete darkness becomes +2
-                modifier = 2 if modifier >= 4 else min(modifier, 2)
-        elif vision.get('lowLight'):
-            low_light = vision.get('lowLight')
-            if low_light == 'natural' or low_light is True:
-                # Natural low-light: halve penalty, minimum 0
-                modifier = max(0, modifier // 2)
-            elif low_light == 'cybernetic':
-                # Cybernetic low-light: halve penalty, minimum 1
-                modifier = max(1, modifier // 2) if modifier > 0 else 0
+        # Ultrasound ignores all visibility penalties
+        if has_ultrasound:
+            return 0
         
-        if vision.get('ultrasound'):
-            # Ultrasound ignores light completely
+        modifier = 0
+        light_level_upper = light_level.upper()
+        
+        # Handle environmental conditions first
+        smoke_type = conditions.get('smoke')
+        fog_level = conditions.get('fog')
+        rain_level = conditions.get('rain')
+        has_mist = conditions.get('mist', False)
+        has_glare = conditions.get('glare', False)
+        
+        # Thermal smoke special case
+        if smoke_type == 'thermal':
+            if has_natural_thermo:
+                # Natural thermo treats thermal smoke as normal light conditions
+                pass  # Will use light level modifiers below
+            else:
+                # Everyone else treats it as regular smoke
+                smoke_type = conditions.get('smokeLevel', 'light')  # Default to light if not specified
+        
+        # Environmental conditions (smoke, fog, rain, mist)
+        if smoke_type or fog_level or rain_level:
+            # Determine if heavy or light
+            is_heavy = (smoke_type == 'heavy' or fog_level == 'heavy' or rain_level == 'heavy')
+            
+            if has_natural_thermo:
+                modifier = 0 if not is_heavy else 0
+            elif has_cyber_thermo:
+                modifier = 0 if not is_heavy else 1
+            elif has_natural_lowlight:
+                modifier = 2 if not is_heavy else 4
+            elif has_cyber_lowlight:
+                modifier = 4 if not is_heavy else 6
+            else:
+                modifier = 4 if not is_heavy else 6
+            
+            return modifier
+        
+        if has_mist:
+            if has_natural_thermo or has_cyber_thermo:
+                return 0
+            elif has_natural_lowlight:
+                return 2
+            else:  # Cyber low-light or normal
+                return 4
+        
+        if has_glare:
+            # Check for flare compensation
+            has_flare_comp = conditions.get('flareCompensation', False)
+            if has_flare_comp:
+                return 0  # Flare compensation negates glare
+            elif has_natural_thermo or has_cyber_thermo or has_natural_lowlight:
+                return 0
+            else:  # Cyber low-light or normal
+                return 2
+        
+        # Light level modifiers
+        if light_level_upper in ['DARK', 'FULL', 'FULL DARKNESS', 'TOTAL DARKNESS']:
+            if has_natural_thermo:
+                modifier = 2
+            elif has_cyber_thermo:
+                modifier = 4
+            else:  # Low-light or normal vision
+                modifier = 8
+        elif light_level_upper in ['DIM', 'MINIMAL', 'MINIMAL LIGHT']:
+            if has_natural_thermo:
+                modifier = 2
+            elif has_cyber_thermo:
+                modifier = 4
+            elif has_natural_lowlight:
+                modifier = 2
+            elif has_cyber_lowlight:
+                modifier = 4
+            else:
+                modifier = 5
+        elif light_level_upper in ['PARTIAL', 'PARTIAL LIGHT']:
+            if has_natural_thermo:
+                modifier = 1
+            elif has_cyber_thermo:
+                modifier = 2
+            elif has_natural_lowlight:
+                modifier = 1
+            elif has_cyber_lowlight:
+                modifier = 2
+            else:
+                modifier = 2
+        else:  # NORMAL light
             modifier = 0
-        
-        # Environmental conditions
-        if conditions.get('smoke'):
-            modifier += 4 if conditions['smoke'] == 'heavy' else 2
-        
-        if conditions.get('fog'):
-            modifier += 4 if conditions['fog'] == 'heavy' else 2
         
         return modifier
     
@@ -506,10 +613,16 @@ class CombatModifiers:
         """
         Determine range category based on distance and weapon type
         
+        SR2 Magnification Rules:
+        - Each level of magnification STAGES the range category down by one
+        - Mag 1: Extreme->Long, Long->Medium, Medium->Short, Short->Short
+        - Mag 2: Extreme->Medium, Long->Short, Medium->Short, Short->Short  
+        - Mag 3: Extreme->Short, Long->Short, Medium->Short, Short->Short
+        
         Args:
             distance: Distance to target in meters
             weapon_type: Type of weapon
-            magnification: Optical magnification rating (reduces range category)
+            magnification: Optical magnification rating (stages range category down)
         
         Returns:
             Range category (short, medium, long, extreme) or None if out of range
@@ -519,7 +632,7 @@ class CombatModifiers:
             CombatModifiers.WEAPON_RANGES['heavy pistol']
         )
         
-        # Determine base range category
+        # Determine base range category from actual distance
         if distance <= weapon_ranges['short']:
             base_range = CombatModifiers.RANGE_SHORT
         elif distance <= weapon_ranges['medium']:
@@ -531,10 +644,7 @@ class CombatModifiers:
         else:
             return None  # Out of range
         
-        # Apply magnification (shifts range category toward SHORT)
-        # Mag 1: extreme->long, long->medium, medium->short
-        # Mag 2: extreme->medium, long->short, medium->short
-        # Mag 3: extreme->short, long->short, medium->short
+        # Apply magnification staging (each mag level stages down one category)
         if magnification > 0:
             range_order = [
                 CombatModifiers.RANGE_SHORT,
@@ -545,9 +655,10 @@ class CombatModifiers:
             
             try:
                 current_idx = range_order.index(base_range)
-                # Shift toward SHORT (index 0) by magnification levels
-                new_idx = max(0, current_idx - magnification)
-                return range_order[new_idx]
+                # Stage down by magnification levels (toward SHORT at index 0)
+                # Each magnification level stages down one category
+                staged_idx = max(0, current_idx - magnification)
+                return range_order[staged_idx]
             except ValueError:
                 return base_range
         

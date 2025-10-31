@@ -92,22 +92,23 @@ class DiceRoller:
         
         for _ in range(pool):
             roll = DiceRoller.roll_single_die(sides)
-            rolls.append(roll)
+            combined_value = roll
             
-            # Check for success
-            if roll >= target_number:
-                successes += 1
-            
-            # Exploding dice (Rule of 6)
+            # Exploding dice (Rule of 6) - combine into single value
             if exploding:
                 while roll == sides:
                     roll = DiceRoller.roll_single_die(sides)
-                    rolls.append(roll)
-                    if roll >= target_number:
-                        successes += 1
+                    combined_value += roll
+            
+            # Add the combined value (e.g., 6+4=10)
+            rolls.append(combined_value)
+            
+            # Check for success on combined value
+            if combined_value >= target_number:
+                successes += 1
         
         # Check for all ones (critical glitch)
-        all_ones = all(r == 1 for r in rolls[:pool])  # Only check initial rolls
+        all_ones = all(r == 1 for r in rolls)
         
         return DiceRoll(
             rolls=rolls,

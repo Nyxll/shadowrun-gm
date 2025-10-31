@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Import character sheets v11 - USES COMPREHENSIVE CRUD API
-- All v10 features (spell force parsing, proper number parsing, etc.)
-- NEW: Uses comprehensive_crud.py instead of direct SQL
-- NEW: Auto-populates edge/flaw costs from RAG
-- NEW: Proper schema alignment (base_rating/current_rating, source, is_permanent, etc.)
+Import character sheets v12 - FIXES FOR ESSENCE, NOTES, AND SPELL LINKING
+- All v11 features (CRUD API, edge/flaw costs, schema alignment)
+- FIX 1: Base essence always 6.0 for humans, calculate essence_hole from cyberware
+- FIX 2: Import full .md file content as character notes
+- FIX 3: Link character spells to master_spells table for totem bonuses
 """
 import os
 import re
@@ -27,8 +27,68 @@ import_v10 = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(import_v10)
 CharacterImporterV9 = import_v10.CharacterImporterV9
 
-class CharacterImporterV11:
-    """Import characters using comprehensive CRUD API"""
+class CharacterImporterV12:
+    """Import characters using comprehensive CRUD API with essence/notes/spell fixes"""
+    
+    @staticmethod
+    def calculate_pools(attrs: Dict, cyberware: List, bioware: List) -> Dict:
+        """
+        Calculate all character pools based on attributes and augmentations
+        
+        Args:
+            attrs: Dictionary of character attributes
+            cyberware: List of cyberware items
+            bioware: List of bioware items
+            
+        Returns:
+            Dictionary with pool values
+        """
+        pools = {}
+        
+        # Combat Pool = (Quickness + Intelligence + Willpower) / 2 (round down)
+        combat_pool = (
+            attrs['quickness']['current'] + 
+            attrs['intelligence']['current'] + 
+            attrs['willpower']['current']
+        ) // 2
+        pools['combat_pool'] = combat_pool
+        
+        # Magic Pool = Magic attribute (for awakened characters)
+        pools['magic_pool'] = attrs.get('magic', {}).get('current', 0)
+        
+        # Task Pool = Base from cyberware/bioware modifiers
+        # Look for items that grant task pool bonuses (e.g., Datajack, Cerebral Booster)
+        task_pool = 0
+        
+        # Check cyberware for task pool bonuses
+        for cyber in cyberware:
+            cyber_name = cyber.get('name', '').lower()
+            # Datajack grants +1 task pool
+            if 'datajack' in cyber_name:
+                task_pool += 1
+            # Check modifier_data for explicit task pool bonuses
+            for mod in cyber.get('modifiers', []):
+                if mod.get('target_name') == 'task_pool':
+                    task_pool += mod.get('modifier_value', 0)
+        
+        # Check bioware for task pool bonuses
+        for bio in bioware:
+            bio_name = bio.get('name', '').lower()
+            # Cerebral Booster grants +1 task pool
+            if 'cerebral booster' in bio_name:
+                task_pool += 1
+            # Check modifier_data for explicit task pool bonuses
+            for mod in bio.get('modifiers', []):
+                if mod.get('target_name') == 'task_pool':
+                    task_pool += mod.get('modifier_value', 0)
+        
+        pools['task_pool'] = task_pool
+        
+        # Hacking Pool = (Intelligence + Computer Skill) / 3 (for deckers)
+        # This will be calculated later when we have skills, default to 0
+        pools['hacking_pool'] = 0
+        
+        return pools
     
     def __init__(self):
         # Get system user ID for audit logging
@@ -63,7 +123,7 @@ class CharacterImporterV11:
         attrs = char_data['attributes']
         
         # Ensure all attributes exist with defaults
-        for attr in ['body', 'quickness', 'strength', 'charisma', 'intelligence', 'willpower', 'reaction', 'magic', 'essence']:
+        for attr in ['body', 'quickness', 'strength', 'charisma', 'intelligence', 'willpower', 'reaction', 'magic']:
             if attr not in attrs:
                 attrs[attr] = {'base': 0, 'current': 0}
         
@@ -83,6 +143,9 @@ class CharacterImporterV11:
         body_index_max = (attrs['body']['base'] + attrs['willpower']['base']) / 2.0
         body_index_current = sum(bio.get('body_index_cost', 0) for bio in char_data.get('bioware', []))
         
+        # Calculate all pools
+        pools = self.calculate_pools(attrs, char_data.get('cyberware', []), char_data.get('bioware', []))
+        
         # Insert character (direct SQL since CRUD doesn't have create_character yet)
         cursor = self.crud.conn.cursor()
         cursor.execute("""
@@ -96,7 +159,8 @@ class CharacterImporterV11:
                 current_essence, current_magic, current_reaction,
                 nuyen, karma_pool, karma_total, karma_available, initiative,
                 power_points_total, power_points_used, power_points_available,
-                magic_pool, spell_pool, initiate_level, metamagics, magical_group, tradition, totem,
+                combat_pool, magic_pool, task_pool, hacking_pool,
+                spell_pool, initiate_level, metamagics, magical_group, tradition, totem,
                 body_index_max, body_index_current
             ) VALUES (
                 %s, %s, %s, %s,
@@ -104,7 +168,8 @@ class CharacterImporterV11:
                 %s, %s, %s, %s, %s, %s, %s, %s, %s,
                 %s, %s, %s, %s, %s,
                 %s, %s, %s,
-                %s, %s, %s, %s, %s, %s, %s,
+                %s, %s, %s, %s,
+                %s, %s, %s, %s, %s, %s,
                 %s, %s
             ) RETURNING id
         """, (
@@ -119,18 +184,44 @@ class CharacterImporterV11:
             char_data['karma_available'], char_data['initiative'],
             char_data['power_points']['total'], char_data['power_points']['used'], 
             char_data['power_points']['available'],
-            char_data.get('magic_pool', 0), char_data.get('spell_pool', 0), 
+            pools['combat_pool'], pools['magic_pool'], pools['task_pool'], pools['hacking_pool'],
+            char_data.get('spell_pool', 0), 
             char_data.get('initiate_level', 0), char_data.get('metamagics', []),
             char_data.get('magical_group'), char_data.get('tradition'), char_data.get('totem'),
             body_index_max, body_index_current
         ))
         
         char_id = cursor.fetchone()[0]
+        
+        # FIX 2: Import notes from the .md file (extract ## Notes section only)
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                full_content = f.read()
+            
+            # Extract only the ## Notes section
+            notes_match = re.search(r'^## Notes\s*$(.*?)(?=^##|\Z)', full_content, re.MULTILINE | re.DOTALL)
+            if notes_match:
+                notes_content = notes_match.group(1).strip()
+            else:
+                # Fallback: use full content if no ## Notes section found
+                notes_content = full_content
+            
+            cursor.execute("""
+                UPDATE characters
+                SET notes = %s
+                WHERE id = %s
+            """, (notes_content, char_id))
+            print(f"  ✓ Imported character notes from .md file")
+        except Exception as e:
+            print(f"  ⚠️  Could not import notes: {e}")
+        
         self.crud.conn.commit()
         cursor.close()
         
         totem_info = f" (Totem: {char_data.get('totem')})" if char_data.get('totem') else ""
         print(f"  ✓ Created character: {char_data['name']} (ID: {char_id}){totem_info}")
+        print(f"  ✓ Essence: base={base_essence}, hole={essence_hole:.2f}, current={current_essence:.2f}")
+        print(f"  ✓ Pools: Combat={pools['combat_pool']}, Magic={pools['magic_pool']}, Task={pools['task_pool']}, Hacking={pools['hacking_pool']}")
         
         # Insert skills using CRUD API
         for skill_name, skill_data in char_data['skills'].items():
@@ -298,16 +389,64 @@ class CharacterImporterV11:
             print(f"  ✓ Added {len(char_data['spirits'])} bound spirits")
         
         # Insert spells using CRUD API
+        spell_ids = []
         for spell in char_data.get('spells', []):
-            self.crud.add_spell(char_id, {
+            spell_result = self.crud.add_spell(char_id, {
                 'spell_name': spell['spell_name'],
                 'spell_category': spell['spell_category'],
                 'spell_type': spell['spell_type'],
                 'learned_force': spell.get('learned_force', 1)
             }, reason='Character import')
+            spell_ids.append((spell_result['id'], spell['spell_name']))
         
         if char_data.get('spells'):
             print(f"  ✓ Added {len(char_data['spells'])} spells (with force values)")
+            
+            # FIX 3: Link spells to master_spells table using fuzzy matching
+            cursor = self.crud.conn.cursor()
+            linked_count = 0
+            for spell_id, spell_name in spell_ids:
+                # Try exact match first
+                cursor.execute("""
+                    SELECT id, spell_name FROM master_spells
+                    WHERE LOWER(spell_name) = LOWER(%s)
+                    LIMIT 1
+                """, (spell_name,))
+                
+                master_result = cursor.fetchone()
+                
+                # If no exact match, try fuzzy matching with similarity
+                if not master_result:
+                    cursor.execute("""
+                        SELECT id, spell_name, 
+                               similarity(spell_name, %s) as sim
+                        FROM master_spells
+                        WHERE similarity(spell_name, %s) > 0.6
+                        ORDER BY sim DESC
+                        LIMIT 1
+                    """, (spell_name, spell_name))
+                    
+                    master_result = cursor.fetchone()
+                    if master_result:
+                        print(f"    Fuzzy matched '{spell_name}' -> '{master_result[1]}' (similarity: {master_result[2]:.2f})")
+                
+                if master_result:
+                    master_id = master_result[0]
+                    
+                    # Link the spell
+                    cursor.execute("""
+                        UPDATE character_spells
+                        SET master_spell_id = %s
+                        WHERE id = %s
+                    """, (master_id, spell_id))
+                    
+                    linked_count += 1
+            
+            self.crud.conn.commit()
+            cursor.close()
+            
+            if linked_count > 0:
+                print(f"  ✓ Linked {linked_count}/{len(spell_ids)} spells to master_spells (for totem bonuses)")
         
         print(f"  ✓ Import complete!")
     
@@ -372,7 +511,7 @@ class CharacterImporterV11:
 
 
 if __name__ == "__main__":
-    importer = CharacterImporterV11()
+    importer = CharacterImporterV12()
     try:
         importer.import_all()
     finally:

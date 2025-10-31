@@ -192,24 +192,63 @@ Roll dice pool against target number using Shadowrun rules (exploding 6s).
 
 ---
 
-### 6. calculate_ranged_attack
+### 6. ranged_combat
 
-Calculate complete ranged attack with all character modifiers, vision enhancements, and environmental factors.
+**IMPORTANT: This is the PRIMARY tool for all ranged combat in Shadowrun 2nd Edition. Always use this tool for shooting, throwing, or any ranged attack.**
+
+Calculate complete ranged combat with official SR2 rules including vision modifiers, smartlink bonuses, range categories, environmental conditions, and automatic dice rolling. This tool handles ALL aspects of ranged combat automatically.
 
 **Parameters:**
 - `character_name` (string, required): Name of character making the attack
-- `weapon_name` (string, required): Name of weapon (e.g., 'Morrissey Alta', 'Ares Predator')
-- `target_distance` (integer, required): Distance to target in meters
-- `target_description` (string, required): Description of target (e.g., 'rat', 'human', 'large troll')
-- `environment` (string, required): Environmental conditions (e.g., 'complete darkness', 'dim light', 'normal light')
-- `combat_pool` (integer, optional): Number of combat pool dice to use (0 for calculation only)
+- `weapon_name` (string, required): Name of weapon (e.g., 'Morrissey Alta', 'Ares Predator', 'Uzi III')
+- `distance` (integer, required): Distance to target in meters
+- `target_name` (string, optional): Name of the target (for narrative purposes)
+- `target_moving` (boolean, optional): Is the target moving/running? Default: false
+- `target_prone` (boolean, optional): Is the target prone/lying down? Default: false
+- `light_level` (string, optional): Light level - 'NORMAL', 'PARTIAL', 'DIM', or 'DARK'. Default: 'NORMAL'
+  - **DARK** = pitch black (+8 TN without vision enhancement)
+  - **DIM** = low light (+2 TN without low-light vision)
+  - **PARTIAL** = shadows/twilight (+1 TN)
+  - **NORMAL** = full daylight (no modifier)
+- `conditions` (object, optional): Environmental conditions (glare, mist, smoke, fog, rain, etc.)
+- `magnification` (integer, optional): Optical magnification rating (affects range category)
+- `called_shot` (boolean, optional): Is this a called shot? Default: false
+- `reason` (string, optional): Reason for audit log
 
 **Returns:**
-- Base target number (determined by range category)
-- All applicable modifiers (smartlink, vision, range, etc.)
-- Final target number
-- Dice rolls (if combat_pool > 0)
-- Detailed breakdown
+- Complete combat calculation with all modifiers
+- Automatic dice rolling with success counting
+- Detailed breakdown of all modifiers applied
+- Vision enhancement detection (thermographic, low-light, magnification)
+- Smartlink detection and rating (supports -2 and -3)
+- Range category calculation with magnification support
+- Official SR2 visibility modifiers
+
+**SR2 Visibility Modifiers (Official Table):**
+
+The tool uses the official Shadowrun 2nd Edition visibility modifier table:
+
+| Light Level | Normal Vision | Cyber Low-Light | Natural Low-Light | Cyber Thermographic | Natural Thermographic |
+|-------------|---------------|-----------------|-------------------|---------------------|----------------------|
+| Full Darkness | +8 | +8 | +8 | +4 | +2 |
+| Partial Light | +1 | 0 | 0 | 0 | 0 |
+| Dim Light | +2 | 0 | 0 | 0 | 0 |
+| Glare | +2 | +2 | +2 | 0 | 0 |
+| Mist/Light Fog | +2 | +2 | +2 | 0 | 0 |
+| Moderate Fog | +4 | +4 | +4 | +2 | +1 |
+| Heavy Fog | +6 | +6 | +6 | +4 | +2 |
+| Light Smoke | +2 | +2 | +2 | +1 | 0 |
+| Moderate Smoke | +4 | +4 | +4 | +2 | +1 |
+| Heavy Smoke | +6 | +6 | +6 | +4 | +2 |
+| Light Rain | +1 | +1 | +1 | 0 | 0 |
+| Moderate Rain | +2 | +2 | +2 | +1 | 0 |
+| Heavy Rain | +4 | +4 | +4 | +2 | +1 |
+
+**Key Points:**
+- **Thermographic vision is SUPERIOR in darkness** - only +4 TN (cyber) or +2 TN (natural) vs +8 for normal vision
+- **Natural thermographic is better than cybernetic** - natural is +2, cyber is +4 in full darkness
+- **Low-light vision does NOT help in total darkness** - still +8 TN
+- **Thermographic sees through smoke/fog better** - reduced penalties
 
 **Vision Magnification and Range Categories:**
 
@@ -230,15 +269,21 @@ Each level of magnification moves the effective range category one step closer t
 - With Mag ×2: 55m = medium range (Base TN 5)
 - With Mag ×3: 55m = short range (Base TN 4)
 
-**Example:**
+
+**Smartlink Support:**
+
+The tool automatically detects smartlink cyberware and applies the correct TN modifier:
+- **Standard Smartlink**: -2 TN
+- **Smartlink-3 AEGIS** (Platinum's custom): -3 TN
+
+**Example 1: Basic Shot in Normal Light**
 ```json
 {
   "character_name": "Platinum",
   "weapon_name": "Morrissey Alta",
-  "target_distance": 5,
-  "target_description": "rat in sewer",
-  "environment": "dim light",
-  "combat_pool": 8
+  "distance": 15,
+  "target_name": "guard",
+  "light_level": "NORMAL"
 }
 ```
 
@@ -247,33 +292,152 @@ Each level of magnification moves the effective range category one step closer t
 {
   "character": "Platinum",
   "weapon": "Morrissey Alta",
-  "weapon_type": "hold-out pistol",
-  "target_distance": 5,
-  "vision_magnification": 3,
-  "range_category": "short",
-  "light_level": "DIM",
+  "weapon_type": "heavy pistol",
+  "distance": 15,
+  "range_category": "SHORT",
+  "base_tn": 4,
+  "modifiers": {
+    "range": 0,
+    "light": 0,
+    "smartlink": -3,
+    "target_moving": 0,
+    "target_prone": 0,
+    "called_shot": 0
+  },
+  "final_tn": 1,
   "vision_enhancements": {
     "thermographic": "cybernetic",
-    "lowLight": "cybernetic",
-    "magnification": 3
+    "low_light": "cybernetic",
+    "magnification": 3,
+    "smartlink_rating": 3
   },
-  "combat_modifiers": [
-    {
-      "source": "Smartlink-3 Prototype",
-      "type": "cyberware",
-      "value": -3
-    }
-  ],
-  "base_tn": 4,
-  "combat_bonus": -3,
-  "final_tn": 2,
+  "dice_pool": 12,
   "roll": {
-    "rolls": [6, 5, 4, 2, 6, 3, 5, 1, 4],
-    "successes": 8,
-    "all_ones": false
-  }
+    "rolls": [6, 5, 4, 3, 2, 1, 6, 5, 4, 3, 2, 6],
+    "successes": 9,
+    "glitch": false
+  },
+  "summary": "Platinum shoots Morrissey Alta at guard (15m, SHORT range). Base TN 4, Smartlink-3 -3 = Final TN 1. Rolled 12 dice, got 9 successes."
 }
 ```
+
+**Example 2: Shooting in Pitch Black Sewers (The Rat Scenario)**
+```json
+{
+  "character_name": "Platinum",
+  "weapon_name": "Morrissey Alta",
+  "distance": 57,
+  "target_name": "rat",
+  "target_moving": true,
+  "light_level": "DARK"
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Platinum",
+  "weapon": "Morrissey Alta",
+  "weapon_type": "heavy pistol",
+  "distance": 57,
+  "range_category": "EXTREME",
+  "base_tn": 9,
+  "modifiers": {
+    "range": 4,
+    "light": 4,
+    "smartlink": -3,
+    "target_moving": 2,
+    "target_size": 1,
+    "called_shot": 0
+  },
+  "final_tn": 12,
+  "vision_enhancements": {
+    "thermographic": "cybernetic",
+    "low_light": "cybernetic",
+    "magnification": 3,
+    "smartlink_rating": 3
+  },
+  "visibility_calculation": {
+    "light_level": "DARK",
+    "vision_type": "Cybernetic Thermographic",
+    "base_modifier": 8,
+    "with_thermographic": 4,
+    "explanation": "Full darkness (+8 TN) reduced to +4 with cybernetic thermographic vision"
+  },
+  "dice_pool": 12,
+  "roll": {
+    "rolls": [6, 5, 4, 3, 2, 1, 6, 5, 4, 3, 2, 6],
+    "successes": 0,
+    "glitch": false
+  },
+  "summary": "Platinum shoots Morrissey Alta at rat (57m, EXTREME range, pitch black). Base TN 4 + Range +4 + Darkness +4 (thermographic) + Moving +2 + Small +1 - Smartlink-3 -3 = Final TN 12. Rolled 12 dice, got 0 successes. MISS!"
+}
+```
+
+**Example 3: With Magnification**
+```json
+{
+  "character_name": "Platinum",
+  "weapon_name": "Morrissey Alta",
+  "distance": 57,
+  "target_name": "rat",
+  "light_level": "DARK",
+  "magnification": 3
+}
+```
+
+**Response:**
+```json
+{
+  "character": "Platinum",
+  "weapon": "Morrissey Alta",
+  "weapon_type": "heavy pistol",
+  "distance": 57,
+  "effective_distance": 14,
+  "range_category": "SHORT",
+  "base_tn": 4,
+  "modifiers": {
+    "range": 0,
+    "light": 4,
+    "smartlink": -3,
+    "magnification_used": 3
+  },
+  "final_tn": 5,
+  "vision_enhancements": {
+    "thermographic": "cybernetic",
+    "magnification": 3,
+    "smartlink_rating": 3
+  },
+  "dice_pool": 12,
+  "roll": {
+    "rolls": [6, 5, 4, 3, 2, 1, 6, 5, 4, 3, 2, 6],
+    "successes": 7,
+    "glitch": false
+  },
+  "summary": "Platinum shoots Morrissey Alta at rat (57m with ×3 magnification = 14m effective, SHORT range, pitch black). Base TN 4 + Darkness +4 (thermographic) - Smartlink-3 -3 = Final TN 5. Rolled 12 dice, got 7 successes. HIT!"
+}
+```
+
+**When to Use This Tool:**
+
+✅ **ALWAYS use for:**
+- Any shooting attack (pistols, rifles, SMGs, etc.)
+- Throwing weapons (grenades, knives, etc.)
+- Bow/crossbow attacks
+- Any ranged combat situation
+
+❌ **DO NOT use for:**
+- Melee combat (use melee_combat instead)
+- Spellcasting (use cast_spell instead)
+- Non-combat skill tests (use roll_dice instead)
+
+**AI Assistant Guidelines:**
+
+1. **Always call this tool for ranged attacks** - don't try to calculate modifiers yourself
+2. **Ask for light level** if not specified - it's critical for accuracy
+3. **Trust the dice rolls** - this tool uses DiceRoller, which is reliable
+4. **Present the detailed breakdown** - show the player how the TN was calculated
+5. **Explain vision modifiers** - help players understand why thermographic helps in darkness
 
 ---
 

@@ -410,10 +410,12 @@ class ComprehensiveCRUD:
     def get_character_by_street_name(self, street_name: str, campaign_id: str = None) -> Dict:
         """
         Look up character by street name (optionally scoped to campaign)
+        Uses fuzzy matching with pg_trgm for typos and shortforms
         Street names are typically unique identifiers for shadowrunners
         Returns character with UUID for use in other operations
         """
-        sql = "SELECT * FROM characters WHERE street_name = %s"
+        # Try exact match first (case-insensitive)
+        sql = "SELECT * FROM characters WHERE LOWER(street_name) = LOWER(%s)"
         params = [street_name]
         
         if campaign_id:
@@ -428,6 +430,51 @@ class ComprehensiveCRUD:
         cur = self.conn.cursor()
         cur.execute(sql, params)
         result = cur.fetchone()
+        
+        # If no exact match, try fuzzy matching
+        if not result:
+            logger.info(f"No exact match for '{street_name}', trying fuzzy match...")
+            sql = """
+                SELECT *, similarity(street_name, %s) as sim
+                FROM characters 
+                WHERE similarity(street_name, %s) > 0.3
+            """
+            params = [street_name, street_name]
+            
+            if campaign_id:
+                sql += """ AND id IN (
+                    SELECT character_id FROM character_campaign_links 
+                    WHERE campaign_id = %s
+                )"""
+                params.append(campaign_id)
+            
+            sql += " ORDER BY sim DESC LIMIT 5"  # Get top 5 matches
+            
+            cur.execute(sql, params)
+            results = cur.fetchall()
+            
+            if results:
+                cols = [d[0] for d in cur.description]
+                matches = [dict(zip(cols, row)) for row in results]
+                
+                # Check if top match is significantly better than second match
+                if len(matches) == 1:
+                    # Only one match - use it
+                    character = matches[0]
+                    logger.info(f"Fuzzy matched '{street_name}' to '{character['street_name']}' (similarity: {character['sim']:.3f})")
+                    cur.close()
+                    return character
+                elif matches[0]['sim'] - matches[1]['sim'] > 0.2:
+                    # Top match is significantly better (>0.2 difference) - use it
+                    character = matches[0]
+                    logger.info(f"Fuzzy matched '{street_name}' to '{character['street_name']}' (similarity: {character['sim']:.3f}, next best: {matches[1]['street_name']} at {matches[1]['sim']:.3f})")
+                    cur.close()
+                    return character
+                else:
+                    # Ambiguous - multiple close matches
+                    match_list = ", ".join([f"'{m['street_name']}' ({m['sim']:.2f})" for m in matches[:3]])
+                    cur.close()
+                    raise ValueError(f"Ambiguous character name '{street_name}'. Did you mean: {match_list}?")
         
         if not result:
             cur.close()
@@ -1167,13 +1214,27 @@ class ComprehensiveCRUD:
         return result
     
     # ========== MODIFIERS (FIXED: source not source, is_permanent not is_temporary) ==========
-    def get_modifiers(self, char_id: str, modifier_type: str = None) -> List[Dict]:
+    def get_modifiers(self, char_id: str, modifier_type: str = None, source_type: str = None) -> List[Dict]:
+        """
+        Get modifiers for a character
+        
+        Args:
+            char_id: Character UUID
+            modifier_type: Filter by modifier_type (e.g., 'vision', 'combat', 'attribute')
+            source_type: Filter by source_type (e.g., 'cyberware', 'bioware', 'spell')
+        """
         sql = "SELECT * FROM character_modifiers WHERE character_id = %s AND deleted_at IS NULL"
         params = [char_id]
+        
         if modifier_type:
             sql += " AND modifier_type = %s"
             params.append(modifier_type)
-        sql += " ORDER BY modifier_type, target_name"
+        
+        if source_type:
+            sql += " AND source_type = %s"
+            params.append(source_type)
+        
+        sql += " ORDER BY source, modifier_type DESC, target_name"
         
         cur = self.conn.cursor()
         cur.execute(sql, params)
@@ -1503,6 +1564,27 @@ class ComprehensiveCRUD:
         return result
     
     # ========== AUDIT LOG ==========
+    def log_audit(self, char_id: str, operation: str, details: Dict, reason: str = None):
+        """
+        Manually log an audit entry for operations that don't modify database tables
+        (e.g., dice rolls, combat calculations, spell casting)
+        """
+        self._audit(reason)
+        cur = self.conn.cursor()
+        
+        # Convert details to JSONB
+        if not isinstance(details, Jsonb):
+            details = Jsonb(details)
+        
+        cur.execute("""
+            INSERT INTO audit_log (table_name, operation, record_id, changed_by, change_reason, new_values)
+            VALUES (%s, %s, %s, %s, %s, %s)
+        """, ('characters', operation, char_id, self.user_id, reason, details))
+        
+        self.conn.commit()
+        cur.close()
+        logger.info(f"Logged audit entry: {operation} for character {char_id}")
+    
     def get_audit_log(self, table_name: str = None, record_id: str = None, limit: int = 100) -> List[Dict]:
         sql = "SELECT a.*, u.email as changed_by_email, u.display_name as changed_by_name FROM audit_log a LEFT JOIN users u ON a.changed_by = u.id WHERE 1=1"
         params = []
