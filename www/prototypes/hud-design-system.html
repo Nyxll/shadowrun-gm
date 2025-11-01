@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadowrun GM - HUD Design System</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: #000000;
+            color: #00d9ff;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        
+        .container { max-width: 1400px; margin: 0 auto; }
+        
+        h1 {
+            font-size: 2.5rem;
+            color: #00d9ff;
+            text-shadow: 0 0 20px #00d9ff, 0 0 40px #00d9ff;
+            margin-bottom: 2rem;
+            text-align: center;
+            letter-spacing: 4px;
+        }
+        
+        h2 {
+            font-size: 1.8rem;
+            color: #ff6600;
+            text-shadow: 0 0 10px #ff6600;
+            margin: 2rem 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #ff6600;
+            letter-spacing: 2px;
+        }
+        
+        h3 {
+            font-size: 1.2rem;
+            color: #00d9ff;
+            margin: 1.5rem 0 0.75rem 0;
+            letter-spacing: 1px;
+        }
+        
+        /* Color Palette */
+        .color-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .color-swatch {
+            padding: 2rem 1rem;
+            text-align: center;
+            border: 2px solid #00d9ff;
+            position: relative;
+            clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
+        }
+        
+        .color-swatch::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: repeating-linear-gradient(0deg, rgba(0, 217, 255, 0.03), rgba(0, 217, 255, 0.03) 1px, transparent 1px, transparent 2px);
+            pointer-events: none;
+        }
+        
+        .color-name { font-weight: bold; margin-bottom: 0.5rem; }
+        .color-hex { font-size: 0.9rem; opacity: 0.8; }
+        
+        /* Border Styles */
+        .border-examples {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 1rem 0;
+        }
+        
+        .border-box {
+            padding: 1.5rem;
+            background: #0a0a0a;
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .border-1 {
+            border: 2px solid #00d9ff;
+            box-shadow: 0 0 10px rgba(0, 217, 255, 0.5), inset 0 0 10px rgba(0, 217, 255, 0.1);
+        }
+        
+        .border-2 {
+            border: 2px solid #00d9ff;
+            clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
+            box-shadow: 0 0 15px rgba(0, 217, 255, 0.6);
+        }
+        
+        .border-3 {
+            border: 3px solid #00d9ff;
+            border-image: linear-gradient(135deg, #00d9ff, #ff6600) 1;
+            box-shadow: 0 0 20px rgba(0, 217, 255, 0.4);
+        }
+        
+        .border-4 {
+            border: 2px solid #00d9ff;
+            position: relative;
+        }
+        
+        .border-4::before, .border-4::after {
+            content: '';
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #ff6600;
+        }
+        
+        .border-4::before {
+            top: -2px; left: -2px;
+            border-right: none; border-bottom: none;
+        }
+        
+        .border-4::after {
+            bottom: -2px; right: -2px;
+            border-left: none; border-top: none;
+        }
+        
+        /* HUD Panel */
+        .hud-panel {
+            background: #0a0a0a;
+            border: 2px solid #00d9ff;
+            padding: 1rem;
+            position: relative;
+            clip-path: polygon(15px 0, 100% 0, 100% calc(100% - 15px), calc(100% - 15px) 100%, 0 100%, 0 15px);
+            box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);
+            margin: 1rem 0;
+        }
+        
+        .hud-panel::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: repeating-linear-gradient(0deg, rgba(0, 217, 255, 0.02), rgba(0, 217, 255, 0.02) 1px, transparent 1px, transparent 3px);
+            pointer-events: none;
+        }
+        
+        .panel-header {
+            color: #00d9ff;
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #00d9ff;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 0 0 10px #00d9ff;
+        }
+        
+        .panel-content { color: #ffffff; line-height: 1.8; }
+        
+        /* Stat Boxes */
+        .stat-examples {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .stat-box {
+            background: #050505;
+            border-left: 3px solid #00d9ff;
+            padding: 0.75rem;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+        
+        .stat-box:hover {
+            border-left-color: #ff6600;
+            box-shadow: 0 0 15px rgba(255, 102, 0, 0.3);
+            transform: translateX(5px);
+        }
+        
+        .stat-box::after {
+            content: '';
+            position: absolute;
+            top: 0; right: 0;
+            width: 0; height: 0;
+            border-style: solid;
+            border-width: 0 15px 15px 0;
+            border-color: transparent #00d9ff transparent transparent;
+            opacity: 0.3;
+        }
+        
+        .stat-label {
+            color: #00d9ff;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.25rem;
+        }
+        
+        .stat-value {
+            color: #ffffff;
+            font-size: 1.8rem;
+            font-weight: bold;
+            text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);
+        }
+        
+        /* Hexagonal Stat */
+        .stat-hex {
+            background: #0a0a0a;
+            border: 2px solid #00d9ff;
+            padding: 1rem;
+            text-align: center;
+            clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+            box-shadow: 0 0 15px rgba(0, 217, 255, 0.4);
+            transition: all 0.3s ease;
+        }
+        
+        .stat-hex:hover {
+            box-shadow: 0 0 25px rgba(0, 217, 255, 0.6);
+            transform: scale(1.05);
+        }
+        
+        /* Buttons */
+        .button-examples {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .hud-button {
+            background: transparent;
+            border: 2px solid #00d9ff;
+            color: #00d9ff;
+            padding: 0.75rem 2rem;
+            font-family: 'Courier New', monospace;
+            font-size: 1rem;
+            font-weight: bold;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            clip-path: polygon(8px 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%, 0 8px);
+        }
+        
+        .hud-button::before {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 100%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(0, 217, 255, 0.3), transparent);
+            transition: left 0.5s ease;
+        }
+        
+        .hud-button:hover {
+            background: rgba(0, 217, 255, 0.1);
+            box-shadow: 0 0 20px rgba(0, 217, 255, 0.6);
+            transform: translateY(-2px);
+        }
+        
+        .hud-button:hover::before { left: 100%; }
+        .hud-button:active { transform: translateY(0); }
+        
+        .hud-button.secondary {
+            border-color: #ff6600;
+            color: #ff6600;
+        }
+        
+        .hud-button.secondary:hover {
+            background: rgba(255, 102, 0, 0.1);
+            box-shadow: 0 0 20px rgba(255, 102, 0, 0.6);
+        }
+        
+        /* Inputs */
+        .hud-input {
+            background: #050505;
+            border: 2px solid #00d9ff;
+            color: #00d9ff;
+            padding: 0.75rem 1rem;
+            font-family: 'Courier New', monospace;
+            font-size: 1rem;
+            width: 100%;
+            transition: all 0.3s ease;
+            margin: 1rem 0;
+        }
+        
+        .hud-input:focus {
+            outline: none;
+            box-shadow: 0 0 15px rgba(0, 217, 255, 0.6);
+            background: #0a0a0a;
+        }
+        
+        .hud-input::placeholder { color: rgba(0, 217, 255, 0.4); }
+        
+        /* Sliders */
+        .slider-container { margin: 1rem 0; }
+        
+        .slider-label {
+            color: #00d9ff;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .slider-value {
+            color: #ff6600;
+            font-weight: bold;
+            font-size: 1.2rem;
+            text-shadow: 0 0 10px #ff6600;
+        }
+        
+        .hud-slider {
+            -webkit-appearance: none;
+            width: 100%;
+            height: 8px;
+            background: #0a0a0a;
+            border: 1px solid #00d9ff;
+            outline: none;
+        }
+        
+        .hud-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #00d9ff;
+            cursor: pointer;
+            border: 2px solid #ffffff;
+            box-shadow: 0 0 10px rgba(0, 217, 255, 0.8);
+            clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+        }
+        
+        .hud-slider::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            background: #00d9ff;
+            cursor: pointer;
+            border: 2px solid #ffffff;
+            box-shadow: 0 0 10px rgba(0, 217, 255, 0.8);
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .pulse { animation: pulse 2s ease-in-out infinite; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⚡ SHADOWRUN GM - HUD DESIGN SYSTEM ⚡</h1>
+        
+        <h2>Color Palette</h2>
+        <div class="color-grid">
+            <div class="color-swatch" style="background: #00d9ff;">
+                <div class="color-name">Primary Cyan</div>
+                <div class="color-hex">#00d9ff</div>
+            </div>
+            <div class="color-swatch" style="background: #ff6600;">
+                <div class="color-name">Accent Orange</div>
+                <div class="color-hex">#ff6600</div>
+            </div>
+            <div class="color-swatch" style="background: #000000; border-color: #00d9ff;">
+                <div class="color-name">Background Black</div>
+                <div class="color-hex">#000000</div>
+            </div>
+            <div class="color-swatch" style="background: #0a0a0a;">
+                <div class="color-name">Panel Dark</div>
+                <div class="color-hex">#0a0a0a</div>
+            </div>
+        </div>
+        
+        <h2>Border Styles</h2>
+        <div class="border-examples">
+            <div class="border-box border-1">Glowing Border</div>
+            <div class="border-box

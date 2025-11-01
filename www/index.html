@@ -23,14 +23,26 @@
         }
         
         #header {
-            background: var(--panel-bg);
+            background: var(--darker-bg);
             padding: 1rem;
             border-bottom: 2px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        #header-logo {
+            height: 100px;
+            width: auto;
+        }
+        
+        #header-content {
+            flex: 1;
         }
         
         h1 {
-            color: var(--neon-green);
-            text-shadow: 0 0 10px var(--neon-green);
+            color: var(--neon-cyan);
+            text-shadow: 0 0 10px var(--neon-cyan);
         }
         
         #session-info {
@@ -135,7 +147,7 @@
         
         #sidebar {
             width: 300px;
-            background: var(--panel-bg);
+            background: var(--darker-bg);
             border-left: 2px solid var(--border-color);
             padding: 1rem;
             overflow-y: auto;
@@ -146,7 +158,7 @@
         }
         
         .sidebar-section h3 {
-            color: var(--neon-green);
+            color: var(--neon-cyan);
             margin-bottom: 0.5rem;
             border-bottom: 1px solid var(--border-color);
             padding-bottom: 0.25rem;
@@ -157,9 +169,9 @@
         }
         
         .character-list li {
-            padding: 0.5rem;
-            margin: 0.25rem 0;
-            background: var(--darker-bg);
+            padding: 0.4rem;
+            margin: 0.2rem 0;
+            background: var(--dark-bg);
             border-left: 3px solid var(--border-color);
             display: flex;
             justify-content: space-between;
@@ -228,8 +240,8 @@
         }
         
         .status {
-            padding: 0.5rem;
-            background: var(--darker-bg);
+            padding: 0.4rem;
+            background: var(--dark-bg);
             border-left: 3px solid var(--neon-orange);
             color: var(--neon-orange);
             font-size: 0.9rem;
@@ -251,95 +263,24 @@
             display: block;
         }
         
-        .modal-content {
-            max-width: 800px;
-            margin: 2rem auto;
-            background: #0a0a0a;
-            border: 2px solid #00ff00;
-            padding: 2rem;
-            position: relative;
-        }
-        
-        .modal-close {
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            background: #ff0000;
-            color: #fff;
-            border: none;
-            padding: 0.5rem 1rem;
-            cursor: pointer;
-            font-family: 'Courier New', monospace;
-            font-weight: bold;
-        }
-        
-        .modal-close:hover {
-            background: #cc0000;
-        }
-        
-        .character-sheet {
-            color: #00ff00;
-        }
-        
-        .character-sheet h2 {
-            color: #00ff00;
-            text-shadow: 0 0 10px #00ff00;
-            margin-bottom: 1rem;
-        }
-        
-        .character-sheet h3 {
-            color: #00aa00;
-            margin-top: 1.5rem;
-            margin-bottom: 0.5rem;
-            border-bottom: 1px solid #00aa00;
-        }
-        
-        .stat-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1rem;
-            margin: 1rem 0;
-        }
-        
-        .stat-item {
-            background: #0f0f0f;
-            padding: 0.5rem;
-            border-left: 2px solid #00ff00;
-        }
-        
-        .stat-label {
-            color: #00aa00;
-            font-size: 0.9rem;
-        }
-        
-        .stat-value {
-            color: #00ff00;
-            font-size: 1.2rem;
-            font-weight: bold;
-        }
-        
-        .skill-list {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 0.5rem;
-            margin: 1rem 0;
-        }
-        
-        .skill-item {
-            background: #0f0f0f;
-            padding: 0.5rem;
-            display: flex;
-            justify-content: space-between;
-        }
     </style>
 </head>
-<body data-theme="tron">
+<body data-theme="tron-2">
     <!-- Theme Selector -->
     <div class="theme-selector">
         <button class="theme-button" id="theme-toggle">🎨 THEME</button>
         <div class="theme-dropdown" id="theme-dropdown">
+            <div class="theme-option" data-theme="tron-2">
+                <span><span class="theme-preview"></span>Tron 2 (Blue/Cyan)</span>
+            </div>
+            <div class="theme-option" data-theme="tron-3">
+                <span><span class="theme-preview"></span>Tron 3 (Grayscale)</span>
+            </div>
+            <div class="theme-option" data-theme="tron-4">
+                <span><span class="theme-preview"></span>Tron 4 (Blue)</span>
+            </div>
             <div class="theme-option" data-theme="tron">
-                <span><span class="theme-preview"></span>Tron</span>
+                <span><span class="theme-preview"></span>Tron Classic</span>
             </div>
             <div class="theme-option" data-theme="tron-legacy">
                 <span><span class="theme-preview"></span>Tron Legacy</span>
@@ -363,10 +304,12 @@
     </div>
     
     <div id="header">
-        <h1>⚡ SHADOWRUN GM - LIVE GAME ⚡</h1>
-        <div id="session-info">
-            Session: <span id="session-id">Connecting...</span> | 
-            Status: <span id="connection-status">Connecting...</span>
+        <img id="header-logo" src="../Shadowrun-logo.png" alt="Shadowrun Logo">
+        <div id="header-content">
+            <div id="session-info">
+                Session: <span id="session-id">Connecting...</span> | 
+                Status: <span id="connection-status">Connecting...</span>
+            </div>
         </div>
     </div>
     
@@ -414,12 +357,13 @@
             <div class="sidebar-section">
                 <h3>Debug: Tool Calls</h3>
                 <div id="tool-call-log" style="
-                    background: var(--darker-bg);
+                    background: var(--dark-bg);
                     border: 1px solid var(--border-color);
-                    padding: 0.5rem;
+                    padding: 0.4rem;
                     max-height: 300px;
                     overflow-y: auto;
-                    font-size: 0.8rem;
+                    font-size: 1rem;
+                    line-height: 1.4;
                 ">
                     <div style="color: var(--neon-orange); font-style: italic;">
                         Waiting for tool calls...

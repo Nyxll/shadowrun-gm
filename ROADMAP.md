@@ -392,6 +392,45 @@ Create an MCP server to query a local Supabase/PostgreSQL database containing Sh
   - [ ] Action tracking
   - [ ] Wound modifiers
 
+### 11.4.1 Pool Allocation UI (Future Enhancement) 📋
+**Goal:** Visual controls for allocating dice from various pools during actions
+
+- [ ] **Combat Pool Sliders**
+  - [ ] Add slider control to character sheet showing current combat pool
+  - [ ] Integrate slider into ranged/melee attack UI
+  - [ ] Show remaining pool after allocation
+  - [ ] Validate allocation doesn't exceed maximum
+  - [ ] Reset pool allocation between actions
+  
+- [ ] **Magic Pool Sliders** (for spellcasters)
+  - [ ] Add slider for spellcasting dice allocation
+  - [ ] Add slider for drain resistance dice allocation
+  - [ ] Show total magic pool and remaining after allocation
+  - [ ] Validate total allocation doesn't exceed magic rating
+  
+- [ ] **Hacking Pool Sliders** (for deckers)
+  - [ ] Add slider for hacking action dice allocation
+  - [ ] Show remaining hacking pool
+  - [ ] Integrate with Matrix action UI
+  - [ ] Validate allocation limits
+
+- [ ] **Karma Pool Controls**
+  - [ ] Add karma pool display to character sheet
+  - [ ] Quick-access buttons for karma pool actions:
+    - [ ] Reroll failures
+    - [ ] Avoid disaster (Rule of One)
+    - [ ] Buy extra dice
+    - [ ] Buy successes
+  - [ ] Show karma pool depletion in real-time
+
+**Current Workaround:** AI asks user for pool allocation via chat  
+**Estimated Effort:** 3-4 days for full implementation  
+**Priority:** Medium (quality-of-life improvement)
+
+**Related Issues:**
+- Combat pool showing incorrect value (4 instead of 18) - FIXED in database
+- Need `get_combat_pool` tool for AI to read correct values
+
 ### 11.5 Character Sheet Enhancements ⏳
 - [ ] Complete character sheet renderer
   - [ ] Add spell list display

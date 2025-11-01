@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HUD Design System - Shadowrun GM</title>
+    <link rel="stylesheet" href="hud-styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>⚡ HUD DESIGN SYSTEM ⚡</h1>
+        
+        <section class="section">
+            <h2>Color Palette</h2>
+            <div class="color-grid">
+                <div class="color-swatch" style="background: #00d9ff;">
+                    <div class="color-name">Primary Cyan</div>
+                    <div class="color-hex">#00d9ff</div>
+                </div>
+                <div class="color-swatch" style="background: #ff6600;">
+                    <div class="color-name">Accent Orange</div>
+                    <div class="color-hex">#ff6600</div>
+                </div>
+                <div class="color-swatch" style="background: #000000; border-color: #00d9ff;">
+                    <div class="color-name">Background</div>
+                    <div class="color-hex">#000000</div>
+                </div>
+                <div class="color-swatch" style="background: #0a0a0a;">
+                    <div class="color-name">Panel Dark</div>
+                    <div class="color-hex">#0a0a0a</div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Border Styles</h2>
+            <div class="border-examples">
+                <div class="border-box border-1">Glowing Border</div>
+                <div class="border-box border-2">Angled Corners</div>
+                <div class="border-box border-3">Gradient Border</div>
+                <div class="border-box border-4">Corner Brackets</div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>HUD Panels</h2>
+            <div class="hud-panel">
+                <div class="panel-header">System Status</div>
+                <div class="panel-content">
+                    This is a HUD panel with scanline overlay effect and angled corners.
+                    Perfect for displaying character information, combat stats, or system messages.
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Stat Boxes</h2>
+            <h3>Standard Stat Boxes</h3>
+            <div class="stat-examples">
+                <div class="stat-box">
+                    <div class="stat-label">Body</div>
+                    <div class="stat-value">6</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Quickness</div>
+                    <div class="stat-value">8</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Strength</div>
+                    <div class="stat-value">5</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Intelligence</div>
+                    <div class="stat-value">7</div>
+                </div>
+            </div>
+            
+            <h3>Hexagonal Stat Boxes</h3>
+            <div class="stat-examples">
+                <div class="stat-hex">
+                    <div class="stat-label">Combat Pool</div>
+                    <div class="stat-value">12</div>
+                </div>
+                <div class="stat-hex">
+                    <div class="stat-label">Spell Pool</div>
+                    <div class="stat-value">8</div>
+                </div>
+                <div class="stat-hex">
+                    <div class="stat-label">Karma Pool</div>
+                    <div class="stat-value">3</div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Buttons</h2>
+            <div class="button-examples">
+                <button class="hud-button">Primary Action</button>
+                <button class="hud-button secondary">Secondary Action</button>
+                <button class="hud-button" disabled>Disabled</button>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Input Fields</h2>
+            <input type="text" class="hud-input" placeholder="Enter your action...">
+            <select class="hud-select">
+                <option>Combat Action</option>
+                <option>Skill Check</option>
+                <option>Spellcasting</option>
+                <option>Roleplay</option>
+            </select>
+        </section>
+        
+        <section class="section">
+            <h2>Sliders (Dice Pools)</h2>
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Combat Pool</span>
+                    <span class="slider-value" id="combat-value">6</span>
+                </div>
+                <input type="range" class="hud-slider" min="0" max="12" value="6" id="combat-slider">
+            </div>
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Spell Pool</span>
+                    <span class="slider-value" id="spell-value">4</span>
+                </div>
+                <input type="range" class="hud-slider" min="0" max="10" value="4" id="spell-slider">
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Progress Bars</h2>
+            <div class="progress-container">
+                <div class="progress-bar" style="width: 75%;"></div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" style="width: 40%;"></div>
+            </div>
+        </section>
+    </div>
+    
+    <script>
+        // Slider interactivity
+        document.getElementById('combat-slider').addEventListener('input', function() {
+            document.getElementById('combat-value').textContent = this.value;
+        });
+        document.getElementById('spell-slider').addEventListener('input', function() {
+            document.getElementById('spell-value').textContent = this.value;
+        });
+    </script>
+</body>
+</html>

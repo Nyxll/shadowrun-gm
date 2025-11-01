@@ -119,6 +119,23 @@ def get_mcp_tool_definitions() -> List[Dict]:
         {
             "type": "function",
             "function": {
+                "name": "get_combat_pool",
+                "description": "Get character's combat pool and magic pool ratings. IMPORTANT: Call this BEFORE asking the user about pool dice allocation to show the correct maximum values.",
+                "parameters": {
+                    "type": "object",
+                    "properties": {
+                        "character_name": {
+                            "type": "string",
+                            "description": "Character's street name or given name"
+                        }
+                    },
+                    "required": ["character_name"]
+                }
+            }
+        },
+        {
+            "type": "function",
+            "function": {
                 "name": "ranged_combat",
                 "description": "Calculate ranged combat with SR2 rules including vision modifiers, smartlink bonuses, range categories, and automatic dice rolling. Uses official SR2 visibility table and supports variable smartlink ratings.\n\nIMPORTANT: Before calling this tool, you MUST ask the user:\n1. 'Do you want to commit combat pool dice to this attack?'\n2. If yes: 'How many combat pool dice?' (Max: character's combat pool rating)\n\nThen include the combat_pool parameter with their answer (0 if none). DO NOT make up or assume combat pool values.",
                 "parameters": {

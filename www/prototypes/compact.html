@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compact HUD - Shadowrun GM</title>
+    <link rel="stylesheet" href="hud-compact.css">
+</head>
+<body>
+    <!-- Theme Switcher -->
+    <div class="theme-switcher">
+        <button class="theme-btn active" onclick="setTheme('cyan')" title="Cyan Theme">C</button>
+        <button class="theme-btn" onclick="setTheme('blue')" title="Blue Theme">B</button>
+    </div>
+
+    <div class="container">
+        <h1>⚡ COMPACT HUD ⚡</h1>
+        
+        <section class="section">
+            <h2>Minimal Spacing Design</h2>
+            <div class="hud-panel">
+                <div class="panel-header">System Status</div>
+                <div class="panel-content">
+                    Ultra-compact layout with reduced padding and margins. All spacing cut by 50-75%.
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Stat Boxes</h2>
+            <div class="stat-examples">
+                <div class="stat-box">
+                    <div class="stat-label">Body</div>
+                    <div class="stat-value">6</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Quick</div>
+                    <div class="stat-value">8</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Str</div>
+                    <div class="stat-value">5</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Int</div>
+                    <div class="stat-value">7</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Will</div>
+                    <div class="stat-value">6</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-label">Char</div>
+                    <div class="stat-value">4</div>
+                </div>
+            </div>
+            
+            <h3>Pool Stats</h3>
+            <div class="stat-examples">
+                <div class="stat-hex">
+                    <div class="stat-label">Combat</div>
+                    <div class="stat-value">12</div>
+                </div>
+                <div class="stat-hex">
+                    <div class="stat-label">Spell</div>
+                    <div class="stat-value">8</div>
+                </div>
+                <div class="stat-hex">
+                    <div class="stat-label">Karma</div>
+                    <div class="stat-value">3</div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Action Input</h2>
+            <select class="hud-select">
+                <option>Combat Action</option>
+                <option>Skill Check</option>
+                <option>Spellcasting</option>
+                <option>Roleplay</option>
+                <option>Rules Question</option>
+            </select>
+            <input type="text" class="hud-input" placeholder="Describe your action...">
+        </section>
+        
+        <section class="section">
+            <h2>Dice Pool Allocation</h2>
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Combat Pool</span>
+                    <span class="slider-value" id="combat-value">6</span>
+                </div>
+                <input type="range" class="hud-slider" min="0" max="12" value="6" id="combat-slider">
+            </div>
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Spell Pool</span>
+                    <span class="slider-value" id="spell-value">4</span>
+                </div>
+                <input type="range" class="hud-slider" min="0" max="10" value="4" id="spell-slider">
+            </div>
+            <div class="slider-container">
+                <div class="slider-label">
+                    <span>Karma Pool</span>
+                    <span class="slider-value" id="karma-value">1</span>
+                </div>
+                <input type="range" class="hud-slider" min="0" max="5" value="1" id="karma-slider">
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Buttons</h2>
+            <div class="button-examples">
+                <button class="hud-button">Roll Dice</button>
+                <button class="hud-button secondary">Cast Spell</button>
+                <button class="hud-button">Attack</button>
+                <button class="hud-button secondary">Defend</button>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Progress Indicators</h2>
+            <div class="progress-container">
+                <div class="progress-bar" style="width: 75%;"></div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" style="width: 40%;"></div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" style="width: 90%;"></div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2>Border Styles</h2>
+            <div class="border-examples">
+                <div class="border-box border-1">Glow</div>
+                <div class="border-box border-2">Angled</div>
+                <div class="border-box border-3">Gradient</div>
+                <div class="border-box border-4">Brackets</div>
+            </div>
+        </section>
+    </div>
+    
+    <script>
+        // Slider interactivity
+        document.getElementById('combat-slider').addEventListener('input', function() {
+            document.getElementById('combat-value').textContent = this.value;
+        });
+        document.getElementById('spell-slider').addEventListener('input', function() {
+            document.getElementById('spell-value').textContent = this.value;
+        });
+        document.getElementById('karma-slider').addEventListener('input', function() {
+            document.getElementById('karma-value').textContent = this.value;
+        });
+        
+        // Theme switcher
+        function setTheme(theme) {
+            const body = document.body;
+            const buttons = document.querySelectorAll('.theme-btn');
+            
+            buttons.forEach(btn => btn.classList.remove('active'));
+            
+            if (theme === 'blue') {
+                body.classList.add('theme-blue');
+                buttons[1].classList.add('active');
+            } else {
+                body.classList.remove('theme-blue');
+                buttons[0].classList.add('active');
+            }
+        }
+    </script>
+</body>
+</html>

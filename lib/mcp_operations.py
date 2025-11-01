@@ -1418,6 +1418,27 @@ class MCPOperations:
         except ValueError as e:
             return {"error": str(e)}
     
+    async def get_combat_pool(self, character_name: str) -> Dict:
+        """Get character's combat pool and magic pool ratings"""
+        logger.info(f"Getting combat pool for {character_name}")
+        try:
+            try:
+                character = self.crud.get_character_by_street_name(character_name)
+            except ValueError:
+                character = self.crud.get_character_by_given_name(character_name)
+            
+            combat_pool = character.get('combat_pool', 0)
+            magic_pool = character.get('magic_pool', 0)
+            
+            return {
+                "character": character_name,
+                "combat_pool": combat_pool,
+                "magic_pool": magic_pool,
+                "summary": f"{character_name} has Combat Pool: {combat_pool}, Magic Pool: {magic_pool}"
+            }
+        except ValueError as e:
+            return {"error": str(e)}
+    
     async def get_character_skill(self, character_name: str, skill_name: str) -> Dict:
         """Get specific skill rating"""
         logger.info(f"Getting skill {skill_name} for {character_name}")

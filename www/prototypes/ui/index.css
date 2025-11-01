@@ -1,0 +1,333 @@
+/* Shadowrun GM - Compact Character Sheet Styling */
+/* Color Palette from https://coolors.co/palette/387ba1-266697-12253a-c1ecf0-1c426f-31678d-070e15-94ccd9-13293f-d6f5f6 */
+
+:root {
+    /* Primary Colors from Coolors Palette */
+    --color-primary: #387BA1;      /* Teal Blue */
+    --color-secondary: #266697;    /* Deep Blue */
+    --color-dark-bg: #12253A;      /* Dark Navy */
+    --color-light-cyan: #C1ECF0;   /* Light Cyan */
+    --color-medium-blue: #1C426F;  /* Medium Blue */
+    --color-steel-blue: #31678D;   /* Steel Blue */
+    --color-black: #070E15;        /* Near Black */
+    --color-sky-blue: #94CCD9;     /* Sky Blue */
+    --color-navy: #13293F;         /* Navy */
+    --color-ice: #D6F5F6;          /* Ice Blue */
+    
+    /* Accent Colors */
+    --accent-orange: #ff6600;
+    --accent-glow: #00d9ff;
+    
+    /* Semantic Colors */
+    --bg-dark: var(--color-black);
+    --bg-panel: var(--color-dark-bg);
+    --bg-modal: var(--color-navy);
+    --text-primary: var(--color-light-cyan);
+    --text-secondary: var(--color-sky-blue);
+    --text-accent: var(--color-primary);
+    --border-primary: var(--color-primary);
+    --border-secondary: var(--color-steel-blue);
+}
+
+/* Character Sheet Modal Background with X-Ray */
+.character-sheet-modal {
+    background-image: url('/xray2.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-color: rgba(7, 14, 21, 0.85);
+}
+
+.character-sheet-modal::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        0deg,
+        rgba(56, 123, 161, 0.02),
+        rgba(56, 123, 161, 0.02) 1px,
+        transparent 1px,
+        transparent 2px
+    );
+    pointer-events: none;
+}
+
+/* Compact Spacing */
+.compact-section {
+    margin-bottom: 0.75rem;
+}
+
+.compact-padding {
+    padding: 0.5rem;
+}
+
+.compact-gap {
+    gap: 0.5rem;
+}
+
+/* Stat Box - Compact Style */
+.stat-box-compact {
+    background: rgba(18, 37, 58, 0.6);
+    border-left: 2px solid var(--color-primary);
+    padding: 0.4rem;
+    position: relative;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
+}
+
+.stat-box-compact:hover {
+    border-left-color: var(--accent-orange);
+    box-shadow: 0 0 12px rgba(255, 102, 0, 0.3);
+    transform: translateX(3px);
+}
+
+.stat-box-compact::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 10px 0;
+    border-color: transparent var(--color-primary) transparent transparent;
+    opacity: 0.3;
+}
+
+.stat-label-compact {
+    color: var(--color-primary);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.1rem;
+}
+
+.stat-value-compact {
+    color: var(--color-light-cyan);
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-shadow: 0 0 8px rgba(56, 123, 161, 0.4);
+}
+
+/* Panel Styling - Compact */
+.panel-compact {
+    background: rgba(18, 37, 58, 0.7);
+    border: 1px solid var(--color-primary);
+    padding: 0.5rem;
+    position: relative;
+    clip-path: polygon(10px 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%, 0 10px);
+    box-shadow: 0 0 15px rgba(56, 123, 161, 0.2);
+    backdrop-filter: blur(8px);
+}
+
+.panel-compact::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        0deg,
+        rgba(56, 123, 161, 0.02),
+        rgba(56, 123, 161, 0.02) 1px,
+        transparent 1px,
+        transparent 2px
+    );
+    pointer-events: none;
+}
+
+/* Section Headers - Compact */
+.section-header-compact {
+    color: var(--color-primary);
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--color-primary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 0 0 8px var(--color-primary);
+}
+
+/* Skill List - Compact */
+.skill-item-compact {
+    background: rgba(7, 14, 21, 0.4);
+    padding: 0.4rem;
+    margin-bottom: 0.25rem;
+    border-left: 1px solid var(--color-steel-blue);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.2s ease;
+}
+
+.skill-item-compact:hover {
+    background: rgba(56, 123, 161, 0.2);
+    border-left-color: var(--color-primary);
+    transform: translateX(2px);
+}
+
+.skill-name {
+    color: var(--color-sky-blue);
+    font-size: 0.85rem;
+}
+
+.skill-rating {
+    color: var(--color-light-cyan);
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+/* Cyberware Items - Compact */
+.cyberware-item-compact {
+    background: rgba(18, 37, 58, 0.5);
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-left: 2px solid #9b59b6;
+    backdrop-filter: blur(4px);
+}
+
+.cyberware-name {
+    color: #c39bd3;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-bottom: 0.2rem;
+}
+
+.cyberware-description {
+    color: var(--color-sky-blue);
+    font-size: 0.75rem;
+    opacity: 0.9;
+}
+
+/* Gear List - Compact */
+.gear-list-compact {
+    list-style: none;
+    padding-left: 0;
+}
+
+.gear-list-compact li {
+    color: var(--color-sky-blue);
+    font-size: 0.85rem;
+    padding: 0.2rem 0;
+    padding-left: 1rem;
+    position: relative;
+}
+
+.gear-list-compact li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    color: var(--color-primary);
+}
+
+/* Button Styling - Compact */
+.button-compact {
+    background: transparent;
+    border: 1px solid var(--color-primary);
+    color: var(--color-primary);
+    padding: 0.4rem 1rem;
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    clip-path: polygon(6px 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%, 0 6px);
+}
+
+.button-compact::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(56, 123, 161, 0.3), transparent);
+    transition: left 0.5s ease;
+}
+
+.button-compact:hover {
+    background: rgba(56, 123, 161, 0.1);
+    box-shadow: 0 0 15px rgba(56, 123, 161, 0.5);
+}
+
+.button-compact:hover::before {
+    left: 100%;
+}
+
+/* Grid Layouts - Compact */
+.stat-grid-compact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 0.5rem;
+}
+
+.two-column-compact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .two-column-compact {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Scrollbar Styling */
+.compact-scrollbar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.compact-scrollbar::-webkit-scrollbar-track {
+    background: rgba(56, 123, 161, 0.1);
+}
+
+.compact-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(56, 123, 161, 0.4);
+    border-radius: 3px;
+}
+
+.compact-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(56, 123, 161, 0.6);
+}
+
+/* Text Glow Effects */
+.text-glow-primary {
+    text-shadow: 0 0 5px var(--color-primary), 0 0 10px var(--color-primary);
+}
+
+.text-glow-accent {
+    text-shadow: 0 0 5px var(--accent-orange), 0 0 10px var(--accent-orange);
+}
+
+/* Angled Corners */
+.angled-corners {
+    clip-path: polygon(8px 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%, 0 8px);
+}
+
+/* Hexagonal Stats */
+.stat-hex-compact {
+    background: rgba(18, 37, 58, 0.6);
+    border: 1px solid var(--color-primary);
+    padding: 0.5rem;
+    text-align: center;
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+    box-shadow: 0 0 12px rgba(56, 123, 161, 0.3);
+    transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
+}
+
+.stat-hex-compact:hover {
+    box-shadow: 0 0 20px rgba(56, 123, 161, 0.5);
+    transform: scale(1.05);
+}

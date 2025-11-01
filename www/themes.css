@@ -13,7 +13,41 @@
     --border-color: #00ff00;
 }
 
-/* Tron Theme: Blue/Cyan */
+/* Tron 2 Theme: Professional Blue/Cyan Design */
+[data-theme="tron-2"] {
+    /* Backgrounds: DARKEST colors for depth */
+    --dark-bg: #070f16;        /* rich-black - main background (DARKEST) */
+    --darker-bg: #070f16;      /* rich-black - keep it dark */
+    --panel-bg: #12253a;       /* dark navy - subtle panel distinction */
+    
+    /* Borders: Medium brightness for definition */
+    --border-color: #629cb4;   /* air-superiority-blue - visible borders */
+    
+    /* Text: BRIGHTEST colors for readability */
+    --neon-cyan: #eefaf9;      /* azure-web - BRIGHTEST (titles/highlights) */
+    --neon-green: #d4f5f8;     /* light-cyan - BRIGHT (primary text) */
+    --neon-pink: #387ba1;      /* cerulean - medium (accents) */
+    --neon-orange: #629cb4;    /* air-superiority-blue - medium (secondary) */
+}
+
+/* Tron 3 Theme: Professional Grayscale/Blue Design */
+[data-theme="tron-3"] {
+    /* Backgrounds: DARKEST colors for depth */
+    --dark-bg: #04040A;        /* near-black - main background (DARKEST) */
+    --darker-bg: #04040A;      /* near-black - keep it dark */
+    --panel-bg: #545559;       /* davys-gray - subtle panel distinction */
+    
+    /* Borders: Medium brightness for definition */
+    --border-color: #00528A;   /* lapis-lazuli - blue accent borders */
+    
+    /* Text: BRIGHTEST colors for readability */
+    --neon-cyan: #F8FDFD;      /* white - BRIGHTEST (titles/highlights) */
+    --neon-green: #EBEBEB;     /* antiflash-white - BRIGHT (primary text) */
+    --neon-pink: #ADAEB2;      /* french-gray - medium (accents) */
+    --neon-orange: #D2D3D2;    /* timberwolf - medium (secondary) */
+}
+
+/* Original Tron Theme: Keep for compatibility */
 [data-theme="tron"] {
     --neon-cyan: #6fc3df;
     --neon-green: #00d9ff;
@@ -83,6 +117,23 @@
     --darker-bg: #000000;
     --panel-bg: #0a0a0a;
     --border-color: #ffb000;
+}
+
+/* Tron 4 Theme: Professional Blue Design */
+[data-theme="tron-4"] {
+    /* Backgrounds: DARKEST colors for depth */
+    --dark-bg: #09090D;        /* black - main background (DARKEST) */
+    --darker-bg: #111C30;      /* oxford-blue - darker panels */
+    --panel-bg: #254661;       /* indigo-dye - panel backgrounds */
+    
+    /* Borders: Medium brightness for definition */
+    --border-color: #254661;   /* indigo-dye - subtle borders */
+    
+    /* Text: BRIGHTEST colors for readability */
+    --neon-cyan: #E2F0F8;      /* alice-blue - BRIGHTEST (titles/highlights) */
+    --neon-green: #C7DCF1;     /* columbia-blue - BRIGHT (primary text) */
+    --neon-pink: #254661;      /* indigo-dye - medium (accents) */
+    --neon-orange: #C7DCF1;    /* columbia-blue - medium (secondary) */
 }
 
 /* Theme Selector Styles */
@@ -166,6 +217,14 @@
 }
 
 /* Theme-specific preview colors */
+.theme-option[data-theme="tron-2"] .theme-preview {
+    background: #d4f5f8;
+}
+
+.theme-option[data-theme="tron-3"] .theme-preview {
+    background: #F8FDFD;
+}
+
 .theme-option[data-theme="cyberpunk"] .theme-preview {
     background: #00ff00;
 }
@@ -192,4 +251,8 @@
 
 .theme-option[data-theme="amber"] .theme-preview {
     background: #ffb000;
+}
+
+.theme-option[data-theme="tron-4"] .theme-preview {
+    background: #C7DCF1;
 }

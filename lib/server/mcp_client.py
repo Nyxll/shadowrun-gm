@@ -50,6 +50,9 @@ class MCPClient:
         elif tool_name == "get_character":
             return await self.ops.get_character(arguments.get('character_name'))
         
+        elif tool_name == "get_combat_pool":
+            return await self.ops.get_combat_pool(arguments.get('character_name'))
+        
         elif tool_name == "calculate_ranged_attack":
             return await self.ops.calculate_ranged_attack(
                 arguments.get('character_name'),
