@@ -1,0 +1,443 @@
+TOOLS CLEANUP REVIEW REPORT
+================================================================================
+
+KEEP (172 files)
+--------------------------------------------------------------------------------
+CHARACTER-IMPORT-ANALYSIS.md                       | Does not match archive patterns
+IMPORT-COMPATIBILITY-REPORT.md                     | Does not match archive patterns
+README.md                                          | Does not match archive patterns
+SHAPESHIFTER-DESIGN.md                             | Does not match archive patterns
+XAI-PARSER-README.md                               | Does not match archive patterns
+add-get-combat-pool-tool.py                        | Explicitly listed as essential
+add-platinum-custom-cyberware.py                   | Explicitly listed as essential
+add-platinum-house-rules.py                        | Explicitly listed as essential
+analyze-gm-patterns.py                             | Does not match archive patterns
+apply-pool-migration.py                            | Explicitly listed as essential
+archive-old-schemas.bat                            | Does not match archive patterns
+audit_all_tools.py                                 | Does not match archive patterns
+calculate-body-index.py                            | Does not match archive patterns
+calculate-platinum-shot.py                         | Does not match archive patterns
+check-conversation-history.py                      | Explicitly listed as essential
+check-house-rules-schema.py                        | Explicitly listed as essential
+check-kent-pools.py                                | Explicitly listed as essential
+check-modifier-schema.py                           | Explicitly listed as essential
+check-platinum-combat-pool.py                      | Explicitly listed as essential
+check-recent-chat.py                               | Explicitly listed as essential
+check_characters.py                                | Does not match archive patterns
+check_columns.py                                   | Does not match archive patterns
+check_db_config.py                                 | Does not match archive patterns
+check_modifiers.py                                 | Does not match archive patterns
+check_schema.py                                    | Does not match archive patterns
+check_schemas.py                                   | Does not match archive patterns
+clean-and-reload-characters.py                     | Does not match archive patterns
+clean-duplicate-smartlinks.py                      | Does not match archive patterns
+clean-gear-sections.py                             | Does not match archive patterns
+combine-sql-chunks.js                              | Does not match archive patterns
+comprehensive-fix.js                               | Does not match archive patterns
+count-xai-folders.js                               | Does not match archive patterns
+create-optimized-data-files.js                     | Matches pattern: create-*
+create-test-shaman.py                              | Matches pattern: create-*
+create-user-functions.py                           | Matches pattern: create-*
+enable-fuzzy-matching.py                           | Does not match archive patterns
+enable-fuzzy-matching.sql                          | Does not match archive patterns
+enhance-character-modifiers.py                     | Does not match archive patterns
+enhance-debug-telemetry.py                         | Does not match archive patterns
+enrich-character-data.py                           | Does not match archive patterns
+enrich-from-database.py                            | Does not match archive patterns
+ensure-system-user.py                              | Does not match archive patterns
+expand-mcp-operations.py                           | Does not match archive patterns
+extract-mcp-client.py                              | Does not match archive patterns
+extract-tool-definitions.py                        | Does not match archive patterns
+extract-websocket-handler.py                       | Does not match archive patterns
+extract_reference_data.py                          | Does not match archive patterns
+final-proper-fix.js                                | Does not match archive patterns
+final-type-fix.py                                  | Does not match archive patterns
+find-bad-arrays.js                                 | Matches pattern: find-*
+find-bioware.py                                    | Matches pattern: find-*
+find-effects-code.py                               | Matches pattern: find-*
+find-query-tables.py                               | Matches pattern: find-*
+find-skill-updates.py                              | Matches pattern: find-*
+fix-kent-combat-pool.py                            | Explicitly listed as essential
+fix-platinum-pool.py                               | Explicitly listed as essential
+gear_load_report.txt                               | Does not match archive patterns
+gear_loader.py                                     | Does not match archive patterns
+generate-character-tests.py                        | Does not match archive patterns
+generate-phases-4-5-6-defs.py                      | Does not match archive patterns
+generate-remaining-tool-defs.py                    | Does not match archive patterns
+generate-totem-inserts-v2.py                       | Does not match archive patterns
+generate-totem-inserts.py                          | Does not match archive patterns
+import-characters-v12.py                           | Explicitly listed as essential
+import-spells-dat.py                               | Explicitly listed as essential
+import_characters.py                               | Does not match archive patterns
+insert-via-api.py                                  | Does not match archive patterns
+inspect-roleplay-data.py                           | Does not match archive patterns
+inspect-xai-data.py                                | Does not match archive patterns
+link-character-spells.py                           | Does not match archive patterns
+link-oak-spells.py                                 | Does not match archive patterns
+list-all-character-columns.py                      | Does not match archive patterns
+list-all-characters.py                             | Does not match archive patterns
+list-all-database-objects.js                       | Does not match archive patterns
+list-all-files.py                                  | Does not match archive patterns
+list-characters.py                                 | Does not match archive patterns
+load_csv_data.py                                   | Does not match archive patterns
+load_dat_files.py                                  | Does not match archive patterns
+load_powers_csv.js                                 | Does not match archive patterns
+manticore-api-response.json                        | Does not match archive patterns
+merge-files-39-54.js                               | Does not match archive patterns
+merge-files-55-86.js                               | Does not match archive patterns
+migrate-foreign-keys-to-uuid.py                    | Does not match archive patterns
+migrate-platinum-modifiers.py                      | Does not match archive patterns
+migrate-spells-foci-v2.py                          | Does not match archive patterns
+parse-roleplay-logs.js                             | Matches pattern: parse-*
+parse-xai-exports.js                               | Matches pattern: parse-*
+platinum-api-response.json                         | Does not match archive patterns
+process-roleplay-chunked.js                        | Matches pattern: process-*
+process-xai-batch.js                               | Matches pattern: process-*
+process-xai-with-logging.js                        | Matches pattern: process-*
+quick-crud-test.py                                 | Does not match archive patterns
+rebuild-cyber-bio-functions-fixed.py               | Does not match archive patterns
+rebuild-cyber-bio-functions.py                     | Does not match archive patterns
+reimport-characters.py                             | Does not match archive patterns
+remove-duplicates.py                               | Does not match archive patterns
+remove-old-tool-defs.py                            | Does not match archive patterns
+reorganize-by-dependencies.js                      | Does not match archive patterns
+reset-remote-database.js                           | Does not match archive patterns
+resplit-to-980kb.js                                | Does not match archive patterns
+resplit-to-980kb.py                                | Does not match archive patterns
+roll-platinum-attack.py                            | Does not match archive patterns
+run-xai-parser.bat                                 | Does not match archive patterns
+safe-cleanup-test-data.py                          | Does not match archive patterns
+sample-xai-parse.js                                | Does not match archive patterns
+show-all-user-queries.py                           | Matches pattern: show-*
+show-duplicate-examples.py                         | Matches pattern: show-*
+show-gear-examples.py                              | Matches pattern: show-*
+show-session-history.py                            | Matches pattern: show-*
+show-update-skill-method.py                        | Matches pattern: show-*
+simple-working-fix.js                              | Does not match archive patterns
+split-sql-file.js                                  | Does not match archive patterns
+split-sql-ordered.js                               | Does not match archive patterns
+test-all-characters-api.py                         | Matches pattern: test-*
+test-all-characters.py                             | Matches pattern: test-*
+test-all-patterns.py                               | Matches pattern: test-*
+test-api-actual.py                                 | Matches pattern: test-*
+test-api-cyberware-format.py                       | Matches pattern: test-*
+test-api-debug.py                                  | Matches pattern: test-*
+test-api-endpoint.py                               | Matches pattern: test-*
+test-api-raw-output.py                             | Matches pattern: test-*
+test-api-response.py                               | Matches pattern: test-*
+test-bioware-parse.py                              | Matches pattern: test-*
+test-bioware-parsing.py                            | Matches pattern: test-*
+test-character-api.py                              | Matches pattern: test-*
+test-character-sheet-display.py                    | Matches pattern: test-*
+test-connection.js                                 | Matches pattern: test-*
+test-cost-display.py                               | Matches pattern: test-*
+test-cyberdeck-api.py                              | Matches pattern: test-*
+test-cyberware-display.py                          | Matches pattern: test-*
+test-cyberware-fix.py                              | Matches pattern: test-*
+test-cyberware-lookup.py                           | Matches pattern: test-*
+test-cyberware-query-direct.py                     | Matches pattern: test-*
+test-db-connection.js                              | Matches pattern: test-*
+test-db-connection.py                              | Matches pattern: test-*
+test-edge-parse.py                                 | Matches pattern: test-*
+test-enhanced-server.js                            | Matches pattern: test-*
+test-fuzzy-spell-matching.py                       | Matches pattern: test-*
+test-gear-contacts.py                              | Matches pattern: test-*
+test-get-combat-pool.py                            | Matches pattern: test-*
+test-grouped-cyberware.py                          | Matches pattern: test-*
+test-jsonb-type.py                                 | Matches pattern: test-*
+test-manticore-bioware-api.py                      | Matches pattern: test-*
+test-manticore-shot.py                             | Matches pattern: test-*
+test-mcp-platinum-shot.py                          | Matches pattern: test-*
+test-metatype-pattern.py                           | Matches pattern: test-*
+test-migration-021.py                              | Matches pattern: test-*
+test-parse-sample.js                               | Matches pattern: test-*
+test-pattern.py                                    | Matches pattern: test-*
+test-platinum-api-bioware.py                       | Matches pattern: test-*
+test-platinum-shot-final.py                        | Matches pattern: test-*
+test-platinum-shot-v2.py                           | Matches pattern: test-*
+test-range-staging.py                              | Matches pattern: test-*
+test-reimport-platinum.py                          | Matches pattern: test-*
+test-remote-connection.js                          | Matches pattern: test-*
+test-section-parse.py                              | Matches pattern: test-*
+test-server-import.py                              | Matches pattern: test-*
+test-specific-fuzzy-match.py                       | Matches pattern: test-*
+test-spell-with-timing.py                          | Matches pattern: test-*
+test-spellcasting-v2.py                            | Matches pattern: test-*
+test-spellcasting.py                               | Matches pattern: test-*
+test-telemetry.py                                  | Matches pattern: test-*
+test-ui-character-load.py                          | Matches pattern: test-*
+test-ui-debug.py                                   | Matches pattern: test-*
+test-ui-quick.py                                   | Matches pattern: test-*
+test-unified-server.js                             | Matches pattern: test-*
+test-unparsed-modifiers.py                         | Matches pattern: test-*
+test-v3-import.py                                  | Matches pattern: test-*
+test-vehicle-api.py                                | Matches pattern: test-*
+test-xai-access.js                                 | Matches pattern: test-*
+training-processor.py                              | Does not match archive patterns
+view-query-analytics.js                            | Does not match archive patterns
+
+RECOMMEND ARCHIVING (237 files)
+--------------------------------------------------------------------------------
+
+ADD (10 files):
+  add-all-phases-to-gameserver.py                  | Data addition script (one-time use)
+  add-comprehensive-logging.py                     | Data addition script (one-time use)
+  add-cyberware-modifiers.py                       | Data addition script (one-time use)
+  add-final-tool-defs.py                           | Data addition script (one-time use)
+  add-house-rule-spells.py                         | Data addition script (one-time use)
+  add-missing-platinum-modifiers.py                | Data addition script (one-time use)
+  add-phase1-to-gameserver.py                      | Data addition script (one-time use)
+  add-platinum-smartlink-3.py                      | Data addition script (one-time use)
+  add-spell-force-values.py                        | Data addition script (one-time use)
+  add-spell-timing.py                              | Data addition script (one-time use)
+
+APPLY (20 files):
+  apply-audit-migration.py                         | Migration script (likely already applied)
+  apply-body-index-migration.py                    | Migration script (likely already applied)
+  apply-campaign-migration.py                      | Migration script (likely already applied)
+  apply-character-schema.js                        | Migration script (likely already applied)
+  apply-character-schema.py                        | Migration script (likely already applied)
+  apply-characters-v2-schema.py                    | Migration script (likely already applied)
+  apply-complete-schema.py                         | Migration script (likely already applied)
+  apply-edges-flaws-cost-migration.py              | Migration script (likely already applied)
+  apply-house-rules-schema.js                      | Migration script (likely already applied)
+  apply-magic-fields-migration.py                  | Migration script (likely already applied)
+  apply-migration.py                               | Migration script (likely already applied)
+  apply-missing-modifiers.py                       | Migration script (likely already applied)
+  apply-modifier-fixes.py                          | Migration script (likely already applied)
+  apply-modifiers-schema.js                        | Migration script (likely already applied)
+  apply-powers-uuid-migration.py                   | Migration script (likely already applied)
+  apply-query-logs-schema.js                       | Migration script (likely already applied)
+  apply-schema-v5.py                               | Migration script (likely already applied)
+  apply-spell-force-migration.py                   | Migration script (likely already applied)
+  apply-spells-foci-migration.py                   | Migration script (likely already applied)
+  apply-totem-migration.py                         | Migration script (likely already applied)
+
+AUDIT (3 files):
+  audit-all-operations.py                          | Audit script (one-time use)
+  audit-schema-compliance.py                       | Audit script (one-time use)
+  audit-schema-reads.py                            | Audit script (one-time use)
+
+CHECK (103 files):
+  check-all-character-gear.py                      | One-time diagnostic script
+  check-all-character-modifiers.py                 | One-time diagnostic script
+  check-all-edges-flaws.py                         | One-time diagnostic script
+  check-all-jsonb-fields.js                        | One-time diagnostic script
+  check-all-schemas.py                             | One-time diagnostic script
+  check-all-uuids.py                               | One-time diagnostic script
+  check-api-gear.py                                | One-time diagnostic script
+  check-api-response.py                            | One-time diagnostic script
+  check-attribute-columns.py                       | One-time diagnostic script
+  check-barrett.py                                 | One-time diagnostic script
+  check-bioware-costs.py                           | One-time diagnostic script
+  check-bioware-rule.py                            | One-time diagnostic script
+  check-block-attrs.py                             | One-time diagnostic script
+  check-campaign-schema.py                         | One-time diagnostic script
+  check-categories.py                              | One-time diagnostic script
+  check-character-columns.py                       | One-time diagnostic script
+  check-character-data-completeness.py             | One-time diagnostic script
+  check-character-id-type.py                       | One-time diagnostic script
+  check-character-schema.py                        | One-time diagnostic script
+  check-character-tables.py                        | One-time diagnostic script
+  check-characters-schema.py                       | One-time diagnostic script
+  check-characters.js                              | One-time diagnostic script
+  check-characters.py                              | One-time diagnostic script
+  check-combat-pool-modifiers.py                   | One-time diagnostic script
+  check-contacts-schema.py                         | One-time diagnostic script
+  check-content-types-final.py                     | One-time diagnostic script
+  check-content-types.py                           | One-time diagnostic script
+  check-current-modifiers.py                       | One-time diagnostic script
+  check-cyberdecks.py                              | One-time diagnostic script
+  check-cyberware-essence.py                       | One-time diagnostic script
+  check-cyberware-structure.py                     | One-time diagnostic script
+  check-db-schema.py                               | One-time diagnostic script
+  check-duplicates-remote.py                       | One-time diagnostic script
+  check-duplicates.py                              | One-time diagnostic script
+  check-edges-flaws.py                             | One-time diagnostic script
+  check-enrichment-sources.py                      | One-time diagnostic script
+  check-essence-bioindex.py                        | One-time diagnostic script
+  check-existing-tables.py                         | One-time diagnostic script
+  check-gear-chunks.py                             | One-time diagnostic script
+  check-gear-duplicates.py                         | One-time diagnostic script
+  check-gear-sections.py                           | One-time diagnostic script
+  check-gear-status.py                             | One-time diagnostic script
+  check-gear-types.py                              | One-time diagnostic script
+  check-line-234.py                                | One-time diagnostic script
+  check-magic-characters.py                        | One-time diagnostic script
+  check-manticore-all-modifiers.py                 | One-time diagnostic script
+  check-manticore-api-response.py                  | One-time diagnostic script
+  check-manticore-cyberware-names.py               | One-time diagnostic script
+  check-manticore-gear.py                          | One-time diagnostic script
+  check-manticore-modifiers.py                     | One-time diagnostic script
+  check-manticore.py                               | One-time diagnostic script
+  check-math-spu.py                                | One-time diagnostic script
+  check-mcp-lookups.py                             | One-time diagnostic script
+  check-meaningful-duplicates.sql                  | One-time diagnostic script
+  check-missing-costs.py                           | One-time diagnostic script
+  check-modifier-columns.py                        | One-time diagnostic script
+  check-modifier-data.py                           | One-time diagnostic script
+  check-modifier-descriptions.py                   | One-time diagnostic script
+  check-modifiers-columns.py                       | One-time diagnostic script
+  check-modifiers-table.py                         | One-time diagnostic script
+  check-notes-display.py                           | One-time diagnostic script
+  check-oak-magic-fields.py                        | One-time diagnostic script
+  check-oak-totem.py                               | One-time diagnostic script
+  check-orphaned-modifiers.py                      | One-time diagnostic script
+  check-platinum-bioware.py                        | One-time diagnostic script
+  check-platinum-body-index.py                     | One-time diagnostic script
+  check-platinum-cyberware-structure.py            | One-time diagnostic script
+  check-platinum-cyberware-v2.py                   | One-time diagnostic script
+  check-platinum-cyberware.py                      | One-time diagnostic script
+  check-platinum-edges-flaws.py                    | One-time diagnostic script
+  check-platinum-firearms.py                       | One-time diagnostic script
+  check-platinum-full-api.py                       | One-time diagnostic script
+  check-platinum-gear.py                           | One-time diagnostic script
+  check-platinum-import.py                         | One-time diagnostic script
+  check-platinum-modifiers-simple.py               | One-time diagnostic script
+  check-platinum-modifiers.py                      | One-time diagnostic script
+  check-platinum-name.py                           | One-time diagnostic script
+  check-platinum-skill-modifiers.py                | One-time diagnostic script
+  check-platinum-vehicles.py                       | One-time diagnostic script
+  check-platinum-weapons.py                        | One-time diagnostic script
+  check-powers-migration-status.py                 | One-time diagnostic script
+  check-rag-duplicates.sql                         | One-time diagnostic script
+  check-rag-tables.py                              | One-time diagnostic script
+  check-rule-types.py                              | One-time diagnostic script
+  check-schema-types.py                            | One-time diagnostic script
+  check-schema.py                                  | One-time diagnostic script
+  check-source-sql.js                              | One-time diagnostic script
+  check-spell-category.py                          | One-time diagnostic script
+  check-spell-force.py                             | One-time diagnostic script
+  check-spells-foci-tables.py                      | One-time diagnostic script
+  check-system-status.py                           | One-time diagnostic script
+  check-table-columns.py                           | One-time diagnostic script
+  check-table-schema.py                            | One-time diagnostic script
+  check-table-schemas.py                           | One-time diagnostic script
+  check-tables.py                                  | One-time diagnostic script
+  check-tailored-pheromones.py                     | One-time diagnostic script
+  check-totem-columns.py                           | One-time diagnostic script
+  check-totem-opposed.py                           | One-time diagnostic script
+  check-ui-state.py                                | One-time diagnostic script
+  check-vehicles-imported.py                       | One-time diagnostic script
+  check-vehicles-in-files.py                       | One-time diagnostic script
+  check-vision-modifiers.py                        | One-time diagnostic script
+  check-weapon-data.py                             | One-time diagnostic script
+
+COMPARE (4 files):
+  compare-character-sheets.py                      | Comparison script (one-time use)
+  compare-gpt-models.py                            | Comparison script (one-time use)
+  compare-llms.py                                  | Comparison script (one-time use)
+  compare-weapons.py                               | Comparison script (one-time use)
+
+DEBUG (4 files):
+  debug-bioware-parse.py                           | One-time debugging script
+  debug-gear-regex.py                              | One-time debugging script
+  debug-parent-child-structure.py                  | One-time debugging script
+  debug-platinum-modifiers.py                      | One-time debugging script
+
+DIAGNOSE (1 files):
+  diagnose-test-failures.py                        | Diagnostic script (one-time use)
+
+EXPORT (6 files):
+  export-actual-schema.py                          | Export script (one-time use)
+  export-character-sheets.py                       | Export script (one-time use)
+  export-database-schema-fixed.js                  | Export script (one-time use)
+  export-database-schema.js                        | Export script (one-time use)
+  export-to-v1-gemini-format.py                    | Export script (one-time use)
+  export-to-v1-markdown.py                         | Export script (one-time use)
+
+FIX (43 files):
+  fix-all-remaining.py                             | Fix script (issue likely resolved)
+  fix-all-schema-mismatches.py                     | Fix script (issue likely resolved)
+  fix-all-test-issues.py                           | Fix script (issue likely resolved)
+  fix-all-three-issues.py                          | Fix script (issue likely resolved)
+  fix-all-type-mismatches.py                       | Fix script (issue likely resolved)
+  fix-all-vehicle-stats.py                         | Fix script (issue likely resolved)
+  fix-and-split-data.js                            | Fix script (issue likely resolved)
+  fix-array-quotes.js                              | Fix script (issue likely resolved)
+  fix-array-to-jsonb.js                            | Fix script (issue likely resolved)
+  fix-by-position.js                               | Fix script (issue likely resolved)
+  fix-campaign-schema.py                           | Fix script (issue likely resolved)
+  fix-character-data-complete.py                   | Fix script (issue likely resolved)
+  fix-comprehensive-crud-final.py                  | Fix script (issue likely resolved)
+  fix-cyberware-bioware-ui.py                      | Fix script (issue likely resolved)
+  fix-data-properly.js                             | Fix script (issue likely resolved)
+  fix-foreign-key-constraints.py                   | Fix script (issue likely resolved)
+  fix-game-server.py                               | Fix script (issue likely resolved)
+  fix-json-arrays.js                               | Fix script (issue likely resolved)
+  fix-levels-column.js                             | Fix script (issue likely resolved)
+  fix-levels-jsonb.js                              | Fix script (issue likely resolved)
+  fix-levels-jsonb.py                              | Fix script (issue likely resolved)
+  fix-manticore-math-spu.py                        | Fix script (issue likely resolved)
+  fix-mcp-operations-encoding.py                   | Fix script (issue likely resolved)
+  fix-mcp-operations.py                            | Fix script (issue likely resolved)
+  fix-metatypes-now.py                             | Fix script (issue likely resolved)
+  fix-missing-costs-in-columns.py                  | Fix script (issue likely resolved)
+  fix-old-part-files.js                            | Fix script (issue likely resolved)
+  fix-platinum-cyberware-costs.py                  | Fix script (issue likely resolved)
+  fix-platinum-vehicle-stats.py                    | Fix script (issue likely resolved)
+  fix-query-logs-arrays.js                         | Fix script (issue likely resolved)
+  fix-renderer-api-mismatch.py                     | Fix script (issue likely resolved)
+  fix-renderer-file.py                             | Fix script (issue likely resolved)
+  fix-split-files.py                               | Fix script (issue likely resolved)
+  fix-sql-arrays-jsonb.js                          | Fix script (issue likely resolved)
+  fix-sql-arrays.js                                | Fix script (issue likely resolved)
+  fix-test-unicode.py                              | Fix script (issue likely resolved)
+  fix-text-array-columns.js                        | Fix script (issue likely resolved)
+  fix-text-arrays-final.js                         | Fix script (issue likely resolved)
+  fix-three-issues.py                              | Fix script (issue likely resolved)
+  fix-type-mismatches.py                           | Fix script (issue likely resolved)
+  fix-types-properly.py                            | Fix script (issue likely resolved)
+  fix-users-table.py                               | Fix script (issue likely resolved)
+  fix-websocket-handler.py                         | Fix script (issue likely resolved)
+
+IMPORT (17 files):
+  import-all-spells.py                             | OLD import script (superseded by v12)
+  import-character-sheets.py                       | OLD import script (superseded by v12)
+  import-characters-complete.py                    | OLD import script (superseded by v12)
+  import-characters-enhanced.py                    | OLD import script (superseded by v12)
+  import-characters-v10.py                         | OLD import script (superseded by v12)
+  import-characters-v11.py                         | OLD import script (superseded by v12)
+  import-characters-v6.py                          | OLD import script (superseded by v12)
+  import-characters-v7.py                          | OLD import script (superseded by v12)
+  import-characters-v8.py                          | OLD import script (superseded by v12)
+  import-characters-v9.py                          | OLD import script (superseded by v12)
+  import-characters.py                             | OLD import script (superseded by v12)
+  import-cyberdecks.py                             | OLD import script (superseded by v12)
+  import-historical-campaigns.py                   | OLD import script (superseded by v12)
+  import-master-spells.py                          | OLD import script (superseded by v12)
+  import-platinum-complete.py                      | OLD import script (superseded by v12)
+  import-spells-csv.py                             | OLD import script (superseded by v12)
+  import-training-corpus.py                        | OLD import script (superseded by v12)
+
+UPDATE (7 files):
+  update-all-combat-pools.py                       | Update script (one-time use)
+  update-gameserver-mcp-client.py                  | Update script (one-time use)
+  update-gameserver-websocket.py                   | Update script (one-time use)
+  update-modifier-descriptions.py                  | Update script (one-time use)
+  update-oak-opposed.py                            | Update script (one-time use)
+  update-platinum-body-index-mcp.py                | Update script (one-time use)
+  update-platinum-combat-pool.py                   | Update script (one-time use)
+
+UPLOAD (6 files):
+  upload-supabase-data-postgres.js                 | Upload script (one-time use)
+  upload-supabase-data-v2.js                       | Upload script (one-time use)
+  upload-supabase-data.js                          | Upload script (one-time use)
+  upload-to-cloud-supabase.js                      | Upload script (one-time use)
+  upload-to-remote-supabase.js                     | Upload script (one-time use)
+  upload-via-supabase-api.js                       | Upload script (one-time use)
+
+VERIFY (13 files):
+  verify-actual-schema.py                          | One-time validation script
+  verify-all-body-index.py                         | One-time validation script
+  verify-all-modifiers.py                          | One-time validation script
+  verify-all-types.py                              | One-time validation script
+  verify-body-index.py                             | One-time validation script
+  verify-character-imports.py                      | One-time validation script
+  verify-complete-import.py                        | One-time validation script
+  verify-database.py                               | One-time validation script
+  verify-game-server-fixes.py                      | One-time validation script
+  verify-modifiers.py                              | One-time validation script
+  verify-spell-modifiers.py                        | One-time validation script
+  verify-tables-ready.py                           | One-time validation script
+  verify-v12-fixes.py                              | One-time validation script

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+s!/usr/bin/env python3
 """
 Test all schema fixes in comprehensive_crud.py
 """
@@ -35,15 +35,15 @@ def test_character_lookup():
     try:
         # Test get_character_by_street_name
         char = crud.get_character_by_street_name("Oak")
-        print(f"[PASS] Found character: {char['name']} / {char['street_name']} (UUID: {char['id']})")
+        print(f"✓ Found character: {char['name']} / {char['street_name']} (UUID: {char['id']})")
         
         # Test list_characters
         chars = crud.list_characters()
-        print(f"[PASS] Listed {len(chars)} characters")
+        print(f"✓ Listed {len(chars)} characters")
         
         return char['id']
     except Exception as e:
-        print(f"[FAIL] Error: {e}")
+        print(f"✗ Error: {e}")
         return None
     finally:
         crud.close()
@@ -70,13 +70,13 @@ def test_skills(char_id):
         skills = crud.get_skills(char_id)
         if skills:
             skill = skills[0]
-            print(f"[PASS] Got skill: {skill['skill_name']}")
+            print(f"✓ Got skill: {skill['skill_name']}")
             print(f"  base_rating: {skill.get('base_rating')}")
             print(f"  current_rating: {skill.get('current_rating')}")
         else:
             print("  No skills found")
     except Exception as e:
-        print(f"[FAIL] Error: {e}")
+        print(f"✗ Error: {e}")
     finally:
         crud.close()
 
@@ -100,11 +100,11 @@ def test_spirits(char_id):
     
     try:
         spirits = crud.get_spirits(char_id)
-        print(f"[PASS] Got {len(spirits)} spirits")
+        print(f"✓ Got {len(spirits)} spirits")
         if spirits:
             print(f"  Example: {spirits[0]['spirit_name']}")
     except Exception as e:
-        print(f"[FAIL] Error: {e}")
+        print(f"✗ Error: {e}")
     finally:
         crud.close()
 
@@ -128,14 +128,14 @@ def test_modifiers(char_id):
     
     try:
         modifiers = crud.get_modifiers(char_id)
-        print(f"[PASS] Got {len(modifiers)} modifiers")
+        print(f"✓ Got {len(modifiers)} modifiers")
         if modifiers:
             mod = modifiers[0]
             print(f"  Example: {mod.get('modifier_type')} -> {mod.get('target_name')}")
             print(f"  source: {mod.get('source')}")
             print(f"  is_permanent: {mod.get('is_permanent')}")
     except Exception as e:
-        print(f"[FAIL] Error: {e}")
+        print(f"✗ Error: {e}")
     finally:
         crud.close()
 
